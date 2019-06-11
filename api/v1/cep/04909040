@@ -1,12 +1,12 @@
 {
-  "cep": "04909040",
-  "logradouro": "Rua Xapuri do Acre",
-  "bairro": "Jardim Alfredo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Alfredo",
+    "cep": "04909040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Xapuri do Acre"
 }
