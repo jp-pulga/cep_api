@@ -1,12 +1,12 @@
 {
-  "cep": "35663674",
-  "logradouro": "Travessa Córrego do Barro",
-  "bairro": "Bom Jesus do Pará",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus do Pará",
+    "cep": "35663674",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Travessa Córrego do Barro"
 }

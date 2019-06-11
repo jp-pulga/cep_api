@@ -1,12 +1,12 @@
 {
-  "cep": "35162429",
-  "logradouro": "Rua Jesus Gomes",
-  "bairro": "Córrego Novo",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Córrego Novo",
+    "cep": "35162429",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Jesus Gomes"
 }
