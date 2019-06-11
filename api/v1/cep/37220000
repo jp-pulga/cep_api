@@ -1,12 +1,11 @@
 {
-  "cep": "37220000",
-  "logradouro": "Bom Sucesso",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bom Sucesso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37220000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Sucesso"
+    },
+    "ibge": 3108008
 }

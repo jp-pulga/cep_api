@@ -1,12 +1,12 @@
 {
-  "cep": "31910140",
-  "logradouro": "Rua Bom Jesus do Amparo",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Paulo",
+    "cep": "31910140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Bom Jesus do Amparo"
 }

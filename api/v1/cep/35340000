@@ -1,12 +1,11 @@
 {
-  "cep": "35340000",
-  "logradouro": "Bom Jesus do Galho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bom Jesus do Galho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35340000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Jesus do Galho"
+    },
+    "ibge": 3107802
 }

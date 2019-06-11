@@ -1,12 +1,12 @@
 {
-  "cep": "30250420",
-  "logradouro": "Rua Bom Sucesso",
-  "bairro": "Fazendinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fazendinha",
+    "cep": "30250420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Bom Sucesso"
 }
