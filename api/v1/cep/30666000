@@ -1,12 +1,12 @@
 {
-  "cep": "30666000",
-  "logradouro": "Rua Adriana Bernardo Cesário",
-  "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro)",
+    "cep": "30666000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Adriana Bernardo Cesário"
 }

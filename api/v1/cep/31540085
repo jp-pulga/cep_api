@@ -1,12 +1,13 @@
 {
-  "cep": "31540085",
-  "logradouro": "Beco C",
-  "bairro": "Piratininga (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Piratininga (Venda Nova)",
+    "cep": "31540085",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Beco C"
 }

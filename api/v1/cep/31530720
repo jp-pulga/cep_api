@@ -1,12 +1,13 @@
 {
-  "cep": "31530720",
-  "logradouro": "Beco da Novena",
-  "bairro": "Novo Itamarati",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Itamarati",
+    "cep": "31530720",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Beco da Novena"
 }

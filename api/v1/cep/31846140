@@ -1,12 +1,13 @@
 {
-  "cep": "31846140",
-  "logradouro": "Avenida Mestre Guinard",
-  "bairro": "Lajedo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lajedo",
+    "cep": "31846140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Avenida Mestre Guinard"
 }

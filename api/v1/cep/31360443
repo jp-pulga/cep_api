@@ -1,12 +1,13 @@
 {
-  "cep": "31360443",
-  "logradouro": "Avenida Antônio Francisco Lisboa",
-  "bairro": "Conjunto Confisco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Confisco",
+    "cep": "31360443",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Avenida Antônio Francisco Lisboa"
 }

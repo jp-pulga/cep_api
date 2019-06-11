@@ -1,12 +1,12 @@
 {
-  "cep": "30580040",
-  "logradouro": "Rua das Canoas",
-  "bairro": "Estrela do Oriente",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estrela do Oriente",
+    "cep": "30580040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua das Canoas"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30580080",
-  "logradouro": "Rua Estrela Dourada",
-  "bairro": "Estrela do Oriente",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estrela do Oriente",
+    "cep": "30580080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Estrela Dourada"
 }

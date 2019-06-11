@@ -1,12 +1,12 @@
 {
-  "cep": "30220351",
-  "logradouro": "Beco Oriente",
-  "bairro": "Marçola",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marçola",
+    "cep": "30220351",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Oriente"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "31360102",
-  "logradouro": "Avenida Serrana de 900 ao fim - lado par",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha",
+    "cep": "31360102",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Avenida Serrana - de 900 ao fim - lado par"
 }

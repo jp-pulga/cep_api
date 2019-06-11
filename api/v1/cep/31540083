@@ -1,12 +1,13 @@
 {
-  "cep": "31540083",
-  "logradouro": "Beco A",
-  "bairro": "Piratininga (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Mônica (Venda Nova)",
+    "cep": "31540083",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Beco A"
 }

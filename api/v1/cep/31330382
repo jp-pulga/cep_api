@@ -1,12 +1,13 @@
 {
-  "cep": "31330382",
-  "logradouro": "Avenida Heráclito Mourão de Miranda de 1802 a 2800 - lado par",
-  "bairro": "Castelo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castelo",
+    "cep": "31330382",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Avenida Heráclito Mourão de Miranda - de 1802 a 2800 - lado par"
 }

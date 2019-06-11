@@ -1,12 +1,13 @@
 {
-  "cep": "31744522",
-  "logradouro": "Avenida Cristiano Machado de 11500 a 12998 - lado par",
-  "bairro": "Juliana",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Juliana",
+    "cep": "31744522",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Avenida Cristiano Machado - de 11500 a 12998 - lado par"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "31570010",
-  "logradouro": "Avenida Elias Antônio Issa",
-  "bairro": "Letícia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Letícia",
+    "cep": "31570010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 3106200,
+    "logradouro": "Avenida Elias Antônio Issa"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31742319",
-  "logradouro": "Rua Antenor Valentin Mendes",
-  "bairro": "Jardim Guanabara",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Guanabara",
+    "cep": "31742319",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antenor Valentin Mendes"
 }
