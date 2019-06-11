@@ -1,12 +1,12 @@
 {
-  "cep": "35303040",
-  "logradouro": "Travessa Edith Dias Muniz",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "35303040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Travessa Edith Dias Muniz"
 }

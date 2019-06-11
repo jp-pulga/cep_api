@@ -1,12 +1,12 @@
 {
-  "cep": "30421505",
-  "logradouro": "Beco Antônio Carlos",
-  "bairro": "Ventosa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ventosa",
+    "cep": "30421505",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Antônio Carlos"
 }

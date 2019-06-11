@@ -1,12 +1,12 @@
 {
-  "cep": "36020010",
-  "logradouro": "Rua Antônio Dias Tostes",
-  "bairro": "Poço Rico",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Poço Rico",
+    "cep": "36020010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Antônio Dias Tostes"
 }

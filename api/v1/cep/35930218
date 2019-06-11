@@ -1,12 +1,12 @@
 {
-  "cep": "35930218",
-  "logradouro": "Rua Antônio Dias",
-  "bairro": "José Elói",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "José Elói",
+    "cep": "35930218",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Antônio Dias"
 }

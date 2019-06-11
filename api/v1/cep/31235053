@@ -1,12 +1,12 @@
 {
-  "cep": "31235053",
-  "logradouro": "Avenida Presidente Antônio Carlos de 2101 a 2899 - lado ímpar",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "31235053",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Antônio Carlos - de 2101 a 2899 - lado ímpar"
 }

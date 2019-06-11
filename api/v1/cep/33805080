@@ -1,12 +1,12 @@
 {
-  "cep": "33805080",
-  "logradouro": "Rua Miguel Dias Filho",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "33805080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Miguel Dias Filho"
 }

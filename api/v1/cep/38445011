@@ -1,12 +1,12 @@
 {
-  "cep": "38445011",
-  "logradouro": "Rua Antônio Marcelino Dias",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso",
+    "cep": "38445011",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Antônio Marcelino Dias"
 }

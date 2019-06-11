@@ -1,12 +1,12 @@
 {
-  "cep": "36202300",
-  "logradouro": "Rua Monsenhor Antônio Carlos",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião",
+    "cep": "36202300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Monsenhor Antônio Carlos"
 }

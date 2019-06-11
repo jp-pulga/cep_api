@@ -1,12 +1,12 @@
 {
-  "cep": "31210010",
-  "logradouro": "Avenida Presidente Antônio Carlos até 999 - lado ímpar",
-  "bairro": "Lagoinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoinha",
+    "cep": "31210010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Antônio Carlos - até 999 - lado ímpar"
 }
