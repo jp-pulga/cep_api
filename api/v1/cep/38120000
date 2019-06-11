@@ -1,12 +1,10 @@
 {
-  "cep": "38120000",
-  "logradouro": "Conceição das Alagoas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Conceição das Alagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
+    "cep": "38120000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição das Alagoas"
     }
-  }
 }

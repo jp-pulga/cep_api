@@ -1,12 +1,12 @@
 {
-  "cep": "37901532",
-  "logradouro": "Rua dos Aimorés",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida",
+    "cep": "37901532",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua dos Aimorés"
 }

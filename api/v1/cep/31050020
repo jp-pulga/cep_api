@@ -1,12 +1,12 @@
 {
-  "cep": "31050020",
-  "logradouro": "Avenida Santa Albertina",
-  "bairro": "Casa Branca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Casa Branca",
+    "cep": "31050020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Santa Albertina"
 }

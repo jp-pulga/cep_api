@@ -1,12 +1,12 @@
 {
-  "cep": "34712120",
-  "logradouro": "Rua Santa Albertina",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte",
+    "cep": "34712120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Santa Albertina"
 }

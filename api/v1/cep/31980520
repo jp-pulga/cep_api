@@ -1,12 +1,12 @@
 {
-  "cep": "31980520",
-  "logradouro": "Rua Conceição das Alagoas",
-  "bairro": "São Gabriel",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Gabriel",
+    "cep": "31980520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Conceição das Alagoas"
 }

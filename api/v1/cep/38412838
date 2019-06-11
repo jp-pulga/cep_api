@@ -1,12 +1,12 @@
 {
-  "cep": "38412838",
-  "logradouro": "Rua Aimorés",
-  "bairro": "Jardim Holanda",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Holanda",
+    "cep": "38412838",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Aimorés"
 }

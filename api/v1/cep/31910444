@@ -1,12 +1,12 @@
 {
-  "cep": "31910444",
-  "logradouro": "Rua Aiuruoca",
-  "bairro": "Fernão Dias",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fernão Dias",
+    "cep": "31910444",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Aiuruoca"
 }
