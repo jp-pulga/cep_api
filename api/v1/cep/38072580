@@ -1,12 +1,12 @@
 {
-  "cep": "38072580",
-  "logradouro": "Rua do Café",
-  "bairro": "Indianópolis",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Indianópolis",
+    "cep": "38072580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua do Café"
 }

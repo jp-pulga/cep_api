@@ -1,12 +1,12 @@
 {
-  "cep": "32223570",
-  "logradouro": "Rodovia BR-381 do km 0001 ao km 0999 - lado ímpar",
-  "bairro": "Inconfidentes",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Inconfidentes",
+    "cep": "32223570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rodovia BR-381 - do km 0,001 ao km 0,999 - lado ímpar"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32260445",
-  "logradouro": "Rua Antônio Henriques Nogueira",
-  "bairro": "Inconfidentes",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Inconfidentes",
+    "cep": "32260445",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Antônio Henriques Nogueira"
 }

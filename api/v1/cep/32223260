@@ -1,12 +1,12 @@
 {
-  "cep": "32223260",
-  "logradouro": "Rua Benfica Magalhães",
-  "bairro": "Inconfidentes",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Inconfidentes",
+    "cep": "32223260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Benfica Magalhães"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38040010",
-  "logradouro": "Rua Indianópolis",
-  "bairro": "Jardim Induberaba",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Induberaba",
+    "cep": "38040010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Indianópolis"
 }
