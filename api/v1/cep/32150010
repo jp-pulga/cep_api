@@ -1,12 +1,12 @@
 {
-  "cep": "32150010",
-  "logradouro": "Rua Alpinópolis",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião",
+    "cep": "32150010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Alpinópolis"
 }

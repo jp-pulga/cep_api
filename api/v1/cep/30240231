@@ -1,12 +1,12 @@
 {
-  "cep": "30240231",
-  "logradouro": "Beco Almenara",
-  "bairro": "Serra",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra",
+    "cep": "30240231",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Almenara"
 }

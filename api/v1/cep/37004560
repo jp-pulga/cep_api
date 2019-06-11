@@ -1,12 +1,12 @@
 {
-  "cep": "37004560",
-  "logradouro": "Rua Doutor Alfredo Vasconcelos",
-  "bairro": "Vila Floresta",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Floresta",
+    "cep": "37004560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Doutor Alfredo Vasconcelos"
 }

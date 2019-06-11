@@ -1,12 +1,11 @@
 {
-  "cep": "35138000",
-  "logradouro": "Alpercata",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alpercata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35138000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alpercata"
+    },
+    "ibge": 3101805
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31130230",
-  "logradouro": "Rua Almenara",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeirinha",
+    "cep": "31130230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Almenara"
 }

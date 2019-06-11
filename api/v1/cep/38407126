@@ -1,12 +1,12 @@
 {
-  "cep": "38407126",
-  "logradouro": "Rua Alpercatas",
-  "bairro": "Morumbi",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morumbi",
+    "cep": "38407126",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Alpercatas"
 }
