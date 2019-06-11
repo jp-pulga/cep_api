@@ -1,12 +1,12 @@
 {
-  "cep": "30330330",
-  "logradouro": "Rua Campo Belo",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro",
+    "cep": "30330330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Campo Belo"
 }

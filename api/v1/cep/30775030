@@ -1,12 +1,12 @@
 {
-  "cep": "30775030",
-  "logradouro": "Rua Campos Altos",
-  "bairro": "Alto Caiçaras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto Caiçaras",
+    "cep": "30775030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Campos Altos"
 }

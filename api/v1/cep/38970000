@@ -1,12 +1,11 @@
 {
-  "cep": "38970000",
-  "logradouro": "Campos Altos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Campos Altos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38970000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campos Altos"
+    },
+    "ibge": 3111507
 }

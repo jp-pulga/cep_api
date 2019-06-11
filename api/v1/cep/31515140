@@ -1,12 +1,12 @@
 {
-  "cep": "31515140",
-  "logradouro": "Rua Campo Alegre",
-  "bairro": "Venda Nova",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Venda Nova",
+    "cep": "31515140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Campo Alegre"
 }

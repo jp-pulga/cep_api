@@ -1,12 +1,12 @@
 {
-  "cep": "38070150",
-  "logradouro": "Rua Campos Altos",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista",
+    "cep": "38070150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Campos Altos"
 }

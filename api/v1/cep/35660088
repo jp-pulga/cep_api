@@ -1,12 +1,12 @@
 {
-  "cep": "35660088",
-  "logradouro": "Rua Campos Altos",
-  "bairro": "Vila Sinhô",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Sinhô",
+    "cep": "35660088",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Campos Altos"
 }

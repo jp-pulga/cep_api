@@ -1,12 +1,12 @@
 {
-  "cep": "36204232",
-  "logradouro": "Rua Horácio Campos Belo",
-  "bairro": "Caminho Novo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caminho Novo",
+    "cep": "36204232",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Horácio Campos Belo"
 }

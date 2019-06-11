@@ -1,12 +1,12 @@
 {
-  "cep": "31730360",
-  "logradouro": "Rua Cajá",
-  "bairro": "Campo Alegre",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campo Alegre",
+    "cep": "31730360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cajá"
 }
