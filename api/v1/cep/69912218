@@ -1,12 +1,12 @@
 {
-  "cep": "69912218",
-  "logradouro": "Rua José do Vale",
-  "bairro": "Plácido de Castro",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Plácido de Castro",
+    "cep": "69912218",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua José do Vale"
 }

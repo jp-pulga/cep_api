@@ -1,12 +1,12 @@
 {
-  "cep": "69912212",
-  "logradouro": "Rua Dourado",
-  "bairro": "Plácido de Castro",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Plácido de Castro",
+    "cep": "69912212",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Dourado"
 }
