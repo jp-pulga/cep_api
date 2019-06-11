@@ -1,12 +1,13 @@
 {
-  "cep": "37500018",
-  "logradouro": "Avenida Coronel Carneiro Júnior",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "37500018",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Coronel Carneiro Júnior"
 }

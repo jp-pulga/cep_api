@@ -1,12 +1,13 @@
 {
-  "cep": "37501059",
-  "logradouro": "Avenida Cesário Alvim",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha",
+    "cep": "37501059",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Cesário Alvim"
 }

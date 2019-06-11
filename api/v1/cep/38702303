@@ -1,12 +1,12 @@
 {
-  "cep": "38702303",
-  "logradouro": "Rua João Simão da Rocha",
-  "bairro": "Jardim Itamarati",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Itamarati",
+    "cep": "38702303",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua João Simão da Rocha"
 }

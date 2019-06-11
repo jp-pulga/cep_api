@@ -1,12 +1,13 @@
 {
-  "cep": "37500205",
-  "logradouro": "Avenida Bps de 1132 a 1696 - lado par",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "37500205",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Bps - de 1132 a 1696 - lado par"
 }

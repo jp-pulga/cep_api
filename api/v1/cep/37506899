@@ -1,12 +1,13 @@
 {
-  "cep": "37506899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Itajubá",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Itajubá",
+    "cep": "37506899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Área Rural"
 }

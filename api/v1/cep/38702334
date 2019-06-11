@@ -1,12 +1,12 @@
 {
-  "cep": "38702334",
-  "logradouro": "Rua Mestre Sal",
-  "bairro": "Jardim Itamarati",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Itamarati",
+    "cep": "38702334",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Mestre Sal"
 }

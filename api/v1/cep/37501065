@@ -1,12 +1,13 @@
 {
-  "cep": "37501065",
-  "logradouro": "Avenida Doutor Antônio Braga Filho de 892/893 ao fim",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha",
+    "cep": "37501065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Doutor Antônio Braga Filho - de 892\/893 ao fim"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37500207",
-  "logradouro": "Avenida Bps de 1517 a 2115 - lado ímpar",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "37500207",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Bps - de 1517 a 2115 - lado ímpar"
 }

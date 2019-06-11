@@ -1,12 +1,13 @@
 {
-  "cep": "37504000",
-  "logradouro": "Avenida José Manoel Pereira",
-  "bairro": "Avenida",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Avenida",
+    "cep": "37504000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida José Manoel Pereira"
 }

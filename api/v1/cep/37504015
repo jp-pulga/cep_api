@@ -1,12 +1,13 @@
 {
-  "cep": "37504015",
-  "logradouro": "Avenida Engenheiro Pedro Fonseca Paiva até 96/97",
-  "bairro": "Avenida",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Avenida",
+    "cep": "37504015",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Engenheiro Pedro Fonseca Paiva - até 96\/97"
 }

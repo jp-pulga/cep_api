@@ -1,12 +1,12 @@
 {
-  "cep": "38702312",
-  "logradouro": "Rua Professor Antônio de Brito Vaz",
-  "bairro": "Jardim Itamarati",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Itamarati",
+    "cep": "38702312",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Professor Antônio de Brito Vaz"
 }

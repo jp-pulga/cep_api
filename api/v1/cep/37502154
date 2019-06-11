@@ -1,12 +1,13 @@
 {
-  "cep": "37502154",
-  "logradouro": "Avenida Eduardo José Storino de 239/240 ao fim",
-  "bairro": "Medicina",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Medicina",
+    "cep": "37502154",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Eduardo José Storino - de 239\/240 ao fim"
 }

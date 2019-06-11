@@ -1,12 +1,13 @@
 {
-  "cep": "37505065",
-  "logradouro": "Avenida dos Ferroviários de 233/234 ao fim",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista",
+    "cep": "37505065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida dos Ferroviários - de 233\/234 ao fim"
 }

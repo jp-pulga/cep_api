@@ -1,12 +1,12 @@
 {
-  "cep": "35500260",
-  "logradouro": "Rua Itaguara",
-  "bairro": "Vila Espírito Santo",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Espírito Santo",
+    "cep": "35500260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Itaguara"
 }

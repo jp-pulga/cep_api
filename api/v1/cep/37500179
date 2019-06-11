@@ -1,12 +1,13 @@
 {
-  "cep": "37500179",
-  "logradouro": "Avenida Bps de 716 a 1130 - lado par",
-  "bairro": "Pinheirinho",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pinheirinho",
+    "cep": "37500179",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Bps - de 716 a 1130 - lado par"
 }

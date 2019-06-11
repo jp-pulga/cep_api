@@ -1,12 +1,13 @@
 {
-  "cep": "37505028",
-  "logradouro": "Avenida Capitão Gomes",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista",
+    "cep": "37505028",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Capitão Gomes"
 }

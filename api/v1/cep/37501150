@@ -1,12 +1,13 @@
 {
-  "cep": "37501150",
-  "logradouro": "Avenida Doutor Henriqueto Cardinali até 256/257",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha",
+    "cep": "37501150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Doutor Henriqueto Cardinali - até 256\/257"
 }

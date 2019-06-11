@@ -1,12 +1,11 @@
 {
-  "cep": "39670000",
-  "logradouro": "Itamarandiba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itamarandiba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39670000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itamarandiba"
+    },
+    "ibge": 3132503
 }

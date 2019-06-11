@@ -1,12 +1,12 @@
 {
-  "cep": "38702324",
-  "logradouro": "Rua Maria Dores Borges",
-  "bairro": "Jardim Itamarati",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Itamarati",
+    "cep": "38702324",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Maria Dores Borges"
 }

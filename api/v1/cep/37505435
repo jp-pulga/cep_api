@@ -1,12 +1,13 @@
 {
-  "cep": "37505435",
-  "logradouro": "Alameda Gabriel dos Santos Cardoso",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte",
+    "cep": "37505435",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Alameda Gabriel dos Santos Cardoso"
 }

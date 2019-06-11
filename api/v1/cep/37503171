@@ -1,12 +1,13 @@
 {
-  "cep": "37503171",
-  "logradouro": "Avenida Ana Carneiro Renno de 536/537 ao fim",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia",
+    "cep": "37503171",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "ibge": 3132404,
+    "logradouro": "Avenida Ana Carneiro Renno - de 536\/537 ao fim"
 }
