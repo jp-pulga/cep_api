@@ -1,12 +1,11 @@
 {
-  "cep": "38230000",
-  "logradouro": "Fronteira",
-  "bairro": "",
-  "cidade": {
-    "nome": "Fronteira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38230000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fronteira"
+    },
+    "ibge": 3127008
 }

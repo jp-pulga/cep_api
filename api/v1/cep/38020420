@@ -1,12 +1,12 @@
 {
-  "cep": "38020420",
-  "logradouro": "Rua Frutal",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Benedito",
+    "cep": "38020420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Frutal"
 }
