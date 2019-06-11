@@ -1,12 +1,13 @@
 {
-  "cep": "93260555",
-  "logradouro": "Avenida Osmundo Reupert",
-  "bairro": "Tamandaré",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tamandaré",
+    "cep": "93260555",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Osmundo Reupert"
 }

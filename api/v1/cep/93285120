@@ -1,12 +1,13 @@
 {
-  "cep": "93285120",
-  "logradouro": "Avenida Padre Antônio Vieira",
-  "bairro": "Olímpica",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Olímpica",
+    "cep": "93285120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Padre Antônio Vieira"
 }

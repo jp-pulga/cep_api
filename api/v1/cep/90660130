@@ -1,12 +1,12 @@
 {
-  "cep": "90660130",
-  "logradouro": "Rua Felizardo de Farias",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira",
+    "cep": "90660130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Felizardo de Farias"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "99370000",
-  "logradouro": "Fontoura Xavier",
-  "bairro": "",
-  "cidade": {
-    "nome": "Fontoura Xavier",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99370000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Fontoura Xavier"
+    },
+    "ibge": 4308300
 }

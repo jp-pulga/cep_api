@@ -1,12 +1,12 @@
 {
-  "cep": "91712020",
-  "logradouro": "Rua Estrela (Parque Belém)",
-  "bairro": "Belém Velho",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Belém Velho",
+    "cep": "91712020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Estrela (Parque Belém)"
 }

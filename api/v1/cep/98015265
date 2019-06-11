@@ -1,12 +1,12 @@
 {
-  "cep": "98015265",
-  "logradouro": "Rua José Garibaldi",
-  "bairro": "Lizabel",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Lizabel",
+    "cep": "98015265",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua José Garibaldi"
 }

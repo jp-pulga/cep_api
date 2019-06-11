@@ -1,12 +1,12 @@
 {
-  "cep": "98010320",
-  "logradouro": "Rua Francelino Ribeiro",
-  "bairro": "Garibaldi",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Garibaldi",
+    "cep": "98010320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Francelino Ribeiro"
 }

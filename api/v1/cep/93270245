@@ -1,12 +1,13 @@
 {
-  "cep": "93270245",
-  "logradouro": "Avenida Cezar Antonio Bettanin",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Industrial",
+    "cep": "93270245",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Cezar Antonio Bettanin"
 }

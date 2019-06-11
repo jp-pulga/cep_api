@@ -1,12 +1,12 @@
 {
-  "cep": "96412852",
-  "logradouro": "Travessa Luiz Carlos Pereira",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Getúlio Vargas",
+    "cep": "96412852",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Luiz Carlos Pereira"
 }

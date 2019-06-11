@@ -1,12 +1,13 @@
 {
-  "cep": "93290040",
-  "logradouro": "Avenida Cristo Rei",
-  "bairro": "Santo Inácio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Inácio",
+    "cep": "93290040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Cristo Rei"
 }

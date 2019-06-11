@@ -1,12 +1,12 @@
 {
-  "cep": "94460180",
-  "logradouro": "Rua Gaurama",
-  "bairro": "São Tomé",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Tomé",
+    "cep": "94460180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Gaurama"
 }

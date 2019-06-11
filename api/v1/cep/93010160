@@ -1,12 +1,12 @@
 {
-  "cep": "93010160",
-  "logradouro": "Rua Flores da Cunha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "93010160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Flores da Cunha"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98030150",
-  "logradouro": "Rua Rodolpho E. Reicherlt",
-  "bairro": "Farroupilha",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Farroupilha",
+    "cep": "98030150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Rodolpho E. Reicherlt"
 }

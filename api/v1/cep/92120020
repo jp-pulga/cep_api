@@ -1,12 +1,12 @@
 {
-  "cep": "92120020",
-  "logradouro": "Rua Garibaldi",
-  "bairro": "Niterói",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Niterói",
+    "cep": "92120020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Garibaldi"
 }

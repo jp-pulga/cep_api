@@ -1,12 +1,12 @@
 {
-  "cep": "91040370",
-  "logradouro": "Rua Fontoura Xavier",
-  "bairro": "Jardim São Pedro",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim São Pedro",
+    "cep": "91040370",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Fontoura Xavier"
 }

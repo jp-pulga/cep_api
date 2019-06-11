@@ -1,12 +1,13 @@
 {
-  "cep": "93295820",
-  "logradouro": "Acesso Sérgio Cardoso",
-  "bairro": "Parque Primavera",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Primavera",
+    "cep": "93295820",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Acesso Sérgio Cardoso"
 }

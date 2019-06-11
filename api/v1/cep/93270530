@@ -1,12 +1,13 @@
 {
-  "cep": "93270530",
-  "logradouro": "Avenida Celina Chaves Kroeff",
-  "bairro": "Novo Esteio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Novo Esteio",
+    "cep": "93270530",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Celina Chaves Kroeff"
 }

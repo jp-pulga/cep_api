@@ -1,12 +1,12 @@
 {
-  "cep": "99704654",
-  "logradouro": "Rua Gentil João Miorando",
-  "bairro": "Copas Verdes",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Copas Verdes",
+    "cep": "99704654",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Gentil João Miorando"
 }

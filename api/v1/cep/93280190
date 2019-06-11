@@ -1,12 +1,13 @@
 {
-  "cep": "93280190",
-  "logradouro": "Avenida João Neves da Fontoura",
-  "bairro": "Parque Amador",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Amador",
+    "cep": "93280190",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida João Neves da Fontoura"
 }

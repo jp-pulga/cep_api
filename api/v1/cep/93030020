@@ -1,12 +1,12 @@
 {
-  "cep": "93030020",
-  "logradouro": "Rua Fagundes Varela",
-  "bairro": "Morro do Espelho",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Morro do Espelho",
+    "cep": "93030020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Fagundes Varela"
 }

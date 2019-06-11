@@ -1,12 +1,12 @@
 {
-  "cep": "94510354",
-  "logradouro": "Travessa Feliz",
-  "bairro": "Augusta",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Augusta",
+    "cep": "94510354",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Travessa Feliz"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94853400",
-  "logradouro": "Rua Floriano Peixoto",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "94853400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Floriano Peixoto"
 }

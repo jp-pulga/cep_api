@@ -1,12 +1,12 @@
 {
-  "cep": "96412835",
-  "logradouro": "Rua Ary Silveira Azambuja",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Getúlio Vargas",
+    "cep": "96412835",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Ary Silveira Azambuja"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "93265720",
-  "logradouro": "Avenida Brasil",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Sebastião",
+    "cep": "93265720",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Brasil"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "93290010",
-  "logradouro": "Avenida Luiz Pasteur de 4355 a 5295 - lado ímpar (lado par pertence a(o) Sapucaia do Sul)",
-  "bairro": "Santo Inácio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Inácio",
+    "cep": "93290010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Luiz Pasteur - de 4355 a 5295 - lado ímpar (lado par pertence a(o) Sapucaia do Sul)"
 }

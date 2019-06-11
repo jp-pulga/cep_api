@@ -1,12 +1,12 @@
 {
-  "cep": "90570001",
-  "logradouro": "Rua Félix da Cunha lado ímpar",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Floresta",
+    "cep": "90570001",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Félix da Cunha - lado ímpar"
 }

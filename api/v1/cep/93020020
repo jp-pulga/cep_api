@@ -1,12 +1,12 @@
 {
-  "cep": "93020020",
-  "logradouro": "Rua General Câmara",
-  "bairro": "Padre Reus",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Padre Reus",
+    "cep": "93020020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua General Câmara"
 }

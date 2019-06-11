@@ -1,12 +1,12 @@
 {
-  "cep": "97545377",
-  "logradouro": "Rua Brasil",
-  "bairro": "Anita Garibaldi",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Anita Garibaldi",
+    "cep": "97545377",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Brasil"
 }

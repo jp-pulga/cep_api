@@ -1,12 +1,12 @@
 {
-  "cep": "91780310",
-  "logradouro": "Avenida General Flores da Cunha",
-  "bairro": "Belém Novo",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Belém Novo",
+    "cep": "91780310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida General Flores da Cunha"
 }

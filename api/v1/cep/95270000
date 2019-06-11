@@ -1,12 +1,11 @@
 {
-  "cep": "95270000",
-  "logradouro": "Flores da Cunha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Flores da Cunha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95270000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Flores da Cunha"
+    },
+    "ibge": 4308201
 }

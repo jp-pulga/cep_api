@@ -1,12 +1,13 @@
 {
-  "cep": "93270070",
-  "logradouro": "Avenida Pery Fagundes",
-  "bairro": "Três Portos",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Portos",
+    "cep": "93270070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Pery Fagundes"
 }

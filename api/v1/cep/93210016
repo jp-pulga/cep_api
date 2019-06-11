@@ -1,12 +1,12 @@
 {
-  "cep": "93210016",
-  "logradouro": "Rodovia RS-118",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Getúlio Vargas",
+    "cep": "93210016",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rodovia RS-118"
 }

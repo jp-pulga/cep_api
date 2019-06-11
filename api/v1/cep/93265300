@@ -1,12 +1,13 @@
 {
-  "cep": "93265300",
-  "logradouro": "Avenida Érico Veríssimo até 314/315",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Liberdade",
+    "cep": "93265300",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Érico Veríssimo - até 314\/315"
 }

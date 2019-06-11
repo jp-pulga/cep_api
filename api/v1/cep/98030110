@@ -1,12 +1,12 @@
 {
-  "cep": "98030110",
-  "logradouro": "Rua Gomercindo S. Meirelles",
-  "bairro": "Farroupilha",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Farroupilha",
+    "cep": "98030110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Gomercindo S. Meirelles"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94820040",
-  "logradouro": "Rua Anita Garibaldi",
-  "bairro": "Sumaré",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sumaré",
+    "cep": "94820040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Anita Garibaldi"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96835610",
-  "logradouro": "Avenida Getúlio Vargas",
-  "bairro": "Esmeralda",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Esmeralda",
+    "cep": "96835610",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Avenida Getúlio Vargas"
 }

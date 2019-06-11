@@ -1,12 +1,12 @@
 {
-  "cep": "93214210",
-  "logradouro": "Rua Marechal Floriano Peixoto",
-  "bairro": "Silva",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Silva",
+    "cep": "93214210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Marechal Floriano Peixoto"
 }

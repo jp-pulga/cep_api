@@ -1,12 +1,12 @@
 {
-  "cep": "96412380",
-  "logradouro": "Rua João XXIII",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Getúlio Vargas",
+    "cep": "96412380",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua João XXIII"
 }

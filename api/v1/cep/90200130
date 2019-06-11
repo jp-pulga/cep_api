@@ -1,12 +1,12 @@
 {
-  "cep": "90200130",
-  "logradouro": "Praça Jorge Godofredo Felizardo",
-  "bairro": "Anchieta",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Anchieta",
+    "cep": "90200130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Jorge Godofredo Felizardo"
 }

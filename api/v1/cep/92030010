@@ -1,12 +1,12 @@
 {
-  "cep": "92030010",
-  "logradouro": "Rua A J Renner",
-  "bairro": "Estância Velha",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Estância Velha",
+    "cep": "92030010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua A J Renner"
 }

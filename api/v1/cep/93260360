@@ -1,12 +1,13 @@
 {
-  "cep": "93260360",
-  "logradouro": "Avenida Luiz Pasteur de 1421 a 4353 - lado ímpar (lado par pertence a(o) Sapucaia do Sul)",
-  "bairro": "Tamandaré",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tamandaré",
+    "cep": "93260360",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Luiz Pasteur - de 1421 a 4353 - lado ímpar (lado par pertence a(o) Sapucaia do Sul)"
 }

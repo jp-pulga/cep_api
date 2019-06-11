@@ -1,12 +1,12 @@
 {
-  "cep": "98801832",
-  "logradouro": "Travessa Gentilli Bortolli",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "98801832",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Travessa Gentilli Bortolli"
 }

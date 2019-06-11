@@ -1,12 +1,12 @@
 {
-  "cep": "94510290",
-  "logradouro": "Rua Feliz",
-  "bairro": "Augusta",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Augusta",
+    "cep": "94510290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Feliz"
 }

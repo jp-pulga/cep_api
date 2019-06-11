@@ -1,12 +1,12 @@
 {
-  "cep": "93410110",
-  "logradouro": "Rua Flores da Cunha",
-  "bairro": "Pátria Nova",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pátria Nova",
+    "cep": "93410110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Flores da Cunha"
 }

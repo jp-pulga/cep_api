@@ -1,12 +1,12 @@
 {
-  "cep": "90670090",
-  "logradouro": "Rua Felizardo Furtado",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis",
+    "cep": "90670090",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Felizardo Furtado"
 }

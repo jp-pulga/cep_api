@@ -1,12 +1,12 @@
 {
-  "cep": "93347203",
-  "logradouro": "Rua Gaurama",
-  "bairro": "Boa Saúde",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Saúde",
+    "cep": "93347203",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Gaurama"
 }

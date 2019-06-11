@@ -1,12 +1,12 @@
 {
-  "cep": "91430110",
-  "logradouro": "Rua Fortaleza dos Valos",
-  "bairro": "Jardim Carvalho",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Carvalho",
+    "cep": "91430110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Fortaleza dos Valos"
 }

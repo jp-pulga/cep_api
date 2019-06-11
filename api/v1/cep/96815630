@@ -1,12 +1,12 @@
 {
-  "cep": "96815630",
-  "logradouro": "Rua Boa Esperança",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Universitário",
+    "cep": "96815630",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Boa Esperança"
 }

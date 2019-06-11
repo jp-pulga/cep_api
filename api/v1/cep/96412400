@@ -1,12 +1,12 @@
 {
-  "cep": "96412400",
-  "logradouro": "Rua Doutor Freitas",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Getúlio Vargas",
+    "cep": "96412400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Doutor Freitas"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "93285510",
-  "logradouro": "Avenida Érico Veríssimo de 317/318 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José",
+    "cep": "93285510",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "ibge": 4307708,
+    "logradouro": "Avenida Érico Veríssimo - de 317\/318 ao fim"
 }
