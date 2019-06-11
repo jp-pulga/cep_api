@@ -1,12 +1,12 @@
 {
-  "cep": "36036400",
-  "logradouro": "Rua José Alvarenga Massote",
-  "bairro": "Chales do Imperador",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chales do Imperador",
+    "cep": "36036400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua José Alvarenga Massote"
 }
