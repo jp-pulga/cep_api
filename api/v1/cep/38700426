@@ -1,12 +1,12 @@
 {
-  "cep": "38700426",
-  "logradouro": "Avenida Brasília",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida",
+    "cep": "38700426",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Avenida Brasília"
 }

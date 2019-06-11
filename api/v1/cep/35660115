@@ -1,12 +1,12 @@
 {
-  "cep": "35660115",
-  "logradouro": "Rua Brasília",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José",
+    "cep": "35660115",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Brasília"
 }

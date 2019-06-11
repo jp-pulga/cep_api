@@ -1,12 +1,12 @@
 {
-  "cep": "31365500",
-  "logradouro": "Rua Paulo Roberto Marques",
-  "bairro": "Braúnas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Braúnas",
+    "cep": "31365500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Paulo Roberto Marques"
 }

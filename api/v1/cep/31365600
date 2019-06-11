@@ -1,12 +1,12 @@
 {
-  "cep": "31365600",
-  "logradouro": "Rua Dejanira de Oliveira Marques",
-  "bairro": "Braúnas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Braúnas",
+    "cep": "31365600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Dejanira de Oliveira Marques"
 }

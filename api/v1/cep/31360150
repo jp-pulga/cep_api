@@ -1,12 +1,12 @@
 {
-  "cep": "31360150",
-  "logradouro": "Rua Botumirim",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha",
+    "cep": "31360150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Botumirim"
 }

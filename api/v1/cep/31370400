@@ -1,12 +1,12 @@
 {
-  "cep": "31370400",
-  "logradouro": "Rua Maestro João Cavalcante",
-  "bairro": "Braúnas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Braúnas",
+    "cep": "31370400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maestro João Cavalcante"
 }

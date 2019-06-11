@@ -1,12 +1,11 @@
 {
-  "cep": "39330000",
-  "logradouro": "Brasília de Minas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Brasília de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39330000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brasília de Minas"
+    },
+    "ibge": 3108602
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "39596000",
-  "logradouro": "Botumirim",
-  "bairro": "",
-  "cidade": {
-    "nome": "Botumirim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39596000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Botumirim"
+    },
+    "ibge": 3108503
 }
