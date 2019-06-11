@@ -1,12 +1,12 @@
 {
-  "cep": "31035210",
-  "logradouro": "Rua Florestal",
-  "bairro": "Horto Florestal",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto Florestal",
+    "cep": "31035210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Florestal"
 }

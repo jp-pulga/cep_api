@@ -1,12 +1,12 @@
 {
-  "cep": "31814090",
-  "logradouro": "Rua Ferros",
-  "bairro": "Providência",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Providência",
+    "cep": "31814090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ferros"
 }

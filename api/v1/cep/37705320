@@ -1,12 +1,12 @@
 {
-  "cep": "37705320",
-  "logradouro": "Rua Hércules Ferro",
-  "bairro": "Monte Verde",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Verde",
+    "cep": "37705320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Hércules Ferro"
 }

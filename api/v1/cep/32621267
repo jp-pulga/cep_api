@@ -1,12 +1,12 @@
 {
-  "cep": "32621267",
-  "logradouro": "Rua São Pedro dos Ferros",
-  "bairro": "Pimentas",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pimentas",
+    "cep": "32621267",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua São Pedro dos Ferros"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38415006",
-  "logradouro": "Rua do Ferro",
-  "bairro": "Dona Zulmira",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Zulmira",
+    "cep": "38415006",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua do Ferro"
 }

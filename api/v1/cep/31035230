@@ -1,12 +1,12 @@
 {
-  "cep": "31035230",
-  "logradouro": "Rua Antônio Nascimento",
-  "bairro": "Horto Florestal",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto Florestal",
+    "cep": "31035230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antônio Nascimento"
 }

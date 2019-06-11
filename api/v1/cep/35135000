@@ -1,12 +1,11 @@
 {
-  "cep": "35135000",
-  "logradouro": "Fernandes Tourinho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Fernandes Tourinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35135000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fernandes Tourinho"
+    },
+    "ibge": 3125804
 }

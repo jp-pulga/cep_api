@@ -1,12 +1,12 @@
 {
-  "cep": "31035205",
-  "logradouro": "Rua José Mateus Filho",
-  "bairro": "Horto Florestal",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto Florestal",
+    "cep": "31035205",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Mateus Filho"
 }

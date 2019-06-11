@@ -1,12 +1,12 @@
 {
-  "cep": "37706292",
-  "logradouro": "Rua Ferro",
-  "bairro": "Jardim Kennedy",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Kennedy",
+    "cep": "37706292",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Ferro"
 }

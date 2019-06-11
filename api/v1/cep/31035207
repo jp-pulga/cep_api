@@ -1,12 +1,12 @@
 {
-  "cep": "31035207",
-  "logradouro": "Rua Apolinário Antônio Gonçalves",
-  "bairro": "Horto Florestal",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto Florestal",
+    "cep": "31035207",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Apolinário Antônio Gonçalves"
 }
