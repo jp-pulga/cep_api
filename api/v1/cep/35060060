@@ -1,12 +1,12 @@
 {
-  "cep": "35060060",
-  "logradouro": "Rua Caetés",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia",
+    "cep": "35060060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Caetés"
 }

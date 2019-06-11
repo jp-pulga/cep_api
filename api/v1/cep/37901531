@@ -1,12 +1,12 @@
 {
-  "cep": "37901531",
-  "logradouro": "Rua dos Caetés",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida",
+    "cep": "37901531",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua dos Caetés"
 }

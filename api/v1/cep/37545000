@@ -1,12 +1,11 @@
 {
-  "cep": "37545000",
-  "logradouro": "Cachoeira de Minas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cachoeira de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37545000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cachoeira de Minas"
+    },
+    "ibge": 3109709
 }

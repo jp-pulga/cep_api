@@ -1,12 +1,12 @@
 {
-  "cep": "30270060",
-  "logradouro": "Rua Cachoeira Dourada",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso",
+    "cep": "30270060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cachoeira Dourada"
 }

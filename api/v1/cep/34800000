@@ -1,12 +1,11 @@
 {
-  "cep": "34800000",
-  "logradouro": "Caeté",
-  "bairro": "",
-  "cidade": {
-    "nome": "Caeté",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "34800000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caeté"
+    },
+    "ibge": 3110004
 }
