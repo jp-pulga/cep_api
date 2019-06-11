@@ -1,12 +1,12 @@
 {
-  "cep": "35160300",
-  "logradouro": "Rua Gameleiras",
-  "bairro": "Horto",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto",
+    "cep": "35160300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Gameleiras"
 }

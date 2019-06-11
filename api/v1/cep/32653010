@@ -1,12 +1,12 @@
 {
-  "cep": "32653010",
-  "logradouro": "Rua Quatro",
-  "bairro": "Monte Verde",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Verde",
+    "cep": "32653010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Gameleira"
 }

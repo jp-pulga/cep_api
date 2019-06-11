@@ -1,12 +1,12 @@
 {
-  "cep": "31565240",
-  "logradouro": "Rua da Gameleira",
-  "bairro": "Santa Branca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Branca",
+    "cep": "31565240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua da Gameleira"
 }

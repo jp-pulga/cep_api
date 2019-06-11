@@ -1,12 +1,12 @@
 {
-  "cep": "38407171",
-  "logradouro": "Rua das Goiabeiras",
-  "bairro": "Morumbi",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morumbi",
+    "cep": "38407171",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua das Goiabeiras"
 }

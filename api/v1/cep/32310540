@@ -1,12 +1,12 @@
 {
-  "cep": "32310540",
-  "logradouro": "Rua Goiabeiras",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado",
+    "cep": "32310540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Goiabeiras"
 }

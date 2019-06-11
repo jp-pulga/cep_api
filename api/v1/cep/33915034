@@ -1,12 +1,12 @@
 {
-  "cep": "33915034",
-  "logradouro": "Rua Gameleira",
-  "bairro": "Girassol",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Girassol",
+    "cep": "33915034",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Gameleira"
 }

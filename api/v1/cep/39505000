@@ -1,12 +1,11 @@
 {
-  "cep": "39505000",
-  "logradouro": "Gameleiras",
-  "bairro": "",
-  "cidade": {
-    "nome": "Gameleiras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39505000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Gameleiras"
+    },
+    "ibge": 3127339
 }
