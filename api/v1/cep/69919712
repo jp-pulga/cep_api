@@ -1,12 +1,13 @@
 {
-  "cep": "69919712",
-  "logradouro": "Avenida Central",
-  "bairro": "Conjunto Tucumã",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Conjunto Tucumã",
+    "cep": "69919712",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Avenida Central"
 }

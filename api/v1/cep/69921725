@@ -1,12 +1,13 @@
 {
-  "cep": "69921725",
-  "logradouro": "Alameda Antonio Pessoa Jucá de 1501/1502 a 3123/3124",
-  "bairro": "Tancredo Neves",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Tancredo Neves",
+    "cep": "69921725",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Alameda Antonio Pessoa Jucá - de 1501\/1502 a 3123\/3124"
 }

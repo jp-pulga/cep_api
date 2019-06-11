@@ -1,12 +1,13 @@
 {
-  "cep": "69902482",
-  "logradouro": "Travessa Rio de Janeiro",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Eldorado",
+    "cep": "69902482",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Travessa Rio de Janeiro"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69918060",
-  "logradouro": "Rua Rio de Janeiro de 912 a 1154 - lado par",
-  "bairro": "Abraão Alab",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Abraão Alab",
+    "cep": "69918060",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Rua Rio de Janeiro - de 912 a 1154 - lado par"
 }

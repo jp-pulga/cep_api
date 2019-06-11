@@ -1,12 +1,13 @@
 {
-  "cep": "69902672",
-  "logradouro": "Avenida Altamira",
-  "bairro": "Chico Mendes",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Chico Mendes",
+    "cep": "69902672",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Avenida Altamira"
 }

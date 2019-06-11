@@ -1,12 +1,13 @@
 {
-  "cep": "69923899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Rio Branco",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Área Rural de Rio Branco",
+    "cep": "69923899",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Área Rural"
 }

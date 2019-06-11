@@ -1,12 +1,13 @@
 {
-  "cep": "69915434",
-  "logradouro": "Alameda Venezuela",
-  "bairro": "Jardim Europa",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Jardim Europa",
+    "cep": "69915434",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Alameda Venezuela"
 }

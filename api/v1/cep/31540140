@@ -1,12 +1,12 @@
 {
-  "cep": "31540140",
-  "logradouro": "Rua Rio Acima",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio Branco",
+    "cep": "31540140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Rio Acima"
 }

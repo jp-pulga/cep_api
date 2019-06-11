@@ -1,12 +1,13 @@
 {
-  "cep": "69918012",
-  "logradouro": "Rua Rio de Janeiro de 1467/1468 ao fim",
-  "bairro": "Conjunto Mascarenha de Moraes",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Conjunto Mascarenhas de Moraes",
+    "cep": "69918012",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Rua Rio de Janeiro - de 1467\/1468 ao fim"
 }

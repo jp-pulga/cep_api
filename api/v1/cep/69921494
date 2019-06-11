@@ -1,12 +1,13 @@
 {
-  "cep": "69921494",
-  "logradouro": "Travessa Rio Branco",
-  "bairro": "Montanhês",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Montanhês",
+    "cep": "69921494",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Travessa Rio Branco"
 }

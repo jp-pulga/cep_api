@@ -1,12 +1,13 @@
 {
-  "cep": "69911784",
-  "logradouro": "Avenida Fares Fegali",
-  "bairro": "Boa União",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Boa União",
+    "cep": "69911784",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Avenida Fares Fegali"
 }

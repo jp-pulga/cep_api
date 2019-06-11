@@ -1,12 +1,13 @@
 {
-  "cep": "69918093",
-  "logradouro": "Avenida Nações Unidas de 1486/1487 a 2709/2710",
-  "bairro": "7º BEC",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "7º BEC",
+    "cep": "69918093",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Avenida Nações Unidas - de 1486\/1487 a 2709\/2710"
 }

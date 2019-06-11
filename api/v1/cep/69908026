@@ -1,12 +1,13 @@
 {
-  "cep": "69908026",
-  "logradouro": "Rua Rio Bonito",
-  "bairro": "Belo Jardim II",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Belo Jardim II",
+    "cep": "69908026",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Rua Rio Bonito"
 }

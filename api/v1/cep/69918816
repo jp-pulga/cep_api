@@ -1,12 +1,13 @@
 {
-  "cep": "69918816",
-  "logradouro": "Travessa Beira Rio",
-  "bairro": "Conquista",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Conquista",
+    "cep": "69918816",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Travessa Beira Rio"
 }

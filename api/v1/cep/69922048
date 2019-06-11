@@ -1,12 +1,13 @@
 {
-  "cep": "69922048",
-  "logradouro": "Rua Rio Branco",
-  "bairro": "Jorge Lavocat",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Jorge Lavocat",
+    "cep": "69922048",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Rua Rio Branco"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69911818",
-  "logradouro": "Rua Beira Rio",
-  "bairro": "Ayrton Sena",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Ayrton Sena",
+    "cep": "69911818",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Rua Beira Rio"
 }
