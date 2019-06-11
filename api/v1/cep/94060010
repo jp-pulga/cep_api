@@ -1,12 +1,13 @@
 {
-  "cep": "94060010",
-  "logradouro": "Avenida Eliza",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Vicente",
+    "cep": "94060010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Eliza"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93037240",
-  "logradouro": "Rua Ijuí",
-  "bairro": "Santa Teresa",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Teresa",
+    "cep": "93037240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Ijuí"
 }

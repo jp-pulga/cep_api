@@ -1,12 +1,12 @@
 {
-  "cep": "97032196",
-  "logradouro": "Rua Ipê Amarelo",
-  "bairro": "Tancredo Neves",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tancredo Neves",
+    "cep": "97032196",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Ipê Amarelo"
 }

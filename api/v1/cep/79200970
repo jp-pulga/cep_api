@@ -1,12 +1,13 @@
 {
-  "cep": "79200970",
-  "logradouro": "AC Aquidauana Avenida Manoel Antônio Paes de Barros 154",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aquidauana",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79200970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Aquidauana"
+    },
+    "ibge": 5001102,
+    "logradouro": "Avenida Manoel Antônio Paes de Barros, 154  AC Aquidauana"
 }

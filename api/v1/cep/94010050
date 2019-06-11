@@ -1,12 +1,13 @@
 {
-  "cep": "94010050",
-  "logradouro": "Avenida Centenário de 1019/1020 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "94010050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Centenário - de 1019\/1020 ao fim"
 }

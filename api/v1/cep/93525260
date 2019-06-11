@@ -1,12 +1,12 @@
 {
-  "cep": "93525260",
-  "logradouro": "Rua Ibirubá",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova",
+    "cep": "93525260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Ibirubá"
 }

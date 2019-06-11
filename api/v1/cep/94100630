@@ -1,12 +1,13 @@
 {
-  "cep": "94100630",
-  "logradouro": "Avenida Águas Mortas",
-  "bairro": "Águas Mortas",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Águas Mortas",
+    "cep": "94100630",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Águas Mortas"
 }

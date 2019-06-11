@@ -1,12 +1,12 @@
 {
-  "cep": "90035075",
-  "logradouro": "Avenida Independência de 0403 a 0601 - lado ímpar",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Independência",
+    "cep": "90035075",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Independência - de 0403 a 0601 - lado ímpar"
 }

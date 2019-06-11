@@ -1,12 +1,13 @@
 {
-  "cep": "79290971",
-  "logradouro": "AGC Águas do Miranda Quadra 14 s/n Quadra 14 Lote 1 2 e 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bonito",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79290971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Bonito"
+    },
+    "ibge": 5002209,
+    "logradouro": "Quadra 14, s\/n Quadra 14 Lote 1, 2 e 3  AGC Águas do Miranda"
 }

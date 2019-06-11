@@ -1,12 +1,13 @@
 {
-  "cep": "94175320",
-  "logradouro": "Avenida Augusto Pinheiro",
-  "bairro": "Parque Itacolomi",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Itacolomi",
+    "cep": "94175320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Augusto Pinheiro"
 }

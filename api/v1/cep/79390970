@@ -1,12 +1,13 @@
 {
-  "cep": "79390970",
-  "logradouro": "AC Bodoquena Avenida Manoel Rodrigues Oliveira 786",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bodoquena",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79390970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Bodoquena"
+    },
+    "ibge": 5002159,
+    "logradouro": "Avenida Manoel Rodrigues de Oliveira, 786  AC Bodoquena"
 }

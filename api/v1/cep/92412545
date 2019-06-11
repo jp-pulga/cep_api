@@ -1,12 +1,12 @@
 {
-  "cep": "92412545",
-  "logradouro": "Rua do Ipê Branco",
-  "bairro": "Igara",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Igara",
+    "cep": "92412545",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua do Ipê Branco"
 }

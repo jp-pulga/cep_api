@@ -1,12 +1,12 @@
 {
-  "cep": "91030160",
-  "logradouro": "Rua Ibirapuitan",
-  "bairro": "Santa Maria Goretti",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Maria Goretti",
+    "cep": "91030160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Ibirapuitan"
 }

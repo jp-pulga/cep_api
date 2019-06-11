@@ -1,12 +1,12 @@
 {
-  "cep": "91790734",
-  "logradouro": "Rua Ipê-Branco",
-  "bairro": "Restinga",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Restinga",
+    "cep": "91790734",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Ipê-Branco"
 }

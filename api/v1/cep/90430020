@@ -1,12 +1,12 @@
 {
-  "cep": "90430020",
-  "logradouro": "Praça Júlio de Castilhos",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Independência",
+    "cep": "90430020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Júlio de Castilhos"
 }

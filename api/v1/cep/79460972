@@ -1,12 +1,13 @@
 {
-  "cep": "79460972",
-  "logradouro": "AGC Taboco Avenida Pedro Balduino 983",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corguinho",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79460972",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corguinho"
+    },
+    "ibge": 5003108,
+    "logradouro": "Avenida Pedro Balduino, 983  AGC Taboco"
 }

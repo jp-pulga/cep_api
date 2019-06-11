@@ -1,12 +1,13 @@
 {
-  "cep": "79020970",
-  "logradouro": "AC Kadiwéu Rua Ceará 1553 Sala 12 e 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79020970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Rua Ceará, 1553 Sala 1,2 e 3  AC Kadiwéu"
 }

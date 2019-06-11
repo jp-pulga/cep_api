@@ -1,12 +1,13 @@
 {
-  "cep": "94100420",
-  "logradouro": "Rodovia RS-118 de 6502/6503 ao fim",
-  "bairro": "Neópolis",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Neópolis",
+    "cep": "94100420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Rodovia RS-118 - de 6502\/6503 ao fim"
 }

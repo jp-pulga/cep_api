@@ -1,12 +1,13 @@
 {
-  "cep": "79006970",
-  "logradouro": "AC Guanandi Avenida Bandeirantes 3825",
-  "bairro": "Guanandi",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Guanandi",
+    "cep": "79006970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Bandeirantes, 3825  AC Guanandi"
 }

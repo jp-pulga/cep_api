@@ -1,12 +1,11 @@
 {
-  "cep": "99940000",
-  "logradouro": "Ibiaçá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ibiaçá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99940000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ibiaçá"
+    },
+    "ibge": 4309803
 }

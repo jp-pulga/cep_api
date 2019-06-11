@@ -1,12 +1,13 @@
 {
-  "cep": "94090720",
-  "logradouro": "Rodovia RS-020 até 4000/4001",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz",
+    "cep": "94090720",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Rodovia RS-020 - até 4000\/4001"
 }

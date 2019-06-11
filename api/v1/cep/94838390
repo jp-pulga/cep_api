@@ -1,12 +1,12 @@
 {
-  "cep": "94838390",
-  "logradouro": "Rua Giruá",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "94838390",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Giruá"
 }

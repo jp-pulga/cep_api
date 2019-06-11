@@ -1,12 +1,12 @@
 {
-  "cep": "95046209",
-  "logradouro": "Rua do Ipê Amarelo",
-  "bairro": "Brandalise",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Brandalise",
+    "cep": "95046209",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua do Ipê Amarelo"
 }

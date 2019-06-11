@@ -1,12 +1,12 @@
 {
-  "cep": "91320080",
-  "logradouro": "Avenida Ipê",
-  "bairro": "Vila Jardim",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Jardim",
+    "cep": "91320080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Ipê"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "94185352",
-  "logradouro": "Avenida Ely Corrêa de 807/808 a 1589/1590",
-  "bairro": "Passos dos Ferreiros",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passos dos Ferreiros",
+    "cep": "94185352",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Ely Corrêa - de 807\/808 a 1589\/1590"
 }

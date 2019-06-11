@@ -1,12 +1,13 @@
 {
-  "cep": "79033971",
-  "logradouro": "CDD Campo Grande Zona Norte Avenida Cônsul Assaf Trad 238",
-  "bairro": "Mata do Jacinto",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Mata do Jacinto",
+    "cep": "79033971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Cônsul Assaf Trad, 238  CDD Campo Grande Zona Norte"
 }

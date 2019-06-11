@@ -1,12 +1,13 @@
 {
-  "cep": "79031972",
-  "logradouro": "AC Okinawa Avenida Afonso Pena 4909 1º Piso Loja 701",
-  "bairro": "Santa Fé",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Santa Fé",
+    "cep": "79031972",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Afonso Pena, 4909 1º Piso Loja 701  AC Okinawa"
 }

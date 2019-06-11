@@ -1,12 +1,12 @@
 {
-  "cep": "94025000",
-  "logradouro": "Rua Ibirapuita",
-  "bairro": "Salgado Filho",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Salgado Filho",
+    "cep": "94025000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Ibirapuita"
 }

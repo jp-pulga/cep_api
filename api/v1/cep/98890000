@@ -1,12 +1,12 @@
 {
-  "cep": "98890000",
-  "logradouro": "Mato Grande (Giruá)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mato Grande (Giruá)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mato ",
+    "cep": "98890000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Giruá"
+    },
+    "ibge": 4309001
 }

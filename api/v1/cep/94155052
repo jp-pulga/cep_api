@@ -1,12 +1,13 @@
 {
-  "cep": "94155052",
-  "logradouro": "Avenida Itacolomi de 3131/3132 a 3699/3700",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Vicente",
+    "cep": "94155052",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Itacolomi - de 3131\/3132 a 3699\/3700"
 }

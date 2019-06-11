@@ -1,12 +1,13 @@
 {
-  "cep": "94180212",
-  "logradouro": "Avenida Ely Corrêa de 1591/1592 a 2099/2100",
-  "bairro": "Dona Mercedes",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Dona Mercedes",
+    "cep": "94180212",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Ely Corrêa - de 1591\/1592 a 2099\/2100"
 }

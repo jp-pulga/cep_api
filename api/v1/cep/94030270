@@ -1,12 +1,13 @@
 {
-  "cep": "94030270",
-  "logradouro": "Avenida Jaqueline",
-  "bairro": "Jansen",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jansen",
+    "cep": "94030270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida Jaqueline"
 }

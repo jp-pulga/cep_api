@@ -1,12 +1,13 @@
 {
-  "cep": "94100250",
-  "logradouro": "Rodovia RS-020 de 4002/4003 a 6050/6051",
-  "bairro": "Neópolis",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Neópolis",
+    "cep": "94100250",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Rodovia RS-020 - de 4002\/4003 a 6050\/6051"
 }

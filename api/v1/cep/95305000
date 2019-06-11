@@ -1,12 +1,11 @@
 {
-  "cep": "95305000",
-  "logradouro": "Ibiraiaras",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ibiraiaras",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95305000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ibiraiaras"
+    },
+    "ibge": 4309902
 }

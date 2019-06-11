@@ -1,12 +1,11 @@
 {
-  "cep": "97950000",
-  "logradouro": "Guarani das Missões",
-  "bairro": "",
-  "cidade": {
-    "nome": "Guarani das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "97950000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Guarani das Missões"
+    },
+    "ibge": 4309506
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98805540",
-  "logradouro": "Rua Giruá",
-  "bairro": "Aliança",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aliança",
+    "cep": "98805540",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Giruá"
 }

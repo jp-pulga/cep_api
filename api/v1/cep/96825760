@@ -1,12 +1,12 @@
 {
-  "cep": "96825760",
-  "logradouro": "Rua Ipê",
-  "bairro": "Monte Verde",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Monte Verde",
+    "cep": "96825760",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Ipê"
 }

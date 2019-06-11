@@ -1,12 +1,13 @@
 {
-  "cep": "79430970",
-  "logradouro": "AC Bandeirantes Rua Coronel Antonino Gonçalves 1340",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bandeirantes",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79430970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Bandeirantes"
+    },
+    "ibge": 5001508,
+    "logradouro": "Rua Coronel Antonino Gonçalves, 1340  AC Bandeirantes"
 }

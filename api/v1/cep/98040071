@@ -1,12 +1,12 @@
 {
-  "cep": "98040071",
-  "logradouro": "Rua Ijuí",
-  "bairro": "Hilda",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Hilda",
+    "cep": "98040071",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Ijuí"
 }

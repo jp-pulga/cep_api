@@ -1,12 +1,13 @@
 {
-  "cep": "79460973",
-  "logradouro": "AGC Recanto dos Pintados Rua Félix Gonçalves s/n Quadra 13 Lote 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corguinho",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79460973",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corguinho"
+    },
+    "ibge": 5003108,
+    "logradouro": "Rua Félix Gonçalves, s\/n Quadra 13 Lote 18  AGC Recanto dos Pintados"
 }

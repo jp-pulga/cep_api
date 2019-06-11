@@ -1,12 +1,12 @@
 {
-  "cep": "95012270",
-  "logradouro": "Rua dos Ipê",
-  "bairro": "Cinqüentenário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cinqüentenário",
+    "cep": "95012270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua dos Ipê"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79780970",
-  "logradouro": "AC Bataguassu Rua Brasilandia 258",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bataguassu",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79780970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Bataguassu"
+    },
+    "ibge": 5001904,
+    "logradouro": "Avenida Dias Barroso, 400  AC Bataguassu"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79460974",
-  "logradouro": "AGC Furnas da Boa Sorte Rua da Escola s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corguinho",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79460974",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corguinho"
+    },
+    "ibge": 5003108,
+    "logradouro": "Rua da Escola, s\/n  AGC Furnas da Boa Sorte"
 }

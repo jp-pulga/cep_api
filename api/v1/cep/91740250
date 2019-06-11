@@ -1,12 +1,12 @@
 {
-  "cep": "91740250",
-  "logradouro": "Rua Ibirubá",
-  "bairro": "Cavalhada",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cavalhada",
+    "cep": "91740250",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Ibirubá"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79330970",
-  "logradouro": "CDD Corumbá Rua Cuiabá 1465",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79330970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Rua Cuiabá, 1465  CDD Corumbá"
 }

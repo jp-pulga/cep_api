@@ -1,12 +1,12 @@
 {
-  "cep": "94853290",
-  "logradouro": "Rua Guaiba",
-  "bairro": "Formoza",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Formoza",
+    "cep": "94853290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Guaiba"
 }

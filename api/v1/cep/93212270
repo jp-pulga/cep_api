@@ -1,12 +1,12 @@
 {
-  "cep": "93212270",
-  "logradouro": "Rua Ibiruba",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge",
+    "cep": "93212270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Ibiruba"
 }

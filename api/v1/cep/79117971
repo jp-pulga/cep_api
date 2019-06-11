@@ -1,12 +1,13 @@
 {
-  "cep": "79117971",
-  "logradouro": "CLI Centro de Logística Integrada Avenida Dom Antônio Barbosa 230",
-  "bairro": "Jardim Paradiso",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Paradiso",
+    "cep": "79117971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Dom Antônio Barbosa, 230  CLI Centro de Logística Integrada"
 }

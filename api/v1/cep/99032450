@@ -1,12 +1,12 @@
 {
-  "cep": "99032450",
-  "logradouro": "Rua Imbé",
-  "bairro": "Nenê Graeff",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nenê Graeff",
+    "cep": "99032450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Imbé"
 }

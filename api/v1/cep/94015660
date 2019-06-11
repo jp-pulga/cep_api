@@ -1,12 +1,13 @@
 {
-  "cep": "94015660",
-  "logradouro": "Avenida João Borba Maurente",
-  "bairro": "Loteamento Jardim Timbaúva",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Loteamento Jardim Timbaúva",
+    "cep": "94015660",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Avenida João Borba Maurente"
 }

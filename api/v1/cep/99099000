@@ -1,12 +1,12 @@
 {
-  "cep": "99099000",
-  "logradouro": "Rua Principal",
-  "bairro": "Distrito Sede Independência",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Distrito Sede Independência",
+    "cep": "99099000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Principal"
 }

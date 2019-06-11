@@ -1,12 +1,12 @@
 {
-  "cep": "90035150",
-  "logradouro": "Rua André Puente",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Independência",
+    "cep": "90035150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua André Puente"
 }

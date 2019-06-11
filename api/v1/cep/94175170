@@ -1,12 +1,13 @@
 {
-  "cep": "94175170",
-  "logradouro": "Rodovia RS-020 de 6052/6053 ao fim",
-  "bairro": "Loteamento Rural Palermo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Loteamento Rural Palermo",
+    "cep": "94175170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "ibge": 4309209,
+    "logradouro": "Rodovia RS-020 - de 6052\/6053 ao fim"
 }

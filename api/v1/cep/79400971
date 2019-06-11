@@ -1,12 +1,13 @@
 {
-  "cep": "79400971",
-  "logradouro": "AGC Silvolândia Avenida Luiz Gonzaga s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coxim",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "79400971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Coxim"
+    },
+    "ibge": 5003306,
+    "logradouro": "Avenida Luiz Gonzaga, s\/n  AGC Silvolândia"
 }
