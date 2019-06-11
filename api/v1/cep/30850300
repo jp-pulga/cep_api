@@ -1,12 +1,12 @@
 {
-  "cep": "30850300",
-  "logradouro": "Rua Aragão",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco",
+    "cep": "30850300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Aragão"
 }

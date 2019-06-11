@@ -1,12 +1,12 @@
 {
-  "cep": "31985370",
-  "logradouro": "Rua Leonídia Teixeira de Lima",
-  "bairro": "Dom Silvério",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Silvério",
+    "cep": "31985370",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Leonídia Teixeira de Lima"
 }

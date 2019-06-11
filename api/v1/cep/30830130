@@ -1,12 +1,12 @@
 {
-  "cep": "30830130",
-  "logradouro": "Rua Boassara",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco",
+    "cep": "30830130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Boassara"
 }

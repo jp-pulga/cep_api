@@ -1,12 +1,12 @@
 {
-  "cep": "31985222",
-  "logradouro": "Beco da Amizade",
-  "bairro": "Dom Silvério",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Silvério",
+    "cep": "31985222",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco da Amizade"
 }

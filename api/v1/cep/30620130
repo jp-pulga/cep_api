@@ -1,12 +1,12 @@
 {
-  "cep": "30620130",
-  "logradouro": "Rua Dom Joaquim",
-  "bairro": "Araguaia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Araguaia",
+    "cep": "30620130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Dom Joaquim"
 }

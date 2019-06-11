@@ -1,12 +1,12 @@
 {
-  "cep": "31985620",
-  "logradouro": "Beco do Meio",
-  "bairro": "Dom Silvério",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Silvério",
+    "cep": "31985620",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco do Meio"
 }

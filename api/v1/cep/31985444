@@ -1,12 +1,12 @@
 {
-  "cep": "31985444",
-  "logradouro": "Beco do Romeu",
-  "bairro": "Dom Silvério",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Silvério",
+    "cep": "31985444",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco do Romeu"
 }

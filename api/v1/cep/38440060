@@ -1,12 +1,12 @@
 {
-  "cep": "38440060",
-  "logradouro": "Rua Dom Silvério",
-  "bairro": "Rosário",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rosário",
+    "cep": "38440060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Dom Silvério"
 }

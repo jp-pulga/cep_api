@@ -1,12 +1,12 @@
 {
-  "cep": "31985360",
-  "logradouro": "Rua Lourival Ambrósio Balbino",
-  "bairro": "Dom Silvério",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Silvério",
+    "cep": "31985360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Lourival Ambrósio Balbino"
 }

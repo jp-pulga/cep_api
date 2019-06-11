@@ -1,12 +1,12 @@
 {
-  "cep": "30180050",
-  "logradouro": "Praça Dom Bosco",
-  "bairro": "Santo Agostinho",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Agostinho",
+    "cep": "30180050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Dom Bosco"
 }

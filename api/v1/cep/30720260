@@ -1,12 +1,12 @@
 {
-  "cep": "30720260",
-  "logradouro": "Rua Dom Viçoso",
-  "bairro": "Padre Eustáquio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Eustáquio",
+    "cep": "30720260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Dom Viçoso"
 }
