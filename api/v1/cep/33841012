@@ -1,12 +1,12 @@
 {
-  "cep": "33841012",
-  "logradouro": "Rua Capitão Andrade",
-  "bairro": "Alicante",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alicante",
+    "cep": "33841012",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Capitão Andrade"
 }
