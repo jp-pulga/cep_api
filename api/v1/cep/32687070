@@ -1,12 +1,12 @@
 {
-  "cep": "32687070",
-  "logradouro": "Rua Contagem",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada",
+    "cep": "32687070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Contagem"
 }

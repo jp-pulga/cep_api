@@ -1,12 +1,12 @@
 {
-  "cep": "37704041",
-  "logradouro": "Rua da Consolação",
-  "bairro": "Santo André",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo André",
+    "cep": "37704041",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua da Consolação"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "32113120",
-  "logradouro": "Avenida Alterosa",
-  "bairro": "Parque Turistas",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Turistas",
+    "cep": "32113120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "ibge": 3118601,
+    "logradouro": "Avenida Alterosa"
 }

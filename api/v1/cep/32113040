@@ -1,12 +1,13 @@
 {
-  "cep": "32113040",
-  "logradouro": "Avenida Águas Marinhas",
-  "bairro": "São Joaquim",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Joaquim",
+    "cep": "32113040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "ibge": 3118601,
+    "logradouro": "Avenida Águas Marinhas"
 }

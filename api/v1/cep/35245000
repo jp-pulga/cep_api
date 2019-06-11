@@ -1,12 +1,11 @@
 {
-  "cep": "35245000",
-  "logradouro": "Aldeia (Conselheiro Pena)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Aldeia (Conselheiro Pena)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35245000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conselheiro Pena"
+    },
+    "ibge": 3118403
 }

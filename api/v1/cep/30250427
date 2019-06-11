@@ -1,12 +1,12 @@
 {
-  "cep": "30250427",
-  "logradouro": "Rua da Consolação",
-  "bairro": "Fazendinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fazendinha",
+    "cep": "30250427",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua da Consolação"
 }

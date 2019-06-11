@@ -1,12 +1,13 @@
 {
-  "cep": "32145684",
-  "logradouro": "Alameda dos Contadores",
-  "bairro": "Cândida Ferreira",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cândida Ferreira",
+    "cep": "32145684",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "ibge": 3118601,
+    "logradouro": "Alameda dos Contadores"
 }

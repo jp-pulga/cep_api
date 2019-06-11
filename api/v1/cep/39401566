@@ -1,12 +1,12 @@
 {
-  "cep": "39401566",
-  "logradouro": "Rua Nossa Senhora da Consolação",
-  "bairro": "Monte Alegre",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Alegre",
+    "cep": "39401566",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Nossa Senhora da Consolação"
 }

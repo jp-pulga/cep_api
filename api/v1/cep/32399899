@@ -1,12 +1,13 @@
 {
-  "cep": "32399899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Contagem",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Contagem",
+    "cep": "32399899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "ibge": 3118601,
+    "logradouro": "Área Rural"
 }

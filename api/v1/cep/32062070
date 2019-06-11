@@ -1,12 +1,13 @@
 {
-  "cep": "32062070",
-  "logradouro": "Alameda das Goiabeiras",
-  "bairro": "Condomínio Estância San Remo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Condomínio Estância San Remo",
+    "cep": "32062070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "ibge": 3118601,
+    "logradouro": "Alameda das Goiabeiras"
 }

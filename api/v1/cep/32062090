@@ -1,12 +1,13 @@
 {
-  "cep": "32062090",
-  "logradouro": "Alameda dos Limoeiros",
-  "bairro": "Condomínio Estância San Remo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Condomínio Estância San Remo",
+    "cep": "32062090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "ibge": 3118601,
+    "logradouro": "Alameda dos Limoeiros"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "35244000",
-  "logradouro": "Bueno (Conselheiro Pena)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bueno (Conselheiro Pena)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35244000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conselheiro Pena"
+    },
+    "ibge": 3118403
 }
