@@ -1,12 +1,12 @@
 {
-  "cep": "38700332",
-  "logradouro": "Rua Vila Guimarânia",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha",
+    "cep": "38700332",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Vila Guimarânia"
 }

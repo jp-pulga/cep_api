@@ -1,12 +1,12 @@
 {
-  "cep": "30220320",
-  "logradouro": "Rua Guaxupé",
-  "bairro": "Serra",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra",
+    "cep": "30220320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Guaxupé"
 }

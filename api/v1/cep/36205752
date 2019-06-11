@@ -1,12 +1,12 @@
 {
-  "cep": "36205752",
-  "logradouro": "Rua Guidoval",
-  "bairro": "Nova Cidade",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Cidade",
+    "cep": "36205752",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Guidoval"
 }
