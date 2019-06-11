@@ -1,12 +1,12 @@
 {
-  "cep": "03347100",
-  "logradouro": "Rua do Açal",
-  "bairro": "Vila Regente Feijó",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Regente Feijó",
+    "cep": "03347100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua do Açal"
 }
