@@ -1,12 +1,12 @@
 {
-  "cep": "32678424",
-  "logradouro": "Rua Campina Grande",
-  "bairro": "Capelinha",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capelinha",
+    "cep": "32678424",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Campina Grande"
 }

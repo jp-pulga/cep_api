@@ -1,12 +1,12 @@
 {
-  "cep": "32678278",
-  "logradouro": "Rua Ceará",
-  "bairro": "Capelinha",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capelinha",
+    "cep": "32678278",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Ceará"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32678474",
-  "logradouro": "Rua Buenos Aires",
-  "bairro": "Capelinha",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capelinha",
+    "cep": "32678474",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Buenos Aires"
 }

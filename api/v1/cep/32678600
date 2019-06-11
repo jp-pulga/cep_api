@@ -1,12 +1,12 @@
 {
-  "cep": "32678600",
-  "logradouro": "Rua Castanhal",
-  "bairro": "Capelinha",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capelinha",
+    "cep": "32678600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Castanhal"
 }

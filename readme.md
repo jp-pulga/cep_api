@@ -23,7 +23,7 @@ Retorno:
 ```
 
 # Consultar por Código IBGE
-Basta realizar um `GET` na url `https://raw.githubusercontent.com/Pulgovisk/cep_api/master/api/v1/cod_ibge/{cep}`
+Basta realizar um `GET` na url `https://raw.githubusercontent.com/Pulgovisk/cep_api/master/api/v1/cod_ibge/{cod_ibge}`
 
 Exemplo:
 https://raw.githubusercontent.com/Pulgovisk/cep_api/master/api/v1/cod_ibge/3103702
@@ -44,4 +44,4 @@ Retorno:
 }
 ```
 
-Lembrando que caso o CEP/Código IBGE não exista na base o github retorna o código 404
+Lembrando que caso o CEP/Código IBGE não exista na base, o github retornará o código 404

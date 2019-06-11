@@ -1,12 +1,12 @@
 {
-  "cep": "32678455",
-  "logradouro": "Avenida Nova York de 651 a 1199 - lado ímpar",
-  "bairro": "Capelinha",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capelinha",
+    "cep": "32678455",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Avenida Nova York - de 651 a 1199 - lado ímpar"
 }

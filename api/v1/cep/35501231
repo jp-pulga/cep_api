@@ -1,12 +1,12 @@
 {
-  "cep": "35501231",
-  "logradouro": "Rua Capetinga",
-  "bairro": "São Miguel",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Miguel",
+    "cep": "35501231",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Capetinga"
 }
