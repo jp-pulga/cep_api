@@ -1,12 +1,12 @@
 {
-  "cep": "34585453",
-  "logradouro": "Rua Alvinópolis",
-  "bairro": "Vila São Sebastião",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila São Sebastião",
+    "cep": "34585453",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Alvinópolis"
 }

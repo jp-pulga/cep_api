@@ -1,12 +1,12 @@
 {
-  "cep": "35930064",
-  "logradouro": "Rua Alvinópolis",
-  "bairro": "Lourdes",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lourdes",
+    "cep": "35930064",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Alvinópolis"
 }

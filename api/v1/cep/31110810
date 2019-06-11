@@ -1,12 +1,12 @@
 {
-  "cep": "31110810",
-  "logradouro": "Rua Professor João Batista Alvarenga",
-  "bairro": "Concórdia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Concórdia",
+    "cep": "31110810",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor João Batista Alvarenga"
 }

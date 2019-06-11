@@ -1,12 +1,12 @@
 {
-  "cep": "32223450",
-  "logradouro": "Avenida Alvarenga Peixoto",
-  "bairro": "Amazonas",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Amazonas",
+    "cep": "32223450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Avenida Alvarenga Peixoto"
 }

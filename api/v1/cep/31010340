@@ -1,12 +1,12 @@
 {
-  "cep": "31010340",
-  "logradouro": "Rua Alvinópolis",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza",
+    "cep": "31010340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Alvinópolis"
 }

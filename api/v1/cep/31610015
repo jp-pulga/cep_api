@@ -1,12 +1,12 @@
 {
-  "cep": "31610015",
-  "logradouro": "Rua Ignacinho Alvarenga",
-  "bairro": "Venda Nova",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Venda Nova",
+    "cep": "31610015",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ignacinho Alvarenga"
 }

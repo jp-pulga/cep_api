@@ -1,12 +1,12 @@
 {
-  "cep": "31155740",
-  "logradouro": "Rua Professor Pedro Alvarenga",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmares",
+    "cep": "31155740",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor Pedro Alvarenga"
 }

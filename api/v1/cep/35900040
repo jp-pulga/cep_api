@@ -1,12 +1,12 @@
 {
-  "cep": "35900040",
-  "logradouro": "Rua Dinorah de Alvarenga",
-  "bairro": "Pará",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pará",
+    "cep": "35900040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Dinorah de Alvarenga"
 }

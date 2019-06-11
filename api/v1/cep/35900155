@@ -1,12 +1,12 @@
 {
-  "cep": "35900155",
-  "logradouro": "Rua Álvaro Alvarenga",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado",
+    "cep": "35900155",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Álvaro Alvarenga"
 }

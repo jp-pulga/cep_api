@@ -1,12 +1,12 @@
 {
-  "cep": "30210440",
-  "logradouro": "Rua Roberto Alvarenga de Paula",
-  "bairro": "Mangabeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mangabeiras",
+    "cep": "30210440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Roberto Alvarenga de Paula"
 }

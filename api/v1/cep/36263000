@@ -1,12 +1,11 @@
 {
-  "cep": "36263000",
-  "logradouro": "Abreus (Alto Rio Doce)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Abreus (Alto Rio Doce)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36263000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alto Rio Doce"
+    },
+    "ibge": 3102100
 }

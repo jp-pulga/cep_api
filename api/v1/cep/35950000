@@ -1,12 +1,11 @@
 {
-  "cep": "35950000",
-  "logradouro": "Alvinópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alvinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35950000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alvinópolis"
+    },
+    "ibge": 3102308
 }
