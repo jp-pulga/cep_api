@@ -1,12 +1,12 @@
 {
-  "cep": "30260640",
-  "logradouro": "Rua Oliem Bonfim Guimarães",
-  "bairro": "Nossa Senhora do Rosário",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora do Rosário",
+    "cep": "30260640",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Oliem Bonfim Guimarães"
 }

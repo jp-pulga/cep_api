@@ -1,12 +1,12 @@
 {
-  "cep": "31210430",
-  "logradouro": "Rua Jaguari",
-  "bairro": "Bonfim",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bonfim",
+    "cep": "31210430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Jaguari"
 }

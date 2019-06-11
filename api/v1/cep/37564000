@@ -1,12 +1,11 @@
 {
-  "cep": "37564000",
-  "logradouro": "Borda da Mata",
-  "bairro": "",
-  "cidade": {
-    "nome": "Borda da Mata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37564000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Borda da Mata"
+    },
+    "ibge": 3108305
 }

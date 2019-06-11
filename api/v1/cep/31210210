@@ -1,12 +1,12 @@
 {
-  "cep": "31210210",
-  "logradouro": "Rua Borda da Mata",
-  "bairro": "Bonfim",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bonfim",
+    "cep": "31210210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Borda da Mata"
 }

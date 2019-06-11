@@ -1,12 +1,12 @@
 {
-  "cep": "30670005",
-  "logradouro": "Rua Silvestre Bonfim dos Santos",
-  "bairro": "Castanheira (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castanheira (Barreiro)",
+    "cep": "30670005",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Silvestre Bonfim dos Santos"
 }

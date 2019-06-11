@@ -1,12 +1,11 @@
 {
-  "cep": "37720000",
-  "logradouro": "Botelhos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Botelhos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37720000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Botelhos"
+    },
+    "ibge": 3108404
 }

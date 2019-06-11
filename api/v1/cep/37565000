@@ -1,12 +1,11 @@
 {
-  "cep": "37565000",
-  "logradouro": "Cervo (Borda da Mata)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cervo (Borda da Mata)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37565000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Borda da Mata"
+    },
+    "ibge": 3108305
 }
