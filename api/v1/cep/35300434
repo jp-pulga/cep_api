@@ -1,12 +1,13 @@
 {
-  "cep": "35300434",
-  "logradouro": "Avenida Feliciano Miguel Abdalla",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta",
+    "cep": "35300434",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Feliciano Miguel Abdalla"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35300484",
-  "logradouro": "Avenida José Orlando Cotta",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz",
+    "cep": "35300484",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida José Orlando Cotta"
 }

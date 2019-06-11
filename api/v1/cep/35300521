@@ -1,12 +1,13 @@
 {
-  "cep": "35300521",
-  "logradouro": "Avenida João Caetano Nascimento até 221 - lado ímpar",
-  "bairro": "Dos Rodoviários",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dos Rodoviários",
+    "cep": "35300521",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida João Caetano Nascimento - até 221 - lado ímpar"
 }

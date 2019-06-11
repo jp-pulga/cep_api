@@ -1,12 +1,12 @@
 {
-  "cep": "32013070",
-  "logradouro": "Rua Doutor Carlos Chagas",
-  "bairro": "Bernardo Monteiro",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bernardo Monteiro",
+    "cep": "32013070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Doutor Carlos Chagas"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35303136",
-  "logradouro": "Avenida Áurea Carlos Leite de Matos",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "35303136",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Áurea Carlos Leite de Matos"
 }

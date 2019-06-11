@@ -1,12 +1,12 @@
 {
-  "cep": "33120010",
-  "logradouro": "Rua Professor Carlos Chagas",
-  "bairro": "Asteca (São Benedito)",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Asteca (São Benedito)",
+    "cep": "33120010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Professor Carlos Chagas"
 }

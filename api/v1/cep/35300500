@@ -1,12 +1,13 @@
 {
-  "cep": "35300500",
-  "logradouro": "Avenida João Caetano Nascimento de 466 a 1296 - lado par",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limoeiro",
+    "cep": "35300500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida João Caetano Nascimento - de 466 a 1296 - lado par"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35300392",
-  "logradouro": "Avenida João Caetano Nascimento até 464 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "35300392",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida João Caetano Nascimento - até 464 - lado par"
 }

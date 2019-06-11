@@ -1,12 +1,12 @@
 {
-  "cep": "36081290",
-  "logradouro": "Rua José de Almeida Portes",
-  "bairro": "Carlos Chagas",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carlos Chagas",
+    "cep": "36081290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua José de Almeida Portes"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35300574",
-  "logradouro": "Avenida Presidente Tancredo Neves de 1578 a 3000 - lado par",
-  "bairro": "Zacarias",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Zacarias",
+    "cep": "35300574",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Presidente Tancredo Neves - de 1578 a 3000 - lado par"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "39864000",
-  "logradouro": "Carlos Chagas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Carlos Chagas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39864000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carlos Chagas"
+    },
+    "ibge": 3113701
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36025010",
-  "logradouro": "Rua Carlos Chagas",
-  "bairro": "São Mateus",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Mateus",
+    "cep": "36025010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Carlos Chagas"
 }

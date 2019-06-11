@@ -1,12 +1,12 @@
 {
-  "cep": "32113460",
-  "logradouro": "Rua Carlos Pinheiro Chagas",
-  "bairro": "Ressaca",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ressaca",
+    "cep": "32113460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Carlos Pinheiro Chagas"
 }

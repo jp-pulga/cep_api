@@ -1,12 +1,13 @@
 {
-  "cep": "35304210",
-  "logradouro": "Avenida Dário de Anunciação Grossi",
-  "bairro": "Dário Grossi",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dário Grossi",
+    "cep": "35304210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Dário de Anunciação Grossi"
 }

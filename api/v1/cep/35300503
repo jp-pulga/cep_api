@@ -1,12 +1,13 @@
 {
-  "cep": "35300503",
-  "logradouro": "Avenida João Caetano Nascimento de 1257 ao fim - lado ímpar",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limoeiro",
+    "cep": "35300503",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida João Caetano Nascimento - de 1257 ao fim - lado ímpar"
 }

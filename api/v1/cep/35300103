@@ -1,12 +1,13 @@
 {
-  "cep": "35300103",
-  "logradouro": "Avenida Ana Pena de Faria",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limoeiro",
+    "cep": "35300103",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Ana Pena de Faria"
 }

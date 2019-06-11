@@ -1,12 +1,13 @@
 {
-  "cep": "35305002",
-  "logradouro": "Avenida José Ferreira",
-  "bairro": "Graça",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Graça",
+    "cep": "35305002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida José Ferreira"
 }

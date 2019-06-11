@@ -1,12 +1,12 @@
 {
-  "cep": "35162359",
-  "logradouro": "Avenida Carlos Chagas",
-  "bairro": "Cidade Nobre",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nobre",
+    "cep": "35162359",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Avenida Carlos Chagas"
 }

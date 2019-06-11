@@ -1,12 +1,13 @@
 {
-  "cep": "35300355",
-  "logradouro": "Córrego do Paraíso",
-  "bairro": "Graça",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças",
+    "cep": "35300355",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Geraldo Ribeiro de Sá"
 }

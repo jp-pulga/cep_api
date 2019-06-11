@@ -1,12 +1,13 @@
 {
-  "cep": "35300101",
-  "logradouro": "Avenida Presidente Tancredo Neves de 2 a 820 - lado par",
-  "bairro": "Santa Zita",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Zita",
+    "cep": "35300101",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Presidente Tancredo Neves - de 2 a 820 - lado par"
 }

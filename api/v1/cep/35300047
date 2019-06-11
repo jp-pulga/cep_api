@@ -1,12 +1,13 @@
 {
-  "cep": "35300047",
-  "logradouro": "Avenida Moacir de Matos até 339 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "35300047",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Moacir de Matos - até 339 - lado ímpar"
 }

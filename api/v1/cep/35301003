@@ -1,12 +1,13 @@
 {
-  "cep": "35301003",
-  "logradouro": "Avenida Comendador Rafael José de Lima",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limoeiro",
+    "cep": "35301003",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Comendador Rafael José de Lima"
 }

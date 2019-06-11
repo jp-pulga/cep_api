@@ -1,12 +1,13 @@
 {
-  "cep": "35305022",
-  "logradouro": "Acesso para AABB",
-  "bairro": "Graça",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Graça",
+    "cep": "35305022",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Acesso para AABB"
 }

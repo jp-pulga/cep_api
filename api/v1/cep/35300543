@@ -1,12 +1,13 @@
 {
-  "cep": "35300543",
-  "logradouro": "Avenida Presidente Tancredo Neves de 1025 a 1415 - lado ímpar",
-  "bairro": "Salatiel",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Salatiel",
+    "cep": "35300543",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Presidente Tancredo Neves - de 1025 a 1415 - lado ímpar"
 }

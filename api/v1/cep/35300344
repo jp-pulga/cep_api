@@ -1,12 +1,13 @@
 {
-  "cep": "35300344",
-  "logradouro": "Avenida Monsenhor Aristides Rocha",
-  "bairro": "Graça",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Graça",
+    "cep": "35300344",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "ibge": 3113404,
+    "logradouro": "Avenida Monsenhor Aristides Rocha"
 }
