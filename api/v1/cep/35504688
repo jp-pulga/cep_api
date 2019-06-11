@@ -1,12 +1,13 @@
 {
-  "cep": "35504688",
-  "logradouro": "Avenida Antônio Soares Pereira",
-  "bairro": "Residencial Lagoa Park",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Lagoa Park",
+    "cep": "35504688",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Avenida Antônio Soares Pereira"
 }

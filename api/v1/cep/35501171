@@ -1,12 +1,13 @@
 {
-  "cep": "35501171",
-  "logradouro": "Avenida Contorno",
-  "bairro": "Catalão",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Catalão",
+    "cep": "35501171",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Avenida Contorno"
 }

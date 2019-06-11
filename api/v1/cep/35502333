@@ -1,12 +1,13 @@
 {
-  "cep": "35502333",
-  "logradouro": "Rodovia MG-050 do km 118876 ao km 119325",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Caetano",
+    "cep": "35502333",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Rodovia MG-050 - do km 118,876 ao km 119,325"
 }

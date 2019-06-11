@@ -1,12 +1,13 @@
 {
-  "cep": "35500765",
-  "logradouro": "Avenida Ayrton Senna da Silva",
-  "bairro": "Santa Rosa",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rosa",
+    "cep": "35500765",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Avenida Ayrton Senna da Silva"
 }

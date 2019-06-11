@@ -1,12 +1,13 @@
 {
-  "cep": "35502376",
-  "logradouro": "Avenida Amélia Fabrini",
-  "bairro": "Residencial Morumbi",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Morumbi",
+    "cep": "35502376",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Avenida Amélia Fabrini"
 }

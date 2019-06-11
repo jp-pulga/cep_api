@@ -1,12 +1,13 @@
 {
-  "cep": "35501463",
-  "logradouro": "Avenida da Urca",
-  "bairro": "João Antônio Gonçalves",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Antônio Gonçalves",
+    "cep": "35501463",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Avenida da Urca"
 }

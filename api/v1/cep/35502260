@@ -1,12 +1,13 @@
 {
-  "cep": "35502260",
-  "logradouro": "Avenida Belo Horizonte",
-  "bairro": "Icaraí",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Icaraí",
+    "cep": "35502260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Avenida Belo Horizonte"
 }

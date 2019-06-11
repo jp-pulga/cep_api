@@ -1,12 +1,13 @@
 {
-  "cep": "35500578",
-  "logradouro": "Avenida C",
-  "bairro": "Vale do Sol",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale do Sol",
+    "cep": "35500578",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 3122306,
+    "logradouro": "Avenida C"
 }
