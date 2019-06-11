@@ -1,12 +1,13 @@
 {
-  "cep": "57020974",
-  "logradouro": "AF Maceió Rua do Sol 57",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57020974",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua do Sol, 57  AF Maceió"
 }

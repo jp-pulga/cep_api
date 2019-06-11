@@ -1,12 +1,12 @@
 {
-  "cep": "90001970",
-  "logradouro": "AC Central de Porto Alegre Rua Siqueira Campos 1100",
-  "bairro": "Centro Histórico",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro Histórico",
+    "cep": "90001970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Siqueira Campos, 1100  AC Central de Porto Alegre"
 }

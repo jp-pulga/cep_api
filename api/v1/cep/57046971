@@ -1,12 +1,13 @@
 {
-  "cep": "57046971",
-  "logradouro": "ACC Serraria Avenida Presidente Getúlio Vargas 911",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Serraria",
+    "cep": "57046971",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Presidente Getúlio Vargas, 911  ACC Serraria"
 }

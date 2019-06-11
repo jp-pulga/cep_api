@@ -1,12 +1,13 @@
 {
-  "cep": "57300970",
-  "logradouro": "AC Arapiraca Praça Luiz Pereira Lima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57300970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Praça Luiz Pereira Lima, s\/n  AC Arapiraca"
 }

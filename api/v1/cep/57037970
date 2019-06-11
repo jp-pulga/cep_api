@@ -1,12 +1,13 @@
 {
-  "cep": "57037970",
-  "logradouro": "AGF João Davino Avenida João Davino 321 Loja 01/02",
-  "bairro": "Jatiúca",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jatiúca",
+    "cep": "57037970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida João Davino, 321 Loja 01\/02  AGF João Davino"
 }

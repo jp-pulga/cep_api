@@ -1,12 +1,13 @@
 {
-  "cep": "57061970",
-  "logradouro": "AC Tabuleiro dos Martins Avenida Doutor Durval de Góes Monteiro 2217",
-  "bairro": "Tabuleiro do Martins",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Tabuleiro do Martins",
+    "cep": "57061970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Doutor Durval de Góes Monteiro, 2217  AC Tabuleiro dos Martins"
 }

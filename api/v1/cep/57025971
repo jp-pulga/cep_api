@@ -1,12 +1,13 @@
 {
-  "cep": "57025971",
-  "logradouro": "CDD Maceió Rua Diégues Júnior 332",
-  "bairro": "Poço",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Poço",
+    "cep": "57025971",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Diégues Júnior, 332  CDD Maceió"
 }

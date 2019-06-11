@@ -1,12 +1,13 @@
 {
-  "cep": "57057971",
-  "logradouro": "CDD Farol Rua Arsênio Fortes 149",
-  "bairro": "Pinheiro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pinheiro",
+    "cep": "57057971",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Arsênio Fortes, 149  CDD Farol"
 }

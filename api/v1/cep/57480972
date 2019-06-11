@@ -1,12 +1,13 @@
 {
-  "cep": "57480972",
-  "logradouro": "AGC Lagoinha Praça da Matriz 08",
-  "bairro": "Lagoinha",
-  "cidade": {
-    "nome": "Delmiro Gouveia",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Lagoinha",
+    "cep": "57480972",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Delmiro Gouveia"
+    },
+    "ibge": 2702405,
+    "logradouro": "Praça da Matriz, 08  AGC Lagoinha"
 }

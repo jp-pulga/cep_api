@@ -1,12 +1,13 @@
 {
-  "cep": "57072970",
-  "logradouro": "AC Cidade Universitária Avenida Lourival Melo Mota km 14",
-  "bairro": "Cidade Universitária",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cidade Universitária",
+    "cep": "57072970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Lourival Melo Mota, km 14  AC Cidade Universitária"
 }

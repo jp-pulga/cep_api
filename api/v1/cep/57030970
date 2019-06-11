@@ -1,12 +1,13 @@
 {
-  "cep": "57030970",
-  "logradouro": "ACC Pajuçara Rua Jangadeiros Alagoanos 1162 Sala 2",
-  "bairro": "Pajuçara",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pajuçara",
+    "cep": "57030970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Jangadeiros Alagoanos, 1162 Sala 2  ACC Pajuçara"
 }

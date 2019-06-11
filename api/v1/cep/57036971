@@ -1,12 +1,13 @@
 {
-  "cep": "57036971",
-  "logradouro": "CDD Ponta Verde Avenida Doutor Antônio Gomes de Barros 1747",
-  "bairro": "Jatiúca",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jatiúca",
+    "cep": "57036971",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Doutor Antônio Gomes de Barros, 1747  CDD Ponta Verde"
 }

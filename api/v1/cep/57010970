@@ -1,12 +1,13 @@
 {
-  "cep": "57010970",
-  "logradouro": "CDD Mundaú Rua Agnelo Barbosa 612",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Prado",
+    "cep": "57010970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Agnelo Barbosa, 612  CDD Mundaú"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57230972",
-  "logradouro": "AGC Barreiras Rua José Carvalho de Souza s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coruripe",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57230972",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Coruripe"
+    },
+    "ibge": 2702306,
+    "logradouro": "Rua José Carvalho de Souza, s\/n  AGC Barreiras"
 }

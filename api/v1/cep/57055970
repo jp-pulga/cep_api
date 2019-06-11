@@ -1,12 +1,13 @@
 {
-  "cep": "57055970",
-  "logradouro": "AGF Farol Avenida Fernandes Lima 781-B",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol",
+    "cep": "57055970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Fernandes Lima, 781-B  AGF Farol"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57230970",
-  "logradouro": "AC Coruripe Rua Lindolfo Simões 17",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coruripe",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57230970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Coruripe"
+    },
+    "ibge": 2702306,
+    "logradouro": "Rua Lindolfo Simões, 17  AC Coruripe"
 }

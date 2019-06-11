@@ -1,12 +1,13 @@
 {
-  "cep": "57057972",
-  "logradouro": "ACC Fernandes Lima Avenida Fernandes Lima 2457",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol",
+    "cep": "57057972",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Fernandes Lima, 2457  ACC Fernandes Lima"
 }

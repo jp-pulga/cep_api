@@ -1,12 +1,13 @@
 {
-  "cep": "57020972",
-  "logradouro": "AGF Centro Rua Doutor Pedro Monteiro 292",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57020972",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Doutor Pedro Monteiro, 292  AGF Centro"
 }

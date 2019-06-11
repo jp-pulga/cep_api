@@ -1,12 +1,13 @@
 {
-  "cep": "57660970",
-  "logradouro": "AC Anadia Rua Doutor Fernandes Lima 51",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anadia",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57660970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Anadia"
+    },
+    "ibge": 2700201,
+    "logradouro": "Rua Doutor Fernandes Lima, 51  AC Anadia"
 }

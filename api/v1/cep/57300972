@@ -1,12 +1,13 @@
 {
-  "cep": "57300972",
-  "logradouro": "AC Do Agreste Rua Maurício Pereira 1082",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57300972",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Maurício Pereira, 1082  AC Do Agreste"
 }

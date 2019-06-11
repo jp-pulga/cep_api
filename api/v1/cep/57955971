@@ -1,12 +1,13 @@
 {
-  "cep": "57955971",
-  "logradouro": "AGC São Bento Rua Luiz Holanda Cavalcante s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maragogi",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57955971",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maragogi"
+    },
+    "ibge": 2704500,
+    "logradouro": "Rua Luiz Holanda Cavalcante, s\/n  AGC São Bento"
 }

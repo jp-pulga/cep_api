@@ -1,12 +1,13 @@
 {
-  "cep": "57680972",
-  "logradouro": "AGC Lagoa do Peri Peri Distrito Lagoa do Peri Peri",
-  "bairro": "Peri Peri",
-  "cidade": {
-    "nome": "Boca da Mata",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Peri Peri",
+    "cep": "57680972",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Boca da Mata"
+    },
+    "ibge": 2701001,
+    "logradouro": "Distrito Lagoa do Peri Peri  AGC Lagoa do Peri Peri"
 }

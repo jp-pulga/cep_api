@@ -1,12 +1,13 @@
 {
-  "cep": "57475971",
-  "logradouro": "AGC Campinhos Distrito Campinhos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pariconha",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57475971",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Pariconha"
+    },
+    "ibge": 2706422,
+    "logradouro": "Distrito Campinhos, s\/n  AGC Campinhos"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57060972",
-  "logradouro": "CDD Tabuleiro dos Martins Rua Santa Luzia s/n",
-  "bairro": "Tabuleiro do Martins",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Tabuleiro do Martins",
+    "cep": "57060972",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Santa Luzia, s\/n  CDD Tabuleiro dos Martins"
 }
