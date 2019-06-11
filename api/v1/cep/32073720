@@ -1,12 +1,12 @@
 {
-  "cep": "32073720",
-  "logradouro": "Rua Guape",
-  "bairro": "Industrial São Luiz",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial São Luiz",
+    "cep": "32073720",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Guape"
 }

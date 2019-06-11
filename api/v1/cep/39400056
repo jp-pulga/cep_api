@@ -1,12 +1,12 @@
 {
-  "cep": "39400056",
-  "logradouro": "Rua Grão Mogol",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "39400056",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Grão Mogol"
 }

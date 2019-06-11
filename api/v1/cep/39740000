@@ -1,12 +1,11 @@
 {
-  "cep": "39740000",
-  "logradouro": "Guanhães",
-  "bairro": "",
-  "cidade": {
-    "nome": "Guanhães",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39740000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guanhães"
+    },
+    "ibge": 3128006
 }

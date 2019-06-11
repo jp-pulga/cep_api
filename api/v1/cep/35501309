@@ -1,12 +1,12 @@
 {
-  "cep": "35501309",
-  "logradouro": "Rua Guanhães",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere",
+    "cep": "35501309",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Guanhães"
 }

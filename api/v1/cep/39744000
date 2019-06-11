@@ -1,12 +1,11 @@
 {
-  "cep": "39744000",
-  "logradouro": "Farias (Guanhães)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Farias (Guanhães)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39744000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guanhães"
+    },
+    "ibge": 3128006
 }

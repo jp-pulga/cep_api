@@ -1,12 +1,12 @@
 {
-  "cep": "33171003",
-  "logradouro": "Rua Guanhães",
-  "bairro": "Luxemburgo",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Luxemburgo",
+    "cep": "33171003",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Guanhães"
 }
