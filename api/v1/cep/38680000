@@ -1,12 +1,11 @@
 {
-  "cep": "38680000",
-  "logradouro": "Arinos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Arinos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38680000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arinos"
+    },
+    "ibge": 3104502
 }
