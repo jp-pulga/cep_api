@@ -1,12 +1,12 @@
 {
-  "cep": "94824340",
-  "logradouro": "Rua Barão do Amazonas",
-  "bairro": "Vila Tupã",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Tupã",
+    "cep": "94824340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Barão do Amazonas"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "95870000",
-  "logradouro": "Bom Retiro do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bom Retiro do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95870000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bom Retiro do Sul"
+    },
+    "ibge": 4302402
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93270500",
-  "logradouro": "Rua Cacequi",
-  "bairro": "Novo Esteio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Novo Esteio",
+    "cep": "93270500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Cacequi"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95055170",
-  "logradouro": "Rua Barão do Amazonas",
-  "bairro": "Diamantino",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Diamantino",
+    "cep": "95055170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Barão do Amazonas"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93110260",
-  "logradouro": "Rua Barão do Triunfo",
-  "bairro": "Rio dos Sinos",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio dos Sinos",
+    "cep": "93110260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Barão do Triunfo"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98020420",
-  "logradouro": "Rua Bom Fim",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso",
+    "cep": "98020420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Bom Fim"
 }

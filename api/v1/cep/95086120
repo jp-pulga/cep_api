@@ -1,12 +1,12 @@
 {
-  "cep": "95086120",
-  "logradouro": "Rua Eraldo Bragatti",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Redentor",
+    "cep": "95086120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Eraldo Bragatti"
 }

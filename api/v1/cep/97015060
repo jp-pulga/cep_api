@@ -1,12 +1,12 @@
 {
-  "cep": "97015060",
-  "logradouro": "Travessa Barão do Triunfo",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima",
+    "cep": "97015060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Travessa Barão do Triunfo"
 }

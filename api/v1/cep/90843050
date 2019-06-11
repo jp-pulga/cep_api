@@ -1,12 +1,12 @@
 {
-  "cep": "90843050",
-  "logradouro": "Rua Cinco (Vl Barracão)",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Tereza",
+    "cep": "90843050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Cinco (Vl Barracão)"
 }

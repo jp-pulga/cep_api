@@ -1,12 +1,12 @@
 {
-  "cep": "90540020",
-  "logradouro": "Rua Barão do Cotegipe",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São João",
+    "cep": "90540020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Barão do Cotegipe"
 }

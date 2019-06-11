@@ -1,12 +1,12 @@
 {
-  "cep": "94950025",
-  "logradouro": "Rua Armindo S. Martins",
-  "bairro": "Vila Bom Princípio",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Bom Princípio",
+    "cep": "94950025",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Armindo S. Martins"
 }

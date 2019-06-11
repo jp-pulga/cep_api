@@ -1,12 +1,12 @@
 {
-  "cep": "91060010",
-  "logradouro": "Rua Bom Retiro do Sul",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Sebastião",
+    "cep": "91060010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Bom Retiro do Sul"
 }

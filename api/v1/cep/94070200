@@ -1,12 +1,12 @@
 {
-  "cep": "94070200",
-  "logradouro": "Rua Universo",
-  "bairro": "Bom Princípio",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bom Princípio",
+    "cep": "94070200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Universo"
 }

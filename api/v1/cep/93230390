@@ -1,12 +1,12 @@
 {
-  "cep": "93230390",
-  "logradouro": "Rodovia RS-118",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista",
+    "cep": "93230390",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rodovia RS-118"
 }

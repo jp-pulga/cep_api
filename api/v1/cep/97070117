@@ -1,12 +1,12 @@
 {
-  "cep": "97070117",
-  "logradouro": "Rua Adão Braga",
-  "bairro": "Lorenzi",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Lorenzi",
+    "cep": "97070117",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Adão Braga"
 }

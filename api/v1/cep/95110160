@@ -1,12 +1,12 @@
 {
-  "cep": "95110160",
-  "logradouro": "Rua Bom Princípio",
-  "bairro": "Desvio Rizzo",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Desvio Rizzo",
+    "cep": "95110160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Bom Princípio"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93315490",
-  "logradouro": "Rua Barros Cassal",
-  "bairro": "Operário",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Operário",
+    "cep": "93315490",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Barros Cassal"
 }

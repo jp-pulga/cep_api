@@ -1,12 +1,12 @@
 {
-  "cep": "93211722",
-  "logradouro": "Travessa Barros Cassal",
-  "bairro": "Zoológico",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Zoológico",
+    "cep": "93211722",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Travessa Barros Cassal"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93330140",
-  "logradouro": "Rua Bragança",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Liberdade",
+    "cep": "93330140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Bragança"
 }

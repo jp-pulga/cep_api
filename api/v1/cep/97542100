@@ -1,12 +1,12 @@
 {
-  "cep": "97542100",
-  "logradouro": "Rua Barão do Amazonas",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "97542100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Barão do Amazonas"
 }
