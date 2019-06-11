@@ -1,12 +1,12 @@
 {
-  "cep": "69090807",
-  "logradouro": "Rua Paraíso do Tocantins (Cj Manoa)",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "69090807",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Paraíso do Tocantins"
 }

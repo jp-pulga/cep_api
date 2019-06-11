@@ -1,12 +1,12 @@
 {
-  "cep": "40040160",
-  "logradouro": "Travessa Sebastião Tourinho",
-  "bairro": "Nazaré",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nazaré",
+    "cep": "40040160",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Sebastião Tourinho"
 }

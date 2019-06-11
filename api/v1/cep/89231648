@@ -1,12 +1,12 @@
 {
-  "cep": "89231648",
-  "logradouro": "Rua Cecília Borges Tomé",
-  "bairro": "Paranaguamirim",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Paranaguamirim",
+    "cep": "89231648",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Cecília Borges Tomé"
 }

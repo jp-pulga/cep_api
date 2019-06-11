@@ -1,12 +1,12 @@
 {
-  "cep": "05882440",
-  "logradouro": "Rua Garcia de Toledo",
-  "bairro": "Jardim São Bento Novo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Bento Novo",
+    "cep": "05882440",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Garcia de Toledo"
 }

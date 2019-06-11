@@ -1,12 +1,12 @@
 {
-  "cep": "06365060",
-  "logradouro": "Rua Paranaguá",
-  "bairro": "Jardim Tonato",
-  "cidade": {
-    "nome": "Carapicuíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Tonato",
+    "cep": "06365060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Carapicuíba"
+    },
+    "logradouro": "Rua Paranaguá"
 }

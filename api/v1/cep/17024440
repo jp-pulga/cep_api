@@ -1,12 +1,12 @@
 {
-  "cep": "17024440",
-  "logradouro": "Rua Flávio de Toledo Campos",
-  "bairro": "Novo Jardim Pagani",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Novo Jardim Pagani",
+    "cep": "17024440",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Flávio de Toledo Campos"
 }

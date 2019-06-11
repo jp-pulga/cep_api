@@ -1,12 +1,12 @@
 {
-  "cep": "32659654",
-  "logradouro": "Rua Francisco Torres",
-  "bairro": "Jardim Nazareno",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Nazareno",
+    "cep": "32659654",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Francisco Torres"
 }

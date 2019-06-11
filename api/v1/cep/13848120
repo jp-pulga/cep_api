@@ -1,12 +1,12 @@
 {
-  "cep": "13848120",
-  "logradouro": "Rua Olívio Antônio Toso",
-  "bairro": "Jardim Novo II",
-  "cidade": {
-    "nome": "Mogi Guaçu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Novo II",
+    "cep": "13848120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Guaçu"
+    },
+    "logradouro": "Rua Olívio Antônio Toso"
 }

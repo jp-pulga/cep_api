@@ -1,12 +1,12 @@
 {
-  "cep": "09150150",
-  "logradouro": "Rua Antônio Thomaz",
-  "bairro": "Paranapiacaba",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Paranapiacaba",
+    "cep": "09150150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo André"
+    },
+    "logradouro": "Rua Antônio Thomaz"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58040120",
-  "logradouro": "Rua Hortence Peixe",
-  "bairro": "Torre",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Torre",
+    "cep": "58040120",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Hortence Peixe"
 }
