@@ -1,12 +1,12 @@
 {
-  "cep": "38400026",
-  "logradouro": "Travessa Ibiá",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "38400026",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Travessa Ibiá"
 }

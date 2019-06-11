@@ -1,12 +1,12 @@
 {
-  "cep": "32223580",
-  "logradouro": "Rua Bárbara Heliodora",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial",
+    "cep": "32223580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Bárbara Heliodora"
 }

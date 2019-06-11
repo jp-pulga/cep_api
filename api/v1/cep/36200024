@@ -1,12 +1,12 @@
 {
-  "cep": "36200024",
-  "logradouro": "Rua Antônio Russo",
-  "bairro": "Ibiapaba",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ibiapaba",
+    "cep": "36200024",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Antônio Russo"
 }

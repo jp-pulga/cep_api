@@ -1,12 +1,12 @@
 {
-  "cep": "33050050",
-  "logradouro": "Avenida Bárbara Heliodora",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Esperança",
+    "cep": "33050050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Avenida Bárbara Heliodora"
 }

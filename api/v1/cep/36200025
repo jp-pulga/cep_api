@@ -1,12 +1,12 @@
 {
-  "cep": "36200025",
-  "logradouro": "Travessa Cristiano Flisch",
-  "bairro": "Ibiapaba",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ibiapaba",
+    "cep": "36200025",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Travessa Cristiano Flisch"
 }

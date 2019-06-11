@@ -1,12 +1,12 @@
 {
-  "cep": "36200027",
-  "logradouro": "Rua José Pires dos Reis",
-  "bairro": "Ibiapaba",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ibiapaba",
+    "cep": "36200027",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua José Pires dos Reis"
 }
