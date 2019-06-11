@@ -1,12 +1,12 @@
 {
-  "cep": "93334490",
-  "logradouro": "Rua Carazinho",
-  "bairro": "Ideal",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ideal",
+    "cep": "93334490",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Carazinho"
 }

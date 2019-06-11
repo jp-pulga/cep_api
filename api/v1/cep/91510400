@@ -1,12 +1,12 @@
 {
-  "cep": "91510400",
-  "logradouro": "Rua Tenente Camargo",
-  "bairro": "Coronel Aparício Borges",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Coronel Aparício Borges",
+    "cep": "91510400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Tenente Camargo"
 }

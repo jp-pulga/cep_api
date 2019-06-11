@@ -1,12 +1,13 @@
 {
-  "cep": "94955240",
-  "logradouro": "Avenida Marechal Rondon até 2170 - lado par",
-  "bairro": "Vila Fátima",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Fátima",
+    "cep": "94955240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida Marechal Rondon - até 2170 - lado par"
 }

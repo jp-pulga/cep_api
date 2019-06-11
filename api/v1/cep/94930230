@@ -1,12 +1,13 @@
 {
-  "cep": "94930230",
-  "logradouro": "Avenida das Indústrias (Cruzeiro)",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Distrito Industrial",
+    "cep": "94930230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida das Indústrias (Cruzeiro)"
 }

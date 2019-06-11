@@ -1,12 +1,13 @@
 {
-  "cep": "96505322",
-  "logradouro": "Avenida dos Imigrantes até 748/749",
-  "bairro": "Oliveira",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Oliveira",
+    "cep": "96505322",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Avenida dos Imigrantes - até 748\/749"
 }

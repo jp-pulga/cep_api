@@ -1,12 +1,13 @@
 {
-  "cep": "92020333",
-  "logradouro": "Avenida Getúlio Vargas de 4561 a 5589 - lado ímpar",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marechal Rondon",
+    "cep": "92020333",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Getúlio Vargas - de 4561 a 5589 - lado ímpar"
 }

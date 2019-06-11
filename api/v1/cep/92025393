@@ -1,12 +1,13 @@
 {
-  "cep": "92025393",
-  "logradouro": "Avenida Getúlio Vargas de 4241 a 4559 - lado ímpar",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marechal Rondon",
+    "cep": "92025393",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Getúlio Vargas - de 4241 a 4559 - lado ímpar"
 }

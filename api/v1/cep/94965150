@@ -1,12 +1,13 @@
 {
-  "cep": "94965150",
-  "logradouro": "Avenida Estados Unidos",
-  "bairro": "Parque Marechal Rondon",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Marechal Rondon",
+    "cep": "94965150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida Estados Unidos"
 }

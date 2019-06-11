@@ -1,12 +1,12 @@
 {
-  "cep": "93420580",
-  "logradouro": "Rua Siqueira Campos",
-  "bairro": "Santo Afonso",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Afonso",
+    "cep": "93420580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Siqueira Campos"
 }

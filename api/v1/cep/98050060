@@ -1,12 +1,12 @@
 {
-  "cep": "98050060",
-  "logradouro": "Rua Capitão Simoes Pires",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Rita",
+    "cep": "98050060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Capitão Simoes Pires"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "92200820",
-  "logradouro": "Avenida Chico Xavier (Lot Prata))",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fátima",
+    "cep": "92200820",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Chico Xavier - de 2 ao fim - lado par"
 }

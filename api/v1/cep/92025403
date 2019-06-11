@@ -1,12 +1,13 @@
 {
-  "cep": "92025403",
-  "logradouro": "Avenida Inconfidência de 31 a 679 - lado ímpar",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças",
+    "cep": "92025403",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Inconfidência - de 31 a 679 - lado ímpar"
 }

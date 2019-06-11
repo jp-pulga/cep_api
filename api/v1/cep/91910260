@@ -1,12 +1,12 @@
 {
-  "cep": "91910260",
-  "logradouro": "Beco Dois (Rua Dr Barcelos)",
-  "bairro": "Camaquã",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Camaquã",
+    "cep": "91910260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Beco Dois (Rua Dr Barcelos)"
 }

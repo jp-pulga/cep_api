@@ -1,12 +1,13 @@
 {
-  "cep": "96503830",
-  "logradouro": "Avenida Passo do Moura",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ponche Verde",
+    "cep": "96503830",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Avenida Passo do Moura"
 }

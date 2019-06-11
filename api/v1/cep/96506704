@@ -1,12 +1,13 @@
 {
-  "cep": "96506704",
-  "logradouro": "Beco Dois (da Rua Jeremias Betencourt)",
-  "bairro": "Barcelos",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Barcelos",
+    "cep": "96506704",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Beco Dois (da Rua Jeremias Betencourt)"
 }

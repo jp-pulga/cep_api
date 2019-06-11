@@ -1,12 +1,13 @@
 {
-  "cep": "96506566",
-  "logradouro": "Avenida Presidente Vargas de 770/771 a 1428/1429",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco",
+    "cep": "96506566",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Avenida Presidente Vargas - de 770\/771 a 1428\/1429"
 }

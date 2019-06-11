@@ -1,12 +1,12 @@
 {
-  "cep": "99072085",
-  "logradouro": "Rua Capitão Bernardo",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "99072085",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Capitão Bernardo"
 }

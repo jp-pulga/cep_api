@@ -1,12 +1,13 @@
 {
-  "cep": "96501394",
-  "logradouro": "Acesso Um (da Rua Juvencio Soares)",
-  "bairro": "Soares",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Soares",
+    "cep": "96501394",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Acesso Um (da Rua Juvencio Soares)"
 }

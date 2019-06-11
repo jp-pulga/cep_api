@@ -1,12 +1,13 @@
 {
-  "cep": "94955570",
-  "logradouro": "Avenida José Brambila de 1437/1438 ao fim",
-  "bairro": "Vila Vista Alegre",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Vista Alegre",
+    "cep": "94955570",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida José Brambila - de 1437\/1438 ao fim"
 }

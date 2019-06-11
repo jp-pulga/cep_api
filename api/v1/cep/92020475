@@ -1,12 +1,13 @@
 {
-  "cep": "92020475",
-  "logradouro": "Avenida Farroupilha de 3827 a 6185 - lado ímpar",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marechal Rondon",
+    "cep": "92020475",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Farroupilha - de 3827 a 6185 - lado ímpar"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "95552000",
-  "logradouro": "Capivari do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Capivari do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95552000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Capivari do Sul"
+    },
+    "ibge": 4304671
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "96503142",
-  "logradouro": "Beco Inácio Xavier",
-  "bairro": "Noemia",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Noemia",
+    "cep": "96503142",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Beco Inácio Xavier"
 }

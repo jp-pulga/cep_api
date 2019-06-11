@@ -1,12 +1,13 @@
 {
-  "cep": "94910000",
-  "logradouro": "Avenida General Flores da Cunha até 735/0736",
-  "bairro": "Vila Santo Ângelo",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Santo Ângelo",
+    "cep": "94910000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida General Flores da Cunha - até 735\/0736"
 }

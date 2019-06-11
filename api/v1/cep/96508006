@@ -1,12 +1,13 @@
 {
-  "cep": "96508006",
-  "logradouro": "Avenida Presidente Vargas de 1430/1431 a 1848/1849",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "96508006",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Avenida Presidente Vargas - de 1430\/1431 a 1848\/1849"
 }

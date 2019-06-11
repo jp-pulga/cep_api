@@ -1,12 +1,13 @@
 {
-  "cep": "96503259",
-  "logradouro": "Avenida Marcelo Gama de 3621 ao fim - lado ímpar",
-  "bairro": "Noemia",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Noemia",
+    "cep": "96503259",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Avenida Marcelo Gama - de 3621 ao fim - lado ímpar"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "99051092",
-  "logradouro": "Rua João Maria Rodrigues de Camargo",
-  "bairro": "São Luiz Gonzaga",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luiz Gonzaga",
+    "cep": "99051092",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua João Maria Rodrigues de Camargo"
 }

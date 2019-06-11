@@ -1,12 +1,12 @@
 {
-  "cep": "93040280",
-  "logradouro": "Rua Candelária",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José",
+    "cep": "93040280",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Candelária"
 }

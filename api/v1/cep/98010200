@@ -1,12 +1,12 @@
 {
-  "cep": "98010200",
-  "logradouro": "Travessa Capitão Manoel Neves dos Santos",
-  "bairro": "Amizade",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Amizade",
+    "cep": "98010200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Travessa Capitão Manoel Neves dos Santos"
 }

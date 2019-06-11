@@ -1,12 +1,12 @@
 {
-  "cep": "92330400",
-  "logradouro": "Rua Candelária",
-  "bairro": "Mathias Velho",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mathias Velho",
+    "cep": "92330400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Candelária"
 }

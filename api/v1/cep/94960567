@@ -1,12 +1,13 @@
 {
-  "cep": "94960567",
-  "logradouro": "Avenida Carvalho",
-  "bairro": "Jardim do Bosque",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim do Bosque",
+    "cep": "94960567",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida Carvalho"
 }

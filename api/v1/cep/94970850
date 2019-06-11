@@ -1,12 +1,13 @@
 {
-  "cep": "94970850",
-  "logradouro": "Rodovia RS 118",
-  "bairro": "Jardim Betânia",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Betânia",
+    "cep": "94970850",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Rodovia RS 118"
 }

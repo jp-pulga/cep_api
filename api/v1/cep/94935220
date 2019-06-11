@@ -1,12 +1,13 @@
 {
-  "cep": "94935220",
-  "logradouro": "Avenida Fritz Beiser",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Distrito Industrial Ritter",
+    "cep": "94935220",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida Fritz Beiser"
 }

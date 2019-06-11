@@ -1,12 +1,13 @@
 {
-  "cep": "92110070",
-  "logradouro": "Avenida A (Bloco Roraima-Vl Militar)",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças",
+    "cep": "92110070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida A (Bloco Roraima-Vl Militar)"
 }

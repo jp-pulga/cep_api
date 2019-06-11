@@ -1,12 +1,13 @@
 {
-  "cep": "92320065",
-  "logradouro": "Avenida Antônio Wobeto",
-  "bairro": "Mato Grande",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mato Grande",
+    "cep": "92320065",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Antônio Wobeto"
 }

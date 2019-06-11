@@ -1,12 +1,13 @@
 {
-  "cep": "94920340",
-  "logradouro": "Avenida João Pessoa",
-  "bairro": "Vila Eunice Velha",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Eunice Velha",
+    "cep": "94920340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida João Pessoa"
 }

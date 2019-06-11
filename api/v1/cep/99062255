@@ -1,12 +1,12 @@
 {
-  "cep": "99062255",
-  "logradouro": "Travessa Canela I",
-  "bairro": "Planaltina",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Planaltina",
+    "cep": "99062255",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Travessa Canela I"
 }

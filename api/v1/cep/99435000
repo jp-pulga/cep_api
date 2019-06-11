@@ -1,12 +1,11 @@
 {
-  "cep": "99435000",
-  "logradouro": "Campos Borges",
-  "bairro": "",
-  "cidade": {
-    "nome": "Campos Borges",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99435000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Campos Borges"
+    },
+    "ibge": 4304101
 }

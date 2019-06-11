@@ -1,12 +1,12 @@
 {
-  "cep": "93212130",
-  "logradouro": "Rua Canguçu",
-  "bairro": "Fortuna",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fortuna",
+    "cep": "93212130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Canguçu"
 }

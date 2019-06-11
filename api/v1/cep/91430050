@@ -1,12 +1,12 @@
 {
-  "cep": "91430050",
-  "logradouro": "Rua Capão do Leão",
-  "bairro": "Jardim Carvalho",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Carvalho",
+    "cep": "91430050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Capão do Leão"
 }

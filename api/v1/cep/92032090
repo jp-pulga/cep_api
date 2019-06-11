@@ -1,12 +1,12 @@
 {
-  "cep": "92032090",
-  "logradouro": "Rua Capão Novo",
-  "bairro": "Estância Velha",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Estância Velha",
+    "cep": "92032090",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Capão Novo"
 }

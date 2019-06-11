@@ -1,12 +1,13 @@
 {
-  "cep": "96503773",
-  "logradouro": "Avenida Doutor Theonas de Oliveira",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Helena",
+    "cep": "96503773",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Avenida Doutor Theonas de Oliveira"
 }

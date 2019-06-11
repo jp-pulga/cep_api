@@ -1,12 +1,13 @@
 {
-  "cep": "94930075",
-  "logradouro": "Avenida Fernando Ferrari até 1595/1596",
-  "bairro": "Vila Regina",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Regina",
+    "cep": "94930075",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida Fernando Ferrari - até 1595\/1596"
 }

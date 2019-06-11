@@ -1,12 +1,12 @@
 {
-  "cep": "91910004",
-  "logradouro": "Beco Dois (Av Otto Niemeyer)",
-  "bairro": "Camaquã",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Camaquã",
+    "cep": "91910004",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Beco Dois (Av Otto Niemeyer)"
 }

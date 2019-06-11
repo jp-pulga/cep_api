@@ -1,12 +1,13 @@
 {
-  "cep": "92022290",
-  "logradouro": "Avenida Inconfidência de 1340 ao fim - lado par",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marechal Rondon",
+    "cep": "92022290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Inconfidência - de 1340 ao fim - lado par"
 }

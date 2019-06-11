@@ -1,12 +1,12 @@
 {
-  "cep": "91760170",
-  "logradouro": "Rua Capão da Canoa",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipanema",
+    "cep": "91760170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Capão da Canoa"
 }

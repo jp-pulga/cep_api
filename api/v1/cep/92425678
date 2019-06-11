@@ -1,12 +1,13 @@
 {
-  "cep": "92425678",
-  "logradouro": "Avenida Imigrantes (Lot Pq Ozanan)",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José",
+    "cep": "92425678",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Imigrantes (Lot Pq Ozanan)"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "94935200",
-  "logradouro": "Avenida Francisco Brochado da Rocha",
-  "bairro": "Vila City",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "City",
+    "cep": "94935200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida Francisco Brochado da Rocha"
 }

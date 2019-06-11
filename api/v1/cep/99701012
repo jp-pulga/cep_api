@@ -1,12 +1,12 @@
 {
-  "cep": "99701012",
-  "logradouro": "Rua Capitão Francisco Menegatti",
-  "bairro": "Morro da Cegonha",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Morro da Cegonha",
+    "cep": "99701012",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Capitão Francisco Menegatti"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "94930130",
-  "logradouro": "Avenida Beira Rio de 302/303 ao fim",
-  "bairro": "Vila Carlos Antônio Wilkens",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Carlos Antônio Wilkens",
+    "cep": "94930130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida Beira Rio - de 302\/303 ao fim"
 }

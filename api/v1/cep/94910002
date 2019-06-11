@@ -1,12 +1,13 @@
 {
-  "cep": "94910002",
-  "logradouro": "Avenida General Flores da Cunha de 1159/1160 a 1677/1678",
-  "bairro": "Vila Imbui",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Imbui",
+    "cep": "94910002",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "ibge": 4303103,
+    "logradouro": "Avenida General Flores da Cunha - de 1159\/1160 a 1677\/1678"
 }

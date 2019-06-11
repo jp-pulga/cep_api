@@ -1,12 +1,12 @@
 {
-  "cep": "91770340",
-  "logradouro": "Rua Geminiano Candiota Xavier",
-  "bairro": "Espírito Santo",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Espírito Santo",
+    "cep": "91770340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Geminiano Candiota Xavier"
 }

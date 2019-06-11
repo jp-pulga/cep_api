@@ -1,12 +1,13 @@
 {
-  "cep": "96503798",
-  "logradouro": "Avenida Marcelo Gama de 2900 a 3818 - lado par",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Helena",
+    "cep": "96503798",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "ibge": 4303004,
+    "logradouro": "Avenida Marcelo Gama - de 2900 a 3818 - lado par"
 }

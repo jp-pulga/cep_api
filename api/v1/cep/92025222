@@ -1,12 +1,13 @@
 {
-  "cep": "92025222",
-  "logradouro": "Avenida Santos Ferreira de 1400 a 2498 - lado par",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marechal Rondon",
+    "cep": "92025222",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Santos Ferreira - de 1400 a 2498 - lado par"
 }

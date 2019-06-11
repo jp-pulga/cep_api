@@ -1,12 +1,12 @@
 {
-  "cep": "97575521",
-  "logradouro": "Rua da Capela",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Santana do Livramento",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Paulo",
+    "cep": "97575521",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana do Livramento"
+    },
+    "logradouro": "Rua da Capela"
 }

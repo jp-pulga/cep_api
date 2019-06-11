@@ -1,12 +1,12 @@
 {
-  "cep": "93320210",
-  "logradouro": "Rua Cangucu",
-  "bairro": "Ouro Branco",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ouro Branco",
+    "cep": "93320210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Cangucu"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "92020020",
-  "logradouro": "Avenida Doutor Sezefredo Azambuja Vieira até 1014/1015",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marechal Rondon",
+    "cep": "92020020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Doutor Sezefredo Azambuja Vieira"
 }

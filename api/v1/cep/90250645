@@ -1,12 +1,12 @@
 {
-  "cep": "90250645",
-  "logradouro": "Praça Iberê Camargo",
-  "bairro": "Farrapos",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Farrapos",
+    "cep": "90250645",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Iberê Camargo"
 }

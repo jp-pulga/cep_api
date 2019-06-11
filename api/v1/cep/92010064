@@ -1,12 +1,13 @@
 {
-  "cep": "92010064",
-  "logradouro": "Avenida Getúlio Vargas de 6892 a 8000 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "92010064",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Getúlio Vargas - de 6892 a 8000 - lado par"
 }

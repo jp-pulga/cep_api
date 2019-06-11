@@ -1,12 +1,13 @@
 {
-  "cep": "92035720",
-  "logradouro": "Avenida A (Gja S Vicente II)",
-  "bairro": "Olaria",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Olaria",
+    "cep": "92035720",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida A (Gja S Vicente II)"
 }

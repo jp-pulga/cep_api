@@ -1,12 +1,12 @@
 {
-  "cep": "93270390",
-  "logradouro": "Rua Campos Sales",
-  "bairro": "Novo Esteio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Novo Esteio",
+    "cep": "93270390",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Campos Sales"
 }

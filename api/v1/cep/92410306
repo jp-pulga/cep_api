@@ -1,12 +1,13 @@
 {
-  "cep": "92410306",
-  "logradouro": "Avenida Farroupilha de 5932 a 7242 - lado par",
-  "bairro": "Igara",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Igara",
+    "cep": "92410306",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "ibge": 4304606,
+    "logradouro": "Avenida Farroupilha - de 5932 a 7242 - lado par"
 }
