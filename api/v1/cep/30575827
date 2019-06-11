@@ -1,12 +1,12 @@
 {
-  "cep": "30575827",
-  "logradouro": "Rua Alberto de Souza",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Buritis",
+    "cep": "30575827",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Alberto de Souza"
 }

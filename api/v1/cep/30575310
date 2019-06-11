@@ -1,12 +1,12 @@
 {
-  "cep": "30575310",
-  "logradouro": "Rua Eduardo Frieiro",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Buritis",
+    "cep": "30575310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Eduardo Frieiro"
 }

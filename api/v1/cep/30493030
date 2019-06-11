@@ -1,12 +1,12 @@
 {
-  "cep": "30493030",
-  "logradouro": "Avenida Engenheiro Carlos Goulart",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Buritis",
+    "cep": "30493030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Engenheiro Carlos Goulart"
 }

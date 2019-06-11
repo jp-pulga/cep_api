@@ -1,12 +1,11 @@
 {
-  "cep": "37880000",
-  "logradouro": "Cabo Verde",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cabo Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37880000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cabo Verde"
+    },
+    "ibge": 3109501
 }

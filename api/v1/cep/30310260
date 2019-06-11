@@ -1,12 +1,12 @@
 {
-  "cep": "30310260",
-  "logradouro": "Rua Cabo Verde",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "30310260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cabo Verde"
 }
