@@ -1,12 +1,11 @@
 {
-  "cep": "35494000",
-  "logradouro": "Desterro de Entre Rios",
-  "bairro": "",
-  "cidade": {
-    "nome": "Desterro de Entre Rios",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35494000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Desterro de Entre Rios"
+    },
+    "ibge": 3121407
 }

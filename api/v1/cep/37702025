@@ -1,12 +1,12 @@
 {
-  "cep": "37702025",
-  "logradouro": "Rua Delta",
-  "bairro": "Real Parque",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Real Parque",
+    "cep": "37702025",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Delta"
 }

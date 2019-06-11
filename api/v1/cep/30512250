@@ -1,12 +1,12 @@
 {
-  "cep": "30512250",
-  "logradouro": "Rua Diamantina",
-  "bairro": "Cabana do Pai Tomás",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cabana do Pai Tomás",
+    "cep": "30512250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Diamantina"
 }

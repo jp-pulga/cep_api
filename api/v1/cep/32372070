@@ -1,12 +1,12 @@
 {
-  "cep": "32372070",
-  "logradouro": "Avenida Delta",
-  "bairro": "Vila Paris",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Paris",
+    "cep": "32372070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Avenida Delta"
 }

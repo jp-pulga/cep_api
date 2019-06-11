@@ -1,12 +1,12 @@
 {
-  "cep": "35300232",
-  "logradouro": "Rua Diamantina",
-  "bairro": "Anápolis",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Anápolis",
+    "cep": "35300232",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Diamantina"
 }

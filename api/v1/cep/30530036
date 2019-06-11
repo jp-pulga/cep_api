@@ -1,12 +1,12 @@
 {
-  "cep": "30530036",
-  "logradouro": "Beco Zé do Chapéu",
-  "bairro": "Delta",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Delta",
+    "cep": "30530036",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Zé do Chapéu"
 }
