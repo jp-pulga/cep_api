@@ -1,12 +1,12 @@
 {
-  "cep": "35162666",
-  "logradouro": "Rua Flor-de-Minas",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jardim",
+    "cep": "35162666",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Flor-de-Minas"
 }

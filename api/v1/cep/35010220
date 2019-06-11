@@ -1,12 +1,12 @@
 {
-  "cep": "35010220",
-  "logradouro": "Rua Quintino Bocaiúva",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "35010220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Quintino Bocaiúva"
 }

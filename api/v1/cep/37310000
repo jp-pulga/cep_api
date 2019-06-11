@@ -1,12 +1,11 @@
 {
-  "cep": "37310000",
-  "logradouro": "Bom Jardim de Minas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bom Jardim de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37310000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Jardim de Minas"
+    },
+    "ibge": 3107505
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "39390000",
-  "logradouro": "Bocaiúva",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bocaiúva",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39390000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bocaiúva"
+    },
+    "ibge": 3107307
 }
