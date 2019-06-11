@@ -1,12 +1,12 @@
 {
-  "cep": "32180550",
-  "logradouro": "Rua Guarujá",
-  "bairro": "Estrela Dalva",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estrela Dalva",
+    "cep": "32180550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Guarujá"
 }

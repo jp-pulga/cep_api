@@ -1,12 +1,12 @@
 {
-  "cep": "37500285",
-  "logradouro": "Rua C",
-  "bairro": "Estiva",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estiva",
+    "cep": "37500285",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua C"
 }

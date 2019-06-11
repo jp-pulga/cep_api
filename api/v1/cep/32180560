@@ -1,12 +1,12 @@
 {
-  "cep": "32180560",
-  "logradouro": "Rua Cabo Frio",
-  "bairro": "Estrela Dalva",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estrela Dalva",
+    "cep": "32180560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Cabo Frio"
 }

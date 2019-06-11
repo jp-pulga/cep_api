@@ -1,12 +1,12 @@
 {
-  "cep": "37500277",
-  "logradouro": "Rua José Bernardes Filho",
-  "bairro": "Estiva",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estiva",
+    "cep": "37500277",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua José Bernardes Filho"
 }

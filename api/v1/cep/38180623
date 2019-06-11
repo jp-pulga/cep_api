@@ -1,12 +1,12 @@
 {
-  "cep": "38180623",
-  "logradouro": "Rua Estrela Dalva",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Domingos",
+    "cep": "38180623",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Estrela Dalva"
 }

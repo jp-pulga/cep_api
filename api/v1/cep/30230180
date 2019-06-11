@@ -1,12 +1,12 @@
 {
-  "cep": "30230180",
-  "logradouro": "Beco Espera Feliz",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima",
+    "cep": "30230180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Espera Feliz"
 }

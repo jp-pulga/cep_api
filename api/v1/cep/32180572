@@ -1,12 +1,12 @@
 {
-  "cep": "32180572",
-  "logradouro": "Beco Vitória",
-  "bairro": "Estrela Dalva",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estrela Dalva",
+    "cep": "32180572",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Beco Vitória"
 }

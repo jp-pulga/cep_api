@@ -1,12 +1,11 @@
 {
-  "cep": "36830000",
-  "logradouro": "Espera Feliz",
-  "bairro": "",
-  "cidade": {
-    "nome": "Espera Feliz",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36830000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Espera Feliz"
+    },
+    "ibge": 3124203
 }

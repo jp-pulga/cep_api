@@ -1,12 +1,11 @@
 {
-  "cep": "37542000",
-  "logradouro": "Estiva",
-  "bairro": "",
-  "cidade": {
-    "nome": "Estiva",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37542000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estiva"
+    },
+    "ibge": 3124500
 }

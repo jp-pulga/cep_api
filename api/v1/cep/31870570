@@ -1,12 +1,12 @@
 {
-  "cep": "31870570",
-  "logradouro": "Rua Estrela Dalva",
-  "bairro": "Ribeiro de Abreu",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ribeiro de Abreu",
+    "cep": "31870570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Estrela Dalva"
 }
