@@ -1,12 +1,13 @@
 {
-  "cep": "38184310",
-  "logradouro": "Avenida Antônio Rodrigues da Cunha",
-  "bairro": "Guilhermina Vieira Chaer",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guilhermina Vieira Chaer",
+    "cep": "38184310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Antônio Rodrigues da Cunha"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38181423",
-  "logradouro": "Rua Abrão José Bittar",
-  "bairro": "Jardim Residencial Bela Vista",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Residencial Bela Vista",
+    "cep": "38181423",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Abrão José Bittar"
 }

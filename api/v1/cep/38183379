@@ -1,12 +1,13 @@
 {
-  "cep": "38183379",
-  "logradouro": "Alameda da Liberdade",
-  "bairro": "Vila Silvéria",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Silvéria",
+    "cep": "38183379",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Alameda da Liberdade"
 }

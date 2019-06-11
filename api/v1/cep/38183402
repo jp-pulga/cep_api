@@ -1,12 +1,13 @@
 {
-  "cep": "38183402",
-  "logradouro": "Avenida Dalcy Santos Cunha",
-  "bairro": "Dona Beja",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Beja",
+    "cep": "38183402",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Dalcy Santos Cunha"
 }

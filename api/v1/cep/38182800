@@ -1,12 +1,13 @@
 {
-  "cep": "38182800",
-  "logradouro": "Avenida Antônio Vieira Dornelas",
-  "bairro": "Recanto do Bosque",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Recanto do Bosque",
+    "cep": "38182800",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Antônio Vieira Dornelas"
 }

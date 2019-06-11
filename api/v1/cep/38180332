@@ -1,12 +1,13 @@
 {
-  "cep": "38180332",
-  "logradouro": "Alameda B",
-  "bairro": "Loteamento Valter dos Reis Ramos e Outros",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loteamento Valter dos Reis Ramos e Outros",
+    "cep": "38180332",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Alameda B"
 }

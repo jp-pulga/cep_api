@@ -1,12 +1,13 @@
 {
-  "cep": "38181136",
-  "logradouro": "Avenida Antônio Afonso Vale",
-  "bairro": "Urciano Lemos",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Urciano Lemos",
+    "cep": "38181136",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Antônio Afonso Vale"
 }

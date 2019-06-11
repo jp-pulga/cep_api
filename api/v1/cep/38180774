@@ -1,12 +1,13 @@
 {
-  "cep": "38180774",
-  "logradouro": "Alameda do Lago",
-  "bairro": "Riviera do Lago",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Riviera do Lago",
+    "cep": "38180774",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Alameda do Lago"
 }

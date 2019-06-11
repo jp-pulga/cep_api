@@ -1,12 +1,13 @@
 {
-  "cep": "38183063",
-  "logradouro": "Avenida Damaso Drumond",
-  "bairro": "Vila São Pedro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila São Pedro",
+    "cep": "38183063",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Damaso Drumond"
 }

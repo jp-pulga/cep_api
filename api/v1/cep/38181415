@@ -1,12 +1,13 @@
 {
-  "cep": "38181415",
-  "logradouro": "Alameda do Sol",
-  "bairro": "Jardim Residencial Bela Vista",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Residencial Bela Vista",
+    "cep": "38181415",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Alameda do Sol"
 }

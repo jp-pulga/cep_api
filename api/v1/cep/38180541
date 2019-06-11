@@ -1,12 +1,13 @@
 {
-  "cep": "38180541",
-  "logradouro": "Avenida dos Buritis",
-  "bairro": "Monte Verde",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Verde",
+    "cep": "38180541",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida dos Buritis"
 }

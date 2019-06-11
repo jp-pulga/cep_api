@@ -1,12 +1,12 @@
 {
-  "cep": "39404249",
-  "logradouro": "Rua Lagoa Arapuã",
-  "bairro": "Interlagos",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Interlagos",
+    "cep": "39404249",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Lagoa Arapuã"
 }

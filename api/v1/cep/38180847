@@ -1,12 +1,13 @@
 {
-  "cep": "38180847",
-  "logradouro": "Avenida Um",
-  "bairro": "Loteamento Fenícia",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loteamento Fenícia",
+    "cep": "38180847",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Adão Rodrigues Fraga"
 }

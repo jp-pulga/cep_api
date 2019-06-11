@@ -1,12 +1,13 @@
 {
-  "cep": "38183166",
-  "logradouro": "Avenida Capitão Belarmino de Paula Machado até 234/235",
-  "bairro": "Doutor Pedro Pezzuti",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Doutor Pedro Pezzuti",
+    "cep": "38183166",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Capitão Belarmino de Paula Machado - até 234\/235"
 }

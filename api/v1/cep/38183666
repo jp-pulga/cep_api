@@ -1,12 +1,13 @@
 {
-  "cep": "38183666",
-  "logradouro": "Rodovia MG-428 (Araxá-Franca)",
-  "bairro": "Dona Beja",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Beja",
+    "cep": "38183666",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Rodovia MG-428 (Araxá-Franca)"
 }

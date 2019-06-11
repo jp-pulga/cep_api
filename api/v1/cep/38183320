@@ -1,12 +1,13 @@
 {
-  "cep": "38183320",
-  "logradouro": "Avenida Antônio Lemos Ribeiro",
-  "bairro": "Loteamento Residencial Flora Urciano",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loteamento Residencial Flora Urciano",
+    "cep": "38183320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Antônio Lemos Ribeiro"
 }

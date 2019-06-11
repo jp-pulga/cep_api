@@ -1,12 +1,13 @@
 {
-  "cep": "38180780",
-  "logradouro": "Alameda Solimões",
-  "bairro": "Riviera do Lago",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Riviera do Lago",
+    "cep": "38180780",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Alameda Solimões"
 }

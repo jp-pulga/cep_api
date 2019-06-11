@@ -1,12 +1,13 @@
 {
-  "cep": "38184130",
-  "logradouro": "Avenida do Contorno",
-  "bairro": "Vila Santa Luzia",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Luzia",
+    "cep": "38184130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida do Contorno"
 }

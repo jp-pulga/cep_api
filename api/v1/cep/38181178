@@ -1,12 +1,13 @@
 {
-  "cep": "38181178",
-  "logradouro": "Avenida Ademar Guimarães",
-  "bairro": "Tiradentes",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tiradentes",
+    "cep": "38181178",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Ademar Guimarães"
 }

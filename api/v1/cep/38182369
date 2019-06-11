@@ -1,12 +1,13 @@
 {
-  "cep": "38182369",
-  "logradouro": "Avenida Divino Alves Ferreira até 99999 - lado ímpar",
-  "bairro": "Vila Estância",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Estância",
+    "cep": "38182369",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Divino Alves Ferreira - lado ímpar"
 }

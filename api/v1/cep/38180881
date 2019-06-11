@@ -1,12 +1,13 @@
 {
-  "cep": "38180881",
-  "logradouro": "Avenida das Alamandas",
-  "bairro": "Loteamento Vila Verde",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loteamento Vila Verde",
+    "cep": "38180881",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida das Alamandas"
 }

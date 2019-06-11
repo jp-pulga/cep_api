@@ -1,12 +1,13 @@
 {
-  "cep": "38183650",
-  "logradouro": "Avenida das Palmeiras",
-  "bairro": "Parque das Flores",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque das Flores",
+    "cep": "38183650",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida das Palmeiras"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38444318",
-  "logradouro": "Rua Araxá",
-  "bairro": "Santiago",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santiago",
+    "cep": "38444318",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Araxá"
 }

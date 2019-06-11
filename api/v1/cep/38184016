@@ -1,12 +1,13 @@
 {
-  "cep": "38184016",
-  "logradouro": "Alameda Inácio Paes Leme",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "38184016",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Alameda Inácio Paes Leme"
 }

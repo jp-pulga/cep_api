@@ -1,12 +1,13 @@
 {
-  "cep": "38182333",
-  "logradouro": "Avenida Divino Alves Ferreira até 99998 - lado par",
-  "bairro": "Vila Padre Alaor",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Padre Alaor",
+    "cep": "38182333",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Divino Alves Ferreira - lado par"
 }

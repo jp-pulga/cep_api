@@ -1,12 +1,12 @@
 {
-  "cep": "35020250",
-  "logradouro": "Avenida Jequitinhonha",
-  "bairro": "Ilha dos Araújos",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ilha dos Araújos",
+    "cep": "35020250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Avenida Jequitinhonha"
 }

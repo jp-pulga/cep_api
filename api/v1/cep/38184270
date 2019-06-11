@@ -1,12 +1,13 @@
 {
-  "cep": "38184270",
-  "logradouro": "Avenida Arafértil",
-  "bairro": "Setor Sul",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Setor Sul",
+    "cep": "38184270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Arafértil"
 }

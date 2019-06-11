@@ -1,12 +1,13 @@
 {
-  "cep": "38183420",
-  "logradouro": "Alameda da Liberdade",
-  "bairro": "Dona Beja",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Beja",
+    "cep": "38183420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Alameda da Liberdade"
 }

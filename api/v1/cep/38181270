@@ -1,12 +1,13 @@
 {
-  "cep": "38181270",
-  "logradouro": "Avenida A",
-  "bairro": "Jardim Residencial Bela Vista",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Residencial Bela Vista",
+    "cep": "38181270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida A"
 }

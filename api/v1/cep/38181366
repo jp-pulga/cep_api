@@ -1,12 +1,13 @@
 {
-  "cep": "38181366",
-  "logradouro": "Avenida Dois",
-  "bairro": "Loteamento Nosso Lar",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loteamento Nosso Lar",
+    "cep": "38181366",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "ibge": 3104007,
+    "logradouro": "Avenida Dois"
 }
