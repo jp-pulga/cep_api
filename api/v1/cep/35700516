@@ -1,12 +1,12 @@
 {
-  "cep": "35700516",
-  "logradouro": "Rua Tocantins",
-  "bairro": "Manoa",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Manoa",
+    "cep": "35700516",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Tocantins"
 }

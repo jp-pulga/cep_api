@@ -1,12 +1,12 @@
 {
-  "cep": "08041810",
-  "logradouro": "Rua Erva de Touro",
-  "bairro": "Jardim Lajeado",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Lajeado",
+    "cep": "08041810",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Erva de Touro"
 }
