@@ -1,12 +1,11 @@
 {
-  "cep": "35460000",
-  "logradouro": "Brumadinho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Brumadinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35460000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brumadinho"
+    },
+    "ibge": 3109006
 }

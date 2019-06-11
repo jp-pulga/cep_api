@@ -1,12 +1,12 @@
 {
-  "cep": "37701339",
-  "logradouro": "Rua João Bueno Brandão",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo",
+    "cep": "37701339",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua João Bueno Brandão"
 }

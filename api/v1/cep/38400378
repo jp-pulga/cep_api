@@ -1,12 +1,12 @@
 {
-  "cep": "38400378",
-  "logradouro": "Rua Bueno Brandão",
-  "bairro": "Osvaldo Rezende",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Osvaldo Rezende",
+    "cep": "38400378",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Bueno Brandão"
 }
