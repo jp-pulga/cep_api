@@ -1,12 +1,12 @@
 {
-  "cep": "35501186",
-  "logradouro": "Rua Rio Tocantins",
-  "bairro": "Tietê",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tietê",
+    "cep": "35501186",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Rio Tocantins"
 }

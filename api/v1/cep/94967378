@@ -1,12 +1,12 @@
 {
-  "cep": "94967378",
-  "logradouro": "Rua Torênia",
-  "bairro": "Chácara das Rosas",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Chácara das Rosas",
+    "cep": "94967378",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Torênia"
 }

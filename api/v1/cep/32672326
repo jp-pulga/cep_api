@@ -1,12 +1,12 @@
 {
-  "cep": "32672326",
-  "logradouro": "Rua Tocantins",
-  "bairro": "Senhora de Fátima",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhora de Fátima",
+    "cep": "32672326",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Tocantins"
 }

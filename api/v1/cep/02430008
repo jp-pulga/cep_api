@@ -1,12 +1,12 @@
 {
-  "cep": "02430008",
-  "logradouro": "Rua Torre da Boa Viagem",
-  "bairro": "Vila Nova Cachoeirinha",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Cachoeirinha",
+    "cep": "02430008",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Torre da Boa Viagem"
 }
