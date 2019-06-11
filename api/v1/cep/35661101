@@ -1,12 +1,12 @@
 {
-  "cep": "35661101",
-  "logradouro": "Rua Maria do Carmo Sampaio Xavier",
-  "bairro": "Recanto da Lagoa",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Recanto da Lagoa",
+    "cep": "35661101",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Maria do Carmo Sampaio Xavier"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38700266",
-  "logradouro": "Rua Carmo do Paranaíba",
-  "bairro": "Vila Rosa",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Rosa",
+    "cep": "38700266",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Carmo do Paranaíba"
 }

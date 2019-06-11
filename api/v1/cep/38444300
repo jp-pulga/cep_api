@@ -1,12 +1,12 @@
 {
-  "cep": "38444300",
-  "logradouro": "Rua Carmo do Paranaíba",
-  "bairro": "Jóquei Clube",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jóquei Clube",
+    "cep": "38444300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Carmo do Paranaíba"
 }
