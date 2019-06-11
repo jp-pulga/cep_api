@@ -1,12 +1,12 @@
 {
-  "cep": "30310600",
-  "logradouro": "Rua Santa Maria Itabira",
-  "bairro": "Sion",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sion",
+    "cep": "30310600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Santa Maria Itabira"
 }

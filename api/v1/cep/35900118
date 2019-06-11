@@ -1,12 +1,13 @@
 {
-  "cep": "35900118",
-  "logradouro": "Avenida das Rosas de 924/925 ao fim",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro",
+    "cep": "35900118",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida das Rosas - de 924\/925 ao fim"
 }

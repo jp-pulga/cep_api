@@ -1,12 +1,12 @@
 {
-  "cep": "35903052",
-  "logradouro": "Avenida Itabirito",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial",
+    "cep": "35903052",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Avenida Itabirito"
 }

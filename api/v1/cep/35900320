@@ -1,12 +1,13 @@
 {
-  "cep": "35900320",
-  "logradouro": "Avenida Anthuriuns",
-  "bairro": "Colina da Praia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colina da Praia",
+    "cep": "35900320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Anthuriuns"
 }

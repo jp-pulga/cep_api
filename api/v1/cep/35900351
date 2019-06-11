@@ -1,12 +1,13 @@
 {
-  "cep": "35900351",
-  "logradouro": "Avenida Ipiranga de 501/502 ao fim",
-  "bairro": "Novo Amazonas",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Amazonas",
+    "cep": "35900351",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Ipiranga - de 501\/502 ao fim"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36204041",
-  "logradouro": "Rua Itabirito",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte",
+    "cep": "36204041",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Itabirito"
 }

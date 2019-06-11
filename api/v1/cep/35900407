@@ -1,12 +1,13 @@
 {
-  "cep": "35900407",
-  "logradouro": "Avenida dos Vereadores",
-  "bairro": "Gabiroba (1ª Seção)",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Gabiroba (1ª Seção)",
+    "cep": "35900407",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida dos Vereadores"
 }

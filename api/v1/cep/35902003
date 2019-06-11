@@ -1,12 +1,13 @@
 {
-  "cep": "35902003",
-  "logradouro": "Avenida dos Advogados",
-  "bairro": "Gabiroba",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Gabiroba",
+    "cep": "35902003",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida dos Advogados"
 }

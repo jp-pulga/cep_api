@@ -1,12 +1,13 @@
 {
-  "cep": "35900367",
-  "logradouro": "Avenida Brasil até 876/877",
-  "bairro": "Amazonas",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Amazonas",
+    "cep": "35900367",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Brasil - até 876\/877"
 }

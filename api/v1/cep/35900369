@@ -1,12 +1,13 @@
 {
-  "cep": "35900369",
-  "logradouro": "Avenida Brasil de 878/879 ao fim",
-  "bairro": "Amazonas",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Amazonas",
+    "cep": "35900369",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Brasil - de 878\/879 ao fim"
 }

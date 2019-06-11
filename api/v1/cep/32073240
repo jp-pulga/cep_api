@@ -1,12 +1,12 @@
 {
-  "cep": "32073240",
-  "logradouro": "Rua Itabirito",
-  "bairro": "Industrial São Luiz",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial São Luiz",
+    "cep": "32073240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Itabirito"
 }

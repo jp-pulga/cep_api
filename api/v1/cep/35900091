@@ -1,12 +1,13 @@
 {
-  "cep": "35900091",
-  "logradouro": "Avenida Emílio Zacarias da Silva",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "35900091",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Emílio Zacarias da Silva"
 }

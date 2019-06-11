@@ -1,12 +1,13 @@
 {
-  "cep": "35900680",
-  "logradouro": "Avenida Cristina Gazire",
-  "bairro": "Praia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Praia",
+    "cep": "35900680",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Cristina Gazire"
 }

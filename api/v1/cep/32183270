@@ -1,12 +1,12 @@
 {
-  "cep": "32183270",
-  "logradouro": "Rua Itabirito",
-  "bairro": "Carajás",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carajás",
+    "cep": "32183270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Itabirito"
 }

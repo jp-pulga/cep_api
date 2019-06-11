@@ -1,12 +1,12 @@
 {
-  "cep": "36051500",
-  "logradouro": "Rua Itabirito",
-  "bairro": "Manoel Honório",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Manoel Honório",
+    "cep": "36051500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Itabirito"
 }

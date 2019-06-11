@@ -1,12 +1,13 @@
 {
-  "cep": "35900648",
-  "logradouro": "Alameda José Dorotéia Reis",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "35900648",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Alameda José Dorotéia Reis"
 }

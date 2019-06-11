@@ -1,12 +1,13 @@
 {
-  "cep": "35900063",
-  "logradouro": "Avenida France de Paula Andrade de 524/525 ao fim",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Penha",
+    "cep": "35900063",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida France de Paula Andrade - de 524\/525 ao fim"
 }

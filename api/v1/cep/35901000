@@ -1,12 +1,13 @@
 {
-  "cep": "35901000",
-  "logradouro": "Avenida Fábio Pires",
-  "bairro": "Clóvis Alvim I",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Clóvis Alvim I",
+    "cep": "35901000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Fábio Pires"
 }

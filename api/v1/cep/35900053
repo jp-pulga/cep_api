@@ -1,12 +1,13 @@
 {
-  "cep": "35900053",
-  "logradouro": "Avenida France de Paula Andrade até 522/523",
-  "bairro": "Vila Nações Unidas",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Nações Unidas",
+    "cep": "35900053",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida France de Paula Andrade - até 522\/523"
 }

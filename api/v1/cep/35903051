@@ -1,12 +1,13 @@
 {
-  "cep": "35903051",
-  "logradouro": "Avenida Hematita",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial",
+    "cep": "35903051",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "ibge": 3131703,
+    "logradouro": "Avenida Hematita"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31110340",
-  "logradouro": "Rua Itabira",
-  "bairro": "Lagoinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoinha",
+    "cep": "31110340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Itabira"
 }
