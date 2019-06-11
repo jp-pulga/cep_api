@@ -1,12 +1,11 @@
 {
-  "cep": "36280000",
-  "logradouro": "Carandaí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Carandaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36280000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carandaí"
+    },
+    "ibge": 3113206
 }

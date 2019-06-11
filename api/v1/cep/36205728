@@ -1,12 +1,12 @@
 {
-  "cep": "36205728",
-  "logradouro": "Rua Carandaí",
-  "bairro": "Nova Cidade",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Cidade",
+    "cep": "36205728",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Carandaí"
 }
