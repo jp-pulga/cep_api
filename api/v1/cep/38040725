@@ -1,12 +1,12 @@
 {
-  "cep": "38040725",
-  "logradouro": "Avenida Geraldo Formiga do Nascimento",
-  "bairro": "Recreio dos Bandeirantes",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Recreio dos Bandeirantes",
+    "cep": "38040725",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Avenida Geraldo Formiga do Nascimento"
 }

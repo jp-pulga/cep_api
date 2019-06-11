@@ -1,12 +1,12 @@
 {
-  "cep": "35701253",
-  "logradouro": "Rua Fortuna de Minas",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "35701253",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Fortuna de Minas"
 }

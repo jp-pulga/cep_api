@@ -1,12 +1,12 @@
 {
-  "cep": "35700243",
-  "logradouro": "Rua Formiga",
-  "bairro": "Catarina",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Catarina",
+    "cep": "35700243",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Formiga"
 }

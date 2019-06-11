@@ -1,12 +1,12 @@
 {
-  "cep": "34585000",
-  "logradouro": "Rua Formiga",
-  "bairro": "Itacolomi",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itacolomi",
+    "cep": "34585000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Formiga"
 }

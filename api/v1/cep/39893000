@@ -1,12 +1,10 @@
 {
-  "cep": "39893000",
-  "logradouro": "Monte Formoso",
-  "bairro": "",
-  "cidade": {
-    "nome": "Monte Formoso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
+    "cep": "39893000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monte Formoso"
     }
-  }
 }
