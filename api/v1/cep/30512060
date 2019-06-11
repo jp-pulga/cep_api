@@ -1,12 +1,12 @@
 {
-  "cep": "30512060",
-  "logradouro": "Rua da Chácara",
-  "bairro": "Cabana do Pai Tomás",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cabana do Pai Tomás",
+    "cep": "30512060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua da Chácara"
 }
