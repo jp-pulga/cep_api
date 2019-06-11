@@ -1,12 +1,12 @@
 {
-  "cep": "38035130",
-  "logradouro": "Rua das Açucenas",
-  "bairro": "Lourdes",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lourdes",
+    "cep": "38035130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua das Açucenas"
 }

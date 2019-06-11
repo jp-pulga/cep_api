@@ -1,12 +1,12 @@
 {
-  "cep": "31250141",
-  "logradouro": "Alameda Açucena",
-  "bairro": "Vila Sumaré",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Sumaré",
+    "cep": "31250141",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Alameda Açucena"
 }

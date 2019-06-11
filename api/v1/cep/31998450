@@ -1,12 +1,12 @@
 {
-  "cep": "31998450",
-  "logradouro": "Rua Capitão Eduardo",
-  "bairro": "Acaiaca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Acaiaca",
+    "cep": "31998450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Capitão Eduardo"
 }

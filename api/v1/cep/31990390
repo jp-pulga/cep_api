@@ -1,12 +1,12 @@
 {
-  "cep": "31990390",
-  "logradouro": "Rua Dom Helvécio",
-  "bairro": "Acaiaca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Acaiaca",
+    "cep": "31990390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Dom Helvécio"
 }

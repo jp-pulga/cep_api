@@ -1,12 +1,12 @@
 {
-  "cep": "31998452",
-  "logradouro": "Rua Antônio Mariano de Abreu",
-  "bairro": "Acaiaca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Acaiaca",
+    "cep": "31998452",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antônio Mariano de Abreu"
 }

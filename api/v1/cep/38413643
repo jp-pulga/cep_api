@@ -1,12 +1,12 @@
 {
-  "cep": "38413643",
-  "logradouro": "Rua das Açucenas",
-  "bairro": "Panorama",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Panorama",
+    "cep": "38413643",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua das Açucenas"
 }

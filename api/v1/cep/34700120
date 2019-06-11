@@ -1,12 +1,12 @@
 {
-  "cep": "34700120",
-  "logradouro": "Rua Açucena",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada",
+    "cep": "34700120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Açucena"
 }

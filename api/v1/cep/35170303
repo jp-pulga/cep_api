@@ -1,12 +1,12 @@
 {
-  "cep": "35170303",
-  "logradouro": "Rua Açucena",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Domingos",
+    "cep": "35170303",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Açucena"
 }

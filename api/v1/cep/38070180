@@ -1,12 +1,12 @@
 {
-  "cep": "38070180",
-  "logradouro": "Rua Abadia dos Dourados",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista",
+    "cep": "38070180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Abadia dos Dourados"
 }

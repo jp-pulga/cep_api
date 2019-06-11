@@ -1,12 +1,12 @@
 {
-  "cep": "69400468",
-  "logradouro": "Rua Barcelos",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "69400468",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Rua Barcelos"
 }

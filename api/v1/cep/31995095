@@ -1,12 +1,12 @@
 {
-  "cep": "31995095",
-  "logradouro": "Rua Antônio Telles Pereira",
-  "bairro": "Acaiaca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Acaiaca",
+    "cep": "31995095",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antônio Telles Pereira"
 }

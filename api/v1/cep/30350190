@@ -1,12 +1,12 @@
 {
-  "cep": "30350190",
-  "logradouro": "Rua Abre Campo",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "30350190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Abre Campo"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31990365",
-  "logradouro": "Rua Um",
-  "bairro": "Acaiaca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Acaiaca",
+    "cep": "31990365",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Um"
 }

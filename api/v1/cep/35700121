@@ -1,12 +1,12 @@
 {
-  "cep": "35700121",
-  "logradouro": "Rua Abaeté",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista",
+    "cep": "35700121",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Abaeté"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69400464",
-  "logradouro": "Travessa Barcelos",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "69400464",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Travessa Barcelos"
 }
