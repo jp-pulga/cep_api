@@ -1,12 +1,12 @@
 {
-  "cep": "38705004",
-  "logradouro": "Rua Guarará",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado",
+    "cep": "38705004",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Guarará"
 }

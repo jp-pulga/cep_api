@@ -1,12 +1,12 @@
 {
-  "cep": "38182112",
-  "logradouro": "Rua Guarani",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "38182112",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Guarani"
 }

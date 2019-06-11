@@ -1,12 +1,12 @@
 {
-  "cep": "36309028",
-  "logradouro": "Rua Armênio Reis",
-  "bairro": "Guarda-Mor",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarda-Mor",
+    "cep": "36309028",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Armênio Reis"
 }

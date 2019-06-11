@@ -1,12 +1,12 @@
 {
-  "cep": "36309010",
-  "logradouro": "Rua João Alfenes da Silva",
-  "bairro": "Guarda-Mor",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarda-Mor",
+    "cep": "36309010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua João Alfenes da Silva"
 }

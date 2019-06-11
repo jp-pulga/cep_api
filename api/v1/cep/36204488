@@ -1,12 +1,12 @@
 {
-  "cep": "36204488",
-  "logradouro": "Rua Carlos Roberto da Silva",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarani",
+    "cep": "36204488",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Carlos Roberto da Silva"
 }

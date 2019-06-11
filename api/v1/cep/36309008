@@ -1,12 +1,12 @@
 {
-  "cep": "36309008",
-  "logradouro": "Rua Antônio José Gomes Carneiro",
-  "bairro": "Guarda-Mor",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarda-Mor",
+    "cep": "36309008",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Antônio José Gomes Carneiro"
 }

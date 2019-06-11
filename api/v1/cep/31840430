@@ -1,12 +1,12 @@
 {
-  "cep": "31840430",
-  "logradouro": "Rua Itami",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarani",
+    "cep": "31840430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Itami"
 }

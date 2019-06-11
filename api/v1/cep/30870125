@@ -1,12 +1,12 @@
 {
-  "cep": "30870125",
-  "logradouro": "Rua Antônio Noronha Guarany",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Glória",
+    "cep": "30870125",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antônio Noronha Guarany"
 }

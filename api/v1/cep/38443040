@@ -1,12 +1,12 @@
 {
-  "cep": "38443040",
-  "logradouro": "Rua Guarani",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João",
+    "cep": "38443040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Guarani"
 }

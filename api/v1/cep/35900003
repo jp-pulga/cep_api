@@ -1,12 +1,12 @@
 {
-  "cep": "35900003",
-  "logradouro": "Rua Guarda-Mor Custódio",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "35900003",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Guarda-Mor Custódio"
 }

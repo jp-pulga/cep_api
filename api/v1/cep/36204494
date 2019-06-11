@@ -1,12 +1,12 @@
 {
-  "cep": "36204494",
-  "logradouro": "Rua A",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarani",
+    "cep": "36204494",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua A"
 }

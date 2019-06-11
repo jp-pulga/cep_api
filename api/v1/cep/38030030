@@ -1,12 +1,12 @@
 {
-  "cep": "38030030",
-  "logradouro": "Rua Guararapes",
-  "bairro": "Cidade Jardim",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Jardim",
+    "cep": "38030030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Guararapes"
 }

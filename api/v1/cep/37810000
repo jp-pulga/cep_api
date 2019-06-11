@@ -1,12 +1,11 @@
 {
-  "cep": "37810000",
-  "logradouro": "Guaranésia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Guaranésia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37810000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guaranésia"
+    },
+    "ibge": 3128303
 }

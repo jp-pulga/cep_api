@@ -1,12 +1,12 @@
 {
-  "cep": "36309016",
-  "logradouro": "Rua Gustavo Alves Braga",
-  "bairro": "Guarda-Mor",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarda-Mor",
+    "cep": "36309016",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Gustavo Alves Braga"
 }

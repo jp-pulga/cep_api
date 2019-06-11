@@ -1,12 +1,12 @@
 {
-  "cep": "30865000",
-  "logradouro": "Rua Guararapes de 1142/1143 ao fim",
-  "bairro": "Pindorama",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pindorama",
+    "cep": "30865000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Guararapes - de 1142\/1143 ao fim"
 }

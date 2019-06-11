@@ -1,12 +1,12 @@
 {
-  "cep": "31840220",
-  "logradouro": "Avenida Saramenha",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarani",
+    "cep": "31840220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Saramenha"
 }

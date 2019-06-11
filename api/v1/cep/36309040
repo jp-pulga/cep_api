@@ -1,12 +1,12 @@
 {
-  "cep": "36309040",
-  "logradouro": "Rua José Antônio da Silva",
-  "bairro": "Guarda-Mor",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarda-Mor",
+    "cep": "36309040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua José Antônio da Silva"
 }

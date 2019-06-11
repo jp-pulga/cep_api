@@ -1,12 +1,12 @@
 {
-  "cep": "38446132",
-  "logradouro": "Rua Guarani",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Luiz",
+    "cep": "38446132",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Guarani"
 }
