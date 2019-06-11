@@ -1,12 +1,12 @@
 {
-  "cep": "69006763",
-  "logradouro": "Travessa Autazes",
-  "bairro": "Gilberto Mestrinho",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Gilberto Mestrinho",
+    "cep": "69006763",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Autazes"
 }
