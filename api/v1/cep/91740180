@@ -1,12 +1,12 @@
 {
-  "cep": "91740180",
-  "logradouro": "Rua Arroio Grande",
-  "bairro": "Cavalhada",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cavalhada",
+    "cep": "91740180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Arroio Grande"
 }

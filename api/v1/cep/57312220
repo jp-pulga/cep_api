@@ -1,12 +1,13 @@
 {
-  "cep": "57312220",
-  "logradouro": "Rua Alan Kardec",
-  "bairro": "Santa Esmeralda",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santa Esmeralda",
+    "cep": "57312220",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Alan Kardec"
 }

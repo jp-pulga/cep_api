@@ -1,12 +1,13 @@
 {
-  "cep": "57312415",
-  "logradouro": "Rua Delmiro Gouveia",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro",
+    "cep": "57312415",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Delmiro Gouveia"
 }

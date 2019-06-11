@@ -1,12 +1,12 @@
 {
-  "cep": "94810430",
-  "logradouro": "Rua Bagé",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "94810430",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Bagé"
 }

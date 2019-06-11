@@ -1,12 +1,13 @@
 {
-  "cep": "57311040",
-  "logradouro": "Rodovia AL-220 lado ímpar",
-  "bairro": "Jardim de Maria",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jardim de Maria",
+    "cep": "57311040",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rodovia AL-220 - lado ímpar"
 }

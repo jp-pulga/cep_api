@@ -1,12 +1,13 @@
 {
-  "cep": "57302692",
-  "logradouro": "Rua Elizabete Almeida Oliveira",
-  "bairro": "Canafístula",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canafístula",
+    "cep": "57302692",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Elizabete Almeida Oliveira"
 }

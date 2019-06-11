@@ -1,12 +1,12 @@
 {
-  "cep": "91712390",
-  "logradouro": "Rua Arroio dos Padres",
-  "bairro": "Teresópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Teresópolis",
+    "cep": "91712390",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Arroio dos Padres"
 }

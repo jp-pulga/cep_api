@@ -1,12 +1,13 @@
 {
-  "cep": "96420100",
-  "logradouro": "Avenida Emílio Guilain até 139/140",
-  "bairro": "Castro Alves",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Castro Alves",
+    "cep": "96420100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "ibge": 4301602,
+    "logradouro": "Avenida Emílio Guilain - até 139\/140"
 }

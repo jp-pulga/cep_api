@@ -1,12 +1,13 @@
 {
-  "cep": "97543550",
-  "logradouro": "Avenida da Saudade",
-  "bairro": "Saudade",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Saudade",
+    "cep": "97543550",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida da Saudade"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93135602",
-  "logradouro": "Rua Salvador Nunes de Moraes Sobrinho",
-  "bairro": "Arroio da Manteiga",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arroio da Manteiga",
+    "cep": "93135602",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Salvador Nunes de Moraes Sobrinho"
 }

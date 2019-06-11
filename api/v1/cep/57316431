@@ -1,12 +1,13 @@
 {
-  "cep": "57316431",
-  "logradouro": "Rodovia AL-115 lado ímpar",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Nova Esperança",
+    "cep": "57316431",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rodovia AL-115 - lado ímpar"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "98750000",
-  "logradouro": "Ajuricaba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ajuricaba",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98750000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ajuricaba"
+    },
+    "ibge": 4300208
 }

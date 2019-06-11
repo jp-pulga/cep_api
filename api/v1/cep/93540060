@@ -1,12 +1,12 @@
 {
-  "cep": "93540060",
-  "logradouro": "Rua Alecrim",
-  "bairro": "Hamburgo Velho",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Hamburgo Velho",
+    "cep": "93540060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Alecrim"
 }

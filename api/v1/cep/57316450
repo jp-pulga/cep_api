@@ -1,12 +1,13 @@
 {
-  "cep": "57316450",
-  "logradouro": "Avenida Vereador João Saturnino de Almeida lado ímpar",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Nova Esperança",
+    "cep": "57316450",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Avenida Vereador João Saturnino de Almeida - lado ímpar"
 }

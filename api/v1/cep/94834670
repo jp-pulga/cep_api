@@ -1,12 +1,13 @@
 {
-  "cep": "94834670",
-  "logradouro": "Rodovia RS-118",
-  "bairro": "Tijuca",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tijuca",
+    "cep": "94834670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Rodovia RS-118"
 }

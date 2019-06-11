@@ -1,12 +1,13 @@
 {
-  "cep": "97546000",
-  "logradouro": "Avenida Ibicui",
-  "bairro": "Ibirapuitã",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ibirapuitã",
+    "cep": "97546000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Ibicui"
 }

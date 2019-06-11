@@ -1,12 +1,13 @@
 {
-  "cep": "97546140",
-  "logradouro": "Avenida Caverá",
-  "bairro": "Ibirapuitã",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ibirapuitã",
+    "cep": "97546140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Caverá"
 }

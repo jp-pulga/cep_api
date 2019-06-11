@@ -1,12 +1,12 @@
 {
-  "cep": "95080140",
-  "logradouro": "Rua Antônio Prado",
-  "bairro": "Exposição",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Exposição",
+    "cep": "95080140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Antônio Prado"
 }

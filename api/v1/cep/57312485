@@ -1,12 +1,13 @@
 {
-  "cep": "57312485",
-  "logradouro": "Avenida Deputada Ceci Cunha até 271 - lado ímpar",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro",
+    "cep": "57312485",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Avenida Deputada Ceci Cunha - até 271 - lado ímpar"
 }

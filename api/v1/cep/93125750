@@ -1,12 +1,12 @@
 {
-  "cep": "93125750",
-  "logradouro": "Rua Alecrim",
-  "bairro": "Scharlau",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Scharlau",
+    "cep": "93125750",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Alecrim"
 }

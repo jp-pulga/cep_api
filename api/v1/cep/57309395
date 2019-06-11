@@ -1,12 +1,13 @@
 {
-  "cep": "57309395",
-  "logradouro": "Rodovia AL-220 lado ímpar",
-  "bairro": "Senador Nilo Coelho",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Senador Nilo Coelho",
+    "cep": "57309395",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rodovia AL-220 - lado ímpar"
 }

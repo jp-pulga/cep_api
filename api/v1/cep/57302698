@@ -1,12 +1,13 @@
 {
-  "cep": "57302698",
-  "logradouro": "Rua Edivania de Almeida Silva",
-  "bairro": "Canafístula",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canafístula",
+    "cep": "57302698",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Edivania de Almeida Silva"
 }

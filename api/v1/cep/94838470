@@ -1,12 +1,13 @@
 {
-  "cep": "94838470",
-  "logradouro": "Avenida Olegário José Guimarães",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini",
+    "cep": "94838470",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Olegário José Guimarães"
 }

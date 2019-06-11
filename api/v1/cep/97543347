@@ -1,12 +1,13 @@
 {
-  "cep": "97543347",
-  "logradouro": "Beco Trezentos e Vinte e Cinco",
-  "bairro": "Assunção",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Assunção",
+    "cep": "97543347",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Beco Trezentos e Vinte e Cinco"
 }

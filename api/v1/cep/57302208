@@ -1,12 +1,13 @@
 {
-  "cep": "57302208",
-  "logradouro": "Rua Alberto Jorge Balbino (Lot Bandeirante)",
-  "bairro": "Canafístula",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canafístula",
+    "cep": "57302208",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Alberto Jorge Balbino dos Santos (Lot Bandeirante)"
 }

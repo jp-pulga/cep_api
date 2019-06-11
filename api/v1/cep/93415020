@@ -1,12 +1,12 @@
 {
-  "cep": "93415020",
-  "logradouro": "Rua Antônio Prado",
-  "bairro": "Ouro Branco",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ouro Branco",
+    "cep": "93415020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Antônio Prado"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "92010020",
-  "logradouro": "Rua André da Rocha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "92010020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua André da Rocha"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "98465000",
-  "logradouro": "Ametista do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ametista do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98465000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ametista do Sul"
+    },
+    "ibge": 4300646
 }

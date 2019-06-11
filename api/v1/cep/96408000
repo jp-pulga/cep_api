@@ -1,12 +1,13 @@
 {
-  "cep": "96408000",
-  "logradouro": "Avenida Espanha até 1696/1697",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tarumã",
+    "cep": "96408000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "ibge": 4301602,
+    "logradouro": "Avenida Espanha - até 1696\/1697"
 }

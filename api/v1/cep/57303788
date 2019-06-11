@@ -1,12 +1,13 @@
 {
-  "cep": "57303788",
-  "logradouro": "Rodovia AL-115 lado ímpar",
-  "bairro": "Olho D'Água dos Cazuzinhos",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "cep": "57303788",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rodovia AL-115 - lado ímpar"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "94834710",
-  "logradouro": "Estrada Marcílio Antônio da Silva",
-  "bairro": "Tijuca",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tijuca",
+    "cep": "94834710",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Estrada Marcílio Antônio da Silva"
 }

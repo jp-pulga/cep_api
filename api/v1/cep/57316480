@@ -1,12 +1,13 @@
 {
-  "cep": "57316480",
-  "logradouro": "Rua Alagoas (Res Boa Vista II)",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Nova Esperança",
+    "cep": "57316480",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Alagoas (Res Boa Vista II)"
 }

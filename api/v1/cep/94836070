@@ -1,12 +1,13 @@
 {
-  "cep": "94836070",
-  "logradouro": "Avenida Capistrano de Abreu",
-  "bairro": "Tijuca",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tijuca",
+    "cep": "94836070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Capistrano de Abreu"
 }

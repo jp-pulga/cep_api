@@ -1,12 +1,13 @@
 {
-  "cep": "94828630",
-  "logradouro": "Avenida Salomé",
-  "bairro": "Maria Regina",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Maria Regina",
+    "cep": "94828630",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Salomé"
 }

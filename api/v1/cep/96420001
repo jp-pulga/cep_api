@@ -1,12 +1,13 @@
 {
-  "cep": "96420001",
-  "logradouro": "Avenida Itália de 501/502 ao fim",
-  "bairro": "Castro Alves",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Castro Alves",
+    "cep": "96420001",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "ibge": 4301602,
+    "logradouro": "Avenida Itália - de 501\/502 ao fim"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "99032140",
-  "logradouro": "Rua Aratibá",
-  "bairro": "Integração",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Integração",
+    "cep": "99032140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Aratibá"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57302605",
-  "logradouro": "Rodovia AL-220",
-  "bairro": "Canafístula",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canafístula",
+    "cep": "57302605",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rodovia AL-220"
 }

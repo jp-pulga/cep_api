@@ -1,12 +1,13 @@
 {
-  "cep": "97551899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Alegrete",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Área Rural de Alegrete",
+    "cep": "97551899",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Área Rural"
 }

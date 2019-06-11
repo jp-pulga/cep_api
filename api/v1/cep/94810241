@@ -1,12 +1,13 @@
 {
-  "cep": "94810241",
-  "logradouro": "Estrada Frederico Dihl de 0577/578 a 1200/1201",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "94810241",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Estrada Frederico Dihl - de 0577\/578 a 1200\/1201"
 }

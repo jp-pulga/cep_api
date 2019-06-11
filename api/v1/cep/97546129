@@ -1,12 +1,13 @@
 {
-  "cep": "97546129",
-  "logradouro": "Avenida Simões Lopes Neto",
-  "bairro": "Nilo Soares Gonçalves",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nilo Soares Gonçalves",
+    "cep": "97546129",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Simões Lopes Neto"
 }

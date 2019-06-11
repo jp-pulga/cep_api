@@ -1,12 +1,13 @@
 {
-  "cep": "94852106",
-  "logradouro": "Beco Canto do Rio",
-  "bairro": "Tijuca",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tijuca",
+    "cep": "94852106",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Beco Canto do Rio"
 }

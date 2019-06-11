@@ -1,12 +1,13 @@
 {
-  "cep": "57306040",
-  "logradouro": "Rua Antônio Pereira de Albuquerque",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Eldorado",
+    "cep": "57306040",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Antônio Pereira de Albuquerque"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96030610",
-  "logradouro": "Rua Desembargador André da Rocha",
-  "bairro": "Fragata",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fragata",
+    "cep": "96030610",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Desembargador André da Rocha"
 }

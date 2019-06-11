@@ -1,12 +1,11 @@
 {
-  "cep": "95944000",
-  "logradouro": "Palmas (Arroio do Meio)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Palmas (Arroio do Meio)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95944000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Arroio do Meio"
+    },
+    "ibge": 4301008
 }

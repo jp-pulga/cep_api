@@ -1,12 +1,13 @@
 {
-  "cep": "97547150",
-  "logradouro": "Avenida Charrua",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santos Dumont",
+    "cep": "97547150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Inácio Campos de Menezes"
 }

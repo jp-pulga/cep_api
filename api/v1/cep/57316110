@@ -1,12 +1,13 @@
 {
-  "cep": "57316110",
-  "logradouro": "Rodovia AL-110 lado par",
-  "bairro": "Jardim Tropical",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jardim Tropical",
+    "cep": "57316110",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Avenida João Crisóstomo Ramalho (AL 110) - lado par"
 }

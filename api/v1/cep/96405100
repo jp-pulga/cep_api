@@ -1,12 +1,12 @@
 {
-  "cep": "96405100",
-  "logradouro": "Rua Paulo Barcelos da Silveira",
-  "bairro": "Arvorezinha",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arvorezinha",
+    "cep": "96405100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Paulo Barcelos da Silveira"
 }

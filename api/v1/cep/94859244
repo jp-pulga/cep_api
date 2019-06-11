@@ -1,12 +1,13 @@
 {
-  "cep": "94859244",
-  "logradouro": "Avenida Antônio Carlos Jobim de 491/492 ao fim",
-  "bairro": "Jardim Algarve",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Algarve",
+    "cep": "94859244",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Antônio Carlos Jobim - de 491\/492 ao fim"
 }

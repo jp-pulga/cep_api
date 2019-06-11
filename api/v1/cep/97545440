@@ -1,12 +1,13 @@
 {
-  "cep": "97545440",
-  "logradouro": "Avenida Marechal Mallet",
-  "bairro": "Militar",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Militar",
+    "cep": "97545440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Marechal Mallet"
 }

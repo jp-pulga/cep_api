@@ -1,12 +1,13 @@
 {
-  "cep": "97543370",
-  "logradouro": "Avenida Liberdade",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Liberdade",
+    "cep": "97543370",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Liberdade"
 }

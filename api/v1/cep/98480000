@@ -1,12 +1,11 @@
 {
-  "cep": "98480000",
-  "logradouro": "Alpestre",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alpestre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98480000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alpestre"
+    },
+    "ibge": 4300505
 }

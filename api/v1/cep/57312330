@@ -1,12 +1,13 @@
 {
-  "cep": "57312330",
-  "logradouro": "Rua Barão de Alagoas",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro",
+    "cep": "57312330",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Barão de Alagoas"
 }

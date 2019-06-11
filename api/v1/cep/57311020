@@ -1,12 +1,13 @@
 {
-  "cep": "57311020",
-  "logradouro": "Avenida Vicente Nunes de Albuquerque",
-  "bairro": "Jardim de Maria",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jardim de Maria",
+    "cep": "57311020",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Avenida Vicente Nunes de Albuquerque"
 }

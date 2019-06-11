@@ -1,12 +1,12 @@
 {
-  "cep": "07124100",
-  "logradouro": "Rua Tocantinópolis",
-  "bairro": "Jardim Iporanga",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Iporanga",
+    "cep": "07124100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Tocantinópolis"
 }

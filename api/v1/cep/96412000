@@ -1,12 +1,13 @@
 {
-  "cep": "96412000",
-  "logradouro": "Avenida Santa Tecla até 1298/1299",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Getúlio Vargas",
+    "cep": "96412000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "ibge": 4301602,
+    "logradouro": "Avenida Santa Tecla - até 1298\/1299"
 }

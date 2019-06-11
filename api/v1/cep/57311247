@@ -1,12 +1,13 @@
 {
-  "cep": "57311247",
-  "logradouro": "Avenida Vicente Nunes de Albuquerque",
-  "bairro": "Caititus",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Caititus",
+    "cep": "57311247",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Avenida Vicente Nunes de Albuquerque"
 }

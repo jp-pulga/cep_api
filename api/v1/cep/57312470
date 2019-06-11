@@ -1,12 +1,13 @@
 {
-  "cep": "57312470",
-  "logradouro": "Rua Antônio Apolinário da Silva",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro",
+    "cep": "57312470",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Antônio Apolinário da Silva"
 }

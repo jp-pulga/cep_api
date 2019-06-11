@@ -1,12 +1,13 @@
 {
-  "cep": "97541230",
-  "logradouro": "Avenida Freitas Vale",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "97541230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Freitas Vale"
 }

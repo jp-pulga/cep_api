@@ -1,12 +1,13 @@
 {
-  "cep": "97546753",
-  "logradouro": "Avenida H",
-  "bairro": "Balneário Caverá",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Balneário Caverá",
+    "cep": "97546753",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida H"
 }

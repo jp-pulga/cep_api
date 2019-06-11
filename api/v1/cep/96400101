@@ -1,12 +1,13 @@
 {
-  "cep": "96400101",
-  "logradouro": "Avenida General Osório de 1300/1301 a 2498/2499",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "96400101",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "ibge": 4301602,
+    "logradouro": "Avenida General Osório - de 1300\/1301 a 2498\/2499"
 }

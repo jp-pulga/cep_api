@@ -1,12 +1,13 @@
 {
-  "cep": "97542033",
-  "logradouro": "Beco Novecentos e Dezesseis",
-  "bairro": "Restinga",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Restinga",
+    "cep": "97542033",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Beco Novecentos e Dezesseis"
 }

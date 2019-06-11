@@ -1,12 +1,11 @@
 {
-  "cep": "99430000",
-  "logradouro": "Alto Alegre",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99430000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alto Alegre"
+    },
+    "ibge": 4300554
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "96415500",
-  "logradouro": "Avenida José do Patrocínio até 598/599",
-  "bairro": "São Judas",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Judas",
+    "cep": "96415500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "ibge": 4301602,
+    "logradouro": "Avenida José do Patrocínio - até 598\/599"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "94859000",
-  "logradouro": "Avenida Elmira Pereira Silveira",
-  "bairro": "Jardim Algarve",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Algarve",
+    "cep": "94859000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Elmira Pereira Silveira"
 }

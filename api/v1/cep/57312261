@@ -1,12 +1,13 @@
 {
-  "cep": "57312261",
-  "logradouro": "Rua Ademário José Mendes Lira",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro",
+    "cep": "57312261",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Ademário José Mendes Lira"
 }

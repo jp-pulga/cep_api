@@ -1,12 +1,12 @@
 {
-  "cep": "94955560",
-  "logradouro": "Rua Agudo",
-  "bairro": "Vila Anair",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Anair",
+    "cep": "94955560",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Agudo"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "97543240",
-  "logradouro": "Avenida Doutor Eurípedes Brasil Milano de 2553/2554 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "97543240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Doutor Eurípedes Brasil Milano - de 2553\/2554 ao fim"
 }

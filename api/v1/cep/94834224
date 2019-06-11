@@ -1,12 +1,13 @@
 {
-  "cep": "94834224",
-  "logradouro": "Avenida Piauí",
-  "bairro": "Umbu",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Umbu",
+    "cep": "94834224",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Piauí"
 }

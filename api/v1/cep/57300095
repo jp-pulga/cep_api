@@ -1,12 +1,13 @@
 {
-  "cep": "57300095",
-  "logradouro": "Rua Desportista Ernesto Alves Siqueira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "57300095",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Desportista Ernesto Alves Siqueira"
 }

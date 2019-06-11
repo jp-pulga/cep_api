@@ -1,12 +1,13 @@
 {
-  "cep": "94852370",
-  "logradouro": "Avenida Piratini",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini",
+    "cep": "94852370",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Piratini"
 }

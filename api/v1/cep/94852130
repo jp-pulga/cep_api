@@ -1,12 +1,12 @@
 {
-  "cep": "94852130",
-  "logradouro": "Rua Augusto Pestana",
-  "bairro": "Tijuca",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tijuca",
+    "cep": "94852130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Augusto Pestana"
 }

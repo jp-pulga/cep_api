@@ -1,12 +1,13 @@
 {
-  "cep": "97545570",
-  "logradouro": "Avenida Pedreiras",
-  "bairro": "Coxilha",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pedreiras",
+    "cep": "97545570",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Avenida Pedreiras"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "94856020",
-  "logradouro": "Avenida A",
-  "bairro": "Jardim Algarve",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Algarve",
+    "cep": "94856020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Lourdes Monteiro"
 }

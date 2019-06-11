@@ -1,12 +1,12 @@
 {
-  "cep": "96830520",
-  "logradouro": "Rua João Goerck",
-  "bairro": "Arroio Grande",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arroio Grande",
+    "cep": "96830520",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua João Goerck"
 }

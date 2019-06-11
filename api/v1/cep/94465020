@@ -1,12 +1,12 @@
 {
-  "cep": "94465020",
-  "logradouro": "Rua Augusto Pestana",
-  "bairro": "São Tomé",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Tomé",
+    "cep": "94465020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Augusto Pestana"
 }

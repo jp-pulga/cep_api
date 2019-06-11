@@ -1,12 +1,12 @@
 {
-  "cep": "94455110",
-  "logradouro": "Rua Agudo",
-  "bairro": "Martinica",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Martinica",
+    "cep": "94455110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Agudo"
 }

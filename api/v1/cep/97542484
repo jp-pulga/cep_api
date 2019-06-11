@@ -1,12 +1,13 @@
 {
-  "cep": "97542484",
-  "logradouro": "Beco Quinhentos e Oitenta e Oito",
-  "bairro": "Izabel",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Izabel",
+    "cep": "97542484",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "ibge": 4300406,
+    "logradouro": "Beco Quinhentos e Oitenta e Oito"
 }

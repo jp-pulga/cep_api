@@ -1,12 +1,13 @@
 {
-  "cep": "57312025",
-  "logradouro": "Rodovia AL-220 lado ímpar",
-  "bairro": "Santa Esmeralda",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santa Esmeralda",
+    "cep": "57312025",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rodovia AL-220 - lado ímpar"
 }

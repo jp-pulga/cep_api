@@ -1,12 +1,13 @@
 {
-  "cep": "57303810",
-  "logradouro": "Rua Abílio Raimundo Alves",
-  "bairro": "Olho D'Água dos Cazuzinhos",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "cep": "57303810",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "ibge": 2700300,
+    "logradouro": "Rua Abílio Raimundo Alves"
 }

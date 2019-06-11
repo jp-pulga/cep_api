@@ -1,12 +1,13 @@
 {
-  "cep": "94850600",
-  "logradouro": "Avenida Jaime Telles",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "94850600",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Jaime Telles"
 }

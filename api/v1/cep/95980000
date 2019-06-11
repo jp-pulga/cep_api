@@ -1,12 +1,11 @@
 {
-  "cep": "95980000",
-  "logradouro": "Anta Gorda",
-  "bairro": "",
-  "cidade": {
-    "nome": "Anta Gorda",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95980000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Anta Gorda"
+    },
+    "ibge": 4300703
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "99523000",
-  "logradouro": "Almirante Tamandaré do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Almirante Tamandaré do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99523000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Almirante Tamandaré do Sul"
+    },
+    "ibge": 4300471
 }

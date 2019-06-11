@@ -1,12 +1,12 @@
 {
-  "cep": "90250090",
-  "logradouro": "Rua B (Dir Augusto Pestana)",
-  "bairro": "Humaitá",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Humaitá",
+    "cep": "90250090",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua B (Dir Augusto Pestana)"
 }

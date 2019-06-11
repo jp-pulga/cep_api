@@ -1,12 +1,12 @@
 {
-  "cep": "96405030",
-  "logradouro": "Rua João Teixeira de Oliveira",
-  "bairro": "Arvorezinha",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arvorezinha",
+    "cep": "96405030",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua João Teixeira de Oliveira"
 }

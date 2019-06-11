@@ -1,12 +1,13 @@
 {
-  "cep": "94857550",
-  "logradouro": "Acesso Terra Nova",
-  "bairro": "Terra Nova",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Terra Nova",
+    "cep": "94857550",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Acesso Terra Nova"
 }

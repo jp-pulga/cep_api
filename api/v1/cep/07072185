@@ -1,12 +1,12 @@
 {
-  "cep": "07072185",
-  "logradouro": "Rua Tocantínia",
-  "bairro": "Vila Rosália",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Rosália",
+    "cep": "07072185",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Tocantínia"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "94820060",
-  "logradouro": "Avenida Beira Rio",
-  "bairro": "Sumaré",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sumaré",
+    "cep": "94820060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "ibge": 4300604,
+    "logradouro": "Avenida Beira Rio"
 }
