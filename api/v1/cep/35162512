@@ -1,12 +1,13 @@
 {
-  "cep": "35162512",
-  "logradouro": "Avenida Nízio Oliveira",
-  "bairro": "Vila Celeste",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Celeste",
+    "cep": "35162512",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Nízio Oliveira"
 }

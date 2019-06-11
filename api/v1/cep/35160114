@@ -1,12 +1,13 @@
 {
-  "cep": "35160114",
-  "logradouro": "Avenida Itália de 1047/1048 a 2047/2048",
-  "bairro": "Cariru",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cariru",
+    "cep": "35160114",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Itália - de 1047\/1048 a 2047\/2048"
 }

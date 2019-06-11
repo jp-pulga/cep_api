@@ -1,12 +1,12 @@
 {
-  "cep": "36205524",
-  "logradouro": "Rua Antônio Martins",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipanema",
+    "cep": "36205524",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Antônio Martins"
 }

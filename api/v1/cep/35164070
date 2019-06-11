@@ -1,12 +1,13 @@
 {
-  "cep": "35164070",
-  "logradouro": "Avenida José Fabrício Gomes",
-  "bairro": "Bethânia",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bethânia",
+    "cep": "35164070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida José Fabrício Gomes"
 }

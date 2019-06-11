@@ -1,12 +1,12 @@
 {
-  "cep": "31746125",
-  "logradouro": "Rua Garota de Ipanema",
-  "bairro": "Etelvina Carneiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Etelvina Carneiro",
+    "cep": "31746125",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Garota de Ipanema"
 }

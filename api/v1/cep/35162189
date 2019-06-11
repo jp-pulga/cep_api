@@ -1,12 +1,13 @@
 {
-  "cep": "35162189",
-  "logradouro": "Avenida José Júlio da Costa",
-  "bairro": "Ideal",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ideal",
+    "cep": "35162189",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida José Júlio da Costa"
 }

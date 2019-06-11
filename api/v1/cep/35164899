@@ -1,12 +1,13 @@
 {
-  "cep": "35164899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Ipatinga",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Ipatinga",
+    "cep": "35164899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Área Rural"
 }

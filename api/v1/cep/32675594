@@ -1,12 +1,12 @@
 {
-  "cep": "32675594",
-  "logradouro": "Rua Ipanema",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Luiz",
+    "cep": "32675594",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Ipanema"
 }

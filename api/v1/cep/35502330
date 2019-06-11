@@ -1,12 +1,12 @@
 {
-  "cep": "35502330",
-  "logradouro": "Rua G",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipanema",
+    "cep": "35502330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua G"
 }

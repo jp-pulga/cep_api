@@ -1,12 +1,13 @@
 {
-  "cep": "35162483",
-  "logradouro": "Avenida Andorinhas",
-  "bairro": "Vila Celeste",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Celeste",
+    "cep": "35162483",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Andorinhas"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35162323",
-  "logradouro": "Avenida Flor-de-Cactus",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esperança",
+    "cep": "35162323",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Flor-de-Cactus"
 }

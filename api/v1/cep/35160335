@@ -1,12 +1,13 @@
 {
-  "cep": "35160335",
-  "logradouro": "Avenida Fernando de Noronha",
-  "bairro": "Imbaúbas",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Imbaúbas",
+    "cep": "35160335",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Fernando de Noronha"
 }

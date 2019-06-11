@@ -1,12 +1,12 @@
 {
-  "cep": "36205510",
-  "logradouro": "Rua José Zille",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipanema",
+    "cep": "36205510",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua José Zille"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36205501",
-  "logradouro": "Rua José Pedro Loschi",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipanema",
+    "cep": "36205501",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua José Pedro Loschi"
 }

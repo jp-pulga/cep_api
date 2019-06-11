@@ -1,12 +1,13 @@
 {
-  "cep": "35164501",
-  "logradouro": "Avenida Selim José de Sales de 967 a 1641 - lado ímpar",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canaã",
+    "cep": "35164501",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Selim José de Sales - de 967 a 1641 - lado ímpar"
 }

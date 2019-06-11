@@ -1,12 +1,13 @@
 {
-  "cep": "35162474",
-  "logradouro": "Avenida Francisco Rodrigues",
-  "bairro": "Barra Alegre",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barra Alegre",
+    "cep": "35162474",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Francisco Rodrigues"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35162072",
-  "logradouro": "Avenida Guido Marlieri até 599/600",
-  "bairro": "Iguaçu",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Iguaçu",
+    "cep": "35162072",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Guido Marlieri - até 599\/600"
 }

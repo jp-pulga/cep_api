@@ -1,12 +1,12 @@
 {
-  "cep": "35041340",
-  "logradouro": "Rua Ipanema",
-  "bairro": "Vila do Sol",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila do Sol",
+    "cep": "35041340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Ipanema"
 }

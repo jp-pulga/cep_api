@@ -1,12 +1,12 @@
 {
-  "cep": "36205518",
-  "logradouro": "Rua Ulisses Magri",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipanema",
+    "cep": "36205518",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Ulisses Magri"
 }

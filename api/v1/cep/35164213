@@ -1,12 +1,13 @@
 {
-  "cep": "35164213",
-  "logradouro": "Avenida Selim José de Sales até 937 - lado ímpar",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canaã",
+    "cep": "35164213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Selim José de Sales - até 937 - lado ímpar"
 }

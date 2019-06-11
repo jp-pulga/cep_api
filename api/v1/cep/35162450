@@ -1,12 +1,13 @@
 {
-  "cep": "35162450",
-  "logradouro": "Avenida José Anatólio Barbosa de 693/694 ao fim",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limoeiro",
+    "cep": "35162450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida José Anatólio Barbosa - de 693\/694 ao fim"
 }

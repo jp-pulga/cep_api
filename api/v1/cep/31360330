@@ -1,12 +1,12 @@
 {
-  "cep": "31360330",
-  "logradouro": "Rua Ipanema",
-  "bairro": "Urca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Urca",
+    "cep": "31360330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ipanema"
 }

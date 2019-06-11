@@ -1,12 +1,13 @@
 {
-  "cep": "35164665",
-  "logradouro": "Avenida Pedro Linhares Gomes do km 212000 ao km 214000 - lado par",
-  "bairro": "Veneza",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Veneza",
+    "cep": "35164665",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Pedro Linhares Gomes - do km 212,000 ao km 214,000 - lado par"
 }

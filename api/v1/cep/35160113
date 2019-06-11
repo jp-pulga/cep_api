@@ -1,12 +1,13 @@
 {
-  "cep": "35160113",
-  "logradouro": "Avenida Itália até 1045/1046",
-  "bairro": "Cariru",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cariru",
+    "cep": "35160113",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Itália - até 1045\/1046"
 }

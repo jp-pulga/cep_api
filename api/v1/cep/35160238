@@ -1,12 +1,13 @@
 {
-  "cep": "35160238",
-  "logradouro": "Avenida Pero Vaz de Caminha",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro",
+    "cep": "35160238",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Pero Vaz de Caminha"
 }

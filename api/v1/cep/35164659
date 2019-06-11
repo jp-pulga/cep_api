@@ -1,12 +1,13 @@
 {
-  "cep": "35164659",
-  "logradouro": "Avenida Nelcy de Oliveira Silva",
-  "bairro": "Veneza",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Veneza",
+    "cep": "35164659",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Nelcy de Oliveira Silva"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38400315",
-  "logradouro": "Rua Iraí de Minas",
-  "bairro": "Daniel Fonseca",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Daniel Fonseca",
+    "cep": "38400315",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Iraí de Minas"
 }

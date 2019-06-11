@@ -1,12 +1,12 @@
 {
-  "cep": "32603338",
-  "logradouro": "Rua Ipiaçu",
-  "bairro": "Salomé",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Salomé",
+    "cep": "32603338",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Ipiaçu"
 }

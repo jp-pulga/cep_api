@@ -1,12 +1,13 @@
 {
-  "cep": "35164521",
-  "logradouro": "Avenida José Assis Vasconcelos de 255 ao fim - lado ímpar",
-  "bairro": "Bethânia",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bethânia",
+    "cep": "35164521",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida José Assis Vasconcelos - de 255 ao fim - lado ímpar"
 }

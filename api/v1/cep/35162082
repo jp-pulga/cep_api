@@ -1,12 +1,13 @@
 {
-  "cep": "35162082",
-  "logradouro": "Avenida Brasil lado ímpar",
-  "bairro": "Iguaçu",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Iguaçu",
+    "cep": "35162082",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Brasil - lado ímpar"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35160117",
-  "logradouro": "Avenida Japão até 195/196",
-  "bairro": "Cariru",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cariru",
+    "cep": "35160117",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Japão - até 195\/196"
 }

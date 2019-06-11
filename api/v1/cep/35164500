@@ -1,12 +1,13 @@
 {
-  "cep": "35164500",
-  "logradouro": "Avenida Gerasa até 856 - lado par",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canaã",
+    "cep": "35164500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Gerasa - até 856 - lado par"
 }

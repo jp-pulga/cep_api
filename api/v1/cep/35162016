@@ -1,12 +1,13 @@
 {
-  "cep": "35162016",
-  "logradouro": "Avenida Altina Gonçalves",
-  "bairro": "Iguaçu",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Iguaçu",
+    "cep": "35162016",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Altina Gonçalves"
 }

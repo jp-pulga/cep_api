@@ -1,12 +1,13 @@
 {
-  "cep": "35164277",
-  "logradouro": "Avenida Colatina",
-  "bairro": "Caravelas",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caravelas",
+    "cep": "35164277",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "ibge": 3131307,
+    "logradouro": "Avenida Colatina"
 }
