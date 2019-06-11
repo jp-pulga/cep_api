@@ -1,12 +1,13 @@
 {
-  "cep": "32623165",
-  "logradouro": "Rodovia MG-060 Betim-Esmeraldas do km 1931 ao km 2843 - lado ímpar",
-  "bairro": "Marimbá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marimbá",
+    "cep": "32623165",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Rodovia MG-060 Betim-Esmeraldas - do km 1,931 ao km 2,843 - lado ímpar"
 }

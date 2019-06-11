@@ -1,12 +1,12 @@
 {
-  "cep": "35930061",
-  "logradouro": "Rua Bicas",
-  "bairro": "Lourdes",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lourdes",
+    "cep": "35930061",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Bicas"
 }

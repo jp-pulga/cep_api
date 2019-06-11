@@ -1,12 +1,13 @@
 {
-  "cep": "32642440",
-  "logradouro": "Alameda das Videiras",
-  "bairro": "Parque Ipiranga",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Ipiranga",
+    "cep": "32642440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Alameda das Videiras"
 }

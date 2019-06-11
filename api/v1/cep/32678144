@@ -1,12 +1,13 @@
 {
-  "cep": "32678144",
-  "logradouro": "Avenida B",
-  "bairro": "Granja Verde",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja Verde",
+    "cep": "32678144",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Avenida B"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30580400",
-  "logradouro": "Rua Biquinhas",
-  "bairro": "Betânia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Betânia",
+    "cep": "30580400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Biquinhas"
 }

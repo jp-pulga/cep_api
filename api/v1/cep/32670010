@@ -1,12 +1,13 @@
 {
-  "cep": "32670010",
-  "logradouro": "Avenida Bandeirantes até 198 - lado par",
-  "bairro": "Filadélfia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Filadélfia",
+    "cep": "32670010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Avenida Bandeirantes - até 198 - lado par"
 }

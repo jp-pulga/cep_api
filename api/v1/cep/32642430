@@ -1,12 +1,13 @@
 {
-  "cep": "32642430",
-  "logradouro": "Alameda dos Limoeiros",
-  "bairro": "Parque Ipiranga",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Ipiranga",
+    "cep": "32642430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Alameda dos Limoeiros"
 }

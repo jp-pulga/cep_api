@@ -1,12 +1,12 @@
 {
-  "cep": "33080150",
-  "logradouro": "Rua Geraldo Cristino Maia",
-  "bairro": "Bicas",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bicas",
+    "cep": "33080150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Geraldo Cristino Maia"
 }

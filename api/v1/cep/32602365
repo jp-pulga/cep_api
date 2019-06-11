@@ -1,12 +1,13 @@
 {
-  "cep": "32602365",
-  "logradouro": "Avenida Amazonas de 2901 a 3299 - lado ímpar",
-  "bairro": "Cachoeira",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeira",
+    "cep": "32602365",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Avenida Amazonas - de 2901 a 3299 - lado ímpar"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "32675425",
-  "logradouro": "Avenida A lado ímpar",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina",
+    "cep": "32675425",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Avenida A - lado ímpar"
 }

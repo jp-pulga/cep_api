@@ -1,12 +1,13 @@
 {
-  "cep": "32623505",
-  "logradouro": "Rodovia MG-060 Betim-Esmeraldas do km 3371 ao km 4019 - lado ímpar",
-  "bairro": "Santo Afonso",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Afonso",
+    "cep": "32623505",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Rodovia MG-060 Betim-Esmeraldas - do km 3,371 ao km 4,019 - lado ímpar"
 }

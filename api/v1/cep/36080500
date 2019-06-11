@@ -1,12 +1,12 @@
 {
-  "cep": "36080500",
-  "logradouro": "Rua Bias Fortes",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Castelo",
+    "cep": "36080500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Bias Fortes"
 }

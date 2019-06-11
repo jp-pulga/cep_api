@@ -1,12 +1,12 @@
 {
-  "cep": "34600355",
-  "logradouro": "Rua Bicas",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima",
+    "cep": "34600355",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Bicas"
 }

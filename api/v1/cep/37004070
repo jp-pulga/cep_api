@@ -1,12 +1,12 @@
 {
-  "cep": "37004070",
-  "logradouro": "Rua Ouro Preto",
-  "bairro": "Três Bicas",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Bicas",
+    "cep": "37004070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Ouro Preto"
 }

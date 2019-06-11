@@ -1,12 +1,13 @@
 {
-  "cep": "32623110",
-  "logradouro": "Avenida Álvaro da Silveira até 348/349",
-  "bairro": "Marimbá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marimbá",
+    "cep": "32623110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Avenida Álvaro da Silveira - até 348\/349"
 }

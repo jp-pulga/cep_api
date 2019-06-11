@@ -1,12 +1,13 @@
 {
-  "cep": "32642390",
-  "logradouro": "Alameda dos Algodoeiros",
-  "bairro": "Parque Ipiranga",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Ipiranga",
+    "cep": "32642390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Alameda dos Algodoeiros"
 }

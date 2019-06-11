@@ -1,12 +1,13 @@
 {
-  "cep": "32672324",
-  "logradouro": "Avenida Amazonas até 198 - lado par",
-  "bairro": "Senhora de Fátima",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhora de Fátima",
+    "cep": "32672324",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "ibge": 3106705,
+    "logradouro": "Avenida Amazonas - até 198 - lado par"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36300042",
-  "logradouro": "Rua Bica da Prata",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "36300042",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Bica da Prata"
 }
