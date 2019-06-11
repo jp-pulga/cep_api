@@ -1,12 +1,12 @@
 {
-  "cep": "32606512",
-  "logradouro": "Rua Cláudio Cançado",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro",
+    "cep": "32606512",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Cláudio Cançado"
 }

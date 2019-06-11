@@ -1,12 +1,12 @@
 {
-  "cep": "30494230",
-  "logradouro": "Rua José Cláudio Rezende",
-  "bairro": "Estoril",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estoril",
+    "cep": "30494230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Cláudio Rezende"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31920500",
-  "logradouro": "Rua Coluna",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Marcos",
+    "cep": "31920500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Coluna"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36037085",
-  "logradouro": "Rua Coimbra",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro",
+    "cep": "36037085",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Coimbra"
 }

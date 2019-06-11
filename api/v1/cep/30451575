@@ -1,12 +1,12 @@
 {
-  "cep": "30451575",
-  "logradouro": "Rua Cláudio dos Santos",
-  "bairro": "Leonina",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Leonina",
+    "cep": "30451575",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cláudio dos Santos"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31230280",
-  "logradouro": "Rua Cláudio Martins",
-  "bairro": "Caiçaras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caiçaras",
+    "cep": "31230280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cláudio Martins"
 }

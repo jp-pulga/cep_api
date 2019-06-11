@@ -1,12 +1,12 @@
 {
-  "cep": "30855445",
-  "logradouro": "Rua José Cláudio Sanches",
-  "bairro": "Califórnia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Califórnia",
+    "cep": "30855445",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Cláudio Sanches"
 }

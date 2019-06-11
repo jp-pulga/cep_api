@@ -1,12 +1,12 @@
 {
-  "cep": "36032243",
-  "logradouro": "Rua Rubens Coimbra",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia",
+    "cep": "36032243",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Rubens Coimbra"
 }

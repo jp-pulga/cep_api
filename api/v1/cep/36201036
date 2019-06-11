@@ -1,12 +1,12 @@
 {
-  "cep": "36201036",
-  "logradouro": "Rua Doutor Cláudio",
-  "bairro": "Boa Morte",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Morte",
+    "cep": "36201036",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Doutor Cláudio"
 }

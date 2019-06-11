@@ -1,12 +1,12 @@
 {
-  "cep": "31035201",
-  "logradouro": "Rua Cláudio da Silva",
-  "bairro": "Horto Florestal",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto Florestal",
+    "cep": "31035201",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cláudio da Silva"
 }

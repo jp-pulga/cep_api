@@ -1,12 +1,12 @@
 {
-  "cep": "30315245",
-  "logradouro": "Rua Cláudio Tadeu Palhares",
-  "bairro": "Mangabeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mangabeiras",
+    "cep": "30315245",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cláudio Tadeu Palhares"
 }

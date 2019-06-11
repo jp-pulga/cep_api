@@ -1,12 +1,12 @@
 {
-  "cep": "31050090",
-  "logradouro": "Rua Claudionor Martins da Cunha",
-  "bairro": "Casa Branca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Casa Branca",
+    "cep": "31050090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Claudionor Martins da Cunha"
 }

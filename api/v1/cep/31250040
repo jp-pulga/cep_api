@@ -1,12 +1,12 @@
 {
-  "cep": "31250040",
-  "logradouro": "Rua Cláudio Antônio",
-  "bairro": "Aparecida Sétima Seção",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aparecida Sétima Seção",
+    "cep": "31250040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cláudio Antônio"
 }
