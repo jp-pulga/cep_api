@@ -1,12 +1,12 @@
 {
-  "cep": "39408117",
-  "logradouro": "Avenida João de Paula",
-  "bairro": "Ibituruna",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ibituruna",
+    "cep": "39408117",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Avenida João de Paula"
 }

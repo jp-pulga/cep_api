@@ -1,12 +1,12 @@
 {
-  "cep": "39401332",
-  "logradouro": "Avenida Cidade do Vaticano",
-  "bairro": "Ibituruna",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ibituruna",
+    "cep": "39401332",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Avenida Cidade do Vaticano"
 }

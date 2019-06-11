@@ -1,12 +1,12 @@
 {
-  "cep": "35060250",
-  "logradouro": "Rua Ibituruna",
-  "bairro": "Carapina",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carapina",
+    "cep": "35060250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Ibituruna"
 }

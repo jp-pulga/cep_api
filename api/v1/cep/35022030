@@ -1,12 +1,12 @@
 {
-  "cep": "35022030",
-  "logradouro": "Rua Ibituruna",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro",
+    "cep": "35022030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Ibituruna"
 }

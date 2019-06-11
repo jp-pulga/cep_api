@@ -1,12 +1,12 @@
 {
-  "cep": "31840290",
-  "logradouro": "Rua Ibiraci",
-  "bairro": "Floramar",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floramar",
+    "cep": "31840290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ibiraci"
 }
