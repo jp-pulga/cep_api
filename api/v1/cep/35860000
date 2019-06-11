@@ -1,12 +1,11 @@
 {
-  "cep": "35860000",
-  "logradouro": "Conceição do Mato Dentro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Conceição do Mato Dentro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35860000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição do Mato Dentro"
+    },
+    "ibge": 3117504
 }

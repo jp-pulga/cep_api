@@ -1,12 +1,12 @@
 {
-  "cep": "35661513",
-  "logradouro": "Rua Conceição de Oliveira Carvalho Teixeira",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Paulo",
+    "cep": "35661513",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Conceição de Oliveira Carvalho Teixeira"
 }
