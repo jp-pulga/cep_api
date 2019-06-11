@@ -1,12 +1,12 @@
 {
-  "cep": "32678312",
-  "logradouro": "Rua Barão de Cocais",
-  "bairro": "Capelinha",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capelinha",
+    "cep": "32678312",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Barão de Cocais"
 }

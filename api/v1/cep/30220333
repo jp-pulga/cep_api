@@ -1,12 +1,12 @@
 {
-  "cep": "30220333",
-  "logradouro": "Beco Bambuí",
-  "bairro": "Marçola",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marçola",
+    "cep": "30220333",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Bambuí"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37701117",
-  "logradouro": "Rua Bandeira do Sul",
-  "bairro": "Vila José Carlos",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila José Carlos",
+    "cep": "37701117",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Bandeira do Sul"
 }

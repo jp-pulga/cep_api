@@ -1,12 +1,12 @@
 {
-  "cep": "36200374",
-  "logradouro": "Praça da Bandeira",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo",
+    "cep": "36200374",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Praça da Bandeira"
 }

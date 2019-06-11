@@ -1,12 +1,11 @@
 {
-  "cep": "35970000",
-  "logradouro": "Barão de Cocais",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barão de Cocais",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35970000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barão de Cocais"
+    },
+    "ibge": 3105400
 }

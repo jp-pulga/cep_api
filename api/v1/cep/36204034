@@ -1,12 +1,12 @@
 {
-  "cep": "36204034",
-  "logradouro": "Avenida dos Bandeirantes",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte",
+    "cep": "36204034",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Avenida dos Bandeirantes"
 }

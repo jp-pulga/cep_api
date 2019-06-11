@@ -1,12 +1,12 @@
 {
-  "cep": "31255460",
-  "logradouro": "Rua Bandeira de Melo",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Universitário",
+    "cep": "31255460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Bandeira de Melo"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31510060",
-  "logradouro": "Beco das Bandeiras",
-  "bairro": "Venda Nova",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Venda Nova",
+    "cep": "31510060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco das Bandeiras"
 }
