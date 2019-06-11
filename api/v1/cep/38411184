@@ -1,12 +1,12 @@
 {
-  "cep": "38411184",
-  "logradouro": "Rua João Marçal Dionísio",
-  "bairro": "Jardim Karaíba",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Karaíba",
+    "cep": "38411184",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua João Marçal Dionísio"
 }

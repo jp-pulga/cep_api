@@ -1,12 +1,12 @@
 {
-  "cep": "31250220",
-  "logradouro": "Rua Divino",
-  "bairro": "Ermelinda",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ermelinda",
+    "cep": "31250220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Divino"
 }

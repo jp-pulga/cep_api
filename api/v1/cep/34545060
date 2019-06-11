@@ -1,12 +1,12 @@
 {
-  "cep": "34545060",
-  "logradouro": "Rua São Dionízio",
-  "bairro": "Santo Antônio (Roça Grande)",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio (Roça Grande)",
+    "cep": "34545060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua São Dionízio"
 }

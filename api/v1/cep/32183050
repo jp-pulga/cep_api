@@ -1,12 +1,12 @@
 {
-  "cep": "32183050",
-  "logradouro": "Rua do Verbo Divino",
-  "bairro": "Chácaras Cotia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácaras Cotia",
+    "cep": "32183050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua do Verbo Divino"
 }

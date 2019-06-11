@@ -1,12 +1,12 @@
 {
-  "cep": "35500065",
-  "logradouro": "Avenida Amazonas",
-  "bairro": "Jardim Nova América",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Nova América",
+    "cep": "35500065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Avenida Amazonas"
 }

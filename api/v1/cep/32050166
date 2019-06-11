@@ -1,12 +1,12 @@
 {
-  "cep": "32050166",
-  "logradouro": "Beco Divino Cardoso",
-  "bairro": "Nova Contagem",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Contagem",
+    "cep": "32050166",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Beco Divino Cardoso"
 }

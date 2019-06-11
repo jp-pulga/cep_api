@@ -1,12 +1,12 @@
 {
-  "cep": "35162661",
-  "logradouro": "Rua Dionísio",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jardim",
+    "cep": "35162661",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Dionísio"
 }

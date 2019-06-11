@@ -1,12 +1,12 @@
 {
-  "cep": "32013330",
-  "logradouro": "Rua Divino das Laranjeiras",
-  "bairro": "Fonte Grande",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fonte Grande",
+    "cep": "32013330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Divino das Laranjeiras"
 }

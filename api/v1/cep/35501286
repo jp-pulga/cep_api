@@ -1,12 +1,12 @@
 {
-  "cep": "35501286",
-  "logradouro": "Avenida Amazonas",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "35501286",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Avenida Amazonas"
 }

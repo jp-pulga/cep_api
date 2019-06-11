@@ -1,12 +1,12 @@
 {
-  "cep": "32010360",
-  "logradouro": "Avenida do Verbo Divino",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha",
+    "cep": "32010360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Avenida do Verbo Divino"
 }

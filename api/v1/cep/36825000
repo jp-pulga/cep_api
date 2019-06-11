@@ -1,12 +1,12 @@
 {
-  "cep": "36825000",
-  "logradouro": "Bom Jesus do Divino (Divino)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bom Jesus do Divino (Divino)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus do ",
+    "cep": "36825000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divino"
+    },
+    "ibge": 3122009
 }
