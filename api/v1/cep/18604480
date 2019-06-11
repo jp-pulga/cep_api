@@ -1,12 +1,12 @@
 {
-  "cep": "18604480",
-  "logradouro": "Rua Gastão Thomas de Almeida",
-  "bairro": "Jardim Alvorada",
-  "cidade": {
-    "nome": "Botucatu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Alvorada",
+    "cep": "18604480",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Botucatu"
+    },
+    "logradouro": "Rua Gastão Thomas de Almeida"
 }

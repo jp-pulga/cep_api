@@ -1,12 +1,12 @@
 {
-  "cep": "40220110",
-  "logradouro": "Travessa Apolinário Santana",
-  "bairro": "Engenho Velho da Federação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Engenho Velho da Federação",
+    "cep": "40220110",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Apolinário Santana"
 }

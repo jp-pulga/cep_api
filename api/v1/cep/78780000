@@ -1,12 +1,11 @@
 {
-  "cep": "78780000",
-  "logradouro": "Alto Araguaia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alto Araguaia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78780000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alto Araguaia"
+    },
+    "ibge": 5100300
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40220101",
-  "logradouro": "Rua Apolinário de Santana lado ímpar",
-  "bairro": "Engenho Velho da Federação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Engenho Velho da Federação",
+    "cep": "40220101",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Apolinário de Santana - lado ímpar"
 }

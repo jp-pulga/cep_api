@@ -1,12 +1,12 @@
 {
-  "cep": "31749190",
-  "logradouro": "Rua Itanhandu",
-  "bairro": "São Damião",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Damião",
+    "cep": "31749190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Itanhandu"
 }

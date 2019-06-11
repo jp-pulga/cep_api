@@ -1,12 +1,11 @@
 {
-  "cep": "78480000",
-  "logradouro": "Acorizal",
-  "bairro": "",
-  "cidade": {
-    "nome": "Acorizal",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78480000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Acorizal"
+    },
+    "ibge": 5100102
 }

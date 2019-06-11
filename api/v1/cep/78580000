@@ -1,12 +1,11 @@
 {
-  "cep": "78580000",
-  "logradouro": "Alta Floresta",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alta Floresta",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78580000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alta Floresta"
+    },
+    "ibge": 5100250
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "78410000",
-  "logradouro": "Alto Paraguai",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alto Paraguai",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78410000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alto Paraguai"
+    },
+    "ibge": 5100508
 }

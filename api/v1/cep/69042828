@@ -1,12 +1,12 @@
 {
-  "cep": "69042828",
-  "logradouro": "Rua Tomás A. Gonzaga",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Alvorada",
+    "cep": "69042828",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Tomás A. Gonzaga"
 }

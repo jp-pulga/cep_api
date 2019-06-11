@@ -1,12 +1,12 @@
 {
-  "cep": "40220805",
-  "logradouro": "Avenida João de Lima",
-  "bairro": "Engenho Velho da Federação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Engenho Velho da Federação",
+    "cep": "40220805",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Apolinário de Santana"
 }

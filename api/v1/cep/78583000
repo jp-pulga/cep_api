@@ -1,12 +1,12 @@
 {
-  "cep": "78583000",
-  "logradouro": "São José do Apuí (Alta Floresta)",
-  "bairro": "",
-  "cidade": {
-    "nome": "São José do Apuí (Alta Floresta)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São José do",
+    "cep": "78583000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alta Floresta"
+    },
+    "ibge": 5100250
 }
