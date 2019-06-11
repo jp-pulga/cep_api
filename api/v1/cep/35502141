@@ -1,12 +1,12 @@
 {
-  "cep": "35502141",
-  "logradouro": "Rua Augusto de Lima",
-  "bairro": "Serra Verde",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Verde",
+    "cep": "35502141",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Augusto de Lima"
 }

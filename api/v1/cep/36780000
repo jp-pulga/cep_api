@@ -1,12 +1,11 @@
 {
-  "cep": "36780000",
-  "logradouro": "Astolfo Dutra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Astolfo Dutra",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36780000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Astolfo Dutra"
+    },
+    "ibge": 3104601
 }

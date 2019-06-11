@@ -1,12 +1,12 @@
 {
-  "cep": "33010532",
-  "logradouro": "Rua José Augusto de Lima",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "33010532",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua José Augusto de Lima"
 }

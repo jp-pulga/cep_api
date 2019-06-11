@@ -1,12 +1,12 @@
 {
-  "cep": "35702336",
-  "logradouro": "Rua Ataléia",
-  "bairro": "Interlagos II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Interlagos II",
+    "cep": "35702336",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Ataléia"
 }

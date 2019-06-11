@@ -1,12 +1,12 @@
 {
-  "cep": "33030340",
-  "logradouro": "Rua Baldim",
-  "bairro": "Rio das Velhas",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio das Velhas",
+    "cep": "33030340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Baldim"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35501023",
-  "logradouro": "Rua Augusto de Lima",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada",
+    "cep": "35501023",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Augusto de Lima"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "39850000",
-  "logradouro": "Ataléia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ataléia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39850000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ataléia"
+    },
+    "ibge": 3104700
 }

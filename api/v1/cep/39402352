@@ -1,12 +1,12 @@
 {
-  "cep": "39402352",
-  "logradouro": "Rua Augusto Ferreira Nunes",
-  "bairro": "José Carlos Vale de Lima",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "José Carlos Vale de Lima",
+    "cep": "39402352",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Augusto Ferreira Nunes"
 }
