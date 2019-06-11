@@ -1,12 +1,12 @@
 {
-  "cep": "69400458",
-  "logradouro": "Travessa Alvarães",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "69400458",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Travessa Alvarães"
 }

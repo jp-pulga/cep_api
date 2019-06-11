@@ -1,12 +1,12 @@
 {
-  "cep": "69400460",
-  "logradouro": "Rua Alvarães",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aparecida",
+    "cep": "69400460",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Rua Alvarães"
 }
