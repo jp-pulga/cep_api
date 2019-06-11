@@ -1,12 +1,13 @@
 {
-  "cep": "36774184",
-  "logradouro": "Avenida Ministro José Fabrino Baião",
-  "bairro": "Thomé",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Thomé",
+    "cep": "36774184",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Ministro José Fabrino Baião"
 }

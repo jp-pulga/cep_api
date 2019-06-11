@@ -1,12 +1,13 @@
 {
-  "cep": "36773012",
-  "logradouro": "Avenida Humberto Mauro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "36773012",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Humberto Mauro"
 }

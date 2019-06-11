@@ -1,12 +1,13 @@
 {
-  "cep": "36770602",
-  "logradouro": "Avenida Antônio Justino",
-  "bairro": "Antônio Justino",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Antônio Justino",
+    "cep": "36770602",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Antônio Justino"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36772350",
-  "logradouro": "Avenida Centenário",
-  "bairro": "Bom Pastor",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Pastor",
+    "cep": "36772350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Centenário"
 }

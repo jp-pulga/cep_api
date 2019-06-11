@@ -1,12 +1,13 @@
 {
-  "cep": "36773488",
-  "logradouro": "Avenida Paulo Schelb",
-  "bairro": "Recanto das Palmeiras",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Recanto das Palmeiras",
+    "cep": "36773488",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Paulo Schelb"
 }

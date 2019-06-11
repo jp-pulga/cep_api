@@ -1,12 +1,13 @@
 {
-  "cep": "36771536",
-  "logradouro": "Avenida José Costa Cruz",
-  "bairro": "Taquara Preta",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Taquara Preta",
+    "cep": "36771536",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida José Costa Cruz"
 }

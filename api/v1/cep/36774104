@@ -1,12 +1,13 @@
 {
-  "cep": "36774104",
-  "logradouro": "Avenida Guido Marliere",
-  "bairro": "Haidee",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Haidee",
+    "cep": "36774104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Guido Marliere"
 }

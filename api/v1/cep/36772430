@@ -1,12 +1,13 @@
 {
-  "cep": "36772430",
-  "logradouro": "Avenida Nicolau Siervi",
-  "bairro": "Vila Minalda",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Minalda",
+    "cep": "36772430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Nicolau Siervi"
 }

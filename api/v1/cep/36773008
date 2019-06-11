@@ -1,12 +1,13 @@
 {
-  "cep": "36773008",
-  "logradouro": "Avenida Coronel Artur Cruz",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "36773008",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Coronel Artur Cruz"
 }

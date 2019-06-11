@@ -1,12 +1,13 @@
 {
-  "cep": "36770405",
-  "logradouro": "Avenida Oscarina",
-  "bairro": "Jardim Santa Cristina",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Santa Cristina",
+    "cep": "36770405",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Oscarina"
 }

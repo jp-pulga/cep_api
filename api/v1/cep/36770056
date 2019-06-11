@@ -1,12 +1,13 @@
 {
-  "cep": "36770056",
-  "logradouro": "Avenida Meia Pataca",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "36770056",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Meia Pataca - lado par"
 }
