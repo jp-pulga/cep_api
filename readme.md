@@ -9,14 +9,15 @@ https://raw.githubusercontent.com/Pulgovisk/cep_api/master/api/v1/cep/01001000
 Retorno:
 ```JSON
 {
-  "cep": "01001-000",
-  "logradouro": "Praça da Sé",
-  "complemento": "lado ímpar",
+  "cep": "01001000",
+  "logradouro": "Praça da Sé lado ímpar",
   "bairro": "Sé",
-  "localidade": "São Paulo",
-  "uf": "SP",
-  "unidade": "",
-  "ibge": "3550308",
-  "gia": "1004"
+  "cidade": {
+    "nome": "São Paulo",
+    "estado": {
+      "nome": "São Paulo",
+      "sigla": "SP"
+    }
+  }
 }
 ```
