@@ -1,12 +1,12 @@
 {
-  "cep": "32315340",
-  "logradouro": "Rua Candeias",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado",
+    "cep": "32315340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Candeias"
 }

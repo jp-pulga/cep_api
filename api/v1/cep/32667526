@@ -1,12 +1,12 @@
 {
-  "cep": "32667526",
-  "logradouro": "Rua das Candeias",
-  "bairro": "Paulo Camilo",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paulo Camilo",
+    "cep": "32667526",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua das Candeias"
 }

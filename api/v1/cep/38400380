@@ -1,12 +1,12 @@
 {
-  "cep": "38400380",
-  "logradouro": "Travessa Canápolis",
-  "bairro": "Osvaldo Rezende",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Osvaldo Rezende",
+    "cep": "38400380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Travessa Canápolis"
 }

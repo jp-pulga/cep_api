@@ -1,12 +1,12 @@
 {
-  "cep": "31749070",
-  "logradouro": "Rua Ceuta",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canaã",
+    "cep": "31749070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ceuta"
 }

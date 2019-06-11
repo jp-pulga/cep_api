@@ -1,12 +1,11 @@
 {
-  "cep": "37160000",
-  "logradouro": "Campos Gerais",
-  "bairro": "",
-  "cidade": {
-    "nome": "Campos Gerais",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37160000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campos Gerais"
+    },
+    "ibge": 3111606
 }
