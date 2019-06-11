@@ -1,12 +1,13 @@
 {
-  "cep": "99709760",
-  "logradouro": "Avenida Caldas Junior de 2280/2281 ao fim",
-  "bairro": "Frinape",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Frinape",
+    "cep": "99709760",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Caldas Junior - de 2280\/2281 ao fim"
 }

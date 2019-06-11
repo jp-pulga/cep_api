@@ -1,12 +1,12 @@
 {
-  "cep": "95074530",
-  "logradouro": "Rua Carlos Ernesto Kraemer",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "95074530",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Carlos Ernesto Kraemer"
 }

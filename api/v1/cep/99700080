@@ -1,12 +1,13 @@
 {
-  "cep": "99700080",
-  "logradouro": "Avenida Salgado Filho até 299 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "99700080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Salgado Filho - até 299 - lado ímpar"
 }

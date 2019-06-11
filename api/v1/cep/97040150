@@ -1,12 +1,12 @@
 {
-  "cep": "97040150",
-  "logradouro": "Rua Dom Pedrito",
-  "bairro": "Caturrita",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Caturrita",
+    "cep": "97040150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Dom Pedrito"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98010702",
-  "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart lado par",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge",
+    "cep": "98010702",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart - lado par"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98005260",
-  "logradouro": "Avenida Presidente Vargas de 1535/1536 a 2158/2159",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José",
+    "cep": "98005260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Presidente Vargas - de 1535\/1536 a 2158\/2159"
 }

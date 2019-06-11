@@ -1,12 +1,13 @@
 {
-  "cep": "98025015",
-  "logradouro": "Avenida Padre Francisco Pacheco até 1013 - lado ímpar",
-  "bairro": "São Miguel",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Miguel",
+    "cep": "98025015",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Padre Francisco Pacheco - até 1013 - lado ímpar"
 }

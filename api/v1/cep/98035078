@@ -1,12 +1,13 @@
 {
-  "cep": "98035078",
-  "logradouro": "Avenida Padre Francisco Pacheco de 606 a 1196 - lado par",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim América",
+    "cep": "98035078",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Padre Francisco Pacheco - de 606 a 1196 - lado par"
 }

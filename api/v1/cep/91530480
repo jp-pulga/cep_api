@@ -1,12 +1,12 @@
 {
-  "cep": "91530480",
-  "logradouro": "Rua Encantadora",
-  "bairro": "Partenon",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Partenon",
+    "cep": "91530480",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Encantadora"
 }

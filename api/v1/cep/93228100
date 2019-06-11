@@ -1,12 +1,12 @@
 {
-  "cep": "93228100",
-  "logradouro": "Rua Dom Pedrito",
-  "bairro": "Walderez",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Walderez",
+    "cep": "93228100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Dom Pedrito"
 }

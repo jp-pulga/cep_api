@@ -1,12 +1,13 @@
 {
-  "cep": "98015562",
-  "logradouro": "Rodovia RS-342 até 99999 - lado ímpar",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Terezinha",
+    "cep": "98015562",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Rodovia RS-342 - até 99999 - lado ímpar"
 }

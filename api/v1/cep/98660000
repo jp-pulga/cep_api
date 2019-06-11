@@ -1,12 +1,12 @@
 {
-  "cep": "98660000",
-  "logradouro": "Vila Bender (Crissiumal)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Vila Bender (Crissiumal)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila ",
+    "cep": "98660000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Crissiumal"
+    },
+    "ibge": 4306007
 }

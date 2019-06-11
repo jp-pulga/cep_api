@@ -1,12 +1,12 @@
 {
-  "cep": "96503300",
-  "logradouro": "Rua Dom Feliciano",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira",
+    "cep": "96503300",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Dom Feliciano"
 }

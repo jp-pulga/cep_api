@@ -1,12 +1,13 @@
 {
-  "cep": "99700556",
-  "logradouro": "Avenida Maurício Cardoso de 960 a 1098 - lado par",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga",
+    "cep": "99700556",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Maurício Cardoso - de 680 a 1098 - lado par"
 }

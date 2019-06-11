@@ -1,12 +1,12 @@
 {
-  "cep": "94450120",
-  "logradouro": "Rua Dom Pedro Alcântara",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Lucas",
+    "cep": "94450120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Dom Pedro Alcântara"
 }

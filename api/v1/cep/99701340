@@ -1,12 +1,13 @@
 {
-  "cep": "99701340",
-  "logradouro": "Avenida Julio Anzanello",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Esperança",
+    "cep": "99701340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Julio Anzanello"
 }

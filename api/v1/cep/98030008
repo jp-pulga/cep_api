@@ -1,12 +1,13 @@
 {
-  "cep": "98030008",
-  "logradouro": "Avenida Padre Francisco Pacheco de 1198 a 1750 - lado par",
-  "bairro": "De Fátima",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "De Fátima",
+    "cep": "98030008",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Padre Francisco Pacheco - de 1198 a 1750 - lado par"
 }

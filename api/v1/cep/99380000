@@ -1,12 +1,10 @@
 {
-  "cep": "99380000",
-  "logradouro": "São José do Herval",
-  "bairro": "",
-  "cidade": {
-    "nome": "São José do Herval",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
+    "cep": "99380000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José do Herval"
     }
-  }
 }

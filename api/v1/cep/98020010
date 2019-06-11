@@ -1,12 +1,12 @@
 {
-  "cep": "98020010",
-  "logradouro": "Rua David Canabarro",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São João",
+    "cep": "98020010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua David Canabarro"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "96315000",
-  "logradouro": "Bote (Herval)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bote (Herval)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "96315000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Herval"
+    },
+    "ibge": 4307104
 }

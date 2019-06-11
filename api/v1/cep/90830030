@@ -1,12 +1,12 @@
 {
-  "cep": "90830030",
-  "logradouro": "Rua Erebango",
-  "bairro": "Nonoai",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nonoai",
+    "cep": "90830030",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Erebango"
 }

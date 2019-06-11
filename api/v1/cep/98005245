@@ -1,12 +1,13 @@
 {
-  "cep": "98005245",
-  "logradouro": "Avenida Presidente Vargas de 1091 a 1533 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "98005245",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Presidente Vargas - de 1091 a 1533 - lado ímpar"
 }

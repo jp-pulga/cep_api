@@ -1,12 +1,13 @@
 {
-  "cep": "99701516",
-  "logradouro": "Avenida Amintas Maciel de 1030/1031 ao fim",
-  "bairro": "José Bonifácio",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "José Bonifácio",
+    "cep": "99701516",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Amintas Maciel - de 1030\/1031 ao fim"
 }

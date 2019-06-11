@@ -1,12 +1,13 @@
 {
-  "cep": "98025820",
-  "logradouro": "Avenida Dona Edwina Rosa",
-  "bairro": "São Genaro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Genaro",
+    "cep": "98025820",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Dona Edwina Rosa"
 }

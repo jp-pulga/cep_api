@@ -1,12 +1,13 @@
 {
-  "cep": "98051205",
-  "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart lado ímpar",
-  "bairro": "Jung",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jung",
+    "cep": "98051205",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart - lado ímpar"
 }

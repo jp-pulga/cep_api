@@ -1,12 +1,12 @@
 {
-  "cep": "93216160",
-  "logradouro": "Rua Dona Francisca",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini",
+    "cep": "93216160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Dona Francisca"
 }

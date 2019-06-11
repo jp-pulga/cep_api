@@ -1,12 +1,12 @@
 {
-  "cep": "94935120",
-  "logradouro": "Rua Dom Feliciano",
-  "bairro": "Vila Parque Brasília",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Parque Brasília",
+    "cep": "94935120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Dom Feliciano"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95074140",
-  "logradouro": "Rua Capricórnio",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "95074140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Capricórnio"
 }

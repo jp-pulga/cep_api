@@ -1,12 +1,12 @@
 {
-  "cep": "93344150",
-  "logradouro": "Rua Dom Pedrito",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Primavera",
+    "cep": "93344150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Dom Pedrito"
 }

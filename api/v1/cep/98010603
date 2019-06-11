@@ -1,12 +1,13 @@
 {
-  "cep": "98010603",
-  "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart lado ímpar",
-  "bairro": "Rancho",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rancho",
+    "cep": "98010603",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart - lado ímpar"
 }

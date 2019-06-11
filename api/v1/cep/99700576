@@ -1,12 +1,13 @@
 {
-  "cep": "99700576",
-  "logradouro": "Acesso Condomínio Vale Dourado",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vale Dourado",
+    "cep": "99700576",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Acesso Condomínio Vale Dourado"
 }

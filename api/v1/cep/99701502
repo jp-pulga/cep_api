@@ -1,12 +1,13 @@
 {
-  "cep": "99701502",
-  "logradouro": "Avenida Tiradentes de 1300/1301 a 1698/1699",
-  "bairro": "José Bonifácio",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "José Bonifácio",
+    "cep": "99701502",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Tiradentes - de 1300\/1301 a 1698\/1699"
 }

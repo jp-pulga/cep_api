@@ -1,12 +1,12 @@
 {
-  "cep": "95074020",
-  "logradouro": "Rua Antônio Broilo",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "95074020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Antônio Broilo"
 }

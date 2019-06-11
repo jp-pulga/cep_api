@@ -1,12 +1,12 @@
 {
-  "cep": "92320100",
-  "logradouro": "Beco David Canabarro",
-  "bairro": "Mato Grande",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mato Grande",
+    "cep": "92320100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Beco David Canabarro"
 }

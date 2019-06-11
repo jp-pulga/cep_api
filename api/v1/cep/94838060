@@ -1,12 +1,12 @@
 {
-  "cep": "94838060",
-  "logradouro": "Rua Cristal",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini",
+    "cep": "94838060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Cristal"
 }

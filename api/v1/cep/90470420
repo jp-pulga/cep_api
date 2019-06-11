@@ -1,12 +1,12 @@
 {
-  "cep": "90470420",
-  "logradouro": "Avenida Encantado",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis",
+    "cep": "90470420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Encantado"
 }

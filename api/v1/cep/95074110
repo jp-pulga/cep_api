@@ -1,12 +1,12 @@
 {
-  "cep": "95074110",
-  "logradouro": "Rua Arturus",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "95074110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Arturus"
 }

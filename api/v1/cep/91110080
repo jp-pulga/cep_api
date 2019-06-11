@@ -1,12 +1,12 @@
 {
-  "cep": "91110080",
-  "logradouro": "Rua Doutor Ricardo Gavenski",
-  "bairro": "Sarandi",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sarandi",
+    "cep": "91110080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Doutor Ricardo Gavenski"
 }

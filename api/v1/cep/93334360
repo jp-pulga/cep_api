@@ -1,12 +1,12 @@
 {
-  "cep": "93334360",
-  "logradouro": "Rua Encantado",
-  "bairro": "Ideal",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ideal",
+    "cep": "93334360",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Encantado"
 }

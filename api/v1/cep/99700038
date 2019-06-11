@@ -1,12 +1,13 @@
 {
-  "cep": "99700038",
-  "logradouro": "Avenida Presidente Vargas lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "99700038",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Presidente Vargas - lado par"
 }

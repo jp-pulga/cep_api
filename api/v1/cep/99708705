@@ -1,12 +1,13 @@
 {
-  "cep": "99708705",
-  "logradouro": "Beco São Jorge",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso",
+    "cep": "99708705",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Beco São Jorge"
 }

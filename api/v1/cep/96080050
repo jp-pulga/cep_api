@@ -1,12 +1,12 @@
 {
-  "cep": "96080050",
-  "logradouro": "Rua David Canabarro",
-  "bairro": "Areal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Areal",
+    "cep": "96080050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua David Canabarro"
 }

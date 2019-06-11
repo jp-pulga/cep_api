@@ -1,12 +1,13 @@
 {
-  "cep": "99714460",
-  "logradouro": "Rodovia RS-211",
-  "bairro": "Colégio Agrícola",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Agrícola",
+    "cep": "99714460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Rodovia RS-211"
 }

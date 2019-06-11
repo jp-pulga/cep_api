@@ -1,12 +1,12 @@
 {
-  "cep": "90020160",
-  "logradouro": "Praça Dom Feliciano",
-  "bairro": "Centro Histórico",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro Histórico",
+    "cep": "90020160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Dom Feliciano"
 }

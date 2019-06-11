@@ -1,12 +1,13 @@
 {
-  "cep": "98050317",
-  "logradouro": "Avenida General Câmara",
-  "bairro": "Perpétuo Socorro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Perpétuo Socorro",
+    "cep": "98050317",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida General Câmara"
 }

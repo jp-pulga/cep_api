@@ -1,12 +1,12 @@
 {
-  "cep": "95072130",
-  "logradouro": "Rua Cruzeiro",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cruzeiro",
+    "cep": "95072130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Cruzeiro"
 }

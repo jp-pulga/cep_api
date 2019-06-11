@@ -1,12 +1,12 @@
 {
-  "cep": "90570010",
-  "logradouro": "Praça Doutor Maurício Cardoso",
-  "bairro": "Moinhos de Vento",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Moinhos de Vento",
+    "cep": "90570010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Doutor Maurício Cardoso"
 }

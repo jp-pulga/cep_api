@@ -1,12 +1,12 @@
 {
-  "cep": "90570140",
-  "logradouro": "Rua Marquês do Herval",
-  "bairro": "Moinhos de Vento",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Moinhos de Vento",
+    "cep": "90570140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Marquês do Herval"
 }

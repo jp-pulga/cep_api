@@ -1,12 +1,12 @@
 {
-  "cep": "91210082",
-  "logradouro": "Beco Dois (R Irmão Inocêncio Luiz)",
-  "bairro": "Jardim Itu Sabará",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Sabará",
+    "cep": "91210082",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Beco Dois (R Irmão Inocêncio Luiz)"
 }

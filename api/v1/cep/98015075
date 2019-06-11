@@ -1,12 +1,13 @@
 {
-  "cep": "98015075",
-  "logradouro": "Avenida Presidente Vargas de 2160/2161 ao fim",
-  "bairro": "Malheiros",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Malheiros",
+    "cep": "98015075",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Presidente Vargas - de 2160\/2161 ao fim"
 }

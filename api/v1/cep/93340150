@@ -1,12 +1,12 @@
 {
-  "cep": "93340150",
-  "logradouro": "Rua Crissiumal",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Primavera",
+    "cep": "93340150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Crissiumal"
 }

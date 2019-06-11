@@ -1,12 +1,13 @@
 {
-  "cep": "98045375",
-  "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart lado ímpar",
-  "bairro": "Tamoio",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tamoio",
+    "cep": "98045375",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart - lado ímpar"
 }

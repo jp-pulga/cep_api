@@ -1,12 +1,13 @@
 {
-  "cep": "98030523",
-  "logradouro": "Avenida Padre Francisco Pacheco de 1197 a 1751 - lado ímpar",
-  "bairro": "São Genaro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Genaro",
+    "cep": "98030523",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Padre Francisco Pacheco - de 1197 a 1751 - lado ímpar"
 }

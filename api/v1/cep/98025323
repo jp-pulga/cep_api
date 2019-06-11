@@ -1,12 +1,13 @@
 {
-  "cep": "98025323",
-  "logradouro": "Avenida General Câmara",
-  "bairro": "Ludke",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ludke",
+    "cep": "98025323",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida General Câmara"
 }

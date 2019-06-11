@@ -1,12 +1,13 @@
 {
-  "cep": "98010106",
-  "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart lado par",
-  "bairro": "Toríbio Veríssimo",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Toríbio Veríssimo",
+    "cep": "98010106",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Perimetral Doutor João Belchior Marques Goulart - lado par"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98020470",
-  "logradouro": "Avenida Jacui",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso",
+    "cep": "98020470",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "ibge": 4306106,
+    "logradouro": "Avenida Jacui"
 }

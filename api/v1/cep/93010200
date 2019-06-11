@@ -1,12 +1,12 @@
 {
-  "cep": "93010200",
-  "logradouro": "Rua Marquês do Herval",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "93010200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Marquês do Herval"
 }
