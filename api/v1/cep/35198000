@@ -1,12 +1,11 @@
 {
-  "cep": "35198000",
-  "logradouro": "Ipaba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ipaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35198000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipaba"
+    },
+    "ibge": 3131158
 }

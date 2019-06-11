@@ -1,12 +1,12 @@
 {
-  "cep": "35700219",
-  "logradouro": "Rua Inhaúma",
-  "bairro": "São Dimas",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Dimas",
+    "cep": "35700219",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Inhaúma"
 }

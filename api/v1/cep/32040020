@@ -1,12 +1,12 @@
 {
-  "cep": "32040020",
-  "logradouro": "Rua Inhapim",
-  "bairro": "Beatriz",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Beatriz",
+    "cep": "32040020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Inhapim"
 }

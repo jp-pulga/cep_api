@@ -1,12 +1,12 @@
 {
-  "cep": "35182213",
-  "logradouro": "Rua Ipaba",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "35182213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Ipaba"
 }

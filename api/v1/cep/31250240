@@ -1,12 +1,12 @@
 {
-  "cep": "31250240",
-  "logradouro": "Rua Inhapim",
-  "bairro": "Ermelinda",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ermelinda",
+    "cep": "31250240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Inhapim"
 }
