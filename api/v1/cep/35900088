@@ -1,12 +1,12 @@
 {
-  "cep": "35900088",
-  "logradouro": "Rua Martita",
-  "bairro": "Campestre I",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campestre I",
+    "cep": "35900088",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Martita"
 }

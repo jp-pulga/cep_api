@@ -1,12 +1,12 @@
 {
-  "cep": "32150260",
-  "logradouro": "Rua Dália",
-  "bairro": "Campina Verde",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campina Verde",
+    "cep": "32150260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Dália"
 }

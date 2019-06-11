@@ -1,12 +1,12 @@
 {
-  "cep": "32050400",
-  "logradouro": "Rua Retiro Campestre",
-  "bairro": "Retiro",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Retiro",
+    "cep": "32050400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Retiro Campestre"
 }

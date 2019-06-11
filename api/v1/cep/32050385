@@ -1,12 +1,12 @@
 {
-  "cep": "32050385",
-  "logradouro": "Rua Campina Verde",
-  "bairro": "Estaleiro",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estaleiro",
+    "cep": "32050385",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Campina Verde"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37701453",
-  "logradouro": "Rua Campanha",
-  "bairro": "Jardim dos Estados",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Estados",
+    "cep": "37701453",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Campanha"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32150250",
-  "logradouro": "Rua Flor de Seda",
-  "bairro": "Campina Verde",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campina Verde",
+    "cep": "32150250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Flor de Seda"
 }

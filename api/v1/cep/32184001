@@ -1,12 +1,12 @@
 {
-  "cep": "32184001",
-  "logradouro": "Rua Candeias",
-  "bairro": "Chácaras Campestre",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácaras Campestre",
+    "cep": "32184001",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Candeias"
 }

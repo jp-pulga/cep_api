@@ -1,12 +1,12 @@
 {
-  "cep": "35900083",
-  "logradouro": "Rua João Luiz da Silva Torres",
-  "bairro": "Campestre I",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campestre I",
+    "cep": "35900083",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua João Luiz da Silva Torres"
 }

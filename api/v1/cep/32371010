@@ -1,12 +1,12 @@
 {
-  "cep": "32371010",
-  "logradouro": "Rua Campina Verde",
-  "bairro": "Água Branca",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Água Branca",
+    "cep": "32371010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Campina Verde"
 }

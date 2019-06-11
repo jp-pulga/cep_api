@@ -1,12 +1,12 @@
 {
-  "cep": "35900081",
-  "logradouro": "Rua do Ouro",
-  "bairro": "Campestre I",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campestre I",
+    "cep": "35900081",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua do Ouro"
 }

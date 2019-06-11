@@ -1,12 +1,12 @@
 {
-  "cep": "35900080",
-  "logradouro": "Rua Tomaz Abreu",
-  "bairro": "Campestre I",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campestre I",
+    "cep": "35900080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Tomaz Abreu"
 }

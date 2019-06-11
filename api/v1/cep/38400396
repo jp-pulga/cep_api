@@ -1,12 +1,12 @@
 {
-  "cep": "38400396",
-  "logradouro": "Rua Campina Verde",
-  "bairro": "Osvaldo Rezende",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Osvaldo Rezende",
+    "cep": "38400396",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Campina Verde"
 }

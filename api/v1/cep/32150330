@@ -1,12 +1,12 @@
 {
-  "cep": "32150330",
-  "logradouro": "Rua Dama da Noite",
-  "bairro": "Campina Verde",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campina Verde",
+    "cep": "32150330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Dama da Noite"
 }
