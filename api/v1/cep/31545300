@@ -1,12 +1,12 @@
 {
-  "cep": "31545300",
-  "logradouro": "Rua Abigail Toledo de Gouveia",
-  "bairro": "Garças",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Garças",
+    "cep": "31545300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Abigail Toledo de Gouveia"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31630200",
-  "logradouro": "Rua Benedito Gonçalves",
-  "bairro": "Serra Verde (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Verde (Venda Nova)",
+    "cep": "31630200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Benedito Gonçalves"
 }

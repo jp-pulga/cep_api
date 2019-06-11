@@ -1,12 +1,13 @@
 {
-  "cep": "35060020",
-  "logradouro": "Avenida Artur Foratini",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças",
+    "cep": "35060020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida Artur Foratini"
 }

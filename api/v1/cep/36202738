@@ -1,12 +1,12 @@
 {
-  "cep": "36202738",
-  "logradouro": "Rua Professor Waldemar Gonçalves",
-  "bairro": "João Paulo II",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Paulo II",
+    "cep": "36202738",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Professor Waldemar Gonçalves"
 }

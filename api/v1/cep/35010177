@@ -1,12 +1,13 @@
 {
-  "cep": "35010177",
-  "logradouro": "Avenida Doutor Raimundo Monteiro Rezende",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "35010177",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida Doutor Raimundo Monteiro Rezende - até 4026\/4027"
 }

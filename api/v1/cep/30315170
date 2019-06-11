@@ -1,12 +1,12 @@
 {
-  "cep": "30315170",
-  "logradouro": "Rua Frei Gonzaga",
-  "bairro": "Comiteco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Comiteco",
+    "cep": "30315170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Frei Gonzaga"
 }

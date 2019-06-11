@@ -1,12 +1,13 @@
 {
-  "cep": "35040260",
-  "logradouro": "Avenida JK de 3320/3321 a 3824/3825",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita",
+    "cep": "35040260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida JK - de 3320\/3321 a 3824\/3825"
 }

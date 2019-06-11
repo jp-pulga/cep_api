@@ -1,12 +1,12 @@
 {
-  "cep": "36039430",
-  "logradouro": "Rua Pedro Gouveia Horta",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte",
+    "cep": "36039430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Pedro Gouveia Horta"
 }

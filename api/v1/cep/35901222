@@ -1,12 +1,12 @@
 {
-  "cep": "35901222",
-  "logradouro": "Rua José Luis Gonzaga",
-  "bairro": "Fênix",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fênix",
+    "cep": "35901222",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua José Luis Gonzaga"
 }

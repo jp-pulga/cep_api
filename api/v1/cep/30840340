@@ -1,12 +1,12 @@
 {
-  "cep": "30840340",
-  "logradouro": "Rua Cantor Luiz Gonzaga",
-  "bairro": "Castelo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castelo",
+    "cep": "30840340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cantor Luiz Gonzaga"
 }

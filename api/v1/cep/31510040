@@ -1,12 +1,12 @@
 {
-  "cep": "31510040",
-  "logradouro": "Rua Alzira Gonçalves de Abreu",
-  "bairro": "Venda Nova",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Venda Nova",
+    "cep": "31510040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Alzira Gonçalves de Abreu"
 }

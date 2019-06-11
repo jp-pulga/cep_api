@@ -1,12 +1,12 @@
 {
-  "cep": "35160242",
-  "logradouro": "Rua Tomás Gonzaga",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro",
+    "cep": "35160242",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Tomás Gonzaga"
 }

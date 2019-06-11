@@ -1,12 +1,13 @@
 {
-  "cep": "35054750",
-  "logradouro": "Avenida A",
-  "bairro": "Santa Paula",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Paula",
+    "cep": "35054750",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida A"
 }

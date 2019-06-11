@@ -1,12 +1,12 @@
 {
-  "cep": "32185250",
-  "logradouro": "Rua Tomaz Antônio Gonzaga",
-  "bairro": "Nacional",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nacional",
+    "cep": "32185250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Tomaz Antônio Gonzaga"
 }

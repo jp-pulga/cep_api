@@ -1,12 +1,12 @@
 {
-  "cep": "31950020",
-  "logradouro": "Avenida Josefino Gonçalves da Silva",
-  "bairro": "Goiânia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Goiânia",
+    "cep": "31950020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Josefino Gonçalves da Silva"
 }

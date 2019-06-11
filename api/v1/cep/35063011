@@ -1,12 +1,13 @@
 {
-  "cep": "35063011",
-  "logradouro": "Avenida Doutor Luiz de Sousa Lima",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "35063011",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida Doutor Luiz de Sousa Lima"
 }

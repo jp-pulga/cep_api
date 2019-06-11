@@ -1,12 +1,12 @@
 {
-  "cep": "31515295",
-  "logradouro": "Praça Floriano Peixoto Gonçalves",
-  "bairro": "São João Batista (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João Batista (Venda Nova)",
+    "cep": "31515295",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Floriano Peixoto Gonçalves"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36200128",
-  "logradouro": "Rua Professor Carlos Benjamim Gonçalves",
-  "bairro": "Boa Morte",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Morte",
+    "cep": "36200128",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Professor Carlos Benjamim Gonçalves"
 }

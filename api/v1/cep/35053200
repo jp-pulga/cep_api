@@ -1,12 +1,13 @@
 {
-  "cep": "35053200",
-  "logradouro": "Avenida da Ferrovia",
-  "bairro": "Altinópolis",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Altinópolis",
+    "cep": "35053200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida da Ferrovia"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35100600",
-  "logradouro": "Córrego dos Borges (Governador Valadares)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Córrego dos Borges (Governador Valadares)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Córrego dos ",
+    "cep": "35100600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701
 }

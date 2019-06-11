@@ -1,12 +1,13 @@
 {
-  "cep": "35057200",
-  "logradouro": "Avenida Europa",
-  "bairro": "Grã-Duquesa",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grã-Duquesa",
+    "cep": "35057200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida Europa"
 }

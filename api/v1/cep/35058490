@@ -1,12 +1,13 @@
 {
-  "cep": "35058490",
-  "logradouro": "Avenida A",
-  "bairro": "Maria Eugênia",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Eugênia",
+    "cep": "35058490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida A"
 }

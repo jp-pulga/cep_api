@@ -1,12 +1,13 @@
 {
-  "cep": "35040150",
-  "logradouro": "Avenida Divinópolis",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita",
+    "cep": "35040150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida Divinópolis"
 }

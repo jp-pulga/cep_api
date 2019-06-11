@@ -1,12 +1,13 @@
 {
-  "cep": "35030522",
-  "logradouro": "Avenida Brasil de 4636/4637 a 5128/5129",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Paulo",
+    "cep": "35030522",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida Brasil - de 4636\/4637 a 5128\/5129"
 }

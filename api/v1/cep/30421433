@@ -1,12 +1,12 @@
 {
-  "cep": "30421433",
-  "logradouro": "Beco Gonçalves",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim América",
+    "cep": "30421433",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Gonçalves"
 }

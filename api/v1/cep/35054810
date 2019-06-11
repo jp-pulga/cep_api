@@ -1,12 +1,13 @@
 {
-  "cep": "35054810",
-  "logradouro": "Avenida de Acesso ao Penha",
-  "bairro": "Figueira do Rio Doce",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Figueira do Rio Doce",
+    "cep": "35054810",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 3127701,
+    "logradouro": "Avenida de Acesso ao Penha"
 }
