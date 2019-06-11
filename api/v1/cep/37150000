@@ -1,12 +1,11 @@
 {
-  "cep": "37150000",
-  "logradouro": "Carmo do Rio Claro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Carmo do Rio Claro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37150000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmo do Rio Claro"
+    },
+    "ibge": 3114402
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35930005",
-  "logradouro": "Rua Sayonara",
-  "bairro": "Carneirinhos",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carneirinhos",
+    "cep": "35930005",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Sayonara"
 }

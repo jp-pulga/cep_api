@@ -1,12 +1,11 @@
 {
-  "cep": "38290000",
-  "logradouro": "Carneirinho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Carneirinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38290000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carneirinho"
+    },
+    "ibge": 3114550
 }
