@@ -1,12 +1,12 @@
 {
-  "cep": "30620360",
-  "logradouro": "Rua Água Boa",
-  "bairro": "Araguaia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Araguaia",
+    "cep": "30620360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Água Boa"
 }
