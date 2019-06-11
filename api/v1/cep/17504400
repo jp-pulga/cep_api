@@ -1,12 +1,12 @@
 {
-  "cep": "17504400",
-  "logradouro": "Rua Doutor Joaquim de Abreu Sampaio Vidal",
-  "bairro": "Jardim Dom Frei Daniel Tomasella",
-  "cidade": {
-    "nome": "Marília",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Dom Frei Daniel Tomasella",
+    "cep": "17504400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Marília"
+    },
+    "logradouro": "Rua Doutor Joaquim de Abreu Sampaio Vidal"
 }

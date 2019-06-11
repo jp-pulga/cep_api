@@ -1,12 +1,12 @@
 {
-  "cep": "38415213",
-  "logradouro": "Rua Eufrazinha Sampaio",
-  "bairro": "Tocantins",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tocantins",
+    "cep": "38415213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Eufrazinha Sampaio"
 }

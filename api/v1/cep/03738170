@@ -1,12 +1,12 @@
 {
-  "cep": "03738170",
-  "logradouro": "Travessa Joaquim Torres",
-  "bairro": "Vila Sampaio",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Sampaio",
+    "cep": "03738170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Joaquim Torres"
 }
