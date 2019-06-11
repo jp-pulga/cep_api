@@ -1,12 +1,11 @@
 {
-  "cep": "36594000",
-  "logradouro": "Araponga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Araponga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36594000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araponga"
+    },
+    "ibge": 3103702
 }

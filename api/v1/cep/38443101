@@ -1,12 +1,13 @@
 {
-  "cep": "38443101",
-  "logradouro": "Alameda Goiás",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Independência",
+    "cep": "38443101",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Alameda Goiás"
 }

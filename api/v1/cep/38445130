@@ -1,12 +1,13 @@
 {
-  "cep": "38445130",
-  "logradouro": "Avenida Doutor Oswaldo Pieruccetti até 999/1000",
-  "bairro": "Sibipiruna",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sibipiruna",
+    "cep": "38445130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Doutor Oswaldo Pieruccetti - até 999\/1000"
 }

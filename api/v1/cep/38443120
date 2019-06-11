@@ -1,12 +1,13 @@
 {
-  "cep": "38443120",
-  "logradouro": "Avenida das Madeiras",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião",
+    "cep": "38443120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida das Madeiras"
 }

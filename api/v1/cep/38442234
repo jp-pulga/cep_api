@@ -1,12 +1,13 @@
 {
-  "cep": "38442234",
-  "logradouro": "Rodovia MG-413",
-  "bairro": "Goiás (Parte Alta)",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Goiás (Parte Alta)",
+    "cep": "38442234",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Rodovia MG-413"
 }

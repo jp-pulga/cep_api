@@ -1,12 +1,13 @@
 {
-  "cep": "38441563",
-  "logradouro": "Avenida José Canut",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fátima",
+    "cep": "38441563",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida José Canut"
 }

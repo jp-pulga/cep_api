@@ -1,12 +1,13 @@
 {
-  "cep": "38444267",
-  "logradouro": "Avenida Minas Gerais",
-  "bairro": "Ouro Verde",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Verde",
+    "cep": "38444267",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Minas Gerais"
 }

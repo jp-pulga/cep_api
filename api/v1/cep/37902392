@@ -1,12 +1,12 @@
 {
-  "cep": "37902392",
-  "logradouro": "Rua Araponga",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças",
+    "cep": "37902392",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Araponga"
 }

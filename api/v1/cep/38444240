@@ -1,12 +1,13 @@
 {
-  "cep": "38444240",
-  "logradouro": "Avenida Brasil",
-  "bairro": "Miranda",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Miranda",
+    "cep": "38444240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Brasil"
 }

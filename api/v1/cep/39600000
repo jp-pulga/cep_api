@@ -1,12 +1,11 @@
 {
-  "cep": "39600000",
-  "logradouro": "Araçuaí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Araçuaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39600000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araçuaí"
+    },
+    "ibge": 3103405
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38442040",
-  "logradouro": "Avenida Nicolau Dorazio",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial",
+    "cep": "38442040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Nicolau Dorazio"
 }

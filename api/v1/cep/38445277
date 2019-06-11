@@ -1,12 +1,13 @@
 {
-  "cep": "38445277",
-  "logradouro": "Avenida Calimério Pereira de Ávila",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso",
+    "cep": "38445277",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Calimério Pereira de Ávila"
 }

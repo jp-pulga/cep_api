@@ -1,12 +1,12 @@
 {
-  "cep": "35663656",
-  "logradouro": "Rua Araponga",
-  "bairro": "Bom Jesus do Pará",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus do Pará",
+    "cep": "35663656",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Araponga"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38443147",
-  "logradouro": "Rodovia MG-44",
-  "bairro": "Vieno",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vieno",
+    "cep": "38443147",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Rodovia MG-44"
 }

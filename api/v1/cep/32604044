@@ -1,12 +1,12 @@
 {
-  "cep": "32604044",
-  "logradouro": "Rua Araçuaí",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia",
+    "cep": "32604044",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Araçuaí"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38440039",
-  "logradouro": "Alameda das Hortências",
-  "bairro": "Rosário",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rosário",
+    "cep": "38440039",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Alameda das Hortências"
 }

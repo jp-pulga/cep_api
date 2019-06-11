@@ -1,12 +1,13 @@
 {
-  "cep": "38441155",
-  "logradouro": "Avenida Brasil",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasília",
+    "cep": "38441155",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Brasil"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38445273",
-  "logradouro": "Alameda Adélia Dorázio de Jesus",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso",
+    "cep": "38445273",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Alameda Adélia Dorázio de Jesus"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38445271",
-  "logradouro": "Alameda Rosa Dorázio Tomaz",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso",
+    "cep": "38445271",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Alameda Rosa Dorázio Tomaz"
 }

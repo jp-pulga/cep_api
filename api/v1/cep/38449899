@@ -1,12 +1,13 @@
 {
-  "cep": "38449899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Araguari",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Araguari",
+    "cep": "38449899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Área Rural"
 }

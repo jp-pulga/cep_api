@@ -1,12 +1,13 @@
 {
-  "cep": "38442204",
-  "logradouro": "Avenida Coronel Belchior de Godoy",
-  "bairro": "Goiás",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Goiás",
+    "cep": "38442204",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Coronel Belchior de Godoy"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38440210",
-  "logradouro": "Avenida Batalhão Mauá lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "38440210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Batalhão Mauá - lado ímpar"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38441122",
-  "logradouro": "Alameda Eugênio Nasciutti",
-  "bairro": "Maria Eugênia",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Eugênia",
+    "cep": "38441122",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Alameda Eugênio Nasciutti"
 }

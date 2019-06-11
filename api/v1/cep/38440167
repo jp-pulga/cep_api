@@ -1,12 +1,13 @@
 {
-  "cep": "38440167",
-  "logradouro": "Avenida Coronel Teodolino Pereira Araújo de 892 ao fim - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "38440167",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Coronel Teodolino Pereira Araújo - de 892 ao fim - lado par"
 }

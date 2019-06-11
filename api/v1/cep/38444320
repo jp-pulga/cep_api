@@ -1,12 +1,13 @@
 {
-  "cep": "38444320",
-  "logradouro": "Avenida Belo Horizonte",
-  "bairro": "Santiago",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santiago",
+    "cep": "38444320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Belo Horizonte"
 }

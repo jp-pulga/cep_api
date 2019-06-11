@@ -1,12 +1,13 @@
 {
-  "cep": "38441127",
-  "logradouro": "Avenida Bernardo Sayão",
-  "bairro": "Maria Eugênia",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Eugênia",
+    "cep": "38441127",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Bernardo Sayão"
 }

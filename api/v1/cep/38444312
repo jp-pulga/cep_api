@@ -1,12 +1,13 @@
 {
-  "cep": "38444312",
-  "logradouro": "Avenida Marechal Rondon",
-  "bairro": "Palmeiras do Império",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmeiras do Império",
+    "cep": "38444312",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Marechal Rondon"
 }

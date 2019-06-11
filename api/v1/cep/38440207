@@ -1,12 +1,13 @@
 {
-  "cep": "38440207",
-  "logradouro": "Avenida Minas Gerais",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Helena",
+    "cep": "38440207",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Minas Gerais"
 }

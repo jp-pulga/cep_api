@@ -1,12 +1,13 @@
 {
-  "cep": "38444007",
-  "logradouro": "Avenida Calimério Pereira de Ávila",
-  "bairro": "Miranda",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Miranda",
+    "cep": "38444007",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "ibge": 3103504,
+    "logradouro": "Avenida Calimério Pereira de Ávila"
 }
