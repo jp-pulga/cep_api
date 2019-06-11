@@ -1,12 +1,11 @@
 {
-  "cep": "35790000",
-  "logradouro": "Curvelo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Curvelo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35790000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Curvelo"
+    },
+    "ibge": 3120904
 }

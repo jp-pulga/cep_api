@@ -1,12 +1,12 @@
 {
-  "cep": "35502038",
-  "logradouro": "Rua Delfinópolis",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "35502038",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Delfinópolis"
 }

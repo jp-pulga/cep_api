@@ -1,12 +1,12 @@
 {
-  "cep": "37502050",
-  "logradouro": "Rua Delfim Moreira",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Vicente",
+    "cep": "37502050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Delfim Moreira"
 }
