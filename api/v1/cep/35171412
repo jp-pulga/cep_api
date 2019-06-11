@@ -1,12 +1,13 @@
 {
-  "cep": "35171412",
-  "logradouro": "Avenida A",
-  "bairro": "Santa Terezinha II",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha II",
+    "cep": "35171412",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida A"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35171230",
-  "logradouro": "Avenida Limoeiros",
-  "bairro": "Residencial Pomar",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Pomar",
+    "cep": "35171230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Limoeiros"
 }

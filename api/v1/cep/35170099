@@ -1,12 +1,13 @@
 {
-  "cep": "35170099",
-  "logradouro": "Avenida Araruama",
-  "bairro": "Giovanini",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Giovanini",
+    "cep": "35170099",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Araruama"
 }

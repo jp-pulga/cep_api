@@ -1,12 +1,13 @@
 {
-  "cep": "35171382",
-  "logradouro": "Avenida Cananeia",
-  "bairro": "Júlia Kubitschek",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Júlia Kubitschek",
+    "cep": "35171382",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Cananeia"
 }

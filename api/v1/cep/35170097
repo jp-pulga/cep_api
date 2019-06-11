@@ -1,12 +1,13 @@
 {
-  "cep": "35170097",
-  "logradouro": "Avenida Doutor José de Magalhães Pinto de 1479/1480 ao fim",
-  "bairro": "Giovanini",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Giovanini",
+    "cep": "35170097",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Doutor José de Magalhães Pinto - de 1479\/1480 ao fim"
 }

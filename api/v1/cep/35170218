@@ -1,12 +1,13 @@
 {
-  "cep": "35170218",
-  "logradouro": "Avenida Palmeira",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta",
+    "cep": "35170218",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Palmeira"
 }

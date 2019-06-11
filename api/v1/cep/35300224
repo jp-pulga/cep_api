@@ -1,12 +1,12 @@
 {
-  "cep": "35300224",
-  "logradouro": "Rua Coronel Fabriciano",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz",
+    "cep": "35300224",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Coronel Fabriciano"
 }

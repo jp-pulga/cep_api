@@ -1,12 +1,13 @@
 {
-  "cep": "35171059",
-  "logradouro": "Avenida Corcovado",
-  "bairro": "Manoel Maia (Apara Foice)",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Manoel Maia (Apara Foice)",
+    "cep": "35171059",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Corcovado"
 }

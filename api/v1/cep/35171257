@@ -1,12 +1,13 @@
 {
-  "cep": "35171257",
-  "logradouro": "Alameda Nove",
-  "bairro": "Caladinho",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caladinho",
+    "cep": "35171257",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Alameda Nove"
 }

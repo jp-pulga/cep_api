@@ -1,12 +1,11 @@
 {
-  "cep": "39635000",
-  "logradouro": "Coronel Murta",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coronel Murta",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39635000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Murta"
+    },
+    "ibge": 3119500
 }

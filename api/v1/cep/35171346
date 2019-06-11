@@ -1,12 +1,13 @@
 {
-  "cep": "35171346",
-  "logradouro": "Avenida Brasília até 1399/1400",
-  "bairro": "Amaro Lanari",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Amaro Lanari",
+    "cep": "35171346",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Brasília - até 1399\/1400"
 }

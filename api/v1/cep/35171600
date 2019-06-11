@@ -1,12 +1,13 @@
 {
-  "cep": "35171600",
-  "logradouro": "Avenida Dois",
-  "bairro": "Parque Industrial Novo Reno",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Industrial Novo Reno",
+    "cep": "35171600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Dois"
 }

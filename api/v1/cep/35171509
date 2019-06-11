@@ -1,12 +1,13 @@
 {
-  "cep": "35171509",
-  "logradouro": "Avenida Condomínio Aldeia do Lago",
-  "bairro": "Aldeia do Lago",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aldeia do Lago",
+    "cep": "35171509",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Condomínio Aldeia do Lago"
 }

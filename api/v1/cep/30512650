@@ -1,12 +1,12 @@
 {
-  "cep": "30512650",
-  "logradouro": "Rua Coroaci",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vista Alegre",
+    "cep": "30512650",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Coroaci"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35171213",
-  "logradouro": "Alameda Rio Doce",
-  "bairro": "Morada do Vale",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morada do Vale",
+    "cep": "35171213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Alameda Rio Doce"
 }

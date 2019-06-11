@@ -1,12 +1,13 @@
 {
-  "cep": "35170339",
-  "logradouro": "Avenida Francisca Pereira",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere",
+    "cep": "35170339",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Francisca Pereira"
 }

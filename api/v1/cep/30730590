@@ -1,12 +1,12 @@
 {
-  "cep": "30730590",
-  "logradouro": "Rua Coronel Júlio Murta",
-  "bairro": "Padre Eustáquio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Eustáquio",
+    "cep": "30730590",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Coronel Júlio Murta"
 }

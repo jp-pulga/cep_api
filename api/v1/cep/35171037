@@ -1,12 +1,13 @@
 {
-  "cep": "35171037",
-  "logradouro": "Avenida Germânio",
-  "bairro": "Recanto Verde",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Recanto Verde",
+    "cep": "35171037",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Germânio"
 }

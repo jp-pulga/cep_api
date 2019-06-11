@@ -1,12 +1,12 @@
 {
-  "cep": "30315200",
-  "logradouro": "Rua Coronel Pacheco",
-  "bairro": "Comiteco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Comiteco",
+    "cep": "30315200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Coronel Pacheco"
 }

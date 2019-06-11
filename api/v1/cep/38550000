@@ -1,12 +1,11 @@
 {
-  "cep": "38550000",
-  "logradouro": "Coromandel",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coromandel",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38550000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coromandel"
+    },
+    "ibge": 3119302
 }

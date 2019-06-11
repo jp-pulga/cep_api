@@ -1,12 +1,13 @@
 {
-  "cep": "35170308",
-  "logradouro": "Avenida Dom Oscar",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Domingos",
+    "cep": "35170308",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Avenida Dom Oscar"
 }

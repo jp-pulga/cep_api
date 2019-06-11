@@ -1,12 +1,13 @@
 {
-  "cep": "35175899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Coronel Fabriciano",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Coronel Fabriciano",
+    "cep": "35175899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "ibge": 3119401,
+    "logradouro": "Área Rural"
 }
