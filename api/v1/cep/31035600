@@ -1,12 +1,12 @@
 {
-  "cep": "31035600",
-  "logradouro": "Avenida dos Andradas de 5001 a 5999 - lado ímpar",
-  "bairro": "Horto Florestal",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto Florestal",
+    "cep": "31035600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida dos Andradas - de 5001 a 5999 - lado ímpar"
 }

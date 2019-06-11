@@ -1,12 +1,12 @@
 {
-  "cep": "38701478",
-  "logradouro": "Rua José Miguel Filho",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada",
+    "cep": "38701478",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua José Miguel Filho"
 }

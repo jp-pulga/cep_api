@@ -1,12 +1,12 @@
 {
-  "cep": "30285255",
-  "logradouro": "Avenida dos Andradas de 6502 ao fim - lado par",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vera Cruz",
+    "cep": "30285255",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida dos Andradas - de 6502 ao fim - lado par"
 }

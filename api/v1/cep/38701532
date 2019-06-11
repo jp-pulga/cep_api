@@ -1,12 +1,12 @@
 {
-  "cep": "38701532",
-  "logradouro": "Rua José Porto",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada",
+    "cep": "38701532",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua José Porto"
 }

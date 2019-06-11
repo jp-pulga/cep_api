@@ -1,12 +1,12 @@
 {
-  "cep": "38701520",
-  "logradouro": "Rua Maria Olimpia de Lima",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada",
+    "cep": "38701520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Maria Olimpia de Lima"
 }

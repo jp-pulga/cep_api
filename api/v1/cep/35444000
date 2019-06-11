@@ -1,12 +1,10 @@
 {
-  "cep": "35444000",
-  "logradouro": "Amparo da Serra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Amparo da Serra",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
+    "cep": "35444000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Amparo da Serra"
     }
-  }
 }
