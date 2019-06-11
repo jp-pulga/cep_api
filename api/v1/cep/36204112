@@ -1,12 +1,12 @@
 {
-  "cep": "36204112",
-  "logradouro": "Rua Maria das Dores Miranda Campos",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia",
+    "cep": "36204112",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Maria das Dores Miranda Campos"
 }
