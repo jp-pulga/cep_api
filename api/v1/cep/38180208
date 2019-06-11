@@ -1,12 +1,12 @@
 {
-  "cep": "38180208",
-  "logradouro": "Rua José Gonçalo dos Santos",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco",
+    "cep": "38180208",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua José Gonçalo dos Santos"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36200092",
-  "logradouro": "Rua Francisco Sá",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "36200092",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Francisco Sá"
 }
