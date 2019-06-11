@@ -1,12 +1,12 @@
 {
-  "cep": "31365230",
-  "logradouro": "Rua Felício dos Santos",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha",
+    "cep": "31365230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Felício dos Santos"
 }

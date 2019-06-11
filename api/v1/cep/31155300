@@ -1,12 +1,12 @@
 {
-  "cep": "31155300",
-  "logradouro": "Rua Faria Lemos",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz",
+    "cep": "31155300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Faria Lemos"
 }

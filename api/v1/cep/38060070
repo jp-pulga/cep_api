@@ -1,12 +1,12 @@
 {
-  "cep": "38060070",
-  "logradouro": "Rua José Felício dos Santos",
-  "bairro": "Mercês",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mercês",
+    "cep": "38060070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua José Felício dos Santos"
 }
