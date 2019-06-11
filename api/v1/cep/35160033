@@ -1,12 +1,12 @@
 {
-  "cep": "35160033",
-  "logradouro": "Rua Poços de Caldas",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "35160033",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Poços de Caldas"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30512730",
-  "logradouro": "Rua Domingos Caldas",
-  "bairro": "Madre Gertrudes",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Madre Gertrudes",
+    "cep": "30512730",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Domingos Caldas"
 }

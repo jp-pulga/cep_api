@@ -1,12 +1,12 @@
 {
-  "cep": "30315150",
-  "logradouro": "Rua Santana de Caldas",
-  "bairro": "Comiteco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Comiteco",
+    "cep": "30315150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Santana de Caldas"
 }

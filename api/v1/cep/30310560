@@ -1,12 +1,12 @@
 {
-  "cep": "30310560",
-  "logradouro": "Rua Caldas",
-  "bairro": "Carmo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carmo",
+    "cep": "30310560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Caldas"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37500359",
-  "logradouro": "Rua Benedito Caldas Rocha",
-  "bairro": "Pinheirinho",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pinheirinho",
+    "cep": "37500359",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Benedito Caldas Rocha"
 }

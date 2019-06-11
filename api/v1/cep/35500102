@@ -1,12 +1,12 @@
 {
-  "cep": "35500102",
-  "logradouro": "Rua Caldas",
-  "bairro": "Afonso Pena",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Afonso Pena",
+    "cep": "35500102",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Caldas"
 }

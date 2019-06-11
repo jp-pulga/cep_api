@@ -1,12 +1,11 @@
 {
-  "cep": "37650000",
-  "logradouro": "Camanducaia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Camanducaia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37650000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Camanducaia"
+    },
+    "ibge": 3110509
 }
