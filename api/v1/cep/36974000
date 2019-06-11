@@ -1,12 +1,11 @@
 {
-  "cep": "36974000",
-  "logradouro": "Durandé",
-  "bairro": "",
-  "cidade": {
-    "nome": "Durandé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36974000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Durandé"
+    },
+    "ibge": 3123528
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37037234",
-  "logradouro": "Rua Joaquim Eloy Mendes",
-  "bairro": "San Marino",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "San Marino",
+    "cep": "37037234",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Joaquim Eloy Mendes"
 }
