@@ -1,12 +1,12 @@
 {
-  "cep": "36204382",
-  "logradouro": "Rua Joaquim Carvalho",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro",
+    "cep": "36204382",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Joaquim Carvalho"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30335315",
-  "logradouro": "Beco Aleluia",
-  "bairro": "Santa Rita de Cássia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita de Cássia",
+    "cep": "30335315",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Aleluia"
 }

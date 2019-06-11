@@ -1,12 +1,12 @@
 {
-  "cep": "38400116",
-  "logradouro": "Travessa Cascalho Rico",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "38400116",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Travessa Cascalho Rico"
 }

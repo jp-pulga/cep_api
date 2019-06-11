@@ -1,12 +1,12 @@
 {
-  "cep": "38444288",
-  "logradouro": "Rua Cascalho Rico",
-  "bairro": "Jóquei Clube",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jóquei Clube",
+    "cep": "38444288",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Cascalho Rico"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30335412",
-  "logradouro": "Rua de São Pedro",
-  "bairro": "Santa Rita de Cássia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita de Cássia",
+    "cep": "30335412",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua de São Pedro"
 }

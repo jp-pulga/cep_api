@@ -1,12 +1,12 @@
 {
-  "cep": "35700450",
-  "logradouro": "Rua Cascalho Rico",
-  "bairro": "Nossa Senhora do Carmo",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora do Carmo",
+    "cep": "35700450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Cascalho Rico"
 }

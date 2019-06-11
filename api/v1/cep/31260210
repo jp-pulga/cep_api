@@ -1,12 +1,12 @@
 {
-  "cep": "31260210",
-  "logradouro": "Rua Cassiano Campolina",
-  "bairro": "Dona Clara",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Clara",
+    "cep": "31260210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cassiano Campolina"
 }

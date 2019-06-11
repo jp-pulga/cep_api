@@ -1,12 +1,12 @@
 {
-  "cep": "35501232",
-  "logradouro": "Rua Cascalho Rico",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José",
+    "cep": "35501232",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Cascalho Rico"
 }

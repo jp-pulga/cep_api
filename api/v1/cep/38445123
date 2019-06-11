@@ -1,12 +1,12 @@
 {
-  "cep": "38445123",
-  "logradouro": "Rua Joaquim Cassiano Marques",
-  "bairro": "Sibipiruna",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sibipiruna",
+    "cep": "38445123",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Joaquim Cassiano Marques"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31746035",
-  "logradouro": "Rua Cássia Imperial",
-  "bairro": "Frei Leopoldo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Frei Leopoldo",
+    "cep": "31746035",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cássia Imperial"
 }

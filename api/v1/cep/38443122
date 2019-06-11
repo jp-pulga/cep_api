@@ -1,12 +1,12 @@
 {
-  "cep": "38443122",
-  "logradouro": "Rua dos Carvalhos",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião",
+    "cep": "38443122",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua dos Carvalhos"
 }

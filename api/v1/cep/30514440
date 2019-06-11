@@ -1,12 +1,12 @@
 {
-  "cep": "30514440",
-  "logradouro": "Rua Rita de Cássia",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vista Alegre",
+    "cep": "30514440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Rita de Cássia"
 }

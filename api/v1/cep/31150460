@@ -1,12 +1,12 @@
 {
-  "cep": "31150460",
-  "logradouro": "Rua Francisca Cassiana",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz",
+    "cep": "31150460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Francisca Cassiana"
 }

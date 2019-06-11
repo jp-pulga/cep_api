@@ -1,12 +1,12 @@
 {
-  "cep": "32677538",
-  "logradouro": "Rua Casa Grande",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Caetano",
+    "cep": "32677538",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Casa Grande"
 }
