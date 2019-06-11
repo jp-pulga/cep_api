@@ -1,12 +1,11 @@
 {
-  "cep": "39489000",
-  "logradouro": "Cônego Marinho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cônego Marinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39489000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cônego Marinho"
+    },
+    "ibge": 3117836
 }

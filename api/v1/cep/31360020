@@ -1,12 +1,12 @@
 {
-  "cep": "31360020",
-  "logradouro": "Rua Congonhal",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha",
+    "cep": "31360020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Congonhal"
 }
