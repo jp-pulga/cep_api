@@ -1,12 +1,13 @@
 {
-  "cep": "69945000",
-  "logradouro": "Acrelândia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Acrelândia",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "",
+    "cep": "69945000",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Acrelândia"
+    },
+    "ibge": 1200013,
+    "logradouro": ""
 }
