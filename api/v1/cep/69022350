@@ -1,12 +1,12 @@
 {
-  "cep": "69022350",
-  "logradouro": "Rua Sena Madureira",
-  "bairro": "Tarumã-Açu",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã-Açu",
+    "cep": "69022350",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Sena Madureira"
 }
