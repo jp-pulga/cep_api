@@ -1,12 +1,12 @@
 {
-  "cep": "96815330",
-  "logradouro": "Rua Cerro Largo",
-  "bairro": "Avenida",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Avenida",
+    "cep": "96815330",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Cerro Largo"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91570680",
-  "logradouro": "Rua Catuípe",
-  "bairro": "Lomba do Pinheiro",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Lomba do Pinheiro",
+    "cep": "91570680",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Catuípe"
 }

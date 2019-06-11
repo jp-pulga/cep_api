@@ -1,12 +1,13 @@
 {
-  "cep": "95043420",
-  "logradouro": "Avenida Monsenhor João Meneguzzi",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima",
+    "cep": "95043420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Avenida Monsenhor João Meneguzzi"
 }

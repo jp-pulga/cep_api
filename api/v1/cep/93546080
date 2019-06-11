@@ -1,12 +1,12 @@
 {
-  "cep": "93546080",
-  "logradouro": "Rua Cidreira",
-  "bairro": "Canudos",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Canudos",
+    "cep": "93546080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Cidreira"
 }

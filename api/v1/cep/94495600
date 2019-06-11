@@ -1,12 +1,12 @@
 {
-  "cep": "94495600",
-  "logradouro": "Rua Charruas",
-  "bairro": "Jari",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jari",
+    "cep": "94495600",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Charruas"
 }

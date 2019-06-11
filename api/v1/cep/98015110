@@ -1,12 +1,12 @@
 {
-  "cep": "98015110",
-  "logradouro": "Rua Charruas",
-  "bairro": "Malheiros",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Malheiros",
+    "cep": "98015110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Charruas"
 }

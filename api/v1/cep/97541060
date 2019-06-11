@@ -1,12 +1,12 @@
 {
-  "cep": "97541060",
-  "logradouro": "Rua Carlos Gomes",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova",
+    "cep": "97541060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Carlos Gomes"
 }

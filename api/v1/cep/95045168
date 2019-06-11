@@ -1,12 +1,12 @@
 {
-  "cep": "95045168",
-  "logradouro": "Rua Fernando Panazzolo",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centenário",
+    "cep": "95045168",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Fernando Panazzolo"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "95335000",
-  "logradouro": "Cotiporã",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cotiporã",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95335000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cotiporã"
+    },
+    "ibge": 4305959
 }

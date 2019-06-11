@@ -1,12 +1,12 @@
 {
-  "cep": "93040490",
-  "logradouro": "Rua Carlos Gomes",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco",
+    "cep": "93040490",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Carlos Gomes"
 }

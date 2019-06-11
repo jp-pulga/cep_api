@@ -1,12 +1,12 @@
 {
-  "cep": "97095070",
-  "logradouro": "Rua Bosque",
-  "bairro": "Cerrito",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cerrito",
+    "cep": "97095070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Bosque"
 }

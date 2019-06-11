@@ -1,12 +1,13 @@
 {
-  "cep": "95010060",
-  "logradouro": "Avenida Rio Branco até 959/960",
-  "bairro": "São Pelegrino",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Pelegrino",
+    "cep": "95010060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Avenida Rio Branco - até 959\/960"
 }

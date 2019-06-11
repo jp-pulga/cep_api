@@ -1,12 +1,12 @@
 {
-  "cep": "93040576",
-  "logradouro": "Rua Luiz Carlos Barbosa Lessa",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco",
+    "cep": "93040576",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Luiz Carlos Barbosa Lessa"
 }

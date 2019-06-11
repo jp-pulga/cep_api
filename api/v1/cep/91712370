@@ -1,12 +1,12 @@
 {
-  "cep": "91712370",
-  "logradouro": "Avenida Renascença",
-  "bairro": "Cascata",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cascata",
+    "cep": "91712370",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Renascença"
 }

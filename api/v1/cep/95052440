@@ -1,12 +1,13 @@
 {
-  "cep": "95052440",
-  "logradouro": "Avenida dos Leiteiros (Interlagos)",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sagrada Família",
+    "cep": "95052440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Avenida dos Leiteiros (Interlagos)"
 }

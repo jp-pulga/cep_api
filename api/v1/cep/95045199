@@ -1,12 +1,12 @@
 {
-  "cep": "95045199",
-  "logradouro": "Rua Marcos Antônio Rosa de Lima",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centenário",
+    "cep": "95045199",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Marcos Antônio Rosa de Lima"
 }

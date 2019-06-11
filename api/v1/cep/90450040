@@ -1,12 +1,12 @@
 {
-  "cep": "90450040",
-  "logradouro": "Rua Tenente-Coronel Fabrício Pilar",
-  "bairro": "Mont Serrat",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mont Serrat",
+    "cep": "90450040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Tenente-Coronel Fabrício Pilar"
 }

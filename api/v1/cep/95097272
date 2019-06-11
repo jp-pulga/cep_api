@@ -1,12 +1,13 @@
 {
-  "cep": "95097272",
-  "logradouro": "Avenida Perimetral Bruno Segalla de 1/2 ao fim",
-  "bairro": "São Leopoldo",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Leopoldo",
+    "cep": "95097272",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Avenida Perimetral Bruno Segalla"
 }

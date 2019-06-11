@@ -1,12 +1,12 @@
 {
-  "cep": "97546625",
-  "logradouro": "Rua C Três",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centenário",
+    "cep": "97546625",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua C Três"
 }

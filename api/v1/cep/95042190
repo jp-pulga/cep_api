@@ -1,12 +1,13 @@
 {
-  "cep": "95042190",
-  "logradouro": "Rodovia RSC-453 do km 7000 ao km 10000",
-  "bairro": "Pioneiro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pioneiro",
+    "cep": "95042190",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Rodovia RSC-453"
 }

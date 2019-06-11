@@ -1,12 +1,12 @@
 {
-  "cep": "90820080",
-  "logradouro": "Avenida Chuí",
-  "bairro": "Cristal",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristal",
+    "cep": "90820080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Chuí"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95010200",
-  "logradouro": "Beco Jorge Berwanger",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira",
+    "cep": "95010200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Beco Jorge Berwanger"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96506580",
-  "logradouro": "Rua José Carlos Barbosa",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco",
+    "cep": "96506580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua José Carlos Barbosa"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93344040",
-  "logradouro": "Rua Chuí",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Primavera",
+    "cep": "93344040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Chuí"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "99528000",
-  "logradouro": "Coqueiros do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coqueiros do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99528000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Coqueiros do Sul"
+    },
+    "ibge": 4305850
 }

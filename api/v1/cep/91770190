@@ -1,12 +1,12 @@
 {
-  "cep": "91770190",
-  "logradouro": "Rua Charruas",
-  "bairro": "Espírito Santo",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Espírito Santo",
+    "cep": "91770190",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Charruas"
 }

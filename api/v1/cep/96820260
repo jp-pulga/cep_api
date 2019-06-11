@@ -1,12 +1,12 @@
 {
-  "cep": "96820260",
-  "logradouro": "Rua Carlos Gomes",
-  "bairro": "Santo Inácio",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Inácio",
+    "cep": "96820260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Carlos Gomes"
 }

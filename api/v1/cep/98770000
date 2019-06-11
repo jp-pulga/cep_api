@@ -1,12 +1,11 @@
 {
-  "cep": "98770000",
-  "logradouro": "Catuípe",
-  "bairro": "",
-  "cidade": {
-    "nome": "Catuípe",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98770000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Catuípe"
+    },
+    "ibge": 4305009
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94450200",
-  "logradouro": "Rua Carlos Gomes",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Lucas",
+    "cep": "94450200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Carlos Gomes"
 }

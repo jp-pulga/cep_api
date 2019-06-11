@@ -1,12 +1,13 @@
 {
-  "cep": "95032451",
-  "logradouro": "Avenida Luiz Amalcaburio",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Monte Bérico",
+    "cep": "95032451",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Avenida Luiz Amalcaburio"
 }

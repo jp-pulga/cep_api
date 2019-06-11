@@ -1,12 +1,13 @@
 {
-  "cep": "95097350",
-  "logradouro": "Avenida São Leopoldo",
-  "bairro": "São Leopoldo",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Leopoldo",
+    "cep": "95097350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Avenida São Leopoldo"
 }

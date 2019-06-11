@@ -1,12 +1,12 @@
 {
-  "cep": "96055450",
-  "logradouro": "Rua Carlos Gomes",
-  "bairro": "Três Vendas",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Vendas",
+    "cep": "96055450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Carlos Gomes"
 }

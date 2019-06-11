@@ -1,12 +1,12 @@
 {
-  "cep": "90880000",
-  "logradouro": "Avenida Doutor Carlos Barbosa lado par",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira",
+    "cep": "90880000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Doutor Carlos Barbosa - lado par"
 }

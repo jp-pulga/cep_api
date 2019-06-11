@@ -1,12 +1,12 @@
 {
-  "cep": "93546285",
-  "logradouro": "Rua Chapada 1",
-  "bairro": "Canudos",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Canudos",
+    "cep": "93546285",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Chapada 1"
 }

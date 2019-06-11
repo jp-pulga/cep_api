@@ -1,12 +1,12 @@
 {
-  "cep": "95110625",
-  "logradouro": "Rua Clodoveu Guilherme Zanotto",
-  "bairro": "Charqueadas",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Charqueadas",
+    "cep": "95110625",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Clodoveu Guilherme Zanotto"
 }

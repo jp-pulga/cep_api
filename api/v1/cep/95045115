@@ -1,12 +1,12 @@
 {
-  "cep": "95045115",
-  "logradouro": "Rua Francisco Palmeira de Souza",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centenário",
+    "cep": "95045115",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Francisco Palmeira de Souza"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90850110",
-  "logradouro": "Rua Barão de Cerro Largo",
-  "bairro": "Menino Deus",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Menino Deus",
+    "cep": "90850110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Barão de Cerro Largo"
 }

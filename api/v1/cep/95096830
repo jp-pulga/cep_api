@@ -1,12 +1,12 @@
 {
-  "cep": "95096830",
-  "logradouro": "Rua Alexandre Peretti",
-  "bairro": "Charqueadas",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Charqueadas",
+    "cep": "95096830",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Alexandre Peretti"
 }

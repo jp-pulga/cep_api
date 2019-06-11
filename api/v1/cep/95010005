@@ -1,12 +1,13 @@
 {
-  "cep": "95010005",
-  "logradouro": "Avenida Júlio de Castilhos de 1805 ao fim - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "95010005",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "ibge": 4305108,
+    "logradouro": "Avenida Júlio de Castilhos - de 1805 ao fim - lado ímpar"
 }
