@@ -1,12 +1,12 @@
 {
-  "cep": "31814200",
-  "logradouro": "Rua Engenheiro Navarro",
-  "bairro": "Providência",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Providência",
+    "cep": "31814200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Engenheiro Navarro"
 }

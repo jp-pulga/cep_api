@@ -1,12 +1,12 @@
 {
-  "cep": "35045100",
-  "logradouro": "Rua Esmeraldas",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Rica",
+    "cep": "35045100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Esmeraldas"
 }

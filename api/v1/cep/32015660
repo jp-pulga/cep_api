@@ -1,12 +1,12 @@
 {
-  "cep": "32015660",
-  "logradouro": "Rua das Esmeraldas",
-  "bairro": "Nossa Senhora do Carmo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora do Carmo",
+    "cep": "32015660",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua das Esmeraldas"
 }

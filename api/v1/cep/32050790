@@ -1,12 +1,12 @@
 {
-  "cep": "32050790",
-  "logradouro": "Avenida Esmeraldas",
-  "bairro": "Industrial Santa Cruz",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial Santa Cruz",
+    "cep": "32050790",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Avenida Esmeraldas"
 }

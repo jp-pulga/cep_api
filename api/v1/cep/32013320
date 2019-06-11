@@ -1,12 +1,12 @@
 {
-  "cep": "32013320",
-  "logradouro": "Rua Engenheiro Navarro",
-  "bairro": "Fonte Grande",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fonte Grande",
+    "cep": "32013320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Engenheiro Navarro"
 }

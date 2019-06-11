@@ -1,12 +1,12 @@
 {
-  "cep": "32044330",
-  "logradouro": "Rua Esmeraldas",
-  "bairro": "Praia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Praia",
+    "cep": "32044330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Esmeraldas"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35702098",
-  "logradouro": "Rodovia MG-424 - de 1/2 a 99997/99998",
-  "bairro": "Esmeraldas",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esmeraldas",
+    "cep": "35702098",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rodovia MG-424"
 }
