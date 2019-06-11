@@ -1,12 +1,12 @@
 {
-  "cep": "37037104",
-  "logradouro": "Rua Conceição Aparecida de Oliveira",
-  "bairro": "Jardim Oriente",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Oriente",
+    "cep": "37037104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Conceição Aparecida de Oliveira"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37701224",
-  "logradouro": "Rua Conceição Aparecida Cardoso",
-  "bairro": "Jardim Bela Vista",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Bela Vista",
+    "cep": "37701224",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Conceição Aparecida Cardoso"
 }
