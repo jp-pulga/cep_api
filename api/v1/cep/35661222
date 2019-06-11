@@ -1,12 +1,12 @@
 {
-  "cep": "35661222",
-  "logradouro": "Rua Igaratinga",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco",
+    "cep": "35661222",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Igaratinga"
 }
