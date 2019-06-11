@@ -1,12 +1,13 @@
 {
-  "cep": "98802090",
-  "logradouro": "Rua Coronel Joaquim Rolim de Moura",
-  "bairro": "Dytz",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Dytz",
+    "cep": "98802090",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "ibge": 1100288,
+    "logradouro": "Rua Coronel Joaquim Rolim de Moura"
 }

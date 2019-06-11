@@ -1,12 +1,13 @@
 {
-  "cep": "03616050",
-  "logradouro": "Rua Paulino Rolim de Moura",
-  "bairro": "Vila Salete",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Salete",
+    "cep": "03616050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "ibge": 1100288,
+    "logradouro": "Rua Paulino Rolim de Moura"
 }

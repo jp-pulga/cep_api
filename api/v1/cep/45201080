@@ -1,12 +1,13 @@
 {
-  "cep": "45201080",
-  "logradouro": "Rua Presidente Médici",
-  "bairro": "Joaquim Romão",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Joaquim Romão",
+    "cep": "45201080",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 1100254,
+    "logradouro": "Rua Presidente Médici"
 }

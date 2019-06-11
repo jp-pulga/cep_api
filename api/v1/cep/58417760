@@ -1,12 +1,13 @@
 {
-  "cep": "58417760",
-  "logradouro": "Rua Severino Pereira Rodrigues",
-  "bairro": "Presidente Médici",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Presidente Médici",
+    "cep": "58417760",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 1100254,
+    "logradouro": "Rua Severino Pereira Rodrigues"
 }

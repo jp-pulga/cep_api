@@ -1,12 +1,13 @@
 {
-  "cep": "38410000",
-  "logradouro": "Avenida Petronilha Rodrigues de Queiroz",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Buritis",
+    "cep": "38410000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 1100452,
+    "logradouro": "Avenida Petronilha Rodrigues de Queiroz"
 }

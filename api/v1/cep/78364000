@@ -1,12 +1,13 @@
 {
-  "cep": "78364000",
-  "logradouro": "Marechal Rondon (Campo Novo do Parecis)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Marechal Rondon (Campo Novo do Parecis)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Marechal ",
+    "cep": "78364000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Campo Novo do Parecis"
+    },
+    "ibge": 1101450,
+    "logradouro": ""
 }

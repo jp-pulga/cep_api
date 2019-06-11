@@ -1,12 +1,13 @@
 {
-  "cep": "30575167",
-  "logradouro": "Rua Paulo Roberto Surette",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Buritis",
+    "cep": "30575167",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 1100452,
+    "logradouro": "Rua Paulo Roberto Surette"
 }

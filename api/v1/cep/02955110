@@ -1,12 +1,13 @@
 {
-  "cep": "02955110",
-  "logradouro": "Rua Bernardo Rolim de Moura",
-  "bairro": "Vila Mirante",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Mirante",
+    "cep": "02955110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "ibge": 1100288,
+    "logradouro": "Rua Bernardo Rolim de Moura"
 }

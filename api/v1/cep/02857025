@@ -1,12 +1,13 @@
 {
-  "cep": "02857025",
-  "logradouro": "Viela B (Conj Hab Nova União)",
-  "bairro": "Jardim Brasília (Zona Norte)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Brasília (Zona Norte)",
+    "cep": "02857025",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "ibge": 1101435,
+    "logradouro": "Travessa Maria Alves Rodrigues (Conj Hab Nova União)"
 }

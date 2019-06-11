@@ -1,12 +1,13 @@
 {
-  "cep": "18212060",
-  "logradouro": "Rua Júlio Rolim de Moura",
-  "bairro": "Vila Olho D'Agua",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Olho D'Agua",
+    "cep": "18212060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "ibge": 1100288,
+    "logradouro": "Rua Júlio Rolim de Moura"
 }

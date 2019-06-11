@@ -1,12 +1,13 @@
 {
-  "cep": "30628605",
-  "logradouro": "Rua Sérgio Rodrigues Gomes",
-  "bairro": "Corumbiara (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Corumbiara (Barreiro)",
+    "cep": "30628605",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "ibge": 1100072,
+    "logradouro": "Rua Sérgio Rodrigues Gomes"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "16902655",
-  "logradouro": "Rua Projetada K",
-  "bairro": "Loteamento Quinta dos Castanheiras",
-  "cidade": {
-    "nome": "Andradina",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Quinta das Castanheiras",
+    "cep": "16902655",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Andradina"
+    },
+    "ibge": 1100908,
+    "logradouro": "Rua Osvaldo Rodrigues Batalha"
 }

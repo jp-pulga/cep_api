@@ -1,12 +1,13 @@
 {
-  "cep": "38081570",
-  "logradouro": "Rua Olavo Castanheira Rocha",
-  "bairro": "Jardim do Lago",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim do Lago",
+    "cep": "38081570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 1100908,
+    "logradouro": "Rua Olavo Castanheira Rocha"
 }

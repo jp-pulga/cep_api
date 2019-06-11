@@ -1,12 +1,13 @@
 {
-  "cep": "29153668",
-  "logradouro": "Rua Francisco Maria Rodrigues",
-  "bairro": "Presidente Médici",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Presidente Médici",
+    "cep": "29153668",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 1100254,
+    "logradouro": "Rua Francisco Maria Rodrigues"
 }

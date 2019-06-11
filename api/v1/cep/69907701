@@ -1,12 +1,13 @@
 {
-  "cep": "69907701",
-  "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) até 5013 - lado ímpar",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Santa Inês",
+    "cep": "69907701",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1100205,
+    "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) - até 5013 - lado ímpar"
 }

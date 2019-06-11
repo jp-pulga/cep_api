@@ -1,12 +1,13 @@
 {
-  "cep": "69908898",
-  "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) de 6738 a 7950 - lado par",
-  "bairro": "Loteamento Santo Afonso",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Loteamento Santo Afonso",
+    "cep": "69908898",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1100205,
+    "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) - de 6738 a 7950 - lado par"
 }

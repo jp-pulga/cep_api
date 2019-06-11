@@ -1,12 +1,13 @@
 {
-  "cep": "45201090",
-  "logradouro": "Travessa Presidente Médici",
-  "bairro": "Joaquim Romão",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Joaquim Romão",
+    "cep": "45201090",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 1100254,
+    "logradouro": "Travessa Presidente Médici"
 }

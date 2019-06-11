@@ -1,12 +1,13 @@
 {
-  "cep": "89806092",
-  "logradouro": "Rua Manoel Rolin de Moura D - de 80/81 ao fim",
-  "bairro": "Bom Pastor",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bom Pastor",
+    "cep": "89806092",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 1100288,
+    "logradouro": "Rua Manoel Rolin de Moura - D - de 80\/81 ao fim"
 }

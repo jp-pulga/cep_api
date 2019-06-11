@@ -1,12 +1,13 @@
 {
-  "cep": "38082686",
-  "logradouro": "Rua Quatro",
-  "bairro": "Parque dos Buritis",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque dos Buritis",
+    "cep": "38082686",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 1100452,
+    "logradouro": "Rua João Roque Luiz"
 }

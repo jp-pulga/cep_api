@@ -1,12 +1,13 @@
 {
-  "cep": "29172490",
-  "logradouro": "Rua Flor de Cerejeira",
-  "bairro": "Feu Rosa",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Feu Rosa",
+    "cep": "29172490",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "ibge": 1100056,
+    "logradouro": "Rua Flor de Cerejeira"
 }

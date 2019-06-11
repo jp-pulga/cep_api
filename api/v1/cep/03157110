@@ -1,12 +1,13 @@
 {
-  "cep": "03157110",
-  "logradouro": "Praça Rolim de Moura",
-  "bairro": "Parque Sevilha",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Sevilha",
+    "cep": "03157110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "ibge": 1100288,
+    "logradouro": "Praça Rolim de Moura"
 }

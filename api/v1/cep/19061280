@@ -1,12 +1,13 @@
 {
-  "cep": "19061280",
-  "logradouro": "Rua Rosa dos Santos Carneiro",
-  "bairro": "Parque das Cerejeiras",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Cerejeiras",
+    "cep": "19061280",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "ibge": 1100056,
+    "logradouro": "Rua Rosa dos Santos Carneiro"
 }

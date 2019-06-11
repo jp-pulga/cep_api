@@ -1,12 +1,13 @@
 {
-  "cep": "78705164",
-  "logradouro": "Avenida Presidente Médici",
-  "bairro": "Cidade Salmen",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Cidade Salmen",
+    "cep": "78705164",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 1100254,
+    "logradouro": "Avenida Presidente Médici"
 }

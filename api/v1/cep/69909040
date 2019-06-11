@@ -1,12 +1,13 @@
 {
-  "cep": "69909040",
-  "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) de 12300 ao fim - lado par",
-  "bairro": "Residencial Rosa Linda",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Rosa Linda",
+    "cep": "69909040",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1100205,
+    "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) - de 12300 ao fim - lado par"
 }

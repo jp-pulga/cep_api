@@ -1,12 +1,13 @@
 {
-  "cep": "35500424",
-  "logradouro": "Rua Rodrigues Alves",
-  "bairro": "Porto Velho",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Porto Velho",
+    "cep": "35500424",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "ibge": 1100205,
+    "logradouro": "Rua Rodrigues Alves"
 }

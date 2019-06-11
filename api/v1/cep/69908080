@@ -1,12 +1,13 @@
 {
-  "cep": "69908080",
-  "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) de 12003 a 99999 - lado ímpar",
-  "bairro": "Belo Jardim II",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Belo Jardim II",
+    "cep": "69908080",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1100205,
+    "logradouro": "Rodovia BR-364 (Rio Branco-Porto Velho) - de 12003 a 99999 - lado ímpar"
 }

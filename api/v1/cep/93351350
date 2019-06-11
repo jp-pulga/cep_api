@@ -1,12 +1,13 @@
 {
-  "cep": "93351350",
-  "logradouro": "Rua Alto Paraíso (Lot Pop Paraíso)",
-  "bairro": "Roselândia",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Roselândia",
+    "cep": "93351350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 1100403,
+    "logradouro": "Rua Alto Paraíso (Lot Pop Paraíso)"
 }

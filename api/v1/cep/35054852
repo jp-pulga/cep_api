@@ -1,12 +1,13 @@
 {
-  "cep": "35054852",
-  "logradouro": "Rua Roque Gonçalves da Silva",
-  "bairro": "Castanheiras II",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castanheiras II",
+    "cep": "35054852",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "ibge": 1100908,
+    "logradouro": "Rua Roque Gonçalves da Silva"
 }

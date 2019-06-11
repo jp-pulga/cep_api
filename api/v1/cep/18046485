@@ -1,12 +1,13 @@
 {
-  "cep": "18046485",
-  "logradouro": "Rua Bento Rolim de Moura",
-  "bairro": "Jardim São Carlos",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Carlos",
+    "cep": "18046485",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "ibge": 1100288,
+    "logradouro": "Rua Bento Rolim de Moura"
 }

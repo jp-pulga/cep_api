@@ -1,12 +1,13 @@
 {
-  "cep": "89806105",
-  "logradouro": "Rua Marechal Cândido Rondon E - de 471/472 a 1139/1140",
-  "bairro": "Presidente Médici",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Presidente Médici",
+    "cep": "89806105",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 1100254,
+    "logradouro": "Rua Marechal Cândido Rondon - E - de 471\/472 a 1139\/1140"
 }

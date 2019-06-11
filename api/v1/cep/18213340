@@ -1,12 +1,13 @@
 {
-  "cep": "18213340",
-  "logradouro": "Rua Antônio Rolim de Moura",
-  "bairro": "Jardim Vieira de Moraes",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Vieira de Moraes",
+    "cep": "18213340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "ibge": 1100288,
+    "logradouro": "Rua Antônio Rolim de Moura"
 }

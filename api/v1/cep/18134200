@@ -1,12 +1,13 @@
 {
-  "cep": "18134200",
-  "logradouro": "Rua João da Costa Marques",
-  "bairro": "Jardim Bela Vista",
-  "cidade": {
-    "nome": "São Roque",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bela Vista",
+    "cep": "18134200",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Roque"
+    },
+    "ibge": 1100080,
+    "logradouro": "Rua João da Costa Marques"
 }

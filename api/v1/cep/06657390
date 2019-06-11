@@ -1,12 +1,13 @@
 {
-  "cep": "06657390",
-  "logradouro": "Rua Serra dos Parecis",
-  "bairro": "Jardim Rosemary",
-  "cidade": {
-    "nome": "Itapevi",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Rosemary",
+    "cep": "06657390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapevi"
+    },
+    "ibge": 1101450,
+    "logradouro": "Rua Serra dos Parecis"
 }

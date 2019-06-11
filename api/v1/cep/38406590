@@ -1,12 +1,13 @@
 {
-  "cep": "38406590",
-  "logradouro": "Alameda Ipê Roxo",
-  "bairro": "Bosque dos Buritis",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bosque dos Buritis",
+    "cep": "38406590",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 1100452,
+    "logradouro": "Alameda Ipê Roxo"
 }

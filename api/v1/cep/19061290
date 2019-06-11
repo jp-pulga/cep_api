@@ -1,12 +1,13 @@
 {
-  "cep": "19061290",
-  "logradouro": "Rua Cândida Rodrigues Cassulino",
-  "bairro": "Parque das Cerejeiras",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Cerejeiras",
+    "cep": "19061290",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "ibge": 1100056,
+    "logradouro": "Rua Cândida Rodrigues Cassulino"
 }
