@@ -1,12 +1,11 @@
 {
-  "cep": "36855000",
-  "logradouro": "Eugenópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Eugenópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36855000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Eugenópolis"
+    },
+    "ibge": 3124906
 }

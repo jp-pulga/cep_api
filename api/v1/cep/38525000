@@ -1,12 +1,11 @@
 {
-  "cep": "38525000",
-  "logradouro": "Estrela do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Estrela do Sul",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38525000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estrela do Sul"
+    },
+    "ibge": 3124807
 }

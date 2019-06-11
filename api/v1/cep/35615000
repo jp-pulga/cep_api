@@ -1,12 +1,11 @@
 {
-  "cep": "35615000",
-  "logradouro": "Baú (Estrela do Indaiá)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Baú (Estrela do Indaiá)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35615000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estrela do Indaiá"
+    },
+    "ibge": 3124708
 }

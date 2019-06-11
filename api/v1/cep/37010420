@@ -1,12 +1,12 @@
 {
-  "cep": "37010420",
-  "logradouro": "Rua Estrela do Sul",
-  "bairro": "Vila Murad",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Murad",
+    "cep": "37010420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Estrela do Sul"
 }
