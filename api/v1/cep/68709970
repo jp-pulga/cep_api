@@ -1,12 +1,13 @@
 {
-  "cep": "68709970",
-  "logradouro": "AC Quatipuru Rua Cônego Siqueira Mendes 179",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quatipuru",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68709970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Quatipuru"
+    },
+    "ibge": 1506112,
+    "logradouro": "Rua Cônego Siqueira Mendes, 179  AC Quatipuru"
 }

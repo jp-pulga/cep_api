@@ -1,12 +1,13 @@
 {
-  "cep": "69063970",
-  "logradouro": "ACF São Francisco Rua Dona Raquel de Souza 39",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Petrópolis",
+    "cep": "69063970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Rua Dona Raquel de Souza, 39  ACF São Francisco"
 }

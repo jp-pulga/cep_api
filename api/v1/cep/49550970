@@ -1,12 +1,13 @@
 {
-  "cep": "49550970",
-  "logradouro": "AC Carira Rua Domingos Venâncio Neto 62",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carira",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49550970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Carira"
+    },
+    "ibge": 2801405,
+    "logradouro": "Rua Domingos Venâncio Neto, 62  AC Carira"
 }

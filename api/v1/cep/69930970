@@ -1,12 +1,13 @@
 {
-  "cep": "69930970",
-  "logradouro": "AC Xapuri Rua 24 de Janeiro 270",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xapuri",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69930970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Xapuri"
+    },
+    "ibge": 1200708,
+    "logradouro": "Rua 24 de Janeiro, 270  AC Xapuri"
 }

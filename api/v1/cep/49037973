@@ -1,12 +1,13 @@
 {
-  "cep": "49037973",
-  "logradouro": "AC Zona Sul Avenida Melício Machado 1060",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Atalaia",
+    "cep": "49037973",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Avenida Melício Machado, 1061  AC Zona Sul"
 }

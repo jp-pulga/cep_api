@@ -1,12 +1,13 @@
 {
-  "cep": "66010971",
-  "logradouro": "AF Belém Avenida Marechal Hermes s/n",
-  "bairro": "Campina",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Campina",
+    "cep": "66010971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Marechal Hermes, s\/n  AF Belém"
 }

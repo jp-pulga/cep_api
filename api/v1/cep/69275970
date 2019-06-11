@@ -1,12 +1,13 @@
 {
-  "cep": "69275970",
-  "logradouro": "AGC Sucunduri Estrada Transamazônica s/n",
-  "bairro": "Sucunduri",
-  "cidade": {
-    "nome": "Apuí",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Sucunduri",
+    "cep": "69275970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Apuí"
+    },
+    "ibge": 1300144,
+    "logradouro": "Estrada Transamazônica, s\/n  AGC Sucunduri"
 }

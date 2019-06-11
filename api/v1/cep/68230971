@@ -1,12 +1,13 @@
 {
-  "cep": "68230971",
-  "logradouro": "AGC Munguba Rua Solimões s/n Bloco G07 Sala 01",
-  "bairro": "Vila de Munguba",
-  "cidade": {
-    "nome": "Almeirim",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila de Munguba",
+    "cep": "68230971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Almeirim"
+    },
+    "ibge": 1500503,
+    "logradouro": "Rua Solimões, s\/n Bloco G07 Sala 01  AGC Munguba"
 }

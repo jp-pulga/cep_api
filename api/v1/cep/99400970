@@ -1,12 +1,12 @@
 {
-  "cep": "99400970",
-  "logradouro": "AC Espumoso Rua Barão do Rio Branco 500",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Espumoso",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "99400970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Espumoso"
+    },
+    "logradouro": "Rua Barão do Rio Branco, 500  AC Espumoso"
 }

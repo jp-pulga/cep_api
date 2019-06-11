@@ -1,12 +1,13 @@
 {
-  "cep": "67140970",
-  "logradouro": "AC Cidade Nova VI Travessa We-77 912",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "67140970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Travessa We-77, 912  AC Cidade Nova VI"
 }

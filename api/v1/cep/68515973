@@ -1,12 +1,13 @@
 {
-  "cep": "68515973",
-  "logradouro": "AC Bairro da Paz Rua Marabá 159",
-  "bairro": "Vila da Paz",
-  "cidade": {
-    "nome": "Parauapebas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila da Paz",
+    "cep": "68515973",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Parauapebas"
+    },
+    "ibge": 1505536,
+    "logradouro": "Rua Marabá, 159  AC Bairro da Paz"
 }

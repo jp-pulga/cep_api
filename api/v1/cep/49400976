@@ -1,12 +1,13 @@
 {
-  "cep": "49400976",
-  "logradouro": "AGC Brejo Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagarto",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49400976",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Lagarto"
+    },
+    "ibge": 2803500,
+    "logradouro": "Rua Principal, s\/n  AGC Brejo"
 }

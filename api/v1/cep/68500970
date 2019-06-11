@@ -1,12 +1,13 @@
 {
-  "cep": "68500970",
-  "logradouro": "AC Tocantins Praça Duque de Caxias 1021-B",
-  "bairro": "Velha Marabá",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Velha Marabá",
+    "cep": "68500970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Avenida Antônio Maia, 1010  AC Tocantins"
 }

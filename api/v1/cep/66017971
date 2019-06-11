@@ -1,12 +1,13 @@
 {
-  "cep": "66017971",
-  "logradouro": "CDD Belém Centro Rua Ó de Almeida 378",
-  "bairro": "Campina",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Campina",
+    "cep": "66017971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Rua Ó de Almeida, 378  CDD Belém Centro"
 }

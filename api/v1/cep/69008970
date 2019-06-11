@@ -1,12 +1,13 @@
 {
-  "cep": "69008970",
-  "logradouro": "AC Colônia Antônio Aleixo Avenida Getúlio Vargas 131",
-  "bairro": "Colônia Antônio Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Colônia Antônio Aleixo",
+    "cep": "69008970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Getúlio Vargas, 131  AC Colônia Antônio Aleixo"
 }

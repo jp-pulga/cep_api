@@ -1,12 +1,13 @@
 {
-  "cep": "66115970",
-  "logradouro": "AC Val de Cães Avenida Pará s/n",
-  "bairro": "Val-de-Cães",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Val-de-Cães",
+    "cep": "66115970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Pará, s\/n  AC Val de Cães"
 }

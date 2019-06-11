@@ -1,12 +1,13 @@
 {
-  "cep": "68220971",
-  "logradouro": "AGC Canp Rua dos Gurupatubas 160",
-  "bairro": "Serra Oriental",
-  "cidade": {
-    "nome": "Monte Alegre",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Serra Oriental",
+    "cep": "68220971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Monte Alegre"
+    },
+    "ibge": 1504802,
+    "logradouro": "Rua dos Gurupatubas, 160  AGC Canp"
 }

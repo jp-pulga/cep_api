@@ -1,12 +1,13 @@
 {
-  "cep": "49800971",
-  "logradouro": "AGC Lagoa do Rancho Rua Salvador Nogueira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto da Folha",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49800971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Porto da Folha"
+    },
+    "ibge": 2805604,
+    "logradouro": "Rua Salvador Nogueira, s\/n  AGC Lagoa do Rancho"
 }

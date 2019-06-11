@@ -1,12 +1,13 @@
 {
-  "cep": "68785972",
-  "logradouro": "AGC Fazenda Rua das Mangueiras s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Colares",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68785972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Colares"
+    },
+    "ibge": 1502608,
+    "logradouro": "Rua das Mangueiras, s\/n  AGC Fazenda"
 }

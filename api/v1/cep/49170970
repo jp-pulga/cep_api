@@ -1,12 +1,13 @@
 {
-  "cep": "49170970",
-  "logradouro": "AC Laranjeiras Praça Marcolino Ezequiel 159",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Laranjeiras",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49170970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Laranjeiras"
+    },
+    "ibge": 2803609,
+    "logradouro": "Praça Marcolino Ezequiel, 159  AC Laranjeiras"
 }

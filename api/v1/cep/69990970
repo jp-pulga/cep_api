@@ -1,12 +1,13 @@
 {
-  "cep": "69990970",
-  "logradouro": "AC Mâncio Lima Rua Alberto Gadelha 333",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mâncio Lima",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69990970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Mâncio Lima"
+    },
+    "ibge": 1200336,
+    "logradouro": "Rua Alberto Gadelha, 333  AC Mâncio Lima"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68840970",
-  "logradouro": "AC Cachoeira do Arari Travessa Major Emiliano Santos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira do Arari",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68840970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Cachoeira do Arari"
+    },
+    "ibge": 1502004,
+    "logradouro": "Travessa Major Emiliano Santos, s\/n  AC Cachoeira do Arari"
 }

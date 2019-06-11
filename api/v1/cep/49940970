@@ -1,12 +1,13 @@
 {
-  "cep": "49940970",
-  "logradouro": "AC Malhada dos Bois Rua do Comércio 143",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Malhada dos Bois",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49940970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Malhada dos Bois"
+    },
+    "ibge": 2803807,
+    "logradouro": "Rua do Comércio, 143  AC Malhada dos Bois"
 }

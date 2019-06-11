@@ -1,12 +1,13 @@
 {
-  "cep": "68585971",
-  "logradouro": "AC Nova Ipixuna Avenida Brasil 15 Quilômetro 46",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Ipixuna",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68585971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Nova Ipixuna"
+    },
+    "ibge": 1504976,
+    "logradouro": "Avenida Brasil, 15 Quilômetro 46  AC Nova Ipixuna"
 }

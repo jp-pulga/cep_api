@@ -1,12 +1,13 @@
 {
-  "cep": "69700970",
-  "logradouro": "AC Barcelos Avenida Mariuá s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barcelos",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69700970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Barcelos"
+    },
+    "ibge": 1300409,
+    "logradouro": "Avenida Mariuá, s\/n  AC Barcelos"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68501973",
-  "logradouro": "AC Itacaiunas Avenida Antônio Vilhena 630",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Liberdade",
+    "cep": "68501973",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Avenida Antônio Vilhena, 630  AC Itacaiunas"
 }

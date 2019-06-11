@@ -1,12 +1,13 @@
 {
-  "cep": "68665970",
-  "logradouro": "AC Garrafão do Norte Avenida Sete de Setembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Garrafão do Norte",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68665970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Garrafão do Norte"
+    },
+    "ibge": 1503077,
+    "logradouro": "Avenida Sete de Setembro, s\/n  AC Garrafão do Norte"
 }

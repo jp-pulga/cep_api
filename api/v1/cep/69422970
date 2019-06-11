@@ -1,12 +1,13 @@
 {
-  "cep": "69422970",
-  "logradouro": "AGC Paricatuba Praça 15 de Fevereiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iranduba",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69422970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Iranduba"
+    },
+    "ibge": 1301852,
+    "logradouro": "Praça 15 de Fevereiro, s\/n  AGC Paricatuba"
 }

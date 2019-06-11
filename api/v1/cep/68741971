@@ -1,12 +1,13 @@
 {
-  "cep": "68741971",
-  "logradouro": "AGC Iracema Rua Manoel Alves 128",
-  "bairro": "Agrovila Iracema",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Agrovila Iracema",
+    "cep": "68741971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Rua Manoel Alves, 128  AGC Iracema"
 }

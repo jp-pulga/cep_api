@@ -1,12 +1,13 @@
 {
-  "cep": "67033971",
-  "logradouro": "AC Ananindeua Rodovia BR-316 km 8 Lote 1298",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "67033971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Rodovia BR-316, km 8 Lote 1298  AC Ananindeua"
 }

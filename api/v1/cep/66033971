@@ -1,12 +1,13 @@
 {
-  "cep": "66033971",
-  "logradouro": "CDD Jurunas Avenida Roberto Camelier 1790",
-  "bairro": "Condor",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Condor",
+    "cep": "66033971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Roberto Camelier, 1790  CDD Jurunas"
 }

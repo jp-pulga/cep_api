@@ -1,12 +1,13 @@
 {
-  "cep": "68633973",
-  "logradouro": "AGC Ligação do Pará Rua Augusto Otávio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Eliseu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68633973",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Dom Eliseu"
+    },
+    "ibge": 1502939,
+    "logradouro": "Rua Augusto Otávio, s\/n  AGC Ligação do Pará"
 }

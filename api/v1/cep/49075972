@@ -1,12 +1,13 @@
 {
-  "cep": "49075972",
-  "logradouro": "CDD Aracaju Rua Acre 1084",
-  "bairro": "Siqueira Campos",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Siqueira Campos",
+    "cep": "49075972",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Rua Acre, 1084  CDD Aracaju"
 }

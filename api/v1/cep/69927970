@@ -1,12 +1,13 @@
 {
-  "cep": "69927970",
-  "logradouro": "AC Porto Acre Rua Margaridas 131",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Acre",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69927970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Porto Acre"
+    },
+    "ibge": 1200807,
+    "logradouro": "Rua Margaridas, 131  AC Porto Acre"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69055972",
-  "logradouro": "AGF Manaus Plaza Avenida Djalma Batista 2100 Loja S01",
-  "bairro": "Parque 10 de Novembro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Parque 10 de Novembro",
+    "cep": "69055972",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Djalma Batista, 2100 Loja S01  AGF Manaus Plaza"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69040970",
-  "logradouro": "AGF Le Bon Marchèe Avenida Pedro Teixeira 1000 Loja 41",
-  "bairro": "Dom Pedro I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Dom Pedro I",
+    "cep": "69040970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Pedro Teixeira, 1000 Loja 41  AGF Le Bon Marchèe"
 }

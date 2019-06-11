@@ -1,12 +1,13 @@
 {
-  "cep": "49400975",
-  "logradouro": "ACS Olhos D'Água Estrada Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagarto",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49400975",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Lagarto"
+    },
+    "ibge": 2803500,
+    "logradouro": "Estrada Principal, s\/n  ACS Olhos D'Água"
 }

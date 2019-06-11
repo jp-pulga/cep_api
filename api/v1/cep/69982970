@@ -1,12 +1,13 @@
 {
-  "cep": "69982970",
-  "logradouro": "AC Porto Walter Rua Projetada s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Walter",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69982970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Porto Walter"
+    },
+    "ibge": 1200393,
+    "logradouro": "Rua Projetada, s\/n  AC Porto Walter"
 }

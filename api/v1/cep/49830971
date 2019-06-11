@@ -1,12 +1,13 @@
 {
-  "cep": "49830971",
-  "logradouro": "ACS Lagoa Funda Rua da Frente 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gararu",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49830971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Gararu"
+    },
+    "ibge": 2802403,
+    "logradouro": "Rua da Frente, 13  ACS Lagoa Funda"
 }

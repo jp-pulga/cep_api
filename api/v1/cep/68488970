@@ -1,12 +1,13 @@
 {
-  "cep": "68488970",
-  "logradouro": "AC Breu Branco Avenida Minas Gerais 270",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Breu Branco",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68488970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Breu Branco"
+    },
+    "ibge": 1501782,
+    "logradouro": "Avenida Minas Gerais, 270  AC Breu Branco"
 }

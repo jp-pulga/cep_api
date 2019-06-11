@@ -1,12 +1,13 @@
 {
-  "cep": "66623971",
-  "logradouro": "AGF Augusto Montenegro Rodovia Augusto Montenegro 297",
-  "bairro": "Marambaia",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marambaia",
+    "cep": "66623971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Rodovia Augusto Montenegro, 297  AGF Augusto Montenegro"
 }

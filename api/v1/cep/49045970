@@ -1,12 +1,13 @@
 {
-  "cep": "49045970",
-  "logradouro": "AGF Ponto Novo Rua Padre Nestor Sampaio 598",
-  "bairro": "Ponto Novo",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Ponto Novo",
+    "cep": "49045970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Rua Padre Nestor Sampaio, 598  AGF Ponto Novo"
 }

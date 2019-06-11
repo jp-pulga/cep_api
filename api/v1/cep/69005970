@@ -1,12 +1,13 @@
 {
-  "cep": "69005970",
-  "logradouro": "AC Central de Manaus Rua Marechal Deodoro 117",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69005970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Rua Marechal Deodoro, 117  AC Central de Manaus"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69036971",
-  "logradouro": "AC Compensa Avenida Brasil 1325",
-  "bairro": "Compensa",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Compensa",
+    "cep": "69036971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Brasil, 1325  AC Compensa"
 }

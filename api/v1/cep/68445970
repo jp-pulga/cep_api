@@ -1,12 +1,13 @@
 {
-  "cep": "68445970",
-  "logradouro": "AC Barcarena Travessa da Matriz s/n",
-  "bairro": "Comercial",
-  "cidade": {
-    "nome": "Barcarena",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Comercial",
+    "cep": "68445970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Barcarena"
+    },
+    "ibge": 1501303,
+    "logradouro": "Travessa da Matriz, s\/n  AC Barcarena"
 }

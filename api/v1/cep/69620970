@@ -1,12 +1,13 @@
 {
-  "cep": "69620970",
-  "logradouro": "AC Amaturá Praça São Cristovão s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Amaturá",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69620970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Amaturá"
+    },
+    "ibge": 1300060,
+    "logradouro": "Praça São Cristovão, s\/n  AC Amaturá"
 }

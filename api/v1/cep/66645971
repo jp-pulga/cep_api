@@ -1,12 +1,13 @@
 {
-  "cep": "66645971",
-  "logradouro": "CDD Souza Avenida Almirante Barroso 5045",
-  "bairro": "Castanheira",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Castanheira",
+    "cep": "66645971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Almirante Barroso, 5045  CDD Souza"
 }

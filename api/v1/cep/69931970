@@ -1,12 +1,13 @@
 {
-  "cep": "69931970",
-  "logradouro": "AC Capixaba Rua Ocimar Tessinari 07",
-  "bairro": "Conquista",
-  "cidade": {
-    "nome": "Capixaba",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Conquista",
+    "cep": "69931970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Capixaba"
+    },
+    "ibge": 1200179,
+    "logradouro": "Rua Ocimar Tessinari, 07  AC Capixaba"
 }

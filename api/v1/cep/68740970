@@ -1,12 +1,13 @@
 {
-  "cep": "68740970",
-  "logradouro": "AC Castanhal Avenida Presidente Getúlio Vargas 2348",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68740970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Avenida Presidente Getúlio Vargas, 2348  AC Castanhal"
 }

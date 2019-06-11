@@ -1,12 +1,13 @@
 {
-  "cep": "49540970",
-  "logradouro": "AC Nossa Senhora aparecida Praça Pedro Barbosa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nossa Senhora Aparecida",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49540970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora Aparecida"
+    },
+    "ibge": 2804458,
+    "logradouro": "Praça Pedro Barbosa, s\/n  AC Nossa Senhora aparecida"
 }

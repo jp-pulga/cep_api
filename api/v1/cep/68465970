@@ -1,12 +1,13 @@
 {
-  "cep": "68465970",
-  "logradouro": "AC Baião Avenida Presidente Getúlio Vargas 3865",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Baião",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68465970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Baião"
+    },
+    "ibge": 1501204,
+    "logradouro": "Avenida Presidente Getúlio Vargas, 3865  AC Baião"
 }

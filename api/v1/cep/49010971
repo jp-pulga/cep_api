@@ -1,12 +1,13 @@
 {
-  "cep": "49010971",
-  "logradouro": "ACC I Coelho e Campos Avenida Coelho e Campos 604",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49010971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Avenida Coelho e Campos, 604  ACCI Coelho e Campos"
 }

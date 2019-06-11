@@ -1,12 +1,13 @@
 {
-  "cep": "68640971",
-  "logradouro": "AGC Arraial do Caeté Avenida Primo Ribeiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ourém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68640971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ourém"
+    },
+    "ibge": 1505403,
+    "logradouro": "Avenida Primo Ribeiro, s\/n  AGC Arraial do Caeté"
 }

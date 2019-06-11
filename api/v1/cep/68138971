@@ -1,12 +1,13 @@
 {
-  "cep": "68138971",
-  "logradouro": "AC Placas Avenida Perimetral Sul 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Placas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68138971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Placas"
+    },
+    "ibge": 1505650,
+    "logradouro": "Avenida Perimetral Sul, 36  AC Placas"
 }

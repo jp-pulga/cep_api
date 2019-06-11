@@ -1,12 +1,13 @@
 {
-  "cep": "49085970",
-  "logradouro": "CDD Aracaju - Zona Norte Rua Alagoas 1316",
-  "bairro": "José Conrado de Araújo",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "José Conrado de Araújo",
+    "cep": "49085970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Rua Alagoas, 1316  CDD Aracaju Zona Norte"
 }

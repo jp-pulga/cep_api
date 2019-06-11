@@ -1,12 +1,13 @@
 {
-  "cep": "69053971",
-  "logradouro": "AGF Vieiralves Avenida João Valério 755",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças",
+    "cep": "69053971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida João Valério, 755  AGF Vieiralves"
 }

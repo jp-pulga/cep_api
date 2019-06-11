@@ -1,12 +1,13 @@
 {
-  "cep": "68181970",
-  "logradouro": "AC Itaituba Avenida Doutor Hugo de Mendonça 420",
-  "bairro": "Aeroporto Velho",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Aeroporto Velho",
+    "cep": "68181970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Avenida Doutor Hugo de Mendonça, 420  AC Itaituba"
 }

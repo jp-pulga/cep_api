@@ -1,12 +1,13 @@
 {
-  "cep": "68485970",
-  "logradouro": "AC Pacajá Rua Inês Soares 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pacajá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68485970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Pacajá"
+    },
+    "ibge": 1505486,
+    "logradouro": "Rua Inês Soares, 80  AC Pacajá"
 }

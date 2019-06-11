@@ -1,12 +1,13 @@
 {
-  "cep": "49900970",
-  "logradouro": "AC Propriá Rua Getulio Vargas 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Propriá",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49900970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Propriá"
+    },
+    "ibge": 2805703,
+    "logradouro": "Rua Getulio Vargas, 80  AC Propriá"
 }

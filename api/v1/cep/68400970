@@ -1,12 +1,13 @@
 {
-  "cep": "68400970",
-  "logradouro": "AC Cametá Rua Frei Cristóvão de Lisboa 1209",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cametá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68400970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Cametá"
+    },
+    "ibge": 1502103,
+    "logradouro": "Rua Frei Cristóvão de Lisboa, 1209  AC Cametá"
 }

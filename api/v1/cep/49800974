@@ -1,12 +1,13 @@
 {
-  "cep": "49800974",
-  "logradouro": "AGC Lagoa Redonda Rua Salvador Nogueira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto da Folha",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49800974",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Porto da Folha"
+    },
+    "ibge": 2805604,
+    "logradouro": "Rua Salvador Nogueira, s\/n  AGC Lagoa Redonda"
 }

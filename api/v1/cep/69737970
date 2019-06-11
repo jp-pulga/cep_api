@@ -1,12 +1,13 @@
 {
-  "cep": "69737970",
-  "logradouro": "AC Pitinga Rua dos Jacamins 16",
-  "bairro": "Vila C",
-  "cidade": {
-    "nome": "Presidente Figueiredo",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vila C",
+    "cep": "69737970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Presidente Figueiredo"
+    },
+    "ibge": 1303536,
+    "logradouro": "Rua dos Jacamins, 16  AC Pitinga"
 }

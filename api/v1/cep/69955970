@@ -1,12 +1,13 @@
 {
-  "cep": "69955970",
-  "logradouro": "AC Santa Rosa do Purus Rua Coronel José Ferreira 1498",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rosa do Purus",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69955970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Santa Rosa do Purus"
+    },
+    "ibge": 1200435,
+    "logradouro": "Rua Coronel José Ferreira, 1498  AC Santa Rosa do Purus"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69240971",
-  "logradouro": "AGC Murutinga Rua Pereira s/n",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Autazes",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santa Luzia",
+    "cep": "69240971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Autazes"
+    },
+    "ibge": 1300300,
+    "logradouro": "Rua Pereira, s\/n  AGC Murutinga"
 }

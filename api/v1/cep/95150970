@@ -1,12 +1,12 @@
 {
-  "cep": "95150970",
-  "logradouro": "AC Nova Petrópolis Rua Rio Branco 375",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Petrópolis",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "95150970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Petrópolis"
+    },
+    "logradouro": "Rua Rio Branco, 375  AC Nova Petrópolis"
 }

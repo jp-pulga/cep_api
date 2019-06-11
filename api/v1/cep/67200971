@@ -1,12 +1,13 @@
 {
-  "cep": "67200971",
-  "logradouro": "AC Marituba Avenida Fernando Guilhon 4930",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "67200971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marituba"
+    },
+    "ibge": 1504422,
+    "logradouro": "Avenida Fernando Guilhon, 4930  AC Marituba"
 }

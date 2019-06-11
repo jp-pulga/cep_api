@@ -1,12 +1,13 @@
 {
-  "cep": "66811970",
-  "logradouro": "AGF Marajoara Rodovia Augusto Montenegro 681",
-  "bairro": "Agulha (Icoaraci)",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Agulha (Icoaraci)",
+    "cep": "66811970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Rodovia Augusto Montenegro, 681  AGF Marajoara"
 }

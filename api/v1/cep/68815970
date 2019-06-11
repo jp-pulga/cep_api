@@ -1,12 +1,13 @@
 {
-  "cep": "68815970",
-  "logradouro": "AC Curralinho Avenida Jarbas Passarinho 8",
-  "bairro": "Marambaia",
-  "cidade": {
-    "nome": "Curralinho",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marambaia",
+    "cep": "68815970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Curralinho"
+    },
+    "ibge": 1502806,
+    "logradouro": "Avenida Jarbas Passarinho, 8  AC Curralinho"
 }

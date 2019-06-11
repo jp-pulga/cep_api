@@ -1,12 +1,13 @@
 {
-  "cep": "66063971",
-  "logradouro": "AC Guamá Avenida José Bonifácio 2308",
-  "bairro": "Guamá",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Guamá",
+    "cep": "66063971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida José Bonifácio, 2308  AC Guamá"
 }

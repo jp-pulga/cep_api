@@ -1,12 +1,13 @@
 {
-  "cep": "68523970",
-  "logradouro": "AC Curionópolis Avenida Governador Carlos Santos 140",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curionópolis",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68523970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Curionópolis"
+    },
+    "ibge": 1502772,
+    "logradouro": "Avenida Governador Carlos Santos, 140  AC Curionópolis"
 }

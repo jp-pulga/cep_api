@@ -1,12 +1,13 @@
 {
-  "cep": "68795970",
-  "logradouro": "AC Benevides Rua Paulo Begot 230",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Benevides",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68795970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Benevides"
+    },
+    "ibge": 1501501,
+    "logradouro": "Rua Paulo Begot, 230  AC Benevides"
 }

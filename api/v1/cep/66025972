@@ -1,12 +1,13 @@
 {
-  "cep": "66025972",
-  "logradouro": "AC Jurunas Avenida Roberto Camelier 950",
-  "bairro": "Jurunas",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jurunas",
+    "cep": "66025972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Roberto Camelier, 950  AC Jurunas"
 }

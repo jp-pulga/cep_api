@@ -1,12 +1,13 @@
 {
-  "cep": "68515970",
-  "logradouro": "AC Parauapebas Rua Dez 219",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Parauapebas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "68515970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Parauapebas"
+    },
+    "ibge": 1505536,
+    "logradouro": "Rua Dez, 219  AC Parauapebas"
 }

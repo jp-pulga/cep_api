@@ -1,12 +1,13 @@
 {
-  "cep": "67133970",
-  "logradouro": "AC Coqueiro Artéria A-18 371-A",
-  "bairro": "Coqueiro",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Coqueiro",
+    "cep": "67133970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Artéria A-18, 371-A  AC Coqueiro"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "66840970",
-  "logradouro": "AGC Outeiro Rua Manoel Barata s/n",
-  "bairro": "São João do Outeiro (Outeiro)",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São João do Outeiro (Outeiro)",
+    "cep": "66840970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Rua Manoel Barata, s\/n  AGC Outeiro"
 }

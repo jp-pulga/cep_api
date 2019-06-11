@@ -1,12 +1,13 @@
 {
-  "cep": "49500970",
-  "logradouro": "AC Itabaiana Avenida Ivo de Carvalho 336",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itabaiana",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49500970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Itabaiana"
+    },
+    "ibge": 2802908,
+    "logradouro": "Avenida Ivo de Carvalho, 336  AC Itabaiana"
 }

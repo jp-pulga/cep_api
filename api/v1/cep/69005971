@@ -1,12 +1,13 @@
 {
-  "cep": "69005971",
-  "logradouro": "AC Porto de Manaus Rua Miranda Leão 971",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69005971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Rua Miranda Leão, 971  AC Porto de Manaus"
 }

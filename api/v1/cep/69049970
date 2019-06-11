@@ -1,12 +1,13 @@
 {
-  "cep": "69049970",
-  "logradouro": "AC Aeroporto Eduardo Gomes Avenida Santos Dumont s/n",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã",
+    "cep": "69049970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Santos Dumont, s\/n  AC Aeroporto Eduardo Gomes"
 }

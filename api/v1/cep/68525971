@@ -1,12 +1,13 @@
 {
-  "cep": "68525971",
-  "logradouro": "PC Vila São Raimundo Avenida Jarbas Passarinho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus do Tocantins",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68525971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Bom Jesus do Tocantins"
+    },
+    "ibge": 1501576,
+    "logradouro": "Avenida Jarbas Passarinho, s\/n  PC Vila São Raimundo"
 }

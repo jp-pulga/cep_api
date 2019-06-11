@@ -1,12 +1,13 @@
 {
-  "cep": "68501971",
-  "logradouro": "ACF Laranjeiras Avenida Antônio Vilhena 414",
-  "bairro": "Laranjeira",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Laranjeira",
+    "cep": "68501971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Avenida Antônio Vilhena, 414  ACF Laranjeiras"
 }

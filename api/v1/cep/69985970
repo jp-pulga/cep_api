@@ -1,12 +1,13 @@
 {
-  "cep": "69985970",
-  "logradouro": "AC Rodrigues Alves Avenida Presidente Vargas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rodrigues Alves",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69985970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rodrigues Alves"
+    },
+    "ibge": 1200427,
+    "logradouro": "Avenida Presidente Vargas, s\/n  AC Rodrigues Alves"
 }

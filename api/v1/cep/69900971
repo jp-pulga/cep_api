@@ -1,12 +1,13 @@
 {
-  "cep": "69900971",
-  "logradouro": "CDD Rio Branco Avenida Epaminondas Jácome 2858",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Base",
+    "cep": "69900971",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "ibge": 1200401,
+    "logradouro": "Rua Floriano Peixoto, 411  CDD Rio Branco"
 }

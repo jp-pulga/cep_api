@@ -1,12 +1,13 @@
 {
-  "cep": "69180970",
-  "logradouro": "AC Urucurituba Avenida Presidente Castelo Branco s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Urucurituba",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69180970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Urucurituba"
+    },
+    "ibge": 1304401,
+    "logradouro": "Avenida Presidente Castelo Branco, s\/n  AC Urucurituba"
 }

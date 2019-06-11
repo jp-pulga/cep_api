@@ -1,12 +1,13 @@
 {
-  "cep": "69070970",
-  "logradouro": "AC Educandos Avenida Leopoldo Péres 1076",
-  "bairro": "Educandos",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Educandos",
+    "cep": "69070970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Leopoldo Péres, 1076  AC Educandos"
 }

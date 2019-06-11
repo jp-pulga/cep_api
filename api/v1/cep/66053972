@@ -1,12 +1,13 @@
 {
-  "cep": "66053972",
-  "logradouro": "AGF Boulevard Shopping Avenida Visconde de Souza Franco 776 Piso G1 Loja 4",
-  "bairro": "Reduto",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Reduto",
+    "cep": "66053972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Visconde de Souza Franco, 776 Piso G1 Loja 4  AGF Boulevard Shopping"
 }

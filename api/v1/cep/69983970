@@ -1,12 +1,13 @@
 {
-  "cep": "69983970",
-  "logradouro": "AC Marechal Thaumaturgo Rua 5 de Novembro 125",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marechal Thaumaturgo",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69983970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Marechal Thaumaturgo"
+    },
+    "ibge": 1200351,
+    "logradouro": "Rua 5 de Novembro, 125  AC Marechal Thaumaturgo"
 }

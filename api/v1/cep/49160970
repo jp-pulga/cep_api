@@ -1,12 +1,13 @@
 {
-  "cep": "49160970",
-  "logradouro": "AC Nossa Senhora do socorro Praça Getulio Vargas 144",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nossa Senhora do Socorro",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49160970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora do Socorro"
+    },
+    "ibge": 2804805,
+    "logradouro": "Praça Getulio Vargas, 144  AC Nossa Senhora do socorro"
 }

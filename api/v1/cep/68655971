@@ -1,12 +1,13 @@
 {
-  "cep": "68655971",
-  "logradouro": "AGC São Francisco Rodovia BR-010 Km 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Irituia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68655971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Irituia"
+    },
+    "ibge": 1503507,
+    "logradouro": "Rodovia BR-010, Km 14  AGC São Francisco"
 }

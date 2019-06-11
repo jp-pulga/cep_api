@@ -1,12 +1,13 @@
 {
-  "cep": "69080972",
-  "logradouro": "CTCE Manaus Avenida Rodrigo Otávio 35",
-  "bairro": "Coroado",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Coroado",
+    "cep": "69080972",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Rodrigo Otávio, 35  CTCE Manaus"
 }

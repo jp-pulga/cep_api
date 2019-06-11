@@ -1,12 +1,13 @@
 {
-  "cep": "69440970",
-  "logradouro": "AC Anori Rua Manoel Pinto Brandão s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anori",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69440970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Anori"
+    },
+    "ibge": 1300102,
+    "logradouro": "Rua Manoel Pinto Brandão, s\/n  AC Anori"
 }

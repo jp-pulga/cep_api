@@ -1,12 +1,13 @@
 {
-  "cep": "69010972",
-  "logradouro": "AC Saldanha Marinho Rua Barroso 226",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69010972",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Rua Barroso, 226  AC Saldanha Marinho"
 }

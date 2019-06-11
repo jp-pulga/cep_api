@@ -1,12 +1,13 @@
 {
-  "cep": "69250970",
-  "logradouro": "AC Careiro Avenida Airton Sena 287",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Careiro",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vista Alegre",
+    "cep": "69250970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Careiro"
+    },
+    "ibge": 1301100,
+    "logradouro": "Avenida Airton Sena, 287  AC Careiro"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "49530971",
-  "logradouro": "AGC Serra do Machado Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeirópolis",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49530971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Ribeirópolis"
+    },
+    "ibge": 2806008,
+    "logradouro": "Rua Principal, s\/n  AGC Serra do Machado"
 }

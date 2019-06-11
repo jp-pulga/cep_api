@@ -1,12 +1,13 @@
 {
-  "cep": "67015970",
-  "logradouro": "AC Castanheira Rodovia BR-316 s/n Quilômetro 04",
-  "bairro": "Coqueiro",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Coqueiro",
+    "cep": "67015970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Rodovia BR-316, s\/n Quilômetro 04  AC Castanheira"
 }

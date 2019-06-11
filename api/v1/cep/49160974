@@ -1,12 +1,13 @@
 {
-  "cep": "49160974",
-  "logradouro": "CDD Nossa Senhora do Socorro Avenida J 473",
-  "bairro": "Taiçoca de Fora",
-  "cidade": {
-    "nome": "Nossa Senhora do Socorro",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Taiçoca de Fora",
+    "cep": "49160974",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora do Socorro"
+    },
+    "ibge": 2804805,
+    "logradouro": "Avenida Eixo Estrutural A, 1018  CDD Nossa Senhora do Socorro"
 }

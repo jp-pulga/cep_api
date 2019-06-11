@@ -1,12 +1,13 @@
 {
-  "cep": "68200970",
-  "logradouro": "AC Alenquer Travessa Doutor Arnaldo Moraes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alenquer",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68200970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Alenquer"
+    },
+    "ibge": 1500404,
+    "logradouro": "Travessa Doutor Arnaldo Moraes, s\/n  AC Alenquer"
 }

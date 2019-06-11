@@ -1,12 +1,13 @@
 {
-  "cep": "68193971",
-  "logradouro": "AGC Alvarada da Amazônia Rua Quinze de Novembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Progresso",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68193971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Novo Progresso"
+    },
+    "ibge": 1505031,
+    "logradouro": "Rua Quinze de Novembro, s\/n  AGC Alvarada da Amazônia"
 }

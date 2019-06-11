@@ -1,12 +1,13 @@
 {
-  "cep": "69048971",
-  "logradouro": "AC Rodoviária de Manaus Avenida Torquato Tapajós 1",
-  "bairro": "Flores",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Flores",
+    "cep": "69048971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Torquato Tapajós, 1  AC Rodoviária de Manaus"
 }

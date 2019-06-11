@@ -1,12 +1,12 @@
 {
-  "cep": "95084971",
-  "logradouro": "CDD Imigrante Rua Rafael Rossi 281",
-  "bairro": "Nossa Senhora de Lourdes",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora de Lourdes",
+    "cep": "95084971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Rafael Rossi, 281  CDD Imigrante"
 }

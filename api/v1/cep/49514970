@@ -1,12 +1,13 @@
 {
-  "cep": "49514970",
-  "logradouro": "AC Frei Paulo Rua Maria de Oliveira Nunes 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frei Paulo",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49514970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Frei Paulo"
+    },
+    "ibge": 2802304,
+    "logradouro": "Rua Maria de Oliveira Nunes, 21  AC Frei Paulo"
 }

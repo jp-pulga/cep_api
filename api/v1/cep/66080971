@@ -1,12 +1,13 @@
 {
-  "cep": "66080971",
-  "logradouro": "CDD Pedreira Avenida Pedro Miranda 1741",
-  "bairro": "Pedreira",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pedreira",
+    "cep": "66080971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Pedro Miranda, 1741  CDD Pedreira"
 }

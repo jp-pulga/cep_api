@@ -1,12 +1,13 @@
 {
-  "cep": "69950970",
-  "logradouro": "AC Manoel Urbano Rua Valério Caldas Magalhães 92",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manoel Urbano",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69950970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Manoel Urbano"
+    },
+    "ibge": 1200344,
+    "logradouro": "Rua Valério Caldas Magalhães, 92  AC Manoel Urbano"
 }

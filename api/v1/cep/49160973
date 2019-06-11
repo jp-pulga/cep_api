@@ -1,12 +1,13 @@
 {
-  "cep": "49160973",
-  "logradouro": "AGC Piabeta Avenida Principal 982",
-  "bairro": "Piabeta",
-  "cidade": {
-    "nome": "Nossa Senhora do Socorro",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Piabeta",
+    "cep": "49160973",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora do Socorro"
+    },
+    "ibge": 2804805,
+    "logradouro": "Avenida Principal, 982  AGC Piabeta"
 }

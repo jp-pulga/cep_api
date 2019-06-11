@@ -1,12 +1,13 @@
 {
-  "cep": "69050970",
-  "logradouro": "AC Millennium Center Avenida Djalma Batista 1661",
-  "bairro": "Chapada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Chapada",
+    "cep": "69050970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Djalma Batista, 1661  AC Millennium Center"
 }

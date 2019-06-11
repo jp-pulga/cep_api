@@ -1,12 +1,13 @@
 {
-  "cep": "69063971",
-  "logradouro": "AC Petrópolis Rua Benjamin Constant 2150",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Petrópolis",
+    "cep": "69063971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Rua Benjamin Constant, 2150  AC Petrópolis"
 }

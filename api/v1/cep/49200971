@@ -1,12 +1,13 @@
 {
-  "cep": "49200971",
-  "logradouro": "AC Cidade Nova Avenida Jornalista Augusto Gomes 888",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Estância",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "49200971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Estância"
+    },
+    "ibge": 2802106,
+    "logradouro": "Avenida Jornalista Augusto Gomes, 888  AC Cidade Nova"
 }

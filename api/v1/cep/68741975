@@ -1,12 +1,13 @@
 {
-  "cep": "68741975",
-  "logradouro": "ACS Agrovila Nazaré Rodovia BR-316 00",
-  "bairro": "Titanlândia",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Titanlândia",
+    "cep": "68741975",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Rodovia BR-316, 00  ACS Agrovila Nazaré"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "49100971",
-  "logradouro": "AC Botto de Barros Avenida Marginal s/n",
-  "bairro": "Rosa Elze",
-  "cidade": {
-    "nome": "São Cristóvão",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Rosa Elze",
+    "cep": "49100971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "São Cristóvão"
+    },
+    "ibge": 2806701,
+    "logradouro": "Avenida Marginal, s\/n Conjunto E Gomes  AC Botto de Barros"
 }

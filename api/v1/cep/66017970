@@ -1,12 +1,13 @@
 {
-  "cep": "66017970",
-  "logradouro": "AC Central de Belém Avenida Presidente Vargas 498",
-  "bairro": "Campina",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Campina",
+    "cep": "66017970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Presidente Vargas, 498  AC Central de Belém"
 }

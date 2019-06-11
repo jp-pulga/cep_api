@@ -1,12 +1,13 @@
 {
-  "cep": "68741972",
-  "logradouro": "ACS Macapazinho Rodovia BR-316 s/n",
-  "bairro": "Titanlândia",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Titanlândia",
+    "cep": "68741972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Rodovia BR-316, s\/n  ACS Macapazinho"
 }

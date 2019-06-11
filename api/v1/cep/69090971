@@ -1,12 +1,13 @@
 {
-  "cep": "69090971",
-  "logradouro": "CDD Cidade Nova Rua Antonina 1 Bloco C Loja 2/3",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "69090971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Max Teixeira, 700  CDD Cidade Nova"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69265970",
-  "logradouro": "AC Apuí Avenida 13 de Novembro 850",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Apuí",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69265970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Apuí"
+    },
+    "ibge": 1300144,
+    "logradouro": "Avenida 13 de Novembro, 850  AC Apuí"
 }

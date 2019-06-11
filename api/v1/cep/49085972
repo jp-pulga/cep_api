@@ -1,12 +1,13 @@
 {
-  "cep": "49085972",
-  "logradouro": "AC Rua Alagoas Rua Alagoas 1316",
-  "bairro": "José Conrado de Araújo",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "José Conrado de Araújo",
+    "cep": "49085972",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Rua Alagoas, 1316  AC Rua Alagoas"
 }

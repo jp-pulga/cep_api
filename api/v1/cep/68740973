@@ -1,12 +1,13 @@
 {
-  "cep": "68740973",
-  "logradouro": "CDD Castanhal Avenida Presidente Getúlio Vargas 2248",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68740973",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Avenida Presidente Getúlio Vargas, 2248  CDD Castanhal"
 }

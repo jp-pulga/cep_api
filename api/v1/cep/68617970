@@ -1,12 +1,13 @@
 {
-  "cep": "68617970",
-  "logradouro": "AGC Cachoeira do Piriá Praça Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira do Piriá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68617970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Cachoeira do Piriá"
+    },
+    "ibge": 1501956,
+    "logradouro": "Praça Principal, s\/n  AGC Cachoeira do Piriá"
 }

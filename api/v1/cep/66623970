@@ -1,12 +1,13 @@
 {
-  "cep": "66623970",
-  "logradouro": "ACF Nova Marambaia Rodovia Augusto Montenegro 508",
-  "bairro": "Marambaia",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marambaia",
+    "cep": "66623970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Rodovia Augusto Montenegro, 508  ACF Nova Marambaia"
 }

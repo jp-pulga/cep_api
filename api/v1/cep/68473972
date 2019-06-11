@@ -1,12 +1,13 @@
 {
-  "cep": "68473972",
-  "logradouro": "AGC Belo Monte Rua São Francisco s/n",
-  "bairro": "Belo Monte",
-  "cidade": {
-    "nome": "Novo Repartimento",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Belo Monte",
+    "cep": "68473972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Novo Repartimento"
+    },
+    "ibge": 1505064,
+    "logradouro": "Rua São Francisco, s\/n  AGC Belo Monte"
 }

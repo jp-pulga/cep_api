@@ -1,12 +1,13 @@
 {
-  "cep": "69010971",
-  "logradouro": "CDD Manaus Rua do Congresso 90",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69010971",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Rua do Congresso, 90  CDD Manaus"
 }

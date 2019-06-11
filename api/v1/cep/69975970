@@ -1,12 +1,13 @@
 {
-  "cep": "69975970",
-  "logradouro": "AC Jordão Rua Romildo Magalhães s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jordão",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69975970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Jordão"
+    },
+    "ibge": 1200328,
+    "logradouro": "Rua Romildo Magalhães, s\/n  AC Jordão"
 }

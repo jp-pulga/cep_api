@@ -1,12 +1,13 @@
 {
-  "cep": "68180971",
-  "logradouro": "AC Bela Vista Avenida Nossa Senhora do Bom Remédio 420",
-  "bairro": "Do Bom Remédio",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Do Bom Remédio",
+    "cep": "68180971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Avenida Nossa Senhora do Bom Remédio, 420  AC Bela Vista"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68725970",
-  "logradouro": "AC Igarapé-Açu Praça das Nações Unidas 4288",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Igarapé-Açu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68725970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Igarapé-Açu"
+    },
+    "ibge": 1503200,
+    "logradouro": "Praça das Nações Unidas, 4288  AC Igarapé-Açu"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68501972",
-  "logradouro": "AGF São Francisco Avenida São Francisco 1942",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "68501972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Avenida São Francisco, 1942  AGF São Francisco"
 }

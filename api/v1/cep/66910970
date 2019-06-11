@@ -1,12 +1,13 @@
 {
-  "cep": "66910970",
-  "logradouro": "AC Mosqueiro Rua Juvêncio Silva 21",
-  "bairro": "Vila (Mosqueiro)",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila (Mosqueiro)",
+    "cep": "66910970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Rua Juvêncio Silva, 21  AC Mosqueiro"
 }

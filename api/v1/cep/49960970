@@ -1,12 +1,13 @@
 {
-  "cep": "49960970",
-  "logradouro": "AC Japaratuba Rua Getulio Vargas 114",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Japaratuba",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49960970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Japaratuba"
+    },
+    "ibge": 2803302,
+    "logradouro": "Rua Getulio Vargas, 114  AC Japaratuba"
 }

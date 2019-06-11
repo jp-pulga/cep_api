@@ -1,12 +1,13 @@
 {
-  "cep": "66120970",
-  "logradouro": "AC Alferes Costa Avenida Doutor Freitas 1191",
-  "bairro": "Pedreira",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pedreira",
+    "cep": "66120970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Doutor Freitas, 1191  AC Alferes Costa"
 }

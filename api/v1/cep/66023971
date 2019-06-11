@@ -1,12 +1,13 @@
 {
-  "cep": "66023971",
-  "logradouro": "AGF Dezesseis de Novembro Avenida Dezesseis de Novembro 443",
-  "bairro": "Cidade Velha",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Velha",
+    "cep": "66023971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Dezesseis de Novembro, 443  AGF Dezesseis de Novembro"
 }

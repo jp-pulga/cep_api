@@ -1,12 +1,13 @@
 {
-  "cep": "68639970",
-  "logradouro": "AC Goianésia do Pará Rua Tancredo Neves 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Goianésia do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68639970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Goianésia do Pará"
+    },
+    "ibge": 1503093,
+    "logradouro": "Rua Tancredo Neves, 80  AC Goianésia do Pará"
 }

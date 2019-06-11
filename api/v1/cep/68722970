@@ -1,12 +1,13 @@
 {
-  "cep": "68722970",
-  "logradouro": "AC Magalhães Barata Avenida Central s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Magalhães Barata",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68722970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Magalhães Barata"
+    },
+    "ibge": 1504109,
+    "logradouro": "Avenida Central, s\/n  AC Magalhães Barata"
 }

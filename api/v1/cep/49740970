@@ -1,12 +1,13 @@
 {
-  "cep": "49740970",
-  "logradouro": "AC Carmópolis Rua Luiz Maciel Barreto 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carmópolis",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49740970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Carmópolis"
+    },
+    "ibge": 2801504,
+    "logradouro": "Rua Luiz Maciel Barreto, 34  AC Carmópolis"
 }

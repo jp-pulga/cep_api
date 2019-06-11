@@ -1,12 +1,13 @@
 {
-  "cep": "69080970",
-  "logradouro": "AC Mini Campus Avenida Rodrigo Otávio s/n",
-  "bairro": "Coroado",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Coroado",
+    "cep": "69080970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Rodrigo Otávio, s\/n  AC Mini Campus"
 }

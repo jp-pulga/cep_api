@@ -1,12 +1,13 @@
 {
-  "cep": "67020970",
-  "logradouro": "AGC Júlia Seffer Rua Quatorze s/n",
-  "bairro": "Águas Lindas",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Águas Lindas",
+    "cep": "67020970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Rua Quatorze, s\/n  AGC Júlia Seffer"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "49300971",
-  "logradouro": "ACC I Tobias Barreto Avenida Luiz Alves de Oliveira Filho 704",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tobias Barreto",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49300971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Tobias Barreto"
+    },
+    "ibge": 2807402,
+    "logradouro": "Avenida Luiz Alves de Oliveira Filho, 704  ACCI Tobias Barreto"
 }

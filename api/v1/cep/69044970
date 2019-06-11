@@ -1,12 +1,13 @@
 {
-  "cep": "69044970",
-  "logradouro": "AC Planalto Avenida Desembargador João Machado 4922",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Planalto",
+    "cep": "69044970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Desembargador João Machado, 4922  AC Planalto"
 }

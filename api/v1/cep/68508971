@@ -1,12 +1,13 @@
 {
-  "cep": "68508971",
-  "logradouro": "CDD Marabá Quadra Três 13",
-  "bairro": "Nova Marabá",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Marabá",
+    "cep": "68508971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Quadra Três, 13  CDD Marabá"
 }

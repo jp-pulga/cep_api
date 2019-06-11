@@ -1,12 +1,13 @@
 {
-  "cep": "68600970",
-  "logradouro": "AC Bragança Travessa Senador José Pinheiro 452",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bragança",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68600970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Bragança"
+    },
+    "ibge": 1501709,
+    "logradouro": "Travessa Senador José Pinheiro, 452  AC Bragança"
 }

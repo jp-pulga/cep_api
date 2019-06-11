@@ -1,12 +1,13 @@
 {
-  "cep": "69063972",
-  "logradouro": "AC Shopping Popular Avenida Codajás s/n Lojas 11;21;22",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Petrópolis",
+    "cep": "69063972",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Codajás, s\/n Lojas 11;21;22  AC Shopping Popular"
 }

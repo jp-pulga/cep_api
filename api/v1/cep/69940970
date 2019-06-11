@@ -1,12 +1,13 @@
 {
-  "cep": "69940970",
-  "logradouro": "AC Sena Madureira Rua Dom Júlio Matiolli 290",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sena Madureira",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69940970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Sena Madureira"
+    },
+    "ibge": 1200500,
+    "logradouro": "Rua Dom Júlio Matiolli, 290  AC Sena Madureira"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68515971",
-  "logradouro": "AGC Vila da Paz Rua Marabá s/n",
-  "bairro": "Rio Verde",
-  "cidade": {
-    "nome": "Parauapebas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Rio Verde",
+    "cep": "68515971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Parauapebas"
+    },
+    "ibge": 1505536,
+    "logradouro": "Rua Marabá, s\/n  AGC Vila da Paz"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68473970",
-  "logradouro": "AC Novo Repartimento Travessa Rio Jordão s/n Quadra 55",
-  "bairro": "Espigão",
-  "cidade": {
-    "nome": "Novo Repartimento",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Espigão",
+    "cep": "68473970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Novo Repartimento"
+    },
+    "ibge": 1505064,
+    "logradouro": "Travessa Rio Jordão, s\/n Quadra 55  AC Novo Repartimento"
 }

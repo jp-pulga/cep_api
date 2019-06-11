@@ -1,12 +1,13 @@
 {
-  "cep": "66093974",
-  "logradouro": "AGF Almirante Barroso Avenida Almirante Barroso 804",
-  "bairro": "Marco",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marco",
+    "cep": "66093974",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Almirante Barroso, 804  AGF Almirante Barroso"
 }

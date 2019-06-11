@@ -1,12 +1,13 @@
 {
-  "cep": "69075970",
-  "logradouro": "AC Studio 5 Avenida Rodrigo Otávio 2134",
-  "bairro": "Distrito Industrial I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Distrito Industrial I",
+    "cep": "69075970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Rodrigo Otávio, 2134  AC Studio 5"
 }

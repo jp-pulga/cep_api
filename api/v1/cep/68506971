@@ -1,12 +1,13 @@
 {
-  "cep": "68506971",
-  "logradouro": "PC Vila Santa Fé Rodovia PA-150 s/n",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Nova",
+    "cep": "68506971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rodovia PA-150, s\/n  PC Vila Santa Fé"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69043970",
-  "logradouro": "AC Alvorada Rua Criciúma 26A",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Alvorada",
+    "cep": "69043970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Rua Criciúma, 26A  AC Alvorada"
 }

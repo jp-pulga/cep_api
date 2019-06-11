@@ -1,12 +1,13 @@
 {
-  "cep": "68580974",
-  "logradouro": "AGC Cruzeiro do Sul Avenida Quatorze de Julho 00",
-  "bairro": "Itupiranga",
-  "cidade": {
-    "nome": "Itupiranga",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Itupiranga",
+    "cep": "68580974",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itupiranga"
+    },
+    "ibge": 1503705,
+    "logradouro": "Avenida Quatorze de Julho, 00  AGC Cruzeiro do Sul"
 }

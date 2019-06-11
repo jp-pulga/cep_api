@@ -1,12 +1,12 @@
 {
-  "cep": "98635970",
-  "logradouro": "AC Esperança do Sul Avenida Rio Branco 1482 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esperança do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "98635970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esperança do Sul"
+    },
+    "logradouro": "Avenida Rio Branco, 1482 Sala 01  AC Esperança do Sul"
 }

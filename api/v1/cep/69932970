@@ -1,12 +1,13 @@
 {
-  "cep": "69932970",
-  "logradouro": "AC Brasiléia Avenida Prefeito Rolando Moreira 170",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brasiléia",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69932970",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Brasiléia"
+    },
+    "ibge": 1200104,
+    "logradouro": "Avenida Prefeito Rolando Moreira, 170  AC Brasiléia"
 }

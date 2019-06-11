@@ -1,12 +1,13 @@
 {
-  "cep": "68735970",
-  "logradouro": "ACS Tauarizinho Praça da Matriz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Peixe-Boi",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68735970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Peixe-Boi"
+    },
+    "ibge": 1505601,
+    "logradouro": "Praça da Matriz, s\/n  ACS Tauarizinho"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "66055974",
-  "logradouro": "ACC Domingos Marreiros Rua Domingos Marreiros 1260",
-  "bairro": "Umarizal",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Umarizal",
+    "cep": "66055974",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Rua Domingos Marreiros, 1260  ACC Domingos Marreiros"
 }

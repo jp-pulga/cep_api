@@ -1,12 +1,13 @@
 {
-  "cep": "49320970",
-  "logradouro": "AC Riachão do Dantas Rua Leopoldo Braque 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riachão do Dantas",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49320970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Riachão do Dantas"
+    },
+    "ibge": 2805802,
+    "logradouro": "Rua Leopoldo Braque, 6  AC Riachão do Dantas"
 }

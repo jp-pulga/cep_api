@@ -1,12 +1,13 @@
 {
-  "cep": "68445971",
-  "logradouro": "PC Vila Itupanema Vila de Itupanema s/n",
-  "bairro": "Vila dos Cabanos",
-  "cidade": {
-    "nome": "Barcarena",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila dos Cabanos",
+    "cep": "68445971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Barcarena"
+    },
+    "ibge": 1501303,
+    "logradouro": "Vila de Itupanema, s\/n  PC Vila Itupanema"
 }

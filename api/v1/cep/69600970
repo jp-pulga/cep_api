@@ -1,12 +1,13 @@
 {
-  "cep": "69600970",
-  "logradouro": "AC São Paulo de Olivença Rua Getúlio Vargas 1483",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Paulo de Olivença",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "69600970",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "São Paulo de Olivença"
+    },
+    "ibge": 1303908,
+    "logradouro": "Rua Getúlio Vargas, 1483  AC São Paulo de Olivença"
 }

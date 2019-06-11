@@ -1,12 +1,13 @@
 {
-  "cep": "49036970",
-  "logradouro": "AC Shopping Riomar Rua Delmiro Gouveia 400",
-  "bairro": "Coroa do Meio",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Coroa do Meio",
+    "cep": "49036970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Avenida Delmiro Gouveia, 400  AC Shopping Riomar"
 }

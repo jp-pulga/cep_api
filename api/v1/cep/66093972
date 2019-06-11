@@ -1,12 +1,13 @@
 {
-  "cep": "66093972",
-  "logradouro": "AGF Duque de Caxias Avenida Duque de Caxias 1203",
-  "bairro": "Marco",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marco",
+    "cep": "66093972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Avenida Duque de Caxias, 1203  AGF Duque de Caxias"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68150971",
-  "logradouro": "AGC Fordlândia Avenida Pará s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aveiro",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68150971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Aveiro"
+    },
+    "ibge": 1501006,
+    "logradouro": "Avenida Pará, s\/n  AGC Fordlândia"
 }

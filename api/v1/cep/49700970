@@ -1,12 +1,13 @@
 {
-  "cep": "49700970",
-  "logradouro": "AC Capela Praça Manoel Cardoso Souza 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capela",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49700970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Capela"
+    },
+    "ibge": 2801306,
+    "logradouro": "Praça Manoel Cardoso Souza, 25  AC Capela"
 }

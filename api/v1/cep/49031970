@@ -1,12 +1,13 @@
 {
-  "cep": "49031970",
-  "logradouro": "AGF Augusto Franco Praça Deputado Pedro Barreto de Andrade 75-A",
-  "bairro": "Farolândia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Farolândia",
+    "cep": "49031970",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "ibge": 2800308,
+    "logradouro": "Praça Deputado Pedro Barreto de Andrade, 75-A  AGF Augusto Franco"
 }

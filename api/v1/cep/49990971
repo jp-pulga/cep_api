@@ -1,12 +1,13 @@
 {
-  "cep": "49990971",
-  "logradouro": "ACS Serrão Rua Boa Vista 207",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ilha das Flores",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "49990971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Ilha das Flores"
+    },
+    "ibge": 2802700,
+    "logradouro": "Rua Boa Vista, 207  ACS Serrão"
 }

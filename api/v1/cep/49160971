@@ -1,12 +1,13 @@
 {
-  "cep": "49160971",
-  "logradouro": "AC João Alves Filho Avenida Coletora A s/n",
-  "bairro": "Taiçoca de Fora",
-  "cidade": {
-    "nome": "Nossa Senhora do Socorro",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Taiçoca de Fora",
+    "cep": "49160971",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora do Socorro"
+    },
+    "ibge": 2804805,
+    "logradouro": "Avenida Coletora A, s\/n  AC João Alves Filho"
 }
