@@ -1,12 +1,13 @@
 {
-  "cep": "68620974",
-  "logradouro": "ACS Km 14 Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viseu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68620974",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Viseu"
+    },
+    "ibge": 1508308,
+    "logradouro": "Rua Principal, s\/n  ACS Km 14"
 }

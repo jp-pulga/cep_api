@@ -1,12 +1,13 @@
 {
-  "cep": "68635970",
-  "logradouro": "AC São Domingos do Capim Avenida Magalhães Barata 124",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Domingos do Capim",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68635970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Domingos do Capim"
+    },
+    "ibge": 1507201,
+    "logradouro": "Rodovia PA-127, 188  AC São Domingos do Capim"
 }

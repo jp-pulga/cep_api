@@ -1,12 +1,13 @@
 {
-  "cep": "68005970",
-  "logradouro": "AC Santarém Praça da Bandeira 81",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68005970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Praça da Bandeira, 81  AC Santarém"
 }

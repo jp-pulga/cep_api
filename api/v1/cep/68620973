@@ -1,12 +1,13 @@
 {
-  "cep": "68620973",
-  "logradouro": "AGC Km 74 Rua do Comércio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viseu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68620973",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Viseu"
+    },
+    "ibge": 1508308,
+    "logradouro": "Rua do Comércio, s\/n  AGC Km 74"
 }

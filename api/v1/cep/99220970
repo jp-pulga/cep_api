@@ -1,12 +1,12 @@
 {
-  "cep": "99220970",
-  "logradouro": "AC Dois Lajeados Rua Thomas Gonzaga 316 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dois Lajeados",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "99220970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dois Lajeados"
+    },
+    "logradouro": "Rua Thomas Gonzaga, 316 Sala 02  AC Dois Lajeados"
 }

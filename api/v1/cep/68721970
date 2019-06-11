@@ -1,12 +1,13 @@
 {
-  "cep": "68721970",
-  "logradouro": "AC Salinóplis Avenida Rui Barbosa 135",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salinópolis",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68721970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Salinópolis"
+    },
+    "ibge": 1506203,
+    "logradouro": "Avenida Rui Barbosa, 135  AC Salinóplis"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68647970",
-  "logradouro": "AC Tracuateua Avenida Mario Nogueria de Souza 281-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tracuateua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68647970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tracuateua"
+    },
+    "ibge": 1508035,
+    "logradouro": "Avenida Mario Nogueria de Souza, 281-A  AC Tracuateua"
 }

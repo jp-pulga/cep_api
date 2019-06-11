@@ -1,12 +1,13 @@
 {
-  "cep": "68380975",
-  "logradouro": "AGC Taboca Avenida Goiás s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Félix do Xingu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68380975",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Félix do Xingu"
+    },
+    "ibge": 1507300,
+    "logradouro": "Avenida Goiás, s\/n  AGC Taboca"
 }

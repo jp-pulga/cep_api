@@ -1,12 +1,13 @@
 {
-  "cep": "68030973",
-  "logradouro": "AC Irurá Rodovia Santarém-Cuiabá s/n",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Esperança",
+    "cep": "68030973",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rodovia Santarém-Cuiabá, s\/n  AC Irurá"
 }

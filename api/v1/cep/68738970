@@ -1,12 +1,13 @@
 {
-  "cep": "68738970",
-  "logradouro": "AC Santa Maria do Pará Rua Sete de Setembro 143",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68738970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santa Maria do Pará"
+    },
+    "ibge": 1506609,
+    "logradouro": "Rua Sete de Setembro, 143  AC Santa Maria do Pará"
 }

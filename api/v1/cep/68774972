@@ -1,12 +1,13 @@
 {
-  "cep": "68774972",
-  "logradouro": "AGC São João da Ponta Rua Independência 71",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João da Ponta",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68774972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São João da Ponta"
+    },
+    "ibge": 1507466,
+    "logradouro": "Rua Independência, 71  AGC São João da Ponta"
 }

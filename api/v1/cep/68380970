@@ -1,12 +1,13 @@
 {
-  "cep": "68380970",
-  "logradouro": "AC Félix do Xingu Avenida Goiás 1474",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Félix do Xingu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68380970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Félix do Xingu"
+    },
+    "ibge": 1507300,
+    "logradouro": "Avenida Goiás, 1474  AC Félix do Xingu"
 }

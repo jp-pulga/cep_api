@@ -1,12 +1,13 @@
 {
-  "cep": "68552970",
-  "logradouro": "AC Araguaia Avenida Araguaia 2980",
-  "bairro": "Vila Paulista",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila Paulista",
+    "cep": "68552970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Avenida Araguaia, 2980  AC Araguaia"
 }

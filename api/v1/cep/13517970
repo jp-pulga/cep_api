@@ -1,12 +1,12 @@
 {
-  "cep": "13517970",
-  "logradouro": "AGC Paraisolândia Avenida São Francisco s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paraisolândia (Charqueada)",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro\/Paraisol",
+    "cep": "13517970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Charqueada"
+    },
+    "logradouro": "Avenida São Francisco, s\/n  AGC Paraisolândia"
 }

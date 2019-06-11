@@ -1,12 +1,13 @@
 {
-  "cep": "68680970",
-  "logradouro": "AC Tomé-Açu Avenida dos Três Poderes 316",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tomé-Açú",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68680970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tomé-Açu"
+    },
+    "ibge": 1508001,
+    "logradouro": "Avenida dos Três Poderes, 316  AC Tomé-Açu"
 }

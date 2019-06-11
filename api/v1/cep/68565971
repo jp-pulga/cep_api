@@ -1,12 +1,13 @@
 {
-  "cep": "68565971",
-  "logradouro": "AGC Nova Esperança Vila Nova Esperança s/n",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Santa Maria das Barreiras",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Esperança",
+    "cep": "68565971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santa Maria das Barreiras"
+    },
+    "ibge": 1506583,
+    "logradouro": "Vila Nova Esperança, s\/n  AGC Nova Esperança"
 }

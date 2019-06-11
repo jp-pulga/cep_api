@@ -1,12 +1,13 @@
 {
-  "cep": "68738972",
-  "logradouro": "AGC Taciateua Vila de Taciateua S/N",
-  "bairro": "Vila de Taciteua",
-  "cidade": {
-    "nome": "Santa Maria do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila de Taciteua",
+    "cep": "68738972",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santa Maria do Pará"
+    },
+    "ibge": 1506609,
+    "logradouro": "Vila de Taciateua, S\/N  AGC Taciateua"
 }

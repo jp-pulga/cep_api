@@ -1,12 +1,13 @@
 {
-  "cep": "68635971",
-  "logradouro": "ACS Nova Aliança Avenida Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Domingos do Capim",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68635971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Domingos do Capim"
+    },
+    "ibge": 1507201,
+    "logradouro": "Avenida Principal, s\/n  ACS Nova Aliança"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68010970",
-  "logradouro": "AC Sairé Avenida Dom Frederico Costa 775",
-  "bairro": "Santíssimo",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santíssimo",
+    "cep": "68010970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Dom Frederico Costa, 775  AC Sairé"
 }

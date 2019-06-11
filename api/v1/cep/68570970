@@ -1,12 +1,13 @@
 {
-  "cep": "68570970",
-  "logradouro": "AC São Geraldo do Araguaia Avenida Ananias Costa 279",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Geraldo do Araguaia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68570970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Geraldo do Araguaia"
+    },
+    "ibge": 1507458,
+    "logradouro": "Avenida Ananias Costa, 279  AC São Geraldo do Araguaia"
 }

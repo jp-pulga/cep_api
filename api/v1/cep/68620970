@@ -1,12 +1,13 @@
 {
-  "cep": "68620970",
-  "logradouro": "AC Viseu Rua Justo Chermont 276",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viseu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68620970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Viseu"
+    },
+    "ibge": 1508308,
+    "logradouro": "Travessa Coronel Antônio Pedro, s\/n  AC Viseu"
 }

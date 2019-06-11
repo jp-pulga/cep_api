@@ -1,12 +1,13 @@
 {
-  "cep": "68638970",
-  "logradouro": "AC Rondon do Pará Rua Gonçalves Dias 402",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rondon do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68638970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Rondon do Pará"
+    },
+    "ibge": 1506187,
+    "logradouro": "Rua Gonçalves Dias, 402  AC Rondon do Pará"
 }

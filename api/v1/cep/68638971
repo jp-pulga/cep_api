@@ -1,12 +1,13 @@
 {
-  "cep": "68638971",
-  "logradouro": "AGC Jaderlândia Rua Aeliton Andrade 178",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rondon do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68638971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Rondon do Pará"
+    },
+    "ibge": 1506187,
+    "logradouro": "Rua Aeliton Andrade, 178  AGC Jaderlândia"
 }

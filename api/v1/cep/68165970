@@ -1,12 +1,13 @@
 {
-  "cep": "68165970",
-  "logradouro": "AC Rurópolis Travessa Edmar Lemos de Andrade 102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rurópolis",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68165970",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Rurópolis"
+    },
+    "ibge": 1506195,
+    "logradouro": "Travessa Edmar Lemos de Andrade, 102  AC Rurópolis"
 }

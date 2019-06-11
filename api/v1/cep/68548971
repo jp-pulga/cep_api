@@ -1,12 +1,13 @@
 {
-  "cep": "68548971",
-  "logradouro": "AC Sapucaia Avenida Flor da Mata 188",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sapucaia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "68548971",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Sapucaia"
+    },
+    "ibge": 1507755,
+    "logradouro": "Avenida Flor da Mata 188  AC Sapucaia"
 }
