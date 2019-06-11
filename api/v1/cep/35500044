@@ -1,12 +1,12 @@
 {
-  "cep": "35500044",
-  "logradouro": "Rua Cristal",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "35500044",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Cristal"
 }

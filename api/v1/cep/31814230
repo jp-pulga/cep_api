@@ -1,12 +1,12 @@
 {
-  "cep": "31814230",
-  "logradouro": "Rua Cristália",
-  "bairro": "Providência",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Providência",
+    "cep": "31814230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cristália"
 }

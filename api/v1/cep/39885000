@@ -1,12 +1,11 @@
 {
-  "cep": "39885000",
-  "logradouro": "Crisólita",
-  "bairro": "",
-  "cidade": {
-    "nome": "Crisólita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39885000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Crisólita"
+    },
+    "ibge": 3120151
 }

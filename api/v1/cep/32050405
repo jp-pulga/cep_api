@@ -1,12 +1,12 @@
 {
-  "cep": "32050405",
-  "logradouro": "Rua Cristal",
-  "bairro": "Estaleiro",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estaleiro",
+    "cep": "32050405",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Cristal"
 }

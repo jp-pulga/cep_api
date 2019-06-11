@@ -1,12 +1,12 @@
 {
-  "cep": "32684102",
-  "logradouro": "Beco Cristália",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "32684102",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Beco Cristália"
 }
