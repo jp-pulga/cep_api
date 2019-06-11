@@ -1,12 +1,12 @@
 {
-  "cep": "38703262",
-  "logradouro": "Rua Seis",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "38703262",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Seis"
 }

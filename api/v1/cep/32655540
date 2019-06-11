@@ -1,12 +1,12 @@
 {
-  "cep": "32655540",
-  "logradouro": "Rua Barroso",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João",
+    "cep": "32655540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Barroso"
 }

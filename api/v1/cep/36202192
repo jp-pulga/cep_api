@@ -1,12 +1,13 @@
 {
-  "cep": "36202192",
-  "logradouro": "Avenida Juscelino Kubitschek",
-  "bairro": "Diniz II",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Diniz II",
+    "cep": "36202192",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Avenida Juscelino Kubitschek"
 }

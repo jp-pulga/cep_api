@@ -1,12 +1,13 @@
 {
-  "cep": "36202026",
-  "logradouro": "Beco Quatro",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida",
+    "cep": "36202026",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Beco Quatro"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36202000",
-  "logradouro": "Avenida Pereira Teixeira de 429/430 ao fim",
-  "bairro": "Ibiapaba",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ibiapaba",
+    "cep": "36202000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Avenida Pereira Teixeira - de 429\/430 ao fim"
 }

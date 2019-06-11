@@ -1,12 +1,12 @@
 {
-  "cep": "38703245",
-  "logradouro": "Rua Calçadão",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "38703245",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Calçadão"
 }

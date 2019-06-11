@@ -1,12 +1,13 @@
 {
-  "cep": "36204077",
-  "logradouro": "Beco Joaquim dos S. Lourdes",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia",
+    "cep": "36204077",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Beco Joaquim dos S. Lourdes"
 }

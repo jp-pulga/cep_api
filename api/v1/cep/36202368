@@ -1,12 +1,13 @@
 {
-  "cep": "36202368",
-  "logradouro": "Praça Correia de Castro",
-  "bairro": "Pontilhão",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pontilhão",
+    "cep": "36202368",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Praça Correia de Castro"
 }

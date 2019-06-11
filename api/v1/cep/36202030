@@ -1,12 +1,13 @@
 {
-  "cep": "36202030",
-  "logradouro": "Beco Dois",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida",
+    "cep": "36202030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Beco Dois"
 }

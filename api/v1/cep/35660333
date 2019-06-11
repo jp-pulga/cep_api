@@ -1,12 +1,12 @@
 {
-  "cep": "35660333",
-  "logradouro": "Rua Cecília Franca Goebel",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "35660333",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Cecília Franca Goebel"
 }

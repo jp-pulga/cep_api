@@ -1,12 +1,12 @@
 {
-  "cep": "30421034",
-  "logradouro": "Rua Almirante Barroso",
-  "bairro": "Nova Suíssa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Suíssa",
+    "cep": "30421034",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Almirante Barroso"
 }

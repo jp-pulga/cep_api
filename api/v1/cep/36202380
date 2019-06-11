@@ -1,12 +1,13 @@
 {
-  "cep": "36202380",
-  "logradouro": "Avenida Prefeito Simão Tamm Bias Fortes",
-  "bairro": "Grogotó",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grogotó",
+    "cep": "36202380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Avenida Prefeito Simão Tamm Bias Fortes"
 }

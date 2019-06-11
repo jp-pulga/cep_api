@@ -1,12 +1,13 @@
 {
-  "cep": "36202060",
-  "logradouro": "Praça Comendador Tompson Scafutto",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários",
+    "cep": "36202060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Praça Comendador Tompson Scafutto"
 }

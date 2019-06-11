@@ -1,12 +1,12 @@
 {
-  "cep": "31842220",
-  "logradouro": "Rua Ari Barroso",
-  "bairro": "Tupi A",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tupi A",
+    "cep": "31842220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ari Barroso"
 }

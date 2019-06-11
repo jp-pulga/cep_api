@@ -1,12 +1,12 @@
 {
-  "cep": "36128000",
-  "logradouro": "Porto das Flores (Belmiro Braga)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Porto das Flores (Belmiro Braga)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Porto das ",
+    "cep": "36128000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belmiro Braga"
+    },
+    "ibge": 3106101
 }

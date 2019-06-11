@@ -1,12 +1,13 @@
 {
-  "cep": "36200690",
-  "logradouro": "Avenida Itália",
-  "bairro": "Serra Verde",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Verde",
+    "cep": "36200690",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Avenida Itália"
 }

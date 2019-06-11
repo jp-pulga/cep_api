@@ -1,12 +1,13 @@
 {
-  "cep": "36204052",
-  "logradouro": "Avenida Barretos",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte",
+    "cep": "36204052",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Avenida Barretos"
 }

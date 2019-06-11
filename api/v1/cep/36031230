@@ -1,12 +1,12 @@
 {
-  "cep": "36031230",
-  "logradouro": "Rua Paulo Lana Barroso",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo",
+    "cep": "36031230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Paulo Lana Barroso"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36200650",
-  "logradouro": "Avenida do Contorno",
-  "bairro": "Carmo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carmo",
+    "cep": "36200650",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Avenida do Contorno"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36200478",
-  "logradouro": "Beco Padre Roma",
-  "bairro": "Carmo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carmo",
+    "cep": "36200478",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Beco Padre Roma"
 }

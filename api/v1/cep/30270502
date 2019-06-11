@@ -1,12 +1,12 @@
 {
-  "cep": "30270502",
-  "logradouro": "Beco Antônio Barroso",
-  "bairro": "Pompéia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pompéia",
+    "cep": "30270502",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Antônio Barroso"
 }

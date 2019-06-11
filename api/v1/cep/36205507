@@ -1,12 +1,13 @@
 {
-  "cep": "36205507",
-  "logradouro": "Avenida Helena Aguiar de Figueiredo",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipanema",
+    "cep": "36205507",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Avenida Helena Aguiar de Figueiredo"
 }

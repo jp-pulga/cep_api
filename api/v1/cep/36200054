@@ -1,12 +1,13 @@
 {
-  "cep": "36200054",
-  "logradouro": "Largo Marechal Deodoro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro",
+    "cep": "36200054",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Largo Marechal Deodoro"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36201593",
-  "logradouro": "Alameda das Acácias",
-  "bairro": "Retiro das Rosas",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Retiro das Rosas",
+    "cep": "36201593",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Alameda das Acácias"
 }

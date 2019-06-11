@@ -1,12 +1,11 @@
 {
-  "cep": "36126000",
-  "logradouro": "Belmiro Braga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Belmiro Braga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36126000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belmiro Braga"
+    },
+    "ibge": 3106101
 }

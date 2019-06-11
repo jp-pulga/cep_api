@@ -1,12 +1,11 @@
 {
-  "cep": "35447000",
-  "logradouro": "Barra Longa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barra Longa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35447000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barra Longa"
+    },
+    "ibge": 3105707
 }

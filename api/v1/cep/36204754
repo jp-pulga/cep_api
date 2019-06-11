@@ -1,12 +1,13 @@
 {
-  "cep": "36204754",
-  "logradouro": "Beco Água Santa",
-  "bairro": "Água Santa",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Água Santa",
+    "cep": "36204754",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "ibge": 3105608,
+    "logradouro": "Beco Água Santa"
 }
