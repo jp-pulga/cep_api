@@ -1,12 +1,12 @@
 {
-  "cep": "35701204",
-  "logradouro": "Rua Corinto",
-  "bairro": "Várzea",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Várzea",
+    "cep": "35701204",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Corinto"
 }

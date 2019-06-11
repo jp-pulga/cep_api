@@ -1,12 +1,12 @@
 {
-  "cep": "35041160",
-  "logradouro": "Rua Corinto",
-  "bairro": "São Raimundo",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Raimundo",
+    "cep": "35041160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Corinto"
 }

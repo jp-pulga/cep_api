@@ -1,12 +1,12 @@
 {
-  "cep": "30380201",
-  "logradouro": "Beco Sossego",
-  "bairro": "Coração de Jesus",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Coração de Jesus",
+    "cep": "30380201",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Sossego"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30380200",
-  "logradouro": "Rua da Assembléia",
-  "bairro": "Coração de Jesus",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Coração de Jesus",
+    "cep": "30380200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua da Assembléia"
 }

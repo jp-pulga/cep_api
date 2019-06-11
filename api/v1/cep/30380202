@@ -1,12 +1,12 @@
 {
-  "cep": "30380202",
-  "logradouro": "Beco da Paz",
-  "bairro": "Coração de Jesus",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Coração de Jesus",
+    "cep": "30380202",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco da Paz"
 }

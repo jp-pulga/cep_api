@@ -1,12 +1,12 @@
 {
-  "cep": "35701880",
-  "logradouro": "Rua Cordisburgo",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jardim",
+    "cep": "35701880",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Cordisburgo"
 }

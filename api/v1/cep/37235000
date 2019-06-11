@@ -1,12 +1,11 @@
 {
-  "cep": "37235000",
-  "logradouro": "Coqueiral",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coqueiral",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37235000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coqueiral"
+    },
+    "ibge": 3118700
 }

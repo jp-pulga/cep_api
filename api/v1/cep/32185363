@@ -1,12 +1,12 @@
 {
-  "cep": "32185363",
-  "logradouro": "Rua Coqueirais",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus",
+    "cep": "32185363",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Coqueirais"
 }

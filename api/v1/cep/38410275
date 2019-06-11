@@ -1,12 +1,12 @@
 {
-  "cep": "38410275",
-  "logradouro": "Avenida do Corinto",
-  "bairro": "Laranjeiras",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Laranjeiras",
+    "cep": "38410275",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida do Corinto"
 }

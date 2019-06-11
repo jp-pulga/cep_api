@@ -1,12 +1,12 @@
 {
-  "cep": "30380635",
-  "logradouro": "Praça João Ivo de Azevedo",
-  "bairro": "Coração de Jesus",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Coração de Jesus",
+    "cep": "30380635",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça João Ivo de Azevedo"
 }

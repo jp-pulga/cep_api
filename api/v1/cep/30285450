@@ -1,12 +1,12 @@
 {
-  "cep": "30285450",
-  "logradouro": "Rua Coração de Jesus",
-  "bairro": "Jonas Veiga",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jonas Veiga",
+    "cep": "30285450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Coração de Jesus"
 }
