@@ -1,12 +1,12 @@
 {
-  "cep": "35702326",
-  "logradouro": "Rua Cruzília",
-  "bairro": "Belo Vale",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belo Vale",
+    "cep": "35702326",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Cruzília"
 }

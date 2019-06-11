@@ -1,12 +1,12 @@
 {
-  "cep": "31540020",
-  "logradouro": "Rua Cruzília",
-  "bairro": "Piratininga (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Piratininga (Venda Nova)",
+    "cep": "31540020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cruzília"
 }

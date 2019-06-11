@@ -1,12 +1,12 @@
 {
-  "cep": "35900326",
-  "logradouro": "Rua Cruzília",
-  "bairro": "Colina da Praia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colina da Praia",
+    "cep": "35900326",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Cruzília"
 }
