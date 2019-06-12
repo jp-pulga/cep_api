@@ -1,12 +1,12 @@
 {
-  "cep": "88308005",
-  "logradouro": "Avenida Governador Adolfo Konder de 1851 ao fim - lado ímpar",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "88308005",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Avenida Governador Adolfo Konder - de 1851 ao fim - lado ímpar;"
 }

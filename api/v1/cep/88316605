@@ -1,12 +1,12 @@
 {
-  "cep": "88316605",
-  "logradouro": "Rua Maria de Souza Gonçalves",
-  "bairro": "Itaipava",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itaipava;",
+    "cep": "88316605",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Maria de Souza Gonçalves;"
 }

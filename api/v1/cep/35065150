@@ -1,12 +1,12 @@
 {
-  "cep": "35065150",
-  "logradouro": "Rua Pavão",
-  "bairro": "Lagoa Santa",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoa Santa;",
+    "cep": "35065150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Pavão;"
 }

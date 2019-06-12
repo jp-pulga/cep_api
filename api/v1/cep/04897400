@@ -1,12 +1,12 @@
 {
-  "cep": "04897400",
-  "logradouro": "Rua Helber José Gomes Goulart",
-  "bairro": "Cidade Nova América",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Nova América;",
+    "cep": "04897400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Helber José Gomes Goulart;"
 }

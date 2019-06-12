@@ -1,12 +1,12 @@
 {
-  "cep": "18087173",
-  "logradouro": "Estrada do Recanto Bom Gosto",
-  "bairro": "Iporanga",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Iporanga;",
+    "cep": "18087173",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Estrada do Recanto Bom Gosto;"
 }

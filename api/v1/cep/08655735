@@ -1,12 +1,12 @@
 {
-  "cep": "08655735",
-  "logradouro": "Rua Joel Gomes Barbosa",
-  "bairro": "Jardim Nova América",
-  "cidade": {
-    "nome": "Suzano",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nova América;",
+    "cep": "08655735",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Suzano"
+    },
+    "logradouro": "Rua Joel Gomes Barbosa;"
 }

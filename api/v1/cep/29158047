@@ -1,12 +1,12 @@
 {
-  "cep": "29158047",
-  "logradouro": "Rua Goiás",
-  "bairro": "Novo Brasil",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Brasil;",
+    "cep": "29158047",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Goiás;"
 }

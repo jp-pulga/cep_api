@@ -1,12 +1,12 @@
 {
-  "cep": "11495042",
-  "logradouro": "Travessa Bartholomeu Gomes da Rocha",
-  "bairro": "Morrinhos",
-  "cidade": {
-    "nome": "Guarujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Morrinhos;",
+    "cep": "11495042",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarujá"
+    },
+    "logradouro": "Travessa Bartholomeu Gomes da Rocha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29111845",
-  "logradouro": "Avenida Pedro Gonçalves Laranja",
-  "bairro": "Nova América",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova América;",
+    "cep": "29111845",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Pedro Gonçalves Laranja;"
 }

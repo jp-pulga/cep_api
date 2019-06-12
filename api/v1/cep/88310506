@@ -1,12 +1,12 @@
 {
-  "cep": "88310506",
-  "logradouro": "Rua Goiânia",
-  "bairro": "Cordeiros",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cordeiros;",
+    "cep": "88310506",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Goiânia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58102054",
-  "logradouro": "Rua Golfo do Panamá",
-  "bairro": "Intermares",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Intermares;",
+    "cep": "58102054",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Golfo do Panamá;"
 }

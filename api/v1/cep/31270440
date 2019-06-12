@@ -1,12 +1,12 @@
 {
-  "cep": "31270440",
-  "logradouro": "Rua Teófilo Gomes",
-  "bairro": "Jaraguá",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jaraguá;",
+    "cep": "31270440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Teófilo Gomes;"
 }

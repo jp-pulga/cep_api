@@ -1,12 +1,12 @@
 {
-  "cep": "11495129",
-  "logradouro": "Rua Antônio Gomes de Mesquita",
-  "bairro": "Morrinhos",
-  "cidade": {
-    "nome": "Guarujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Morrinhos;",
+    "cep": "11495129",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarujá"
+    },
+    "logradouro": "Rua Antônio Gomes de Mesquita;"
 }

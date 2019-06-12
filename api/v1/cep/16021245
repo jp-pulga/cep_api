@@ -1,12 +1,12 @@
 {
-  "cep": "16021245",
-  "logradouro": "Rua João Gomes Guimarães até 275 - lado ímpar",
-  "bairro": "Jussara",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jussara;",
+    "cep": "16021245",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua João Gomes Guimarães - até 275 - lado ímpar;"
 }

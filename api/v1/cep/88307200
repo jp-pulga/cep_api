@@ -1,12 +1,12 @@
 {
-  "cep": "88307200",
-  "logradouro": "Rua Presidente João Goulart",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "88307200",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Presidente João Goulart;"
 }

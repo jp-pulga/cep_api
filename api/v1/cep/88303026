@@ -1,12 +1,12 @@
 {
-  "cep": "88303026",
-  "logradouro": "Praça Governador Irineu Bornhausen",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88303026",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Praça Governador Irineu Bornhausen;"
 }

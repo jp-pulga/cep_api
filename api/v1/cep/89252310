@@ -1,12 +1,12 @@
 {
-  "cep": "89252310",
-  "logradouro": "Rua Goiás",
-  "bairro": "Vila Lenzi",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Lenzi;",
+    "cep": "89252310",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua Goiás;"
 }

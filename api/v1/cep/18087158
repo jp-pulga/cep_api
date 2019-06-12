@@ -1,12 +1,12 @@
 {
-  "cep": "18087158",
-  "logradouro": "Rua Miguel Banhos Gomes",
-  "bairro": "Iporanga",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Iporanga;",
+    "cep": "18087158",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Miguel Banhos Gomes;"
 }

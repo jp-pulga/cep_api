@@ -1,12 +1,12 @@
 {
-  "cep": "12306140",
-  "logradouro": "Rua Expedicionário Geraldo Goloti",
-  "bairro": "Parque Nova América",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Nova América;",
+    "cep": "12306140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Rua Expedicionário Geraldo Goloti;"
 }

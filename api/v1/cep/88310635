@@ -1,12 +1,12 @@
 {
-  "cep": "88310635",
-  "logradouro": "Rua Alcides Calixto Gonçalves Junior",
-  "bairro": "Cordeiros",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cordeiros;",
+    "cep": "88310635",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Alcides Calixto Gonçalves Junior;"
 }

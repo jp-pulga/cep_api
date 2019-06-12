@@ -1,12 +1,12 @@
 {
-  "cep": "89251276",
-  "logradouro": "Rua Coronel Procópio Gomes de Oliveira de 780 a 1698 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89251276",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua Coronel Procópio Gomes de Oliveira - de 780 a 1698 - lado par;"
 }

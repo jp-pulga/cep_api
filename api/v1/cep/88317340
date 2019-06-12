@@ -1,12 +1,12 @@
 {
-  "cep": "88317340",
-  "logradouro": "Rua Luiz Gottardi",
-  "bairro": "Espinheiros",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Espinheiros;",
+    "cep": "88317340",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Luiz Gottardi;"
 }

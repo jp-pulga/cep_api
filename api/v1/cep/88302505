@@ -1,12 +1,12 @@
 {
-  "cep": "88302505",
-  "logradouro": "Rua Gorino Bernardes",
-  "bairro": "Fazenda",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fazenda;",
+    "cep": "88302505",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Gorino Bernardes;"
 }

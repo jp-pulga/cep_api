@@ -1,12 +1,12 @@
 {
-  "cep": "88303015",
-  "logradouro": "Rua Tibúrcio Bastos Gonçalves",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88303015",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Tibúrcio Bastos Gonçalves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35431347",
-  "logradouro": "Rua Glória Maria Andrade Gonçalves",
-  "bairro": "Nova Copacabana",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Copacabana;",
+    "cep": "35431347",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua Glória Maria Andrade Gonçalves;"
 }

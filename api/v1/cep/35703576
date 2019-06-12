@@ -1,12 +1,12 @@
 {
-  "cep": "35703576",
-  "logradouro": "Rua Geraldo Gonçalves da Silva",
-  "bairro": "Santa Felicidade",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Felicidade;",
+    "cep": "35703576",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Geraldo Gonçalves da Silva;"
 }

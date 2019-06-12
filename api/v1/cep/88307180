@@ -1,12 +1,12 @@
 {
-  "cep": "88307180",
-  "logradouro": "Rua São Gonçalo",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "88307180",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua São Gonçalo;"
 }

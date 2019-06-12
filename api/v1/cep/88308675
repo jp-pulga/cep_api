@@ -1,12 +1,12 @@
 {
-  "cep": "88308675",
-  "logradouro": "Rua Alcides Bento Gonçalves",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "88308675",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Alcides Bento Gonçalves;"
 }

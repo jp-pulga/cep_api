@@ -1,12 +1,12 @@
 {
-  "cep": "04828140",
-  "logradouro": "Rua Gaspar Gonçalves Ribeiro",
-  "bairro": "Jardim Iporanga",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Iporanga;",
+    "cep": "04828140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Gaspar Gonçalves Ribeiro;"
 }

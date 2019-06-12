@@ -1,12 +1,12 @@
 {
-  "cep": "88308002",
-  "logradouro": "Avenida Governador Adolfo Konder de 962 a 1850 - lado par",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "88308002",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Avenida Governador Adolfo Konder - de 962 a 1850 - lado par;"
 }

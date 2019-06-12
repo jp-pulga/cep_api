@@ -1,12 +1,12 @@
 {
-  "cep": "13144679",
-  "logradouro": "Rua José Carlos Alves de Godoy (Serra Azul)",
-  "bairro": "Nova Veneza",
-  "cidade": {
-    "nome": "Paulínia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Nova Veneza;",
+    "cep": "13144679",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Paulínia"
+    },
+    "logradouro": "Rua José Carlos Alves de Godoy (Serra Azul);"
 }

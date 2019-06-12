@@ -1,12 +1,12 @@
 {
-  "cep": "17066490",
-  "logradouro": "Rua Horácio Gonçalves",
-  "bairro": "Parque Jaraguá",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Jaraguá;",
+    "cep": "17066490",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Horácio Gonçalves;"
 }

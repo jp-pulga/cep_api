@@ -1,12 +1,12 @@
 {
-  "cep": "88311104",
-  "logradouro": "Rua Carlos Juvenal Gomes",
-  "bairro": "Cordeiros",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cordeiros;",
+    "cep": "88311104",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Carlos Juvenal Gomes;"
 }

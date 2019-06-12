@@ -1,12 +1,12 @@
 {
-  "cep": "79113128",
-  "logradouro": "Rua Antônio Gomes Pedrosa",
-  "bairro": "Portal do Panamá",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Portal do Panamá;",
+    "cep": "79113128",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Antônio Gomes Pedrosa;"
 }

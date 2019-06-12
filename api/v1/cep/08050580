@@ -1,12 +1,12 @@
 {
-  "cep": "08050580",
-  "logradouro": "Rua Ouro Verde de Goiás",
-  "bairro": "Jardim das Camélias",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim das Camélias;",
+    "cep": "08050580",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Ouro Verde de Goiás;"
 }

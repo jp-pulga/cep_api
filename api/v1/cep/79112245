@@ -1,12 +1,12 @@
 {
-  "cep": "79112245",
-  "logradouro": "Rua Engenheiro Antônio Góes",
-  "bairro": "Panamá",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Panamá;",
+    "cep": "79112245",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Engenheiro Antônio Góes;"
 }

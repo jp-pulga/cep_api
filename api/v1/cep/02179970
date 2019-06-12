@@ -1,12 +1,12 @@
 {
-  "cep": "02179970",
-  "logradouro": "AGF Parque Novo Mundo Avenida Serafim Gonçalves Pereira 639",
-  "bairro": "Parque Novo Mundo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Novo Mundo;",
+    "cep": "02179970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Serafim Gonçalves Pereira, 639  AGF Parque Novo Mundo;"
 }
