@@ -1,12 +1,12 @@
 {
-  "cep": "31975220",
-  "logradouro": "Rua Professor Amílcar Viana Martins",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "31975220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor Amílcar Viana Martins;"
 }

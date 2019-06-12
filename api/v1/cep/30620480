@@ -1,12 +1,12 @@
 {
-  "cep": "30620480",
-  "logradouro": "Rua Caio Viana Martins",
-  "bairro": "Araguaia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Araguaia;",
+    "cep": "30620480",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Caio Viana Martins;"
 }

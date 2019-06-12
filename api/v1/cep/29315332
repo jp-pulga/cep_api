@@ -1,12 +1,12 @@
 {
-  "cep": "29315332",
-  "logradouro": "Rua Algeni Viana Marinho",
-  "bairro": "I B C",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "IBC;",
+    "cep": "29315332",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Algeni Viana Marinho;"
 }

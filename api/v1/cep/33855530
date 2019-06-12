@@ -1,12 +1,12 @@
 {
-  "cep": "33855530",
-  "logradouro": "Rua Maria Helena Viana",
-  "bairro": "Santinho",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santinho;",
+    "cep": "33855530",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Maria Helena Viana;"
 }

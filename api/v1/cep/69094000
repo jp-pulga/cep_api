@@ -1,12 +1,12 @@
 {
-  "cep": "69094000",
-  "logradouro": "Avenida Timbiras de 74/75 ao fim",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "69094000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Timbiras - de 74\/75 ao fim;"
 }

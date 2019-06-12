@@ -1,12 +1,12 @@
 {
-  "cep": "11666751",
-  "logradouro": "Avenida Manoel Viana ( Jardim Saveiros )",
-  "bairro": "Praia das Palmeiras",
-  "cidade": {
-    "nome": "Caraguatatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Praia das Palmeiras;",
+    "cep": "11666751",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caraguatatuba"
+    },
+    "logradouro": "Avenida Manoel Viana ( Jardim Saveiros );"
 }

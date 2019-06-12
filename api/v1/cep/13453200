@@ -1,12 +1,12 @@
 {
-  "cep": "13453200",
-  "logradouro": "Rua Augusto Tasso Fragoso",
-  "bairro": "Conjunto Habitacional 31 de Março (COHAB)",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional 31 de Março (COHAB);",
+    "cep": "13453200",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Augusto Tasso Fragoso;"
 }

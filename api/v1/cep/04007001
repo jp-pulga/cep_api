@@ -1,12 +1,12 @@
 {
-  "cep": "04007001",
-  "logradouro": "Rua Tutóia de 241/242 a 389/390",
-  "bairro": "Vila Mariana",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Mariana;",
+    "cep": "04007001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Tutóia - de 241\/242 a 389\/390;"
 }

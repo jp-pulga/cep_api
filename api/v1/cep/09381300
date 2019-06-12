@@ -1,12 +1,12 @@
 {
-  "cep": "09381300",
-  "logradouro": "Travessa Tutóia",
-  "bairro": "Jardim Oratório",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Oratório;",
+    "cep": "09381300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Travessa Tutóia;"
 }

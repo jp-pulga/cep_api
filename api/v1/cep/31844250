@@ -1,12 +1,12 @@
 {
-  "cep": "31844250",
-  "logradouro": "Rua Manuel Nunes Viana",
-  "bairro": "Tupi B",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tupi B;",
+    "cep": "31844250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Manuel Nunes Viana;"
 }

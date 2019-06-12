@@ -1,12 +1,12 @@
 {
-  "cep": "31110690",
-  "logradouro": "Praça Renato Viana Martins",
-  "bairro": "Concórdia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Concórdia;",
+    "cep": "31110690",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Renato Viana Martins;"
 }
