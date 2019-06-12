@@ -1,12 +1,12 @@
 {
-  "cep": "30150970",
-  "logradouro": "AC Francisco Sales Avenida Francisco Sales 898 Loja 18",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia;",
+    "cep": "30150970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Francisco Sales, 898 Loja 18  AC Francisco Sales;"
 }

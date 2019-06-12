@@ -1,12 +1,13 @@
 {
-  "cep": "35130973",
-  "logradouro": "AGC Divino do Traíra Rua Adeodato Tiburcio Jonas 595",
-  "bairro": "Divino do Traíra",
-  "cidade": {
-    "nome": "Engenheiro Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Divino do Traíra;",
+    "cep": "35130973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Engenheiro Caldas"
+    },
+    "ibge": 3123700,
+    "logradouro": "Rua Adeodato Tiburcio Jonas 595  AGC Divino do Traíra;"
 }

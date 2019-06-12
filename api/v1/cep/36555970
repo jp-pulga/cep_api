@@ -1,12 +1,13 @@
 {
-  "cep": "36555970",
-  "logradouro": "AC Ervália Rua Américo Taveira 232",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ervália",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36555970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ervália"
+    },
+    "ibge": 3124005,
+    "logradouro": "Rua Américo Taveira, 232  AC Ervália;"
 }

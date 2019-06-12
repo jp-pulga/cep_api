@@ -1,12 +1,13 @@
 {
-  "cep": "36815972",
-  "logradouro": "AC Fervedouro Rua Osvaldo Fernandes 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fervedouro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36815972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fervedouro"
+    },
+    "ibge": 3125952,
+    "logradouro": "Rua Osvaldo Fernandes, 15  AC Fervedouro;"
 }

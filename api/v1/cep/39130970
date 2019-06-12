@@ -1,12 +1,13 @@
 {
-  "cep": "39130970",
-  "logradouro": "AC Datas Rua José Magalhães Pinto s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Datas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39130970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Datas"
+    },
+    "ibge": 3121001,
+    "logradouro": "Praça do Divino, 12  AC Datas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37566970",
-  "logradouro": "AC Espírito Santo do Dourado Rua Francisco José Pereira 64",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Espírito Santo do Dourado",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37566970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Espírito Santo do Dourado"
+    },
+    "ibge": 3124401,
+    "logradouro": "Rua Francisco José Pereira 64  AC Espírito Santo do Dourado;"
 }

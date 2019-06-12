@@ -1,12 +1,13 @@
 {
-  "cep": "39202970",
-  "logradouro": "AGC Contria Rua José Amâncio Ferro 114",
-  "bairro": "Contria",
-  "cidade": {
-    "nome": "Corinto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Contria;",
+    "cep": "39202970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Corinto"
+    },
+    "ibge": 3119104,
+    "logradouro": "Rua José Amâncio Ferro, 114  AGC Contria;"
 }

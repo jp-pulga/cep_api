@@ -1,12 +1,13 @@
 {
-  "cep": "36840970",
-  "logradouro": "AC Faria Lemos Praça Farmacêutico José Ferreira 64-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Faria Lemos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36840970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Faria Lemos"
+    },
+    "ibge": 3125309,
+    "logradouro": "Praça Farmacêutico José Ferreira 64-A  AC Faria Lemos;"
 }

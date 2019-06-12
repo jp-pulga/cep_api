@@ -1,12 +1,13 @@
 {
-  "cep": "35135972",
-  "logradouro": "AC Fernandes Tourinho Rua Carlos de Barros 180",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fernandes Tourinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35135972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fernandes Tourinho"
+    },
+    "ibge": 3125804,
+    "logradouro": "Rua Carlos de Barros, 180  AC Fernandes Tourinho;"
 }

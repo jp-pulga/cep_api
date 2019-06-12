@@ -1,12 +1,13 @@
 {
-  "cep": "35490971",
-  "logradouro": "AGC Bairro Castro Rua Joaquim Pinto 55",
-  "bairro": "Castro",
-  "cidade": {
-    "nome": "Entre Rios de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castro;",
+    "cep": "35490971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Entre Rios de Minas"
+    },
+    "ibge": 3123908,
+    "logradouro": "Rua Joaquim Pinto, 55  AGC Bairro Castro;"
 }

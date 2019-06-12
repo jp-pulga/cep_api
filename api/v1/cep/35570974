@@ -1,12 +1,13 @@
 {
-  "cep": "35570974",
-  "logradouro": "AGC Boa Esperança (Formiga) Rua Principal s/n",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Formiga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "35570974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Formiga"
+    },
+    "ibge": 3126109,
+    "logradouro": "Rua Principal, s\/n  AGC Boa Esperança (Formiga);"
 }

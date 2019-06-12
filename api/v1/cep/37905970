@@ -1,12 +1,13 @@
 {
-  "cep": "37905970",
-  "logradouro": "AC Fortaleza de Minas Rua Santa Cruz 235",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fortaleza de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37905970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fortaleza de Minas"
+    },
+    "ibge": 3126307,
+    "logradouro": "Rua Santa Cruz, 235  AC Fortaleza de Minas;"
 }

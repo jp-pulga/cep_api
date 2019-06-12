@@ -1,12 +1,13 @@
 {
-  "cep": "35740974",
-  "logradouro": "AGC Quintas São José Alameda Ipê Amarelo 75",
-  "bairro": "Quintas São José",
-  "cidade": {
-    "nome": "Esmeraldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Quintas São José;",
+    "cep": "35740974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Esmeraldas"
+    },
+    "ibge": 3124104,
+    "logradouro": "Alameda Ipê Amarelo, 75  AGC Quintas São José;"
 }

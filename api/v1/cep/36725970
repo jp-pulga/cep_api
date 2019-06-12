@@ -1,12 +1,13 @@
 {
-  "cep": "36725970",
-  "logradouro": "AC Estrela Dalva Rua Ari Coutinho Brum 17",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Estrela Dalva",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36725970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estrela Dalva"
+    },
+    "ibge": 3124609,
+    "logradouro": "Rua Ari Coutinho Brum 17  AC Estrela Dalva;"
 }

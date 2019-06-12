@@ -1,12 +1,13 @@
 {
-  "cep": "35613970",
-  "logradouro": "AC Estrela do Indaiá Rua Joaquim Machado 48",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Estrela do Indaiá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35613970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estrela do Indaiá"
+    },
+    "ibge": 3124708,
+    "logradouro": "Rua Joaquim Machado, 48  AC Estrela do Indaiá;"
 }

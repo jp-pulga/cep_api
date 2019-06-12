@@ -1,12 +1,13 @@
 {
-  "cep": "37110970",
-  "logradouro": "AC Elói Mendes Rua Brás Biagini 32 Lojas 1 e 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Elói Mendes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37110970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Elói Mendes"
+    },
+    "ibge": 3123601,
+    "logradouro": "Rua Brás Biagini, 32 Lojas 1 e 2  AC Elói Mendes;"
 }

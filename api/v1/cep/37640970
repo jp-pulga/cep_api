@@ -1,12 +1,13 @@
 {
-  "cep": "37640970",
-  "logradouro": "AC Extrema Rua Governador Valadares 112",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Extrema",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37640970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Extrema"
+    },
+    "ibge": 3125101,
+    "logradouro": "Rua Governador Valadares 112  AC Extrema;"
 }

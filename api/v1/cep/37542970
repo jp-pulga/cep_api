@@ -1,12 +1,13 @@
 {
-  "cep": "37542970",
-  "logradouro": "AC Estiva Avenida Prefeito Gabriel Rosa 125",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Estiva",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37542970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estiva"
+    },
+    "ibge": 3124500,
+    "logradouro": "Avenida Prefeito Pedro Moreira Borges 186  AC Estiva;"
 }

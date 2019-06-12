@@ -1,12 +1,13 @@
 {
-  "cep": "35324971",
-  "logradouro": "AC Entre Folhas Travessa José Arreguy Campos 67",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Entre Folhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35324971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Entre Folhas"
+    },
+    "ibge": 3123858,
+    "logradouro": "Travessa José Arreguy Campos, 67  AC Entre Folhas;"
 }

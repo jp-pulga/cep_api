@@ -1,12 +1,13 @@
 {
-  "cep": "35490970",
-  "logradouro": "AC Entre Rios de Minas Praça Senador Ribeiro 335",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Entre Rios de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35490970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Entre Rios de Minas"
+    },
+    "ibge": 3123908,
+    "logradouro": "Praça Senador Ribeiro, 335  AC Entre Rios de Minas;"
 }

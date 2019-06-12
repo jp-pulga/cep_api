@@ -1,12 +1,13 @@
 {
-  "cep": "37542971",
-  "logradouro": "AGC Pantano dos Rosas Rua Belizária Rosa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Estiva",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37542971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estiva"
+    },
+    "ibge": 3124500,
+    "logradouro": "Rua Belizária Rosa, s\/n  AGC Pantano dos Rosas;"
 }

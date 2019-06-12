@@ -1,12 +1,13 @@
 {
-  "cep": "39100971",
-  "logradouro": "UD Diamantina Rua Padre Bartolomeu Sipolis 112-B",
-  "bairro": "Largo Dom João",
-  "cidade": {
-    "nome": "Diamantina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Largo Dom João;",
+    "cep": "39100971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Diamantina"
+    },
+    "ibge": 3121605,
+    "logradouro": "Rua Padre Bartolomeu Sipolis, 112-B  CDD Diamantina;"
 }

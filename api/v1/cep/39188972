@@ -1,12 +1,13 @@
 {
-  "cep": "39188972",
-  "logradouro": "AC Couto de Magalhães Praça Matozinhos 34-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Couto de Magalhães de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39188972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Couto de Magalhães de Minas"
+    },
+    "ibge": 3120102,
+    "logradouro": "Praça Matozinhos, 34-A  AC Couto de Magalhães;"
 }

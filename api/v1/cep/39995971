@@ -1,12 +1,13 @@
 {
-  "cep": "39995971",
-  "logradouro": "AC Divisa Alegre Avenida Vereador Claudio Alves Costa 1314",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Divisa Alegre",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39995971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divisa Alegre"
+    },
+    "ibge": 3122355,
+    "logradouro": "Avenida Vereador Claudio Alves Costa, 1314  AC Divisa Alegre;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39893972",
-  "logradouro": "AC Monte Formoso Rua José Pinheiro 292",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Formoso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39893972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monte Formoso"
+    },
+    "logradouro": "Rua José Pinheiro, 292  AC Monte Formoso;"
 }

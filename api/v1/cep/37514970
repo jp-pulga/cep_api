@@ -1,12 +1,13 @@
 {
-  "cep": "37514970",
-  "logradouro": "AC Delfim Moreira Avenida Albino Alves Filho 09",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Delfim Moreira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37514970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Delfim Moreira"
+    },
+    "ibge": 3121100,
+    "logradouro": "Avenida Albino Alves Filho, 09  AC Delfim Moreira;"
 }

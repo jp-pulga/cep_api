@@ -1,12 +1,13 @@
 {
-  "cep": "35780970",
-  "logradouro": "AC Cordisburgo Rua Governador Valadares 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cordisburgo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35780970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cordisburgo"
+    },
+    "ibge": 3118908,
+    "logradouro": "Rua Governador Valadares 29  AC Cordisburgo;"
 }

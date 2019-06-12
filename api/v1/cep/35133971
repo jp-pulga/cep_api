@@ -1,12 +1,13 @@
 {
-  "cep": "35133971",
-  "logradouro": "AGC São José do Acácio Rua Tabelião Afonso Louzada 353",
-  "bairro": "São José do Acácio",
-  "cidade": {
-    "nome": "Engenheiro Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José do Acácio;",
+    "cep": "35133971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Engenheiro Caldas"
+    },
+    "ibge": 3123700,
+    "logradouro": "Rua Tabelião Afonso Louzada, 353  AGC São José do Acácio;"
 }

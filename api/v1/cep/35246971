@@ -1,12 +1,13 @@
 {
-  "cep": "35246971",
-  "logradouro": "AGC Aldeia Rua Pedra F. Tomé 150",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cuparaque",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35246971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cuparaque"
+    },
+    "ibge": 3120839,
+    "logradouro": "Rua Pedra F. Tomé, 150  AGC Aldeia;"
 }

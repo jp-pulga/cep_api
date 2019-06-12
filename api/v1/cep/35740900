@@ -1,12 +1,13 @@
 {
-  "cep": "35740900",
-  "logradouro": "Condomínio Recanto da Serra Rodovia MG-432 km 15",
-  "bairro": "Recanto da Serra",
-  "cidade": {
-    "nome": "Esmeraldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Recanto da Serra;",
+    "cep": "35740900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Esmeraldas"
+    },
+    "ibge": 3124104,
+    "logradouro": "Rodovia MG-432 km 15  Condomínio Recanto da Serra;"
 }

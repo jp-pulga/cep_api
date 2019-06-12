@@ -1,12 +1,13 @@
 {
-  "cep": "39130976",
-  "logradouro": "AGC Tombadouro Rua São Gonçalo s/n",
-  "bairro": "Tombadouro",
-  "cidade": {
-    "nome": "Datas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tombadouro;",
+    "cep": "39130976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Datas"
+    },
+    "ibge": 3121001,
+    "logradouro": "Rua São Gonçalo, s\/n  AGC Tombadouro;"
 }

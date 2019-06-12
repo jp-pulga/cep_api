@@ -1,12 +1,13 @@
 {
-  "cep": "36513970",
-  "logradouro": "AC Dores do Turvo Rua São Cristovão s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dores do Turvo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36513970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dores do Turvo"
+    },
+    "ibge": 3123304,
+    "logradouro": "Rua São Cristovão, s\/n  AC Dores do Turvo;"
 }

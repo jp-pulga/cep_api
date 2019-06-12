@@ -1,12 +1,13 @@
 {
-  "cep": "39635970",
-  "logradouro": "AC Coronel Murta Avenida Celso Murta 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel Murta",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39635970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Murta"
+    },
+    "ibge": 3119500,
+    "logradouro": "Avenida José Ferreira Freire Murta, 160  AC Coronel Murta;"
 }

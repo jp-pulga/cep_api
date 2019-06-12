@@ -1,12 +1,13 @@
 {
-  "cep": "39180970",
-  "logradouro": "AC Felício dos Santos Praça Sagrado Coração 115-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Felício dos Santos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39180970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Felício dos Santos"
+    },
+    "ibge": 3125408,
+    "logradouro": "Praça Sagrado Coração 115-A  AC Felício dos Santos;"
 }

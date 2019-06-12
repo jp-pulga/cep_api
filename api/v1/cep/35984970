@@ -1,12 +1,13 @@
 {
-  "cep": "35984970",
-  "logradouro": "AC Dionísio Rua Senador Milton Campos 06 Loja 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dionísio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35984970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dionísio"
+    },
+    "ibge": 3121803,
+    "logradouro": "Rua Senador Milton Campos, 06 Loja 02  AC Dionísio;"
 }

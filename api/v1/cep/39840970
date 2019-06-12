@@ -1,12 +1,13 @@
 {
-  "cep": "39840970",
-  "logradouro": "AC Frei Gaspar Avenida Mahmud Salim Ganem 09",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frei Gaspar",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39840970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Frei Gaspar"
+    },
+    "ibge": 3126802,
+    "logradouro": "Rua Antônio Alves Benjamim, 6  AC Frei Gaspar;"
 }

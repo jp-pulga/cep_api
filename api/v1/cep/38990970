@@ -1,12 +1,13 @@
 {
-  "cep": "38990970",
-  "logradouro": "AC Córrego Danta Avenida Francisco Campos 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Córrego Danta",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38990970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Córrego Danta"
+    },
+    "ibge": 3119807,
+    "logradouro": "Avenida Francisco Campos, 43  AC Córrego Danta;"
 }

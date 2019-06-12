@@ -1,12 +1,13 @@
 {
-  "cep": "36830970",
-  "logradouro": "AC Espera Feliz Rua João Sebastião de Amorim 278",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Espera Feliz",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36830970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Espera Feliz"
+    },
+    "ibge": 3124203,
+    "logradouro": "Rua João Sebastião de Amorim, 278  AC Espera Feliz;"
 }

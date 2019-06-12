@@ -1,12 +1,13 @@
 {
-  "cep": "35130970",
-  "logradouro": "AC Engenheiro Caldas Avenida Vereador Sebastião Pernes de Miranda 479",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Engenheiro Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35130970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Engenheiro Caldas"
+    },
+    "ibge": 3123700,
+    "logradouro": "Avenida Vereador Sebastião Pernes de Miranda, 479  AC Engenheiro Caldas;"
 }

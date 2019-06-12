@@ -1,12 +1,13 @@
 {
-  "cep": "38550975",
-  "logradouro": "AGC Lagamar dos Coqueiros Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coromandel",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38550975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coromandel"
+    },
+    "ibge": 3119302,
+    "logradouro": "Rua Principal, s\/n  AGC Lagamar dos Coqueiros;"
 }

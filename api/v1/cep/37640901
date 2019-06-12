@@ -1,12 +1,13 @@
 {
-  "cep": "37640901",
-  "logradouro": "Multilaser - ML Rua Josepha Gomes de Souza 382 Galpão ML",
-  "bairro": "Distrito Industrial dos Pires",
-  "cidade": {
-    "nome": "Extrema",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial dos Pires;",
+    "cep": "37640901",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Extrema"
+    },
+    "ibge": 3125101,
+    "logradouro": "Rua Josepha Gomes de Souza 382 Galpão ML  Multilaser - ML;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35894970",
-  "logradouro": "AC Dores de Guanhães Rua Castro Alves 49",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dores de Guanhães",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35894970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dores de Guanhães"
+    },
+    "ibge": 3123106,
+    "logradouro": "Rua Castro Alves, 49  AC Dores de Guanhães;"
 }

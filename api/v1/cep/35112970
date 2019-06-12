@@ -1,12 +1,13 @@
 {
-  "cep": "35112970",
-  "logradouro": "AC Frei Inocêncio Avenida Doutor João Souza Lima 1081-H",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frei Inocêncio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35112970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Frei Inocêncio"
+    },
+    "ibge": 3126901,
+    "logradouro": "Avenida Doutor João Souza Lima, 1081-H  AC Frei Inocêncio;"
 }

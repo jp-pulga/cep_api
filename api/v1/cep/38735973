@@ -1,12 +1,13 @@
 {
-  "cep": "38735973",
-  "logradouro": "AC Cruzeiro da Fortaleza Avenida Nossa Senhora de Fátima 1425-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruzeiro da Fortaleza",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38735973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cruzeiro da Fortaleza"
+    },
+    "ibge": 3120706,
+    "logradouro": "Rua Sergipe, 63  AC Cruzeiro da Fortaleza;"
 }

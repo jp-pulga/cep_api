@@ -1,12 +1,13 @@
 {
-  "cep": "39200971",
-  "logradouro": "ACS Beltrão Rua Brasilina 76",
-  "bairro": "Beltrão",
-  "cidade": {
-    "nome": "Corinto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Beltrão;",
+    "cep": "39200971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Corinto"
+    },
+    "ibge": 3119104,
+    "logradouro": "Rua Brasilina, 76  ACS Beltrão;"
 }

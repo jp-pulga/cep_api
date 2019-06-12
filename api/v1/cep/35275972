@@ -1,12 +1,12 @@
 {
-  "cep": "35275972",
-  "logradouro": "AC São Félix de Minas Rua Frei Inocêncio 132-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Félix de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35275972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Félix de Minas"
+    },
+    "logradouro": "Rua Frei Inocêncio, 132-A  AC São Félix de Minas;"
 }

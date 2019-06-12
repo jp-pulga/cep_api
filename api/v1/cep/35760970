@@ -1,12 +1,13 @@
 {
-  "cep": "35760970",
-  "logradouro": "AC Fortuna de Minas Avenida Renato Azeredo 152",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fortuna de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35760970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fortuna de Minas"
+    },
+    "ibge": 3126406,
+    "logradouro": "Avenida Renato Azeredo, 152  AC Fortuna de Minas;"
 }

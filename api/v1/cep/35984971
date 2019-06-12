@@ -1,12 +1,13 @@
 {
-  "cep": "35984971",
-  "logradouro": "AGC Baixa Verde Rua C 146",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dionísio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35984971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dionísio"
+    },
+    "ibge": 3121803,
+    "logradouro": "Rua C, 146  AGC Baixa Verde;"
 }

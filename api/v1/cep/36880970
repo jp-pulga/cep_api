@@ -1,12 +1,12 @@
 {
-  "cep": "36880970",
-  "logradouro": "AC Muriaé Praça Coronel Pacheco de Medeiros 260",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muriaé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36880970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Muriaé"
+    },
+    "logradouro": "Praça Coronel Pacheco de Medeiros, 260  AC Muriaé;"
 }

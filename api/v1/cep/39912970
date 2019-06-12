@@ -1,12 +1,13 @@
 {
-  "cep": "39912970",
-  "logradouro": "AC Divisópolis Praça Antonio Silveira 275",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Divisópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39912970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divisópolis"
+    },
+    "ibge": 3122454,
+    "logradouro": "Praça Antonio Silveira, 275  AC Divisópolis;"
 }

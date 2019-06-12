@@ -1,12 +1,13 @@
 {
-  "cep": "35740972",
-  "logradouro": "AGC Tropeiros Rua José Eloi Pinto 34",
-  "bairro": "Tropeiros",
-  "cidade": {
-    "nome": "Esmeraldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tropeiros;",
+    "cep": "35740972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Esmeraldas"
+    },
+    "ibge": 3124104,
+    "logradouro": "Rua José Eloi Pinto, 34  AGC Tropeiros;"
 }

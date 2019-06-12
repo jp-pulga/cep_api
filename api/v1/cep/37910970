@@ -1,12 +1,13 @@
 {
-  "cep": "37910970",
-  "logradouro": "AC Delfinópolis Rua Pedro José Venâncio de Andrade 796",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Delfinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37910970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Delfinópolis"
+    },
+    "ibge": 3121209,
+    "logradouro": "Rua Pedro José Venâncio de Andrade, 796  AC Delfinópolis;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33820970",
-  "logradouro": "AC Veneza Rua Dionízio Gomes 150 Loja 01",
-  "bairro": "Veneza",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Veneza;",
+    "cep": "33820970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Dionízio Gomes, 150 Loja 01  AC Veneza;"
 }

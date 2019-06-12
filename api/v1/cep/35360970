@@ -1,12 +1,12 @@
 {
-  "cep": "35360970",
-  "logradouro": "AC São Pedro dos Ferros Rua Neco Soares 145",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro dos Ferros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35360970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Pedro dos Ferros"
+    },
+    "logradouro": "Rua Neco Soares, 145  AC São Pedro dos Ferros;"
 }

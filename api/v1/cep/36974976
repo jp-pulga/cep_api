@@ -1,12 +1,13 @@
 {
-  "cep": "36974976",
-  "logradouro": "AC Durandé Avenida Álvaro Moreira da Silva 505",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Durandé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36974976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Durandé"
+    },
+    "ibge": 3123528,
+    "logradouro": "Avenida Álvaro Moreira da Silva, 505  AC Durandé;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37910974",
-  "logradouro": "AGC Olhos D' Água (Delfinópolis) Rua Eulâmpia de Carvalho Lopes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Delfinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37910974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Delfinópolis"
+    },
+    "ibge": 3121209,
+    "logradouro": "Rua Eulâmpia de Carvalho Lopes, s\/n  AGC Olhos D' Água (Delfinópolis);"
 }

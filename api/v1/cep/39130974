@@ -1,12 +1,13 @@
 {
-  "cep": "39130974",
-  "logradouro": "AGC Cachimbo Rua Principal s/n",
-  "bairro": "Cachimbo",
-  "cidade": {
-    "nome": "Datas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachimbo;",
+    "cep": "39130974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Datas"
+    },
+    "ibge": 3121001,
+    "logradouro": "Rua Principal, s\/n  AGC Cachimbo;"
 }

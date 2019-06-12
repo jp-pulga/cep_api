@@ -1,12 +1,13 @@
 {
-  "cep": "35570971",
-  "logradouro": "CDD Formiga Rua Custódio José Soares 136",
-  "bairro": "Quinzinho",
-  "cidade": {
-    "nome": "Formiga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Quinzinho;",
+    "cep": "35570971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Formiga"
+    },
+    "ibge": 3126109,
+    "logradouro": "Rua Custódio José Soares, 136  CDD Formiga;"
 }

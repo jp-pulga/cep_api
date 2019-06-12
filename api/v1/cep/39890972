@@ -1,12 +1,12 @@
 {
-  "cep": "39890972",
-  "logradouro": "AGC Giru Rua Dionísio Ferreira s/n",
-  "bairro": "Giru",
-  "cidade": {
-    "nome": "Joaíma",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Giru;",
+    "cep": "39890972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Joaíma"
+    },
+    "logradouro": "Rua Dionísio Ferreira, s\/n  AGC Giru;"
 }

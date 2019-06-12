@@ -1,12 +1,13 @@
 {
-  "cep": "36213970",
-  "logradouro": "AC Dores de Campos Praça Prefeito Idelfonso Silva 298",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dores de Campos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36213970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dores de Campos"
+    },
+    "ibge": 3123007,
+    "logradouro": "Praça Prefeito Idelfonso Silva, 298  AC Dores de Campos;"
 }

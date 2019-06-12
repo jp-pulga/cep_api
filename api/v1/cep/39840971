@@ -1,12 +1,13 @@
 {
-  "cep": "39840971",
-  "logradouro": "AGC Cachoeira do Arana Rua Santos Batista 148",
-  "bairro": "Arana",
-  "cidade": {
-    "nome": "Frei Gaspar",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Arana;",
+    "cep": "39840971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Frei Gaspar"
+    },
+    "ibge": 3126802,
+    "logradouro": "Rua Santos Batista, 148  AGC Cachoeira do Arana;"
 }

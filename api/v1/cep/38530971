@@ -1,12 +1,13 @@
 {
-  "cep": "38530971",
-  "logradouro": "AC Douradoquara Avenida Antônio Davi Ramos 340",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Douradoquara",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38530971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Douradoquara"
+    },
+    "ibge": 3123502,
+    "logradouro": "Avenida Antônio Davi Ramos, 350  AC Douradoquara;"
 }

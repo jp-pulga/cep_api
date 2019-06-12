@@ -1,12 +1,13 @@
 {
-  "cep": "37605970",
-  "logradouro": "AC Córrego do Bom Jesus Rua Afonso Finamor 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Córrego do Bom Jesus",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37605970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Córrego do Bom Jesus"
+    },
+    "ibge": 3119906,
+    "logradouro": "Rua Afonso Finamor, 21  AC Córrego do Bom Jesus;"
 }

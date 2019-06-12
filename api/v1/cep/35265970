@@ -1,12 +1,13 @@
 {
-  "cep": "35265970",
-  "logradouro": "AC Divino das Laranjeiras Praça Anacleto Falci 102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Divino das Laranjeiras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35265970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divino das Laranjeiras"
+    },
+    "ibge": 3122108,
+    "logradouro": "Praça Anacleto Falci 102  AC Divino das Laranjeiras;"
 }

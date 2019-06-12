@@ -1,12 +1,12 @@
 {
-  "cep": "30112902",
-  "logradouro": "Edifício Las Palmas Rua Fernandes Tourinho 718",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "30112902",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Fernandes Tourinho, 718  Edifício Las Palmas;"
 }

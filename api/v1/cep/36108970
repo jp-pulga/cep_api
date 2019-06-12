@@ -1,12 +1,13 @@
 {
-  "cep": "36108970",
-  "logradouro": "AC Ewbank da Câmara Avenida Santo Antônio 237",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ewbank da Câmara",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36108970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ewbank da Câmara"
+    },
+    "ibge": 3125002,
+    "logradouro": "Avenida Santo Antônio, 237  AC Ewbank da Câmara;"
 }

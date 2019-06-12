@@ -1,12 +1,13 @@
 {
-  "cep": "38108972",
-  "logradouro": "AC Delta Avenida Manoel Abadia da Silva 360",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Delta",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38108972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Delta"
+    },
+    "ibge": 3121258,
+    "logradouro": "Avenida Manoel Abadia da Silva, 360  AC Delta;"
 }

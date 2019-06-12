@@ -1,12 +1,13 @@
 {
-  "cep": "37670970",
-  "logradouro": "AC Consolação Rua Ananias Candido de Almeida 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Consolação",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37670970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Consolação"
+    },
+    "ibge": 3118502,
+    "logradouro": "Rua Ananias Candido de Almeida 44  AC Consolação;"
 }

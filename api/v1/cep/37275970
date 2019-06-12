@@ -1,12 +1,13 @@
 {
-  "cep": "37275970",
-  "logradouro": "AC Cristais Rua Joaquim de Paula Reis 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cristais",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37275970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cristais"
+    },
+    "ibge": 3120201,
+    "logradouro": "Rua Joaquim de Paula Reis, 99  AC Cristais;"
 }

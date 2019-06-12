@@ -1,12 +1,13 @@
 {
-  "cep": "39510970",
-  "logradouro": "AC Espinosa Avenida Minas Gerais 46",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Espinosa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39510970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Espinosa"
+    },
+    "ibge": 3124302,
+    "logradouro": "Avenida Minas Gerais, 46  AC Espinosa;"
 }

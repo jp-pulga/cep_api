@@ -1,12 +1,12 @@
 {
-  "cep": "39784975",
-  "logradouro": "AGC Córrego Dantas Rua Principal 317",
-  "bairro": "Córrego Dantas",
-  "cidade": {
-    "nome": "São Pedro do Suaçuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Córrego Dantas;",
+    "cep": "39784975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Pedro do Suaçuí"
+    },
+    "logradouro": "Rua Principal, 317  AGC Córrego Dantas;"
 }

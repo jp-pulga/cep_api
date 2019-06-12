@@ -1,12 +1,13 @@
 {
-  "cep": "35790973",
-  "logradouro": "AGC JK Praça São José 47",
-  "bairro": "JK",
-  "cidade": {
-    "nome": "Curvelo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "JK;",
+    "cep": "35790973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Curvelo"
+    },
+    "ibge": 3120904,
+    "logradouro": "Praça São José, 47  AGC JK;"
 }

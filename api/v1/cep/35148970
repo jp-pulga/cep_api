@@ -1,12 +1,13 @@
 {
-  "cep": "35148970",
-  "logradouro": "AC Dom Cavati Rua Novo Horizonte 328-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Cavati",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35148970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dom Cavati"
+    },
+    "ibge": 3122504,
+    "logradouro": "Rua Novo Horizonte, 328-A  AC Dom Cavati;"
 }

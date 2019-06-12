@@ -1,12 +1,13 @@
 {
-  "cep": "36974972",
-  "logradouro": "AGC Dores do Rio José Pedro Rua Principal 155",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Durandé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36974972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Durandé"
+    },
+    "ibge": 3123528,
+    "logradouro": "Rua Principal, 155  AGC Dores do Rio José Pedro;"
 }

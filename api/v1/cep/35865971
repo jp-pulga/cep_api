@@ -1,12 +1,13 @@
 {
-  "cep": "35865971",
-  "logradouro": "AGC Gororós Rua Bandeirinha 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Joaquim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35865971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dom Joaquim"
+    },
+    "ibge": 3122603,
+    "logradouro": "Rua Bandeirinha, 99  AGC Gororós;"
 }

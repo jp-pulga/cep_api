@@ -1,12 +1,13 @@
 {
-  "cep": "39100974",
-  "logradouro": "AGC Maria Nunes Praça Nossa Senhora Auxiliadora s/n",
-  "bairro": "Maria Nunes",
-  "cidade": {
-    "nome": "Diamantina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Nunes;",
+    "cep": "39100974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Diamantina"
+    },
+    "ibge": 3121605,
+    "logradouro": "Praça Nossa Senhora Auxiliadora, s\/n  AGC Maria Nunes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35894972",
-  "logradouro": "AGC Dores de Guanhães Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dores de Guanhães",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35894972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dores de Guanhães"
+    },
+    "ibge": 3123106,
+    "logradouro": "Rua Principal, s\/n  AGC Dores de Guanhães;"
 }

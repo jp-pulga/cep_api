@@ -1,12 +1,13 @@
 {
-  "cep": "35570970",
-  "logradouro": "AC Fomiga Rua Floriano Peixoto 5",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Formiga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35570970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Formiga"
+    },
+    "ibge": 3126109,
+    "logradouro": "Rua Floriano Peixoto, 5  AC Fomiga;"
 }

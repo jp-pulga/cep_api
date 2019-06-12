@@ -1,12 +1,13 @@
 {
-  "cep": "38550977",
-  "logradouro": "AGC Pântano Rua Pedro C. Carvalho 580",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coromandel",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38550977",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coromandel"
+    },
+    "ibge": 3119302,
+    "logradouro": "Rua Pedro C. Carvalho, 580  AGC Pântano;"
 }

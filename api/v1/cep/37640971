@@ -1,12 +1,13 @@
 {
-  "cep": "37640971",
-  "logradouro": "ACC I Morbideli Rua João Mendes 230",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Extrema",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37640971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Extrema"
+    },
+    "ibge": 3125101,
+    "logradouro": "Rua João Mendes, 230  ACCI Morbideli;"
 }

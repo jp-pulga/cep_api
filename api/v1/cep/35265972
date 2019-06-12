@@ -1,12 +1,13 @@
 {
-  "cep": "35265972",
-  "logradouro": "AGC Macedônia Rua João Germano 135",
-  "bairro": "Macedônia",
-  "cidade": {
-    "nome": "Divino das Laranjeiras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Macedônia;",
+    "cep": "35265972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divino das Laranjeiras"
+    },
+    "ibge": 3122108,
+    "logradouro": "Rua João Germano, 135  AGC Macedônia;"
 }

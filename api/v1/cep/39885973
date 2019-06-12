@@ -1,12 +1,13 @@
 {
-  "cep": "39885973",
-  "logradouro": "AGC Crisólita Rua Signário de Almeida 103",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Crisólita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39885973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Crisólita"
+    },
+    "ibge": 3120151,
+    "logradouro": "Rua Signário de Almeida, 103  AGC Crisólita;"
 }

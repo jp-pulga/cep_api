@@ -1,12 +1,13 @@
 {
-  "cep": "39695970",
-  "logradouro": "AC Franciscópolis Avenida Presidente Kenedy 250",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Franciscópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39695970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Franciscópolis"
+    },
+    "ibge": 3126752,
+    "logradouro": "Avenida Presidente Kenedy, 250  AC Franciscópolis;"
 }

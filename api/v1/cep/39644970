@@ -1,12 +1,13 @@
 {
-  "cep": "39644970",
-  "logradouro": "AC Francisco Badaró Rua Direita 179",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Francisco Badaró",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39644970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Francisco Badaró"
+    },
+    "ibge": 3126505,
+    "logradouro": "Rua Direita, 179  AC Francisco Badaró;"
 }

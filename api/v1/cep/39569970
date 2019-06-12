@@ -1,12 +1,13 @@
 {
-  "cep": "39569970",
-  "logradouro": "AC Curral de Dentro Praça Miguel Alves dos Santos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curral de Dentro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39569970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Curral de Dentro"
+    },
+    "ibge": 3120870,
+    "logradouro": "Praça Miguel Alves dos Santos, 276  AC Curral de Dentro;"
 }

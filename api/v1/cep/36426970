@@ -1,12 +1,13 @@
 {
-  "cep": "36426970",
-  "logradouro": "AC Cristiano Otoni Rua Conselheiro Lafaiete 94",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cristiano Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36426970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cristiano Otoni"
+    },
+    "ibge": 3120409,
+    "logradouro": "Rua Conselheiro Lafaiete, 94  AC Cristiano Otoni;"
 }

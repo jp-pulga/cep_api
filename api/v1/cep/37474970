@@ -1,12 +1,13 @@
 {
-  "cep": "37474970",
-  "logradouro": "AC Dom Viçoso Praça Doutor Augusto de Alkimin 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Viçoso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37474970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dom Viçoso"
+    },
+    "ibge": 3122801,
+    "logradouro": "Praça Doutor Augusto de Alkimin 01  AC Dom Viçoso;"
 }

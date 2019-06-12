@@ -1,12 +1,13 @@
 {
-  "cep": "39569971",
-  "logradouro": "AGC Maristela de Minas Rua Buenos Aires 40-A",
-  "bairro": "Maristela",
-  "cidade": {
-    "nome": "Curral de Dentro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maristela;",
+    "cep": "39569971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Curral de Dentro"
+    },
+    "ibge": 3120870,
+    "logradouro": "Rua Buenos Aires, 40-A  AGC Maristela de Minas;"
 }

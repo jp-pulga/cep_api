@@ -1,12 +1,13 @@
 {
-  "cep": "36831973",
-  "logradouro": "AGC Pedra Menina (Espera Feliz) Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Pedra Menina (Espera Feliz)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/São José da Pedra Menina",
+    "cep": "36831973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Espera Feliz"
+    },
+    "ibge": 3124203,
+    "logradouro": "Rua Principal, s\/n  AGC Pedra Menina (Espera Feliz);"
 }

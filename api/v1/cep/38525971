@@ -1,12 +1,13 @@
 {
-  "cep": "38525971",
-  "logradouro": "AGC Dolearina Rua Padre Benjamim 1276",
-  "bairro": "Dolearina",
-  "cidade": {
-    "nome": "Estrela do Sul",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dolearina;",
+    "cep": "38525971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Estrela do Sul"
+    },
+    "ibge": 3124807,
+    "logradouro": "Rua Padre Benjamim, 1276  AGC Dolearina;"
 }

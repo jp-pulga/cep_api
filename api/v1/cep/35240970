@@ -1,12 +1,13 @@
 {
-  "cep": "35240970",
-  "logradouro": "AC Conselheiro Pena Rua Expedicionário Nilo Moraes Pinheiro 1355",
-  "bairro": "Estação Velha",
-  "cidade": {
-    "nome": "Conselheiro Pena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estação Velha;",
+    "cep": "35240970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conselheiro Pena"
+    },
+    "ibge": 3118403,
+    "logradouro": "Rua Expedicionário Nilo Moraes Pinheiro, 1355  AC Conselheiro Pena;"
 }

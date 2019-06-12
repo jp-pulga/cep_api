@@ -1,12 +1,13 @@
 {
-  "cep": "39635971",
-  "logradouro": "AGC Barra do Salinas Avenida Valentim Ferreira 36",
-  "bairro": "Barra do Salinas",
-  "cidade": {
-    "nome": "Coronel Murta",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barra do Salinas;",
+    "cep": "39635971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Murta"
+    },
+    "ibge": 3119500,
+    "logradouro": "Avenida Valentim Ferreira, 36  AGC Barra do Salinas;"
 }

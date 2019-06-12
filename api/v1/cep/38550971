@@ -1,12 +1,13 @@
 {
-  "cep": "38550971",
-  "logradouro": "UD Coromandel Rua João Pinheiro 579",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coromandel",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38550971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coromandel"
+    },
+    "ibge": 3119302,
+    "logradouro": "Rua João Pinheiro, 579  UD Coromandel;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35345970",
-  "logradouro": "AC Córrego Novo Rua São José 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Córrego Novo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35345970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Córrego Novo"
+    },
+    "ibge": 3120003,
+    "logradouro": "Rua São José, 14  AC Córrego Novo;"
 }

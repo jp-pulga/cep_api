@@ -1,12 +1,13 @@
 {
-  "cep": "35135971",
-  "logradouro": "AGC Fernandes Tourinho Praça João XXII 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fernandes Tourinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35135971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fernandes Tourinho"
+    },
+    "ibge": 3125804,
+    "logradouro": "Praça João XXII, 13  AGC Fernandes Tourinho;"
 }

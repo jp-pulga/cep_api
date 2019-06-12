@@ -1,12 +1,13 @@
 {
-  "cep": "35610970",
-  "logradouro": "AC Dores do indaiá Praça Getúlio Vargas 24",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dores do Indaiá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35610970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Dores do Indaiá"
+    },
+    "ibge": 3123205,
+    "logradouro": "Praça Getúlio Vargas, 24  AC Dores do indaiá;"
 }

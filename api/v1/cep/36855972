@@ -1,12 +1,13 @@
 {
-  "cep": "36855972",
-  "logradouro": "AGC Queirozes Rua do Pôsto de Saúde Queirozes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eugenópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36855972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Eugenópolis"
+    },
+    "ibge": 3124906,
+    "logradouro": "Rua do Pôsto de Saúde Queirozes, s\/n  AGC Queirozes;"
 }

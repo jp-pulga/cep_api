@@ -1,12 +1,13 @@
 {
-  "cep": "35265971",
-  "logradouro": "AGC Linópolis Avenida Israel Pinheiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Divino das Laranjeiras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35265971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divino das Laranjeiras"
+    },
+    "ibge": 3122108,
+    "logradouro": "Avenida Israel Pinheiro, s\/n  AGC Linópolis;"
 }

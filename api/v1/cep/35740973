@@ -1,12 +1,13 @@
 {
-  "cep": "35740973",
-  "logradouro": "AGC Vargem Bento da Costa Rua Joaquim Frederico da Silva 152",
-  "bairro": "Vargem Bento da Costa",
-  "cidade": {
-    "nome": "Esmeraldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vargem Bento da Costa;",
+    "cep": "35740973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Esmeraldas"
+    },
+    "ibge": 3124104,
+    "logradouro": "Rua Joaquim Frederico da Silva, 152  AGC Vargem Bento da Costa;"
 }

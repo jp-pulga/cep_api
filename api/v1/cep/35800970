@@ -1,12 +1,13 @@
 {
-  "cep": "35800970",
-  "logradouro": "AC Ferros Rua Doutor Júlio Drumond 55",
-  "bairro": "Celeste",
-  "cidade": {
-    "nome": "Ferros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Celeste;",
+    "cep": "35800970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ferros"
+    },
+    "ibge": 3125903,
+    "logradouro": "Rua Doutor Júlio Drumond 55  AC Ferros;"
 }

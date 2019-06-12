@@ -1,12 +1,13 @@
 {
-  "cep": "35494970",
-  "logradouro": "AC Desterro de Entre Rios Praça Aarão Lima 70",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Desterro de Entre Rios",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35494970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Desterro de Entre Rios"
+    },
+    "ibge": 3121407,
+    "logradouro": "Praça Aarão Lima, 70  AC Desterro de Entre Rios;"
 }
