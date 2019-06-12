@@ -1,12 +1,12 @@
 {
-  "cep": "29930335",
-  "logradouro": "Ladeira São Benedito",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29930335",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Ladeira São Benedito;"
 }

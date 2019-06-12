@@ -1,12 +1,12 @@
 {
-  "cep": "29200290",
-  "logradouro": "Ladeira São Benedito",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29200290",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Ladeira São Benedito;"
 }

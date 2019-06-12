@@ -1,12 +1,12 @@
 {
-  "cep": "64202120",
-  "logradouro": "Rua Francisco Ayres",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "64202120",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Francisco Ayres;"
 }

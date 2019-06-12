@@ -1,12 +1,12 @@
 {
-  "cep": "29016280",
-  "logradouro": "Escadaria São Benedito",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29016280",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria São Benedito;"
 }

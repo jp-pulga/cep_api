@@ -1,12 +1,13 @@
 {
-  "cep": "64815970",
-  "logradouro": "AC Flores do Piauí Rua João Pessoa 277",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Flores do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64815970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Flores do Piauí"
+    },
+    "ibge": 2203800,
+    "logradouro": "Rua João Pessoa, 277  AC Flores do Piauí;"
 }

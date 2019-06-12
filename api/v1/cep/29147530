@@ -1,12 +1,12 @@
 {
-  "cep": "29147530",
-  "logradouro": "Rua São Benedito",
-  "bairro": "Santa Cecília",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Cecília;",
+    "cep": "29147530",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua São Benedito;"
 }

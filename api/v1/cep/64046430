@@ -1,12 +1,12 @@
 {
-  "cep": "64046430",
-  "logradouro": "Rua Domingos Mourão",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "64046430",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Domingos Mourão;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13010211",
-  "logradouro": "Avenida Orozimbo Maia até 650 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "13010211",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Avenida Orosimbo Maia - até 650 - lado par;"
 }

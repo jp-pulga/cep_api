@@ -1,12 +1,12 @@
 {
-  "cep": "64016530",
-  "logradouro": "Rua Isaías Coelho",
-  "bairro": "Três Andares",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Três Andares;",
+    "cep": "64016530",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Isaías Coelho;"
 }

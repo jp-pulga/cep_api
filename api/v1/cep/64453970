@@ -1,12 +1,13 @@
 {
-  "cep": "64453970",
-  "logradouro": "AC Curralinhos Avenida São Raimundo s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curralinhos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64453970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Curralinhos"
+    },
+    "ibge": 2203255,
+    "logradouro": "Avenida São Raimundo, s\/n  AC Curralinhos;"
 }

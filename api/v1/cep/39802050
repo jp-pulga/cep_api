@@ -1,12 +1,12 @@
 {
-  "cep": "39802050",
-  "logradouro": "Rua Floriano Peixoto",
-  "bairro": "Manoel Pimenta",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Manoel Pimenta;",
+    "cep": "39802050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Floriano Peixoto;"
 }

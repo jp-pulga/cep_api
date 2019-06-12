@@ -1,12 +1,12 @@
 {
-  "cep": "69151546",
-  "logradouro": "Rua Coronel Araújo",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "69151546",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Coronel Araújo;"
 }

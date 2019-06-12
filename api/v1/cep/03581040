@@ -1,12 +1,12 @@
 {
-  "cep": "03581040",
-  "logradouro": "Rua Célia Sobral",
-  "bairro": "Jardim Fernandes",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Fernandes;",
+    "cep": "03581040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Célia Sobral;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "03982150",
-  "logradouro": "Rua Edgard Pinto César",
-  "bairro": "Parque Santa Madalena",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Santa Madalena;",
+    "cep": "03982150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Edgard Pinto César;"
 }

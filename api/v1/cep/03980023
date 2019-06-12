@@ -1,12 +1,12 @@
 {
-  "cep": "03980023",
-  "logradouro": "Rua Coronel Oliveira Bastos",
-  "bairro": "Parque Santa Madalena",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Santa Madalena;",
+    "cep": "03980023",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Coronel Oliveira Bastos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41650186",
-  "logradouro": "Rua Floriano Teixeira",
-  "bairro": "Piatã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Piatã;",
+    "cep": "41650186",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Floriano Teixeira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64250970",
-  "logradouro": "AC Domingos Mourão Rua Manuel FerreiraViana s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Domingos Mourão",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64250970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Domingos Mourão"
+    },
+    "ibge": 2203420,
+    "logradouro": "Rua Manuel FerreiraViana, s\/n  AC Domingos Mourão;"
 }

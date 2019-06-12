@@ -1,12 +1,12 @@
 {
-  "cep": "58800510",
-  "logradouro": "Rua Lafayette Pires Ferreira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58800510",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Lafayette Pires Ferreira;"
 }

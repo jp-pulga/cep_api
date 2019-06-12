@@ -1,12 +1,13 @@
 {
-  "cep": "64540970",
-  "logradouro": "AC Ipiranga do Piauí Rua Monsenhor Lopes 185",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipiranga do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64540970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Ipiranga do Piauí"
+    },
+    "ibge": 2204808,
+    "logradouro": "Rua Monsenhor Lopes, 185  AC Ipiranga do Piauí;"
 }

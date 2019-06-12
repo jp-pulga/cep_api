@@ -1,12 +1,12 @@
 {
-  "cep": "64438970",
-  "logradouro": "AGC Santo Antonio dos Milagres Rua Luís Gomes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio dos Milagres",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64438970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Santo Antônio dos Milagres"
+    },
+    "logradouro": "Rua Luís Gomes, s\/n  AGC Santo Antonio dos Milagres;"
 }

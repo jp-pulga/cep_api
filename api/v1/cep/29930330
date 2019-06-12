@@ -1,12 +1,12 @@
 {
-  "cep": "29930330",
-  "logradouro": "Praça São Benedito",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29930330",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Praça São Benedito;"
 }

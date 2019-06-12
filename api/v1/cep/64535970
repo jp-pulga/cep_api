@@ -1,12 +1,13 @@
 {
-  "cep": "64535970",
-  "logradouro": "AC Inhuma Rua Duque de Caxias 526",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Inhuma",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64535970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Inhuma"
+    },
+    "ibge": 2204709,
+    "logradouro": "Rua Duque de Caxias, 526  AC Inhuma;"
 }

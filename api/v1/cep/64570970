@@ -1,12 +1,13 @@
 {
-  "cep": "64570970",
-  "logradouro": "AC Isaías Coelho Rua São Francisco s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Isaías Coelho",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64570970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Isaías Coelho"
+    },
+    "ibge": 2204907,
+    "logradouro": "Rua São Francisco, s\/n  AC Isaías Coelho;"
 }

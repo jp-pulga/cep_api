@@ -1,12 +1,12 @@
 {
-  "cep": "69005224",
-  "logradouro": "Vila Maria Madalena",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69005224",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Vila Maria Madalena;"
 }

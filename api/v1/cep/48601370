@@ -1,12 +1,12 @@
 {
-  "cep": "48601370",
-  "logradouro": "Rua São Benedito",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48601370",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua São Benedito;"
 }

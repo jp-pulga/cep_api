@@ -1,12 +1,13 @@
 {
-  "cep": "64798970",
-  "logradouro": "AC Guaribas Praça Anésio Correia Maia s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guaribas",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64798970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Guaribas"
+    },
+    "ibge": 2204550,
+    "logradouro": "Praça Anésio Correia Maia, s\/n  AC Guaribas;"
 }

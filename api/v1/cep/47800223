@@ -1,12 +1,12 @@
 {
-  "cep": "47800223",
-  "logradouro": "Rua Nova Olinda até 148/149",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47800223",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Nova Olinda - até 148\/149;"
 }

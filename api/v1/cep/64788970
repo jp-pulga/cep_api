@@ -1,12 +1,13 @@
 {
-  "cep": "64788970",
-  "logradouro": "AGC Fartura do Piauí Avenida Central s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fartura do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64788970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Fartura do Piauí"
+    },
+    "ibge": 2203750,
+    "logradouro": "Avenida Central, s\/n  AGC Fartura do Piauí;"
 }
