@@ -1,12 +1,13 @@
 {
-  "cep": "45770970",
-  "logradouro": "AC Maiquinique Praça Wilian Faria Valadão 136",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maiquinique",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45770970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Maiquinique"
+    },
+    "ibge": 2920007,
+    "logradouro": "Praça Wilian Faria Valadão, 136  AC Maiquinique;"
 }

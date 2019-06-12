@@ -1,12 +1,13 @@
 {
-  "cep": "45209138",
-  "logradouro": "Rua da Banca",
-  "bairro": "Tropical",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tropical;",
+    "cep": "45209138",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua da Banca;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48602700",
-  "logradouro": "Avenida da Amizade",
-  "bairro": "Vila Militar",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Militar;",
+    "cep": "48602700",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Avenida da Amizade;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45065460",
-  "logradouro": "Rua Milagres",
-  "bairro": "Patagônia",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Patagônia;",
+    "cep": "45065460",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Milagres;"
 }

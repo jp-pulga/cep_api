@@ -1,12 +1,12 @@
 {
-  "cep": "43810220",
-  "logradouro": "Rua Miguel Calmon",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "43810220",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Rua Miguel Calmon;"
 }

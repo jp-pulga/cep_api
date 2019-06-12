@@ -1,12 +1,12 @@
 {
-  "cep": "41650055",
-  "logradouro": "Condomínio Vale do Jaguaripe",
-  "bairro": "Piatã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Piatã;",
+    "cep": "41650055",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Condomínio Vale do Jaguaripe;"
 }

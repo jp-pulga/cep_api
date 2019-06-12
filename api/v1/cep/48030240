@@ -1,12 +1,12 @@
 {
-  "cep": "48030240",
-  "logradouro": "Rua Olindina",
-  "bairro": "Alagoinhas Velha",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alagoinhas Velha;",
+    "cep": "48030240",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Olindina;"
 }

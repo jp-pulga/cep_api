@@ -1,12 +1,12 @@
 {
-  "cep": "44082490",
-  "logradouro": "Rua Pilão Arcado",
-  "bairro": "Lagoa Salgada",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lagoa Salgada;",
+    "cep": "44082490",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Pilão Arcado;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44928970",
-  "logradouro": "AGC Queimada Nova Rua José Sobrinho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jussara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44928970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jussara"
+    },
+    "ibge": 2918506,
+    "logradouro": "Rua José Sobrinho, s\/n  AGC Queimada Nova;"
 }

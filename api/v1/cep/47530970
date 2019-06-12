@@ -1,12 +1,13 @@
 {
-  "cep": "47530970",
-  "logradouro": "AC Oliveira dos Brejinhos Travessa Duque de Caxias s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Oliveira dos Brejinhos",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47530970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Oliveira dos Brejinhos"
+    },
+    "ibge": 2923209,
+    "logradouro": "Travessa Duque de Caxias, s\/n  AC Oliveira dos Brejinhos;"
 }

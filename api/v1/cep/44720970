@@ -1,12 +1,13 @@
 {
-  "cep": "44720970",
-  "logradouro": "AC Miguel Calmon Praça José Severo Costa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Miguel Calmon",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44720970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Miguel Calmon"
+    },
+    "ibge": 2921203,
+    "logradouro": "Praça José Severo Costa, s\/n  AC Miguel Calmon;"
 }

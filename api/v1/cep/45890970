@@ -1,12 +1,13 @@
 {
-  "cep": "45890970",
-  "logradouro": "AC Pau Brasil Praça Juracy Magalhães 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pau Brasil",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45890970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pau Brasil"
+    },
+    "ibge": 2923902,
+    "logradouro": "Praça Juracy Magalhães, 160  AC Pau Brasil;"
 }

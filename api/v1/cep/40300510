@@ -1,12 +1,12 @@
 {
-  "cep": "40300510",
-  "logradouro": "Avenida Bonfim",
-  "bairro": "Macaúbas",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Macaúbas;",
+    "cep": "40300510",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Bonfim;"
 }

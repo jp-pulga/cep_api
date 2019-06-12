@@ -1,12 +1,12 @@
 {
-  "cep": "42800917",
-  "logradouro": "Bompreço Avenida Comercial s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camaçari",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "42800917",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Camaçari"
+    },
+    "logradouro": "Avenida Deputado Luís Eduardo Magalhães, s\/n  Bompreço;"
 }

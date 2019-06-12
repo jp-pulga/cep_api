@@ -1,12 +1,12 @@
 {
-  "cep": "41611035",
-  "logradouro": "Ladeira do Mirante",
-  "bairro": "Nova Brasília de Itapuã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Brasília de Itapuã;",
+    "cep": "41611035",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Ladeira do Mirante;"
 }

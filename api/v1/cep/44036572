@@ -1,12 +1,12 @@
 {
-  "cep": "44036572",
-  "logradouro": "Rua Piatã",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "44036572",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Piatã;"
 }

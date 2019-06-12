@@ -1,12 +1,12 @@
 {
-  "cep": "57312530",
-  "logradouro": "Rua José Cloves Resende de Barros",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "57312530",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua José Cloves Resende de Barros;"
 }

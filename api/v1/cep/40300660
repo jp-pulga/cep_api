@@ -1,12 +1,12 @@
 {
-  "cep": "40300660",
-  "logradouro": "Rua Matança de Cima",
-  "bairro": "Macaúbas",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Macaúbas;",
+    "cep": "40300660",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Matança de Cima;"
 }

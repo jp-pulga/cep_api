@@ -1,12 +1,13 @@
 {
-  "cep": "44575970",
-  "logradouro": "AC Muniz Ferreira Rua Barão de Taitinga 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muniz Ferreira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44575970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Muniz Ferreira"
+    },
+    "ibge": 2922201,
+    "logradouro": "Rua Barão de Taitinga, 86  AC Muniz Ferreira;"
 }

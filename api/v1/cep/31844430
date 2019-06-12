@@ -1,12 +1,12 @@
 {
-  "cep": "31844430",
-  "logradouro": "Rua Abílio Barreto",
-  "bairro": "Lajedo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lajedo;",
+    "cep": "31844430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Abílio Barreto;"
 }

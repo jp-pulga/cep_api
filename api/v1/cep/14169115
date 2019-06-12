@@ -1,12 +1,12 @@
 {
-  "cep": "14169115",
-  "logradouro": "Rua Luiz Pedro",
-  "bairro": "Jardim Alexandre Balbo",
-  "cidade": {
-    "nome": "Sertãozinho",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Alexandre Balbo;",
+    "cep": "14169115",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sertãozinho"
+    },
+    "logradouro": "Rua Luiz Pedro;"
 }

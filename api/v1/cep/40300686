@@ -1,12 +1,12 @@
 {
-  "cep": "40300686",
-  "logradouro": "Rua Fuísco de Baixo",
-  "bairro": "Macaúbas",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Macaúbas;",
+    "cep": "40300686",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Fuísco de Baixo;"
 }

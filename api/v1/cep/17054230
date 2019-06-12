@@ -1,12 +1,12 @@
 {
-  "cep": "17054230",
-  "logradouro": "Rua Itororó",
-  "bairro": "Vila Santa Inês",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Inês;",
+    "cep": "17054230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Itororó;"
 }

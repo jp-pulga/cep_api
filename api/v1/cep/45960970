@@ -1,12 +1,13 @@
 {
-  "cep": "45960970",
-  "logradouro": "AC Medeiros Neto Travessa Teixeira de Freitas 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Medeiros Neto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45960970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Medeiros Neto"
+    },
+    "ibge": 2921104,
+    "logradouro": "Travessa Teixeira de Freitas, 25  AC Medeiros Neto;"
 }

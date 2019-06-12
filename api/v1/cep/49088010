@@ -1,12 +1,12 @@
 {
-  "cep": "49088010",
-  "logradouro": "Avenida Paulo Figueredo Barreto",
-  "bairro": "Lamarão",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Lamarão;",
+    "cep": "49088010",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Avenida Paulo Figueredo Barreto;"
 }

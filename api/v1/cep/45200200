@@ -1,12 +1,13 @@
 {
-  "cep": "45200200",
-  "logradouro": "Avenida Castelo Branco lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45200200",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida Castelo Branco - lado par;"
 }

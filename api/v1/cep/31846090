@@ -1,12 +1,12 @@
 {
-  "cep": "31846090",
-  "logradouro": "Rua Haroldo Barbosa",
-  "bairro": "Lajedo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lajedo;",
+    "cep": "31846090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Haroldo Barbosa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36200689",
-  "logradouro": "Rua Pedro Sfredo",
-  "bairro": "Serra Verde",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Verde;",
+    "cep": "36200689",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Pedro Sfredo;"
 }

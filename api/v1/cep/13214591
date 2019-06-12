@@ -1,12 +1,12 @@
 {
-  "cep": "13214591",
-  "logradouro": "Rua Ângela Gomes Basso",
-  "bairro": "Mirante de Jundiaí",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Mirante de Jundiaí;",
+    "cep": "13214591",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Rua Ângela Gomes Basso;"
 }

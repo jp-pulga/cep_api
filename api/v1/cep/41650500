@@ -1,12 +1,12 @@
 {
-  "cep": "41650500",
-  "logradouro": "Avenida Luís Viana lado par",
-  "bairro": "Piatã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Piatã;",
+    "cep": "41650500",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Luís Viana Filho - lado par;"
 }

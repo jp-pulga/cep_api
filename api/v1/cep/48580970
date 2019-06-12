@@ -1,12 +1,13 @@
 {
-  "cep": "48580970",
-  "logradouro": "AC Pedro Alexandre Praça Coronel João Maria de Carvalho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro Alexandre",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48580970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pedro Alexandre"
+    },
+    "ibge": 2924207,
+    "logradouro": "Praça Coronel João Maria de Carvalho, s\/n  AC Pedro Alexandre;"
 }

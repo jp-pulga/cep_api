@@ -1,12 +1,12 @@
 {
-  "cep": "41192085",
-  "logradouro": "Rua Paramirim (Cabula IV)",
-  "bairro": "Narandiba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Narandiba;",
+    "cep": "41192085",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Paramirim (Cabula IV);"
 }

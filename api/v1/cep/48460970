@@ -1,12 +1,13 @@
 {
-  "cep": "48460970",
-  "logradouro": "AC Nova Soure Rua Ademar Fontes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Soure",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48460970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Soure"
+    },
+    "ibge": 2922904,
+    "logradouro": "Rua Ademar Fontes, s\/n  AC Nova Soure;"
 }

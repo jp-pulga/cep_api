@@ -1,12 +1,12 @@
 {
-  "cep": "45992300",
-  "logradouro": "Rua Mucugê",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "45992300",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Mucugê;"
 }

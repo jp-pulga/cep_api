@@ -1,12 +1,12 @@
 {
-  "cep": "47810824",
-  "logradouro": "Rua Lafaiete Coutinho",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "47810824",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Lafaiete Coutinho;"
 }

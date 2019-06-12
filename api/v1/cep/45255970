@@ -1,12 +1,13 @@
 {
-  "cep": "45255970",
-  "logradouro": "AC Mirante Avenida Manoel Messias de Lima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mirante",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45255970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mirante"
+    },
+    "ibge": 2921450,
+    "logradouro": "Avenida Manoel Messias de Lima, s\/n  AC Mirante;"
 }

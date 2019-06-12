@@ -1,12 +1,12 @@
 {
-  "cep": "40434410",
-  "logradouro": "Rua Jaguaquara",
-  "bairro": "Massaranduba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Massaranduba;",
+    "cep": "40434410",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Jaguaquara;"
 }

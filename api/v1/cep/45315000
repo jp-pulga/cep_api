@@ -1,12 +1,11 @@
 {
-  "cep": "45315000",
-  "logradouro": "Milagres",
-  "bairro": "",
-  "cidade": {
-    "nome": "Milagres",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45315000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Milagres"
+    },
+    "ibge": 2921302
 }

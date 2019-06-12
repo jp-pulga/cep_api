@@ -1,12 +1,12 @@
 {
-  "cep": "13573514",
-  "logradouro": "Rua Sete",
-  "bairro": "Parque Novo Mundo",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Novo Mundo;",
+    "cep": "13573514",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rua Joel Barnabé;"
 }

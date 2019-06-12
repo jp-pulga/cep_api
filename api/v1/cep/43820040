@@ -1,12 +1,12 @@
 {
-  "cep": "43820040",
-  "logradouro": "Rua Itororós",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "43820040",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Rua Itororós;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45950970",
-  "logradouro": "AC Lajedão Rua Maria José Rocha Passos 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lajedão",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45950970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lajedão"
+    },
+    "ibge": 2918902,
+    "logradouro": "Rua Maria José Rocha Passos, 29  AC Lajedão;"
 }

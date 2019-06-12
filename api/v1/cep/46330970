@@ -1,12 +1,13 @@
 {
-  "cep": "46330970",
-  "logradouro": "AC Licínio de Almeida Praça Dois de Julho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Licínio de Almeida",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46330970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Licínio de Almeida"
+    },
+    "ibge": 2919405,
+    "logradouro": "Praça Dois de Julho, s\/n  AC Licínio de Almeida;"
 }

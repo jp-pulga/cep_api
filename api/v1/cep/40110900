@@ -1,12 +1,12 @@
 {
-  "cep": "40110900",
-  "logradouro": "Centro Médico do Vale Avenida Reitor Miguel Calmon 1210",
-  "bairro": "Canela",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Canela;",
+    "cep": "40110900",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Reitor Miguel Calmon, 1210  Centro Médico do Vale;"
 }

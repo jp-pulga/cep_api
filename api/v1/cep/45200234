@@ -1,12 +1,13 @@
 {
-  "cep": "45200234",
-  "logradouro": "Rua Jornalista Fernando Barreto até 149 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45200234",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Jornalista Fernando Barreto - até 149 - lado ímpar;"
 }

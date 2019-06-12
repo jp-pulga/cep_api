@@ -1,12 +1,13 @@
 {
-  "cep": "46670970",
-  "logradouro": "AC Jussiape Praça Nove de Julho 134",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jussiape",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46670970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jussiape"
+    },
+    "ibge": 2918605,
+    "logradouro": "Praça Nove de Julho, 134  AC Jussiape;"
 }

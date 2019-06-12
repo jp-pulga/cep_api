@@ -1,12 +1,13 @@
 {
-  "cep": "45315970",
-  "logradouro": "AC Milagres Avenida João Leal Sales 930",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Milagres",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45315970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Milagres"
+    },
+    "ibge": 2921302,
+    "logradouro": "Avenida João Leal Sales, 930  AC Milagres;"
 }

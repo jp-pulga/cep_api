@@ -1,12 +1,12 @@
 {
-  "cep": "45204125",
-  "logradouro": "Avenida Deputado Luís Eduardo Magalhães",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "45204125",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Avenida Deputado Luís Eduardo Magalhães;"
 }

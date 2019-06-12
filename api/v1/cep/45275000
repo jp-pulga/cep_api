@@ -1,12 +1,12 @@
 {
-  "cep": "45275000",
-  "logradouro": "Itajaí (Nova Canaã)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itajaí (Nova Canaã)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itajaí",
+    "cep": "45275000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Canaã"
+    },
+    "ibge": 2922706
 }

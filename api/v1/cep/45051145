@@ -1,12 +1,12 @@
 {
-  "cep": "45051145",
-  "logradouro": "Avenida Paramirim de 2284/2285 a 2981/2982",
-  "bairro": "Brasil",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brasil;",
+    "cep": "45051145",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Paramirim - de 2284\/2285 a 2981\/2982;"
 }

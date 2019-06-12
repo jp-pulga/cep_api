@@ -1,12 +1,12 @@
 {
-  "cep": "41630700",
-  "logradouro": "Rua Luís Eduardo Magalhães",
-  "bairro": "Itapuã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itapuã;",
+    "cep": "41630700",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Luís Eduardo Magalhães;"
 }

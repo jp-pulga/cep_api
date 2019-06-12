@@ -1,12 +1,12 @@
 {
-  "cep": "40302220",
-  "logradouro": "Avenida Matheus",
-  "bairro": "Macaúbas",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Macaúbas;",
+    "cep": "40302220",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Matheus;"
 }

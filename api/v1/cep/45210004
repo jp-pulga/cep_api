@@ -1,12 +1,13 @@
 {
-  "cep": "45210004",
-  "logradouro": "Rua Bangu",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "45210004",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Bangu;"
 }

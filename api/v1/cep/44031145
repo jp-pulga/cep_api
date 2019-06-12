@@ -1,12 +1,12 @@
 {
-  "cep": "44031145",
-  "logradouro": "Rua Nova Canaã",
-  "bairro": "Pampalona",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pampalona;",
+    "cep": "44031145",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Nova Canaã;"
 }

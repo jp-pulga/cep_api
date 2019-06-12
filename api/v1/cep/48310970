@@ -1,12 +1,13 @@
 {
-  "cep": "48310970",
-  "logradouro": "AC Jandaíra Rua Egídio Alves dos Santos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jandaíra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48310970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jandaíra"
+    },
+    "ibge": 2917904,
+    "logradouro": "Rua Egídio Alves dos Santos, s\/n  AC Jandaíra;"
 }

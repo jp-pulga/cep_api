@@ -1,12 +1,12 @@
 {
-  "cep": "41640250",
-  "logradouro": "Rua Olindina",
-  "bairro": "Itapuã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itapuã;",
+    "cep": "41640250",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Olindina;"
 }

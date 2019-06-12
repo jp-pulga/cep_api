@@ -1,12 +1,13 @@
 {
-  "cep": "45345971",
-  "logradouro": "AGC Entrocamento de Jaguaquara Praça da Bandeira 08",
-  "bairro": "Entroncamento de Jaguaquara",
-  "cidade": {
-    "nome": "Jaguaquara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Entroncamento de Jaguaquara;",
+    "cep": "45345971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jaguaquara"
+    },
+    "ibge": 2917607,
+    "logradouro": "Praça da Bandeira, 08  AGC Entrocamento de Jaguaquara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48603300",
-  "logradouro": "Avenida Boa Viagem",
-  "bairro": "Clériston Andrade",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Clériston Andrade;",
+    "cep": "48603300",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Avenida Boa Viagem;"
 }

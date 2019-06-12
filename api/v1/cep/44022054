@@ -1,12 +1,12 @@
 {
-  "cep": "44022054",
-  "logradouro": "Rua Lençóis",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "44022054",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Lençóis;"
 }

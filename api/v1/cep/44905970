@@ -1,12 +1,13 @@
 {
-  "cep": "44905970",
-  "logradouro": "AC Lapão Rua Aurelino Galvão Dourado s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lapão",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44905970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lapão"
+    },
+    "ibge": 2919157,
+    "logradouro": "Rua Aurelino Galvão Dourado, s\/n  AC Lapão;"
 }

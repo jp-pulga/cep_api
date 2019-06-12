@@ -1,12 +1,11 @@
 {
-  "cep": "46460000",
-  "logradouro": "Palmas de Monte Alto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Palmas de Monte Alto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "46460000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Palmas de Monte Alto"
+    },
+    "ibge": 2923407
 }

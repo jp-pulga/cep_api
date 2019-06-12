@@ -1,12 +1,12 @@
 {
-  "cep": "18683400",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Vila Marimbondo",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Marimbondo;",
+    "cep": "18683400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua Santa Bárbara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45520970",
-  "logradouro": "AC Maraú Rua Beira Mar s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maraú",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45520970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Maraú"
+    },
+    "ibge": 2920700,
+    "logradouro": "Rua Beira Mar, s\/n  AC Maraú;"
 }

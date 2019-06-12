@@ -1,12 +1,12 @@
 {
-  "cep": "45200222",
-  "logradouro": "Rua Medeiros Neto",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45200222",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Medeiros Neto;"
 }

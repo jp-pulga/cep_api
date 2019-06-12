@@ -1,12 +1,11 @@
 {
-  "cep": "46785000",
-  "logradouro": "Juraci (Marcionílio Souza)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Juraci (Marcionílio Souza)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "46785000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Marcionílio Souza"
+    },
+    "ibge": 2920809
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44097776",
-  "logradouro": "Rua Brejo de Madre de Deus",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "44097776",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Brejo de Madre de Deus;"
 }

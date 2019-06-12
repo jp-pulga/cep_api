@@ -1,12 +1,12 @@
 {
-  "cep": "47115970",
-  "logradouro": "AC Muquém de São Francisco Avenida São Francisco 648",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muquém de São Francisco",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47115970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Muquém de São Francisco"
+    },
+    "logradouro": "Avenida São Francisco, 648  AC Muquém de São Francisco;"
 }

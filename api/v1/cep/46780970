@@ -1,12 +1,13 @@
 {
-  "cep": "46780970",
-  "logradouro": "AC Marcionílio Souza Rua Olegário Ferreira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marcionílio Souza",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46780970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Marcionílio Souza"
+    },
+    "ibge": 2920809,
+    "logradouro": "Rua Olegário Ferreira, s\/n  AC Marcionílio Souza;"
 }

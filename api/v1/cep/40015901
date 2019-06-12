@@ -1,12 +1,12 @@
 {
-  "cep": "40015901",
-  "logradouro": "BRADESCO I Rua Miguel Calmon 285",
-  "bairro": "Comércio",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Comércio;",
+    "cep": "40015901",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Miguel Calmon, 285  BRADESCO I;"
 }

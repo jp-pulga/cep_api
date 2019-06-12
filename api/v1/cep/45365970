@@ -1,12 +1,13 @@
 {
-  "cep": "45365970",
-  "logradouro": "AC Lajedo do Tabocal Rua Aurélio Assis de Oliveira 81",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lajedo do Tabocal",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45365970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lajedo do Tabocal"
+    },
+    "ibge": 2919058,
+    "logradouro": "Rua Aurélio Assis de Oliveira, 81  AC Lajedo do Tabocal;"
 }

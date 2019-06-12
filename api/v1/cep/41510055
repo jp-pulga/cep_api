@@ -1,12 +1,12 @@
 {
-  "cep": "41510055",
-  "logradouro": "Terminal Aeroporto Internacional Deputado Luís Eduardo Magalhães",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "41510055",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Terminal Aeroporto Internacional Deputado Luís Eduardo Magalhães;"
 }

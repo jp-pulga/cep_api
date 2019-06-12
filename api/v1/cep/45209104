@@ -1,12 +1,13 @@
 {
-  "cep": "45209104",
-  "logradouro": "Avenida Bela Vista",
-  "bairro": "Tropical",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tropical;",
+    "cep": "45209104",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida Bela Vista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47802452",
-  "logradouro": "Rua do Pau-brasil",
-  "bairro": "Bandeirantes",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bandeirantes;",
+    "cep": "47802452",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua do Pau-brasil;"
 }

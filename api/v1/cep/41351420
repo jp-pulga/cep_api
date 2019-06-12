@@ -1,12 +1,12 @@
 {
-  "cep": "41351420",
-  "logradouro": "Caminho 05-A (Cj Jaguaripe II)",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "41351420",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Caminho 05-A (Cj Jaguaripe II);"
 }

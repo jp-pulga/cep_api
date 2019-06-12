@@ -1,12 +1,13 @@
 {
-  "cep": "45201150",
-  "logradouro": "Rua Félix Batista até 498/499",
-  "bairro": "Joaquim Romão",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Joaquim Romão;",
+    "cep": "45201150",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Félix Batista - até 498\/499;"
 }

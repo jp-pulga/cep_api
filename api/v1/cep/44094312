@@ -1,12 +1,12 @@
 {
-  "cep": "44094312",
-  "logradouro": "Avenida Deputado Luís Eduardo Magalhães do km 519000 ao km 520999",
-  "bairro": "35º BI",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "35º BI;",
+    "cep": "44094312",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Deputado Luís Eduardo Magalhães - do km 519,000 ao km 520,999;"
 }

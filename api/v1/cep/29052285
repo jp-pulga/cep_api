@@ -1,12 +1,12 @@
 {
-  "cep": "29052285",
-  "logradouro": "Rua Sebastiana Barbosa Milagres",
-  "bairro": "Praia do Suá",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia do Suá;",
+    "cep": "29052285",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Sebastiana Barbosa Milagres;"
 }

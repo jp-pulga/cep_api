@@ -1,12 +1,12 @@
 {
-  "cep": "40302016",
-  "logradouro": "Avenida Salazar",
-  "bairro": "Macaúbas",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Macaúbas;",
+    "cep": "40302016",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Salazar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41280300",
-  "logradouro": "Rua Pindaí",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Marechal Rondon;",
+    "cep": "41280300",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Pindaí;"
 }

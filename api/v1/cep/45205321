@@ -1,12 +1,13 @@
 {
-  "cep": "45205321",
-  "logradouro": "Avenida Rio Bahia",
-  "bairro": "Suíssa",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Suíssa;",
+    "cep": "45205321",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida Rio Bahia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46780971",
-  "logradouro": "AGC Queimadinhas Rua Luís Viana Filho s/n",
-  "bairro": "Queimadinhas",
-  "cidade": {
-    "nome": "Marcionílio Souza",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Queimadinhas;",
+    "cep": "46780971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Marcionílio Souza"
+    },
+    "ibge": 2920809,
+    "logradouro": "Rua Luís Viana Filho, s\/n  AGC Queimadinhas;"
 }

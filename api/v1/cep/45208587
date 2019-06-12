@@ -1,12 +1,13 @@
 {
-  "cep": "45208587",
-  "logradouro": "Avenida Braz Arléo",
-  "bairro": "Jequiezinho",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Espírito Santo;",
+    "cep": "45208587",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida Braz Arléo;"
 }

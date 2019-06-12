@@ -1,12 +1,12 @@
 {
-  "cep": "44003348",
-  "logradouro": "Travessa Pedro Suzart",
-  "bairro": "Serraria Brasil",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serraria Brasil;",
+    "cep": "44003348",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Pedro Suzart;"
 }

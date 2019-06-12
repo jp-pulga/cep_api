@@ -1,12 +1,13 @@
 {
-  "cep": "42600970",
-  "logradouro": "AC Madre de Deus Praça Pedro Gomes 56",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Madre de Deus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "42600970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Madre de Deus"
+    },
+    "ibge": 2919926,
+    "logradouro": "Praça Pedro Gomes, 58  AC Madre de Deus;"
 }

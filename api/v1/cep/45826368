@@ -1,12 +1,12 @@
 {
-  "cep": "45826368",
-  "logradouro": "Avenida Paulo Afonso",
-  "bairro": "Thiago de Mello",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Thiago de Mello;",
+    "cep": "45826368",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Paulo Afonso;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41152085",
-  "logradouro": "Rua Itororó",
-  "bairro": "Resgate",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Resgate;",
+    "cep": "41152085",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Itororó;"
 }

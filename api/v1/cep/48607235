@@ -1,12 +1,13 @@
 {
-  "cep": "48607235",
-  "logradouro": "Avenida da Amizade",
-  "bairro": "General Dutra",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "General Dutra;",
+    "cep": "48607235",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Avenida da Amizade;"
 }

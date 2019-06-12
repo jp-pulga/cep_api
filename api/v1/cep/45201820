@@ -1,12 +1,13 @@
 {
-  "cep": "45201820",
-  "logradouro": "Avenida Barragem de Pedras",
-  "bairro": "Kennedy",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Kennedy;",
+    "cep": "45201820",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida Barragem de Pedras;"
 }

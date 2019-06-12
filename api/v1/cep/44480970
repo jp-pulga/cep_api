@@ -1,12 +1,13 @@
 {
-  "cep": "44480970",
-  "logradouro": "AC Jaguaripe Praça da Bandeira 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaguaripe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44480970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jaguaripe"
+    },
+    "ibge": 2917805,
+    "logradouro": "Praça da Bandeira, 2  AC Jaguaripe;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48470970",
-  "logradouro": "AC Olindina Travessa José da Costa Fonseca 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Olindina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48470970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Olindina"
+    },
+    "ibge": 2923100,
+    "logradouro": "Travessa José da Costa Fonseca, 03  AC Olindina;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45452970",
-  "logradouro": "AC Nova Ibiá Praça São José 119",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Ibiá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45452970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Ibiá"
+    },
+    "ibge": 2922755,
+    "logradouro": "Praça São José, 119  AC Nova Ibiá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18681120",
-  "logradouro": "Rua Bartolomeu Bueno da Silva",
-  "bairro": "Parque Residencial São José",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Residencial São José;",
+    "cep": "18681120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua Bartolomeu Bueno da Silva - de 331\/332 ao fim;"
 }

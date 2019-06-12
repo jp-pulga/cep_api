@@ -1,12 +1,12 @@
 {
-  "cep": "40055160",
-  "logradouro": "Rua Batitinga",
-  "bairro": "Nazaré",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nazaré;",
+    "cep": "40055160",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Batitinga;"
 }

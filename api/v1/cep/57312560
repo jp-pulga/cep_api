@@ -1,12 +1,12 @@
 {
-  "cep": "57312560",
-  "logradouro": "Rua Clóvis de Barros Correia",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "57312560",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Clóvis de Barros Correia;"
 }

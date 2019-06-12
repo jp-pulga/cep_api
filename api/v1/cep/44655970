@@ -1,12 +1,13 @@
 {
-  "cep": "44655970",
-  "logradouro": "AC Pé de Serra Rua Manoel Carneiro Rios 95",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pé de Serra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44655970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pé de Serra"
+    },
+    "ibge": 2924058,
+    "logradouro": "Rua Manoel Carneiro Rios, 95  AC Pé de Serra;"
 }

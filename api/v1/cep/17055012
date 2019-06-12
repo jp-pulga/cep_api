@@ -1,12 +1,12 @@
 {
-  "cep": "17055012",
-  "logradouro": "Rua João Mantovani",
-  "bairro": "Residencial Jardim Jussara",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Jardim Jussara;",
+    "cep": "17055012",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua João Mantovani;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "06720110",
-  "logradouro": "Rua Ary Barroso",
-  "bairro": "Parque Mirante da Mata",
-  "cidade": {
-    "nome": "Cotia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Mirante da Mata;",
+    "cep": "06720110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cotia"
+    },
+    "logradouro": "Rua Ary Barroso;"
 }

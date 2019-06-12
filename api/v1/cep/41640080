@@ -1,12 +1,12 @@
 {
-  "cep": "41640080",
-  "logradouro": "Ladeira do Mirante",
-  "bairro": "Itapuã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itapuã;",
+    "cep": "41640080",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Ladeira do Mirante;"
 }

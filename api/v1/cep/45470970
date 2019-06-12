@@ -1,12 +1,13 @@
 {
-  "cep": "45470970",
-  "logradouro": "AC Jiquiriçá Rua Engenheiro Dantas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequiriçá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45470970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jiquiriçá"
+    },
+    "ibge": 2918209,
+    "logradouro": "Rua Engenheiro Dantas, s\/n  AC Jiquiriçá;"
 }

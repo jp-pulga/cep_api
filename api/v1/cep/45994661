@@ -1,12 +1,12 @@
 {
-  "cep": "45994661",
-  "logradouro": "Rua Conselheiro Antônio Saraiva",
-  "bairro": "Nova Canaã",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Canaã;",
+    "cep": "45994661",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Conselheiro Antônio Saraiva;"
 }

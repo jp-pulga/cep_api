@@ -1,12 +1,12 @@
 {
-  "cep": "45655082",
-  "logradouro": "Rua Pau Brasil",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "45655082",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Pau Brasil;"
 }

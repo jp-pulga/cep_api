@@ -1,12 +1,12 @@
 {
-  "cep": "06422030",
-  "logradouro": "Rua Presidente Nilo Peçanha",
-  "bairro": "Jardim Itaquiti",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Itaquiti;",
+    "cep": "06422030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Rua Presidente Nilo Peçanha;"
 }

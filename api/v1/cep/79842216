@@ -1,12 +1,12 @@
 {
-  "cep": "79842216",
-  "logradouro": "Rua João Batista da Silva",
-  "bairro": "Jardim do Bosque",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim do Bosque;",
+    "cep": "79842216",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua João Batista da Silva;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45480970",
-  "logradouro": "AC Mutuípe Rua Conselheiro Joaquim Mota 7",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mutuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45480970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mutuípe"
+    },
+    "ibge": 2922409,
+    "logradouro": "Rua Conselheiro Joaquim Mota, 7  AC Mutuípe;"
 }

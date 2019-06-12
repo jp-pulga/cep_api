@@ -1,12 +1,12 @@
 {
-  "cep": "29166510",
-  "logradouro": "Avenida Petrópolis",
-  "bairro": "Barcelona",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barcelona;",
+    "cep": "29166510",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Avenida Petrópolis;"
 }

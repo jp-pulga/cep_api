@@ -1,12 +1,12 @@
 {
-  "cep": "05801090",
-  "logradouro": "Rua Tinoco Barcelos",
-  "bairro": "Jardim Mirante",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Mirante;",
+    "cep": "05801090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Tinoco Barcelos;"
 }

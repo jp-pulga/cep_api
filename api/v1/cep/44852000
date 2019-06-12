@@ -1,12 +1,11 @@
 {
-  "cep": "44852000",
-  "logradouro": "Icó (Morro do Chapéu)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Icó (Morro do Chapéu)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44852000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Morro do Chapéu"
+    },
+    "ibge": 2921708
 }

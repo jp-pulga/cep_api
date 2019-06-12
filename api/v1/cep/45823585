@@ -1,12 +1,12 @@
 {
-  "cep": "45823585",
-  "logradouro": "Avenida Paulo Afonso de 602/603 ao fim",
-  "bairro": "Sapucaeira",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sapucaeira;",
+    "cep": "45823585",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Paulo Afonso - de 602\/603 ao fim;"
 }

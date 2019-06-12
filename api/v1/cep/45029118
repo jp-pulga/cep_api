@@ -1,12 +1,12 @@
 {
-  "cep": "45029118",
-  "logradouro": "Rua Rio Mucuri",
-  "bairro": "Candeias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeias;",
+    "cep": "45029118",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Rio Mucuri;"
 }

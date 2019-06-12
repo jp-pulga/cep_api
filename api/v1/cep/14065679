@@ -1,12 +1,12 @@
 {
-  "cep": "14065679",
-  "logradouro": "Rua Pedro Panelli",
-  "bairro": "Jardim Alexandre Balbo",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Alexandre Balbo;",
+    "cep": "14065679",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Pedro Panelli;"
 }

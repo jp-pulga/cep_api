@@ -1,12 +1,13 @@
 {
-  "cep": "48605780",
-  "logradouro": "Avenida da Amizade",
-  "bairro": "Sal Torrado",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sal Torrado;",
+    "cep": "48605780",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Avenida da Amizade;"
 }

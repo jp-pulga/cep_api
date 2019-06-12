@@ -1,12 +1,13 @@
 {
-  "cep": "48140970",
-  "logradouro": "AC Pedrão Praça Presidente Médici s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedrão",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48140970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pedrão"
+    },
+    "ibge": 2924108,
+    "logradouro": "Praça Presidente Médice, s\/n  AC Pedrão;"
 }

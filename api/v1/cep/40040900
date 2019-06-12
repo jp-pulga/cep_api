@@ -1,12 +1,12 @@
 {
-  "cep": "40040900",
-  "logradouro": "Fórum Ruy Barbosa Largo do Campo da Pólvora s/n",
-  "bairro": "Nazaré",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nazaré;",
+    "cep": "40040900",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Largo do Campo da Pólvora, s\/n  Fórum Ruy Barbosa;"
 }

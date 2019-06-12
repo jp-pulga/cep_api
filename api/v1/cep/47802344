@@ -1,12 +1,12 @@
 {
-  "cep": "47802344",
-  "logradouro": "Rua Getúlio Vargas de 400/401 ao fim",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "47802344",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Getúlio Vargas - de 400\/401 ao fim;"
 }

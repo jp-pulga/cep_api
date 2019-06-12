@@ -1,12 +1,12 @@
 {
-  "cep": "47802542",
-  "logradouro": "Rua do Pau-brasil",
-  "bairro": "Serra do Mimo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serra do Mimo;",
+    "cep": "47802542",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua do Pau-brasil;"
 }

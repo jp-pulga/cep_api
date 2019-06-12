@@ -1,12 +1,13 @@
 {
-  "cep": "48850971",
-  "logradouro": "AGC Jacurici da Leste Rua da Estação s/n",
-  "bairro": "Jacurici",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jacurici;",
+    "cep": "48850971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Rua da Estação, s\/n  AGC Jacurici da Leste;"
 }

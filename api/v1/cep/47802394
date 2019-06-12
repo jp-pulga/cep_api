@@ -1,12 +1,12 @@
 {
-  "cep": "47802394",
-  "logradouro": "Rua Donatilde Maria Nascimento",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "47802394",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Donatilde Maria Nascimento;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45602138",
-  "logradouro": "Praça Alice Monteiro",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "45602138",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Praça Alice Monteiro;"
 }

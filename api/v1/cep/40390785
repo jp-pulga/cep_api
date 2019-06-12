@@ -1,12 +1,12 @@
 {
-  "cep": "40390785",
-  "logradouro": "Rua Miguel Góes Calmon",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "40390785",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Miguel Góes Calmon;"
 }

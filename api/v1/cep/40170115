@@ -1,12 +1,12 @@
 {
-  "cep": "40170115",
-  "logradouro": "Rua Barão de Jeremoabo",
-  "bairro": "Ondina",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ondina;",
+    "cep": "40170115",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Barão de Jeremoabo;"
 }

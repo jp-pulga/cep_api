@@ -1,12 +1,13 @@
 {
-  "cep": "47500970",
-  "logradouro": "AC Paratinga Praça Dois de Julho 150",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paratinga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47500970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paratinga"
+    },
+    "ibge": 2923704,
+    "logradouro": "Praça Dois de Julho, 150  AC Paratinga;"
 }

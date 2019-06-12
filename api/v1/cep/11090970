@@ -1,12 +1,12 @@
 {
-  "cep": "11090970",
-  "logradouro": "AGC Ilhéu Baixo Rua Doutor Alderico Monteiro Soares 46",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "11090970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Rua Doutor Alderico Monteiro Soares, 46  AGC Ilhéu Baixo;"
 }

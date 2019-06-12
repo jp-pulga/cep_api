@@ -1,12 +1,12 @@
 {
-  "cep": "29176584",
-  "logradouro": "Rua Bahia",
-  "bairro": "Palmeiras",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Palmeiras;",
+    "cep": "29176584",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Bahia;"
 }

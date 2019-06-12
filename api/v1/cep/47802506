@@ -1,12 +1,12 @@
 {
-  "cep": "47802506",
-  "logradouro": "Rua Expedito Pereira dos Santos",
-  "bairro": "Serra do Mimo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serra do Mimo;",
+    "cep": "47802506",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Expedito Pereira dos Santos;"
 }

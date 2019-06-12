@@ -1,12 +1,12 @@
 {
-  "cep": "44570740",
-  "logradouro": "Rua Cidade de Mutuípe",
-  "bairro": "Maria Preta",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Maria Preta;",
+    "cep": "44570740",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "logradouro": "Rua Cidade de Mutuípe;"
 }

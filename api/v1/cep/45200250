@@ -1,12 +1,13 @@
 {
-  "cep": "45200250",
-  "logradouro": "Praça Ruy Barbosa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45200250",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Praça Ruy Barbosa;"
 }

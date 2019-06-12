@@ -1,12 +1,12 @@
 {
-  "cep": "45994150",
-  "logradouro": "Avenida Aurélio Viana",
-  "bairro": "Luís Eduardo Magalhães",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Luís Eduardo Magalhães;",
+    "cep": "45994150",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Avenida Aurélio Viana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "46170970",
-  "logradouro": "AC Rio de Contas Rua Barão de Macaúbas 167",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio de Contas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46170970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Rio de Contas"
+    },
+    "logradouro": "Rua Barão de Macaúbas, 167  AC Rio de Contas;"
 }

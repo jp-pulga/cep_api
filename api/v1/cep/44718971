@@ -1,12 +1,13 @@
 {
-  "cep": "44718971",
-  "logradouro": "AGC Alagadiço Praça João Rodrigues da Silva s/n",
-  "bairro": "Alagadiço",
-  "cidade": {
-    "nome": "Ourolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alagadiço;",
+    "cep": "44718971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ourolândia"
+    },
+    "ibge": 2923357,
+    "logradouro": "Praça João Rodrigues da Silva, s\/n  AGC Alagadiço;"
 }

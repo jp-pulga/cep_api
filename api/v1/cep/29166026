@@ -1,12 +1,12 @@
 {
-  "cep": "29166026",
-  "logradouro": "Avenida Petrolina",
-  "bairro": "Barcelona",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barcelona;",
+    "cep": "29166026",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Avenida Petrolina;"
 }

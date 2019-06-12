@@ -1,12 +1,12 @@
 {
-  "cep": "47802502",
-  "logradouro": "Avenida Luís Eduardo Magalhães",
-  "bairro": "Serra do Mimo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serra do Mimo;",
+    "cep": "47802502",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Avenida Luís Eduardo Magalhães;"
 }

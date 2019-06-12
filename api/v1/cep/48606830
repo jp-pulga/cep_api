@@ -1,12 +1,12 @@
 {
-  "cep": "48606830",
-  "logradouro": "Avenida Nova Brasília",
-  "bairro": "Capuxú",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Capuxú;",
+    "cep": "48606830",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Avenida Nova Brasília;"
 }

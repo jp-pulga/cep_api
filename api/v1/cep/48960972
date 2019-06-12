@@ -1,12 +1,13 @@
 {
-  "cep": "48960972",
-  "logradouro": "AGC Catuni Rua do Comércio s/n",
-  "bairro": "Catuni",
-  "cidade": {
-    "nome": "Jaguarari",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Catuni;",
+    "cep": "48960972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jaguarari"
+    },
+    "ibge": 2917706,
+    "logradouro": "Rua do Comércio, s\/n  AGC Catuni;"
 }

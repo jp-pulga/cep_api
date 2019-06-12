@@ -1,12 +1,12 @@
 {
-  "cep": "94060540",
-  "logradouro": "Rua Olegário Batista",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "94060540",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Olegário Batista;"
 }

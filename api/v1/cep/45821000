@@ -1,12 +1,12 @@
 {
-  "cep": "45821000",
-  "logradouro": "Avenida Luís Eduardo Magalhães",
-  "bairro": "Doutor Gusmão",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Doutor Gusmão;",
+    "cep": "45821000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Luís Eduardo Magalhães;"
 }

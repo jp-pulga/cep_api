@@ -1,12 +1,13 @@
 {
-  "cep": "48280970",
-  "logradouro": "AC Mata de São João Rua Santos Dumont 140",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mata de São João",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48280970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mata de São João"
+    },
+    "ibge": 2921005,
+    "logradouro": "Rua Santos Dumont, 140  AC Mata de São João;"
 }

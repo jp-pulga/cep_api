@@ -1,12 +1,13 @@
 {
-  "cep": "48903210",
-  "logradouro": "Avenida Antônio Carlos Magalhães até 300/301",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Juazeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "48903210",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Juazeiro"
+    },
+    "ibge": 2918407,
+    "logradouro": "Avenida Antônio Carlos Magalhães;"
 }

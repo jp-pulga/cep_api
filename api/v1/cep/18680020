@@ -1,12 +1,12 @@
 {
-  "cep": "18680020",
-  "logradouro": "Rua Geraldo Pereira de Barros de 512/513 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18680020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua Geraldo Pereira de Barros - de 512\/513 ao fim;"
 }

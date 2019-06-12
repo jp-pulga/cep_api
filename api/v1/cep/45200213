@@ -1,12 +1,12 @@
 {
-  "cep": "45200213",
-  "logradouro": "Rua Manoel Vitorino até 117/118",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45200213",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Manoel Vitorino - até 117\/118;"
 }

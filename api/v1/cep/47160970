@@ -1,12 +1,13 @@
 {
-  "cep": "47160970",
-  "logradouro": "AC Mansidão Praça JK s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mansidão",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47160970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mansidão"
+    },
+    "ibge": 2920452,
+    "logradouro": "Praça JK, s\/n  AC Mansidão;"
 }

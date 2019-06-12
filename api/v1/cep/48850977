@@ -1,12 +1,13 @@
 {
-  "cep": "48850977",
-  "logradouro": "AGC Picos Avenida Getúlio Vargas 255",
-  "bairro": "Picos",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Picos;",
+    "cep": "48850977",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Avenida Getúlio Vargas, 255  AGC Picos;"
 }

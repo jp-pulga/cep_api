@@ -1,12 +1,13 @@
 {
-  "cep": "48850974",
-  "logradouro": "AGC Rômulo Campos Praça da Matriz s/n",
-  "bairro": "Rômulo Campos",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rômulo Campos;",
+    "cep": "48850974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Praça da Matriz, s\/n  AGC Rômulo Campos;"
 }

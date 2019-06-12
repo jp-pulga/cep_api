@@ -1,12 +1,12 @@
 {
-  "cep": "06856160",
-  "logradouro": "Rua Pereira Barreto",
-  "bairro": "Recreio Campestre",
-  "cidade": {
-    "nome": "Itapecerica da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recreio Campestre;",
+    "cep": "06856160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapecerica da Serra"
+    },
+    "logradouro": "Rua Pereira Barreto;"
 }

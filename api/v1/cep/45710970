@@ -1,12 +1,13 @@
 {
-  "cep": "45710970",
-  "logradouro": "AC Itororó Rua Manoel Novais 264",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itororó",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45710970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itororó"
+    },
+    "ibge": 2917102,
+    "logradouro": "Rua Manoel Novais, 264  AC Itororó;"
 }

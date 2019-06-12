@@ -1,12 +1,12 @@
 {
-  "cep": "41650235",
-  "logradouro": "Alameda Austrália",
-  "bairro": "Piatã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Piatã;",
+    "cep": "41650235",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Austrália;"
 }

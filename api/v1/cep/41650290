@@ -1,12 +1,12 @@
 {
-  "cep": "41650290",
-  "logradouro": "Conjunto Piatã Ville",
-  "bairro": "Piatã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Piatã;",
+    "cep": "41650290",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Conjunto Piatã Ville;"
 }

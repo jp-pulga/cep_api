@@ -1,12 +1,12 @@
 {
-  "cep": "40425230",
-  "logradouro": "Rua Dionísio Pedro de Alcântara",
-  "bairro": "Monte Serrat",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Monte Serrat;",
+    "cep": "40425230",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Dionísio Pedro de Alcântara;"
 }

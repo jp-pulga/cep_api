@@ -1,12 +1,12 @@
 {
-  "cep": "45820310",
-  "logradouro": "Avenida Luís Eduardo Magalhães",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45820310",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Luís Eduardo Magalhães;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45203068",
-  "logradouro": "Rua Medeiros Neto",
-  "bairro": "Campo do América",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Campo do América;",
+    "cep": "45203068",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Medeiros Neto;"
 }

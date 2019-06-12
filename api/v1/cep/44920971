@@ -1,12 +1,13 @@
 {
-  "cep": "44920971",
-  "logradouro": "AGC Gameleira dos Crentes Rua da Caixa D'Água s/n",
-  "bairro": "Gameleira dos Crentes",
-  "cidade": {
-    "nome": "João Dourado",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Gameleira dos Crentes;",
+    "cep": "44920971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "João Dourado"
+    },
+    "ibge": 2918357,
+    "logradouro": "Rua da Caixa D'Água, s\/n  AGC Gameleira dos Crentes;"
 }

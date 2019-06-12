@@ -1,12 +1,13 @@
 {
-  "cep": "45203464",
-  "logradouro": "Rua Basílio Elói",
-  "bairro": "Caixa D'Água",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caixa D'Água;",
+    "cep": "45203464",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Basílio Elói;"
 }

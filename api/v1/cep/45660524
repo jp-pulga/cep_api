@@ -1,12 +1,12 @@
 {
-  "cep": "45660524",
-  "logradouro": "Rua Luiz Eduardo Magalhães",
-  "bairro": "Olivença",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Olivença;",
+    "cep": "45660524",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Luiz Eduardo Magalhães;"
 }

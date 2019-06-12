@@ -1,12 +1,13 @@
 {
-  "cep": "45760970",
-  "logradouro": "AC Macarani Rua Duque de Caxias 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Macarani",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45760970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Macarani"
+    },
+    "ibge": 2919702,
+    "logradouro": "Rua Duque de Caxias, 12  AC Macarani;"
 }

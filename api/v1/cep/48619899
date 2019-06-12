@@ -1,12 +1,13 @@
 {
-  "cep": "48619899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Paulo Afonso",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Área Rural de Paulo Afonso;",
+    "cep": "48619899",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Área Rural;"
 }

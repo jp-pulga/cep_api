@@ -1,12 +1,13 @@
 {
-  "cep": "48850970",
-  "logradouro": "AC Itiúba Rua Joviniano de Carvalho 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48850970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Rua Joviniano de Carvalho, 63  AC Itiúba;"
 }

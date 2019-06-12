@@ -1,12 +1,12 @@
 {
-  "cep": "13801145",
-  "logradouro": "Rua João Batista Bueno",
-  "bairro": "Mirante",
-  "cidade": {
-    "nome": "Mogi Mirim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Mirante;",
+    "cep": "13801145",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Mirim"
+    },
+    "logradouro": "Rua João Batista Bueno;"
 }

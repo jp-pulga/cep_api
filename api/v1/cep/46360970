@@ -1,12 +1,13 @@
 {
-  "cep": "46360970",
-  "logradouro": "AC Pindaí Rua Sete de Setembro 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pindaí",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46360970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pindaí"
+    },
+    "ibge": 2924504,
+    "logradouro": "Rua Sete de Setembro, 44  AC Pindaí;"
 }

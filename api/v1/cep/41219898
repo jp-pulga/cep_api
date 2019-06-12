@@ -1,12 +1,12 @@
 {
-  "cep": "41219898",
-  "logradouro": "Alameda Residencial São João",
-  "bairro": "Mata Escura",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mata Escura;",
+    "cep": "41219898",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Residencial São João;"
 }

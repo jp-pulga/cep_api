@@ -1,12 +1,13 @@
 {
-  "cep": "47580970",
-  "logradouro": "AC Morpará Rua Marechal Dutra s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morpará",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47580970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Morpará"
+    },
+    "ibge": 2921609,
+    "logradouro": "Rua Marechal Dutra, s\/n  AC Morpará;"
 }

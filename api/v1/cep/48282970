@@ -1,12 +1,13 @@
 {
-  "cep": "48282970",
-  "logradouro": "AC Costa de Sauípe Rodovia BA-099 km 76",
-  "bairro": "Costa do Sauípe",
-  "cidade": {
-    "nome": "Mata de São João",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Costa do Sauípe;",
+    "cep": "48282970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mata de São João"
+    },
+    "ibge": 2921005,
+    "logradouro": "Rodovia BA-099, km 76  AC Costa de Sauípe;"
 }

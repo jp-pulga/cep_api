@@ -1,12 +1,11 @@
 {
-  "cep": "45925000",
-  "logradouro": "Argolo (Nova Viçosa)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Argolo (Nova Viçosa)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45925000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Viçosa"
+    },
+    "ibge": 2923001
 }

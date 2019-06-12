@@ -1,12 +1,12 @@
 {
-  "cep": "78080175",
-  "logradouro": "Rua dos Babaçus",
-  "bairro": "Jardim das Palmeiras",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim das Palmeiras;",
+    "cep": "78080175",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua dos Babaçus;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40254125",
-  "logradouro": "Travessa Jaguarari",
-  "bairro": "Cosme de Farias",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cosme de Farias;",
+    "cep": "40254125",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Jaguarari;"
 }

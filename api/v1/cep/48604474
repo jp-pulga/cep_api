@@ -1,12 +1,12 @@
 {
-  "cep": "48604474",
-  "logradouro": "Rua Paripiranga",
-  "bairro": "Oliveira Brito",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Oliveira Brito;",
+    "cep": "48604474",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Paripiranga;"
 }

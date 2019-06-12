@@ -1,12 +1,12 @@
 {
-  "cep": "47808174",
-  "logradouro": "Rua Juazeiro",
-  "bairro": "Antonio Geraldo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Antonio Geraldo;",
+    "cep": "47808174",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Juazeiro;"
 }

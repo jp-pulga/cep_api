@@ -1,12 +1,13 @@
 {
-  "cep": "45215970",
-  "logradouro": "AC Lafaiete Coutinho Rua Vinte de Fevereiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lafaiete Coutinho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45215970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lafaiete Coutinho"
+    },
+    "ibge": 2918704,
+    "logradouro": "Rua Vinte de Fevereiro, s\/n  AC Lafaiete Coutinho;"
 }

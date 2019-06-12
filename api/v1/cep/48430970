@@ -1,12 +1,13 @@
 {
-  "cep": "48430970",
-  "logradouro": "AC Paripiranga Rua Paulo Dias Nascimento s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paripiranga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48430970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paripiranga"
+    },
+    "ibge": 2923803,
+    "logradouro": "Rua Paulo Dias Nascimento, s\/n  AC Paripiranga;"
 }

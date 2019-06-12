@@ -1,12 +1,13 @@
 {
-  "cep": "45204243",
-  "logradouro": "Rua Babilônia",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "45204243",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Babilônia;"
 }

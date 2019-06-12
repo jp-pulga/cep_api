@@ -1,12 +1,13 @@
 {
-  "cep": "45920970",
-  "logradouro": "AC Nova Viçosa Avenida Oceânica 05",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Viçosa",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45920970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Viçosa"
+    },
+    "ibge": 2923001,
+    "logradouro": "Avenida Oceânica, 05  AC Nova Viçosa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18686190",
-  "logradouro": "Rua David Baptistella",
-  "bairro": "Jardim Primavera",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Primavera;",
+    "cep": "18686190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua David Baptistella;"
 }

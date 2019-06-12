@@ -1,12 +1,13 @@
 {
-  "cep": "45210006",
-  "logradouro": "Avenida Beira Rio",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "45210006",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida Beira Rio;"
 }

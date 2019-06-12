@@ -1,12 +1,12 @@
 {
-  "cep": "45994658",
-  "logradouro": "Rua Padre Diogo Antônio Feijó",
-  "bairro": "Nova Canaã",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Canaã;",
+    "cep": "45994658",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Padre Diogo Antônio Feijó;"
 }

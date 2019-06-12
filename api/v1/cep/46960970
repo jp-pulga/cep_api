@@ -1,12 +1,13 @@
 {
-  "cep": "46960970",
-  "logradouro": "AC Lençóis Avenida 7 de Setembro 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lençóis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46960970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lençóis"
+    },
+    "ibge": 2919306,
+    "logradouro": "Avenida 7 de Setembro, 18  AC Lençóis;"
 }

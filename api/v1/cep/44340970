@@ -1,12 +1,13 @@
 {
-  "cep": "44340970",
-  "logradouro": "AC Muritiba Praça Castro Alves 316",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muritiba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44340970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Muritiba"
+    },
+    "ibge": 2922300,
+    "logradouro": "Praça Castro Alves, 316  AC Muritiba;"
 }

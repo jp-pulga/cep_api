@@ -1,12 +1,12 @@
 {
-  "cep": "57312540",
-  "logradouro": "Rua José Cavalcante Bezerra de Barros",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "57312540",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua José Cavalcante Bezerra de Barros;"
 }

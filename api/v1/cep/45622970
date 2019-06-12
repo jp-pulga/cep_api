@@ -1,12 +1,13 @@
 {
-  "cep": "45622970",
-  "logradouro": "AC Jussari Praça Rui Barbosa 96",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jussari",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45622970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jussari"
+    },
+    "ibge": 2918555,
+    "logradouro": "Praça Rui Barbosa, 96  AC Jussari;"
 }

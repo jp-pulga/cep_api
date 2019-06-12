@@ -1,12 +1,12 @@
 {
-  "cep": "47802396",
-  "logradouro": "Rua Jerusalém",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "47802396",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Jerusalém;"
 }

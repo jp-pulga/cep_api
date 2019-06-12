@@ -1,12 +1,13 @@
 {
-  "cep": "47655970",
-  "logradouro": "AC Jaborandi Avenida Francisco Moreira Alves 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaborandi",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47655970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jaborandi"
+    },
+    "ibge": 2917359,
+    "logradouro": "Avenida Francisco Moreira Alves, 11  AC Jaborandi;"
 }

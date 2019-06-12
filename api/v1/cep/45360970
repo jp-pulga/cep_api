@@ -1,12 +1,13 @@
 {
-  "cep": "45360970",
-  "logradouro": "AC Maracás Praça da Bandeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maracás",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45360970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Maracás"
+    },
+    "ibge": 2920502,
+    "logradouro": "Praça da Bandeira, s\/n  AC Maracás;"
 }

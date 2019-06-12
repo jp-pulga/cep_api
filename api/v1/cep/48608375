@@ -1,12 +1,12 @@
 {
-  "cep": "48608375",
-  "logradouro": "Rua Jeremoabo",
-  "bairro": "Alves de Souza",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alves de Souza;",
+    "cep": "48608375",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Jeremoabo;"
 }

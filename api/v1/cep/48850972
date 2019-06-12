@@ -1,12 +1,13 @@
 {
-  "cep": "48850972",
-  "logradouro": "AGC Piaus Praça do Comércio s/n",
-  "bairro": "Piaus",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Piaus;",
+    "cep": "48850972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Praça do Comércio, s\/n  AGC Piaus;"
 }

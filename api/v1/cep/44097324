@@ -1,12 +1,12 @@
 {
-  "cep": "44097324",
-  "logradouro": "Avenida Deputado Luís Eduardo Magalhães do km 523000 ao km 999999",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "44097324",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Deputado Luís Eduardo Magalhães - do km 523,000 ao km 999,999;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13219100",
-  "logradouro": "Rua Jussara",
-  "bairro": "Vila Ruy Barbosa",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Ruy Barbosa;",
+    "cep": "13219100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Rua Jussara;"
 }

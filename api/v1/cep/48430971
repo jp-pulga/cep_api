@@ -1,12 +1,13 @@
 {
-  "cep": "48430971",
-  "logradouro": "AGC Conceição de Campinas Avenida Principal s/n",
-  "bairro": "Conceição de Campinas",
-  "cidade": {
-    "nome": "Paripiranga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conceição de Campinas;",
+    "cep": "48430971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paripiranga"
+    },
+    "ibge": 2923803,
+    "logradouro": "Avenida Principal, s\/n  AGC Conceição de Campinas;"
 }

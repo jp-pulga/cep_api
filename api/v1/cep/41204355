@@ -1,12 +1,12 @@
 {
-  "cep": "41204355",
-  "logradouro": "Rua Jacobina (Cj Res L E Magalhães)",
-  "bairro": "Arraial do Retiro",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Arraial do Retiro;",
+    "cep": "41204355",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Jacobina (Cj Res L E Magalhães);"
 }

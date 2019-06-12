@@ -1,12 +1,12 @@
 {
-  "cep": "48603110",
-  "logradouro": "Rua Brasil",
-  "bairro": "Perpétuo Socorro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Perpétuo Socorro;",
+    "cep": "48603110",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Brasil;"
 }

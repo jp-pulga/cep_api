@@ -1,12 +1,12 @@
 {
-  "cep": "17055011",
-  "logradouro": "Rua Nelson Ferreira Brandão",
-  "bairro": "Residencial Jardim Jussara",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Jardim Jussara;",
+    "cep": "17055011",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Nelson Ferreira Brandão;"
 }

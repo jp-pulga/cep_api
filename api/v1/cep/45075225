@@ -1,12 +1,12 @@
 {
-  "cep": "45075225",
-  "logradouro": "Avenida Paramirim de 2983/2984 ao fim",
-  "bairro": "Ibirapuera",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ibirapuera;",
+    "cep": "45075225",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Paramirim - de 2983\/2984 ao fim;"
 }

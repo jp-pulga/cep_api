@@ -1,12 +1,12 @@
 {
-  "cep": "11050110",
-  "logradouro": "Rua Joana Monte Bastos",
-  "bairro": "Boqueirão",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Boqueirão;",
+    "cep": "11050110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Rua Joana Monte Bastos;"
 }

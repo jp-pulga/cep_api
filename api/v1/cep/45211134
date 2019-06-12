@@ -1,12 +1,13 @@
 {
-  "cep": "45211134",
-  "logradouro": "Rua Teles Barbosa",
-  "bairro": "KM III",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "KM III;",
+    "cep": "45211134",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Teles Barbosa;"
 }

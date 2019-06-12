@@ -1,12 +1,12 @@
 {
-  "cep": "47813660",
-  "logradouro": "Rua Novo Horizonte",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "47813660",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Novo Horizonte;"
 }

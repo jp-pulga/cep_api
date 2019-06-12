@@ -1,12 +1,12 @@
 {
-  "cep": "40060070",
-  "logradouro": "Avenida Lafayete Coutinho (Gamboa)",
-  "bairro": "Dois de Julho",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Dois de Julho;",
+    "cep": "40060070",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Lafayete Coutinho (Gamboa);"
 }

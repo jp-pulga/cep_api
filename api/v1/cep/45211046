@@ -1,12 +1,13 @@
 {
-  "cep": "45211046",
-  "logradouro": "Rua Teles Barbosa",
-  "bairro": "Agenor Coelho de Aragão",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agenor Coelho de Aragão;",
+    "cep": "45211046",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Teles Barbosa;"
 }

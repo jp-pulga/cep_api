@@ -1,12 +1,12 @@
 {
-  "cep": "47801204",
-  "logradouro": "Rua Lajes",
-  "bairro": "Vila Brasil",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Brasil;",
+    "cep": "47801204",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Lajes;"
 }

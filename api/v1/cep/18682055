@@ -1,12 +1,12 @@
 {
-  "cep": "18682055",
-  "logradouro": "Travessa Rui Barbosa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18682055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Travessa Rui Barbosa;"
 }

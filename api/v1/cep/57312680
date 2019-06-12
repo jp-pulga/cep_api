@@ -1,12 +1,12 @@
 {
-  "cep": "57312680",
-  "logradouro": "Avenida Elvira Barbosa Lopes",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "57312680",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Avenida Elvira Barbosa Lopes;"
 }

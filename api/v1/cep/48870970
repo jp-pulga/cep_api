@@ -1,12 +1,13 @@
 {
-  "cep": "48870970",
-  "logradouro": "AC Nordestina Rua Maria Flora s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nordestina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48870970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nordestina"
+    },
+    "ibge": 2922656,
+    "logradouro": "Rua Maria Flora, s\/n  AC Nordestina;"
 }

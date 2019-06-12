@@ -1,12 +1,12 @@
 {
-  "cep": "45994664",
-  "logradouro": "Avenida Ayrton Senna",
-  "bairro": "Nova Canaã",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Canaã;",
+    "cep": "45994664",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Avenida Ayrton Senna;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "48020650",
-  "logradouro": "Rua Paulo Afonso",
-  "bairro": "Kennedy",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Kennedy;",
+    "cep": "48020650",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Paulo Afonso;"
 }

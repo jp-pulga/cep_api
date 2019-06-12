@@ -1,12 +1,13 @@
 {
-  "cep": "46330971",
-  "logradouro": "AGC Jurema Rua da Paz s/n",
-  "bairro": "Jurema",
-  "cidade": {
-    "nome": "Licínio de Almeida",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jurema;",
+    "cep": "46330971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Licínio de Almeida"
+    },
+    "ibge": 2919405,
+    "logradouro": "Rua da Paz, s\/n  AGC Jurema;"
 }

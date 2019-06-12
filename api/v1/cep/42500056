@@ -1,12 +1,12 @@
 {
-  "cep": "42500056",
-  "logradouro": "Rua do Mirante de Maré",
-  "bairro": "Santana (Ilha de Maré)",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santana (Ilha de Maré);",
+    "cep": "42500056",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua do Mirante de Maré;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45205331",
-  "logradouro": "Avenida Deputado Luís Eduardo Magalhães",
-  "bairro": "Suíssa",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Suíssa;",
+    "cep": "45205331",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Avenida Deputado Luís Eduardo Magalhães;"
 }

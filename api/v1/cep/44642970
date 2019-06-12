@@ -1,12 +1,13 @@
 {
-  "cep": "44642970",
-  "logradouro": "AC Nova Fátima Rua Gildasio Souza 257",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Fátima",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44642970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Fátima"
+    },
+    "ibge": 2922730,
+    "logradouro": "Rua Gildasio Souza, 257  AC Nova Fátima;"
 }

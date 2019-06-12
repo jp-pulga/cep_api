@@ -1,12 +1,13 @@
 {
-  "cep": "45345970",
-  "logradouro": "AC Jaguaquara Praça da Bandeira 8",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaguaquara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45345970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jaguaquara"
+    },
+    "ibge": 2917607,
+    "logradouro": "Praça da Bandeira, 8  AC Jaguaquara;"
 }

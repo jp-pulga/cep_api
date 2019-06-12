@@ -1,12 +1,12 @@
 {
-  "cep": "02186040",
-  "logradouro": "Alameda Primeiro-Sargento Basílio Nogueira da Costa",
-  "bairro": "Parque Novo Mundo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Novo Mundo;",
+    "cep": "02186040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Alameda Primeiro-Sargento Basílio Nogueira da Costa;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48603500",
-  "logradouro": "Avenida Eraldo Rocha",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "48603500",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Avenida Eraldo Rocha;"
 }

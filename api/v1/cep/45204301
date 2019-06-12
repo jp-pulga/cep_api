@@ -1,12 +1,12 @@
 {
-  "cep": "45204301",
-  "logradouro": "Rua Jaborandi",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "45204301",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Jaborandi;"
 }

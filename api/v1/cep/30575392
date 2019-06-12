@@ -1,12 +1,12 @@
 {
-  "cep": "30575392",
-  "logradouro": "Rua Henrique Badaró Portugal",
-  "bairro": "Palmeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmeiras;",
+    "cep": "30575392",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Henrique Badaró Portugal;"
 }

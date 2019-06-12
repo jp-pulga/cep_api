@@ -1,12 +1,13 @@
 {
-  "cep": "48608171",
-  "logradouro": "Avenida Bahia de 163/164 ao fim",
-  "bairro": "Alves de Souza",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alves de Souza;",
+    "cep": "48608171",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Avenida Bahia - de 163\/164 ao fim;"
 }

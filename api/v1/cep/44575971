@@ -1,12 +1,13 @@
 {
-  "cep": "44575971",
-  "logradouro": "AGC Onha Rua São Sebastião s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muniz Ferreira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44575971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Muniz Ferreira"
+    },
+    "ibge": 2922201,
+    "logradouro": "Rua São Sebastião, s\/n  AGC Onha;"
 }

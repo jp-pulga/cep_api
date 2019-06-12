@@ -1,12 +1,12 @@
 {
-  "cep": "07404065",
-  "logradouro": "Rua Serra do Baturité",
-  "bairro": "Mirante do Arujá",
-  "cidade": {
-    "nome": "Arujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Mirante do Arujá;",
+    "cep": "07404065",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Arujá"
+    },
+    "logradouro": "Rua Serra do Baturité;"
 }

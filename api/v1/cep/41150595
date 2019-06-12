@@ -1,12 +1,12 @@
 {
-  "cep": "41150595",
-  "logradouro": "Avenida Luís Eduardo Magalhães",
-  "bairro": "Cabula",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cabula;",
+    "cep": "41150595",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Luís Eduardo Magalhães;"
 }

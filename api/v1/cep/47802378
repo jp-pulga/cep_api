@@ -1,12 +1,12 @@
 {
-  "cep": "47802378",
-  "logradouro": "Rua José do Patrocínio",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "47802378",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua José do Patrocínio;"
 }

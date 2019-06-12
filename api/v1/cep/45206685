@@ -1,12 +1,13 @@
 {
-  "cep": "45206685",
-  "logradouro": "Rua Bahia",
-  "bairro": "Água Branca",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Água Branca;",
+    "cep": "45206685",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Bahia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45240970",
-  "logradouro": "AC Manoel Vitorino Avenida Gabriel Dantas de Novaes 250",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manoel Vitorino",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45240970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Manoel Vitorino"
+    },
+    "ibge": 2920403,
+    "logradouro": "Avenida Gabriel Dantas de Novaes, 250  AC Manoel Vitorino;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "14405419",
-  "logradouro": "Rua Nazareth Baidarian",
-  "bairro": "Jardim Integração",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Integração;",
+    "cep": "14405419",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Rua Nazareth Baidarian;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41350235",
-  "logradouro": "Avenida São Paulo",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "41350235",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida São Paulo;"
 }

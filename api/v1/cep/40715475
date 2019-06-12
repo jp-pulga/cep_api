@@ -1,12 +1,12 @@
 {
-  "cep": "40715475",
-  "logradouro": "Travessa Nova Canaã",
-  "bairro": "Rio Sena",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Sena;",
+    "cep": "40715475",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Nova Canaã;"
 }

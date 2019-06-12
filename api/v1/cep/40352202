@@ -1,12 +1,12 @@
 {
-  "cep": "40352202",
-  "logradouro": "Rua Ituaçu",
-  "bairro": "Fazenda Grande do Retiro",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Fazenda Grande do Retiro;",
+    "cep": "40352202",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Ituaçu;"
 }

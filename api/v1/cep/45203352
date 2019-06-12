@@ -1,12 +1,13 @@
 {
-  "cep": "45203352",
-  "logradouro": "Avenida Ademar Esteves",
-  "bairro": "São Luís",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Luís;",
+    "cep": "45203352",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida Ademar Esteves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47802358",
-  "logradouro": "Rua Claudomiro Francisco",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "47802358",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Claudomiro Francisco;"
 }

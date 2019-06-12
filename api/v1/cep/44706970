@@ -1,12 +1,13 @@
 {
-  "cep": "44706970",
-  "logradouro": "AGC Vila de Junco Rua Sete de Setembro s/n",
-  "bairro": "Junco",
-  "cidade": {
-    "nome": "Jacobina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Junco;",
+    "cep": "44706970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jacobina"
+    },
+    "ibge": 2917508,
+    "logradouro": "Rua Sete de Setembro, s\/n  AGC Vila de Junco;"
 }

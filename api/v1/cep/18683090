@@ -1,12 +1,12 @@
 {
-  "cep": "18683090",
-  "logradouro": "Rua Líbero Badaró",
-  "bairro": "Jardim Morumbi",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Morumbi;",
+    "cep": "18683090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua Líbero Badaró;"
 }

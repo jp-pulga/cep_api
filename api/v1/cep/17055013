@@ -1,12 +1,12 @@
 {
-  "cep": "17055013",
-  "logradouro": "Travessa Sebastião Alves Vilela",
-  "bairro": "Residencial Jardim Jussara",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Jardim Jussara;",
+    "cep": "17055013",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Travessa Sebastião Alves Vilela;"
 }

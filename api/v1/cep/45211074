@@ -1,12 +1,13 @@
 {
-  "cep": "45211074",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Agenor Coelho de Aragão",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agenor Coelho de Aragão;",
+    "cep": "45211074",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua Santa Bárbara;"
 }

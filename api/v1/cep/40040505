@@ -1,12 +1,12 @@
 {
-  "cep": "40040505",
-  "logradouro": "Rua Cruzador Bahia",
-  "bairro": "Nazaré",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nazaré;",
+    "cep": "40040505",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Cruzador Bahia;"
 }

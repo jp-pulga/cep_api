@@ -1,12 +1,13 @@
 {
-  "cep": "44700974",
-  "logradouro": "CDD Jacobina Rua Senador Pedro Lago 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacobina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44700974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jacobina"
+    },
+    "ibge": 2917508,
+    "logradouro": "Rua Senador Pedro Lago, 160  CDD Jacobina;"
 }

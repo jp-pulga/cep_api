@@ -1,12 +1,12 @@
 {
-  "cep": "41250587",
-  "logradouro": "Alameda Pau Brasil (Bsq Imperial)",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "41250587",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Pau Brasil (Bsq Imperial);"
 }

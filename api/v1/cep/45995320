@@ -1,12 +1,12 @@
 {
-  "cep": "45995320",
-  "logradouro": "Rua Pau Brasil",
-  "bairro": "Residencial Terras da Bahia",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Residencial Terras da Bahia;",
+    "cep": "45995320",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Pau Brasil;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58407673",
-  "logradouro": "Rua Antônio Barbosa de Menezes",
-  "bairro": "Mirante",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mirante;",
+    "cep": "58407673",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Antônio Barbosa de Menezes;"
 }

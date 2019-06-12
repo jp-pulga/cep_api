@@ -1,12 +1,13 @@
 {
-  "cep": "45876970",
-  "logradouro": "AGC Pimenta Rua do Comércio s/n",
-  "bairro": "Pimenta",
-  "cidade": {
-    "nome": "Mascote",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pimenta;",
+    "cep": "45876970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mascote"
+    },
+    "ibge": 2920908,
+    "logradouro": "Rua do Comércio, s\/n  AGC Pimenta;"
 }

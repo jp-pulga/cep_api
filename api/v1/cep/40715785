@@ -1,12 +1,12 @@
 {
-  "cep": "40715785",
-  "logradouro": "Rua Muritiba",
-  "bairro": "Itacaranha",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itacaranha;",
+    "cep": "40715785",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Muritiba;"
 }

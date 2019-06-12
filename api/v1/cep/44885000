@@ -1,12 +1,11 @@
 {
-  "cep": "44885000",
-  "logradouro": "Mulungu do Morro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mulungu do Morro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44885000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mulungu do Morro"
+    },
+    "ibge": 2922052
 }

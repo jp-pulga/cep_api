@@ -1,12 +1,13 @@
 {
-  "cep": "45834970",
-  "logradouro": "AC Jucuruçu Rua Trindade s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jucuruçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45834970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jucuruçu"
+    },
+    "ibge": 2918456,
+    "logradouro": "Rua Trindade, s\/n  AC Jucuruçu;"
 }

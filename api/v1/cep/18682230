@@ -1,12 +1,12 @@
 {
-  "cep": "18682230",
-  "logradouro": "Rua Guido Basso",
-  "bairro": "Jardim Village",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Village;",
+    "cep": "18682230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua Guido Basso;"
 }

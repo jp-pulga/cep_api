@@ -1,12 +1,12 @@
 {
-  "cep": "40270420",
-  "logradouro": "Travessa Luís Eduardo Magalhães",
-  "bairro": "Vila Laura",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Laura;",
+    "cep": "40270420",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Luís Eduardo Magalhães;"
 }

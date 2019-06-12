@@ -1,12 +1,12 @@
 {
-  "cep": "17051130",
-  "logradouro": "Rua Nilo Peçanha até Quadra 7",
-  "bairro": "Vila Souto",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Souto;",
+    "cep": "17051130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Nilo Peçanha - até Quadra 7;"
 }

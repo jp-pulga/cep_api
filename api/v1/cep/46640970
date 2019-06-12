@@ -1,12 +1,13 @@
 {
-  "cep": "46640970",
-  "logradouro": "AC Ituaçu Praça da Bandeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ituaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46640970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ituaçu"
+    },
+    "ibge": 2917201,
+    "logradouro": "Praça da Bandeira, s\/n  AC Ituaçu;"
 }

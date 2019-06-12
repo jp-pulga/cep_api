@@ -1,12 +1,13 @@
 {
-  "cep": "45435970",
-  "logradouro": "AC Ituberá Rua Getúlio Vargas 225",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ituberá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45435970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ituberá"
+    },
+    "ibge": 2917300,
+    "logradouro": "Avenida Hildebrando Araújo Goes, s\/n  AC Ituberá;"
 }

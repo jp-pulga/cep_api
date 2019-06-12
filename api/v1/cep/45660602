@@ -1,12 +1,12 @@
 {
-  "cep": "45660602",
-  "logradouro": "Rua A (Lot A Milagres)",
-  "bairro": "Olivença",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Olivença;",
+    "cep": "45660602",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua A (Lot A Milagres);"
 }

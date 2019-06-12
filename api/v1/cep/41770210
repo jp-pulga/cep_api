@@ -1,12 +1,12 @@
 {
-  "cep": "41770210",
-  "logradouro": "Rua Mata de São João",
-  "bairro": "Stiep",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Stiep;",
+    "cep": "41770210",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Mata de São João;"
 }

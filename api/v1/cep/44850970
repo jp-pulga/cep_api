@@ -1,12 +1,13 @@
 {
-  "cep": "44850970",
-  "logradouro": "AC Morro do Chapéu Rua Coronel Dias Coelho 209",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morro do Chapéu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44850970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Morro do Chapéu"
+    },
+    "ibge": 2921708,
+    "logradouro": "Rua Coronel Dias Coelho, 209  AC Morro do Chapéu;"
 }

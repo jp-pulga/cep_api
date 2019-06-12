@@ -1,12 +1,13 @@
 {
-  "cep": "45204044",
-  "logradouro": "Rua José Augusto Barreto",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "45204044",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua José Augusto Barreto;"
 }

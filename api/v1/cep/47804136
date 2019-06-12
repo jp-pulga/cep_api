@@ -1,12 +1,12 @@
 {
-  "cep": "47804136",
-  "logradouro": "Rua Ibiaçu",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "47804136",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Ibiaçu;"
 }

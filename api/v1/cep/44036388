@@ -1,12 +1,12 @@
 {
-  "cep": "44036388",
-  "logradouro": "Rua Lauro de Freitas",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "44036388",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Lauro de Freitas;"
 }

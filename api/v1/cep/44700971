@@ -1,12 +1,13 @@
 {
-  "cep": "44700971",
-  "logradouro": "ACC I Coronel Teixeira Rua Coronel Teixeira 19",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacobina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44700971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jacobina"
+    },
+    "ibge": 2917508,
+    "logradouro": "Rua Coronel Teixeira, 19  ACCI Coronel Teixeira;"
 }

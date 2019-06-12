@@ -1,12 +1,13 @@
 {
-  "cep": "48850975",
-  "logradouro": "AGC Sítio dos Moços Rua do Campo s/n",
-  "bairro": "Sítio dos Moços",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sítio dos Moços;",
+    "cep": "48850975",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Rua do Campo, s\/n  AGC Sítio dos Moços;"
 }

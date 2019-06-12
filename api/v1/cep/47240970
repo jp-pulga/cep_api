@@ -1,12 +1,13 @@
 {
-  "cep": "47240970",
-  "logradouro": "AC Pilão Arcado Praça Coronel Franklin Lins 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pilão Arcado",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47240970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pilão Arcado"
+    },
+    "ibge": 2924405,
+    "logradouro": "Praça Coronel Franklin Lins, 26  AC Pilão Arcado;"
 }

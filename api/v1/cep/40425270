@@ -1,12 +1,12 @@
 {
-  "cep": "40425270",
-  "logradouro": "Rua Mirante do Bonfim",
-  "bairro": "Monte Serrat",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Monte Serrat;",
+    "cep": "40425270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Mirante do Bonfim;"
 }

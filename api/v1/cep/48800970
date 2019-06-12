@@ -1,12 +1,13 @@
 {
-  "cep": "48800970",
-  "logradouro": "AC Monte Santo Rua Teixeira de Freitas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Santo",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48800970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Monte Santo"
+    },
+    "ibge": 2921500,
+    "logradouro": "Rua Teixeira de Freitas, s\/n  AC Monte Santo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40415570",
-  "logradouro": "Travessa Lafayete Coutinho",
-  "bairro": "Bonfim",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bonfim;",
+    "cep": "40415570",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Lafayete Coutinho;"
 }

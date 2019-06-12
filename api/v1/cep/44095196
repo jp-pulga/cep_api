@@ -1,12 +1,12 @@
 {
-  "cep": "44095196",
-  "logradouro": "Rua Medeiros Neto",
-  "bairro": "Aviário",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Aviário;",
+    "cep": "44095196",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Medeiros Neto;"
 }

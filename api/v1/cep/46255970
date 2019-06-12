@@ -1,12 +1,13 @@
 {
-  "cep": "46255970",
-  "logradouro": "AC Maetinga Rua Exupério Lima 22",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maetinga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46255970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Maetinga"
+    },
+    "ibge": 2919959,
+    "logradouro": "Rua Exupério Lima, 22  AC Maetinga;"
 }

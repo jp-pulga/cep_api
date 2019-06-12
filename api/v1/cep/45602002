@@ -1,12 +1,12 @@
 {
-  "cep": "45602002",
-  "logradouro": "Rua Pau Brasil",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "45602002",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Pau Brasil;"
 }

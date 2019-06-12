@@ -1,12 +1,12 @@
 {
-  "cep": "45990794",
-  "logradouro": "Rua Maiquinique",
-  "bairro": "Jardim Caraípe",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Caraípe;",
+    "cep": "45990794",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Maiquinique;"
 }

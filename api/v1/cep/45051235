@@ -1,12 +1,12 @@
 {
-  "cep": "45051235",
-  "logradouro": "Avenida Paramirim de 1879/1880 a 2282/2283",
-  "bairro": "Brasil",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brasil;",
+    "cep": "45051235",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Paramirim - de 1879\/1880 a 2282\/2283;"
 }

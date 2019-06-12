@@ -1,12 +1,13 @@
 {
-  "cep": "45870972",
-  "logradouro": "AGC Teixeira do Progresso Rua Mascote s/n",
-  "bairro": "Teixeira do Progresso",
-  "cidade": {
-    "nome": "Mascote",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Teixeira do Progresso;",
+    "cep": "45870972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mascote"
+    },
+    "ibge": 2920908,
+    "logradouro": "Rua Mascote, s\/n  AGC Teixeira do Progresso;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46310970",
-  "logradouro": "AC Jacaraci Rua Doutor Anísio Teixeira 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacaraci",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46310970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jacaraci"
+    },
+    "ibge": 2917409,
+    "logradouro": "Rua Doutor Anísio Teixeira, 44  AC Jacaraci;"
 }

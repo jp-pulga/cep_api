@@ -1,12 +1,13 @@
 {
-  "cep": "44630970",
-  "logradouro": "AC Mairi Rua Nilo Rios 30",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mairi",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44630970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mairi"
+    },
+    "ibge": 2920106,
+    "logradouro": "Rua Nilo Rios, 30  AC Mairi;"
 }

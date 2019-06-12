@@ -1,12 +1,13 @@
 {
-  "cep": "44700973",
-  "logradouro": "ACS Paraíso Rua Santa Rosa de Lima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacobina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44700973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jacobina"
+    },
+    "ibge": 2917508,
+    "logradouro": "Rua Santa Rosa de Lima, s\/n  ACS Paraíso;"
 }

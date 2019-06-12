@@ -1,12 +1,12 @@
 {
-  "cep": "45994667",
-  "logradouro": "Rua Marquês de Olinda",
-  "bairro": "Nova Canaã",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Canaã;",
+    "cep": "45994667",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Marquês de Olinda;"
 }

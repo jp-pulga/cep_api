@@ -1,12 +1,12 @@
 {
-  "cep": "44034059",
-  "logradouro": "Rua Ituaçu",
-  "bairro": "Campo Limpo",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Campo Limpo;",
+    "cep": "44034059",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Ituaçu;"
 }

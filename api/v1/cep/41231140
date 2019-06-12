@@ -1,12 +1,12 @@
 {
-  "cep": "41231140",
-  "logradouro": "Travessa Monte Alegre",
-  "bairro": "Jardim Santo Inácio",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Santo Inácio;",
+    "cep": "41231140",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Monte Alegre;"
 }

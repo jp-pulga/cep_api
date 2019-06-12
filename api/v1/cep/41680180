@@ -1,12 +1,12 @@
 {
-  "cep": "41680180",
-  "logradouro": "Conjunto Piatã",
-  "bairro": "Patamares",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Patamares;",
+    "cep": "41680180",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Conjunto Piatã;"
 }

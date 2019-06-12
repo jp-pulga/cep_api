@@ -1,12 +1,13 @@
 {
-  "cep": "45270970",
-  "logradouro": "AC Nova Canaã Avenida Bernardino Rodrigues de Matos 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Canaã",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45270970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Canaã"
+    },
+    "ibge": 2922706,
+    "logradouro": "Avenida Bernardino Rodrigues de Matos, 80  AC Nova Canaã;"
 }

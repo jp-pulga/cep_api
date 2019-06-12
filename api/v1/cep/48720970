@@ -1,12 +1,13 @@
 {
-  "cep": "48720970",
-  "logradouro": "AC Lamarão Rua Deputado José da Silva Azi 54",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lamarão",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48720970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lamarão"
+    },
+    "ibge": 2919108,
+    "logradouro": "Rua Deputado José da Silva Azi, 54  AC Lamarão;"
 }

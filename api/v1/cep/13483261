@@ -1,12 +1,12 @@
 {
-  "cep": "13483261",
-  "logradouro": "Rua Aurora de Barros Monteiro Santos",
-  "bairro": "Jardim Morro Branco",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Morro Branco;",
+    "cep": "13483261",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Rua Aurora de Barros Monteiro Santos;"
 }

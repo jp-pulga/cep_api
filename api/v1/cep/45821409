@@ -1,12 +1,12 @@
 {
-  "cep": "45821409",
-  "logradouro": "Avenida Pau Brasil",
-  "bairro": "Colonial",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Colonial;",
+    "cep": "45821409",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Pau Brasil;"
 }

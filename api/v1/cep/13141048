@@ -1,12 +1,12 @@
 {
-  "cep": "13141048",
-  "logradouro": "Rua Antônio Barreto (Real Park Paulínia)",
-  "bairro": "Parque Brasil 500",
-  "cidade": {
-    "nome": "Paulínia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Brasil 500;",
+    "cep": "13141048",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Paulínia"
+    },
+    "logradouro": "Rua Antônio Barreto (Real Park Paulínia);"
 }

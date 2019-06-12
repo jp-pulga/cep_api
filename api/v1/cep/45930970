@@ -1,12 +1,13 @@
 {
-  "cep": "45930970",
-  "logradouro": "AC Mucuri Avenida Central 536",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mucuri",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45930970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mucuri"
+    },
+    "ibge": 2922003,
+    "logradouro": "Avenida Central, 536  AC Mucuri;"
 }

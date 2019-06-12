@@ -1,12 +1,12 @@
 {
-  "cep": "44009744",
-  "logradouro": "Rua Pau Brasil",
-  "bairro": "Calumbi",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Calumbi;",
+    "cep": "44009744",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Pau Brasil;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46460970",
-  "logradouro": "AC Palmas de Monte Alto Travessa Coronel Figueiredo 07",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palmas de Monte Alto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46460970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Palmas de Monte Alto"
+    },
+    "ibge": 2923407,
+    "logradouro": "Travessa Coronel Figueiredo, 07  AC Palmas de Monte Alto;"
 }

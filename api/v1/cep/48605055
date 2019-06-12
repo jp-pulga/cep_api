@@ -1,12 +1,13 @@
 {
-  "cep": "48605055",
-  "logradouro": "Avenida Antônio Carlos Magalhães",
-  "bairro": "Panorama",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Panorama;",
+    "cep": "48605055",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "ibge": 2924009,
+    "logradouro": "Avenida Antônio Carlos Magalhães;"
 }

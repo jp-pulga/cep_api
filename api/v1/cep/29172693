@@ -1,12 +1,12 @@
 {
-  "cep": "29172693",
-  "logradouro": "Rua Pernambuco",
-  "bairro": "Praia da Baleia",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia da Baleia;",
+    "cep": "29172693",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Pernambuco;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46500970",
-  "logradouro": "AC Macaúbas Rua Senhor do Bonfim s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Macaúbas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46500970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Macaúbas"
+    },
+    "ibge": 2919801,
+    "logradouro": "Rua Senhor do Bonfim, s\/n  AC Macaúbas;"
 }

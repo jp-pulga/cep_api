@@ -1,12 +1,13 @@
 {
-  "cep": "44718970",
-  "logradouro": "AC Ourolândia Praça José Prado Alves 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ourolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44718970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ourolândia"
+    },
+    "ibge": 2923357,
+    "logradouro": "Praça José Prado Alves, 80  AC Ourolândia;"
 }

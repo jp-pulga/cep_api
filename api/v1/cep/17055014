@@ -1,12 +1,12 @@
 {
-  "cep": "17055014",
-  "logradouro": "Travessa João Ferreira Dantas",
-  "bairro": "Residencial Jardim Jussara",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Jardim Jussara;",
+    "cep": "17055014",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Travessa João Ferreira Dantas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45200219",
-  "logradouro": "Rua Manoel Vitorino de 119 a 299 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45200219",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Manoel Vitorino - de 119 a 299 - lado ímpar;"
 }

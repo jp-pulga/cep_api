@@ -1,12 +1,12 @@
 {
-  "cep": "45992399",
-  "logradouro": "Rua Jaborandi",
-  "bairro": "Liberdade II",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Liberdade II;",
+    "cep": "45992399",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Jaborandi;"
 }

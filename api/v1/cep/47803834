@@ -1,12 +1,12 @@
 {
-  "cep": "47803834",
-  "logradouro": "Rua Lençóis",
-  "bairro": "Alphaville",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alphaville;",
+    "cep": "47803834",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Lençóis;"
 }

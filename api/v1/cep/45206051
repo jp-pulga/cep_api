@@ -1,12 +1,13 @@
 {
-  "cep": "45206051",
-  "logradouro": "Avenida César Borges",
-  "bairro": "Pompílio Sampaio",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pompílio Sampaio;",
+    "cep": "45206051",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Avenida César Borges;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45000730",
-  "logradouro": "Rua Nilo Peçanha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45000730",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Nilo Peçanha;"
 }

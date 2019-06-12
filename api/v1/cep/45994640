@@ -1,12 +1,12 @@
 {
-  "cep": "45994640",
-  "logradouro": "Avenida Presidente Getúlio Vargas",
-  "bairro": "Nova Canaã",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Canaã;",
+    "cep": "45994640",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Avenida Presidente Getúlio Vargas;"
 }

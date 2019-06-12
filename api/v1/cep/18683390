@@ -1,12 +1,12 @@
 {
-  "cep": "18683390",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Vila Marimbondo",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Marimbondo;",
+    "cep": "18683390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

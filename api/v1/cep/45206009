@@ -1,12 +1,13 @@
 {
-  "cep": "45206009",
-  "logradouro": "Rua da Banca até 115 - lado ímpar",
-  "bairro": "Pompílio Sampaio",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pompílio Sampaio;",
+    "cep": "45206009",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "ibge": 2918001,
+    "logradouro": "Rua da Banca - até 115 - lado ímpar;"
 }

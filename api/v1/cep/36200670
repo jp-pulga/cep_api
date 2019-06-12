@@ -1,12 +1,12 @@
 {
-  "cep": "36200670",
-  "logradouro": "Rua Antônio Milagres",
-  "bairro": "Carmo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carmo;",
+    "cep": "36200670",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Antônio Milagres;"
 }

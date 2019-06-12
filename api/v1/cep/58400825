@@ -1,12 +1,12 @@
 {
-  "cep": "58400825",
-  "logradouro": "Rua Silva Barbosa",
-  "bairro": "Monte Santo",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Monte Santo;",
+    "cep": "58400825",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Silva Barbosa;"
 }

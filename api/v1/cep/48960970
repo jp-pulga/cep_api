@@ -1,12 +1,13 @@
 {
-  "cep": "48960970",
-  "logradouro": "AC Jaguarari Praça Alfredo Viana 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaguarari",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48960970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jaguarari"
+    },
+    "ibge": 2917706,
+    "logradouro": "Praça Alfredo Viana, 14  AC Jaguarari;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46438970",
-  "logradouro": "AC Iuiu Praça do Mercado 371",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iuiu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46438970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Iuiu"
+    },
+    "ibge": 2917334,
+    "logradouro": "Praça do Mercado, 371  AC Iuiu;"
 }

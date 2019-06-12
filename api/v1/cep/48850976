@@ -1,12 +1,13 @@
 {
-  "cep": "48850976",
-  "logradouro": "AGC Bela Vista de Covas Fazenda Cajazeiras s/n",
-  "bairro": "Bela Vista de Covas",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bela Vista de Covas;",
+    "cep": "48850976",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Fazenda Cajazeiras, s\/n  AGC Bela Vista de Covas;"
 }

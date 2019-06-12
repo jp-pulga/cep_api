@@ -1,12 +1,12 @@
 {
-  "cep": "17055002",
-  "logradouro": "Rua Fortunato Resta de Quadra 11 ao fim",
-  "bairro": "Residencial Jardim Jussara",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Jardim Jussara;",
+    "cep": "17055002",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Fortunato Resta - de Quadra 11 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45988554",
-  "logradouro": "Rua Lafaiete Coutinho",
-  "bairro": "Caminho do Mar",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caminho do Mar;",
+    "cep": "45988554",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Lafaiete Coutinho;"
 }

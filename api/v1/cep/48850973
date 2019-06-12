@@ -1,12 +1,13 @@
 {
-  "cep": "48850973",
-  "logradouro": "AGC Cacimba Rua da Igreja s/n",
-  "bairro": "Cacimba",
-  "cidade": {
-    "nome": "Itiúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cacimba;",
+    "cep": "48850973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiúba"
+    },
+    "ibge": 2917003,
+    "logradouro": "Rua da Igreja, s\/n  AGC Cacimba;"
 }

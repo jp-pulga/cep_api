@@ -1,12 +1,12 @@
 {
-  "cep": "44088336",
-  "logradouro": "Rua São Vicente de Paula",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "44088336",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua São Vicente de Paula;"
 }

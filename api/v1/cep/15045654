@@ -1,12 +1,12 @@
 {
-  "cep": "15045654",
-  "logradouro": "Rua Projetada 22",
-  "bairro": "Setparque Avenida 2",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Setparque Avenida 2;",
+    "cep": "15045654",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Apparecida Bartolomeu Nazareth;"
 }

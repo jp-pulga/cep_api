@@ -1,12 +1,12 @@
 {
-  "cep": "45604086",
-  "logradouro": "Rua Felícia de Novaes",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "45604086",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Felícia de Novaes;"
 }

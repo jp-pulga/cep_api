@@ -1,12 +1,13 @@
 {
-  "cep": "44745970",
-  "logradouro": "AC Mirangaba Rua Rocha Pires 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mirangaba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44745970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Mirangaba"
+    },
+    "ibge": 2921401,
+    "logradouro": "Rua Rocha Pires, 25  AC Mirangaba;"
 }

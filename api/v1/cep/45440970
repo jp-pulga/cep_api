@@ -1,12 +1,13 @@
 {
-  "cep": "45440970",
-  "logradouro": "AC Nilo Peçanha Rua Sete de Setembro 46",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nilo Peçanha",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45440970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nilo Peçanha"
+    },
+    "ibge": 2922607,
+    "logradouro": "Rua Sete de Setembro, 46  AC Nilo Peçanha;"
 }

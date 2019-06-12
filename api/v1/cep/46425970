@@ -1,12 +1,13 @@
 {
-  "cep": "46425970",
-  "logradouro": "AC Lagoa Real Avenida Real 105",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa Real",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46425970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lagoa Real"
+    },
+    "ibge": 2918753,
+    "logradouro": "Avenida Real, 105  AC Lagoa Real;"
 }

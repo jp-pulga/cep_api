@@ -1,12 +1,13 @@
 {
-  "cep": "48650970",
-  "logradouro": "AC Macururé Avenida Antônio Carlos Magalhães 464",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Macururé",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48650970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Macururé"
+    },
+    "ibge": 2919900,
+    "logradouro": "Avenida Antônio Carlos Magalhães, 464  AC Macururé;"
 }

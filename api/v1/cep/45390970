@@ -1,12 +1,13 @@
 {
-  "cep": "45390970",
-  "logradouro": "AC Nova Itarana Praça do Comércio 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Itarana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45390970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Nova Itarana"
+    },
+    "ibge": 2922805,
+    "logradouro": "Praça do Comércio, 25  AC Nova Itarana;"
 }

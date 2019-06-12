@@ -1,12 +1,13 @@
 {
-  "cep": "44905971",
-  "logradouro": "AGC Aguada Nova Praça Antônio Carlos Magalhães 33",
-  "bairro": "Aguada Nova",
-  "cidade": {
-    "nome": "Lapão",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Aguada Nova;",
+    "cep": "44905971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Lapão"
+    },
+    "ibge": 2919157,
+    "logradouro": "Praça Antônio Carlos Magalhães, 33  AGC Aguada Nova;"
 }

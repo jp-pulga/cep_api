@@ -1,12 +1,12 @@
 {
-  "cep": "40040140",
-  "logradouro": "Rua do Bângala",
-  "bairro": "Nazaré",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nazaré;",
+    "cep": "40040140",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua do Bângala;"
 }

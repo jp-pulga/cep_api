@@ -1,12 +1,12 @@
 {
-  "cep": "44095038",
-  "logradouro": "Rua Madre de Deus",
-  "bairro": "Aviário",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Aviário;",
+    "cep": "44095038",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Madre de Deus;"
 }

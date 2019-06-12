@@ -1,12 +1,12 @@
 {
-  "cep": "45656666",
-  "logradouro": "Rua Nova Canaã",
-  "bairro": "Hernani Sá",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Hernani Sá;",
+    "cep": "45656666",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Nova Canaã;"
 }

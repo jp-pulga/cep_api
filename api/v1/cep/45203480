@@ -1,12 +1,12 @@
 {
-  "cep": "45203480",
-  "logradouro": "Rua Jitaúna",
-  "bairro": "Caixa D'Água",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caixa D'Água;",
+    "cep": "45203480",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Jitaúna;"
 }
