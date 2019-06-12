@@ -1,12 +1,12 @@
 {
-  "cep": "89165466",
-  "logradouro": "Rua Vidal Ramos",
-  "bairro": "Budag",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Budag;",
+    "cep": "89165466",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Vidal Ramos;"
 }

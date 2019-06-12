@@ -1,12 +1,12 @@
 {
-  "cep": "89206200",
-  "logradouro": "Rua São Miguel",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "89206200",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua São Miguel;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89190970",
-  "logradouro": "AC Taió Rua Coronel Feddersen 609",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taió",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89190970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Taió"
+    },
+    "ibge": 4217808,
+    "logradouro": "Rua Coronel Feddersen, 609  AC Taió;"
 }

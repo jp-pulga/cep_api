@@ -1,12 +1,12 @@
 {
-  "cep": "89292105",
-  "logradouro": "Rua Francisco Nossol",
-  "bairro": "Serra Alta",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serra Alta;",
+    "cep": "89292105",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco Nossol;"
 }

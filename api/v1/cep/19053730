@@ -1,12 +1,12 @@
 {
-  "cep": "19053730",
-  "logradouro": "Alameda Euclides de Castro",
-  "bairro": "Village Damha Presidente Prudente",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Village Damha Presidente Prudente;",
+    "cep": "19053730",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Alameda Euclides de Castro;"
 }

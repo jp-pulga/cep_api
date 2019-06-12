@@ -1,12 +1,12 @@
 {
-  "cep": "89206260",
-  "logradouro": "Rua Romelândia",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "89206260",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Romelândia;"
 }

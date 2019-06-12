@@ -1,12 +1,13 @@
 {
-  "cep": "88704530",
-  "logradouro": "Avenida Expedicionário José Pedro Coelho de 1160/1161 a 1199/1200",
-  "bairro": "Revoredo",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Revoredo;",
+    "cep": "88704530",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Expedicionário José Pedro Coelho - de 1160\/1161 a 1199\/1200;"
 }

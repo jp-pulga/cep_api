@@ -1,12 +1,12 @@
 {
-  "cep": "15047299",
-  "logradouro": "Rua Antonio Martins (Contente)",
-  "bairro": "Residencial Colorado",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Colorado;",
+    "cep": "15047299",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Antonio Martins (Contente);"
 }

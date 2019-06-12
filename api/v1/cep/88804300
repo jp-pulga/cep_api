@@ -1,12 +1,12 @@
 {
-  "cep": "88804300",
-  "logradouro": "Avenida Victor Meireles de 817/818 ao fim",
-  "bairro": "Santa Bárbara",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Bárbara;",
+    "cep": "88804300",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Avenida Vítor Meirelles - de 817\/818 ao fim;"
 }

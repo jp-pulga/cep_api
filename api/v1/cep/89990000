@@ -1,12 +1,11 @@
 {
-  "cep": "89990000",
-  "logradouro": "São Lourenço do Oeste",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Lourenço do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89990000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Lourenço do Oeste"
+    },
+    "ibge": 4216909
 }

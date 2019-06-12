@@ -1,12 +1,12 @@
 {
-  "cep": "89282400",
-  "logradouro": "Rua João Adolfo Sanson",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "89282400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Adolfo Sanson;"
 }

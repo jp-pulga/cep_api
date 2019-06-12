@@ -1,12 +1,12 @@
 {
-  "cep": "88134210",
-  "logradouro": "Rua Porto União",
-  "bairro": "Barra do Aririú",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra do Aririú;",
+    "cep": "88134210",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Porto União;"
 }

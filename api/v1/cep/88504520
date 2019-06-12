@@ -1,12 +1,12 @@
 {
-  "cep": "88504520",
-  "logradouro": "Rua Lindo Cucco",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504520",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Lindo Cucco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88370906",
-  "logradouro": "ICE PORT Avenida Portuária Vicente Coelho 55",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "88370906",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Avenida Portuária Vicente Coelho, 55  ICE PORT;"
 }

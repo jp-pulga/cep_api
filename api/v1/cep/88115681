@@ -1,12 +1,12 @@
 {
-  "cep": "88115681",
-  "logradouro": "Travessa Taió",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "88115681",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Travessa Taió;"
 }

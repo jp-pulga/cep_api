@@ -1,12 +1,11 @@
 {
-  "cep": "88470000",
-  "logradouro": "Rancho Queimado",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rancho Queimado",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88470000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rancho Queimado"
+    },
+    "ibge": 4214300
 }

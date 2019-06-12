@@ -1,12 +1,12 @@
 {
-  "cep": "89237713",
-  "logradouro": "Rua Presidente Nereu",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "89237713",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Presidente Nereu;"
 }

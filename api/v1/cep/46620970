@@ -1,12 +1,12 @@
 {
-  "cep": "46620970",
-  "logradouro": "AC Contendas do Sincorá Praça Doutor Rivadávia Correia 38",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Contendas do Sincorá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46620970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Contendas do Sincorá"
+    },
+    "logradouro": "Praça Doutor Rivadávia Correia, 38  AC Contendas do Sincorá;"
 }

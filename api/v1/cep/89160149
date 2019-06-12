@@ -1,12 +1,13 @@
 {
-  "cep": "89160149",
-  "logradouro": "Alameda Aristiliano Ramos até 193/194",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89160149",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "ibge": 4214805,
+    "logradouro": "Alameda Aristiliano Ramos - até 193\/194;"
 }

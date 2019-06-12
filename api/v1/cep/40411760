@@ -1,12 +1,12 @@
 {
-  "cep": "40411760",
-  "logradouro": "Rua Praia do Cantagalo",
-  "bairro": "Calçada",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Calçada;",
+    "cep": "40411760",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Praia do Cantagalo;"
 }

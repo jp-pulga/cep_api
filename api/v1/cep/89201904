@@ -1,12 +1,12 @@
 {
-  "cep": "89201904",
-  "logradouro": "Edifício Príncipe Rua Princesa Izabel 238",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89201904",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Princesa Izabel, 238  Edifício Príncipe;"
 }

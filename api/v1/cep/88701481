@@ -1,12 +1,13 @@
 {
-  "cep": "88701481",
-  "logradouro": "Avenida Pedro Zapelini de 1120 a 2198 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88701481",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Pedro Zapelini - de 1120 a 2198 - lado par;"
 }

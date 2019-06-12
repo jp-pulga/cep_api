@@ -1,12 +1,12 @@
 {
-  "cep": "89287010",
-  "logradouro": "Rua João Hinke",
-  "bairro": "Rio Negro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Negro;",
+    "cep": "89287010",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Hinke;"
 }

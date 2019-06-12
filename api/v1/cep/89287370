@@ -1,12 +1,13 @@
 {
-  "cep": "89287370",
-  "logradouro": "Avenida São Bento de 374 a 902 - lado par",
-  "bairro": "Rio Negro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Negro;",
+    "cep": "89287370",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "ibge": 4215802,
+    "logradouro": "Avenida São Bento - de 374 a 902 - lado par;"
 }

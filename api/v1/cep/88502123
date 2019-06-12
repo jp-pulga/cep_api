@@ -1,12 +1,12 @@
 {
-  "cep": "88502123",
-  "logradouro": "Rua Vidal Ramos Júnior de 201/202 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88502123",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Vidal Ramos Júnior - de 201\/202 ao fim;"
 }

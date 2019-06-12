@@ -1,12 +1,12 @@
 {
-  "cep": "13432609",
-  "logradouro": "Estrada Professor Wladir Ducatti (Jardim Colorado)",
-  "bairro": "Colinas do Piracicaba (Ártemis)",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Colinas do Piracicaba (Ártemis);",
+    "cep": "13432609",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Estrada Professor Wladir Ducatti (Jardim Colorado);"
 }

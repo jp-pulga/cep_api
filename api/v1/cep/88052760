@@ -1,12 +1,12 @@
 {
-  "cep": "88052760",
-  "logradouro": "Rodovia Francisco Germano da Costa",
-  "bairro": "Vargem Pequena",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Pequena;",
+    "cep": "88052760",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rodovia Francisco Germano da Costa;"
 }

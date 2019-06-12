@@ -1,12 +1,12 @@
 {
-  "cep": "14056071",
-  "logradouro": "Rua Doutor Galdós Ângulo",
-  "bairro": "Jardim José Wilson Toni",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim José Wilson Toni;",
+    "cep": "14056071",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Doutor Galdós Ângulo;"
 }

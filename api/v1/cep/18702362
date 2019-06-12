@@ -1,12 +1,12 @@
 {
-  "cep": "18702362",
-  "logradouro": "Rua Professor Azurara",
-  "bairro": "Jardim Bom Sucesso II",
-  "cidade": {
-    "nome": "Avaré",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bom Sucesso II;",
+    "cep": "18702362",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Avaré"
+    },
+    "logradouro": "Rua Professor Azurara;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89230068",
-  "logradouro": "Rua São Francisco do Sul",
-  "bairro": "Jarivatuba",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jarivatuba;",
+    "cep": "89230068",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua São Francisco do Sul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88123090",
-  "logradouro": "Rua Cecília S. Piai",
-  "bairro": "Colônia Santana",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Colônia Santana;",
+    "cep": "88123090",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Cecília S. Piai;"
 }

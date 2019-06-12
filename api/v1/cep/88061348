@@ -1,12 +1,12 @@
 {
-  "cep": "88061348",
-  "logradouro": "Servidão Porto Belo",
-  "bairro": "Barra da Lagoa",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra da Lagoa;",
+    "cep": "88061348",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Porto Belo;"
 }

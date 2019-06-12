@@ -1,12 +1,12 @@
 {
-  "cep": "88370027",
-  "logradouro": "Servidão Joaquim Juveniano Emilio",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "88370027",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Servidão Joaquim Juveniano Emilio;"
 }

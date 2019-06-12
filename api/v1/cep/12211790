@@ -1,12 +1,12 @@
 {
-  "cep": "12211790",
-  "logradouro": "Praça Bandeirantes",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "12211790",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Praça Bandeirantes;"
 }

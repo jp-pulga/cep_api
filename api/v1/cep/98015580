@@ -1,12 +1,12 @@
 {
-  "cep": "98015580",
-  "logradouro": "Rua Antônio Scarpelini",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "98015580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Antônio Scarpelini;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "11709210",
-  "logradouro": "Rua Afonso Schimidt",
-  "bairro": "Solemar",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Solemar;",
+    "cep": "11709210",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Rua Afonso Schimidt;"
 }

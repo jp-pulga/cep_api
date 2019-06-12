@@ -1,12 +1,13 @@
 {
-  "cep": "89675972",
-  "logradouro": "AGC Campina da Alegria Rua E s/n",
-  "bairro": "Campina da Alegria",
-  "cidade": {
-    "nome": "Vargem Bonita",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campina da Alegria;",
+    "cep": "89675972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Vargem Bonita"
+    },
+    "ibge": 4219176,
+    "logradouro": "Rua Araucária, 16  AGC Campina da Alegria;"
 }

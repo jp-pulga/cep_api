@@ -1,12 +1,13 @@
 {
-  "cep": "89293899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de São Bento do Sul",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Área Rural de São Bento do Sul;",
+    "cep": "89293899",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "ibge": 4215802,
+    "logradouro": "Área Rural;"
 }

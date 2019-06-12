@@ -1,12 +1,12 @@
 {
-  "cep": "30411255",
-  "logradouro": "Rua Contendas até 149/150",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "30411255",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Contendas - até 149\/150;"
 }

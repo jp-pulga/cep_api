@@ -1,12 +1,12 @@
 {
-  "cep": "89232302",
-  "logradouro": "Avenida Paulo Schroeder de 1051/1052 a 1550/1551",
-  "bairro": "Boehmerwald",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boehmerwald;",
+    "cep": "89232302",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Avenida Paulo Schroeder - de 1051\/1052 a 1550\/1551;"
 }

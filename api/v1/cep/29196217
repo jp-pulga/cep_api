@@ -1,12 +1,12 @@
 {
-  "cep": "29196217",
-  "logradouro": "Rua Monsenhor Guilherme Schmitz",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "29196217",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Monsenhor Guilherme Schmitz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29104725",
-  "logradouro": "Rua Rubens Salles Primo",
-  "bairro": "Jardim Colorado",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Colorado;",
+    "cep": "29104725",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Rubens Salles Primo;"
 }

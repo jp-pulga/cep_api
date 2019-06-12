@@ -1,12 +1,13 @@
 {
-  "cep": "89845970",
-  "logradouro": "AC União do Oeste Rua Concórdia 650",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "União do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89845970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "União do Oeste"
+    },
+    "ibge": 4218855,
+    "logradouro": "Rua Concórdia, 650  AC União do Oeste;"
 }

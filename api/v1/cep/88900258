@@ -1,12 +1,12 @@
 {
-  "cep": "88900258",
-  "logradouro": "Rua Sombrio",
-  "bairro": "Vila São José",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila São José;",
+    "cep": "88900258",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Rua Sombrio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89281018",
-  "logradouro": "Rua Francisco Jelinsky",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89281018",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco Jelinsky;"
 }

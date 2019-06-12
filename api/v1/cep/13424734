@@ -1,12 +1,12 @@
 {
-  "cep": "13424734",
-  "logradouro": "Rua Professora Maria Apparecida Bonilha Santarelli (Jardim Califórnia)",
-  "bairro": "Residencial Bertolucci",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Bertolucci;",
+    "cep": "13424734",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Professora Maria Apparecida Bonilha Santarelli (Jardim Califórnia);"
 }

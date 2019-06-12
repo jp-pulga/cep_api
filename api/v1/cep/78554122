@@ -1,12 +1,12 @@
 {
-  "cep": "78554122",
-  "logradouro": "Rua Projetada R",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "78554122",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "logradouro": "Rua Projetada R;"
 }

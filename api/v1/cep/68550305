@@ -1,12 +1,12 @@
 {
-  "cep": "68550305",
-  "logradouro": "Rua Nova Prata",
-  "bairro": "Alto Paraná",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Alto Paraná;",
+    "cep": "68550305",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "logradouro": "Rua Nova Prata;"
 }

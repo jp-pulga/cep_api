@@ -1,12 +1,12 @@
 {
-  "cep": "88160480",
-  "logradouro": "Rua Victor Meireles",
-  "bairro": "Morro da Bina",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morro da Bina;",
+    "cep": "88160480",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "logradouro": "Rua Victor Meireles;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89683970",
-  "logradouro": "AC Ponte Serrada Rua Frei Caetano 222",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Serrada",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89683970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ponte Serrada"
+    },
+    "ibge": 4213401,
+    "logradouro": "Rua Frei Caetano, 468  AC Ponte Serrada;"
 }

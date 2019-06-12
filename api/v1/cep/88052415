@@ -1,12 +1,12 @@
 {
-  "cep": "88052415",
-  "logradouro": "Servidão Adelço Alfredo da Silva",
-  "bairro": "Vargem Pequena",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Pequena;",
+    "cep": "88052415",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Adelço Alfredo da Silva;"
 }

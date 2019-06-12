@@ -1,12 +1,12 @@
 {
-  "cep": "88106438",
-  "logradouro": "Rua da Saudade",
-  "bairro": "Flor de Nápolis",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Flor de Nápolis;",
+    "cep": "88106438",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua da Saudade;"
 }

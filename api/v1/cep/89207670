@@ -1,12 +1,12 @@
 {
-  "cep": "89207670",
-  "logradouro": "Rua Vidal Ramos",
-  "bairro": "Guanabara",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Guanabara;",
+    "cep": "89207670",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Vidal Ramos;"
 }

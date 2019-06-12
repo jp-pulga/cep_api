@@ -1,12 +1,12 @@
 {
-  "cep": "45604436",
-  "logradouro": "Rua Principal",
-  "bairro": "Nova Califórnia",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Califórnia;",
+    "cep": "45604436",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Principal;"
 }

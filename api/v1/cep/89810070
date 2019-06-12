@@ -1,12 +1,12 @@
 {
-  "cep": "89810070",
-  "logradouro": "Rua Pouso Redondo",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "89810070",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Pouso Redondo;"
 }

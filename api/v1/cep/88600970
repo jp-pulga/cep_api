@@ -1,12 +1,13 @@
 {
-  "cep": "88600970",
-  "logradouro": "AC São Joaquim Rua Marcos Batista 520",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Joaquim",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88600970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Joaquim"
+    },
+    "ibge": 4216503,
+    "logradouro": "Rua Marcos Batista, 520  AC São Joaquim;"
 }

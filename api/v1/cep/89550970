@@ -1,12 +1,13 @@
 {
-  "cep": "89550970",
-  "logradouro": "AC Rio das Antas Rua do Comércio 940",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio das Antas",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89550970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio das Antas"
+    },
+    "ibge": 4214409,
+    "logradouro": "Rua do Comércio, 940  AC Rio das Antas;"
 }

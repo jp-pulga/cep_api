@@ -1,12 +1,13 @@
 {
-  "cep": "88990971",
-  "logradouro": "AGC Cachoeira de Fátima Estrada Geral Cachoeira de Fátima",
-  "bairro": "Cachoeira de Fátima",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cachoeira de Fátima;",
+    "cep": "88990971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Praia Grande"
+    },
+    "ibge": 4213807,
+    "logradouro": "Estrada Geral Cachoeira de Fátima  AGC Cachoeira de Fátima;"
 }

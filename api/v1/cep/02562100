@@ -1,12 +1,12 @@
 {
-  "cep": "02562100",
-  "logradouro": "Rua Professor Nilceu Marques de Castro",
-  "bairro": "Vila Santa Maria",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Maria;",
+    "cep": "02562100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Nilceu Marques de Castro;"
 }

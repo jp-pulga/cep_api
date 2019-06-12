@@ -1,12 +1,12 @@
 {
-  "cep": "88801130",
-  "logradouro": "Rua Princesa Isabel",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88801130",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Princesa Isabel;"
 }

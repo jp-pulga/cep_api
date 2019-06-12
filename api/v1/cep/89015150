@@ -1,12 +1,12 @@
 {
-  "cep": "89015150",
-  "logradouro": "Rua Victor Meireles",
-  "bairro": "Ribeirão Fresco",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ribeirão Fresco;",
+    "cep": "89015150",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Victor Meireles;"
 }

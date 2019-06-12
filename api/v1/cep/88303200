@@ -1,12 +1,12 @@
 {
-  "cep": "88303200",
-  "logradouro": "Rua Carlos Seara",
-  "bairro": "Vila Operária",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Operária;",
+    "cep": "88303200",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Carlos Seara;"
 }

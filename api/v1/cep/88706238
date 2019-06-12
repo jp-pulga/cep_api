@@ -1,12 +1,13 @@
 {
-  "cep": "88706238",
-  "logradouro": "Avenida Manoel Tobias",
-  "bairro": "Passo do Gado",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passo do Gado;",
+    "cep": "88706238",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Manoel Tobias;"
 }

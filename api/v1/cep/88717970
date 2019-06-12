@@ -1,12 +1,13 @@
 {
-  "cep": "88717970",
-  "logradouro": "AC Sangão Rua Vinte e Sete de Setembro 633",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sangão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88717970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Sangão"
+    },
+    "ibge": 4215455,
+    "logradouro": "Rua Vinte e Sete de Setembro, 633  AC Sangão;"
 }

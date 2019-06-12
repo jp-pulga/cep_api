@@ -1,12 +1,12 @@
 {
-  "cep": "33035280",
-  "logradouro": "Rua Presidente Campos Sales",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "33035280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Presidente Campos Sales;"
 }

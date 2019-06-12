@@ -1,12 +1,12 @@
 {
-  "cep": "89041480",
-  "logradouro": "Rua Trombudo Central",
-  "bairro": "Água Verde",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Água Verde;",
+    "cep": "89041480",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Trombudo Central;"
 }

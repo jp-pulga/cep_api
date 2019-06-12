@@ -1,12 +1,13 @@
 {
-  "cep": "88940970",
-  "logradouro": "AC Timbé do Sul Rua Hercílio Fontanella 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Timbé do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88940970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Timbé do Sul"
+    },
+    "ibge": 4218103,
+    "logradouro": "Rua Hercílio Fontanella, 21  AC Timbé do Sul;"
 }

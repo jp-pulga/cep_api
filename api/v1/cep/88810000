@@ -1,12 +1,12 @@
 {
-  "cep": "88810000",
-  "logradouro": "Rua Urussanga lado par",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "88810000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Urussanga - lado par;"
 }

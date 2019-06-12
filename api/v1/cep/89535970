@@ -1,12 +1,13 @@
 {
-  "cep": "89535970",
-  "logradouro": "AC Ponte Alta do Norte Avenida Anercindo da Silva Calomeno 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Alta do Norte",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89535970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ponte Alta do Norte"
+    },
+    "ibge": 4213351,
+    "logradouro": "Avenida Anercindo da Silva Calomeno, 20  AC Ponte Alta do Norte;"
 }

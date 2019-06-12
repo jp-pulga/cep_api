@@ -1,12 +1,13 @@
 {
-  "cep": "88625970",
-  "logradouro": "AC Urupema Rua Arthur Pagani 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Urupema",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88625970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Urupema"
+    },
+    "ibge": 4218954,
+    "logradouro": "Rua Arthur Pagani, 40  AC Urupema;"
 }

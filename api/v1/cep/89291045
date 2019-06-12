@@ -1,12 +1,12 @@
 {
-  "cep": "89291045",
-  "logradouro": "Rua Alfredo Mühlbauer",
-  "bairro": "Serra Alta",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serra Alta;",
+    "cep": "89291045",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Alfredo Mühlbauer;"
 }

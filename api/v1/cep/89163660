@@ -1,12 +1,12 @@
 {
-  "cep": "89163660",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89163660",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua São Francisco;"
 }

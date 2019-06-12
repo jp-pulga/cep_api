@@ -1,12 +1,12 @@
 {
-  "cep": "64202740",
-  "logradouro": "Avenida Primeiro de Maio",
-  "bairro": "Cantagalo",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Cantagalo;",
+    "cep": "64202740",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Avenida Primeiro de Maio;"
 }

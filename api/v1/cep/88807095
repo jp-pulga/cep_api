@@ -1,12 +1,12 @@
 {
-  "cep": "88807095",
-  "logradouro": "Rua João Batista Alves",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "88807095",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua João Batista Alves;"
 }

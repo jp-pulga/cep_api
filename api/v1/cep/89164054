@@ -1,12 +1,12 @@
 {
-  "cep": "89164054",
-  "logradouro": "Rua Princesa Isabel de 425/426 ao fim",
-  "bairro": "Canoas",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Canoas;",
+    "cep": "89164054",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Princesa Isabel - de 425\/426 ao fim;"
 }

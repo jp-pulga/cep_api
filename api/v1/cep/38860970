@@ -1,12 +1,12 @@
 {
-  "cep": "38860970",
-  "logradouro": "AC Arapuá Praça São João Batista 84",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arapuá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38860970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arapuá"
+    },
+    "logradouro": "Praça São João Batista, 84  AC Arapuá;"
 }

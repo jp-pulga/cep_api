@@ -1,12 +1,12 @@
 {
-  "cep": "03283230",
-  "logradouro": "Praça Mauro César Colombo",
-  "bairro": "Vila Ema",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Ema;",
+    "cep": "03283230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Mauro César Colombo;"
 }

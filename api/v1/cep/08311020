@@ -1,12 +1,12 @@
 {
-  "cep": "08311020",
-  "logradouro": "Rua Yonne Josepha Schaeberle",
-  "bairro": "Parque São Rafael",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Rafael;",
+    "cep": "08311020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Yonne Josepha Schaeberle;"
 }

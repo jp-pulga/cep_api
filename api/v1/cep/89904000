@@ -1,12 +1,11 @@
 {
-  "cep": "89904000",
-  "logradouro": "Prata (São Miguel do Oeste)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Prata (São Miguel do Oeste)",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89904000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Miguel do Oeste"
+    },
+    "ibge": 4217204
 }

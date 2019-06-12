@@ -1,12 +1,12 @@
 {
-  "cep": "88301550",
-  "logradouro": "Rua Treze de Maio",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88301550",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Treze de Maio;"
 }

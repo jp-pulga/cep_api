@@ -1,12 +1,12 @@
 {
-  "cep": "88808073",
-  "logradouro": "Rua João Batista Cordeiro",
-  "bairro": "São Defende",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Defende;",
+    "cep": "88808073",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua João Batista Cordeiro;"
 }

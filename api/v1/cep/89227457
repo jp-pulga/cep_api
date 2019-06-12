@@ -1,12 +1,12 @@
 {
-  "cep": "89227457",
-  "logradouro": "Rua Rudolpho Schroeder",
-  "bairro": "Iririú",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Iririú;",
+    "cep": "89227457",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Rudolpho Schroeder;"
 }

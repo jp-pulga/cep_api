@@ -1,12 +1,12 @@
 {
-  "cep": "88056598",
-  "logradouro": "Rua Ilha dos Moleques",
-  "bairro": "Vargem do Bom Jesus",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem do Bom Jesus;",
+    "cep": "88056598",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Ilha dos Moleques;"
 }

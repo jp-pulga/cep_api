@@ -1,12 +1,13 @@
 {
-  "cep": "89908970",
-  "logradouro": "AC Romelândia Rua Sete de Setembro 213",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Romelândia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89908970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Romelândia"
+    },
+    "ibge": 4215208,
+    "logradouro": "Rua Sete de Setembro, 213  AC Romelândia;"
 }

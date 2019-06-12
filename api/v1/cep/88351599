@@ -1,12 +1,12 @@
 {
-  "cep": "88351599",
-  "logradouro": "Rua SP 014",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "88351599",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Domingos Fantini;"
 }

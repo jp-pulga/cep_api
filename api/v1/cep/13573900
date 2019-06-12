@@ -1,12 +1,12 @@
 {
-  "cep": "13573900",
-  "logradouro": "São Carlos Science Park Rodovia Luiz Augusto de Oliveira km 1488",
-  "bairro": "Parque Técnológico",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Técnológico;",
+    "cep": "13573900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rodovia Luiz Augusto de Oliveira, km 148,8  São Carlos Science Park;"
 }

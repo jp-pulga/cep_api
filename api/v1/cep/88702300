@@ -1,12 +1,13 @@
 {
-  "cep": "88702300",
-  "logradouro": "Avenida Pedro Zapelini de 2200 ao fim - lado par",
-  "bairro": "Oficinas",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Oficinas;",
+    "cep": "88702300",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Pedro Zapelini - de 2200 ao fim - lado par;"
 }

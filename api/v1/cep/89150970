@@ -1,12 +1,13 @@
 {
-  "cep": "89150970",
-  "logradouro": "AC Presidente Getúlio Travessa Luiz Rigo 95",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Getúlio",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89150970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Presidente Getúlio"
+    },
+    "ibge": 4214003,
+    "logradouro": "Travessa Luiz Rigo, 95  AC Presidente Getúlio;"
 }

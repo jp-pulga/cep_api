@@ -1,12 +1,12 @@
 {
-  "cep": "88708840",
-  "logradouro": "Rua Antônio Alves dos Santos",
-  "bairro": "São Martinho",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Martinho;",
+    "cep": "88708840",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Antônio Alves dos Santos;"
 }

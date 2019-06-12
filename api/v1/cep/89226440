@@ -1,12 +1,12 @@
 {
-  "cep": "89226440",
-  "logradouro": "Rua Lauro Schroeder",
-  "bairro": "Aventureiro",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Aventureiro;",
+    "cep": "89226440",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Lauro Schroeder;"
 }

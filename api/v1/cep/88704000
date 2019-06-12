@@ -1,12 +1,13 @@
 {
-  "cep": "88704000",
-  "logradouro": "Avenida José Acácio Moreira até 359 - lado esquerdo",
-  "bairro": "Morrotes",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morrotes;",
+    "cep": "88704000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida José Acácio Moreira - até 358\/359;"
 }

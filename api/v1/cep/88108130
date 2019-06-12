@@ -1,12 +1,12 @@
 {
-  "cep": "88108130",
-  "logradouro": "Rua Joaquim Fernando da Silva",
-  "bairro": "Roçado",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Roçado;",
+    "cep": "88108130",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Fernando Joaquim da Silva Filho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89162172",
-  "logradouro": "Rua João Krieger",
-  "bairro": "Valada São Paulo",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Valada São Paulo;",
+    "cep": "89162172",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua João Krieger;"
 }

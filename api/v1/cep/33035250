@@ -1,12 +1,12 @@
 {
-  "cep": "33035250",
-  "logradouro": "Rua Presidente Afonso Pena",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "33035250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Presidente Afonso Pena;"
 }

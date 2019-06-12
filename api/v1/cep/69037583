@@ -1,12 +1,12 @@
 {
-  "cep": "69037583",
-  "logradouro": "Rua Professor Castro Figueiredo",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "69037583",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Professor Castro Figueiredo;"
 }

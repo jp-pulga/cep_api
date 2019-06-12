@@ -1,12 +1,12 @@
 {
-  "cep": "89012420",
-  "logradouro": "Rua São Joaquim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89012420",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua São Joaquim;"
 }

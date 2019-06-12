@@ -1,12 +1,12 @@
 {
-  "cep": "04258000",
-  "logradouro": "Rua Professor Zeferino Vaz",
-  "bairro": "Vila Arapuã",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Arapuã;",
+    "cep": "04258000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Zeferino Vaz;"
 }

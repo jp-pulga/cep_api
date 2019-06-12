@@ -1,12 +1,12 @@
 {
-  "cep": "89280322",
-  "logradouro": "Rua Francisco Engel",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89280322",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco Engel;"
 }

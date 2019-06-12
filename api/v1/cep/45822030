@@ -1,12 +1,12 @@
 {
-  "cep": "45822030",
-  "logradouro": "Praça Bandeirante",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "45822030",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Praça Bandeirante;"
 }

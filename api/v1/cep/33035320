@@ -1,12 +1,12 @@
 {
-  "cep": "33035320",
-  "logradouro": "Rua Presidente Getúlio Vargas",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "33035320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Presidente Getúlio Vargas;"
 }

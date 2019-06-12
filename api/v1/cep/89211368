@@ -1,12 +1,12 @@
 {
-  "cep": "89211368",
-  "logradouro": "Servidão Ary Schroeder",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "89211368",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Servidão Ary Schroeder;"
 }

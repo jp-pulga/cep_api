@@ -1,12 +1,12 @@
 {
-  "cep": "88133650",
-  "logradouro": "Rua Treze de Maio",
-  "bairro": "Brejarú",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Brejarú;",
+    "cep": "88133650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Treze de Maio;"
 }

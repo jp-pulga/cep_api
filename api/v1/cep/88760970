@@ -1,12 +1,13 @@
 {
-  "cep": "88760970",
-  "logradouro": "AC Rio Fortuna Rua Padre Auling 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Fortuna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88760970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio Fortuna"
+    },
+    "ibge": 4214904,
+    "logradouro": "Rua Padre Auling, 15  AC Rio Fortuna;"
 }

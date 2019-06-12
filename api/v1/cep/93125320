@@ -1,12 +1,12 @@
 {
-  "cep": "93125320",
-  "logradouro": "Rua Treze de Maio",
-  "bairro": "Scharlau",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Scharlau;",
+    "cep": "93125320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Treze de Maio;"
 }

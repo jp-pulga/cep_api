@@ -1,12 +1,12 @@
 {
-  "cep": "89810120",
-  "logradouro": "Rua Vargeão",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "89810120",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Vargeão;"
 }

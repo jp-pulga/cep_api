@@ -1,12 +1,12 @@
 {
-  "cep": "38401224",
-  "logradouro": "Rua Professor Leônidas Castro Serra",
-  "bairro": "Presidente Roosevelt",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Presidente Roosevelt;",
+    "cep": "38401224",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Professor Leônidas Castro Serra;"
 }

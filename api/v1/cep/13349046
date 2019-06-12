@@ -1,12 +1,12 @@
 {
-  "cep": "13349046",
-  "logradouro": "Rua Algodão da Praia",
-  "bairro": "Parque Campo Bonito",
-  "cidade": {
-    "nome": "Indaiatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Campo Bonito;",
+    "cep": "13349046",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Indaiatuba"
+    },
+    "logradouro": "Rua Algodão da Praia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88113480",
-  "logradouro": "Rua Joaquim Vieira Padilha",
-  "bairro": "Real Parque",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Real Parque;",
+    "cep": "88113480",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Joaquim Vieira Padilha;"
 }

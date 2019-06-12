@@ -1,12 +1,12 @@
 {
-  "cep": "89812350",
-  "logradouro": "Rua Santa Cecília até 249/250",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "89812350",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Santa Cecília - até 249\/250;"
 }

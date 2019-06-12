@@ -1,12 +1,12 @@
 {
-  "cep": "88370033",
-  "logradouro": "Travessa Comar Seara Muller",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "88370033",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Travessa Comar Seara Muller;"
 }

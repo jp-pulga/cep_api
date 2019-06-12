@@ -1,12 +1,12 @@
 {
-  "cep": "89228272",
-  "logradouro": "Rua Ponte Serrada de 1312/1313 ao fim",
-  "bairro": "Comasa",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Comasa;",
+    "cep": "89228272",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Ponte Serrada - de 1312\/1313 ao fim;"
 }

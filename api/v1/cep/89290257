@@ -1,12 +1,12 @@
 {
-  "cep": "89290257",
-  "logradouro": "Rua João Ferraz dos Santos",
-  "bairro": "25 de Julho",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "25 de Julho;",
+    "cep": "89290257",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Ferraz dos Santos;"
 }

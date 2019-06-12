@@ -1,12 +1,12 @@
 {
-  "cep": "89208560",
-  "logradouro": "Rua São Ludgero",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "89208560",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua São Ludgero;"
 }

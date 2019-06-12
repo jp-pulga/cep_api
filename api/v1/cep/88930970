@@ -1,12 +1,13 @@
 {
-  "cep": "88930970",
-  "logradouro": "AC Turvo Rua Frei Gregório Dalmonte 1399",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Turvo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88930970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Turvo"
+    },
+    "ibge": 4218806,
+    "logradouro": "Rua Frei Gregório Dalmonte 1399  AC Turvo;"
 }

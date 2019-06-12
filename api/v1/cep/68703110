@@ -1,12 +1,12 @@
 {
-  "cep": "68703110",
-  "logradouro": "Rua Getúlio Vargas",
-  "bairro": "Primeira",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Primeira;",
+    "cep": "68703110",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "logradouro": "Rua Getúlio Vargas;"
 }

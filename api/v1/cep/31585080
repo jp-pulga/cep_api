@@ -1,12 +1,12 @@
 {
-  "cep": "31585080",
-  "logradouro": "Praça Edgar da Mata Machado",
-  "bairro": "Céu Azul",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Céu Azul;",
+    "cep": "31585080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Edgar da Mata Machado;"
 }

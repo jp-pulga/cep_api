@@ -1,12 +1,12 @@
 {
-  "cep": "88708792",
-  "logradouro": "Rua André Tomáz Madeira",
-  "bairro": "São Martinho",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Martinho;",
+    "cep": "88708792",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua André Tomáz Madeira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30855100",
-  "logradouro": "Rua Evangelina Prates",
-  "bairro": "Califórnia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Califórnia;",
+    "cep": "30855100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Evangelina Prates;"
 }

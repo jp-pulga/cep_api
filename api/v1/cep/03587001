@@ -1,12 +1,12 @@
 {
-  "cep": "03587001",
-  "logradouro": "Praça Vila Bandeirantes",
-  "bairro": "Cidade Líder",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Líder;",
+    "cep": "03587001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Vila Bandeirantes;"
 }

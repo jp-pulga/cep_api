@@ -1,12 +1,13 @@
 {
-  "cep": "88990970",
-  "logradouro": "AC Praia Grande Rua Nereu Ramos 257",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88990970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Praia Grande"
+    },
+    "ibge": 4213807,
+    "logradouro": "Rua Nereu Ramos, 257  AC Praia Grande;"
 }

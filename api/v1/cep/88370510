@@ -1,12 +1,12 @@
 {
-  "cep": "88370510",
-  "logradouro": "Beco Martimiano Teixeira",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "88370510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Beco Martimiano Teixeira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89286385",
-  "logradouro": "Rua Francisco Pauli de 861/862 a 1479/1480",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "89286385",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco Pauli - de 892 a 1300 - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35661496",
-  "logradouro": "Praça Humberto de Souza Peixoto",
-  "bairro": "Califórnia",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Califórnia;",
+    "cep": "35661496",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Praça Humberto de Souza Peixoto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89227055",
-  "logradouro": "Rua Santa Cecília",
-  "bairro": "Iririú",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Iririú;",
+    "cep": "89227055",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Santa Cecília;"
 }

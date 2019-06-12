@@ -1,12 +1,13 @@
 {
-  "cep": "89990970",
-  "logradouro": "AC São Lourenço do Oeste Rua Duque de Caxias 323",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Lourenço do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89990970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Lourenço do Oeste"
+    },
+    "ibge": 4216909,
+    "logradouro": "Rua Duque de Caxias, 323  AC São Lourenço do Oeste;"
 }

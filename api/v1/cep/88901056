@@ -1,12 +1,12 @@
 {
-  "cep": "88901056",
-  "logradouro": "Rua Presidente Nereu Ramos",
-  "bairro": "Cidade Alta",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cidade Alta;",
+    "cep": "88901056",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Rua Presidente Nereu Ramos;"
 }

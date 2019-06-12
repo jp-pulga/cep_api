@@ -1,12 +1,13 @@
 {
-  "cep": "88701730",
-  "logradouro": "Avenida Pedro Zapelini de 1607 a 2143 - lado ímpar",
-  "bairro": "Santo Antônio de Pádua",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santo Antônio de Pádua;",
+    "cep": "88701730",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Pedro Zapelini - de 1607 a 2143 - lado ímpar;"
 }

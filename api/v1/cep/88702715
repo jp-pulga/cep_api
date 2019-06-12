@@ -1,12 +1,13 @@
 {
-  "cep": "88702715",
-  "logradouro": "Avenida Marechal Deodoro da Fonseca",
-  "bairro": "Fábio Silva",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fábio Silva;",
+    "cep": "88702715",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Marechal Deodoro da Fonseca;"
 }

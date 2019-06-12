@@ -1,12 +1,12 @@
 {
-  "cep": "89164424",
-  "logradouro": "Beco Xaxim",
-  "bairro": "Barra do Trombudo",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra do Trombudo;",
+    "cep": "89164424",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Beco Xaxim;"
 }

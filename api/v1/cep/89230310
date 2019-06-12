@@ -1,12 +1,12 @@
 {
-  "cep": "89230310",
-  "logradouro": "Rua Schroeder",
-  "bairro": "Jarivatuba",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jarivatuba;",
+    "cep": "89230310",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Schroeder;"
 }

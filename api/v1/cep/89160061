@@ -1,12 +1,12 @@
 {
-  "cep": "89160061",
-  "logradouro": "Rua São Ludgero",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89160061",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua São Ludgero;"
 }

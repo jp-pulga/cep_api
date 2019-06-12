@@ -1,12 +1,12 @@
 {
-  "cep": "13273291",
-  "logradouro": "Alameda Mariana Prudente Corrêa",
-  "bairro": "Contendas",
-  "cidade": {
-    "nome": "Valinhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Contendas;",
+    "cep": "13273291",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Valinhos"
+    },
+    "logradouro": "Alameda Mariana Prudente Corrêa;"
 }

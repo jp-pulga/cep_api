@@ -1,12 +1,12 @@
 {
-  "cep": "88504477",
-  "logradouro": "Rua José Francisco Santin",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504477",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua José Francisco Santin;"
 }

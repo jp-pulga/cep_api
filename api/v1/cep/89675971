@@ -1,12 +1,13 @@
 {
-  "cep": "89675971",
-  "logradouro": "AC Vargem Bonita Rua Sidiney Roman 127",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vargem Bonita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89675971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Vargem Bonita"
+    },
+    "ibge": 4219176,
+    "logradouro": "Rua Sidiney Roman, 127  AC Vargem Bonita;"
 }

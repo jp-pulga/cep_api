@@ -1,12 +1,12 @@
 {
-  "cep": "13408111",
-  "logradouro": "Rua Militão Prates Ferreira (Jardim Boa Esperança)",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "13408111",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Militão Prates Ferreira (Jardim Boa Esperança);"
 }

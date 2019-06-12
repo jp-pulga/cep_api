@@ -1,12 +1,13 @@
 {
-  "cep": "88125900",
-  "logradouro": "Complexo Penitenciário da Grande Florianópolis Rua Geral Santa Teresa s/n",
-  "bairro": "Santa Teresa",
-  "cidade": {
-    "nome": "São Pedro de Alcântara",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Teresa;",
+    "cep": "88125900",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Pedro de Alcântara"
+    },
+    "ibge": 4217253,
+    "logradouro": "Rua Geral Santa Teresa s\/n  Complexo Penitenciário da Grande Florianópolis;"
 }

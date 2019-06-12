@@ -1,12 +1,12 @@
 {
-  "cep": "88370570",
-  "logradouro": "Rua Francisco de Paula Seara",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "88370570",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Francisco de Paula Seara;"
 }

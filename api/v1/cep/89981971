@@ -1,12 +1,13 @@
 {
-  "cep": "89981971",
-  "logradouro": "AC Saltinho Avenida Alfredo Jiacomo Scopel 735",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Saltinho",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89981971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Saltinho"
+    },
+    "ibge": 4215356,
+    "logradouro": "Avenida Alfredo Jiacomo Scopel, 735  AC Saltinho;"
 }

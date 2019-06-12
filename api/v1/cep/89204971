@@ -1,12 +1,12 @@
 {
-  "cep": "89204971",
-  "logradouro": "AGF América Rua Timbó 251",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "América;",
+    "cep": "89204971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Timbó, 251  AGF América;"
 }

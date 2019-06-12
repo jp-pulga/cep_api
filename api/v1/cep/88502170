@@ -1,12 +1,12 @@
 {
-  "cep": "88502170",
-  "logradouro": "Rua Presidente Nereu Ramos",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88502170",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Presidente Nereu Ramos;"
 }

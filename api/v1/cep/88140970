@@ -1,12 +1,13 @@
 {
-  "cep": "88140970",
-  "logradouro": "AC Santo Amaro da Imperatriz Rua Santana 5145",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Amaro da Imperatriz",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88140970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Santo Amaro da Imperatriz"
+    },
+    "ibge": 4215703,
+    "logradouro": "Rua Santana, 5145  AC Santo Amaro da Imperatriz;"
 }

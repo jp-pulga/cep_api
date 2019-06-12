@@ -1,12 +1,13 @@
 {
-  "cep": "89915971",
-  "logradouro": "AC Santa Helena Rua Dom Feliciano 495",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Helena",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89915971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Santa Helena"
+    },
+    "ibge": 4215554,
+    "logradouro": "Rua Dom Feliciano, 495  AC Santa Helena;"
 }

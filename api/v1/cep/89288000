@@ -1,12 +1,13 @@
 {
-  "cep": "89288000",
-  "logradouro": "Acesso Deputado Genésio Tureck Acesso Oeste - até 295 - lado ímpar",
-  "bairro": "Colonial",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Colonial;",
+    "cep": "89288000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "ibge": 4215802,
+    "logradouro": "Acesso Deputado Genésio Tureck - Acesso Oeste - até 295 - lado ímpar;"
 }

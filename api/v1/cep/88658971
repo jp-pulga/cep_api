@@ -1,12 +1,13 @@
 {
-  "cep": "88658971",
-  "logradouro": "AC Rio Rufino Rua José Ozelame 172",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Rufino",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88658971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio Rufino"
+    },
+    "ibge": 4215059,
+    "logradouro": "Rua José Ozelame, 172  AC Rio Rufino;"
 }

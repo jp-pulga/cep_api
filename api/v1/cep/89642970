@@ -1,12 +1,13 @@
 {
-  "cep": "89642970",
-  "logradouro": "AC Tangará Avenida Irmãos Piccoli 306",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tangará",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89642970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tangará"
+    },
+    "ibge": 4217907,
+    "logradouro": "Avenida Irmãos Piccoli, 306  AC Tangará;"
 }

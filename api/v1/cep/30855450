@@ -1,12 +1,12 @@
 {
-  "cep": "30855450",
-  "logradouro": "Avenida Presidente Juscelino Kubitschek de 4500 ao fim - lado par",
-  "bairro": "Califórnia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Califórnia;",
+    "cep": "30855450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitschek - de 4500 ao fim - lado par;"
 }

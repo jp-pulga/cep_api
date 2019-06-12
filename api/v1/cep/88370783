@@ -1,12 +1,12 @@
 {
-  "cep": "88370783",
-  "logradouro": "Rua Amadeu Zucki",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "88370783",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Amadeu Zucki;"
 }

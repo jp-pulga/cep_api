@@ -1,12 +1,12 @@
 {
-  "cep": "18035263",
-  "logradouro": "Praça Bandeirantes",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18035263",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Praça Bandeirantes;"
 }

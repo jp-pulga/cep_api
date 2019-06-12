@@ -1,12 +1,12 @@
 {
-  "cep": "89280568",
-  "logradouro": "Rua João Baum",
-  "bairro": "Schramm",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Schramm;",
+    "cep": "89280568",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Baum;"
 }

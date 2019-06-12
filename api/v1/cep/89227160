@@ -1,12 +1,12 @@
 {
-  "cep": "89227160",
-  "logradouro": "Rua Salto Veloso",
-  "bairro": "Iririú",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Iririú;",
+    "cep": "89227160",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Salto Veloso;"
 }

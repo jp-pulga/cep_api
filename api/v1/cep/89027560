@@ -1,12 +1,12 @@
 {
-  "cep": "89027560",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89027560",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua São Domingos;"
 }

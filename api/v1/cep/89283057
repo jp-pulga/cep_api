@@ -1,12 +1,12 @@
 {
-  "cep": "89283057",
-  "logradouro": "Rua João Chapiewsky",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centenário;",
+    "cep": "89283057",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Chapiewsky;"
 }

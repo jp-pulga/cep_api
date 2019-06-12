@@ -1,12 +1,12 @@
 {
-  "cep": "13567102",
-  "logradouro": "Rua Doutor Walter Camargo Schultzer",
-  "bairro": "Vila São José",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila São José;",
+    "cep": "13567102",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rua Doutor Walter Camargo Schultzer;"
 }

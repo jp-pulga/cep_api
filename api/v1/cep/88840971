@@ -1,12 +1,13 @@
 {
-  "cep": "88840971",
-  "logradouro": "AGC Rio América Rua Luiz Cândido s/n",
-  "bairro": "Povoado Rio América",
-  "cidade": {
-    "nome": "Urussanga",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Povoado Rio América;",
+    "cep": "88840971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Urussanga"
+    },
+    "ibge": 4219002,
+    "logradouro": "Rua Luiz Cândido, s\/n  AGC Rio América;"
 }

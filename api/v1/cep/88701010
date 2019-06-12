@@ -1,12 +1,13 @@
 {
-  "cep": "88701010",
-  "logradouro": "Avenida Marechal Deodoro até 1088/1089",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88701010",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Marechal Deodoro - até 1088\/1089;"
 }

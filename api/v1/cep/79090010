@@ -1,12 +1,12 @@
 {
-  "cep": "79090010",
-  "logradouro": "Praça Tenente Monteiro",
-  "bairro": "Vila Taveirópolis",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Taveirópolis;",
+    "cep": "79090010",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Praça Tenente Monteiro;"
 }

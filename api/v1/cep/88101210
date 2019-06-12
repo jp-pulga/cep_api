@@ -1,12 +1,12 @@
 {
-  "cep": "88101210",
-  "logradouro": "Rua Joaquim Antônio Vaz",
-  "bairro": "Campinas",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campinas;",
+    "cep": "88101210",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Joaquim Antônio Vaz;"
 }

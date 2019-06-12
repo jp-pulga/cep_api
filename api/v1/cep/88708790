@@ -1,12 +1,12 @@
 {
-  "cep": "88708790",
-  "logradouro": "Rua Altino Alves dos Santos",
-  "bairro": "São Martinho",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Martinho;",
+    "cep": "88708790",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Altino Alves dos Santos;"
 }

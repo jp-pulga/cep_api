@@ -1,12 +1,12 @@
 {
-  "cep": "13344400",
-  "logradouro": "Rua Professora Francisca Lucinda Bueno",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Indaiatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "13344400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Indaiatuba"
+    },
+    "logradouro": "Rua Professora Francisca Lucinda Bueno;"
 }

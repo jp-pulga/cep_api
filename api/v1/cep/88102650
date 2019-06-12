@@ -1,12 +1,12 @@
 {
-  "cep": "88102650",
-  "logradouro": "Rua Joaquim Vaz",
-  "bairro": "Praia Comprida",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia Comprida;",
+    "cep": "88102650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Joaquim Vaz;"
 }

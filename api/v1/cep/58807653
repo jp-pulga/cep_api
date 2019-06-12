@@ -1,12 +1,12 @@
 {
-  "cep": "58807653",
-  "logradouro": "Rua Professor Trajano",
-  "bairro": "Alto do Capanema",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Capanema;",
+    "cep": "58807653",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Professor Trajano;"
 }

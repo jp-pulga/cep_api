@@ -1,12 +1,12 @@
 {
-  "cep": "38706166",
-  "logradouro": "Rua Professora Nadir Roriz da Costa",
-  "bairro": "Jardim Céu Azul",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Céu Azul;",
+    "cep": "38706166",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Professora Nadir Roriz da Costa;"
 }

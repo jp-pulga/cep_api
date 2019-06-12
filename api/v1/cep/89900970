@@ -1,12 +1,13 @@
 {
-  "cep": "89900970",
-  "logradouro": "AC São Miguel do Oeste Rua Duque de Caxias 1372",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89900970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Miguel do Oeste"
+    },
+    "ibge": 4217204,
+    "logradouro": "Rua Duque de Caxias, 1372  AC São Miguel do Oeste;"
 }

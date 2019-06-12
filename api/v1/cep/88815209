@@ -1,12 +1,12 @@
 {
-  "cep": "88815209",
-  "logradouro": "Rua Rio Negrinho",
-  "bairro": "Jardim Maristela",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Maristela;",
+    "cep": "88815209",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Rio Negrinho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89254207",
-  "logradouro": "Rua Ovidio Spezia",
-  "bairro": "Três Rios do Sul",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Três Rios do Sul;",
+    "cep": "89254207",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua Ovidio Spezia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88357154",
-  "logradouro": "Rua Maria Salete Masiero Pedroso",
-  "bairro": "Ponta Russa",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ponta Russa;",
+    "cep": "88357154",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Maria Salete Masiero Pedroso;"
 }

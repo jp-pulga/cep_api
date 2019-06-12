@@ -1,12 +1,12 @@
 {
-  "cep": "88370540",
-  "logradouro": "Beco Francisco Claudino",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "88370540",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Beco Francisco Claudino;"
 }

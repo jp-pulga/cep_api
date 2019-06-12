@@ -1,12 +1,12 @@
 {
-  "cep": "08070250",
-  "logradouro": "Rua Domingos Pretti",
-  "bairro": "Parque Cruzeiro do Sul",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Cruzeiro do Sul;",
+    "cep": "08070250",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Domingos Pretti;"
 }

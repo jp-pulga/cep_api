@@ -1,12 +1,12 @@
 {
-  "cep": "89803070",
-  "logradouro": "Rua Joaquim Nabuco",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "89803070",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Joaquim Nabuco;"
 }

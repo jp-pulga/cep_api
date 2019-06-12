@@ -1,12 +1,13 @@
 {
-  "cep": "89120970",
-  "logradouro": "AC Timbó Rua Sete de Setembro 533",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Timbó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89120970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Timbó"
+    },
+    "ibge": 4218202,
+    "logradouro": "Rua Sete de Setembro, 533  AC Timbó;"
 }

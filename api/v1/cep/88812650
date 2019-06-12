@@ -1,12 +1,12 @@
 {
-  "cep": "88812650",
-  "logradouro": "Rodovia Narciso Dominguini",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "88812650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rodovia Narciso Dominguini - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89286430",
-  "logradouro": "Rua Willy Pruss",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "89286430",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Willy Pruss;"
 }

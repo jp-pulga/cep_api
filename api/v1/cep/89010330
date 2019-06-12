@@ -1,12 +1,12 @@
 {
-  "cep": "89010330",
-  "logradouro": "Rua Coronel Vidal Ramos",
-  "bairro": "Jardim Blumenau",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Blumenau;",
+    "cep": "89010330",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Coronel Vidal Ramos;"
 }

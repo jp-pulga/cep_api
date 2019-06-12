@@ -1,12 +1,12 @@
 {
-  "cep": "89027311",
-  "logradouro": "Rua Cambará de 31 a 9999 - lado ímpar",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89027311",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Cambará - de 31 a 9999 - lado ímpar;"
 }

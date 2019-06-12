@@ -1,12 +1,12 @@
 {
-  "cep": "88132253",
-  "logradouro": "Rua Treviso",
-  "bairro": "Passa Vinte",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passa Vinte;",
+    "cep": "88132253",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Treviso;"
 }

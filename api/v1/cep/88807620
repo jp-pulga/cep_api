@@ -1,12 +1,12 @@
 {
-  "cep": "88807620",
-  "logradouro": "Rua Avelino Barp",
-  "bairro": "Sangão",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sangão;",
+    "cep": "88807620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Avelino Barp;"
 }

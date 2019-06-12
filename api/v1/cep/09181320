@@ -1,12 +1,12 @@
 {
-  "cep": "09181320",
-  "logradouro": "Rua Cambará",
-  "bairro": "Jardim Progresso",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Progresso;",
+    "cep": "09181320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo André"
+    },
+    "logradouro": "Rua Cambará;"
 }

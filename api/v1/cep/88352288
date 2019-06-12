@@ -1,12 +1,12 @@
 {
-  "cep": "88352288",
-  "logradouro": "Rodovia Antônio Heil lado direito",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "88352288",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rodovia Antônio Heil;"
 }

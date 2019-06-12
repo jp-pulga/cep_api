@@ -1,12 +1,12 @@
 {
-  "cep": "89208630",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "89208630",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua São Domingos;"
 }

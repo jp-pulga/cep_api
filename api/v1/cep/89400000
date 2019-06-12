@@ -1,12 +1,11 @@
 {
-  "cep": "89400000",
-  "logradouro": "Porto União",
-  "bairro": "",
-  "cidade": {
-    "nome": "Porto União",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89400000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Porto União"
+    },
+    "ibge": 4213609
 }

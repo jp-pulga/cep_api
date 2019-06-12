@@ -1,12 +1,13 @@
 {
-  "cep": "88701180",
-  "logradouro": "Rua Felipe Schmidt até 295/296",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88701180",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Rua Felipe Schmidt - até 295\/296;"
 }

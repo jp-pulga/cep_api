@@ -1,12 +1,12 @@
 {
-  "cep": "13060701",
-  "logradouro": "Rua Professor Silvano Lopes Castro",
-  "bairro": "Parque Residencial Vila União",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Residencial Vila União;",
+    "cep": "13060701",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Professor Silvano Lopes Castro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "03443070",
-  "logradouro": "Praça Carlos Antônio Colombo Neto",
-  "bairro": "Vila Nova Manchester",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Manchester;",
+    "cep": "03443070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Carlos Antônio Colombo Neto;"
 }

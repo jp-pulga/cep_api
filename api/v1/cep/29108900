@@ -1,12 +1,12 @@
 {
-  "cep": "29108900",
-  "logradouro": "Hospital São Luiz Praça Assis Chateaubriand s/n",
-  "bairro": "IBES",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "IBES;",
+    "cep": "29108900",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Praça Assis Chateaubriand, s\/n  Hospital São Luiz;"
 }

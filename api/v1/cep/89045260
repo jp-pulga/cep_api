@@ -1,12 +1,12 @@
 {
-  "cep": "89045260",
-  "logradouro": "Rua São Bonifácio",
-  "bairro": "Velha",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Velha;",
+    "cep": "89045260",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua São Bonifácio;"
 }

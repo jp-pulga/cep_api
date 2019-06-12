@@ -1,12 +1,12 @@
 {
-  "cep": "89284520",
-  "logradouro": "Rua Francisco José Neumann",
-  "bairro": "Dona Francisca",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Dona Francisca;",
+    "cep": "89284520",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco José Neumann;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89770970",
-  "logradouro": "AC Seara Rua Beira Rio 149",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Seara",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89770970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Seara"
+    },
+    "ibge": 4217501,
+    "logradouro": "Rua Beira Rio, 149  AC Seara;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57309074",
-  "logradouro": "Rua Professora Margarida Ozória Gomes",
-  "bairro": "Bom Sucesso",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Bom Sucesso;",
+    "cep": "57309074",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Professora Margarida Ozória Gomes;"
 }

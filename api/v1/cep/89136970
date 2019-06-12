@@ -1,12 +1,13 @@
 {
-  "cep": "89136970",
-  "logradouro": "AC Rodeio Rua Barão Rio Branco 909",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rodeio",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89136970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rodeio"
+    },
+    "ibge": 4215109,
+    "logradouro": "Rua Barão Rio Branco, 909  AC Rodeio;"
 }

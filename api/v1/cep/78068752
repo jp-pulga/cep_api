@@ -1,12 +1,12 @@
 {
-  "cep": "78068752",
-  "logradouro": "Rua Primeiro de Maio",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "78068752",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Primeiro de Maio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88810216",
-  "logradouro": "Rua Urussanga lado ímpar",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88810216",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Urussanga - lado ímpar;"
 }

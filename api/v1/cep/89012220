@@ -1,12 +1,12 @@
 {
-  "cep": "89012220",
-  "logradouro": "Rua São João Batista",
-  "bairro": "Victor Konder",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Victor Konder;",
+    "cep": "89012220",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua São João Batista;"
 }

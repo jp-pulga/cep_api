@@ -1,12 +1,12 @@
 {
-  "cep": "89228040",
-  "logradouro": "Rua Rio do Campo",
-  "bairro": "Comasa",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Comasa;",
+    "cep": "89228040",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Rio do Campo;"
 }

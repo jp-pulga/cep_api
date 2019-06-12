@@ -1,12 +1,12 @@
 {
-  "cep": "88060224",
-  "logradouro": "Servidão Domingos Manoel da Silveira",
-  "bairro": "São João do Rio Vermelho",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São João do Rio Vermelho;",
+    "cep": "88060224",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Domingos Manoel da Silveira;"
 }

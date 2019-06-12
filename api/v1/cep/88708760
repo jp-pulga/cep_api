@@ -1,12 +1,12 @@
 {
-  "cep": "88708760",
-  "logradouro": "Rua Alfredo Corrêa de Souza",
-  "bairro": "São Martinho",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Martinho;",
+    "cep": "88708760",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Alfredo Corrêa de Souza;"
 }

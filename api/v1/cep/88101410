@@ -1,12 +1,12 @@
 {
-  "cep": "88101410",
-  "logradouro": "Avenida Presidente Nereu Ramos",
-  "bairro": "Campinas",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campinas;",
+    "cep": "88101410",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Avenida Presidente Nereu Ramos;"
 }

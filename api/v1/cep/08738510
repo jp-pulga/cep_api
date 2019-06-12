@@ -1,12 +1,12 @@
 {
-  "cep": "08738510",
-  "logradouro": "Rua Professor João Gualberto Mafra Machado",
-  "bairro": "Vila Brasileira",
-  "cidade": {
-    "nome": "Mogi das Cruzes",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Brasileira;",
+    "cep": "08738510",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi das Cruzes"
+    },
+    "logradouro": "Rua Professor João Gualberto Mafra Machado;"
 }

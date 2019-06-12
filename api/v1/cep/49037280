@@ -1,12 +1,12 @@
 {
-  "cep": "49037280",
-  "logradouro": "Praça Armando Feitosa Franco",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Atalaia;",
+    "cep": "49037280",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Praça Armando Feitosa Franco;"
 }

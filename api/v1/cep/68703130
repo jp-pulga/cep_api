@@ -1,12 +1,12 @@
 {
-  "cep": "68703130",
-  "logradouro": "Rodovia PA-124",
-  "bairro": "Primeira",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Primeira;",
+    "cep": "68703130",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "logradouro": "Rodovia PA-124;"
 }

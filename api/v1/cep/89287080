@@ -1,12 +1,12 @@
 {
-  "cep": "89287080",
-  "logradouro": "Rua João Duffeck",
-  "bairro": "Rio Negro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Negro;",
+    "cep": "89287080",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Duffeck;"
 }

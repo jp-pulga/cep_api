@@ -1,12 +1,12 @@
 {
-  "cep": "08070240",
-  "logradouro": "Praça Helena Pereira de Moraes",
-  "bairro": "Parque Cruzeiro do Sul",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Cruzeiro do Sul;",
+    "cep": "08070240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Helena Pereira de Moraes;"
 }

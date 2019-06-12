@@ -1,12 +1,12 @@
 {
-  "cep": "89010100",
-  "logradouro": "Avenida Presidente Castelo Branco até 657/658",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89010100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Avenida Presidente Castelo Branco - até 657\/658;"
 }

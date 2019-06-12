@@ -1,12 +1,13 @@
 {
-  "cep": "88763970",
-  "logradouro": "AC Santa Rosa de Lima Rua Germano Hermesmeyer 258",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rosa de Lima",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88763970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Santa Rosa de Lima"
+    },
+    "ibge": 4215604,
+    "logradouro": "Rua Germano Hermesmeyer, 258  AC Santa Rosa de Lima;"
 }

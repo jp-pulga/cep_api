@@ -1,12 +1,12 @@
 {
-  "cep": "88900126",
-  "logradouro": "Avenida Padre Antônio Luiz Dias de 1401/1402 ao fim",
-  "bairro": "Vila São José",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila São José;",
+    "cep": "88900126",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Avenida Padre Antônio Luiz Dias - de 1401\/1402 ao fim;"
 }

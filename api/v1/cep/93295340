@@ -1,12 +1,12 @@
 {
-  "cep": "93295340",
-  "logradouro": "Rua Cruzeiro do Sul",
-  "bairro": "Parque Primavera",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Primavera;",
+    "cep": "93295340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Cruzeiro do Sul;"
 }

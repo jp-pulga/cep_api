@@ -1,12 +1,12 @@
 {
-  "cep": "89212630",
-  "logradouro": "Rua São Martinho",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "89212630",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua São Martinho;"
 }

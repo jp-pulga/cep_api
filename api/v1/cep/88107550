@@ -1,12 +1,12 @@
 {
-  "cep": "88107550",
-  "logradouro": "Rua Joaquim José Meurer",
-  "bairro": "Forquilhas",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Forquilhas;",
+    "cep": "88107550",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Joaquim José Meurer;"
 }

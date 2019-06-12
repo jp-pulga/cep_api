@@ -1,12 +1,12 @@
 {
-  "cep": "89281151",
-  "logradouro": "Rua Tijucas lado par",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89281151",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Tijucas - lado par;"
 }

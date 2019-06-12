@@ -1,12 +1,12 @@
 {
-  "cep": "89291220",
-  "logradouro": "Estrada Conrado Liebl de 4904/4905 ao fim",
-  "bairro": "Serra Alta",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serra Alta;",
+    "cep": "89291220",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Estrada Conrado Liebl - de 4904\/4905 ao fim;"
 }

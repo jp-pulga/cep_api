@@ -1,12 +1,12 @@
 {
-  "cep": "89813050",
-  "logradouro": "Rua Siderópolis",
-  "bairro": "Seminário",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Seminário;",
+    "cep": "89813050",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Siderópolis;"
 }

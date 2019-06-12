@@ -1,12 +1,12 @@
 {
-  "cep": "89267125",
-  "logradouro": "Rua Rosa Lorenzzetti",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "89267125",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua Rosa Lorenzzetti;"
 }

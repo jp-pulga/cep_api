@@ -1,12 +1,12 @@
 {
-  "cep": "88805370",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "88805370",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua São Domingos;"
 }

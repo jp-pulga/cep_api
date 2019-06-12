@@ -1,12 +1,12 @@
 {
-  "cep": "88504433",
-  "logradouro": "Rua Marechal Deodoro de 1890/1891 a 99998/99999",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504433",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Marechal Deodoro - de 1890\/1891 ao fim;"
 }

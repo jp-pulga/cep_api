@@ -1,12 +1,12 @@
 {
-  "cep": "35042744",
-  "logradouro": "Rua Projetada",
-  "bairro": "Jardim Atalaia",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Atalaia;",
+    "cep": "35042744",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Projetada;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89292027",
-  "logradouro": "Rua João Kurowski",
-  "bairro": "Serra Alta",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serra Alta;",
+    "cep": "89292027",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Kurowski;"
 }

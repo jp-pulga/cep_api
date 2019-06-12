@@ -1,12 +1,12 @@
 {
-  "cep": "14057030",
-  "logradouro": "Rua Professor Gentil Gomide de Castro",
-  "bairro": "Parque das Andorinhas",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Andorinhas;",
+    "cep": "14057030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Professor Gentil Gomide de Castro;"
 }

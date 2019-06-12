@@ -1,12 +1,12 @@
 {
-  "cep": "88811412",
-  "logradouro": "Rua João Batista",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "88811412",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua João Batista;"
 }

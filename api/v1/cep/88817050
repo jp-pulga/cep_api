@@ -1,12 +1,12 @@
 {
-  "cep": "88817050",
-  "logradouro": "Rua São Francisco do Sul",
-  "bairro": "Vila Floresta II",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Floresta II;",
+    "cep": "88817050",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua São Francisco do Sul;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89295970",
-  "logradouro": "AC Rio Negrinho Travessa Theodoro Junctum 116",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Negrinho",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89295970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio Negrinho"
+    },
+    "ibge": 4215000,
+    "logradouro": "Travessa Theodoro Junctum 116  AC Rio Negrinho;"
 }

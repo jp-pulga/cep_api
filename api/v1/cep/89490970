@@ -1,12 +1,13 @@
 {
-  "cep": "89490970",
-  "logradouro": "AC Três Barras Avenida Santa Catarina 494",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Barras",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89490970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Três Barras"
+    },
+    "ibge": 4218301,
+    "logradouro": "Avenida Santa Catarina, 640  AC Três Barras;"
 }

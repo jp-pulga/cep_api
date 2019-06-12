@@ -1,12 +1,12 @@
 {
-  "cep": "13459395",
-  "logradouro": "Rua Professor João Chiarini",
-  "bairro": "Chácara Recreio Cruzeiro do Sul",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Recreio Cruzeiro do Sul;",
+    "cep": "13459395",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Professor João Chiarini;"
 }

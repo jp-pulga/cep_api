@@ -1,12 +1,12 @@
 {
-  "cep": "89280901",
-  "logradouro": "BUDDMEYER Rua João Hoffmann 142",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89280901",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Hoffmann, 142  BUDDMEYER;"
 }

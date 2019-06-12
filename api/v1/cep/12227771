@@ -1,12 +1,12 @@
 {
-  "cep": "12227771",
-  "logradouro": "Rua Professor Luiz Gonzaga Rios",
-  "bairro": "Jardim Colorado",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Colorado;",
+    "cep": "12227771",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Professor Luiz Gonzaga Rios;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33035330",
-  "logradouro": "Rua Presidente Carlos Luz",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "33035330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Presidente Carlos Luz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88343449",
-  "logradouro": "Rua Rio dos Cedros",
-  "bairro": "Rio Pequeno",
-  "cidade": {
-    "nome": "Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Pequeno;",
+    "cep": "88343449",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Camboriú"
+    },
+    "logradouro": "Rua Rio dos Cedros;"
 }

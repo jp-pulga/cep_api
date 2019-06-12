@@ -1,12 +1,12 @@
 {
-  "cep": "88704535",
-  "logradouro": "Avenida Presidente Getúlio Vargas de 2591 a 3099 - lado ímpar",
-  "bairro": "Humaitá",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Humaitá;",
+    "cep": "88704535",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Avenida Presidente Getúlio Vargas - de 2591 a 3099 - lado ímpar;"
 }

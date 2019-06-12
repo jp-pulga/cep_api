@@ -1,12 +1,12 @@
 {
-  "cep": "18702364",
-  "logradouro": "Rua Professor Amorim",
-  "bairro": "Jardim Bom Sucesso II",
-  "cidade": {
-    "nome": "Avaré",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bom Sucesso II;",
+    "cep": "18702364",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Avaré"
+    },
+    "logradouro": "Rua Professor Amorim;"
 }

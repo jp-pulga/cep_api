@@ -1,12 +1,12 @@
 {
-  "cep": "16400481",
-  "logradouro": "Praça João Bernardino de Faria",
-  "bairro": "Jardim Arapuã",
-  "cidade": {
-    "nome": "Lins",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Arapuã;",
+    "cep": "16400481",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lins"
+    },
+    "logradouro": "Praça João Bernardino de Faria;"
 }

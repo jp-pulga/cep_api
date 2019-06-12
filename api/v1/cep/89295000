@@ -1,12 +1,11 @@
 {
-  "cep": "89295000",
-  "logradouro": "Rio Negrinho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Negrinho",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89295000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio Negrinho"
+    },
+    "ibge": 4215000
 }

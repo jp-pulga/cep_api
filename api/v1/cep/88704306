@@ -1,12 +1,13 @@
 {
-  "cep": "88704306",
-  "logradouro": "Avenida Expedicionário José Pedro Coelho de 0797/798 a 1158/1159",
-  "bairro": "Humaitá",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Humaitá;",
+    "cep": "88704306",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Expedicionário José Pedro Coelho - de 0797\/798 a 1158\/1159;"
 }

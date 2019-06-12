@@ -1,12 +1,12 @@
 {
-  "cep": "88708804",
-  "logradouro": "Rua Alcino da Silva",
-  "bairro": "São Martinho",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Martinho;",
+    "cep": "88708804",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Alcino da Silva;"
 }

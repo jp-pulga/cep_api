@@ -1,12 +1,12 @@
 {
-  "cep": "88135063",
-  "logradouro": "Rua Santa Terezinha de Jesus",
-  "bairro": "Aririú",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Aririú;",
+    "cep": "88135063",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Santa Terezinha de Jesus;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88304410",
-  "logradouro": "Rua Domingos Laureano",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "88304410",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Domingos Laureano;"
 }

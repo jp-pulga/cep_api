@@ -1,12 +1,12 @@
 {
-  "cep": "88373000",
-  "logradouro": "Rua Francisco de Paula Seara",
-  "bairro": "Pedreiras",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pedreiras;",
+    "cep": "88373000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Francisco de Paula Seara;"
 }

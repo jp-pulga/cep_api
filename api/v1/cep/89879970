@@ -1,12 +1,13 @@
 {
-  "cep": "89879970",
-  "logradouro": "AGC São Miguel da Boa Vista Avenida São Luiz 210",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel da Boa Vista",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89879970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Miguel da Boa Vista"
+    },
+    "ibge": 4217154,
+    "logradouro": "Avenida São Luiz, 210  AGC São Miguel da Boa Vista;"
 }

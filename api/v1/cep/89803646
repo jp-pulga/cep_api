@@ -1,12 +1,12 @@
 {
-  "cep": "89803646",
-  "logradouro": "Travessa Timbó",
-  "bairro": "Parque das Palmeiras",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Parque das Palmeiras;",
+    "cep": "89803646",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Travessa Timbó;"
 }

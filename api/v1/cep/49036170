@@ -1,12 +1,12 @@
 {
-  "cep": "49036170",
-  "logradouro": "Rua Professora Maria Pureza de Jesus",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Atalaia;",
+    "cep": "49036170",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Professora Maria Pureza de Jesus;"
 }

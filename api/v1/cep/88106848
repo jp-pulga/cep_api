@@ -1,12 +1,12 @@
 {
-  "cep": "88106848",
-  "logradouro": "Rua Carlos Alberto Ruck",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "88106848",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Carlos Alberto Ruck;"
 }

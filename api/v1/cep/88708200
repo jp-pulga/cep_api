@@ -1,12 +1,13 @@
 {
-  "cep": "88708200",
-  "logradouro": "Avenida Patrício Lima de 1171/1172 a 2121/2122",
-  "bairro": "Humaitá de Cima",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Humaitá de Cima;",
+    "cep": "88708200",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Patrício Lima - de 1171\/1172 a 2121\/2122;"
 }

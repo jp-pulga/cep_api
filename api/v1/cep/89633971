@@ -1,12 +1,13 @@
 {
-  "cep": "89633971",
-  "logradouro": "AC Zortéa Rua Alceu Bortoli 335",
-  "bairro": "Imigrantes",
-  "cidade": {
-    "nome": "Zortéa",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Imigrantes;",
+    "cep": "89633971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Zortéa"
+    },
+    "ibge": 4219853,
+    "logradouro": "Rua Alceu Bortoli, 335  AC Zortéa;"
 }

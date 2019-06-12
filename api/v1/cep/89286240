@@ -1,12 +1,12 @@
 {
-  "cep": "89286240",
-  "logradouro": "Rua José Pruess",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "89286240",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua José Pruess;"
 }

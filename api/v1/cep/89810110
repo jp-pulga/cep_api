@@ -1,12 +1,12 @@
 {
-  "cep": "89810110",
-  "logradouro": "Rua Saudades",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "89810110",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Saudades;"
 }

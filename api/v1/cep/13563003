@@ -1,12 +1,12 @@
 {
-  "cep": "13563003",
-  "logradouro": "Rua João Schiavoni",
-  "bairro": "Loteamento Habitacional São Carlos 1",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Loteamento Habitacional São Carlos 1;",
+    "cep": "13563003",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rua João Schiavoni;"
 }

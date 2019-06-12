@@ -1,12 +1,12 @@
 {
-  "cep": "89284100",
-  "logradouro": "Estrada Francisco Zoellner lado ímpar",
-  "bairro": "Bela Aliança",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Aliança;",
+    "cep": "89284100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Estrada Francisco Zoellner - lado ímpar;"
 }

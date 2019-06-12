@@ -1,12 +1,12 @@
 {
-  "cep": "89291380",
-  "logradouro": "Rodovia Carlos Zipperer Sobrinho de 6641 a 7347 - lado ímpar",
-  "bairro": "Serra Alta",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serra Alta;",
+    "cep": "89291380",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rodovia Carlos Zipperer Sobrinho - de 6641 a 7347 - lado ímpar;"
 }

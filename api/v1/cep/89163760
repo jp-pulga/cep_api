@@ -1,12 +1,12 @@
 {
-  "cep": "89163760",
-  "logradouro": "Estrada São Bento de 573/574 ao fim",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89163760",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Estrada São Bento - de 573\/574 ao fim;"
 }

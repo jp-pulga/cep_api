@@ -1,12 +1,12 @@
 {
-  "cep": "89163640",
-  "logradouro": "Rua Rio Negrinho",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89163640",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Rio Negrinho;"
 }

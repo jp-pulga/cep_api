@@ -1,12 +1,12 @@
 {
-  "cep": "89810185",
-  "logradouro": "Rua São Joaquim",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "89810185",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua São Joaquim;"
 }

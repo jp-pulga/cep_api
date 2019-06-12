@@ -1,12 +1,13 @@
 {
-  "cep": "88860971",
-  "logradouro": "AGC Vila São Jorge Rua Bela Vista 70",
-  "bairro": "Vila São Jorge",
-  "cidade": {
-    "nome": "Siderópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila São Jorge;",
+    "cep": "88860971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Siderópolis"
+    },
+    "ibge": 4217600,
+    "logradouro": "Rua Bela Vista, 70  AGC Vila São Jorge;"
 }

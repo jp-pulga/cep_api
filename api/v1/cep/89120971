@@ -1,12 +1,13 @@
 {
-  "cep": "89120971",
-  "logradouro": "CDD Médio Vale Rua Fritz Lorenz 1774",
-  "bairro": "Fritz Lorenz",
-  "cidade": {
-    "nome": "Timbó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fritz Lorenz;",
+    "cep": "89120971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Timbó"
+    },
+    "ibge": 4218202,
+    "logradouro": "Rua Fritz Lorenz, 1774  CDD Médio Vale;"
 }

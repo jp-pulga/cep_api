@@ -1,12 +1,12 @@
 {
-  "cep": "88525510",
-  "logradouro": "Rua Vitor Meireles",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Penha;",
+    "cep": "88525510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Vitor Meireles;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89015260",
-  "logradouro": "Rua Urubici",
-  "bairro": "Vorstadt",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vorstadt;",
+    "cep": "89015260",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Urubici;"
 }

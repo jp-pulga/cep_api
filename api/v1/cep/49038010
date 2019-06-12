@@ -1,12 +1,12 @@
 {
-  "cep": "49038010",
-  "logradouro": "Praça Major Bernardino Dantas",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Atalaia;",
+    "cep": "49038010",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Praça Major Bernardino Dantas;"
 }

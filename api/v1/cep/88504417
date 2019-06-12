@@ -1,12 +1,12 @@
 {
-  "cep": "88504417",
-  "logradouro": "Rua Idelfonso Antônio Garcia",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504417",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Idelfonso Antônio Garcia;"
 }

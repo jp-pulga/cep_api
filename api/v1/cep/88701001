@@ -1,12 +1,13 @@
 {
-  "cep": "88701001",
-  "logradouro": "Avenida Marcolino Martins Cabral de 0479/480 a 1015/1016",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88701001",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Marcolino Martins Cabral - de 0479\/480 a 1015\/1016;"
 }

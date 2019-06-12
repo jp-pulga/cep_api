@@ -1,12 +1,12 @@
 {
-  "cep": "16025007",
-  "logradouro": "Praça Cristóvão Colombo",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "16025007",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Praça Cristóvão Colombo;"
 }

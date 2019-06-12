@@ -1,12 +1,13 @@
 {
-  "cep": "89875970",
-  "logradouro": "AGC Tigrinhos Rua Felipe Baczinski 479",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tigrinhos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89875970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tigrinhos"
+    },
+    "ibge": 4217956,
+    "logradouro": "Rua Felipe Baczinski, 479  AGC Tigrinhos;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "88965000",
-  "logradouro": "Santa Rosa do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Rosa do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88965000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Santa Rosa do Sul"
+    },
+    "ibge": 4215653
 }

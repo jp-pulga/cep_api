@@ -1,12 +1,12 @@
 {
-  "cep": "88304120",
-  "logradouro": "Rua Joaquim José de Freitas",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "88304120",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Joaquim José de Freitas;"
 }

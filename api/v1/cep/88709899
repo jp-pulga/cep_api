@@ -1,12 +1,13 @@
 {
-  "cep": "88709899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Tubarão",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Área Rural de Tubarão;",
+    "cep": "88709899",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Área Rural;"
 }

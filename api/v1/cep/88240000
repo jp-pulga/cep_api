@@ -1,12 +1,11 @@
 {
-  "cep": "88240000",
-  "logradouro": "São João Batista",
-  "bairro": "",
-  "cidade": {
-    "nome": "São João Batista",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88240000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São João Batista"
+    },
+    "ibge": 4216305
 }

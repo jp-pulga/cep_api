@@ -1,12 +1,12 @@
 {
-  "cep": "12605645",
-  "logradouro": "Rua Francisco Renato Coutinha de Castro",
-  "bairro": "Jardim Novo Horizonte",
-  "cidade": {
-    "nome": "Lorena",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Novo Horizonte;",
+    "cep": "12605645",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lorena"
+    },
+    "logradouro": "Rua Professor Francisco Renato Coutinho de Castro;"
 }

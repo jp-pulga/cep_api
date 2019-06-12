@@ -1,12 +1,12 @@
 {
-  "cep": "89285786",
-  "logradouro": "Rua João Giovanni de Lima",
-  "bairro": "Oxford",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Oxford;",
+    "cep": "89285786",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Giovanni de Lima;"
 }

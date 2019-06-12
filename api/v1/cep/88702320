@@ -1,12 +1,13 @@
 {
-  "cep": "88702320",
-  "logradouro": "Rua Paulo Schneider",
-  "bairro": "Oficinas",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Oficinas;",
+    "cep": "88702320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Rua Paulo Schneider;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04053080",
-  "logradouro": "Rua Cornélio Procópio",
-  "bairro": "Saúde",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Saúde;",
+    "cep": "04053080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Cornélio Procópio;"
 }

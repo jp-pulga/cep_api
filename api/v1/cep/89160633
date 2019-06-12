@@ -1,12 +1,12 @@
 {
-  "cep": "89160633",
-  "logradouro": "Travessa Manoel Campolino Marcelino",
-  "bairro": "Taboão",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Taboão;",
+    "cep": "89160633",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Travessa Manoel Campolino Marcelino;"
 }

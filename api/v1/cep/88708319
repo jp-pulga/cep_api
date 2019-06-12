@@ -1,12 +1,13 @@
 {
-  "cep": "88708319",
-  "logradouro": "Avenida João Manoel Galdino da Luz",
-  "bairro": "Vila Esperança",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Esperança;",
+    "cep": "88708319",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida João Manoel Galdino da Luz;"
 }

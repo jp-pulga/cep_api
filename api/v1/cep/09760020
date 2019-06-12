@@ -1,12 +1,12 @@
 {
-  "cep": "09760020",
-  "logradouro": "Rua João Batista Leite",
-  "bairro": "Vila Scopel",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Scopel;",
+    "cep": "09760020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua João Batista Leite;"
 }

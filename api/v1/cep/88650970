@@ -1,12 +1,13 @@
 {
-  "cep": "88650970",
-  "logradouro": "AC Urubici Praça Irmã Policarpa 48",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Urubici",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88650970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Urubici"
+    },
+    "ibge": 4218905,
+    "logradouro": "Praça Irmã Policarpa, 48  AC Urubici;"
 }

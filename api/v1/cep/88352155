@@ -1,12 +1,12 @@
 {
-  "cep": "88352155",
-  "logradouro": "Rua Victor Meirelles",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "88352155",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Victor Meirelles;"
 }

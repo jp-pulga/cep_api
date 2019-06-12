@@ -1,12 +1,12 @@
 {
-  "cep": "89804011",
-  "logradouro": "Rua Martinho Lutero E - de 381/382 a 679/680",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "89804011",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Martinho Lutero - E - de 381\/382 a 679\/680;"
 }

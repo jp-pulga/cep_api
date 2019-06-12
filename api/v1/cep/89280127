@@ -1,12 +1,12 @@
 {
-  "cep": "89280127",
-  "logradouro": "Rua João Alfredo de Oliveira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89280127",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Alfredo de Oliveira;"
 }

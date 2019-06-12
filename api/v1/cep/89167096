@@ -1,12 +1,13 @@
 {
-  "cep": "89167096",
-  "logradouro": "Beco Rio de Janeiro",
-  "bairro": "Eugênio Schneider",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Eugênio Schneider;",
+    "cep": "89167096",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "ibge": 4214805,
+    "logradouro": "Beco Rio de Janeiro;"
 }

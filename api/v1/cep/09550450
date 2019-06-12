@@ -1,12 +1,12 @@
 {
-  "cep": "09550450",
-  "logradouro": "Rua dos Diamantes",
-  "bairro": "Prosperidade",
-  "cidade": {
-    "nome": "São Caetano do Sul",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Prosperidade;",
+    "cep": "09550450",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Caetano do Sul"
+    },
+    "logradouro": "Rua dos Diamantes;"
 }

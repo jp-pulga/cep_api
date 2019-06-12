@@ -1,12 +1,13 @@
 {
-  "cep": "89820970",
-  "logradouro": "AC Xanxerê Rua Doutor José de Miranda Ramos 440",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xanxerê",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89820970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Xanxerê"
+    },
+    "ibge": 4219507,
+    "logradouro": "Rua Doutor José de Miranda Ramos, 440  AC Xanxerê;"
 }

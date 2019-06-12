@@ -1,12 +1,12 @@
 {
-  "cep": "89204042",
-  "logradouro": "Rua Vargeão",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "América;",
+    "cep": "89204042",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Vargeão;"
 }

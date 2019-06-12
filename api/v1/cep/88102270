@@ -1,12 +1,12 @@
 {
-  "cep": "88102270",
-  "logradouro": "Rua João Batista Derner Neves",
-  "bairro": "Kobrasol",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Kobrasol;",
+    "cep": "88102270",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua João Batista Derner Neves;"
 }

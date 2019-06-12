@@ -1,12 +1,12 @@
 {
-  "cep": "89288050",
-  "logradouro": "Rua Francisco Bueno Franco",
-  "bairro": "Colonial",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Colonial;",
+    "cep": "89288050",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco Bueno Franco;"
 }

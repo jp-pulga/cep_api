@@ -1,12 +1,12 @@
 {
-  "cep": "89287380",
-  "logradouro": "Rua Imigrante João Schiessl",
-  "bairro": "Rio Negro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Negro;",
+    "cep": "89287380",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Imigrante João Schiessl;"
 }

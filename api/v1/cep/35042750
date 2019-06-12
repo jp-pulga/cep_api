@@ -1,12 +1,12 @@
 {
-  "cep": "35042750",
-  "logradouro": "Praça A",
-  "bairro": "Jardim Atalaia",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Atalaia;",
+    "cep": "35042750",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Praça A;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38706182",
-  "logradouro": "Praça A",
-  "bairro": "Jardim Céu Azul",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Céu Azul;",
+    "cep": "38706182",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Praça A;"
 }

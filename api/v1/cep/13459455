@@ -1,12 +1,12 @@
 {
-  "cep": "13459455",
-  "logradouro": "Rua Professora Madalena Moreira Granja",
-  "bairro": "Chácara Recreio Cruzeiro do Sul",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Recreio Cruzeiro do Sul;",
+    "cep": "13459455",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Professora Madalena Moreira Granja;"
 }

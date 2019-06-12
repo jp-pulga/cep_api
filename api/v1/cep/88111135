@@ -1,12 +1,12 @@
 {
-  "cep": "88111135",
-  "logradouro": "Rua João Bonifácio Senna",
-  "bairro": "Jardim Cidade de Florianópolis",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Cidade de Florianópolis;",
+    "cep": "88111135",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua João Bonifácio Senna;"
 }

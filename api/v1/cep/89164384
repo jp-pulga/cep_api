@@ -1,12 +1,13 @@
 {
-  "cep": "89164384",
-  "logradouro": "Rua Rio do Oeste",
-  "bairro": "Barra do Trombudo",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra do Trombudo;",
+    "cep": "89164384",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "ibge": 4214805,
+    "logradouro": "Rua Rio do Oeste;"
 }

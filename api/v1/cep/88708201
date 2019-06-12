@@ -1,12 +1,13 @@
 {
-  "cep": "88708201",
-  "logradouro": "Avenida Patrício Lima de 2123 ao fim",
-  "bairro": "São Bernardo",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Bernardo;",
+    "cep": "88708201",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Avenida Patrício Lima - de  2123 ao fim;"
 }

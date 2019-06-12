@@ -1,12 +1,12 @@
 {
-  "cep": "88052631",
-  "logradouro": "Rua Nossa Senhora de Fátima",
-  "bairro": "Vargem Grande",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Grande;",
+    "cep": "88052631",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Nossa Senhora de Fátima;"
 }

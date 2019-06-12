@@ -1,12 +1,12 @@
 {
-  "cep": "68700522",
-  "logradouro": "Rua Projetada II",
-  "bairro": "Oliveira Brito",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Oliveira Brito;",
+    "cep": "68700522",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "logradouro": "Rua Projetada II;"
 }

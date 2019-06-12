@@ -1,12 +1,13 @@
 {
-  "cep": "89868970",
-  "logradouro": "AC Saudades Avenida Brasil 108",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Saudades",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89868970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Saudades"
+    },
+    "ibge": 4217303,
+    "logradouro": "Avenida Brasil, 108  AC Saudades;"
 }

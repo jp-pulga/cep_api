@@ -1,12 +1,12 @@
 {
-  "cep": "49036270",
-  "logradouro": "Praça Poeta Ascenso Ferreira",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Atalaia;",
+    "cep": "49036270",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Praça Poeta Ascenso Ferreira;"
 }

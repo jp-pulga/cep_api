@@ -1,12 +1,12 @@
 {
-  "cep": "88815203",
-  "logradouro": "Rua São Miguel do Oeste",
-  "bairro": "Jardim Maristela",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Maristela;",
+    "cep": "88815203",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua São Miguel do Oeste;"
 }

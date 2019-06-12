@@ -1,12 +1,12 @@
 {
-  "cep": "89283171",
-  "logradouro": "Rua Treze de Maio",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centenário;",
+    "cep": "89283171",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Treze de Maio;"
 }

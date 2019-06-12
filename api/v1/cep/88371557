@@ -1,12 +1,12 @@
 {
-  "cep": "88371557",
-  "logradouro": "Rua Santa Terezinha",
-  "bairro": "Machados",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Machados;",
+    "cep": "88371557",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Santa Terezinha;"
 }

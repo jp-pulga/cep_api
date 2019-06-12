@@ -1,12 +1,13 @@
 {
-  "cep": "88706405",
-  "logradouro": "Travessa Augusto F. Schmidt",
-  "bairro": "Passagem",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passagem;",
+    "cep": "88706405",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Travessa Augusto F. Schmidt;"
 }

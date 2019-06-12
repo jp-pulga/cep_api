@@ -1,12 +1,12 @@
 {
-  "cep": "14801000",
-  "logradouro": "Avenida Presidente Vargas lado par",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Araraquara",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "14801000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araraquara"
+    },
+    "logradouro": "Avenida Presidente Vargas - lado par;"
 }

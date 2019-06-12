@@ -1,12 +1,12 @@
 {
-  "cep": "78142454",
-  "logradouro": "Rua Almirante Tamandaré (Lot Prq Ipê)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78142454",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Almirante Tamandaré (Lot Prq Ipê);"
 }

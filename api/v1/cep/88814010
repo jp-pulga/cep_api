@@ -1,12 +1,12 @@
 {
-  "cep": "88814010",
-  "logradouro": "Rodovia Domingos Peruchi",
-  "bairro": "São Roque",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Roque;",
+    "cep": "88814010",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rodovia Domingos Peruchi;"
 }

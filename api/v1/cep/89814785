@@ -1,12 +1,12 @@
 {
-  "cep": "89814785",
-  "logradouro": "Rua Santa Terezinha",
-  "bairro": "Palmital",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Palmital;",
+    "cep": "89814785",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Santa Terezinha;"
 }

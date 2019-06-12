@@ -1,12 +1,12 @@
 {
-  "cep": "88052400",
-  "logradouro": "Estrada Manoel Leôncio de Souza Brito",
-  "bairro": "Vargem Pequena",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Pequena;",
+    "cep": "88052400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Estrada Manoel Leôncio de Souza Brito;"
 }

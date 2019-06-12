@@ -1,12 +1,13 @@
 {
-  "cep": "89780970",
-  "logradouro": "AC Xavantina Rua Prefeito Octavio Urbano Simon 71",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xavantina",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89780970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Xavantina"
+    },
+    "ibge": 4219606,
+    "logradouro": "Rua Irineu Bornhausen, s\/n  AC Xavantina;"
 }

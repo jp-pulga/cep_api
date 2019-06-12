@@ -1,12 +1,13 @@
 {
-  "cep": "89850970",
-  "logradouro": "AC Quilombo Rua Primo Alberto Bodanese 608 Loja 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quilombo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89850970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Quilombo"
+    },
+    "ibge": 4214201,
+    "logradouro": "Rua Primo Alberto Bodanese, 608 Loja 2  AC Quilombo;"
 }

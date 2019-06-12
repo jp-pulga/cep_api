@@ -1,12 +1,12 @@
 {
-  "cep": "01333900",
-  "logradouro": "Condomínio Edifício Scala Rua São Carlos do Pinhal 79",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "01333900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua São Carlos do Pinhal, 79  Condomínio Edifício Scala;"
 }

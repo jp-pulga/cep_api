@@ -1,12 +1,12 @@
 {
-  "cep": "89025240",
-  "logradouro": "Rua São Miguel D'Oeste",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "89025240",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua São Miguel D'Oeste;"
 }

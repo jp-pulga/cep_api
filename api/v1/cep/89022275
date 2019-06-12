@@ -1,12 +1,12 @@
 {
-  "cep": "89022275",
-  "logradouro": "Rua Turvo",
-  "bairro": "Garcia",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Garcia;",
+    "cep": "89022275",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Turvo;"
 }

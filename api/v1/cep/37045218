@@ -1,12 +1,12 @@
 {
-  "cep": "37045218",
-  "logradouro": "Rua Professora Isa Rezende Cardoso",
-  "bairro": "Cruzeiro do Sul",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro do Sul;",
+    "cep": "37045218",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Professora Isa Rezende Cardoso;"
 }

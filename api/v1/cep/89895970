@@ -1,12 +1,13 @@
 {
-  "cep": "89895970",
-  "logradouro": "AC Riqueza Rua Presidente Costa e Silva 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riqueza",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89895970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Riqueza"
+    },
+    "ibge": 4215075,
+    "logradouro": "Rua Presidente Costa e Silva, 44  AC Riqueza;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88111175",
-  "logradouro": "Rua Elias Joaquim de Almeida",
-  "bairro": "Jardim Cidade de Florianópolis",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Cidade de Florianópolis;",
+    "cep": "88111175",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Elias Joaquim de Almeida;"
 }

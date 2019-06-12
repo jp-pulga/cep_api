@@ -1,12 +1,12 @@
 {
-  "cep": "88113730",
-  "logradouro": "Rua São Francisco do Sul",
-  "bairro": "Areias",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Areias;",
+    "cep": "88113730",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua São Francisco do Sul;"
 }

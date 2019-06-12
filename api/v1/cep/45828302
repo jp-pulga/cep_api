@@ -1,12 +1,12 @@
 {
-  "cep": "45828302",
-  "logradouro": "Praça Cristóvão Colombo",
-  "bairro": "Minas Gerais",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Minas Gerais;",
+    "cep": "45828302",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Praça Cristóvão Colombo;"
 }

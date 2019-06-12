@@ -1,12 +1,13 @@
 {
-  "cep": "89898970",
-  "logradouro": "AC Tunápolis Avenida Cerro Largo 610 Sala C",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tunápolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89898970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tunápolis"
+    },
+    "ibge": 4218756,
+    "logradouro": "Rua Caaro, 217  AC Tunápolis;"
 }

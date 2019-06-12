@@ -1,12 +1,12 @@
 {
-  "cep": "89221145",
-  "logradouro": "Rua São João Batista",
-  "bairro": "Saguaçu",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Saguaçu;",
+    "cep": "89221145",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua São João Batista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88702800",
-  "logradouro": "Rua Treze de Maio",
-  "bairro": "Fábio Silva",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fábio Silva;",
+    "cep": "88702800",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Treze de Maio;"
 }

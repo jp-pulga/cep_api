@@ -1,12 +1,12 @@
 {
-  "cep": "88052607",
-  "logradouro": "Rua João Pacheco",
-  "bairro": "Vargem Grande",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Grande;",
+    "cep": "88052607",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua João Pacheco;"
 }

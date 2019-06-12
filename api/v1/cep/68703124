@@ -1,12 +1,12 @@
 {
-  "cep": "68703124",
-  "logradouro": "Rua Amapá",
-  "bairro": "Primeira",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Primeira;",
+    "cep": "68703124",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "logradouro": "Rua Amapá;"
 }

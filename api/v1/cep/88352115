@@ -1,12 +1,12 @@
 {
-  "cep": "88352115",
-  "logradouro": "Rua Porto Belo",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "88352115",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Porto Belo;"
 }

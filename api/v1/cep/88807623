@@ -1,12 +1,12 @@
 {
-  "cep": "88807623",
-  "logradouro": "Rua Jorge Aléssio",
-  "bairro": "Sangão",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sangão;",
+    "cep": "88807623",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Jorge Aléssio;"
 }

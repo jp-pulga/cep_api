@@ -1,12 +1,12 @@
 {
-  "cep": "88117903",
-  "logradouro": "Prefeitura Municipal de São José Rua Domingos André Zanini 300",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88117903",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Domingos André Zanini, 300  Prefeitura Municipal de São José;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89010908",
-  "logradouro": "Tribunal Regional do Trabalho 12ª Região Avenida Presidente Castelo Branco 1185",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89010908",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Avenida Presidente Castelo Branco, 1185  Tribunal Regional do Trabalho 12ª Região;"
 }

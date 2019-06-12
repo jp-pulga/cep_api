@@ -1,12 +1,13 @@
 {
-  "cep": "88443970",
-  "logradouro": "AC Vidal Ramos Rua Constâncio Krummel 194",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vidal Ramos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88443970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Vidal Ramos"
+    },
+    "ibge": 4219200,
+    "logradouro": "Rua Constâncio Krummel, 98  AC Vidal Ramos;"
 }

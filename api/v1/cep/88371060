@@ -1,12 +1,12 @@
 {
-  "cep": "88371060",
-  "logradouro": "Rua Francisco de Paula Seara",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Paulo;",
+    "cep": "88371060",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Francisco de Paula Seara;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12518550",
-  "logradouro": "Rua Professora Maria Aparecida Castro Azevedo",
-  "bairro": "Jardim do Vale",
-  "cidade": {
-    "nome": "Guaratinguetá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim do Vale;",
+    "cep": "12518550",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guaratinguetá"
+    },
+    "logradouro": "Rua Professora Maria Aparecida Castro Azevedo;"
 }

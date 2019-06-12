@@ -1,12 +1,12 @@
 {
-  "cep": "69057280",
-  "logradouro": "Praça Chile",
-  "bairro": "Adrianópolis",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Adrianópolis;",
+    "cep": "69057280",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Praça Chile;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89690970",
-  "logradouro": "AC Vargeão Rua Mamante Danielli 77 Sala 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vargeão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89690970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Vargeão"
+    },
+    "ibge": 4219101,
+    "logradouro": "Rua Mamante Danielli, 77 Sala 3  AC Vargeão;"
 }

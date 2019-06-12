@@ -1,12 +1,13 @@
 {
-  "cep": "89897970",
-  "logradouro": "AC São João do Oeste Rua do Imigrante 4",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89897970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São João do Oeste"
+    },
+    "ibge": 4216255,
+    "logradouro": "Rua Encantado, 420  AC São João do Oeste;"
 }

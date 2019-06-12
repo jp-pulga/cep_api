@@ -1,12 +1,12 @@
 {
-  "cep": "96845365",
-  "logradouro": "Travessa Professor Antonio Balthazar Englert",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "96845365",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Travessa Professor Antonio Balthazar Englert;"
 }

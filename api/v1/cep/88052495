@@ -1,12 +1,12 @@
 {
-  "cep": "88052495",
-  "logradouro": "Rua Boaventura Antônio Pereira",
-  "bairro": "Vargem Pequena",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Pequena;",
+    "cep": "88052495",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Boaventura Antônio Pereira;"
 }

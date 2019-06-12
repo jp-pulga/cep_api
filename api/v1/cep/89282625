@@ -1,12 +1,12 @@
 {
-  "cep": "89282625",
-  "logradouro": "Rua Francisco Neumann",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "89282625",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco Neumann;"
 }

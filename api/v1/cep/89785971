@@ -1,12 +1,13 @@
 {
-  "cep": "89785971",
-  "logradouro": "AGC Linha das Palmeiras Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xavantina",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89785971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Xavantina"
+    },
+    "ibge": 4219606,
+    "logradouro": "Rua Principal, s\/n  AGC Linha das Palmeiras;"
 }

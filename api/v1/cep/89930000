@@ -1,12 +1,11 @@
 {
-  "cep": "89930000",
-  "logradouro": "São José do Cedro",
-  "bairro": "",
-  "cidade": {
-    "nome": "São José do Cedro",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89930000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José do Cedro"
+    },
+    "ibge": 4216701
 }

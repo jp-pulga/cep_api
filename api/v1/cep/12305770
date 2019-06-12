@@ -1,12 +1,12 @@
 {
-  "cep": "12305770",
-  "logradouro": "Praça Maria Benedita das Dores",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "12305770",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Praça Maria Benedita das Dores;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88705757",
-  "logradouro": "Rua Felipe Schmidt de 851/852 ao fim",
-  "bairro": "Recife",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Recife;",
+    "cep": "88705757",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Rua Felipe Schmidt - de 851\/852 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88343106",
-  "logradouro": "Rua Rio das Antas",
-  "bairro": "Rio Pequeno",
-  "cidade": {
-    "nome": "Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Pequeno;",
+    "cep": "88343106",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Camboriú"
+    },
+    "logradouro": "Rua Rio das Antas;"
 }

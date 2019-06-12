@@ -1,12 +1,12 @@
 {
-  "cep": "07429240",
-  "logradouro": "Rua Parque das Araucárias",
-  "bairro": "Residencial Real Park",
-  "cidade": {
-    "nome": "Arujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Real Park;",
+    "cep": "07429240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Arujá"
+    },
+    "logradouro": "Rua Parque das Araucárias;"
 }

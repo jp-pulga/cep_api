@@ -1,12 +1,11 @@
 {
-  "cep": "89835000",
-  "logradouro": "São Domingos",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Domingos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89835000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Domingos"
+    },
+    "ibge": 4216107
 }

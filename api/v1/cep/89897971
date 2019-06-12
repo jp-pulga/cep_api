@@ -1,12 +1,13 @@
 {
-  "cep": "89897971",
-  "logradouro": "AGC Cristo Rei Rua da Matriz s/n",
-  "bairro": "Distrito de Cristo Rei",
-  "cidade": {
-    "nome": "São João do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Distrito de Cristo Rei;",
+    "cep": "89897971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São João do Oeste"
+    },
+    "ibge": 4216255,
+    "logradouro": "Rua da Matriz, s\/n  AGC Cristo Rei;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89805273",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Líder",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Líder;",
+    "cep": "89805273",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua São Domingos;"
 }

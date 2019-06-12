@@ -1,12 +1,12 @@
 {
-  "cep": "89290141",
-  "logradouro": "Rua João Hüttl",
-  "bairro": "25 de Julho",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "25 de Julho;",
+    "cep": "89290141",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua João Hüttl;"
 }

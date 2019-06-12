@@ -1,12 +1,12 @@
 {
-  "cep": "29147718",
-  "logradouro": "Rua da Penha",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "29147718",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Praça dos Bandeirantes;"
 }

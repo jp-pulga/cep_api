@@ -1,12 +1,13 @@
 {
-  "cep": "89176970",
-  "logradouro": "AC Trombudo Central Rua Valmor Marcelino 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Trombudo Central",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89176970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Trombudo Central"
+    },
+    "ibge": 4218608,
+    "logradouro": "Rua Valmor Marcelino, 40  AC Trombudo Central;"
 }

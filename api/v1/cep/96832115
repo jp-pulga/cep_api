@@ -1,12 +1,12 @@
 {
-  "cep": "96832115",
-  "logradouro": "Rua Luiz Scafini",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "96832115",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Luiz Scafini;"
 }

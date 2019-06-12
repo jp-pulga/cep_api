@@ -1,12 +1,12 @@
 {
-  "cep": "89803332",
-  "logradouro": "Rua Princesa Isabel E - de 1241/1242 a 1799/1800",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "89803332",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Princesa Isabel - E - de 1241\/1242 a 1799\/1800;"
 }

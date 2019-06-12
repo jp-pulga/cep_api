@@ -1,12 +1,13 @@
 {
-  "cep": "88765970",
-  "logradouro": "AC São Martinho Rua Francisco Beckhausen 273 Sala 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Martinho",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88765970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Martinho"
+    },
+    "ibge": 4217105,
+    "logradouro": "Rua Francisco Beckhausen, 273 Sala 2  AC São Martinho;"
 }

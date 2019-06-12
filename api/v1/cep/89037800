@@ -1,12 +1,12 @@
 {
-  "cep": "89037800",
-  "logradouro": "Rua Norberto Seara Heusi",
-  "bairro": "Escola Agrícola",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Escola Agrícola;",
+    "cep": "89037800",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Norberto Seara Heusi;"
 }

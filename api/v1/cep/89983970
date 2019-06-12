@@ -1,12 +1,13 @@
 {
-  "cep": "89983970",
-  "logradouro": "AGC Santa Terezinha do Progresso Rua Licínio Fabris 920",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Terezinha do Progresso",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89983970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Santa Terezinha do Progresso"
+    },
+    "ibge": 4215687,
+    "logradouro": "Rua Licínio Fabris, 920  AGC Santa Terezinha do Progresso;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47802454",
-  "logradouro": "Rua Presidente João Baptista Figueiredo de 830/831 ao fim",
-  "bairro": "Bandeirantes",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bandeirantes;",
+    "cep": "47802454",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Presidente João Baptista Figueiredo - de 830\/831 ao fim;"
 }

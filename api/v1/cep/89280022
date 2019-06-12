@@ -1,12 +1,12 @@
 {
-  "cep": "89280022",
-  "logradouro": "Rua Doutor Francisco Escobar Filho",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89280022",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Doutor Francisco Escobar Filho;"
 }

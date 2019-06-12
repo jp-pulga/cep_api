@@ -1,12 +1,12 @@
 {
-  "cep": "88107489",
-  "logradouro": "Rua Martinho Honório Ribeiro",
-  "bairro": "Forquilhas",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Forquilhas;",
+    "cep": "88107489",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Martinho Honório Ribeiro;"
 }

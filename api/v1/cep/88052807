@@ -1,12 +1,12 @@
 {
-  "cep": "88052807",
-  "logradouro": "Servidão André Canoeiro",
-  "bairro": "Vargem Grande",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Grande;",
+    "cep": "88052807",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão André Canoeiro;"
 }

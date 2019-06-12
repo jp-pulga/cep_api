@@ -1,12 +1,12 @@
 {
-  "cep": "31070060",
-  "logradouro": "Rua Cornélio Procópio",
-  "bairro": "Nova Vista",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Vista;",
+    "cep": "31070060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cornélio Procópio;"
 }

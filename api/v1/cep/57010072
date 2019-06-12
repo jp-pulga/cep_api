@@ -1,12 +1,12 @@
 {
-  "cep": "57010072",
-  "logradouro": "Travessa Assis Chateaubriand",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "57010072",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Assis Chateaubriand;"
 }

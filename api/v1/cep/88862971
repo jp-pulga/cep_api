@@ -1,12 +1,13 @@
 {
-  "cep": "88862971",
-  "logradouro": "AC Treviso Rua Professor José Abatti 137",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Treviso",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88862971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Treviso"
+    },
+    "ibge": 4218350,
+    "logradouro": "Rua Professor José Abatti, 137  AC Treviso;"
 }

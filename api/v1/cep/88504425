@@ -1,12 +1,12 @@
 {
-  "cep": "88504425",
-  "logradouro": "Rua Elói Chaves",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504425",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Elói Chaves;"
 }

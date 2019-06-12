@@ -1,12 +1,13 @@
 {
-  "cep": "89533970",
-  "logradouro": "AC São Cristóvão do Sul Avenida Lions 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Cristóvão do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89533970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Cristóvão do Sul"
+    },
+    "ibge": 4216057,
+    "logradouro": "Avenida Lions, 130  AC São Cristóvão do Sul;"
 }

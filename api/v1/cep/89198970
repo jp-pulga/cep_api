@@ -1,12 +1,13 @@
 {
-  "cep": "89198970",
-  "logradouro": "AC Rio do Campo Rua Vinte e Nove de Dezembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio do Campo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89198970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Campo"
+    },
+    "ibge": 4214508,
+    "logradouro": "Rua Vinte e Nove de Dezembro, 553  AC Rio do Campo;"
 }

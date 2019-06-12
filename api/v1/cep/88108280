@@ -1,12 +1,12 @@
 {
-  "cep": "88108280",
-  "logradouro": "Rua Manoel Joaquim de Oliveira",
-  "bairro": "Roçado",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Roçado;",
+    "cep": "88108280",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Manoel Joaquim de Oliveira;"
 }

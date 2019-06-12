@@ -1,12 +1,12 @@
 {
-  "cep": "69041325",
-  "logradouro": "Rua Praia do Atalaia",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã;",
+    "cep": "69041325",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Praia do Atalaia;"
 }

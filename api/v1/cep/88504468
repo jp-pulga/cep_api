@@ -1,12 +1,12 @@
 {
-  "cep": "88504468",
-  "logradouro": "Rua Gustavo Richard de 1050/1051 ao fim",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504468",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Gustavo Richard - de 1050\/1051 ao fim;"
 }

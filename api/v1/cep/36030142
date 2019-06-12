@@ -1,12 +1,12 @@
 {
-  "cep": "36030142",
-  "logradouro": "Avenida Presidente João Goulart",
-  "bairro": "Cruzeiro do Sul",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro do Sul;",
+    "cep": "36030142",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Avenida Presidente João Goulart;"
 }

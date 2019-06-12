@@ -1,12 +1,12 @@
 {
-  "cep": "89050200",
-  "logradouro": "Rua Nestor Seara Heusi",
-  "bairro": "Ponta Aguda",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ponta Aguda;",
+    "cep": "89050200",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Nestor Seara Heusi;"
 }

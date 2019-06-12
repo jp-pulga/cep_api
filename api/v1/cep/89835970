@@ -1,12 +1,13 @@
 {
-  "cep": "89835970",
-  "logradouro": "AC São Domingos Rua Major Azambuja 389",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Domingos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89835970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Domingos"
+    },
+    "ibge": 4216107,
+    "logradouro": "Rua Major Azambuja, 389  AC São Domingos;"
 }

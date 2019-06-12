@@ -1,12 +1,12 @@
 {
-  "cep": "88370019",
-  "logradouro": "Rua Presidente Nereu Ramos",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "88370019",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Presidente Nereu Ramos;"
 }

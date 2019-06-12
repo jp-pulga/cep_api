@@ -1,12 +1,12 @@
 {
-  "cep": "89025355",
-  "logradouro": "Rua Taió",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "89025355",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Taió;"
 }

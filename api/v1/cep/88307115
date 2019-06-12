@@ -1,12 +1,12 @@
 {
-  "cep": "88307115",
-  "logradouro": "Rua São João Batista",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "88307115",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua São João Batista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89286786",
-  "logradouro": "Estrada Carlos Schroeder de 449/450 a 1998/1999",
-  "bairro": "Alpino",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Alpino;",
+    "cep": "89286786",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Estrada Carlos Schroeder - de 449\/450 a 1998\/1999;"
 }

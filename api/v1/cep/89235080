@@ -1,12 +1,12 @@
 {
-  "cep": "89235080",
-  "logradouro": "Rua Recanto da Saudade",
-  "bairro": "Boehmerwald",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boehmerwald;",
+    "cep": "89235080",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Recanto da Saudade;"
 }

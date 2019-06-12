@@ -1,12 +1,13 @@
 {
-  "cep": "88570970",
-  "logradouro": "AC São José do Cerrito Rua Anacleto da Silva Ortiz 184",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Cerrito",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88570970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José do Cerrito"
+    },
+    "ibge": 4216800,
+    "logradouro": "Rua Anacleto da Silva Ortiz, 184  AC São José do Cerrito;"
 }

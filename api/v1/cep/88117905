@@ -1,12 +1,12 @@
 {
-  "cep": "88117905",
-  "logradouro": "Fórum de São José Rua Domingos André Zanini 380",
-  "bairro": "Campinas",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campinas;",
+    "cep": "88117905",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Domingos André Zanini, 380  Fórum de São José;"
 }

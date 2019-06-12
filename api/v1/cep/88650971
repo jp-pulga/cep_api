@@ -1,12 +1,13 @@
 {
-  "cep": "88650971",
-  "logradouro": "AGC Santa Teresinha Rodovia SC-439 s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Urubici",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88650971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Urubici"
+    },
+    "ibge": 4218905,
+    "logradouro": "Rodovia SC-439, s\/n  AGC Santa Terezinha;"
 }

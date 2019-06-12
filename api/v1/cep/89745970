@@ -1,12 +1,13 @@
 {
-  "cep": "89745970",
-  "logradouro": "AC Presidente Castello Branco Avenida Dezessete de Fevereiro 88",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Castello Branco",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89745970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Presidente Castello Branco"
+    },
+    "ibge": 4213906,
+    "logradouro": "Avenida Dezessete de Fevereiro, 88  AC Presidente Castello Branco;"
 }

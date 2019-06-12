@@ -1,12 +1,12 @@
 {
-  "cep": "88103043",
-  "logradouro": "Rua Vidal Ramos Neto",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88103043",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Vidal Ramos Neto;"
 }

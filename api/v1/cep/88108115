@@ -1,12 +1,12 @@
 {
-  "cep": "88108115",
-  "logradouro": "Rua João Batista Merise",
-  "bairro": "Roçado",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Roçado;",
+    "cep": "88108115",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua João Batista Merise;"
 }

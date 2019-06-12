@@ -1,12 +1,12 @@
 {
-  "cep": "89288087",
-  "logradouro": "Rua Imigrante João Grossl lado par",
-  "bairro": "Colonial",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Colonial;",
+    "cep": "89288087",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Imigrante João Grossl - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89160358",
-  "logradouro": "Beco São Domingos Sávio",
-  "bairro": "Taboão",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Taboão;",
+    "cep": "89160358",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Beco São Domingos Sávio;"
 }

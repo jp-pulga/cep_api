@@ -1,12 +1,12 @@
 {
-  "cep": "89809551",
-  "logradouro": "Rua São Miguel do Oeste de 621/622 ao fim",
-  "bairro": "Efapi",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Efapi;",
+    "cep": "89809551",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua São Miguel do Oeste - de 621\/622 ao fim;"
 }

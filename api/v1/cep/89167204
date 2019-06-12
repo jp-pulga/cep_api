@@ -1,12 +1,12 @@
 {
-  "cep": "89167204",
-  "logradouro": "Servidão Verônica Alves de Campos",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "89167204",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Servidão Verônica Alves de Campos;"
 }

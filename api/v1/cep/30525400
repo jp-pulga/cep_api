@@ -1,12 +1,12 @@
 {
-  "cep": "30525400",
-  "logradouro": "Praça Atalaia",
-  "bairro": "Camargos",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Camargos;",
+    "cep": "30525400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Atalaia;"
 }

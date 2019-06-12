@@ -1,12 +1,12 @@
 {
-  "cep": "89813250",
-  "logradouro": "Travessa São Bonifácio",
-  "bairro": "Seminário",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Seminário;",
+    "cep": "89813250",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Travessa São Bonifácio;"
 }

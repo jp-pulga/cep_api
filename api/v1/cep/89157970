@@ -1,12 +1,13 @@
 {
-  "cep": "89157970",
-  "logradouro": "AC Witmarsum Rua Sete de Setembro 2430",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Witmarsum",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89157970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Witmarsum"
+    },
+    "ibge": 4219408,
+    "logradouro": "Rua Sete de Setembro, 1644  AC Witmarsum;"
 }

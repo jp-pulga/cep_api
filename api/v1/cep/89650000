@@ -1,12 +1,11 @@
 {
-  "cep": "89650000",
-  "logradouro": "Treze Tílias",
-  "bairro": "",
-  "cidade": {
-    "nome": "Treze Tílias",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89650000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Treze Tílias"
+    },
+    "ibge": 4218509
 }

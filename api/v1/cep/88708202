@@ -1,12 +1,13 @@
 {
-  "cep": "88708202",
-  "logradouro": "Rodovia SC-370 até 3662 - lado par",
-  "bairro": "Vila Esperança",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Esperança;",
+    "cep": "88708202",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "ibge": 4218707,
+    "logradouro": "Rodovia SC-370 - até 3662 - lado par;"
 }

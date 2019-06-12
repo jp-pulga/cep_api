@@ -1,12 +1,12 @@
 {
-  "cep": "88504012",
-  "logradouro": "Rua São Joaquim de 801/802 ao fim",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "88504012",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua São Joaquim - de 801\/802 ao fim;"
 }

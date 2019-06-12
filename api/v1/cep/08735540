@@ -1,12 +1,12 @@
 {
-  "cep": "08735540",
-  "logradouro": "Rua Francisco Machado Pires",
-  "bairro": "Vila Progresso",
-  "cidade": {
-    "nome": "Mogi das Cruzes",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Progresso;",
+    "cep": "08735540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi das Cruzes"
+    },
+    "logradouro": "Rua Francisco Machado Pires;"
 }

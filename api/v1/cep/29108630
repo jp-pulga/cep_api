@@ -1,12 +1,12 @@
 {
-  "cep": "29108630",
-  "logradouro": "Praça Assis Chateaubriand",
-  "bairro": "IBES",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "IBES;",
+    "cep": "29108630",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Praça Assis Chateaubriand;"
 }

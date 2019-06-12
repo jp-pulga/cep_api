@@ -1,12 +1,12 @@
 {
-  "cep": "88020230",
-  "logradouro": "Rua Treze de Maio",
-  "bairro": "José Mendes",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "José Mendes;",
+    "cep": "88020230",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua 13 de Maio - lado par;"
 }

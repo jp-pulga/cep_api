@@ -1,12 +1,13 @@
 {
-  "cep": "89854971",
-  "logradouro": "AGC Santiago do Sul Rua Ângelo Toazza 600",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santiago do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89854971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Santiago do Sul"
+    },
+    "ibge": 4215695,
+    "logradouro": "Rua Ângelo Toazza, 600  AGC Santiago do Sul;"
 }

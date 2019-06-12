@@ -1,12 +1,12 @@
 {
-  "cep": "12722520",
-  "logradouro": "Rua Manoel Alves Machado",
-  "bairro": "Parque Primavera",
-  "cidade": {
-    "nome": "Cruzeiro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Primavera;",
+    "cep": "12722520",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cruzeiro"
+    },
+    "logradouro": "Rua Manoel Alves Machado;"
 }

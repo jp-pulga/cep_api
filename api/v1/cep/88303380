@@ -1,12 +1,12 @@
 {
-  "cep": "88303380",
-  "logradouro": "Rua Joaquim Falco Uriarte",
-  "bairro": "São Judas",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Judas;",
+    "cep": "88303380",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Joaquim Falco Uriarte;"
 }

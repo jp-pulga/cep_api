@@ -1,12 +1,12 @@
 {
-  "cep": "88113230",
-  "logradouro": "Rua Santa Terezinha",
-  "bairro": "Areias",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Areias;",
+    "cep": "88113230",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Santa Terezinha;"
 }

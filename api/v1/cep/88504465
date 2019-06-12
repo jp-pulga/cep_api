@@ -1,12 +1,12 @@
 {
-  "cep": "88504465",
-  "logradouro": "Rua Anápolis de 900/901 ao fim",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504465",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Anápolis - de 900\/901 ao fim;"
 }

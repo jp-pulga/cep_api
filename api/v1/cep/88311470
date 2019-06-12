@@ -1,12 +1,12 @@
 {
-  "cep": "88311470",
-  "logradouro": "Avenida Presidente Castelo Branco",
-  "bairro": "Salseiros",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Salseiros;",
+    "cep": "88311470",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Avenida Presidente Castelo Branco;"
 }

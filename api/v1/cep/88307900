@@ -1,12 +1,12 @@
 {
-  "cep": "88307900",
-  "logradouro": "Seara Alimentos Avenida Vereador Abrahão João Francisco 3655",
-  "bairro": "Ressacada",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ressacada;",
+    "cep": "88307900",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Avenida Vereador Abrahão João Francisco, 3655  Seara Alimentos;"
 }

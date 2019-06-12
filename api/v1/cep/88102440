@@ -1,12 +1,12 @@
 {
-  "cep": "88102440",
-  "logradouro": "Rua Joaquim Maximiano Sarmento",
-  "bairro": "Kobrasol",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Kobrasol;",
+    "cep": "88102440",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Joaquim Maximiano Sarmento;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89228050",
-  "logradouro": "Rua Rio dos Cedros",
-  "bairro": "Comasa",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Comasa;",
+    "cep": "89228050",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Rio dos Cedros;"
 }

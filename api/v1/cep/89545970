@@ -1,12 +1,13 @@
 {
-  "cep": "89545970",
-  "logradouro": "AC Timbó Grande Rua São José 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Timbó Grande",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89545970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Timbó Grande"
+    },
+    "ibge": 4218251,
+    "logradouro": "Rua São José, 310  AC Timbó Grande;"
 }

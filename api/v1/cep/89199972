@@ -1,12 +1,13 @@
 {
-  "cep": "89199972",
-  "logradouro": "AC Santa Terezinha Rua Santa Terezinha 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Terezinha",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89199972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Santa Terezinha"
+    },
+    "ibge": 4215679,
+    "logradouro": "Rua Santa Terezinha, 21  AC Santa Terezinha;"
 }

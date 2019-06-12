@@ -1,12 +1,12 @@
 {
-  "cep": "88811525",
-  "logradouro": "Rua Vidal Ramos",
-  "bairro": "Pio Corrêa",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pio Corrêa;",
+    "cep": "88811525",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Vidal Ramos;"
 }

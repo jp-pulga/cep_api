@@ -1,12 +1,13 @@
 {
-  "cep": "88125971",
-  "logradouro": "AC São Pedro de Alcântara Praça Leopoldo Francisco Kretzer 61",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro de Alcântara",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88125971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Pedro de Alcântara"
+    },
+    "ibge": 4217253,
+    "logradouro": "Praça Leopoldo Francisco Kretzer, 61  AC São Pedro de Alcântara;"
 }

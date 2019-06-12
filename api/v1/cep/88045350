@@ -1,12 +1,12 @@
 {
-  "cep": "88045350",
-  "logradouro": "Travessa Santa Terezinha",
-  "bairro": "Saco dos Limões",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Saco dos Limões;",
+    "cep": "88045350",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Travessa Santa Terezinha;"
 }

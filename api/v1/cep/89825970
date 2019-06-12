@@ -1,12 +1,13 @@
 {
-  "cep": "89825970",
-  "logradouro": "AC Xaxim Avenida Plinio Arlindo de Nes 1334",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xaxim",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89825970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Xaxim"
+    },
+    "ibge": 4219705,
+    "logradouro": "Avenida Plinio Arlindo de Nes, 1334  AC Xaxim;"
 }

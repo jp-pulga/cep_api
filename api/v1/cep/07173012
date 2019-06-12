@@ -1,12 +1,12 @@
 {
-  "cep": "07173012",
-  "logradouro": "Viela Andira",
-  "bairro": "Jardim Presidente Dutra",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Presidente Dutra;",
+    "cep": "07173012",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Viela Andira;"
 }

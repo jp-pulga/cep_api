@@ -1,12 +1,12 @@
 {
-  "cep": "88304320",
-  "logradouro": "Rua Luiz Bonifácio Pinto",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "88304320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Luiz Bonifácio Pinto;"
 }

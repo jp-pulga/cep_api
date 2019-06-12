@@ -1,12 +1,12 @@
 {
-  "cep": "88504457",
-  "logradouro": "Rua Manaus de 111/112 a 404/405",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "88504457",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Manaus - de 111\/112 a 404\/405;"
 }

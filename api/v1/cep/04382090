@@ -1,12 +1,12 @@
 {
-  "cep": "04382090",
-  "logradouro": "Travessa Professor João Marques de Castro",
-  "bairro": "Conjunto Residencial Jardim Canaã",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Residencial Jardim Canaã;",
+    "cep": "04382090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Professor João Marques de Castro;"
 }

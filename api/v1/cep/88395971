@@ -1,12 +1,13 @@
 {
-  "cep": "88395971",
-  "logradouro": "AC São João do Itaperiú Rua José Evilásio Ramos 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Itaperiú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88395971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São João do Itaperiú"
+    },
+    "ibge": 4216354,
+    "logradouro": "Rua José Evilásio Ramos Rua 25  AC São João do Itaperiú;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "15025121",
-  "logradouro": "Praça Nossa Senhora Aparecida",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "15025121",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Praça Nossa Senhora Aparecida;"
 }

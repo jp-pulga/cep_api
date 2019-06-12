@@ -1,12 +1,12 @@
 {
-  "cep": "30855500",
-  "logradouro": "Rodovia BR-040 do km 530000 ao km 532000",
-  "bairro": "Califórnia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Califórnia;",
+    "cep": "30855500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rodovia Presidente Juscelino Kubitschek - do km 530,000 ao km 532,000;"
 }

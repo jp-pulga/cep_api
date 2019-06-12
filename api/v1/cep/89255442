@@ -1,12 +1,12 @@
 {
-  "cep": "89255442",
-  "logradouro": "Rua 13 de Maio de 552/553 ao fim",
-  "bairro": "Amizade",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Amizade;",
+    "cep": "89255442",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua 13 de Maio - de 552\/553 ao fim;"
 }

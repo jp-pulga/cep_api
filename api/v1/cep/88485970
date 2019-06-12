@@ -1,12 +1,13 @@
 {
-  "cep": "88485970",
-  "logradouro": "AC São Bonifácio Avenida 29 de Dezembro 660",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bonifácio",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88485970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bonifácio"
+    },
+    "ibge": 4215901,
+    "logradouro": "Avenida 29 de Dezembro, 660  AC São Bonifácio;"
 }

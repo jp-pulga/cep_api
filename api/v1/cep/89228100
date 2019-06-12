@@ -1,12 +1,12 @@
 {
-  "cep": "89228100",
-  "logradouro": "Rua Praia Grande",
-  "bairro": "Comasa",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Comasa;",
+    "cep": "89228100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Praia Grande;"
 }

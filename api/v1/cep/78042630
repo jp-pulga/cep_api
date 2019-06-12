@@ -1,12 +1,12 @@
 {
-  "cep": "78042630",
-  "logradouro": "Rua Presidente Tancredo Neves",
-  "bairro": "Novo Colorado",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Colorado;",
+    "cep": "78042630",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Presidente Tancredo Neves;"
 }

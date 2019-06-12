@@ -1,12 +1,13 @@
 {
-  "cep": "88550970",
-  "logradouro": "AC Ponte Alta Rua Valdir Ortigari 190",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Alta",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88550970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ponte Alta"
+    },
+    "ibge": 4213302,
+    "logradouro": "Rua Valdir Ortigari, 190  AC Ponte Alta;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88807645",
-  "logradouro": "Rua João Manoel dos Santos",
-  "bairro": "Sangão",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sangão;",
+    "cep": "88807645",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua João Manoel dos Santos;"
 }

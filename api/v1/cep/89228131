@@ -1,12 +1,12 @@
 {
-  "cep": "89228131",
-  "logradouro": "Rua Witmarsum de 597/598 ao fim",
-  "bairro": "Comasa",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Comasa;",
+    "cep": "89228131",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Witmarsum - de 597\/598 ao fim;"
 }

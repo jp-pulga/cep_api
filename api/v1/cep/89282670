@@ -1,12 +1,13 @@
 {
-  "cep": "89282670",
-  "logradouro": "Avenida dos Imigrantes de 2102 ao fim - lado par",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "89282670",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "ibge": 4215802,
+    "logradouro": "Avenida dos Imigrantes - de 2102 ao fim - lado par;"
 }

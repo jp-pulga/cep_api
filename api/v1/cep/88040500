@@ -1,12 +1,12 @@
 {
-  "cep": "88040500",
-  "logradouro": "Avenida César Seara",
-  "bairro": "Carvoeira",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Carvoeira;",
+    "cep": "88040500",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Avenida César Seara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88730970",
-  "logradouro": "AC São Ludgero Rua Padre Roher 149",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Ludgero",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88730970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Ludgero"
+    },
+    "ibge": 4217006,
+    "logradouro": "Rua João Wessler, 109 Sala 5  AC São Ludgero;"
 }

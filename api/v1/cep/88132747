@@ -1,12 +1,12 @@
 {
-  "cep": "88132747",
-  "logradouro": "Rua Tubarão",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "88132747",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Tubarão;"
 }

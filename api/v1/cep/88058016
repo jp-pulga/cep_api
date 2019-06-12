@@ -1,12 +1,12 @@
 {
-  "cep": "88058016",
-  "logradouro": "Rua Maurino Manoel Matias",
-  "bairro": "Vargem Grande",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Grande;",
+    "cep": "88058016",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Maurino Manoel Matias;"
 }

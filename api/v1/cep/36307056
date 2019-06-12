@@ -1,12 +1,12 @@
 {
-  "cep": "36307056",
-  "logradouro": "Rua Fortaleza",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "36307056",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Prefeito Geraldo Cid de Castro Valério;"
 }

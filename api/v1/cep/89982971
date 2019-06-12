@@ -1,12 +1,13 @@
 {
-  "cep": "89982971",
-  "logradouro": "AC São Bernardino Rua Verônica Scheid s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bernardino",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89982971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bernardino"
+    },
+    "ibge": 4215752,
+    "logradouro": "Rua Verônica Scheid, s\/n  AC São Bernardino;"
 }

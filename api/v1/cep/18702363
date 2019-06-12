@@ -1,12 +1,12 @@
 {
-  "cep": "18702363",
-  "logradouro": "Rua Professor Luiz Custódio Lopes",
-  "bairro": "Jardim Bom Sucesso II",
-  "cidade": {
-    "nome": "Avaré",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bom Sucesso II;",
+    "cep": "18702363",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Avaré"
+    },
+    "logradouro": "Rua Professor Luiz Custódio Lopes;"
 }

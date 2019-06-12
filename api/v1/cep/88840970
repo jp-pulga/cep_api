@@ -1,12 +1,13 @@
 {
-  "cep": "88840970",
-  "logradouro": "AC Urussanga Rua Cesar Mariot 186",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Urussanga",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88840970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Urussanga"
+    },
+    "ibge": 4219002,
+    "logradouro": "Rua Cesar Mariot, 186  AC Urussanga;"
 }

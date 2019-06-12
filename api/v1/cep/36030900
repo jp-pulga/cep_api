@@ -1,12 +1,12 @@
 {
-  "cep": "36030900",
-  "logradouro": "Soc. Ensino Superior Estácio de Sá (Campus Rio Branco) Avenida Presidente João Goulart 600",
-  "bairro": "Cruzeiro do Sul",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro do Sul;",
+    "cep": "36030900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Avenida Presidente João Goulart, 600  Soc. Ensino Superior Estácio de Sá (Campus Rio Branco);"
 }

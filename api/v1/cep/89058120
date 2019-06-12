@@ -1,12 +1,12 @@
 {
-  "cep": "89058120",
-  "logradouro": "Rua Serra da Mantiqueira",
-  "bairro": "Fortaleza Alta",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fortaleza Alta;",
+    "cep": "89058120",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Serra da Mantiqueira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88210970",
-  "logradouro": "AC Porto Belo Rua Gualberto Leal Nunes 240",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Belo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88210970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Porto Belo"
+    },
+    "ibge": 4213500,
+    "logradouro": "Rua Gualberto Leal Nunes, 240  AC Porto Belo;"
 }

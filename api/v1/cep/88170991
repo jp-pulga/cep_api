@@ -1,12 +1,11 @@
 {
-  "cep": "88170991",
-  "logradouro": "Jardim Anápolis Rua Treze de Maio 1199",
-  "bairro": "",
-  "cidade": {
-    "nome": "Sorocaba do Sul (Biguaçu)",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88170991",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Sorocaba do Sul"
+    },
+    "logradouro": "Rua Treze de Maio, 1199  CPC Jardim Anápolis;"
 }

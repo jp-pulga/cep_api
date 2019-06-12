@@ -1,12 +1,12 @@
 {
-  "cep": "88048386",
-  "logradouro": "Servidão Urussanga",
-  "bairro": "Rio Tavares",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Tavares;",
+    "cep": "88048386",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Urussanga;"
 }

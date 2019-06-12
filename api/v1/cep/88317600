@@ -1,12 +1,12 @@
 {
-  "cep": "88317600",
-  "logradouro": "Rua Domingos Rampelotti",
-  "bairro": "São Roque",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Roque;",
+    "cep": "88317600",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Domingos Rampelotti;"
 }

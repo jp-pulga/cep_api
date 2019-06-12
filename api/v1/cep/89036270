@@ -1,12 +1,12 @@
 {
-  "cep": "89036270",
-  "logradouro": "Rua Princesa Izabel",
-  "bairro": "Velha",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Velha;",
+    "cep": "89036270",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Princesa Izabel;"
 }

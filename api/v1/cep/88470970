@@ -1,12 +1,13 @@
 {
-  "cep": "88470970",
-  "logradouro": "AC Rancho Queimado Praça Leonardo Sell 199",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rancho Queimado",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88470970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rancho Queimado"
+    },
+    "ibge": 4214300,
+    "logradouro": "Praça Leonardo Sell, 199  AC Rancho Queimado;"
 }

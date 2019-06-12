@@ -1,12 +1,13 @@
 {
-  "cep": "89935971",
-  "logradouro": "AC Princesa Rua Rio Grande do Sul 850",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Princesa",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89935971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Princesa"
+    },
+    "ibge": 4214151,
+    "logradouro": "Rua Rio Grande do Sul, 850  AC Princesa;"
 }

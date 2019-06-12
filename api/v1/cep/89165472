@@ -1,12 +1,13 @@
 {
-  "cep": "89165472",
-  "logradouro": "Avenida Barão do Rio Branco",
-  "bairro": "Budag",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Budag;",
+    "cep": "89165472",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "ibge": 4214805,
+    "logradouro": "Avenida Barão do Rio Branco;"
 }

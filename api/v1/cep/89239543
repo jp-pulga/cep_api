@@ -1,12 +1,12 @@
 {
-  "cep": "89239543",
-  "logradouro": "Rua Rufino Heidemann",
-  "bairro": "Rio Bonito (Pirabeiraba)",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Bonito (Pirabeiraba);",
+    "cep": "89239543",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Rufino Heidemann;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "06702620",
-  "logradouro": "Rua Cornélio Procópio",
-  "bairro": "Parque Rizzo",
-  "cidade": {
-    "nome": "Cotia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Rizzo;",
+    "cep": "06702620",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cotia"
+    },
+    "logradouro": "Rua Cornélio Procópio;"
 }

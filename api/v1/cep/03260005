@@ -1,12 +1,12 @@
 {
-  "cep": "03260005",
-  "logradouro": "Praça Tenente-Coronel Nelson de Paula Campos",
-  "bairro": "Vila Cunha Bueno",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Cunha Bueno;",
+    "cep": "03260005",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Tenente-Coronel Nelson de Paula Campos;"
 }

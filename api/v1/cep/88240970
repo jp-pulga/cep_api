@@ -1,12 +1,13 @@
 {
-  "cep": "88240970",
-  "logradouro": "AC São João Batista Rua João Andregtoni 102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Batista",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88240970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São João Batista"
+    },
+    "ibge": 4216305,
+    "logradouro": "Rua João Andregtoni, 102  AC São João Batista;"
 }

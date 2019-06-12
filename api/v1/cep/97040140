@@ -1,12 +1,12 @@
 {
-  "cep": "97040140",
-  "logradouro": "Rua Cruzeiro do Sul",
-  "bairro": "Divina Providência",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Divina Providência;",
+    "cep": "97040140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Cruzeiro do Sul;"
 }

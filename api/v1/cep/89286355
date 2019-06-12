@@ -1,12 +1,12 @@
 {
-  "cep": "89286355",
-  "logradouro": "Rua Francisco Loersch",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "89286355",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Francisco Loersch - lado ímpar;"
 }
