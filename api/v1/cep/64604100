@@ -1,12 +1,12 @@
 {
-  "cep": "64604100",
-  "logradouro": "Rua Coronel Luis Nunes",
-  "bairro": "Ipueiras",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ipueiras;",
+    "cep": "64604100",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Coronel Luis Nunes;"
 }

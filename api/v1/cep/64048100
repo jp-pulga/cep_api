@@ -1,12 +1,12 @@
 {
-  "cep": "64048100",
-  "logradouro": "Rua Demerval Lobão",
-  "bairro": "Jóquei",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Jóquei;",
+    "cep": "64048100",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Demerval Lobão;"
 }

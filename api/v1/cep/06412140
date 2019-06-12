@@ -1,12 +1,12 @@
 {
-  "cep": "06412140",
-  "logradouro": "Rua Mar Vermelho",
-  "bairro": "Jardim Regina Alice",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Regina Alice;",
+    "cep": "06412140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Rua Mar Vermelho;"
 }

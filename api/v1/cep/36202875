@@ -1,12 +1,12 @@
 {
-  "cep": "36202875",
-  "logradouro": "Rua Jair Messias Diniz",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vista Alegre;",
+    "cep": "36202875",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Jair Messias Diniz;"
 }

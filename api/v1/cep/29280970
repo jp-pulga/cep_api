@@ -1,12 +1,12 @@
 {
-  "cep": "29280970",
-  "logradouro": "AC Iconha Rua Virgílio Silva 278",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iconha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29280970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Iconha"
+    },
+    "logradouro": "Rua Virgílio Silva, 278  AC Iconha;"
 }

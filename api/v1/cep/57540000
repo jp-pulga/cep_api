@@ -1,12 +1,11 @@
 {
-  "cep": "57540000",
-  "logradouro": "Mata Grande",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mata Grande",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57540000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Mata Grande"
+    },
+    "ibge": 2705002
 }

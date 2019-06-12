@@ -1,12 +1,11 @@
 {
-  "cep": "49480000",
-  "logradouro": "Simão Dias",
-  "bairro": "",
-  "cidade": {
-    "nome": "Simão Dias",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49480000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Simão Dias"
+    },
+    "ibge": 2807105
 }

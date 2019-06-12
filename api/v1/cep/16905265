@@ -1,12 +1,12 @@
 {
-  "cep": "16905265",
-  "logradouro": "Rua Alessandra Andrade Dias",
-  "bairro": "Vila Messias",
-  "cidade": {
-    "nome": "Andradina",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Messias;",
+    "cep": "16905265",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Andradina"
+    },
+    "logradouro": "Rua Alessandra Andrade Dias;"
 }

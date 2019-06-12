@@ -1,12 +1,12 @@
 {
-  "cep": "64048912",
-  "logradouro": "Condomínio Jardim Versalles Rua Demerval Lobão 1749",
-  "bairro": "Jóquei",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Jóquei;",
+    "cep": "64048912",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Demerval Lobão, 1749  Condomínio Jardim Versalles;"
 }

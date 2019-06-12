@@ -1,12 +1,13 @@
 {
-  "cep": "58117973",
-  "logradouro": "AGC Chã do Marinho Rua Principal s/n",
-  "bairro": "Povoado Chã do Marinho",
-  "cidade": {
-    "nome": "Lagoa Seca",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Povoado Chã do Marinho;",
+    "cep": "58117973",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Lagoa Seca"
+    },
+    "ibge": 2508307,
+    "logradouro": "Rua Principal, s\/n  AGC Chã do Marinho;"
 }

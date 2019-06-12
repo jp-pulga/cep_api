@@ -1,12 +1,12 @@
 {
-  "cep": "57081870",
-  "logradouro": "Rua José Ferreira de Messias",
-  "bairro": "Tabuleiro do Martins",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Tabuleiro do Martins;",
+    "cep": "57081870",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua José Ferreira de Messias;"
 }

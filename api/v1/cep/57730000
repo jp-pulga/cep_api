@@ -1,12 +1,11 @@
 {
-  "cep": "57730000",
-  "logradouro": "Mar Vermelho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mar Vermelho",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57730000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Mar Vermelho"
+    },
+    "ibge": 2704906
 }

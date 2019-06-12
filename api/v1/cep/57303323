@@ -1,12 +1,12 @@
 {
-  "cep": "57303323",
-  "logradouro": "Rua Marlene Messias de Lemos",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "57303323",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Marlene Messias de Lemos;"
 }

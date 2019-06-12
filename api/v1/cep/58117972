@@ -1,12 +1,13 @@
 {
-  "cep": "58117972",
-  "logradouro": "AGC Alvinho Sítio Alvinho s/n",
-  "bairro": "Sítio",
-  "cidade": {
-    "nome": "Lagoa Seca",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Sítio;",
+    "cep": "58117972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Lagoa Seca"
+    },
+    "ibge": 2508307,
+    "logradouro": "Sítio Alvinho, s\/n  AGC Alvinho;"
 }

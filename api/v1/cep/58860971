@@ -1,12 +1,12 @@
 {
-  "cep": "58860971",
-  "logradouro": "AGC Ipueira Rua da Telpa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulista",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58860971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Paulista"
+    },
+    "logradouro": "Rua da Telpa, s\/n  AGC Ipueira;"
 }

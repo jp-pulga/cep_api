@@ -1,12 +1,11 @@
 {
-  "cep": "68633000",
-  "logradouro": "Dom Eliseu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Dom Eliseu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68633000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Dom Eliseu"
+    },
+    "ibge": 1502939
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "49280000",
-  "logradouro": "Tomar do Geru",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tomar do Geru",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49280000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Tomar do Geru"
+    },
+    "ibge": 2807501
 }

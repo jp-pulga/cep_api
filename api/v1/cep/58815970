@@ -1,12 +1,12 @@
 {
-  "cep": "58815970",
-  "logradouro": "AC São José da Lagoa Tapada Rua Ananias Sarmento s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Lagoa Tapada",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58815970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José da Lagoa Tapada"
+    },
+    "logradouro": "Rua Ananias Sarmento, 59  AC São José da Lagoa Tapada;"
 }

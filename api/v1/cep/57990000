@@ -1,12 +1,11 @@
 {
-  "cep": "57990000",
-  "logradouro": "Messias",
-  "bairro": "",
-  "cidade": {
-    "nome": "Messias",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57990000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Messias"
+    },
+    "ibge": 2705200
 }

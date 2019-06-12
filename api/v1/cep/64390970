@@ -1,12 +1,13 @@
 {
-  "cep": "64390970",
-  "logradouro": "AC Demerval Lobão Avenida Padre Joaquim Nonato 1264",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Demerval Lobão",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64390970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Demerval Lobão"
+    },
+    "ibge": 2203305,
+    "logradouro": "Avenida Padre Joaquim Nonato, 1264  AC Demerval Lobão;"
 }

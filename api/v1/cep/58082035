@@ -1,12 +1,12 @@
 {
-  "cep": "58082035",
-  "logradouro": "Rua da Lagoa até 99998 - lado esquerdo",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "58082035",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua da Lagoa;"
 }

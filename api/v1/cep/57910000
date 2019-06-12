@@ -1,12 +1,11 @@
 {
-  "cep": "57910000",
-  "logradouro": "Matriz de Camaragibe",
-  "bairro": "",
-  "cidade": {
-    "nome": "Matriz de Camaragibe",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57910000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Matriz de Camaragibe"
+    },
+    "ibge": 2705101
 }

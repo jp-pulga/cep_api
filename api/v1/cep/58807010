@@ -1,12 +1,12 @@
 {
-  "cep": "58807010",
-  "logradouro": "Rua Francisco Celeste",
-  "bairro": "Jardim Iracema",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Iracema;",
+    "cep": "58807010",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Francisco Celeste;"
 }

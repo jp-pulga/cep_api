@@ -1,12 +1,12 @@
 {
-  "cep": "58119970",
-  "logradouro": "AC São Sebastião de Lagoa de Roça Rua José Rodrigues Coura 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sebastião de Lagoa de Roça",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58119970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Sebastião de Lagoa de Roça"
+    },
+    "logradouro": "Rua José Rodrigues Coura, 52  AC São Sebastião de Lagoa de Roça;"
 }

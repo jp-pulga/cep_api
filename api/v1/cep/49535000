@@ -1,12 +1,11 @@
 {
-  "cep": "49535000",
-  "logradouro": "São Miguel do Aleixo",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Miguel do Aleixo",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49535000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "São Miguel do Aleixo"
+    },
+    "ibge": 2807006
 }

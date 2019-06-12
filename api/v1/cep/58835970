@@ -1,12 +1,13 @@
 {
-  "cep": "58835970",
-  "logradouro": "AC Lagoa Rua Isabel Pereira 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58835970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Lagoa"
+    },
+    "ibge": 2508109,
+    "logradouro": "Rua Isabel Pereira, 34  AC Lagoa;"
 }
