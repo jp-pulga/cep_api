@@ -1,12 +1,12 @@
 {
-  "cep": "78587970",
-  "logradouro": "AC Carlinda Avenida Mato Grosso 676",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carlinda",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78587970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Carlinda"
+    },
+    "logradouro": "Avenida das Itaúbas, 676  AC Carlinda;"
 }

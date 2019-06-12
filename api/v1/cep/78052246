@@ -1,12 +1,12 @@
 {
-  "cep": "78052246",
-  "logradouro": "Rua Campo Verde",
-  "bairro": "Doutor Fábio Leite II",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Doutor Fábio Leite II;",
+    "cep": "78052246",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Campo Verde;"
 }

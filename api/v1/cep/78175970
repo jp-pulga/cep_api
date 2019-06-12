@@ -1,12 +1,13 @@
 {
-  "cep": "78175970",
-  "logradouro": "AC Poconé Rua Salvador Marques 335",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poconé",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78175970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Poconé"
+    },
+    "ibge": 5106505,
+    "logradouro": "Rua Salvador Marques, 335  AC Poconé;"
 }

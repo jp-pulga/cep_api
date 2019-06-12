@@ -1,12 +1,11 @@
 {
-  "cep": "78860000",
-  "logradouro": "Nova Brasilândia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Brasilândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78860000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Brasilândia"
+    },
+    "ibge": 5106208
 }

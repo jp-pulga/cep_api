@@ -1,12 +1,12 @@
 {
-  "cep": "78143368",
-  "logradouro": "Rua Arenápolis (Lot T Nova)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78143368",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Arenápolis (Lot T Nova);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78233970",
-  "logradouro": "AGC Getúlio Vargas Rua Principal s/n",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Cáceres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Getúlio Vargas;",
+    "cep": "78233970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cáceres"
+    },
+    "ibge": 5102504,
+    "logradouro": "Rua Principal, s\/n  AGC Getúlio Vargas;"
 }

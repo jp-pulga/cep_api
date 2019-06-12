@@ -1,12 +1,12 @@
 {
-  "cep": "78090595",
-  "logradouro": "Rua Quatro",
-  "bairro": "Jardim Comodoro",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Comodoro;",
+    "cep": "78090595",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Quatro;"
 }

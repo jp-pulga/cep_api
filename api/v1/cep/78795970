@@ -1,12 +1,13 @@
 {
-  "cep": "78795970",
-  "logradouro": "AC Pedra Preta Avenida Frei Servacio 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra Preta",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78795970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Pedra Preta"
+    },
+    "ibge": 5106372,
+    "logradouro": "Avenida Frei Servácio, 310  AC Pedra Preta;"
 }

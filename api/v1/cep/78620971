@@ -1,12 +1,13 @@
 {
-  "cep": "78620971",
-  "logradouro": "AGC Sangradouro Rua Principal s/n",
-  "bairro": "Sangradouro",
-  "cidade": {
-    "nome": "General Carneiro",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Sangradouro;",
+    "cep": "78620971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "General Carneiro"
+    },
+    "ibge": 5103908,
+    "logradouro": "Rua Principal, s\/n  AGC Sangradouro;"
 }

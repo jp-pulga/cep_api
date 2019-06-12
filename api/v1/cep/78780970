@@ -1,12 +1,13 @@
 {
-  "cep": "78780970",
-  "logradouro": "AC Alto Araguaia Avenida Carlos Hugney 260",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Araguaia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78780970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alto Araguaia"
+    },
+    "ibge": 5100300,
+    "logradouro": "Avenida Carlos Hugney, 260  AC Alto Araguaia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78042070",
-  "logradouro": "Rua Nortelândia",
-  "bairro": "Parque Amperco",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque Amperco;",
+    "cep": "78042070",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Nortelândia;"
 }

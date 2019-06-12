@@ -1,12 +1,12 @@
 {
-  "cep": "78143395",
-  "logradouro": "Rua Jaciara (Lot T Nova)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78143395",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Jaciara (Lot T Nova);"
 }

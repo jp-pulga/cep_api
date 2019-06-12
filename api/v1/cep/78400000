@@ -1,12 +1,11 @@
 {
-  "cep": "78400000",
-  "logradouro": "Diamantino",
-  "bairro": "",
-  "cidade": {
-    "nome": "Diamantino",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78400000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Diamantino"
+    },
+    "ibge": 5103502
 }

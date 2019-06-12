@@ -1,12 +1,11 @@
 {
-  "cep": "78515000",
-  "logradouro": "Nova Canaã do Norte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Canaã do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78515000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Canaã do Norte"
+    },
+    "ibge": 5106216
 }

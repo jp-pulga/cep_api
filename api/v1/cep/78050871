@@ -1,12 +1,12 @@
 {
-  "cep": "78050871",
-  "logradouro": "Rua Ciríaco Cândia",
-  "bairro": "Campo Verde",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Campo Verde;",
+    "cep": "78050871",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Ciríaco Cândia;"
 }

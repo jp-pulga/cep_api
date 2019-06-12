@@ -1,12 +1,13 @@
 {
-  "cep": "78785970",
-  "logradouro": "AC Alto Taquari Avenida Coronel Macario Subtil de Oliveira 788",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Taquari",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78785970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alto Taquari"
+    },
+    "ibge": 5100607,
+    "logradouro": "Avenida Coronel Macario Subtil de Oliveira, 788  AC Alto Taquari;"
 }

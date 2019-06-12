@@ -1,12 +1,12 @@
 {
-  "cep": "78042020",
-  "logradouro": "Rua Barra do Garças",
-  "bairro": "Parque Amperco",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque Amperco;",
+    "cep": "78042020",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Barra do Garças;"
 }

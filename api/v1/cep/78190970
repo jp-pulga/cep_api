@@ -1,12 +1,13 @@
 {
-  "cep": "78190970",
-  "logradouro": "AC Barão de Melgaço Rua Fernando Correa da Costa 118",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barão de Melgaço",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78190970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barão de Melgaço"
+    },
+    "ibge": 5101605,
+    "logradouro": "Rua Fernando Correa da Costa, 118  AC Barão de Melgaço;"
 }

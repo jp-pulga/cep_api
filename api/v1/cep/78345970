@@ -1,12 +1,13 @@
 {
-  "cep": "78345970",
-  "logradouro": "AC Castanheira Rua Gilio Rezziere 06",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Castanheira",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78345970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Castanheira"
+    },
+    "ibge": 5102850,
+    "logradouro": "Avenida Quatro de Julho, 234  AC Castanheira;"
 }

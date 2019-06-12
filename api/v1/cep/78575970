@@ -1,12 +1,13 @@
 {
-  "cep": "78575970",
-  "logradouro": "AC Juara Praça dos Colonizadores 44 Setor E",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juara",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78575970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Juara"
+    },
+    "ibge": 5105101,
+    "logradouro": "Praça dos Colonizadores, 44 Setor E  AC Juara;"
 }

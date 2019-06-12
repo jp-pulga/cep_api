@@ -1,12 +1,13 @@
 {
-  "cep": "78621970",
-  "logradouro": "AGC Vila Paredão Grande Rua Principal s/n",
-  "bairro": "Paredão",
-  "cidade": {
-    "nome": "General Carneiro",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Paredão;",
+    "cep": "78621970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "General Carneiro"
+    },
+    "ibge": 5103908,
+    "logradouro": "Rua Principal, s\/n  AGC Vila Paredão Grande;"
 }

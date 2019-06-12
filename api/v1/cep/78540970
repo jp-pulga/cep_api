@@ -1,12 +1,13 @@
 {
-  "cep": "78540970",
-  "logradouro": "AC Cláudia Avenida Marechal Cândido Rondon 1382",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cláudia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78540970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cláudia"
+    },
+    "ibge": 5103056,
+    "logradouro": "Avenida Marechal Cândido Rondon, 1382  AC Cláudia;"
 }

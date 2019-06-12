@@ -1,12 +1,13 @@
 {
-  "cep": "78615970",
-  "logradouro": "AC Araguainha Rua Bahia s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araguainha",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78615970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Araguainha"
+    },
+    "ibge": 5101209,
+    "logradouro": "Rua Bahia, s\/n  AC Araguainha;"
 }

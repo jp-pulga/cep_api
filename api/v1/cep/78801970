@@ -1,12 +1,13 @@
 {
-  "cep": "78801970",
-  "logradouro": "AGC Aparecida do Leste Rua Principal s/n",
-  "bairro": "Aparecida do Leste",
-  "cidade": {
-    "nome": "Poxoréu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Aparecida do Leste;",
+    "cep": "78801970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Poxoréu"
+    },
+    "ibge": 5107008,
+    "logradouro": "Rua Principal, s\/n  AGC Aparecida do Leste;"
 }

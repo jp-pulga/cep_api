@@ -1,12 +1,13 @@
 {
-  "cep": "78586970",
-  "logradouro": "AGC Novo Cruzeiro Rua Coxim s/n",
-  "bairro": "Novo Cruzeiro",
-  "cidade": {
-    "nome": "Alta Floresta",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Cruzeiro;",
+    "cep": "78586970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alta Floresta"
+    },
+    "ibge": 5100250,
+    "logradouro": "Rua Coxim, s\/n  AGC Novo Cruzeiro;"
 }

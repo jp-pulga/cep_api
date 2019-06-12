@@ -1,12 +1,13 @@
 {
-  "cep": "78058789",
-  "logradouro": "Rua Monte Azul",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "78058789",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Rua Monte Azul;"
 }

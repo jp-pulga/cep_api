@@ -1,12 +1,12 @@
 {
-  "cep": "78158207",
-  "logradouro": "Avenida Júlio Domingos de Campos (Lot A Luiza)",
-  "bairro": "Jardim dos Estados",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim dos Estados;",
+    "cep": "78158207",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida Júlio Domingos de Campos (Lot A Luiza);"
 }

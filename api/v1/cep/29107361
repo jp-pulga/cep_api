@@ -1,12 +1,12 @@
 {
-  "cep": "29107361",
-  "logradouro": "Rua Gonçalves Dias",
-  "bairro": "Boa Vista II",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Vista II;",
+    "cep": "29107361",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Gonçalves Dias;"
 }

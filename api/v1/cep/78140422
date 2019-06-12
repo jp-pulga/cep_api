@@ -1,12 +1,12 @@
 {
-  "cep": "78140422",
-  "logradouro": "Rua Jaciara (Lot Jd Glória)",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "78140422",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Jaciara (Lot Jd Glória);"
 }

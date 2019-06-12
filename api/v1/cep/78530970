@@ -1,12 +1,13 @@
 {
-  "cep": "78530970",
-  "logradouro": "AC Peixoto de Azevedo Avenida Lions Internacional 287",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Peixoto de Azevedo",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78530970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Peixoto de Azevedo"
+    },
+    "ibge": 5106422,
+    "logradouro": "Avenida Lions Internacional, 287  AC Peixoto de Azevedo;"
 }

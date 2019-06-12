@@ -1,12 +1,13 @@
 {
-  "cep": "78578970",
-  "logradouro": "AC Ipiranga do Norte Rua Rio Solimões s/n Lote 05",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipiranga do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78578970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Ipiranga do Norte"
+    },
+    "ibge": 5104526,
+    "logradouro": "Rua Rio Solimões, 604 Lote 05  AC Ipiranga do Norte;"
 }

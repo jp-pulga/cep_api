@@ -1,12 +1,13 @@
 {
-  "cep": "78095595",
-  "logradouro": "Rua Monte das Oliveiras",
-  "bairro": "Real Parque",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Real Parque;",
+    "cep": "78095595",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Rua Monte das Oliveiras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07082130",
-  "logradouro": "Rua Itapora de Goiás",
-  "bairro": "Jardim Terezópolis",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Terezópolis;",
+    "cep": "07082130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Itapora de Goiás;"
 }

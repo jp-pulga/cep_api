@@ -1,12 +1,12 @@
 {
-  "cep": "78068015",
-  "logradouro": "Rua Princesa Leopoldina",
-  "bairro": "Morada dos Nobres",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Morada dos Nobres;",
+    "cep": "78068015",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua 8;"
 }

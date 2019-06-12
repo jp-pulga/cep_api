@@ -1,12 +1,12 @@
 {
-  "cep": "12244647",
-  "logradouro": "Rua Geraldo Patrício",
-  "bairro": "Jardim do Golfe",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim do Golfe;",
+    "cep": "12244647",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Geraldo Patricio;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "78840000",
-  "logradouro": "Campo Verde",
-  "bairro": "",
-  "cidade": {
-    "nome": "Campo Verde",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78840000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Campo Verde"
+    },
+    "ibge": 5102678
 }

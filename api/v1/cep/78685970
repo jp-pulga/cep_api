@@ -1,12 +1,13 @@
 {
-  "cep": "78685970",
-  "logradouro": "AC Araguaiana Avenida Presidente Vargas 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araguaiana",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78685970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Araguaiana"
+    },
+    "ibge": 5101001,
+    "logradouro": "Avenida Presidente Vargas, 40  AC Araguaiana;"
 }

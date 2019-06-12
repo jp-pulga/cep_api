@@ -1,12 +1,13 @@
 {
-  "cep": "78510970",
-  "logradouro": "AC Itaúba Avenida Tancredo Neves s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaúba",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78510970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Itaúba"
+    },
+    "ibge": 5104559,
+    "logradouro": "Avenida Tancredo Neves, s\/n  AC Itaúba;"
 }

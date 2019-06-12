@@ -1,12 +1,12 @@
 {
-  "cep": "78065690",
-  "logradouro": "Rua Rio Juruena",
-  "bairro": "Grande Terceiro",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Grande Terceiro;",
+    "cep": "78065690",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Rio Juruena;"
 }

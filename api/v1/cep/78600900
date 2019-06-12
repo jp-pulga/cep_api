@@ -1,12 +1,13 @@
 {
-  "cep": "78600900",
-  "logradouro": "Região de Vendas REVEN - 03 Rua Primeiro de Maio 139",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra do Garças",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78600900",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barra do Garças"
+    },
+    "ibge": 5101803,
+    "logradouro": "Rua Primeiro de Maio 139  Região de Vendas REVEN - 03;"
 }

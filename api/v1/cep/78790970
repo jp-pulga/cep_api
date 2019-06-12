@@ -1,12 +1,13 @@
 {
-  "cep": "78790970",
-  "logradouro": "AC Itiquira Rua José Ferreira de Carvalho 414",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itiquira",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78790970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Itiquira"
+    },
+    "ibge": 5104609,
+    "logradouro": "Rua José Ferreira de Carvalho, 414  AC Itiquira;"
 }

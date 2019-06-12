@@ -1,12 +1,13 @@
 {
-  "cep": "78560970",
-  "logradouro": "AC Porto dos Gaúchos Avenida Diamantino 1297",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto dos Gaúchos",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78560970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Porto dos Gaúchos"
+    },
+    "ibge": 5106802,
+    "logradouro": "Avenida Diamantino, 1297  AC Porto dos Gaúchos;"
 }

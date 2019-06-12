@@ -1,12 +1,13 @@
 {
-  "cep": "78885970",
-  "logradouro": "AC Feliz Natal Rua Dionizio Cerqueira 259 Lote N",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feliz Natal",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78885970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Feliz Natal"
+    },
+    "ibge": 5103700,
+    "logradouro": "Rua Dionizio Cerqueira, 259 Lote N  AC Feliz Natal;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78116134",
-  "logradouro": "Rua dos Bandeirantes (Lot N Sesi)",
-  "bairro": "Ponte Nova",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Ponte Nova;",
+    "cep": "78116134",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua dos Bandeirantes (Lot N Sesi);"
 }

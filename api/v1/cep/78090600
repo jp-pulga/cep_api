@@ -1,12 +1,12 @@
 {
-  "cep": "78090600",
-  "logradouro": "Rua Primeiro de Maio",
-  "bairro": "Jardim Comodoro",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Comodoro;",
+    "cep": "78090600",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Primeiro de Maio;"
 }

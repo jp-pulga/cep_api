@@ -1,12 +1,13 @@
 {
-  "cep": "78340970",
-  "logradouro": "AC Juruena Avenida Brasil 50",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juruena",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78340970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Juruena"
+    },
+    "ibge": 5105176,
+    "logradouro": "Avenida Brasil, 50  AC Juruena;"
 }

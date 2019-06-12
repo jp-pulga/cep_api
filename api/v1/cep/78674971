@@ -1,12 +1,13 @@
 {
-  "cep": "78674971",
-  "logradouro": "AC Novo Santo Antônio Avenida Santo Santônio s/n Quadra 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Santo Antônio",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78674971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Novo Santo Antônio"
+    },
+    "ibge": 5106315,
+    "logradouro": "Avenida Santo Santônio, s\/n Quadra 2  AC Novo Santo Antônio;"
 }

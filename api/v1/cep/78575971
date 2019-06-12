@@ -1,12 +1,13 @@
 {
-  "cep": "78575971",
-  "logradouro": "AGC Paranorte Praça dos Trabalhadores s/n",
-  "bairro": "Paranorte",
-  "cidade": {
-    "nome": "Juara",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Paranorte;",
+    "cep": "78575971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Juara"
+    },
+    "ibge": 5105101,
+    "logradouro": "Praça dos Trabalhadores, s\/n  AGC Paranorte;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78579970",
-  "logradouro": "AC Itanhangá Avenida Santa Catarina s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itanhangá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78579970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Itanhangá"
+    },
+    "ibge": 5104542,
+    "logradouro": "Avenida Santa Catarina, s\/n  AC Itanhangá;"
 }

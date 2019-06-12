@@ -1,12 +1,13 @@
 {
-  "cep": "78528970",
-  "logradouro": "AC Novo Mundo Avenida Airton Senna s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Mundo",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78528970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Novo Mundo"
+    },
+    "ibge": 5106265,
+    "logradouro": "Avenida Airton Senna, s\/n  AC Novo Mundo;"
 }

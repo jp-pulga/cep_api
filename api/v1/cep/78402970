@@ -1,12 +1,13 @@
 {
-  "cep": "78402970",
-  "logradouro": "AGC Novo Diamantino Rua A 5 Quadra 73",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Diamantino (Diamantino)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro\/Novo Diamantino",
+    "cep": "78402970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Diamantino"
+    },
+    "ibge": 5103502,
+    "logradouro": "Rua A, 5 Quadra 73  AGC Novo Diamantino;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78600973",
-  "logradouro": "AC Vale do Araguaia Rua Bandeirantes 304",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra do Garças",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78600973",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barra do Garças"
+    },
+    "ibge": 5101803,
+    "logradouro": "Rua Bandeirantes, 304  AC Vale do Araguaia;"
 }

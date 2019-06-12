@@ -1,12 +1,12 @@
 {
-  "cep": "78049923",
-  "logradouro": "SEGES - Secretaria de Estado de Gestão de Mato Grosso Rua Um s/n",
-  "bairro": "Centro Político Administrativo",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro Político Administrativo;",
+    "cep": "78049923",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Júlio Domingos de Campos, s\/n  SEGES - Secretaria de Estado de Gestão de Mato Grosso;"
 }

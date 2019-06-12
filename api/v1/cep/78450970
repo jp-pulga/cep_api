@@ -1,12 +1,13 @@
 {
-  "cep": "78450970",
-  "logradouro": "AC Nova Mutum Avenida dos Canários 141 Lote W",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Mutum",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78450970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Mutum"
+    },
+    "ibge": 5106224,
+    "logradouro": "Avenida dos Canários, 141 Lote W  AC Nova Mutum;"
 }

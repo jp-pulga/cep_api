@@ -1,12 +1,13 @@
 {
-  "cep": "78625970",
-  "logradouro": "AC Novo São Joaquim Avenida Oscar Zaiden de Menezes 1504",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo São Joaquim",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78625970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Novo São Joaquim"
+    },
+    "ibge": 5106281,
+    "logradouro": "Avenida Oscar Zaiden de Menezes, 1504  AC Novo São Joaquim;"
 }

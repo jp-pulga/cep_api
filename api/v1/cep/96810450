@@ -1,12 +1,12 @@
 {
-  "cep": "96810450",
-  "logradouro": "Rua João Pedro da Rosa",
-  "bairro": "Goiás",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Goiás;",
+    "cep": "96810450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua João Pedro da Rosa;"
 }

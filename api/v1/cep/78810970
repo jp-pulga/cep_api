@@ -1,12 +1,13 @@
 {
-  "cep": "78810970",
-  "logradouro": "AC Juscimeira Avenida Jk 1403",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juscimeira",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78810970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Juscimeira"
+    },
+    "ibge": 5105200,
+    "logradouro": "Avenida Jk, 1403  AC Juscimeira;"
 }

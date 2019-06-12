@@ -1,12 +1,13 @@
 {
-  "cep": "78089740",
-  "logradouro": "Avenida A",
-  "bairro": "Santa Terezinha (2ª Etapa)",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Coxipó;",
+    "cep": "78089740",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Avenida A (Res S Terezinha - 2ª Etapa);"
 }

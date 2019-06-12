@@ -1,12 +1,13 @@
 {
-  "cep": "78049544",
-  "logradouro": "Alameda Ipê Roxo",
-  "bairro": "Condomínio Residencial Florais dos Lagos",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Condomínio Residencial Florais dos Lagos;",
+    "cep": "78049544",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Alameda Ipê Roxo;"
 }

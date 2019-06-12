@@ -1,12 +1,12 @@
 {
-  "cep": "78090585",
-  "logradouro": "Rua Um",
-  "bairro": "Jardim Comodoro",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Comodoro;",
+    "cep": "78090585",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Um;"
 }

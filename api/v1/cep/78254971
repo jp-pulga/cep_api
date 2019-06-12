@@ -1,12 +1,13 @@
 {
-  "cep": "78254971",
-  "logradouro": "AGC Conquista D´Oeste Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conquista D'Oeste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78254971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Conquista D'Oeste"
+    },
+    "ibge": 5103361,
+    "logradouro": "Rua Principal, s\/n  AGC Conquista D´Oeste;"
 }

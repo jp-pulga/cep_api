@@ -1,12 +1,12 @@
 {
-  "cep": "78025970",
-  "logradouro": "ACF Miguel Sutil Rua Barão de Melgaço 1",
-  "bairro": "Porto",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Porto;",
+    "cep": "78025970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Barão de Melgaço, 1  ACF Miguel Sutil;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78055730",
-  "logradouro": "Avenida A",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "78055730",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Avenida A;"
 }

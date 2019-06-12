@@ -1,12 +1,13 @@
 {
-  "cep": "78320970",
-  "logradouro": "AC Juína Avenida dos Jambos 1151",
-  "bairro": "Módulo 3",
-  "cidade": {
-    "nome": "Juína",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Módulo 3;",
+    "cep": "78320970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Juína"
+    },
+    "ibge": 5105150,
+    "logradouro": "Avenida dos Jambos, 871 Lote N  AC Juína;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78142816",
-  "logradouro": "Rua Nossa Senhora do Livramento (Lot Esmeralda)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78142816",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Nossa Senhora do Livramento (Lot Esmeralda);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78398970",
-  "logradouro": "AC Porto Estrela Avenida José Antônio Faria 3000",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Estrela",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78398970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Porto Estrela"
+    },
+    "ibge": 5106851,
+    "logradouro": "Avenida José Antônio Faria, 3000  AC Porto Estrela;"
 }

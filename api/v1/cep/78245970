@@ -1,12 +1,13 @@
 {
-  "cep": "78245970",
-  "logradouro": "AC Vila Bela da Santíssima Trindade Rua Pouso Alegre 360",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vila Bela da Santíssima Trindade",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78245970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Vila Bela da Santíssima Trindade"
+    },
+    "ibge": 5105507,
+    "logradouro": "Rua Lino Bispo de Oliveira, 523  AC Vila Bela da Santíssima Trindade;"
 }

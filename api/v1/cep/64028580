@@ -1,12 +1,12 @@
 {
-  "cep": "64028580",
-  "logradouro": "Rua Goiás",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "64028580",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Goiás;"
 }

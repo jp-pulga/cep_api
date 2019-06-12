@@ -1,12 +1,13 @@
 {
-  "cep": "78660970",
-  "logradouro": "AC Luciara Avenida Lucio Pereira Luz 322",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luciara",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78660970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Luciara"
+    },
+    "ibge": 5105309,
+    "logradouro": "Avenida Lucio Pereira Luz, 322  AC Luciara;"
 }

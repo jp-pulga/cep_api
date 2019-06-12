@@ -1,12 +1,12 @@
 {
-  "cep": "78149091",
-  "logradouro": "Rodovia MT-070 do km 29001 ao km 31599 - lado ímpar",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149091",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rodovia MT-070 - do km 29,001 ao km 31,599 - lado ímpar;"
 }

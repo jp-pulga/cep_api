@@ -1,12 +1,13 @@
 {
-  "cep": "78350970",
-  "logradouro": "AC Brasnorte Rua Curitiba 1326",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brasnorte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78350970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Brasnorte"
+    },
+    "ibge": 5101902,
+    "logradouro": "Rua Curitiba, 1326  AC Brasnorte;"
 }

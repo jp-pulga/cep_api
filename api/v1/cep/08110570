@@ -1,12 +1,12 @@
 {
-  "cep": "08110570",
-  "logradouro": "Rua Simão Gonçalves",
-  "bairro": "Vila Alabama",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Alabama;",
+    "cep": "08110570",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Simão Gonçalves;"
 }

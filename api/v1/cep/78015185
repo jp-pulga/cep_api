@@ -1,12 +1,12 @@
 {
-  "cep": "78015185",
-  "logradouro": "Rua Doutor Fernando Ferrari",
-  "bairro": "Dom Aquino",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Dom Aquino;",
+    "cep": "78015185",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Doutor Fernando Ferrari;"
 }

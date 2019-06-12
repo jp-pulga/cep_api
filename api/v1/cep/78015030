@@ -1,12 +1,12 @@
 {
-  "cep": "78015030",
-  "logradouro": "Rua Manoel Fernandes Guimarães",
-  "bairro": "Dom Aquino",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Dom Aquino;",
+    "cep": "78015030",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Manoel Fernandes Guimarães;"
 }

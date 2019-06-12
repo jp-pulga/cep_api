@@ -1,12 +1,13 @@
 {
-  "cep": "78635970",
-  "logradouro": "AC Água Boa Rua Cinco 184",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Água Boa",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78635970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Água Boa"
+    },
+    "ibge": 5100201,
+    "logradouro": "Rua Cinco, 184  AC Água Boa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78745112",
-  "logradouro": "Rua Poconé",
-  "bairro": "Jardim Lourdes",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Lourdes;",
+    "cep": "78745112",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Poconé;"
 }

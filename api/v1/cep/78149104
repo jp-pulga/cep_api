@@ -1,12 +1,12 @@
 {
-  "cep": "78149104",
-  "logradouro": "Rua Aruba (Lot Jd N Mundo)",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149104",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Aruba (Lot Jd N Mundo);"
 }

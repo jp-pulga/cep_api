@@ -1,12 +1,12 @@
 {
-  "cep": "79051340",
-  "logradouro": "Rua Gonçalo Coelho",
-  "bairro": "Vila Vilas Boas",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Vilas Boas;",
+    "cep": "79051340",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Gonçalo Coelho;"
 }

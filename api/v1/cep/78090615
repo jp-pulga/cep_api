@@ -1,12 +1,12 @@
 {
-  "cep": "78090615",
-  "logradouro": "Rua Dez",
-  "bairro": "Jardim Comodoro",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Comodoro;",
+    "cep": "78090615",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Dez;"
 }

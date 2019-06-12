@@ -1,12 +1,11 @@
 {
-  "cep": "78455000",
-  "logradouro": "Lucas do Rio Verde",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lucas do Rio Verde",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78455000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Lucas do Rio Verde"
+    },
+    "ibge": 5105259
 }

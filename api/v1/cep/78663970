@@ -1,12 +1,12 @@
 {
-  "cep": "78663970",
-  "logradouro": "AC São José do Xingu Avenida Juaranês Pereira Sales 177",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Xingu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78663970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São José do Xingu"
+    },
+    "logradouro": "Avenida Juaranês Pereira Sales, 177  AC São José do Xingu;"
 }

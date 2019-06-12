@@ -1,12 +1,12 @@
 {
-  "cep": "78080170",
-  "logradouro": "Travessa Araputanga",
-  "bairro": "Jardim das Palmeiras",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim das Palmeiras;",
+    "cep": "78080170",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Travessa Araputanga;"
 }

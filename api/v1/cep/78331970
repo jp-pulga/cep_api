@@ -1,12 +1,13 @@
 {
-  "cep": "78331970",
-  "logradouro": "AGC Ouro Verde dos Pioneiros Rua Geneci Castanha 22 Lote A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cotriguaçu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78331970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cotriguaçu"
+    },
+    "ibge": 5103379,
+    "logradouro": "Rua Geneci Castanha, 22 Lote A  AGC Ouro Verde dos Pioneiros;"
 }

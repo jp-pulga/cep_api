@@ -1,12 +1,12 @@
 {
-  "cep": "78149232",
-  "logradouro": "Rua Arizona (Lot C N Hollywood)",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149232",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Arizona (Lot C N Hollywood);"
 }

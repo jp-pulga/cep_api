@@ -1,12 +1,13 @@
 {
-  "cep": "78820970",
-  "logradouro": "AC Jaciara Avenida Antônio Ferreira Sobrinho 2011",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaciara",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78820970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Jaciara"
+    },
+    "ibge": 5104807,
+    "logradouro": "Avenida Antônio Ferreira Sobrinho, 2011  AC Jaciara;"
 }

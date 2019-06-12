@@ -1,12 +1,12 @@
 {
-  "cep": "78142496",
-  "logradouro": "Rua Poconé (Lot S João)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78142496",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Poconé (Lot S João);"
 }

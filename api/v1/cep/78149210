@@ -1,12 +1,12 @@
 {
-  "cep": "78149210",
-  "logradouro": "Rua Austrália (Lot C N Hollywood)",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149210",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Austrália (Lot C N Hollywood);"
 }

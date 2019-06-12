@@ -1,12 +1,13 @@
 {
-  "cep": "78620970",
-  "logradouro": "AC General Carneiro Avenida Fernando Correa da Costa 200",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "General Carneiro",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78620970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "General Carneiro"
+    },
+    "ibge": 5103908,
+    "logradouro": "Avenida Fernando Correa da Costa, 200  AC General Carneiro;"
 }

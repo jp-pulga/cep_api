@@ -1,12 +1,12 @@
 {
-  "cep": "35502402",
-  "logradouro": "Rua Antônio Gonçalves de Mattos",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "35502402",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Antônio Gonçalves de Mattos;"
 }

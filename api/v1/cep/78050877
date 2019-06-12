@@ -1,12 +1,12 @@
 {
-  "cep": "78050877",
-  "logradouro": "Rua Seis",
-  "bairro": "Campo Verde",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Campo Verde;",
+    "cep": "78050877",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Seis;"
 }

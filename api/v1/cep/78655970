@@ -1,12 +1,13 @@
 {
-  "cep": "78655970",
-  "logradouro": "AC Porto Alegre do Norte Avenida BetoMarcos 855",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Alegre do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78655970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Porto Alegre do Norte"
+    },
+    "ibge": 5106778,
+    "logradouro": "Avenida Betomarcos, 855  AC Porto Alegre do Norte;"
 }

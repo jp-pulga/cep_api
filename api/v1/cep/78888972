@@ -1,12 +1,13 @@
 {
-  "cep": "78888972",
-  "logradouro": "AC Nova Ubiratã Avenida Tancredo Neves 1200",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Ubiratã",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78888972",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Ubiratã"
+    },
+    "ibge": 5106240,
+    "logradouro": "Avenida Tancredo Neves, 1200  AC Nova Ubiratã;"
 }

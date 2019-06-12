@@ -1,12 +1,12 @@
 {
-  "cep": "78070550",
-  "logradouro": "Rua Paranatinga",
-  "bairro": "Praeirinho",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Praeirinho;",
+    "cep": "78070550",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Paranatinga;"
 }

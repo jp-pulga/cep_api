@@ -1,12 +1,12 @@
 {
-  "cep": "78145770",
-  "logradouro": "Rua Gonçalo Marques de Arruda (Lot S Simão)",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "78145770",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Gonçalo Marques de Arruda (Lot S Simão);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78149498",
-  "logradouro": "Avenida dos Bandeirantes (Res J C Guimarães)",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149498",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida dos Bandeirantes (Res J C Guimarães);"
 }

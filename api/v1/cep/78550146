@@ -1,12 +1,12 @@
 {
-  "cep": "78550146",
-  "logradouro": "Avenida das Itaúbas de 3357 a 3717 - lado ímpar",
-  "bairro": "Setor Comercial",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Comercial;",
+    "cep": "78550146",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "logradouro": "Avenida das Itaúbas - de 3357 a 3717 - lado ímpar;"
 }

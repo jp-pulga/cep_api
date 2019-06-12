@@ -1,12 +1,12 @@
 {
-  "cep": "78042050",
-  "logradouro": "Rua Colíder",
-  "bairro": "Parque Amperco",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque Amperco;",
+    "cep": "78042050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Colíder;"
 }

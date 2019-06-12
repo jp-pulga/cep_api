@@ -1,12 +1,12 @@
 {
-  "cep": "78050515",
-  "logradouro": "Rua Nossa Senhora do Livramento",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "78050515",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Nossa Senhora do Livramento;"
 }

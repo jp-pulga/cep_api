@@ -1,12 +1,12 @@
 {
-  "cep": "78042060",
-  "logradouro": "Rua Jaciara",
-  "bairro": "Parque Amperco",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque Amperco;",
+    "cep": "78042060",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Jaciara;"
 }

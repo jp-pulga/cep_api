@@ -1,12 +1,13 @@
 {
-  "cep": "78525970",
-  "logradouro": "AC Matupá Rua Luis Mena 56",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matupá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78525970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Matupá"
+    },
+    "ibge": 5105606,
+    "logradouro": "Rua Luis Mena, 56  AC Matupá;"
 }

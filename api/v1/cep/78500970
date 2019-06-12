@@ -1,12 +1,13 @@
 {
-  "cep": "78500970",
-  "logradouro": "AC Colider Avenida Tancredo Neves 329 Setor Leste",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Colíder",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78500970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Colíder"
+    },
+    "ibge": 5103205,
+    "logradouro": "Avenida Tancredo Neves, 329 Setor Leste  AC Colider;"
 }

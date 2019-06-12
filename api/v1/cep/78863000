@@ -1,12 +1,12 @@
 {
-  "cep": "78863000",
-  "logradouro": "Rio Manso (Nova Brasilândia)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Manso (Nova Brasilândia)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Rio Manso",
+    "cep": "78863000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Brasilândia"
+    },
+    "ibge": 5106208
 }

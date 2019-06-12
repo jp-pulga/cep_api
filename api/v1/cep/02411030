@@ -1,12 +1,12 @@
 {
-  "cep": "02411030",
-  "logradouro": "Rua Luiz Gonzaga Rodrigues",
-  "bairro": "Vila Aurora (Zona Norte)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Aurora (Zona Norte);",
+    "cep": "02411030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Luiz Gonzaga Rodrigues;"
 }

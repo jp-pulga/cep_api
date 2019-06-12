@@ -1,12 +1,11 @@
 {
-  "cep": "78658000",
-  "logradouro": "Canabrava do Norte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Canabrava do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78658000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Canabrava do Norte"
+    },
+    "ibge": 5102694
 }

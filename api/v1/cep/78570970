@@ -1,12 +1,13 @@
 {
-  "cep": "78570970",
-  "logradouro": "AC Novo Horizonte do Norte Avenida Mestre Falcão 343",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Horizonte do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78570970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Novo Horizonte do Norte"
+    },
+    "ibge": 5106273,
+    "logradouro": "Avenida Mestre Falcão, 343  AC Novo Horizonte do Norte;"
 }

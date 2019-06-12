@@ -1,12 +1,12 @@
 {
-  "cep": "78149610",
-  "logradouro": "Avenida dos Bandeirantes (Res Jacarandá)",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149610",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida dos Bandeirantes (Res Jacarandá);"
 }

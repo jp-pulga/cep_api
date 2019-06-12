@@ -1,12 +1,12 @@
 {
-  "cep": "78142289",
-  "logradouro": "Rua Poconé (Lot Industrial IV)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78142289",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Poconé (Lot Industrial IV);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78360971",
-  "logradouro": "AGC Jardim das Palmeiras Avenida Minas Gerais s/n Quadra 308",
-  "bairro": "Jardim das Palmeiras",
-  "cidade": {
-    "nome": "Campo Novo do Parecis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim das Palmeiras;",
+    "cep": "78360971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Campo Novo do Parecis"
+    },
+    "ibge": 5102637,
+    "logradouro": "Avenida Minas Gerais, s\/n Quadra 308  AGC Jardim das Palmeiras;"
 }

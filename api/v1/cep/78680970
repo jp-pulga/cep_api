@@ -1,12 +1,13 @@
 {
-  "cep": "78680970",
-  "logradouro": "AC Cocalinho Avenida Araguaia 1011",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cocalinho",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78680970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cocalinho"
+    },
+    "ibge": 5103106,
+    "logradouro": "Avenida Araguaia, 1011  AC Cocalinho;"
 }

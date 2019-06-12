@@ -1,12 +1,12 @@
 {
-  "cep": "78130333",
-  "logradouro": "Rua Poconé (Lot Sta Luzia)",
-  "bairro": "Centro-Sul",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78130333",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Poconé (Lot Sta Luzia);"
 }

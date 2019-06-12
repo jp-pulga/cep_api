@@ -1,12 +1,11 @@
 {
-  "cep": "78200000",
-  "logradouro": "Cáceres",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cáceres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78200000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cáceres"
+    },
+    "ibge": 5102504
 }

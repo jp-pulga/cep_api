@@ -1,12 +1,12 @@
 {
-  "cep": "58070077",
-  "logradouro": "Rua Manoel Pereira Gomes",
-  "bairro": "Varjão",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Varjão;",
+    "cep": "58070077",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Manoel Pereira Gomes;"
 }

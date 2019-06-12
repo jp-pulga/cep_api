@@ -1,12 +1,13 @@
 {
-  "cep": "78860970",
-  "logradouro": "AC Nova Brasilândia Avenida Brasil 133",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Brasilândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78860970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Brasilândia"
+    },
+    "ibge": 5106208,
+    "logradouro": "Avenida Brasil, 979  AC Nova Brasilândia;"
 }

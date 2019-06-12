@@ -1,12 +1,12 @@
 {
-  "cep": "35502398",
-  "logradouro": "Rua Guaraci Gomes",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "35502398",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Guaraci Gomes;"
 }

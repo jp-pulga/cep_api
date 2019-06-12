@@ -1,12 +1,13 @@
 {
-  "cep": "78050268",
-  "logradouro": "Avenida Argélia",
-  "bairro": "Jardim Aclimação",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Aclimação;",
+    "cep": "78050268",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Avenida Argélia;"
 }

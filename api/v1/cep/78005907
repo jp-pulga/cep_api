@@ -1,12 +1,12 @@
 {
-  "cep": "78005907",
-  "logradouro": "Banco do Brasil S.A Rua Barão de Melgaço 915",
-  "bairro": "Centro Norte",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Norte;",
+    "cep": "78005907",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Barão de Melgaço, 915  Banco do Brasil S.A;"
 }

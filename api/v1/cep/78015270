@@ -1,12 +1,12 @@
 {
-  "cep": "78015270",
-  "logradouro": "Rua Jacarandá",
-  "bairro": "Dom Aquino",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Dom Aquino;",
+    "cep": "78015270",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Jacarandá;"
 }

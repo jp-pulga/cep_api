@@ -1,12 +1,12 @@
 {
-  "cep": "78050879",
-  "logradouro": "Rua Álvaro João Luiz Miguel",
-  "bairro": "Campo Verde",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Campo Verde;",
+    "cep": "78050879",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Álvaro João Luiz Miguel;"
 }

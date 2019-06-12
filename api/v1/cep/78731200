@@ -1,12 +1,12 @@
 {
-  "cep": "78731200",
-  "logradouro": "Avenida Governador Júlio José de Campos",
-  "bairro": "Setor Residencial Granville I",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Residencial Granville I;",
+    "cep": "78731200",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Governador Júlio José de Campos;"
 }

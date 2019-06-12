@@ -1,12 +1,12 @@
 {
-  "cep": "78735559",
-  "logradouro": "Avenida Governador Julio José de Campos",
-  "bairro": "Coophasem",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Coophasem;",
+    "cep": "78735559",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Governador Julio José de Campos;"
 }

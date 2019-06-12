@@ -1,12 +1,12 @@
 {
-  "cep": "78049000",
-  "logradouro": "Avenida Doutor Mário Cardi Filho",
-  "bairro": "Centro Político Administrativo",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro Político Administrativo;",
+    "cep": "78049000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Júlio Domingos de Campos;"
 }

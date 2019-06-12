@@ -1,12 +1,11 @@
 {
-  "cep": "78565000",
-  "logradouro": "Nova Bandeirantes",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Bandeirantes",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78565000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Bandeirantes"
+    },
+    "ibge": 5106158
 }

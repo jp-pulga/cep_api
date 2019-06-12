@@ -1,12 +1,13 @@
 {
-  "cep": "78328970",
-  "logradouro": "AGC Conselvan Avenida Principal s/n",
-  "bairro": "Conselvan",
-  "cidade": {
-    "nome": "Aripuanã",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Conselvan;",
+    "cep": "78328970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Aripuanã"
+    },
+    "ibge": 5101407,
+    "logradouro": "Avenida 10 de Janeiro, s\/n  AGC Conselvan;"
 }

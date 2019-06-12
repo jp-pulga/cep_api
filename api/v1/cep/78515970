@@ -1,12 +1,13 @@
 {
-  "cep": "78515970",
-  "logradouro": "AC Nova Canaã do Norte Rua João Lourenço Máximo 9",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Canaã do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78515970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Canaã do Norte"
+    },
+    "ibge": 5106216,
+    "logradouro": "Rua João Lourenço Máximo, 9 Lote B  AC Nova Canaã do Norte;"
 }

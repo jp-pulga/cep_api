@@ -1,12 +1,11 @@
 {
-  "cep": "78310000",
-  "logradouro": "Comodoro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Comodoro",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78310000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Comodoro"
+    },
+    "ibge": 5103304
 }

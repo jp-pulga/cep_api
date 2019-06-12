@@ -1,12 +1,12 @@
 {
-  "cep": "78149358",
-  "logradouro": "Rua Bocaiúva (Lot Jd Paula III)",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149358",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Bocaiúva (Lot Jd Paula III);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96810304",
-  "logradouro": "Rua Castro Alves até 199/200",
-  "bairro": "Goiás",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Goiás;",
+    "cep": "96810304",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Castro Alves - até 199\/200;"
 }

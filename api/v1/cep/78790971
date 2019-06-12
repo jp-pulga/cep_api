@@ -1,12 +1,13 @@
 {
-  "cep": "78790971",
-  "logradouro": "AGC Plantações Michelin Rua das Seringueiras s/n",
-  "bairro": "Michelin",
-  "cidade": {
-    "nome": "Itiquira",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Michelin;",
+    "cep": "78790971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Itiquira"
+    },
+    "ibge": 5104609,
+    "logradouro": "Rua das Seringueiras, s\/n  AGC Plantações Michelin;"
 }

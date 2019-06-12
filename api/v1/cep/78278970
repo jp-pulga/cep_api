@@ -1,12 +1,13 @@
 {
-  "cep": "78278970",
-  "logradouro": "AGC Lambari D'Oeste Avenida Cidrolândia 3136",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lambari D'Oeste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78278970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Lambari D'Oeste"
+    },
+    "ibge": 5105234,
+    "logradouro": "Avenida Cidrolândia, 3136  AGC Lambari D'Oeste;"
 }

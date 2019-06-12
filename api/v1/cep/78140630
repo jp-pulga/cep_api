@@ -1,12 +1,12 @@
 {
-  "cep": "78140630",
-  "logradouro": "Rua Diamantino (Lot S Francisco)",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "78140630",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Diamantino (Lot S Francisco);"
 }

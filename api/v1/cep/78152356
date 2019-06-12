@@ -1,12 +1,12 @@
 {
-  "cep": "78152356",
-  "logradouro": "Rua Campo Verde (Res S Mateus)",
-  "bairro": "São Matheus",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Matheus;",
+    "cep": "78152356",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Campo Verde (Res S Mateus);"
 }

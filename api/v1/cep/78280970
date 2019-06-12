@@ -1,12 +1,12 @@
 {
-  "cep": "78280970",
-  "logradouro": "AC Mirassol D´Oeste Rua Vinte e Oito de Outubro 3235",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mirassol D'Oeste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78280970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Mirassol D'Oeste"
+    },
+    "logradouro": "Rua Vinte e Oito de Outubro, 3235  AC Mirassol D´Oeste;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78490970",
-  "logradouro": "AC Jangada Avenida Marechal Rondon 1102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jangada",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78490970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Jangada"
+    },
+    "ibge": 5104906,
+    "logradouro": "Avenida Marechal Rondon, 1102  AC Jangada;"
 }

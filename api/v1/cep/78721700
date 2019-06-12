@@ -1,12 +1,12 @@
 {
-  "cep": "78721700",
-  "logradouro": "Rua Campo Limpo",
-  "bairro": "Vila Verde",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Verde;",
+    "cep": "78721700",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Campo Limpo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78678970",
-  "logradouro": "AC Bom Jesus do Araguaia Rua Dois s/n Quadra 44 Lote 8",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus do Araguaia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78678970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Bom Jesus do Araguaia"
+    },
+    "ibge": 5101852,
+    "logradouro": "Rua Dois, s\/n Quadra 44 Lote 8  AC Bom Jesus do Araguaia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78049536",
-  "logradouro": "Alameda Pau-Brasil",
-  "bairro": "Condomínio Residencial Florais dos Lagos",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Condomínio Residencial Florais dos Lagos;",
+    "cep": "78049536",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Alameda Pau-Brasil;"
 }

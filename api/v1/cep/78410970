@@ -1,12 +1,13 @@
 {
-  "cep": "78410970",
-  "logradouro": "AC Alto Paraguai Rua Quinze de Novembro 105",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Paraguai",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78410970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alto Paraguai"
+    },
+    "ibge": 5100508,
+    "logradouro": "Rua Quinze de Novembro, 105  AC Alto Paraguai;"
 }

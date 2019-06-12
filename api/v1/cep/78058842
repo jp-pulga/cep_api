@@ -1,12 +1,13 @@
 {
-  "cep": "78058842",
-  "logradouro": "Avenida A",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "78058842",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Avenida A;"
 }

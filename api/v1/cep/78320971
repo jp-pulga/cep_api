@@ -1,12 +1,13 @@
 {
-  "cep": "78320971",
-  "logradouro": "AGC Padre Duílio Avenida Joinville 23",
-  "bairro": "Padre Duílio",
-  "cidade": {
-    "nome": "Juína",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Padre Duílio;",
+    "cep": "78320971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Juína"
+    },
+    "ibge": 5105150,
+    "logradouro": "Avenida Joinville, 23  AGC Padre Duílio;"
 }

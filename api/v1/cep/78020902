@@ -1,12 +1,12 @@
 {
-  "cep": "78020902",
-  "logradouro": "Telemat - Brasil Telecom Rua Barão de Melgaço 3209",
-  "bairro": "Centro Sul",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78020902",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Barão de Melgaço, 3209  Telemat - Brasil Telecom;"
 }

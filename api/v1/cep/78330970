@@ -1,12 +1,13 @@
 {
-  "cep": "78330970",
-  "logradouro": "AC Cotriguaçu Rua Vinte e Dois de Abril 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cotriguaçu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78330970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cotriguaçu"
+    },
+    "ibge": 5103379,
+    "logradouro": "Rua Vinte e Dois de Abril, 18  AC Cotriguaçu;"
 }

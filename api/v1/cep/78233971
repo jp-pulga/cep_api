@@ -1,12 +1,13 @@
 {
-  "cep": "78233971",
-  "logradouro": "AGC Vila Aparecida Rua Principal s/n",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Cáceres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Aparecida;",
+    "cep": "78233971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cáceres"
+    },
+    "ibge": 5102504,
+    "logradouro": "Rua Principal, s\/n  AGC Vila Aparecida;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78149076",
-  "logradouro": "Rodovia BR-364 do km 435000 ao km 436500",
-  "bairro": "Novo Mundo",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Mundo;",
+    "cep": "78149076",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rodovia BR-364 - do km 435,000 ao km 436,500;"
 }

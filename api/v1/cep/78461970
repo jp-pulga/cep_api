@@ -1,12 +1,13 @@
 {
-  "cep": "78461970",
-  "logradouro": "AGC Coqueiral Rua Principal s/n",
-  "bairro": "Coqueiral",
-  "cidade": {
-    "nome": "Nobres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Coqueiral;",
+    "cep": "78461970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nobres"
+    },
+    "ibge": 5105903,
+    "logradouro": "Rua Principal, s\/n  AGC Coqueiral;"
 }

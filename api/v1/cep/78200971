@@ -1,12 +1,13 @@
 {
-  "cep": "78200971",
-  "logradouro": "CDD Cáceres Rua General Osório 1230",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cáceres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78200971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cáceres"
+    },
+    "ibge": 5102504,
+    "logradouro": "Rua General Osório, 1230  CDD Cáceres;"
 }

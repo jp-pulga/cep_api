@@ -1,12 +1,13 @@
 {
-  "cep": "78460970",
-  "logradouro": "AC Nobres Avenida Marechal Rondon 1056",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nobres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78460970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nobres"
+    },
+    "ibge": 5105903,
+    "logradouro": "Avenida Marechal Rondon, 1056  AC Nobres;"
 }

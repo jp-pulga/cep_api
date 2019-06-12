@@ -1,12 +1,13 @@
 {
-  "cep": "78640972",
-  "logradouro": "AGC Serra Dourada Rua Principal s/n",
-  "bairro": "Serra Dourada",
-  "cidade": {
-    "nome": "Canarana",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Serra Dourada;",
+    "cep": "78640972",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Canarana"
+    },
+    "ibge": 5102702,
+    "logradouro": "Rua Principal, s\/n  AGC Serra Dourada;"
 }

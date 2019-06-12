@@ -1,12 +1,12 @@
 {
-  "cep": "78052110",
-  "logradouro": "Rua Chapada dos Guimarães",
-  "bairro": "Doutor Fábio Leite",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Doutor Fábio Leite;",
+    "cep": "78052110",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Chapada dos Guimarães;"
 }

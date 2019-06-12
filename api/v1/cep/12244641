@@ -1,12 +1,12 @@
 {
-  "cep": "12244641",
-  "logradouro": "Rua Simão Chuster",
-  "bairro": "Jardim do Golfe",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim do Golfe;",
+    "cep": "12244641",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Simão Chuster;"
 }

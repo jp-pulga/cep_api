@@ -1,12 +1,13 @@
 {
-  "cep": "78535970",
-  "logradouro": "AC Marcelândia Rua Aruanã 967",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marcelândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78535970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Marcelândia"
+    },
+    "ibge": 5105580,
+    "logradouro": "Rua Márcio Adriano Barbosa dos Santos, 967  AC Marcelândia;"
 }

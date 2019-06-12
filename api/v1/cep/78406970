@@ -1,12 +1,13 @@
 {
-  "cep": "78406970",
-  "logradouro": "AGC Deciolândia Avenida Dorvalino Brunetta s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Diamantino",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78406970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Diamantino"
+    },
+    "ibge": 5103502,
+    "logradouro": "Avenida Dorvalino Brunetta, s\/n  AGC Deciolândia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96810266",
-  "logradouro": "Rua Tiradentes de 741/742 ao fim",
-  "bairro": "Goiás",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Goiás;",
+    "cep": "96810266",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Tiradentes - de 741\/742 ao fim;"
 }

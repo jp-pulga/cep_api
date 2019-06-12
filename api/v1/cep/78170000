@@ -1,12 +1,11 @@
 {
-  "cep": "78170000",
-  "logradouro": "Nossa Senhora do Livramento",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nossa Senhora do Livramento",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78170000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nossa Senhora do Livramento"
+    },
+    "ibge": 5106109
 }

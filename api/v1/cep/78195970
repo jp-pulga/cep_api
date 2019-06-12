@@ -1,12 +1,13 @@
 {
-  "cep": "78195970",
-  "logradouro": "AC Chapada dos Guimarães Rua Fernando Correa 848",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chapada dos Guimarães",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78195970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Chapada dos Guimarães"
+    },
+    "ibge": 5103007,
+    "logradouro": "Rua Tiradentes, s\/n  AC Chapada dos Guimarães;"
 }

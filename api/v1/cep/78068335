@@ -1,12 +1,13 @@
 {
-  "cep": "78068335",
-  "logradouro": "Avenida Archimedes Pereira Lima lado par",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "78068335",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Avenida Archimedes Pereira Lima - lado par;"
 }

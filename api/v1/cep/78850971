@@ -1,12 +1,13 @@
 {
-  "cep": "78850971",
-  "logradouro": "UD Primavera do Leste Avenida David Riva 1215",
-  "bairro": "Jardim Riva",
-  "cidade": {
-    "nome": "Primavera do Leste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Riva;",
+    "cep": "78850971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Primavera do Leste"
+    },
+    "ibge": 5107040,
+    "logradouro": "Avenida David Riva, 1215  UD Primavera do Leste;"
 }

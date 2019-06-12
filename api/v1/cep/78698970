@@ -1,12 +1,13 @@
 {
-  "cep": "78698970",
-  "logradouro": "AC Pontal do Araguaia Avenida Universitária 56",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pontal do Araguaia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78698970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Pontal do Araguaia"
+    },
+    "ibge": 5106653,
+    "logradouro": "Avenida Universitária, 56  AC Pontal do Araguaia;"
 }

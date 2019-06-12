@@ -1,12 +1,13 @@
 {
-  "cep": "78410971",
-  "logradouro": "AGC Tira Sentido Rua Principal s/n",
-  "bairro": "Tira Sentido",
-  "cidade": {
-    "nome": "Alto Paraguai",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Tira Sentido;",
+    "cep": "78410971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alto Paraguai"
+    },
+    "ibge": 5100508,
+    "logradouro": "Rua Principal, s\/n  AGC Tira Sentido;"
 }

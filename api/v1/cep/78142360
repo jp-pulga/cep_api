@@ -1,12 +1,12 @@
 {
-  "cep": "78142360",
-  "logradouro": "Avenida Júlio Domingos de Campos (Lot D Industrial)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78142360",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida Júlio Domingos de Campos (Lot D Industrial);"
 }

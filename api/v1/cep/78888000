@@ -1,12 +1,11 @@
 {
-  "cep": "78888000",
-  "logradouro": "Nova Ubiratã",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Ubiratã",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78888000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Ubiratã"
+    },
+    "ibge": 5106240
 }

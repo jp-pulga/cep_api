@@ -1,12 +1,11 @@
 {
-  "cep": "78795000",
-  "logradouro": "Pedra Preta",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pedra Preta",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78795000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Pedra Preta"
+    },
+    "ibge": 5106372
 }

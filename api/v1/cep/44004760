@@ -1,12 +1,12 @@
 {
-  "cep": "44004760",
-  "logradouro": "Rua Goiás",
-  "bairro": "Jardim Acácia",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Acácia;",
+    "cep": "44004760",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Goiás;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "78394000",
-  "logradouro": "Assari (Barra do Bugres)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Assari (Barra do Bugres)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78394000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barra do Bugres"
+    },
+    "ibge": 5101704
 }

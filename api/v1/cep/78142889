@@ -1,12 +1,12 @@
 {
-  "cep": "78142889",
-  "logradouro": "Rua Feliz Natal (Lot Jd Alá)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78142889",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Feliz Natal (Lot Jd Alá);"
 }

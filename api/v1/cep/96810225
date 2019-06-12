@@ -1,12 +1,12 @@
 {
-  "cep": "96810225",
-  "logradouro": "Rua Carlos Trein Filho até 1329 - lado ímpar",
-  "bairro": "Goiás",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Goiás;",
+    "cep": "96810225",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Carlos Trein Filho - até 1329 - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78393970",
-  "logradouro": "AGC Nova Fernandópolis Rua Principal s/n",
-  "bairro": "Nova Fernandopolis",
-  "cidade": {
-    "nome": "Barra do Bugres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Nova Fernandopolis;",
+    "cep": "78393970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barra do Bugres"
+    },
+    "ibge": 5101704,
+    "logradouro": "Rua Principal, s\/n  AGC Nova Fernandópolis;"
 }

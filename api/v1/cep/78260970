@@ -1,12 +1,13 @@
 {
-  "cep": "78260970",
-  "logradouro": "AC Araputanga Avenida Castelo Branco 685",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araputanga",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78260970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Araputanga"
+    },
+    "ibge": 5101258,
+    "logradouro": "Avenida Castelo Branco, 685  AC Araputanga;"
 }

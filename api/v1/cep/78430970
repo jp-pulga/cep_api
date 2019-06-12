@@ -1,12 +1,13 @@
 {
-  "cep": "78430970",
-  "logradouro": "AC Nortelândia Avenida Prefeito João Macaúba 615",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nortelândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78430970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nortelândia"
+    },
+    "ibge": 5106000,
+    "logradouro": "Avenida Prefeito João Macaúba, 615  AC Nortelândia;"
 }

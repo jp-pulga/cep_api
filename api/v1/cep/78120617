@@ -1,12 +1,12 @@
 {
-  "cep": "78120617",
-  "logradouro": "Rua Campo Verde (Res Sta Clara)",
-  "bairro": "Parque do Lago",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque do Lago;",
+    "cep": "78120617",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Campo Verde (Res Sta Clara);"
 }

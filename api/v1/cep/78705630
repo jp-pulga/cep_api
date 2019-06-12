@@ -1,12 +1,12 @@
 {
-  "cep": "78705630",
-  "logradouro": "Avenida Poconé",
-  "bairro": "Vila Adriana",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Adriana;",
+    "cep": "78705630",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Poconé;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78489970",
-  "logradouro": "AGC Aldeia Rua Principal s/n",
-  "bairro": "Aldeia",
-  "cidade": {
-    "nome": "Acorizal",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Aldeia;",
+    "cep": "78489970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Acorizal"
+    },
+    "ibge": 5100102,
+    "logradouro": "Rua Principal, s\/n  AGC Aldeia;"
 }

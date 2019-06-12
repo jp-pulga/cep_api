@@ -1,12 +1,12 @@
 {
-  "cep": "78550088",
-  "logradouro": "Avenida das Itaúbas de 2621 a 3125 - lado ímpar",
-  "bairro": "Setor Comercial",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Comercial;",
+    "cep": "78550088",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "logradouro": "Avenida das Itaúbas - de 2621 a 3125 - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78020973",
-  "logradouro": "AGF Barão de Melgaço Rua Barão de Melgaço 2754",
-  "bairro": "Centro Sul",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78020973",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Barão de Melgaço, 2754  AGF Barão de Melgaço;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78565970",
-  "logradouro": "AC Nova Bandeirantes Rua João Florentino de Mello 562",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Bandeirantes",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78565970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Bandeirantes"
+    },
+    "ibge": 5106158,
+    "logradouro": "Rua João Florentino de Mello, 562  AC Nova Bandeirantes;"
 }

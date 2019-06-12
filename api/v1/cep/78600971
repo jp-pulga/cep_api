@@ -1,12 +1,13 @@
 {
-  "cep": "78600971",
-  "logradouro": "CDD Barra do Garças Rua Primeiro de Maio 139",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra do Garças",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Industrial;",
+    "cep": "78600971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barra do Garças"
+    },
+    "ibge": 5101803,
+    "logradouro": "Avenida Senador Valdon Varjão, s\/n  CDD Barra do Garças;"
 }

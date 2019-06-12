@@ -1,12 +1,12 @@
 {
-  "cep": "78691000",
-  "logradouro": "Nova Brasília (Nova Xavantina)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Brasília (Nova Xavantina)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Nova Brasília",
+    "cep": "78691000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Xavantina"
+    },
+    "ibge": 5106257
 }

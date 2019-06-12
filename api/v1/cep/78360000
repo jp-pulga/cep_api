@@ -1,12 +1,11 @@
 {
-  "cep": "78360000",
-  "logradouro": "Campo Novo do Parecis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Campo Novo do Parecis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78360000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Campo Novo do Parecis"
+    },
+    "ibge": 5102637
 }

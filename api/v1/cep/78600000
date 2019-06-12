@@ -1,12 +1,11 @@
 {
-  "cep": "78600000",
-  "logradouro": "Barra do Garças",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barra do Garças",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78600000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barra do Garças"
+    },
+    "ibge": 5101803
 }

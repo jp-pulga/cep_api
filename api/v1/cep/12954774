@@ -1,12 +1,12 @@
 {
-  "cep": "12954774",
-  "logradouro": "Rua Dulcídio Camargo Gonçalves ( Vila Boa Esperança )",
-  "bairro": "Tanque",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Tanque;",
+    "cep": "12954774",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Rua Dulcídio Camargo Gonçalves ( Vila Boa Esperança );"
 }

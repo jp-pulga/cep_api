@@ -1,12 +1,11 @@
 {
-  "cep": "78390000",
-  "logradouro": "Barra do Bugres",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barra do Bugres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78390000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Barra do Bugres"
+    },
+    "ibge": 5101704
 }

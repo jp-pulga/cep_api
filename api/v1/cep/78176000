@@ -1,12 +1,12 @@
 {
-  "cep": "78176000",
-  "logradouro": "Fazenda de Cima (Poconé)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Fazenda de Cima (Poconé)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Fazenda de Cima",
+    "cep": "78176000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Poconé"
+    },
+    "ibge": 5106505
 }

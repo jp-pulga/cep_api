@@ -1,12 +1,12 @@
 {
-  "cep": "78141378",
-  "logradouro": "Rua Barra do Garças (Lot Jd Alá)",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "78141378",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Barra do Garças (Lot Jd Alá);"
 }

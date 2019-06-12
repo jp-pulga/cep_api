@@ -1,12 +1,12 @@
 {
-  "cep": "29156812",
-  "logradouro": "Rua Goiás",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "29156812",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Goiás;"
 }

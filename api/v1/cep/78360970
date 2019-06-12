@@ -1,12 +1,13 @@
 {
-  "cep": "78360970",
-  "logradouro": "AC Campo Novo do Parecis Rua Parana 614",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Novo do Parecis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78360970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Campo Novo do Parecis"
+    },
+    "ibge": 5102637,
+    "logradouro": "Rua Parana, 614  AC Campo Novo do Parecis;"
 }

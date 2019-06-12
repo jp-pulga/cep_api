@@ -1,12 +1,11 @@
 {
-  "cep": "78293000",
-  "logradouro": "Glória D'Oeste",
-  "bairro": "",
-  "cidade": {
-    "nome": "Glória D'Oeste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78293000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Glória D'Oeste"
+    },
+    "ibge": 5103957
 }

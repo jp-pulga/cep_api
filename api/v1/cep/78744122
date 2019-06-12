@@ -1,12 +1,12 @@
 {
-  "cep": "78744122",
-  "logradouro": "Rua Poconé",
-  "bairro": "Vila Salmem II",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Salmem II;",
+    "cep": "78744122",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Poconé;"
 }

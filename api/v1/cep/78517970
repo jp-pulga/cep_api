@@ -1,12 +1,13 @@
 {
-  "cep": "78517970",
-  "logradouro": "AGC Ouro Branco Avenida São Paulo 89",
-  "bairro": "Ouro Branco",
-  "cidade": {
-    "nome": "Nova Canaã do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Ouro Branco;",
+    "cep": "78517970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Canaã do Norte"
+    },
+    "ibge": 5106216,
+    "logradouro": "Avenida São Paulo, 89  AGC Ouro Branco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78150640",
-  "logradouro": "Rua Diamantino (Lot Jd Eldorado)",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "78150640",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Diamantino (Lot Jd Eldorado);"
 }

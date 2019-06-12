@@ -1,12 +1,12 @@
 {
-  "cep": "78130120",
-  "logradouro": "Rua Romana Natália Nobres Lima (Lot C N S Guia)",
-  "bairro": "Centro-Sul",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78130120",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Romana Natália Nobres Lima (Lot C N S Guia);"
 }

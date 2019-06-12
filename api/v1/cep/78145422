@@ -1,12 +1,12 @@
 {
-  "cep": "78145422",
-  "logradouro": "Rua Goiás (Lot C Verdejantes)",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "78145422",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Goiás (Lot C Verdejantes);"
 }

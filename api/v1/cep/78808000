@@ -1,12 +1,12 @@
 {
-  "cep": "78808000",
-  "logradouro": "Paraíso do Leste (Poxoréu)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Paraíso do Leste (Poxoréu)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Paraíso do Leste",
+    "cep": "78808000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Poxoréu"
+    },
+    "ibge": 5107008
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78150224",
-  "logradouro": "Rua Nobres (Lot Prq Ind Atlântico)",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "78150224",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Nobres (Lot Prq Ind Atlântico);"
 }

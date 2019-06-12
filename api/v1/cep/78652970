@@ -1,12 +1,13 @@
 {
-  "cep": "78652970",
-  "logradouro": "AC Confresa Avenida Ayrton Senna 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Confresa",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78652970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Confresa"
+    },
+    "ibge": 5103353,
+    "logradouro": "Avenida Ayrton Senna, 34  AC Confresa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78158112",
-  "logradouro": "Rua Marcelândia (Res Cb Michel)",
-  "bairro": "Jardim dos Estados",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim dos Estados;",
+    "cep": "78158112",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Marcelândia (Res Cb Michel);"
 }

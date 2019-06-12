@@ -1,12 +1,12 @@
 {
-  "cep": "78145768",
-  "logradouro": "Rua Lourenço Pinto de Godoy (Lot S Simão)",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "78145768",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Lourenço Pinto de Godoy (Lot S Simão);"
 }

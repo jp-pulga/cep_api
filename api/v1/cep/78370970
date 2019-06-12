@@ -1,12 +1,13 @@
 {
-  "cep": "78370970",
-  "logradouro": "AC Nova Olímpia Avenida Mato Grosso 754 Lote W",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Olímpia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78370970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Olímpia"
+    },
+    "ibge": 5106232,
+    "logradouro": "Avenida Mato Grosso, 754 Lote W  AC Nova Olímpia;"
 }

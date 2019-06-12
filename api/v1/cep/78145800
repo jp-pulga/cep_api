@@ -1,12 +1,12 @@
 {
-  "cep": "78145800",
-  "logradouro": "Rua Maria Gomes de Azevedo (Lot S Simão)",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "78145800",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Maria Gomes de Azevedo (Lot S Simão);"
 }

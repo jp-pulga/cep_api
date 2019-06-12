@@ -1,12 +1,13 @@
 {
-  "cep": "78770970",
-  "logradouro": "AC Alto Garças Avenida Sete de Setembro 459 Salas 2 e 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Garças",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78770970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alto Garças"
+    },
+    "ibge": 5100409,
+    "logradouro": "Avenida Sete de Setembro, 459 Salas 2 e 3  AC Alto Garças;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78735330",
-  "logradouro": "Avenida Governador Júlio José de Campos",
-  "bairro": "Parque Sagrada Família",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque Sagrada Família;",
+    "cep": "78735330",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Governador Júlio José de Campos;"
 }

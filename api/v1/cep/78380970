@@ -1,12 +1,13 @@
 {
-  "cep": "78380970",
-  "logradouro": "AC Denise Avenida Prefeito Israel Antunes Marques 569",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Denise",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78380970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Denise"
+    },
+    "ibge": 5103452,
+    "logradouro": "Avenida Prefeito Israel Antunes Marques, 569  AC Denise;"
 }

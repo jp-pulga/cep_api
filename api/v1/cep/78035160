@@ -1,12 +1,13 @@
 {
-  "cep": "78035160",
-  "logradouro": "Avenida Agrícola Paes de Barros",
-  "bairro": "Jardim Santa Isabel",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Santa Isabel;",
+    "cep": "78035160",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Avenida Agrícola Paes de Barros;"
 }

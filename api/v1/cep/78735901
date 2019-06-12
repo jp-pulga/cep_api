@@ -1,12 +1,12 @@
 {
-  "cep": "78735901",
-  "logradouro": "Universidade Federal de Mato Grosso Avenida Governador Júlio José de Campos s/n",
-  "bairro": "Parque Sagrada Família",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque Sagrada Família;",
+    "cep": "78735901",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Governador Júlio José de Campos, s\/n  Universidade Federal de Mato Grosso;"
 }

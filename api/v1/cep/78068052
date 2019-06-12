@@ -1,12 +1,12 @@
 {
-  "cep": "78068052",
-  "logradouro": "Rua Visconde de Cairu",
-  "bairro": "Morada dos Nobres",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Morada dos Nobres;",
+    "cep": "78068052",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Visconde de Cairu;"
 }

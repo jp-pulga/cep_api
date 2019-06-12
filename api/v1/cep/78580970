@@ -1,12 +1,13 @@
 {
-  "cep": "78580970",
-  "logradouro": "AC Alta Floresta Avenida Ariosto da Riva 2379",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alta Floresta",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78580970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Alta Floresta"
+    },
+    "ibge": 5100250,
+    "logradouro": "Avenida Ariosto da Riva, 2379  AC Alta Floresta;"
 }

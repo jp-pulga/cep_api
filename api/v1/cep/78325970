@@ -1,12 +1,13 @@
 {
-  "cep": "78325970",
-  "logradouro": "AC Aripuanã Avenida Dois de Dezembro 776",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aripuanã",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78325970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Aripuanã"
+    },
+    "ibge": 5101407,
+    "logradouro": "Avenida Dois de Dezembro, 776  AC Aripuanã;"
 }

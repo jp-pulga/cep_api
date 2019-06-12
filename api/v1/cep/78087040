@@ -1,12 +1,12 @@
 {
-  "cep": "78087040",
-  "logradouro": "Rua Diamantino",
-  "bairro": "Residencial Lagoa Azul",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Lagoa Azul;",
+    "cep": "78087040",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Diamantino;"
 }

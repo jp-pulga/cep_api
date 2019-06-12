@@ -1,12 +1,13 @@
 {
-  "cep": "78560971",
-  "logradouro": "AGC Gleba São João Rua Principal s/n",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Porto dos Gaúchos",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "78560971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Porto dos Gaúchos"
+    },
+    "ibge": 5106802,
+    "logradouro": "Rua Principal, s\/n  AGC Gleba São João;"
 }

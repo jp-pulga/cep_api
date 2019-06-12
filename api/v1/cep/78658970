@@ -1,12 +1,13 @@
 {
-  "cep": "78658970",
-  "logradouro": "AC Canabrava do Norte Avenida João Sacerdote de Souza s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canabrava do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78658970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Canabrava do Norte"
+    },
+    "ibge": 5102694,
+    "logradouro": "Avenida João Sacerdote de Souza, s\/n  AC Canabrava do Norte;"
 }

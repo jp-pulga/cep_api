@@ -1,12 +1,12 @@
 {
-  "cep": "96810234",
-  "logradouro": "Rua Vinte e Oito de Setembro de 1061/1062 a 1868/1869",
-  "bairro": "Goiás",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Goiás;",
+    "cep": "96810234",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Vinte e Oito de Setembro - de 1061\/1062 a 1868\/1869;"
 }

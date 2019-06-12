@@ -1,12 +1,13 @@
 {
-  "cep": "78200970",
-  "logradouro": "AC Cáceres Avenida Sete de Setembro 269",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cáceres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78200970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cáceres"
+    },
+    "ibge": 5102504,
+    "logradouro": "Avenida Sete de Setembro, 269  AC Cáceres;"
 }

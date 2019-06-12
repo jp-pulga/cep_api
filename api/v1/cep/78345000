@@ -1,12 +1,11 @@
 {
-  "cep": "78345000",
-  "logradouro": "Castanheira",
-  "bairro": "",
-  "cidade": {
-    "nome": "Castanheira",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78345000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Castanheira"
+    },
+    "ibge": 5102850
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78630971",
-  "logradouro": "AGC São José do Couto Rua Principal s/n",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Campinápolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "78630971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Campinápolis"
+    },
+    "ibge": 5102603,
+    "logradouro": "Rua Principal, s\/n  AGC São José do Couto;"
 }

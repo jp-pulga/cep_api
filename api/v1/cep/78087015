@@ -1,12 +1,12 @@
 {
-  "cep": "78087015",
-  "logradouro": "Rua Pontes e Lacerda",
-  "bairro": "Residencial Lagoa Azul",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Lagoa Azul;",
+    "cep": "78087015",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Pontes e Lacerda;"
 }

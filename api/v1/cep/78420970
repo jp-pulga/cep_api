@@ -1,12 +1,13 @@
 {
-  "cep": "78420970",
-  "logradouro": "AC Arenápolis Praça Sete de Setembro 324",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arenápolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78420970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Arenápolis"
+    },
+    "ibge": 5101308,
+    "logradouro": "Praça Sete de Setembro, 21 Lote W  AC Arenápolis;"
 }

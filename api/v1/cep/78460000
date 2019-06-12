@@ -1,12 +1,11 @@
 {
-  "cep": "78460000",
-  "logradouro": "Nobres",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nobres",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78460000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nobres"
+    },
+    "ibge": 5105903
 }

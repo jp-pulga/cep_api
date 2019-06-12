@@ -1,12 +1,13 @@
 {
-  "cep": "78278971",
-  "logradouro": "AC Lambari D'Oeste Rua Sepotuba 47 N",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lambari D'Oeste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78278971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Lambari D'Oeste"
+    },
+    "ibge": 5105234,
+    "logradouro": "Rua Sepotuba, 47 N  AC Lambari D'Oeste;"
 }

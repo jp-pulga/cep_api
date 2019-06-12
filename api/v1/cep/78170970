@@ -1,12 +1,13 @@
 {
-  "cep": "78170970",
-  "logradouro": "AC Nossa Senhora do Livramento Rua Coronel Botelho 117",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nossa Senhora do Livramento",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78170970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nossa Senhora do Livramento"
+    },
+    "ibge": 5106109,
+    "logradouro": "Rua Coronel Botelho, 117  AC Nossa Senhora do Livramento;"
 }

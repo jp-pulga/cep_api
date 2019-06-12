@@ -1,12 +1,13 @@
 {
-  "cep": "78295970",
-  "logradouro": "AC Indiavaí Rua Barão do Rio Branco 124",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Indiavaí",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78295970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Indiavaí"
+    },
+    "ibge": 5104500,
+    "logradouro": "Avenida Jaime Campos, 800  AC Indiavaí;"
 }

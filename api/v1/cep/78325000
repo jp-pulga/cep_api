@@ -1,12 +1,11 @@
 {
-  "cep": "78325000",
-  "logradouro": "Aripuanã",
-  "bairro": "",
-  "cidade": {
-    "nome": "Aripuanã",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78325000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Aripuanã"
+    },
+    "ibge": 5101407
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "78535000",
-  "logradouro": "Marcelândia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Marcelândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78535000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Marcelândia"
+    },
+    "ibge": 5105580
 }

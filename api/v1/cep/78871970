@@ -1,12 +1,13 @@
 {
-  "cep": "78871970",
-  "logradouro": "AGC Salto da Alegria Rua Principal s/n",
-  "bairro": "Salto da Alegria",
-  "cidade": {
-    "nome": "Paranatinga",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Salto da Alegria;",
+    "cep": "78871970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Paranatinga"
+    },
+    "ibge": 5106307,
+    "logradouro": "Rua Principal, s\/n  AGC Salto da Alegria;"
 }

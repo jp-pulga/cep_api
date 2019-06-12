@@ -1,12 +1,13 @@
 {
-  "cep": "78480970",
-  "logradouro": "AC Acorizal Avenida Honorato Pedroso de Barros s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Acorizal",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78480970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Acorizal"
+    },
+    "ibge": 5100102,
+    "logradouro": "Avenida Honorato Pedroso de Barros, s\/n  AC Acorizal;"
 }

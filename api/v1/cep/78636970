@@ -1,12 +1,13 @@
 {
-  "cep": "78636970",
-  "logradouro": "AGC Jaraguá Rua Principal s/n",
-  "bairro": "Jaragua",
-  "cidade": {
-    "nome": "Água Boa",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jaragua;",
+    "cep": "78636970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Água Boa"
+    },
+    "ibge": 5100201,
+    "logradouro": "Rua Principal, s\/n  AGC Jaraguá;"
 }

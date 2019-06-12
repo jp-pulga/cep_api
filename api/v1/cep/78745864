@@ -1,12 +1,12 @@
 {
-  "cep": "78745864",
-  "logradouro": "Rua João Ronaldo Campos",
-  "bairro": "Verde Teto",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Verde Teto;",
+    "cep": "78745864",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua João Ronaldo Campos;"
 }

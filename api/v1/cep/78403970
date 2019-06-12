@@ -1,12 +1,13 @@
 {
-  "cep": "78403970",
-  "logradouro": "AGC Agrovila Bojui Rua Principal s/n",
-  "bairro": "Bojui",
-  "cidade": {
-    "nome": "Diamantino",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Bojui;",
+    "cep": "78403970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Diamantino"
+    },
+    "ibge": 5103502,
+    "logradouro": "Rua Principal, s\/n  AGC Agrovila Bojui;"
 }

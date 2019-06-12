@@ -1,12 +1,12 @@
 {
-  "cep": "78138141",
-  "logradouro": "Avenida Júlio Domingos de Campos (Lot S Sebastião)",
-  "bairro": "Marajoara",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Marajoara;",
+    "cep": "78138141",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida Júlio Domingos de Campos (Lot S Sebastião);"
 }

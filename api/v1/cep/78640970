@@ -1,12 +1,13 @@
 {
-  "cep": "78640970",
-  "logradouro": "AC Canarana Avenida Parana 156",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canarana",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78640970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Canarana"
+    },
+    "ibge": 5102702,
+    "logradouro": "Avenida Parana, 156  AC Canarana;"
 }

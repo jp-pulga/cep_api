@@ -1,12 +1,13 @@
 {
-  "cep": "78290970",
-  "logradouro": "AC Figueirópolis D´Oeste Rua Espírito Santo 309",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Figueirópolis D'Oeste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78290970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Figueirópolis D'Oeste"
+    },
+    "ibge": 5103809,
+    "logradouro": "Rua Espírito Santo, 309  AC Figueirópolis D´Oeste;"
 }

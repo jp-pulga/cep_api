@@ -1,12 +1,13 @@
 {
-  "cep": "78630970",
-  "logradouro": "AC Campinápolis Rua Vereador Amelio Ribeiro 950",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campinápolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78630970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Campinápolis"
+    },
+    "ibge": 5102603,
+    "logradouro": "Rua Vereador Amelio Ribeiro, 950  AC Campinápolis;"
 }

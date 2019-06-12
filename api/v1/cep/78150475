@@ -1,12 +1,12 @@
 {
-  "cep": "78150475",
-  "logradouro": "Rua Júlio Noronha (Lot A G Campos)",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "78150475",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Júlio Noronha (Res A G Campos);"
 }

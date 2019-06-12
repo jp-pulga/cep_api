@@ -1,12 +1,12 @@
 {
-  "cep": "78141000",
-  "logradouro": "Avenida Júlio Domingos de Campos (Lot N G Glória)",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "78141000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida Júlio Domingos de Campos (Lot Núcleo  G  Glória);"
 }

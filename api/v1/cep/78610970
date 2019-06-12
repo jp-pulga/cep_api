@@ -1,12 +1,13 @@
 {
-  "cep": "78610970",
-  "logradouro": "AC Ponte Branca Rua Presidente Vargas 806",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Branca",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78610970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Ponte Branca"
+    },
+    "ibge": 5106703,
+    "logradouro": "Rua Presidente Vargas, 806  AC Ponte Branca;"
 }

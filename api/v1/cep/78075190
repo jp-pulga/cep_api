@@ -1,12 +1,13 @@
 {
-  "cep": "78075190",
-  "logradouro": "Avenida Anita Garibaldi",
-  "bairro": "Parque Universitário",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Universitário;",
+    "cep": "78075190",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "ibge": 5103403,
+    "logradouro": "Avenida Anita Garibaldi (Prq Res Universitário);"
 }

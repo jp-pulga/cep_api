@@ -1,12 +1,13 @@
 {
-  "cep": "78237970",
-  "logradouro": "AGC Curvelândia Avenida Ana Maria s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curvelândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78237970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Curvelândia"
+    },
+    "ibge": 5103437,
+    "logradouro": "Avenida Ana Maria, s\/n  AGC Curvelândia;"
 }

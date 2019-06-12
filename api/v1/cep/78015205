@@ -1,12 +1,12 @@
 {
-  "cep": "78015205",
-  "logradouro": "Rua do Ipê",
-  "bairro": "Dom Aquino",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Dom Aquino;",
+    "cep": "78015205",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua do Ipê;"
 }

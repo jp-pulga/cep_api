@@ -1,12 +1,13 @@
 {
-  "cep": "78855970",
-  "logradouro": "AC Planalto da Serra Rua Xingu 39",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Planalto da Serra",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78855970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Planalto da Serra"
+    },
+    "ibge": 5106455,
+    "logradouro": "Rua Xingu, 39  AC Planalto da Serra;"
 }
