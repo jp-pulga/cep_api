@@ -1,12 +1,11 @@
 {
-  "cep": "64178000",
-  "logradouro": "Morro do Chapéu do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Morro do Chapéu do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64178000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Morro do Chapéu do Piauí"
+    },
+    "ibge": 2206670
 }

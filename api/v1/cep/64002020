@@ -1,12 +1,12 @@
 {
-  "cep": "64002020",
-  "logradouro": "Rua Padre Marcos",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "64002020",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Padre Marcos;"
 }

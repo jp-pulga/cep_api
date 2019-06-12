@@ -1,12 +1,12 @@
 {
-  "cep": "79004490",
-  "logradouro": "Rua Joaquim Avelino de Rezende",
-  "bairro": "Vila Rosa Pires",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Rosa Pires;",
+    "cep": "79004490",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Joaquim Avelino de Rezende;"
 }

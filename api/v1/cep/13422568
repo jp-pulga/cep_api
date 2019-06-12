@@ -1,12 +1,12 @@
 {
-  "cep": "13422568",
-  "logradouro": "Rua Pedro Facco (Jardim Terra Rica III)",
-  "bairro": "Pompéia",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pompéia;",
+    "cep": "13422568",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Pedro Facco (Jardim Terra Rica III);"
 }

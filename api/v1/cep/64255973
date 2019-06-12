@@ -1,12 +1,13 @@
 {
-  "cep": "64255973",
-  "logradouro": "AGC Goiabeira Travessa João Mendes 345",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro II",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64255973",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Pedro II"
+    },
+    "ibge": 2207900,
+    "logradouro": "Travessa João Mendes, 345  AGC Goiabeira;"
 }

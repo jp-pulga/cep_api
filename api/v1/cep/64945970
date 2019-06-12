@@ -1,12 +1,13 @@
 {
-  "cep": "64945970",
-  "logradouro": "AC Santa Filomena Rua Ângelo de Castro Rocha s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Filomena",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64945970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Santa Filomena"
+    },
+    "ibge": 2209203,
+    "logradouro": "Rua Ângelo de Castro Rocha, s\/n  AC Santa Filomena;"
 }

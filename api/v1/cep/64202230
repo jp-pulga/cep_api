@@ -1,12 +1,12 @@
 {
-  "cep": "64202230",
-  "logradouro": "Travessa Pedro II",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "64202230",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Travessa Pedro II;"
 }

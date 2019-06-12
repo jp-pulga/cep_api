@@ -1,12 +1,13 @@
 {
-  "cep": "64680970",
-  "logradouro": "AC Padre Marcos Rua Luis Jubelino de Macedo 200",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Padre Marcos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64680970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Padre Marcos"
+    },
+    "ibge": 2207207,
+    "logradouro": "Rua Luis Jubelino de Macedo, 200  AC Padre Marcos;"
 }

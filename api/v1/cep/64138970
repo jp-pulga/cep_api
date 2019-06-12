@@ -1,12 +1,13 @@
 {
-  "cep": "64138970",
-  "logradouro": "AC Lagoa Alegre Praça Raul da Silva Costa 77",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa Alegre",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64138970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Lagoa Alegre"
+    },
+    "ibge": 2205557,
+    "logradouro": "Praça Raul da Silva Costa, 77  AC Lagoa Alegre;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64160970",
-  "logradouro": "AC Luzilândia Rua Sete de Setembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luzilândia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64160970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Luzilândia"
+    },
+    "ibge": 2205805,
+    "logradouro": "Rua Sete de Setembro, s\/n  AC Luzilândia;"
 }

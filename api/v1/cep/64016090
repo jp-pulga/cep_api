@@ -1,12 +1,12 @@
 {
-  "cep": "64016090",
-  "logradouro": "Rua Pedro II",
-  "bairro": "Macaúba",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Macaúba;",
+    "cep": "64016090",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pedro II;"
 }

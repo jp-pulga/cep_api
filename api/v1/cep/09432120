@@ -1,12 +1,12 @@
 {
-  "cep": "09432120",
-  "logradouro": "Rua São Joaquim",
-  "bairro": "Pilar Velho",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pilar Velho;",
+    "cep": "09432120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua São Joaquim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13170330",
-  "logradouro": "Rua Joaquim Líbano Pires",
-  "bairro": "Parque Franceschini",
-  "cidade": {
-    "nome": "Sumaré",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Franceschini;",
+    "cep": "13170330",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sumaré"
+    },
+    "logradouro": "Rua Joaquim Líbano Pires;"
 }

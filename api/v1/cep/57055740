@@ -1,12 +1,12 @@
 {
-  "cep": "57055740",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Pinheiro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pinheiro;",
+    "cep": "57055740",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

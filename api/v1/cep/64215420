@@ -1,12 +1,13 @@
 {
-  "cep": "64215420",
-  "logradouro": "Avenida Deputado Pinheiro Machado (L Par)",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "64215420",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Avenida Deputado Pinheiro Machado (L Par);"
 }

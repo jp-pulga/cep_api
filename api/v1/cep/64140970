@@ -1,12 +1,13 @@
 {
-  "cep": "64140970",
-  "logradouro": "AC Nossa Senhora dos Remédios Avenida Alfredo Lages 381",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nossa Senhora dos Remédios",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64140970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Nossa Senhora dos Remédios"
+    },
+    "ibge": 2206803,
+    "logradouro": "Avenida Alfredo Lages, 381  AC Nossa Senhora dos Remédios;"
 }

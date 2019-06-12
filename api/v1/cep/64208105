@@ -1,12 +1,13 @@
 {
-  "cep": "64208105",
-  "logradouro": "Avenida Doutor João Silva Filho",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208105",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Avenida Doutor João Silva Filho;"
 }

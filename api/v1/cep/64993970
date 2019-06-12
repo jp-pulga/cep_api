@@ -1,12 +1,13 @@
 {
-  "cep": "64993970",
-  "logradouro": "AGC São Gonçalo do Gurguéia Rua Pioneira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gonçalo do Gurguéia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64993970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Gonçalo do Gurguéia"
+    },
+    "ibge": 2209757,
+    "logradouro": "Rua Pioneira, s\/n  AGC São Gonçalo do Gurguéia;"
 }

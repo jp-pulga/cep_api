@@ -1,12 +1,12 @@
 {
-  "cep": "35700200",
-  "logradouro": "Rua Ari Francisco Pires",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "35700200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Ari Francisco Pires;"
 }

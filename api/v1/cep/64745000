@@ -1,12 +1,10 @@
 {
-  "cep": "64745000",
-  "logradouro": "São Francisco de Assis do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Francisco de Assis do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
+    "cep": "64745000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Francisco de Assis do Piauí"
     }
-  }
 }

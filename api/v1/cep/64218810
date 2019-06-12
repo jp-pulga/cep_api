@@ -1,12 +1,12 @@
 {
-  "cep": "64218810",
-  "logradouro": "Rua Oeiras",
-  "bairro": "Bebedouro",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bebedouro;",
+    "cep": "64218810",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Oeiras;"
 }

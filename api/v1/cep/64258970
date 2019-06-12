@@ -1,12 +1,13 @@
 {
-  "cep": "64258970",
-  "logradouro": "AC Lagoa de São Francisco Rua Manoel Nogueira Lima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa de São Francisco",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64258970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Lagoa de São Francisco"
+    },
+    "ibge": 2205573,
+    "logradouro": "Rua Manoel Nogueira Lima, s\/n  AC Lagoa de São Francisco;"
 }

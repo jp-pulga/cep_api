@@ -1,12 +1,13 @@
 {
-  "cep": "64170970",
-  "logradouro": "AC Joaquim Pires Rua Doroteu Sertão 645",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joaquim Pires",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64170970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Joaquim Pires"
+    },
+    "ibge": 2205409,
+    "logradouro": "Rua Doroteu Sertão, 645  AC Joaquim Pires;"
 }

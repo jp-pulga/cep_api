@@ -1,12 +1,13 @@
 {
-  "cep": "64495970",
-  "logradouro": "AGC Jardim do Mulato Avenida Jaime Soares 520",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jardim do Mulato",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64495970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Jardim do Mulato"
+    },
+    "ibge": 2205250,
+    "logradouro": "Avenida Jaime Soares, 520  AGC Jardim do Mulato;"
 }

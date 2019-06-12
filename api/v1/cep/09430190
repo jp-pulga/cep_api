@@ -1,12 +1,12 @@
 {
-  "cep": "09430190",
-  "logradouro": "Rua Santa Catarina (Pq das Fontes)",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "09430190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Santa Catarina (Pq das Fontes);"
 }

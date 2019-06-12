@@ -1,12 +1,12 @@
 {
-  "cep": "12323620",
-  "logradouro": "Rua Joaquim Simões Pires",
-  "bairro": "Bandeira Branca",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bandeira Branca;",
+    "cep": "12323620",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Rua Joaquim Simões Pires;"
 }

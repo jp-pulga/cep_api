@@ -1,12 +1,12 @@
 {
-  "cep": "04851803",
-  "logradouro": "Rua Joaquim Pires",
-  "bairro": "Vila Narciso",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Narciso;",
+    "cep": "04851803",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Joaquim Pires;"
 }

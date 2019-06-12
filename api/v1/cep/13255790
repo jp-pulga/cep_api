@@ -1,12 +1,12 @@
 {
-  "cep": "13255790",
-  "logradouro": "Rodovia Joaquim Antônio de Camargo Pires",
-  "bairro": "Parque São Gabriel",
-  "cidade": {
-    "nome": "Itatiba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Gabriel;",
+    "cep": "13255790",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itatiba"
+    },
+    "logradouro": "Rodovia Joaquim Antônio de Camargo Pires;"
 }

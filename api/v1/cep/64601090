@@ -1,12 +1,12 @@
 {
-  "cep": "64601090",
-  "logradouro": "Rua Santa Filomena",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "64601090",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Santa Filomena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32639570",
-  "logradouro": "Rua Piracaia",
-  "bairro": "Paquetá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paquetá;",
+    "cep": "32639570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Piracaia;"
 }

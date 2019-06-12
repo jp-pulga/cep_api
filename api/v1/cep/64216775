@@ -1,12 +1,13 @@
 {
-  "cep": "64216775",
-  "logradouro": "Rua Antonio Borges Pires Athayde",
-  "bairro": "Igaraçu",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Igaraçu;",
+    "cep": "64216775",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Rua Antonio Borges Pires Athayde;"
 }

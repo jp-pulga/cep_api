@@ -1,12 +1,12 @@
 {
-  "cep": "29053270",
-  "logradouro": "Rua Joaquim Pires Amorim",
-  "bairro": "Monte Belo",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Monte Belo;",
+    "cep": "29053270",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Joaquim Pires Amorim;"
 }

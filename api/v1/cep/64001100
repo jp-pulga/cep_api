@@ -1,12 +1,12 @@
 {
-  "cep": "64001100",
-  "logradouro": "Praça Pedro II",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64001100",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Praça Pedro II;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "17209360",
-  "logradouro": "Rua Joaquim Victor Rodrigues",
-  "bairro": "Jardim Pires I",
-  "cidade": {
-    "nome": "Jaú",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pires I;",
+    "cep": "17209360",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaú"
+    },
+    "logradouro": "Rua Joaquim Victor Rodrigues;"
 }

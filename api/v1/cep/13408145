@@ -1,12 +1,12 @@
 {
-  "cep": "13408145",
-  "logradouro": "Estrada São Pedro",
-  "bairro": "Jardim Residencial Javary II",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Residencial Javary II;",
+    "cep": "13408145",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Estrada São Pedro;"
 }

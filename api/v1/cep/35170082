@@ -1,12 +1,12 @@
 {
-  "cep": "35170082",
-  "logradouro": "Rua Manoel Joaquim Pires",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35170082",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Manoel Joaquim Pires;"
 }

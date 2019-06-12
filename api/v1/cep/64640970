@@ -1,12 +1,13 @@
 {
-  "cep": "64640970",
-  "logradouro": "AC Santo Antonio de Lisboa Avenida Sete de Setembro 312",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio de Lisboa",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64640970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Santo Antônio de Lisboa"
+    },
+    "ibge": 2209401,
+    "logradouro": "Avenida Sete de Setembro, 312  AC Santo Antonio de Lisboa;"
 }

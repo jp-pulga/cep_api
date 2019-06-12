@@ -1,12 +1,13 @@
 {
-  "cep": "64208120",
-  "logradouro": "Rua Anhangüera de 1907/1908 ao fim",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208120",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Rua Anhangüera - de 1907\/1908 ao fim;"
 }

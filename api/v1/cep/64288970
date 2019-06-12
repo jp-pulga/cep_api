@@ -1,12 +1,13 @@
 {
-  "cep": "64288970",
-  "logradouro": "AC Nossa Senhora de Nazaré Avenida Agostinho Barbosa 271",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nossa Senhora de Nazaré",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64288970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Nossa Senhora de Nazaré"
+    },
+    "ibge": 2206753,
+    "logradouro": "Avenida Agostinho Barbosa, 271  AC Nossa Senhora de Nazaré;"
 }

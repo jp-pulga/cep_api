@@ -1,12 +1,13 @@
 {
-  "cep": "64204305",
-  "logradouro": "Avenida Deputado Pinheiro Machado de 2991 ao fim - lado ímpar",
-  "bairro": "Reis Veloso",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Reis Veloso;",
+    "cep": "64204305",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Avenida Deputado Pinheiro Machado - de 2991 ao fim - lado ímpar;"
 }

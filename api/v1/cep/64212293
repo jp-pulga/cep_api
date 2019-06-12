@@ -1,12 +1,13 @@
 {
-  "cep": "64212293",
-  "logradouro": "Avenida Deputado Pinheiro Machado de 1004 ao fim - lado par",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212293",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Avenida Deputado Pinheiro Machado - de 1004 ao fim - lado par;"
 }

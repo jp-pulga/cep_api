@@ -1,12 +1,13 @@
 {
-  "cep": "64850970",
-  "logradouro": "AC Landri Sales Rua Nove de Novembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Landri Sales",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64850970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Landri Sales"
+    },
+    "ibge": 2205607,
+    "logradouro": "Rua Nove de Novembro, s\/n  AC Landri Sales;"
 }

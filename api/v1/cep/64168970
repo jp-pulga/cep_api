@@ -1,12 +1,13 @@
 {
-  "cep": "64168970",
-  "logradouro": "AGC Madeiro Avenida José Rodrigues s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Madeiro",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64168970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Madeiro"
+    },
+    "ibge": 2205854,
+    "logradouro": "Avenida José Rodrigues, s\/n  AGC Madeiro;"
 }

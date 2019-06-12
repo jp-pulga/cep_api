@@ -1,12 +1,12 @@
 {
-  "cep": "64218780",
-  "logradouro": "Rua Oeiras",
-  "bairro": "Nova Parnaíba",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Nova Parnaíba;",
+    "cep": "64218780",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Oeiras;"
 }

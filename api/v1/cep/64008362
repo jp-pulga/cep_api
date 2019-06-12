@@ -1,12 +1,12 @@
 {
-  "cep": "64008362",
-  "logradouro": "Rua Jerumenha",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "64008362",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Jerumenha;"
 }

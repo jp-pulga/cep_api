@@ -1,12 +1,13 @@
 {
-  "cep": "64365970",
-  "logradouro": "AGC Novo Santo Antonio Rua Capitão José Manoel da Cruz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Santo Antônio",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64365970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Novo Santo Antônio"
+    },
+    "ibge": 2206951,
+    "logradouro": "Rua Capitão José Manoel da Cruz, s\/n  AGC Novo Santo Antonio;"
 }

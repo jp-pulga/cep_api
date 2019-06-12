@@ -1,12 +1,12 @@
 {
-  "cep": "08215400",
-  "logradouro": "Rua São Francisco do Piauí",
-  "bairro": "Itaquera",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Itaquera;",
+    "cep": "08215400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua São Francisco do Piauí;"
 }

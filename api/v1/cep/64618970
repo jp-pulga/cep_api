@@ -1,12 +1,13 @@
 {
-  "cep": "64618970",
-  "logradouro": "AGC Paquetá Rua do Mercado s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paquetá",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64618970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Paquetá"
+    },
+    "ibge": 2207553,
+    "logradouro": "Rua do Mercado, s\/n  AGC Paquetá;"
 }

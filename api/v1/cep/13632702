@@ -1,12 +1,12 @@
 {
-  "cep": "13632702",
-  "logradouro": "Rua Miguel Alves da Silva",
-  "bairro": "Jardim São Jorge",
-  "cidade": {
-    "nome": "Pirassununga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Jorge;",
+    "cep": "13632702",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pirassununga"
+    },
+    "logradouro": "Rua Miguel Alves da Silva;"
 }

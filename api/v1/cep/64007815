@@ -1,12 +1,12 @@
 {
-  "cep": "64007815",
-  "logradouro": "Rua Desembargador Vicente Ribeiro Gonçalves",
-  "bairro": "Itaperu",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Itaperu;",
+    "cep": "64007815",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Desembargador Vicente Ribeiro Gonçalves;"
 }

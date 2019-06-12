@@ -1,12 +1,12 @@
 {
-  "cep": "94818884",
-  "logradouro": "Travessa Santa Luzia",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini;",
+    "cep": "94818884",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Travessa Santa Luzia;"
 }

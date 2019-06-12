@@ -1,12 +1,13 @@
 {
-  "cep": "64165971",
-  "logradouro": "AC Joca Marques Avenida Edilberto Marques 733",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joca Marques",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64165971",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Joca Marques"
+    },
+    "ibge": 2205458,
+    "logradouro": "Avenida Edilberto Marques, 733  AC Joca Marques;"
 }

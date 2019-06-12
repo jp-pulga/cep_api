@@ -1,12 +1,12 @@
 {
-  "cep": "64014073",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Ilhotas",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ilhotas;",
+    "cep": "64014073",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

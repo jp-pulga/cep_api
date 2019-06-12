@@ -1,12 +1,12 @@
 {
-  "cep": "64601373",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Bomba",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bomba;",
+    "cep": "64601373",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

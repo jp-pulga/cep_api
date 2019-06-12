@@ -1,12 +1,12 @@
 {
-  "cep": "64001400",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64001400",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

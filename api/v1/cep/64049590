@@ -1,12 +1,12 @@
 {
-  "cep": "64049590",
-  "logradouro": "Rua Senador Joaquim Pires",
-  "bairro": "Ininga",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ininga;",
+    "cep": "64049590",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Senador Joaquim Pires;"
 }

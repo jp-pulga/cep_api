@@ -1,12 +1,13 @@
 {
-  "cep": "64865970",
-  "logradouro": "AC Ribeiro Gonçalves Rua Landri Sales 173",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeiro Gonçalves",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64865970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Ribeiro Gonçalves"
+    },
+    "ibge": 2208908,
+    "logradouro": "Rua Landri Sales, 173  AC Ribeiro Gonçalves;"
 }

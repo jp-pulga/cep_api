@@ -1,12 +1,13 @@
 {
-  "cep": "64204170",
-  "logradouro": "Rua Antonio Carlos C. Pires de Castro",
-  "bairro": "Reis Veloso",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Reis Veloso;",
+    "cep": "64204170",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Rua Antonio Carlos C. Pires de Castro;"
 }

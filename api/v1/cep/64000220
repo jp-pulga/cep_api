@@ -1,12 +1,12 @@
 {
-  "cep": "64000220",
-  "logradouro": "Praça Landri Sales",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64000220",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Praça Landri Sales;"
 }

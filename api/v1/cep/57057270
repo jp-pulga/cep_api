@@ -1,12 +1,12 @@
 {
-  "cep": "57057270",
-  "logradouro": "Travessa Santa Luzia",
-  "bairro": "Pinheiro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pinheiro;",
+    "cep": "57057270",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Santa Luzia;"
 }

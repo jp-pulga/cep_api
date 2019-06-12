@@ -1,12 +1,11 @@
 {
-  "cep": "64835000",
-  "logradouro": "Rio Grande do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Grande do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64835000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Rio Grande do Piauí"
+    },
+    "ibge": 2209005
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "64530000",
-  "logradouro": "Novo Oriente do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Novo Oriente do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64530000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Novo Oriente do Piauí"
+    },
+    "ibge": 2206902
 }

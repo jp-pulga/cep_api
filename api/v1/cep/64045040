@@ -1,12 +1,12 @@
 {
-  "cep": "64045040",
-  "logradouro": "Rua Antonio Ribeiro Gonçalves",
-  "bairro": "Noivos",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Noivos;",
+    "cep": "64045040",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Antonio Ribeiro Gonçalves;"
 }

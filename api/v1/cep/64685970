@@ -1,12 +1,13 @@
 {
-  "cep": "64685970",
-  "logradouro": "AC Marcolândia Avenida Corinto Matos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marcolândia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64685970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Marcolândia"
+    },
+    "ibge": 2205953,
+    "logradouro": "Avenida Corinto Matos, s\/n  AC Marcolândia;"
 }

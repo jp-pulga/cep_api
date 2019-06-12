@@ -1,12 +1,13 @@
 {
-  "cep": "64778970",
-  "logradouro": "AGC São Lourenço do Piauí Praça Carlindo Santana s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Lourenço do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64778970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Lourenço do Piauí"
+    },
+    "ibge": 2210359,
+    "logradouro": "Praça Carlindo Santana, s\/n  AGC São Lourenço do Piauí;"
 }

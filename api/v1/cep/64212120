@@ -1,12 +1,13 @@
 {
-  "cep": "64212120",
-  "logradouro": "Conjunto Pinheiro Machado",
-  "bairro": "Rodoviária",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Rodoviária;",
+    "cep": "64212120",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Conjunto Pinheiro Machado;"
 }

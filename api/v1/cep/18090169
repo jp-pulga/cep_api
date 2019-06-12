@@ -1,12 +1,12 @@
 {
-  "cep": "18090169",
-  "logradouro": "Rua Joaquim Firmiano de Camargo Pires",
-  "bairro": "Jardim Santa Rosália",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Rosália;",
+    "cep": "18090169",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Joaquim Firmiano de Camargo Pires;"
 }

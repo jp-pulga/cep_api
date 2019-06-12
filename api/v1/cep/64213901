@@ -1,12 +1,13 @@
 {
-  "cep": "64213901",
-  "logradouro": "Zona de Processamento Exportação de Parnaíba-PI - ZPE Rua Dom Pedro I",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "64213901",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Rua Dom Pedro I  Zona de Processamento Exportação de Parnaíba-PI - ZPE;"
 }

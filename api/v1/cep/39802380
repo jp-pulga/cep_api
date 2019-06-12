@@ -1,12 +1,12 @@
 {
-  "cep": "39802380",
-  "logradouro": "Rua Joaquim Barbosa",
-  "bairro": "Castro Pires",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castro Pires;",
+    "cep": "39802380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Joaquim Barbosa;"
 }

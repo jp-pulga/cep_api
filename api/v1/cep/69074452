@@ -1,12 +1,12 @@
 {
-  "cep": "69074452",
-  "logradouro": "Beco Jardim Pituba",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "69074452",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Jardim Pituba;"
 }

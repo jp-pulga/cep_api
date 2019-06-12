@@ -1,12 +1,12 @@
 {
-  "cep": "58030224",
-  "logradouro": "Rua Joaquim Pires Ferreira",
-  "bairro": "Estados",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Estados;",
+    "cep": "58030224",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Joaquim Pires Ferreira;"
 }

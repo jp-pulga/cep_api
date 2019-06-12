@@ -1,12 +1,13 @@
 {
-  "cep": "64764970",
-  "logradouro": "AC Nova Santa Rita Avenida Valdir Leite 378",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Santa Rita",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64764970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Nova Santa Rita"
+    },
+    "ibge": 2207959,
+    "logradouro": "Avenida Valdir Leite, 378  AC Nova Santa Rita;"
 }

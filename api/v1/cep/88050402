@@ -1,12 +1,12 @@
 {
-  "cep": "88050402",
-  "logradouro": "Praça Roldão da Rocha Pires",
-  "bairro": "Santo Antônio de Lisboa",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santo Antônio de Lisboa;",
+    "cep": "88050402",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Praça Roldão da Rocha Pires;"
 }

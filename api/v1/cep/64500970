@@ -1,12 +1,13 @@
 {
-  "cep": "64500970",
-  "logradouro": "AC Oeiras Praça da Vitória 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Oeiras",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64500970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Oeiras"
+    },
+    "ibge": 2207009,
+    "logradouro": "Praça da Vitória, 15  AC Oeiras;"
 }

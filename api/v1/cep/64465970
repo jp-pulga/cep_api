@@ -1,12 +1,13 @@
 {
-  "cep": "64465970",
-  "logradouro": "AC Lagoinha do Piauí Avenida Nenem Napoleão s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoinha do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64465970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Lagoinha do Piauí"
+    },
+    "ibge": 2205540,
+    "logradouro": "Avenida Nenem Napoleão, s\/n  AC Lagoinha do Piauí;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64088600",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Todos os Santos",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Todos os Santos;",
+    "cep": "64088600",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

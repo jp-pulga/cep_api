@@ -1,12 +1,12 @@
 {
-  "cep": "17208350",
-  "logradouro": "Rua Joaquim Pires",
-  "bairro": "Jardim Vila Maria",
-  "cidade": {
-    "nome": "Jaú",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Vila Maria;",
+    "cep": "17208350",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaú"
+    },
+    "logradouro": "Rua Joaquim Pires;"
 }

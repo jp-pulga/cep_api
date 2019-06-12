@@ -1,12 +1,12 @@
 {
-  "cep": "07074031",
-  "logradouro": "Rua Soldado Joaquim Pires Lobo",
-  "bairro": "Vila Galvão",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Galvão;",
+    "cep": "07074031",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Soldado Joaquim Pires Lobo;"
 }

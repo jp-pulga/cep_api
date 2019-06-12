@@ -1,12 +1,13 @@
 {
-  "cep": "64130970",
-  "logradouro": "AC Miguel Alves Rua Humaitá 17",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Miguel Alves",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64130970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Miguel Alves"
+    },
+    "ibge": 2206209,
+    "logradouro": "Rua Humaitá, 17  AC Miguel Alves;"
 }

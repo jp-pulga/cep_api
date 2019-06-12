@@ -1,12 +1,12 @@
 {
-  "cep": "64603270",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Belo Norte",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Belo Norte;",
+    "cep": "64603270",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

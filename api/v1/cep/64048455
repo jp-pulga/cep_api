@@ -1,12 +1,12 @@
 {
-  "cep": "64048455",
-  "logradouro": "Rua Doutor José Ribeiro Gonçalves",
-  "bairro": "Ininga",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ininga;",
+    "cep": "64048455",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Doutor José Ribeiro Gonçalves;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64830970",
-  "logradouro": "AC Jerumenha Praça Dias D'Avila s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jerumenha",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64830970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Jerumenha"
+    },
+    "ibge": 2205300,
+    "logradouro": "Praça Dias D'Avila, s\/n  AC Jerumenha;"
 }

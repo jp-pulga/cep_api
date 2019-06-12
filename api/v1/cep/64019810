@@ -1,12 +1,12 @@
 {
-  "cep": "64019810",
-  "logradouro": "Rua Pedro II",
-  "bairro": "Pio XII",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Pio XII;",
+    "cep": "64019810",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pedro II;"
 }

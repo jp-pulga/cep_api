@@ -1,12 +1,12 @@
 {
-  "cep": "32639524",
-  "logradouro": "Rua Piraju",
-  "bairro": "Paquetá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paquetá;",
+    "cep": "32639524",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Piraju;"
 }

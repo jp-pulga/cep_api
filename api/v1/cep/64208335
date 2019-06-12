@@ -1,12 +1,13 @@
 {
-  "cep": "64208335",
-  "logradouro": "Avenida Deputado Pinheiro Machado de 1003 a 2989 - lado ímpar",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208335",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Avenida Deputado Pinheiro Machado - de 1003 a 2989 - lado ímpar;"
 }

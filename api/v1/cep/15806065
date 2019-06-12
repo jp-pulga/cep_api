@@ -1,12 +1,12 @@
 {
-  "cep": "15806065",
-  "logradouro": "Rua Piauí",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Catanduva",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "15806065",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Catanduva"
+    },
+    "logradouro": "Rua Piauí;"
 }

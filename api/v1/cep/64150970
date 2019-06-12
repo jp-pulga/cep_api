@@ -1,12 +1,13 @@
 {
-  "cep": "64150970",
-  "logradouro": "AC Matias Olímpio Rua Arimatéia Tito 502",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matias Olímpio",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64150970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Matias Olímpio"
+    },
+    "ibge": 2206100,
+    "logradouro": "Rua Arimatéia Tito, 502  AC Matias Olímpio;"
 }

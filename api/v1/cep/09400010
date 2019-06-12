@@ -1,12 +1,12 @@
 {
-  "cep": "09400010",
-  "logradouro": "Rua Padre Marcos Simoni",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09400010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Padre Marcos Simoni;"
 }

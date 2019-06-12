@@ -1,12 +1,12 @@
 {
-  "cep": "35680261",
-  "logradouro": "Rua Miguel Alves",
-  "bairro": "Piedade",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Piedade;",
+    "cep": "35680261",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Miguel Alves;"
 }

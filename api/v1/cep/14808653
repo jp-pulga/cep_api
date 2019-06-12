@@ -1,12 +1,12 @@
 {
-  "cep": "14808653",
-  "logradouro": "Rua Antonio Pedroso Pimentel",
-  "bairro": "Jardim Victório Antônio de Santi II",
-  "cidade": {
-    "nome": "Araraquara",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Victório Antônio de Santi II;",
+    "cep": "14808653",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araraquara"
+    },
+    "logradouro": "Rua Antonio Pedroso Pimentel;"
 }

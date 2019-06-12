@@ -1,12 +1,13 @@
 {
-  "cep": "64758970",
-  "logradouro": "AC Queimada Nova Avenida Senhorinha Raqueline s/n Setor 1.2 Quadra 8 Lotes 11 e 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Queimada Nova",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64758970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Queimada Nova"
+    },
+    "ibge": 2208650,
+    "logradouro": "Avenida Senhorinha Raqueline, s\/n Setor 1.2 Quadra 8 Lotes 11 e 12  AC Queimada Nova;"
 }

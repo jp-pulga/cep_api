@@ -1,12 +1,13 @@
 {
-  "cep": "64255970",
-  "logradouro": "AC Pedro II Travessa João Mendes 442",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro II",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64255970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Pedro II"
+    },
+    "ibge": 2207900,
+    "logradouro": "Travessa João Mendes, 442  AC Pedro II;"
 }

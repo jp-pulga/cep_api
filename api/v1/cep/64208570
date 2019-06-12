@@ -1,12 +1,13 @@
 {
-  "cep": "64208570",
-  "logradouro": "Rua Agrimensor Ciro Ciarlini",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208570",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "ibge": 2207702,
+    "logradouro": "Rua Agrimensor Ciro Ciarlini;"
 }

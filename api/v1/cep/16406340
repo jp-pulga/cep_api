@@ -1,12 +1,12 @@
 {
-  "cep": "16406340",
-  "logradouro": "Rua José Joaquim Pires",
-  "bairro": "Jardim Primavera",
-  "cidade": {
-    "nome": "Lins",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Primavera;",
+    "cep": "16406340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lins"
+    },
+    "logradouro": "Rua José Joaquim Pires;"
 }

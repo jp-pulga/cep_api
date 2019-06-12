@@ -1,12 +1,11 @@
 {
-  "cep": "64925000",
-  "logradouro": "Palmeira do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Palmeira do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64925000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Palmeira do Piauí"
+    },
+    "ibge": 2207405
 }

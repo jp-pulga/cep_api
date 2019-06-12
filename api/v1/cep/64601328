@@ -1,12 +1,12 @@
 {
-  "cep": "64601328",
-  "logradouro": "Rua Landri Sales",
-  "bairro": "Bomba",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bomba;",
+    "cep": "64601328",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Landri Sales;"
 }

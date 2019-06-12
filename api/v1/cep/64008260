@@ -1,12 +1,12 @@
 {
-  "cep": "64008260",
-  "logradouro": "Rua Miguel Alves",
-  "bairro": "Memorare",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Memorare;",
+    "cep": "64008260",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Miguel Alves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18611220",
-  "logradouro": "Rua Joaquim Pires Cotrim",
-  "bairro": "Jardim Dona Nicota de Barros",
-  "cidade": {
-    "nome": "Botucatu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Dona Nicota de Barros;",
+    "cep": "18611220",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Botucatu"
+    },
+    "logradouro": "Rua Joaquim Pires Cotrim;"
 }

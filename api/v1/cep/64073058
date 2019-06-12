@@ -1,12 +1,12 @@
 {
-  "cep": "64073058",
-  "logradouro": "Rua Santa Filomena",
-  "bairro": "Uruguai",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Uruguai;",
+    "cep": "64073058",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Santa Filomena;"
 }

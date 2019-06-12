@@ -1,12 +1,13 @@
 {
-  "cep": "64615970",
-  "logradouro": "AGC Santana do Piauí Praça São Pedro 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64615970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Santana do Piauí"
+    },
+    "ibge": 2209351,
+    "logradouro": "Praça São Pedro, 21  AGC Santana do Piauí;"
 }

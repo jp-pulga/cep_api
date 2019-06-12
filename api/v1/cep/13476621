@@ -1,12 +1,12 @@
 {
-  "cep": "13476621",
-  "logradouro": "Rua Martim Mário Piva",
-  "bairro": "Parque Dom Pedro II",
-  "cidade": {
-    "nome": "Americana",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Dom Pedro II;",
+    "cep": "13476621",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Americana"
+    },
+    "logradouro": "Rua Martim Mário Piva;"
 }

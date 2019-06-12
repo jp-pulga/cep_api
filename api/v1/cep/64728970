@@ -1,12 +1,13 @@
 {
-  "cep": "64728970",
-  "logradouro": "AC Pedro Laurentino Rua Maria Beronísia de Sousa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro Laurentino",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64728970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Pedro Laurentino"
+    },
+    "ibge": 2207934,
+    "logradouro": "Rua Maria Beronísia de Sousa, s\/n  AC Pedro Laurentino;"
 }

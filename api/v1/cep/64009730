@@ -1,12 +1,12 @@
 {
-  "cep": "64009730",
-  "logradouro": "Rua da Lagoa",
-  "bairro": "Alto Alegre",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Alegre;",
+    "cep": "64009730",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua da Lagoa;"
 }
