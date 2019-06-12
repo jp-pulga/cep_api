@@ -1,12 +1,12 @@
 {
-  "cep": "06162030",
-  "logradouro": "Rua Inajar Pereira de Souza",
-  "bairro": "Padroeira",
-  "cidade": {
-    "nome": "Osasco",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Padroeira;",
+    "cep": "06162030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Osasco"
+    },
+    "logradouro": "Rua Inajar Pereira de Souza;"
 }

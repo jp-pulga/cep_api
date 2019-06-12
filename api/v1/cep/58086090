@@ -1,12 +1,12 @@
 {
-  "cep": "58086090",
-  "logradouro": "Rua Alfredo Dias Pinto",
-  "bairro": "Cruz das Armas",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cruz das Armas;",
+    "cep": "58086090",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Alfredo Dias Pinto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "09761070",
-  "logradouro": "Rua Itaíba",
-  "bairro": "Jardim Petroni",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Petroni;",
+    "cep": "09761070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Itaíba;"
 }

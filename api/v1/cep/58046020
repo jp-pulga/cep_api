@@ -1,12 +1,12 @@
 {
-  "cep": "58046020",
-  "logradouro": "Rua João Alfredo de Souza",
-  "bairro": "Altiplano Cabo Branco",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Altiplano Cabo Branco;",
+    "cep": "58046020",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua João Alfredo de Souza;"
 }

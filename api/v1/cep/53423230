@@ -1,12 +1,12 @@
 {
-  "cep": "53423230",
-  "logradouro": "Rua Itambé",
-  "bairro": "Engenho Maranguape",
-  "cidade": {
-    "nome": "Paulista",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Engenho Maranguape;",
+    "cep": "53423230",
+    "cidade": {
+        "estado": {
+            "nome": "Pernambuco",
+            "sigla": "PE"
+        },
+        "nome": "Paulista"
+    },
+    "logradouro": "Rua Itambé;"
 }

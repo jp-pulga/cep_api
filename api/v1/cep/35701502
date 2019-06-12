@@ -1,12 +1,12 @@
 {
-  "cep": "35701502",
-  "logradouro": "Rua Joaquim Manoel Pereira",
-  "bairro": "Ouro Branco",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Branco;",
+    "cep": "35701502",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Joaquim Manoel Pereira;"
 }

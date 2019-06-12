@@ -1,12 +1,12 @@
 {
-  "cep": "58028260",
-  "logradouro": "Rua Alfredo Floro Campos Cantalice",
-  "bairro": "Ipês",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ipês;",
+    "cep": "58028260",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Alfredo Floro Campos Cantalice;"
 }

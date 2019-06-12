@@ -1,12 +1,12 @@
 {
-  "cep": "58037695",
-  "logradouro": "Rua Albertino Alfredo Araújo Filho",
-  "bairro": "Jardim Oceania",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Oceania;",
+    "cep": "58037695",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Albertino Alfredo Araújo Filho;"
 }

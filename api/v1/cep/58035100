@@ -1,12 +1,12 @@
 {
-  "cep": "58035100",
-  "logradouro": "Rua José Alfredo Nóbrega",
-  "bairro": "Bessa",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Bessa;",
+    "cep": "58035100",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Juiz José Alfredo Nóbrega de Freitas;"
 }

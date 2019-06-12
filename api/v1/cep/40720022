@@ -1,12 +1,12 @@
 {
-  "cep": "40720022",
-  "logradouro": "1ª Travessa da Jaqueira",
-  "bairro": "Periperi",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Periperi;",
+    "cep": "40720022",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "1ª Travessa da Jaqueira;"
 }

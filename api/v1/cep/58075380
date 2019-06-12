@@ -1,12 +1,12 @@
 {
-  "cep": "58075380",
-  "logradouro": "Rua Alfredo Souza Gama",
-  "bairro": "Ernesto Geisel",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ernesto Geisel;",
+    "cep": "58075380",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Alfredo Souza Gama;"
 }

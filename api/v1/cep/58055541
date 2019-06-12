@@ -1,12 +1,12 @@
 {
-  "cep": "58055541",
-  "logradouro": "Rua Comerciante Alfredo Ferreira da Rocha de 999/1000 ao fim",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "58055541",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Comerciante Alfredo Ferreira da Rocha - de 999\/1000 ao fim;"
 }
