@@ -1,12 +1,13 @@
 {
-  "cep": "35767970",
-  "logradouro": "AC Jequitibá Avenida Raimundo Ribeiro da Silva 146",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequitibá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35767970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jequitibá"
+    },
+    "ibge": 3135704,
+    "logradouro": "Avenida Raimundo Ribeiro da Silva, 146  AC Jequitibá;"
 }

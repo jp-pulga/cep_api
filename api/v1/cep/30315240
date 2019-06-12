@@ -1,12 +1,12 @@
 {
-  "cep": "30315240",
-  "logradouro": "Rua Monte Azul",
-  "bairro": "Mangabeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mangabeiras;",
+    "cep": "30315240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Monte Azul;"
 }

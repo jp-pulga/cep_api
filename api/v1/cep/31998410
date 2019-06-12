@@ -1,12 +1,12 @@
 {
-  "cep": "31998410",
-  "logradouro": "Rua Antônio Matozinhos",
-  "bairro": "Capitão Eduardo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capitão Eduardo;",
+    "cep": "31998410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antônio Matozinhos;"
 }

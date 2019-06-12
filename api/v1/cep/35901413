@@ -1,12 +1,12 @@
 {
-  "cep": "35901413",
-  "logradouro": "Rua Francisco de Paulo da Silva",
-  "bairro": "Monsenhor José Lopes",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monsenhor José Lopes;",
+    "cep": "35901413",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Francisco de Paulo da Silva;"
 }

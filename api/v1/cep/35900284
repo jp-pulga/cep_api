@@ -1,12 +1,12 @@
 {
-  "cep": "35900284",
-  "logradouro": "Rua Mesquita",
-  "bairro": "Praia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Praia;",
+    "cep": "35900284",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Mesquita;"
 }

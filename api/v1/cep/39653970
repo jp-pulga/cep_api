@@ -1,12 +1,13 @@
 {
-  "cep": "39653970",
-  "logradouro": "AGC Cruzinha Avenida Minas Novas 944",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruzinha (Minas Novas)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzinha\/Cruzinha",
+    "cep": "39653970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Minas Novas"
+    },
+    "ibge": 3141801,
+    "logradouro": "Avenida Minas Novas, 944  AGC Cruzinha;"
 }

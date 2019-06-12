@@ -1,12 +1,13 @@
 {
-  "cep": "35470970",
-  "logradouro": "AC Moeda Rua José Coutinho 160 Loja 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Moeda",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35470970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Moeda"
+    },
+    "ibge": 3142304,
+    "logradouro": "Rua José Coutinho, 160 Loja 01  AC Moeda;"
 }

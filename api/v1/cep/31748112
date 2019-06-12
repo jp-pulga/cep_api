@@ -1,12 +1,12 @@
 {
-  "cep": "31748112",
-  "logradouro": "Rua Montes Claros",
-  "bairro": "Jaqueline",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jaqueline;",
+    "cep": "31748112",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Montes Claros;"
 }

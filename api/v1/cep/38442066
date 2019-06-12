@@ -1,12 +1,12 @@
 {
-  "cep": "38442066",
-  "logradouro": "Rua Luzia Faleiros Machado",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "38442066",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Luzia Faleiros Machado;"
 }

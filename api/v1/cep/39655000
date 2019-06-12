@@ -1,12 +1,11 @@
 {
-  "cep": "39655000",
-  "logradouro": "Leme do Prado",
-  "bairro": "",
-  "cidade": {
-    "nome": "Leme do Prado",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39655000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Leme do Prado"
+    },
+    "ibge": 3138351
 }

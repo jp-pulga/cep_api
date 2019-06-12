@@ -1,12 +1,12 @@
 {
-  "cep": "31320510",
-  "logradouro": "Praça Engenho da Liberdade",
-  "bairro": "Engenho Nogueira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Engenho Nogueira;",
+    "cep": "31320510",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Engenho da Liberdade;"
 }

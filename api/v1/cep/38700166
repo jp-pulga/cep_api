@@ -1,12 +1,12 @@
 {
-  "cep": "38700166",
-  "logradouro": "Rua Olímpio Borges",
-  "bairro": "Lagoa Grande",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoa Grande;",
+    "cep": "38700166",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Olímpio Borges;"
 }

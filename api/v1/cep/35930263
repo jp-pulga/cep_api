@@ -1,12 +1,13 @@
 {
-  "cep": "35930263",
-  "logradouro": "Avenida Amazonas até 1001/1002",
-  "bairro": "Satélite",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Satélite;",
+    "cep": "35930263",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Amazonas - até 1001\/1002;"
 }

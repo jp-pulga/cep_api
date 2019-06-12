@@ -1,12 +1,12 @@
 {
-  "cep": "30260458",
-  "logradouro": "Beco Monte Castelo",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Lucas;",
+    "cep": "30260458",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Monte Castelo;"
 }

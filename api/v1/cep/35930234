@@ -1,12 +1,12 @@
 {
-  "cep": "35930234",
-  "logradouro": "Rua Mantena",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "35930234",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Mantena;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36045475",
-  "logradouro": "Avenida Brasil de 5540 ao fim - lado par",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "36045475",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Brasil - de 5540 ao fim - lado par;"
 }

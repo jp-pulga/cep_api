@@ -1,12 +1,12 @@
 {
-  "cep": "35700006",
-  "logradouro": "Rua Lassance Cunha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35700006",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Lassance Cunha;"
 }

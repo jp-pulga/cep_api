@@ -1,12 +1,13 @@
 {
-  "cep": "38870970",
-  "logradouro": "AC Matutina Rua Doutor Moacir Franco 282",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matutina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38870970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Matutina"
+    },
+    "ibge": 3141207,
+    "logradouro": "Rua Doutor Moacir Franco, 282  AC Matutina;"
 }

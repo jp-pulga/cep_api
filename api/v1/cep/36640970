@@ -1,12 +1,13 @@
 {
-  "cep": "36640970",
-  "logradouro": "AC Mar de Espanha Praça Santos Dumont 128",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mar de Espanha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36640970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mar de Espanha"
+    },
+    "ibge": 3139805,
+    "logradouro": "Praça Santos Dumont, 128  AC Mar de Espanha;"
 }

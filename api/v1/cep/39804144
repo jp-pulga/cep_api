@@ -1,12 +1,12 @@
 {
-  "cep": "39804144",
-  "logradouro": "Travessa Dez",
-  "bairro": "Minas Novas",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Minas Novas;",
+    "cep": "39804144",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Travessa Dez;"
 }

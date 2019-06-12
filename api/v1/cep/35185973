@@ -1,12 +1,13 @@
 {
-  "cep": "35185973",
-  "logradouro": "AGC Cava Grande Rua Belém 5",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marliéria",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35185973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Marliéria"
+    },
+    "ibge": 3140308,
+    "logradouro": "Rua Belém, 5  AGC Cava Grande;"
 }

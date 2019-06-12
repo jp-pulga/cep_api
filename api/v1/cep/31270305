@@ -1,12 +1,12 @@
 {
-  "cep": "31270305",
-  "logradouro": "Rua Izabel Bueno de 1001 a 1069 - lado ímpar",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "31270305",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Izabel Bueno - de 1001 a 1069 - lado ímpar;"
 }

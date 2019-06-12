@@ -1,12 +1,13 @@
 {
-  "cep": "37516971",
-  "logradouro": "AC Marmelópolis Rua Deputado Manoel Costa 84",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marmelópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37516971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Marmelópolis"
+    },
+    "ibge": 3140407,
+    "logradouro": "Rua Deputado Manoel Costa, 84  AC Marmelópolis;"
 }

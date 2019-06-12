@@ -1,12 +1,12 @@
 {
-  "cep": "32623176",
-  "logradouro": "Rua Monte Azul",
-  "bairro": "Marimbá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marimbá;",
+    "cep": "32623176",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Monte Azul;"
 }

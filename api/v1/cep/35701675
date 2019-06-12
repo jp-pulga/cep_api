@@ -1,12 +1,12 @@
 {
-  "cep": "35701675",
-  "logradouro": "Rua José Raposo Junior",
-  "bairro": "Mata Grande",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mata Grande;",
+    "cep": "35701675",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua José Raposo Junior;"
 }

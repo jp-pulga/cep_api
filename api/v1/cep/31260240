@@ -1,12 +1,12 @@
 {
-  "cep": "31260240",
-  "logradouro": "Rua Leopoldina Cardoso",
-  "bairro": "Dona Clara",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Clara;",
+    "cep": "31260240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Leopoldina Cardoso;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36923972",
-  "logradouro": "AC Luisburgo Rua Petronilho Inácio de Souza 55",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luisburgo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36923972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Luisburgo"
+    },
+    "ibge": 3138674,
+    "logradouro": "Rua Petronilho Inácio de Souza, 55  AC Luisburgo;"
 }

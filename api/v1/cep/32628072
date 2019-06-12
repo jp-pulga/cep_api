@@ -1,12 +1,12 @@
 {
-  "cep": "32628072",
-  "logradouro": "Rua Lagoa da Prata",
-  "bairro": "Vianópolis",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vianópolis;",
+    "cep": "32628072",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Lagoa da Prata;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35500608",
-  "logradouro": "Rua Manhumirim",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "35500608",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Manhumirim;"
 }

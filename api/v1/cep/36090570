@@ -1,12 +1,12 @@
 {
-  "cep": "36090570",
-  "logradouro": "Rua Lima Duarte",
-  "bairro": "Benfica",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Benfica;",
+    "cep": "36090570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Lima Duarte;"
 }

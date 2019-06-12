@@ -1,12 +1,12 @@
 {
-  "cep": "35012240",
-  "logradouro": "Avenida São Paulo",
-  "bairro": "Vila Mariana",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Mariana;",
+    "cep": "35012240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Avenida São Paulo;"
 }

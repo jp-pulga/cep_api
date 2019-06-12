@@ -1,12 +1,13 @@
 {
-  "cep": "36970970",
-  "logradouro": "AC Manhumirim Rua José Costa 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manhumirim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36970970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Manhumirim"
+    },
+    "ibge": 3139508,
+    "logradouro": "Rua José Costa 26  AC Manhumirim;"
 }

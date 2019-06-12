@@ -1,12 +1,12 @@
 {
-  "cep": "31270170",
-  "logradouro": "Rua Duarte da Costa",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "31270170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Duarte da Costa;"
 }

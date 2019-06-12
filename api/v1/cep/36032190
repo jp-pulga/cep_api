@@ -1,12 +1,13 @@
 {
-  "cep": "36032190",
-  "logradouro": "Avenida Engenheiro José Márcio Paschoalino",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia;",
+    "cep": "36032190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Engenheiro José Márcio Paschoalino;"
 }

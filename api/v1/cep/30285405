@@ -1,12 +1,12 @@
 {
-  "cep": "30285405",
-  "logradouro": "Rua Juramento de 573 ao fim - lado ímpar",
-  "bairro": "Jonas Veiga",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jonas Veiga;",
+    "cep": "30285405",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Juramento - de 573 ao fim - lado ímpar;"
 }

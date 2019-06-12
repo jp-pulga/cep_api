@@ -1,12 +1,12 @@
 {
-  "cep": "35162378",
-  "logradouro": "Rua João Monlevade",
-  "bairro": "Cidade Nobre",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nobre;",
+    "cep": "35162378",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua João Monlevade;"
 }

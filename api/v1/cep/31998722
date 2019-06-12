@@ -1,12 +1,12 @@
 {
-  "cep": "31998722",
-  "logradouro": "Rua Treze",
-  "bairro": "Capitão Eduardo (Bairro Montes Claros)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capitão Eduardo (Bairro Montes Claros);",
+    "cep": "31998722",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Treze;"
 }

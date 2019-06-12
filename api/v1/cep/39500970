@@ -1,12 +1,13 @@
 {
-  "cep": "39500970",
-  "logradouro": "AC Monte Azul Rua Professor Odon Oliva 164",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Azul",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39500970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monte Azul"
+    },
+    "ibge": 3142908,
+    "logradouro": "Rua Professor Odon Oliva, 164  AC Monte Azul;"
 }

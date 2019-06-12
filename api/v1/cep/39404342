@@ -1,12 +1,13 @@
 {
-  "cep": "39404342",
-  "logradouro": "Alameda Acácias",
-  "bairro": "Conjunto Residencial JK",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Residencial JK;",
+    "cep": "39404342",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "ibge": 3143302,
+    "logradouro": "Alameda Acácias;"
 }

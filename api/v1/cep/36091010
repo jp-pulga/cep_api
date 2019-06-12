@@ -1,12 +1,12 @@
 {
-  "cep": "36091010",
-  "logradouro": "Rua Aurino Tenório de Medeiros",
-  "bairro": "Nova Benfica",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Benfica;",
+    "cep": "36091010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Aurino Tenório de Medeiros;"
 }

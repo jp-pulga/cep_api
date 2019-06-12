@@ -1,12 +1,13 @@
 {
-  "cep": "39400268",
-  "logradouro": "Alameda do Pequi",
-  "bairro": "Renascença",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Renascença;",
+    "cep": "39400268",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "ibge": 3143302,
+    "logradouro": "Alameda do Pequi;"
 }

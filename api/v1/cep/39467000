@@ -1,12 +1,11 @@
 {
-  "cep": "39467000",
-  "logradouro": "Juvenília",
-  "bairro": "",
-  "cidade": {
-    "nome": "Juvenília",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39467000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juvenília"
+    },
+    "ibge": 3136959
 }

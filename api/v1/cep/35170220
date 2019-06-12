@@ -1,12 +1,12 @@
 {
-  "cep": "35170220",
-  "logradouro": "Rua Jequitibá",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "35170220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Jequitibá;"
 }

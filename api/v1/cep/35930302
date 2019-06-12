@@ -1,12 +1,12 @@
 {
-  "cep": "35930302",
-  "logradouro": "Rua Matipó",
-  "bairro": "Belmonte",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belmonte;",
+    "cep": "35930302",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Matipó;"
 }

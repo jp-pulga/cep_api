@@ -1,12 +1,12 @@
 {
-  "cep": "31540280",
-  "logradouro": "Rua João Monlevade",
-  "bairro": "Jardim Leblon",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Leblon;",
+    "cep": "31540280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua João Monlevade;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32186430",
-  "logradouro": "Rua Manhumirim",
-  "bairro": "Vila Boa Vista",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Boa Vista;",
+    "cep": "32186430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Manhumirim;"
 }

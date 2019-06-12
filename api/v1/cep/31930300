@@ -1,12 +1,12 @@
 {
-  "cep": "31930300",
-  "logradouro": "Rua Cristóvão Francelino Ferreira",
-  "bairro": "Maria Goretti",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Goretti;",
+    "cep": "31930300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cristóvão Francelino Ferreira;"
 }

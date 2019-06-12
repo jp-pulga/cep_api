@@ -1,12 +1,13 @@
 {
-  "cep": "35720971",
-  "logradouro": "AGF Bento Gonçalves Avenida Bento Gonçalves 135-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matozinhos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35720971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Matozinhos"
+    },
+    "ibge": 3141108,
+    "logradouro": "Avenida Bento Gonçalves, 135-A  AGF Bento Gonçalves;"
 }

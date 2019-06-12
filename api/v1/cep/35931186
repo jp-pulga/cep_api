@@ -1,12 +1,13 @@
 {
-  "cep": "35931186",
-  "logradouro": "Avenida Alberto Lima de 1811/1812 a 2701/2702",
-  "bairro": "Sion",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sion;",
+    "cep": "35931186",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Alberto Lima - de 1811\/1812 a 2701\/2702;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30330900",
-  "logradouro": "Copasa MG Rua Mar de Espanha 453",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "30330900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Mar de Espanha, 453  Copasa MG;"
 }

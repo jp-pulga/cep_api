@@ -1,12 +1,13 @@
 {
-  "cep": "39920970",
-  "logradouro": "AC Jordânia Rua Lero Gomes 140",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jordânia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39920970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jordânia"
+    },
+    "ibge": 3136504,
+    "logradouro": "Rua Lero Gomes, 140  AC Jordânia;"
 }

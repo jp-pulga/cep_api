@@ -1,12 +1,13 @@
 {
-  "cep": "39467972",
-  "logradouro": "AC Juvenília Rua Raimundo Santos 62",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juvenília",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39467972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juvenília"
+    },
+    "ibge": 3136959,
+    "logradouro": "Rua Raimundo Santos, 62  AC Juvenília;"
 }

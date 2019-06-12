@@ -1,12 +1,13 @@
 {
-  "cep": "39215972",
-  "logradouro": "AC Monjolos Rua Vereador Walmiro de Souza 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monjolos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39215972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monjolos"
+    },
+    "ibge": 3142502,
+    "logradouro": "Rua Vereador Walmiro de Souza, 29  AC Monjolos;"
 }

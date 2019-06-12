@@ -1,12 +1,13 @@
 {
-  "cep": "36345974",
-  "logradouro": "AGC Arame Rua José Buzatti Ferreira 151",
-  "bairro": "Arame",
-  "cidade": {
-    "nome": "Lagoa Dourada",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Arame;",
+    "cep": "36345974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Dourada"
+    },
+    "ibge": 3137403,
+    "logradouro": "Rua José Buzatti Ferreira, 151  AGC Arame;"
 }

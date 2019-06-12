@@ -1,12 +1,13 @@
 {
-  "cep": "39516971",
-  "logradouro": "AGC Mamonas Praça Central s/n",
-  "bairro": "Barrinha",
-  "cidade": {
-    "nome": "Mamonas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barrinha;",
+    "cep": "39516971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mamonas"
+    },
+    "ibge": 3139250,
+    "logradouro": "Praça Central, s\/n  AGC Mamonas;"
 }

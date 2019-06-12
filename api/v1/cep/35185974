@@ -1,12 +1,13 @@
 {
-  "cep": "35185974",
-  "logradouro": "AC Marliéria Rua José Belisário de Castro 09",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marliéria",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35185974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Marliéria"
+    },
+    "ibge": 3140308,
+    "logradouro": "Rua José Belisário de Castro, 09  AC Marliéria;"
 }

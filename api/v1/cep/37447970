@@ -1,12 +1,13 @@
 {
-  "cep": "37447970",
-  "logradouro": "AC Minduri Avenida Getúlio Vargas 84",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Minduri",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37447970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Minduri"
+    },
+    "ibge": 3141900,
+    "logradouro": "Avenida Getúlio Vargas, 84  AC Minduri;"
 }

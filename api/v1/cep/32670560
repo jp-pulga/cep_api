@@ -1,12 +1,12 @@
 {
-  "cep": "32670560",
-  "logradouro": "Rua Jesuânia",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "32670560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Jesuânia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32265060",
-  "logradouro": "Rua Rio Jequitinhonha",
-  "bairro": "Riacho das Pedras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Riacho das Pedras;",
+    "cep": "32265060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Rio Jequitinhonha;"
 }

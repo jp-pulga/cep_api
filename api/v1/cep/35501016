@@ -1,12 +1,12 @@
 {
-  "cep": "35501016",
-  "logradouro": "Rua Leopoldina Gontijo",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "35501016",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Leopoldina Gontijo;"
 }

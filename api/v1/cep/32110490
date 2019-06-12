@@ -1,12 +1,12 @@
 {
-  "cep": "32110490",
-  "logradouro": "Rua Modestino Correa",
-  "bairro": "Vila Santa Luzia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Luzia;",
+    "cep": "32110490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Modestino Correa;"
 }

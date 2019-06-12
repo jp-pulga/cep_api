@@ -1,12 +1,12 @@
 {
-  "cep": "33805240",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Santa Matilde",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Matilde;",
+    "cep": "33805240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

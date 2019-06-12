@@ -1,12 +1,12 @@
 {
-  "cep": "38182364",
-  "logradouro": "Rua Maria Antonieta Machado",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "38182364",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Maria Antonieta Machado;"
 }

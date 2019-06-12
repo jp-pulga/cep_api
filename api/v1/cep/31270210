@@ -1,12 +1,12 @@
 {
-  "cep": "31270210",
-  "logradouro": "Rua Manoel Vítor",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "31270210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Manoel Vítor;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35430251",
-  "logradouro": "Rua Luiz Martins Soares Sobrinho",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "35430251",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua Luiz Martins Soares Sobrinho;"
 }

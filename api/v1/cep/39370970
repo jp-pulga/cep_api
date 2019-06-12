@@ -1,12 +1,13 @@
 {
-  "cep": "39370970",
-  "logradouro": "AC Jequitaí Rua da Conceicão 74",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequitaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39370970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jequitaí"
+    },
+    "ibge": 3135605,
+    "logradouro": "Rua da Conceicão, 74  AC Jequitaí;"
 }

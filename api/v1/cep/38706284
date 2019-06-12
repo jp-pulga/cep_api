@@ -1,12 +1,12 @@
 {
-  "cep": "38706284",
-  "logradouro": "Rua Martinho Lutero",
-  "bairro": "Campos Elíseos",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campos Elíseos;",
+    "cep": "38706284",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Martinho Lutero;"
 }

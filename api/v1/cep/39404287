@@ -1,12 +1,12 @@
 {
-  "cep": "39404287",
-  "logradouro": "Rua Imperatriz Leopoldina",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Independência;",
+    "cep": "39404287",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Imperatriz Leopoldina;"
 }

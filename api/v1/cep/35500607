@@ -1,12 +1,12 @@
 {
-  "cep": "35500607",
-  "logradouro": "Rua Manhuaçu",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "35500607",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Manhuaçu;"
 }

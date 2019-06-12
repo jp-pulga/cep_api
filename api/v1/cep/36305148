@@ -1,12 +1,12 @@
 {
-  "cep": "36305148",
-  "logradouro": "Rua Alberto Magalhães",
-  "bairro": "Matozinhos",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matozinhos;",
+    "cep": "36305148",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Alberto Magalhães;"
 }

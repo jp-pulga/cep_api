@@ -1,12 +1,12 @@
 {
-  "cep": "38701752",
-  "logradouro": "Rua José Gonçalves Filho",
-  "bairro": "Residencial Barreiro",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Barreiro;",
+    "cep": "38701752",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua José Gonçalves Filho;"
 }

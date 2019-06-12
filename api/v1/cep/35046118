@@ -1,12 +1,12 @@
 {
-  "cep": "35046118",
-  "logradouro": "Rua Mariana Cabral Barbosa",
-  "bairro": "Vale Pastoril II",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale Pastoril II;",
+    "cep": "35046118",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Mariana Cabral Barbosa;"
 }

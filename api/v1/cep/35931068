@@ -1,12 +1,13 @@
 {
-  "cep": "35931068",
-  "logradouro": "Alameda Cearense",
-  "bairro": "Cruzeiro Celeste",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro Celeste;",
+    "cep": "35931068",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Alameda Cearense;"
 }

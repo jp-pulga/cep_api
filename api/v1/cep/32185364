@@ -1,12 +1,12 @@
 {
-  "cep": "32185364",
-  "logradouro": "Rua dos Jequitibás",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "32185364",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua dos Jequitibás;"
 }

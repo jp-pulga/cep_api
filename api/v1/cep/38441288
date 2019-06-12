@@ -1,12 +1,12 @@
 {
-  "cep": "38441288",
-  "logradouro": "Rua Fábio Eduardo Machado",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "38441288",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Fábio Eduardo Machado;"
 }

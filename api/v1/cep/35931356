@@ -1,12 +1,13 @@
 {
-  "cep": "35931356",
-  "logradouro": "Alameda dos Cowboys",
-  "bairro": "Cruzeiro Celeste",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro Celeste;",
+    "cep": "35931356",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Alameda dos Cowboys;"
 }

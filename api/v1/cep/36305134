@@ -1,12 +1,12 @@
 {
-  "cep": "36305134",
-  "logradouro": "Avenida Sete de Setembro",
-  "bairro": "Matozinhos",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matozinhos;",
+    "cep": "36305134",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida Sete de Setembro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35059680",
-  "logradouro": "Travessa São João Del Rei",
-  "bairro": "Monte Carmelo",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Carmelo;",
+    "cep": "35059680",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Travessa São João Del Rei;"
 }

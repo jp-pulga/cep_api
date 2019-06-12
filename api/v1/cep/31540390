@@ -1,12 +1,12 @@
 {
-  "cep": "31540390",
-  "logradouro": "Rua Lagoa dos Patos",
-  "bairro": "Jardim Leblon",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Leblon;",
+    "cep": "31540390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Lagoa dos Patos;"
 }

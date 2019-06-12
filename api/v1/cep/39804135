@@ -1,12 +1,12 @@
 {
-  "cep": "39804135",
-  "logradouro": "Rua Minas Novas",
-  "bairro": "Minas Novas",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Minas Novas;",
+    "cep": "39804135",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Minas Novas;"
 }

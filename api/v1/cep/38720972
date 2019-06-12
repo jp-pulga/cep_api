@@ -1,12 +1,13 @@
 {
-  "cep": "38720972",
-  "logradouro": "AGC Limeira de Minas Praça Nossa Senhora Abadia s/n",
-  "bairro": "Limeira de Minas",
-  "cidade": {
-    "nome": "Lagoa Formosa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limeira de Minas;",
+    "cep": "38720972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Formosa"
+    },
+    "ibge": 3137502,
+    "logradouro": "Praça Nossa Senhora Abadia s\/n  AGC Limeira de Minas;"
 }

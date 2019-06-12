@@ -1,12 +1,12 @@
 {
-  "cep": "32628076",
-  "logradouro": "Rua Lagoa Dourada",
-  "bairro": "Vianópolis",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vianópolis;",
+    "cep": "32628076",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Lagoa Dourada;"
 }

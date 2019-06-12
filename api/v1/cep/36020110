@@ -1,12 +1,13 @@
 {
-  "cep": "36020110",
-  "logradouro": "Avenida Brasil até 01909 - lado ímpar",
-  "bairro": "Poço Rico",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Poço Rico;",
+    "cep": "36020110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Brasil - até 01909 - lado ímpar;"
 }

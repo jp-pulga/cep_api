@@ -1,12 +1,12 @@
 {
-  "cep": "31742740",
-  "logradouro": "Rua Elvira Maria de Jesus",
-  "bairro": "Jardim Felicidade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Felicidade;",
+    "cep": "31742740",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Elvira Maria de Jesus;"
 }

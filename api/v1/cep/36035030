@@ -1,12 +1,13 @@
 {
-  "cep": "36035030",
-  "logradouro": "Avenida Brasil de 03451 a 05301 - lado ímpar",
-  "bairro": "Mariano Procópio",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mariano Procópio;",
+    "cep": "36035030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Brasil - de 03451 a 05301 - lado ímpar;"
 }

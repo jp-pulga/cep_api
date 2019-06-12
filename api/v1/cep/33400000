@@ -1,12 +1,11 @@
 {
-  "cep": "33400000",
-  "logradouro": "Lagoa Santa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lagoa Santa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "33400000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Santa"
+    },
+    "ibge": 3137601
 }

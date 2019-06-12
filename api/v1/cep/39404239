@@ -1,12 +1,12 @@
 {
-  "cep": "39404239",
-  "logradouro": "Rua Lagoa dos Patos",
-  "bairro": "Interlagos",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Interlagos;",
+    "cep": "39404239",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Lagoa dos Patos;"
 }

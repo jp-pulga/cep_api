@@ -1,12 +1,12 @@
 {
-  "cep": "30140912",
-  "logradouro": "Palácio do Governo do Estado de Minas Gerais Praça da Liberdade s/n",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "30140912",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça da Liberdade, s\/n  Palácio do Governo do Estado de Minas Gerais;"
 }

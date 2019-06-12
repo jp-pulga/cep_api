@@ -1,12 +1,12 @@
 {
-  "cep": "30840360",
-  "logradouro": "Rua Mário Mendes Campos",
-  "bairro": "Castelo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castelo;",
+    "cep": "30840360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Mário Mendes Campos;"
 }

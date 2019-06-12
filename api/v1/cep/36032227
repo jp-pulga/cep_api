@@ -1,12 +1,12 @@
 {
-  "cep": "36032227",
-  "logradouro": "Rua Compositor João Medeiros Filho",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "36032227",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Compositor João Medeiros Filho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35501347",
-  "logradouro": "Rua Mar de Espanha",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "35501347",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Mar de Espanha;"
 }

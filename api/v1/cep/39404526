@@ -1,12 +1,12 @@
 {
-  "cep": "39404526",
-  "logradouro": "Rua Vila Nova de Minas",
-  "bairro": "Vila Tiradentes",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Tiradentes;",
+    "cep": "39404526",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Vila Nova de Minas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38440228",
-  "logradouro": "Rua João da Cruz Machado",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "38440228",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua João da Cruz Machado;"
 }

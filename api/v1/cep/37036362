@@ -1,12 +1,12 @@
 {
-  "cep": "37036362",
-  "logradouro": "Rua Carlos Fernando de Mesquita",
-  "bairro": "Park Rinaldo",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Park Rinaldo;",
+    "cep": "37036362",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Carlos Fernando de Mesquita;"
 }

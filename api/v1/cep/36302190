@@ -1,12 +1,12 @@
 {
-  "cep": "36302190",
-  "logradouro": "Rua Dom Antônio Carlos Mesquita",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "36302190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Dom Antônio Carlos Mesquita;"
 }

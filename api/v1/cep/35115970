@@ -1,12 +1,13 @@
 {
-  "cep": "35115970",
-  "logradouro": "AC Marilac Rua Tupinambás 61",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marilac",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35115970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Marilac"
+    },
+    "ibge": 3140100,
+    "logradouro": "Rua Tupinambás, 61  AC Marilac;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32145645",
-  "logradouro": "Rua Mariana",
-  "bairro": "Arpoador",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Arpoador;",
+    "cep": "32145645",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Mariana;"
 }

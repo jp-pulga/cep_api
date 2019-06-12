@@ -1,12 +1,13 @@
 {
-  "cep": "39215971",
-  "logradouro": "AGC Monjolos Rua Limoeiro 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monjolos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39215971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monjolos"
+    },
+    "ibge": 3142502,
+    "logradouro": "Rua Limoeiro, 10  AGC Monjolos;"
 }

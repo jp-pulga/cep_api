@@ -1,12 +1,12 @@
 {
-  "cep": "39404043",
-  "logradouro": "Rua Jequitibá",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "39404043",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Jequitibá;"
 }

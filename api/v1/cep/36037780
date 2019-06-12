@@ -1,12 +1,12 @@
 {
-  "cep": "36037780",
-  "logradouro": "Rua Doutor Roberto de Medeiros",
-  "bairro": "Spina Ville II",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Spina Ville II;",
+    "cep": "36037780",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Doutor Roberto de Medeiros;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35681135",
-  "logradouro": "Rua Leopoldina Correa",
-  "bairro": "Santanense",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santanense;",
+    "cep": "35681135",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Leopoldina Correa;"
 }

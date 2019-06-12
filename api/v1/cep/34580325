@@ -1,12 +1,12 @@
 {
-  "cep": "34580325",
-  "logradouro": "Rua Jordânia",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "34580325",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Jordânia;"
 }

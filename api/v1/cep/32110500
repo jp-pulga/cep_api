@@ -1,12 +1,12 @@
 {
-  "cep": "32110500",
-  "logradouro": "Rua Egito",
-  "bairro": "Vila Santa Luzia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Luzia;",
+    "cep": "32110500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Egito;"
 }

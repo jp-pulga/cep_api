@@ -1,12 +1,13 @@
 {
-  "cep": "35675976",
-  "logradouro": "AGC Boa Vista Rua São Vicente 72",
-  "bairro": "Boa Vista da Serra",
-  "cidade": {
-    "nome": "Juatuba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista da Serra;",
+    "cep": "35675976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juatuba"
+    },
+    "ibge": 3136652,
+    "logradouro": "Rua São Vicente, 72  AGC Boa Vista;"
 }

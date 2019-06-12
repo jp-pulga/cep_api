@@ -1,12 +1,12 @@
 {
-  "cep": "32050809",
-  "logradouro": "Beco Maravilha",
-  "bairro": "Vila Nova Esperança",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Nova Esperança;",
+    "cep": "32050809",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Beco Maravilha;"
 }

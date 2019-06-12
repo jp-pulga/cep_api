@@ -1,12 +1,12 @@
 {
-  "cep": "31870190",
-  "logradouro": "Rua Santa Leopoldina",
-  "bairro": "Ouro Minas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Minas;",
+    "cep": "31870190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Santa Leopoldina;"
 }

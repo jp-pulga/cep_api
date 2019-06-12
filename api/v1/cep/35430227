@@ -1,12 +1,12 @@
 {
-  "cep": "35430227",
-  "logradouro": "Praça Cid Martins Soares",
-  "bairro": "Palmeiras",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmeiras;",
+    "cep": "35430227",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Praça Cid Martins Soares;"
 }

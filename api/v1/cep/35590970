@@ -1,12 +1,13 @@
 {
-  "cep": "35590970",
-  "logradouro": "AC Lagoa da Prata Rua Joaquim Gomes Pereira 681",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa da Prata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35590970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa da Prata"
+    },
+    "ibge": 3137205,
+    "logradouro": "Rua Joaquim Gomes Pereira, 681  AC Lagoa da Prata;"
 }

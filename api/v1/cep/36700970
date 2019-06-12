@@ -1,12 +1,13 @@
 {
-  "cep": "36700970",
-  "logradouro": "AC Leopoldina Rua Ribeiro Junqueira 61",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Leopoldina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36700970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Leopoldina"
+    },
+    "ibge": 3138401,
+    "logradouro": "Rua Ribeiro Junqueira, 61  AC Leopoldina;"
 }

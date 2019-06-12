@@ -1,12 +1,12 @@
 {
-  "cep": "35701551",
-  "logradouro": "Rua Antônio Teixeira de Oliveira",
-  "bairro": "Mata Grande",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mata Grande;",
+    "cep": "35701551",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Antônio Teixeira de Oliveira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30320400",
-  "logradouro": "Avenida Celso Porfírio Machado",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "30320400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Celso Porfírio Machado;"
 }

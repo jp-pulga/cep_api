@@ -1,12 +1,13 @@
 {
-  "cep": "35934899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de João Monlevade",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de João Monlevade;",
+    "cep": "35934899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Área Rural;"
 }

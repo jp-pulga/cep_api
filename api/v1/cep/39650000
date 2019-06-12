@@ -1,12 +1,11 @@
 {
-  "cep": "39650000",
-  "logradouro": "Minas Novas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Minas Novas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39650000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Minas Novas"
+    },
+    "ibge": 3141801
 }

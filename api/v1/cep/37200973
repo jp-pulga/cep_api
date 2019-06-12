@@ -1,12 +1,13 @@
 {
-  "cep": "37200973",
-  "logradouro": "AGF Centro de Lavras Rua Doutor Francisco Sales 343 Lojas 3 e 4",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lavras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37200973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lavras"
+    },
+    "ibge": 3138203,
+    "logradouro": "Rua Doutor Francisco Sales, 343 Lojas 3 e 4  AGF Centro de Lavras;"
 }

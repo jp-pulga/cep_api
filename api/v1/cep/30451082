@@ -1,12 +1,12 @@
 {
-  "cep": "30451082",
-  "logradouro": "Beco da Liberdade",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "30451082",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco da Liberdade;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35701679",
-  "logradouro": "Rua São Cosme",
-  "bairro": "Mata Grande",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mata Grande;",
+    "cep": "35701679",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua São Cosme;"
 }

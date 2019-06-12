@@ -1,12 +1,12 @@
 {
-  "cep": "39404218",
-  "logradouro": "Rua Jequitinhonha",
-  "bairro": "Guarujá",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarujá;",
+    "cep": "39404218",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Jequitinhonha;"
 }

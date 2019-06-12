@@ -1,12 +1,12 @@
 {
-  "cep": "35502231",
-  "logradouro": "Rua Mariana",
-  "bairro": "Icaraí",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Icaraí;",
+    "cep": "35502231",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Mariana;"
 }

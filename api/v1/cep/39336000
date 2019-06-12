@@ -1,12 +1,11 @@
 {
-  "cep": "39336000",
-  "logradouro": "Luislândia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Luislândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39336000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Luislândia"
+    },
+    "ibge": 3138682
 }

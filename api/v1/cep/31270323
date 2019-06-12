@@ -1,12 +1,12 @@
 {
-  "cep": "31270323",
-  "logradouro": "Avenida Professor Magalhães Penido de 761 ao fim - lado ímpar",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "31270323",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Professor Magalhães Penido - de 761 ao fim - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "34990974",
-  "logradouro": "AGC Nova Aparecida Avenida José Inácio Magalhães 600",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova União",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "34990974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova União"
+    },
+    "ibge": 3136603,
+    "logradouro": "Avenida José Inácio Magalhães, 600  AGC Nova Aparecida;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30130185",
-  "logradouro": "Avenida João Pinheiro de 421 ao fim - lado ímpar",
-  "bairro": "Boa Viagem",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Viagem;",
+    "cep": "30130185",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida João Pinheiro - de 421 ao fim - lado ímpar;"
 }

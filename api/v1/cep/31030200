@@ -1,12 +1,12 @@
 {
-  "cep": "31030200",
-  "logradouro": "Rua Joaquim Felício",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sagrada Família;",
+    "cep": "31030200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Joaquim Felício;"
 }

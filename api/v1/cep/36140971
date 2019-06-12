@@ -1,12 +1,13 @@
 {
-  "cep": "36140971",
-  "logradouro": "AGC Orvalho Rua Antônio de Almeida Sales 50",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lima Duarte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36140971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lima Duarte"
+    },
+    "ibge": 3138609,
+    "logradouro": "Rua Antônio de Almeida Sales, 50  AGC Orvalho;"
 }

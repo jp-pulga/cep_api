@@ -1,12 +1,13 @@
 {
-  "cep": "36190970",
-  "logradouro": "AC Mercês Praça Antônio Camilo de Lima 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mercês",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36190970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mercês"
+    },
+    "ibge": 3141603,
+    "logradouro": "Praça Antônio Camilo de Lima, 11  AC Mercês;"
 }

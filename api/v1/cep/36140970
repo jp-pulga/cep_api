@@ -1,12 +1,13 @@
 {
-  "cep": "36140970",
-  "logradouro": "AC Lima Duarte Rua Antônio Carlos 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lima Duarte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36140970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lima Duarte"
+    },
+    "ibge": 3138609,
+    "logradouro": "Rua Antônio Carlos, 29  AC Lima Duarte;"
 }

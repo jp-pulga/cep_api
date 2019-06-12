@@ -1,12 +1,12 @@
 {
-  "cep": "32110660",
-  "logradouro": "Rua Presidente Juscelino Kubitschek",
-  "bairro": "Vila Santa Luzia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Luzia;",
+    "cep": "32110660",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Presidente Juscelino Kubitschek;"
 }

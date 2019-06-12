@@ -1,12 +1,13 @@
 {
-  "cep": "39465972",
-  "logradouro": "AC Miravânia Rua Indaiá 100",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Miravânia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39465972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Miravânia"
+    },
+    "ibge": 3142254,
+    "logradouro": "Rua Indaiá, 100  AC Miravânia;"
 }

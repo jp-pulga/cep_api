@@ -1,12 +1,12 @@
 {
-  "cep": "30240052",
-  "logradouro": "Beco Monte Sião",
-  "bairro": "Nossa Senhora da Conceição",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora da Conceição;",
+    "cep": "30240052",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Monte Sião;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31720460",
-  "logradouro": "Rua Maria Ferreira Santos",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "31720460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Ferreira Santos;"
 }

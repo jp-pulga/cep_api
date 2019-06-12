@@ -1,12 +1,13 @@
 {
-  "cep": "34990970",
-  "logradouro": "AC Nova União Rua Carolino Machado 145",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova União",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "34990970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova União"
+    },
+    "ibge": 3136603,
+    "logradouro": "Rua Carolino Machado, 145  AC Nova União;"
 }

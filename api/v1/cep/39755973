@@ -1,12 +1,13 @@
 {
-  "cep": "39755973",
-  "logradouro": "AC Materlândia Rua Argemiro Francisco 171",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Materlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39755973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Materlândia"
+    },
+    "ibge": 3140605,
+    "logradouro": "Rua Argemiro Francisco, 171  AC Materlândia;"
 }

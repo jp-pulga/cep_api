@@ -1,12 +1,12 @@
 {
-  "cep": "30210240",
-  "logradouro": "Praça Ephigênio de Salles",
-  "bairro": "Mangabeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mangabeiras;",
+    "cep": "30210240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Ephigênio de Salles;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39402010",
-  "logradouro": "Avenida Brasil",
-  "bairro": "Monte Carmelo",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Carmelo;",
+    "cep": "39402010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Avenida Brasil;"
 }

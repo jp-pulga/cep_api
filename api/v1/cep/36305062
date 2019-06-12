@@ -1,12 +1,12 @@
 {
-  "cep": "36305062",
-  "logradouro": "Rua das Amendoeiras",
-  "bairro": "Matozinhos",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matozinhos;",
+    "cep": "36305062",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua das Amendoeiras;"
 }

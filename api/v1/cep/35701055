@@ -1,12 +1,12 @@
 {
-  "cep": "35701055",
-  "logradouro": "Rua Mantena",
-  "bairro": "Braz Filizola",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Braz Filizola;",
+    "cep": "35701055",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Mantena;"
 }

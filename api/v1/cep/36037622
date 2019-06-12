@@ -1,12 +1,12 @@
 {
-  "cep": "36037622",
-  "logradouro": "Rua Imperatriz Dona Leopoldina (C Imperador)",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "36037622",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Imperatriz Dona Leopoldina (C Imperador);"
 }

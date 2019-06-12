@@ -1,12 +1,13 @@
 {
-  "cep": "35666970",
-  "logradouro": "AC Maravilhas Rua Pitangui 263",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maravilhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35666970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Maravilhas"
+    },
+    "ibge": 3139706,
+    "logradouro": "Rua Pitangui, 263  AC Maravilhas;"
 }

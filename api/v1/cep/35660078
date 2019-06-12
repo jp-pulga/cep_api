@@ -1,12 +1,12 @@
 {
-  "cep": "35660078",
-  "logradouro": "Rua Lagoa Santa",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Independência;",
+    "cep": "35660078",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Lagoa Santa;"
 }

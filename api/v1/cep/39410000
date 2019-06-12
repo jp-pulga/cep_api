@@ -1,12 +1,12 @@
 {
-  "cep": "39410000",
-  "logradouro": "Ermidinha (Montes Claros)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ermidinha (Montes Claros)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ermidinha",
+    "cep": "39410000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "ibge": 3143302
 }

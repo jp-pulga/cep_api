@@ -1,12 +1,12 @@
 {
-  "cep": "39400331",
-  "logradouro": "Rua Mirabela",
-  "bairro": "Alto São João",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto São João;",
+    "cep": "39400331",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Mirabela;"
 }

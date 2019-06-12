@@ -1,12 +1,12 @@
 {
-  "cep": "36062335",
-  "logradouro": "Rua Áurea Medeiros de Souza",
-  "bairro": "Santos Anjos",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Anjos;",
+    "cep": "36062335",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Áurea Medeiros de Souza;"
 }

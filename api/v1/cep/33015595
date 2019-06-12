@@ -1,12 +1,12 @@
 {
-  "cep": "33015595",
-  "logradouro": "Avenida da Lagoa",
-  "bairro": "Kennedy",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Kennedy;",
+    "cep": "33015595",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Avenida da Lagoa;"
 }

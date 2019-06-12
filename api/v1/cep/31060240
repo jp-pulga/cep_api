@@ -1,12 +1,12 @@
 {
-  "cep": "31060240",
-  "logradouro": "Rua Lagamar",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "31060240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Lagamar;"
 }

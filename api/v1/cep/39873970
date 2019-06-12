@@ -1,12 +1,13 @@
 {
-  "cep": "39873970",
-  "logradouro": "AC Machacalis Rua Pedro Dias do Nascimento 19-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Machacalis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39873970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Machacalis"
+    },
+    "ibge": 3138906,
+    "logradouro": "Rua Pedro Dias do Nascimento 19-A  AC Machacalis;"
 }

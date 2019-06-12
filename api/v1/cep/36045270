@@ -1,12 +1,13 @@
 {
-  "cep": "36045270",
-  "logradouro": "Avenida Brasil de 04402 a 05538 - lado par",
-  "bairro": "Manoel Honório",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Manoel Honório;",
+    "cep": "36045270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Brasil - de 04402 a 05538 - lado par;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39690970",
-  "logradouro": "AC Malacacheta Rua Tristão Couy 119",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Malacacheta",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39690970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Malacacheta"
+    },
+    "ibge": 3139201,
+    "logradouro": "Rua Tristão Couy 119  AC Malacacheta;"
 }

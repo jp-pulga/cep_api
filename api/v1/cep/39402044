@@ -1,12 +1,12 @@
 {
-  "cep": "39402044",
-  "logradouro": "Rua Quatro",
-  "bairro": "Monte Carmelo",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Carmelo;",
+    "cep": "39402044",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Benjamim Rodrigues Caetano;"
 }

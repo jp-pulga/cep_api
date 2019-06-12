@@ -1,12 +1,12 @@
 {
-  "cep": "30140010",
-  "logradouro": "Praça da Liberdade",
-  "bairro": "Savassi",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Savassi;",
+    "cep": "30140010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça da Liberdade;"
 }

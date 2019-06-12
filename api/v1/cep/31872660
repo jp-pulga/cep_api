@@ -1,12 +1,12 @@
 {
-  "cep": "31872660",
-  "logradouro": "Rua Sargento Filomeno",
-  "bairro": "Monte Azul",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Azul;",
+    "cep": "31872660",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Sargento Filomeno;"
 }

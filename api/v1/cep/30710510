@@ -1,12 +1,12 @@
 {
-  "cep": "30710510",
-  "logradouro": "Rua Malacacheta",
-  "bairro": "Carlos Prates",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carlos Prates;",
+    "cep": "30710510",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Malacacheta;"
 }

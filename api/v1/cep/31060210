@@ -1,12 +1,12 @@
 {
-  "cep": "31060210",
-  "logradouro": "Rua Jerônimo Monteiro",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "31060210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Jerônimo Monteiro;"
 }

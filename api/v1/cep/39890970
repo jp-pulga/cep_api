@@ -1,12 +1,13 @@
 {
-  "cep": "39890970",
-  "logradouro": "AC Joaíma Praça Olinto Martins 142",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joaíma",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39890970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Joaíma"
+    },
+    "ibge": 3136009,
+    "logradouro": "Praça Olinto Martins, 142  AC Joaíma;"
 }

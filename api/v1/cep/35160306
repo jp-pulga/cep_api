@@ -1,12 +1,12 @@
 {
-  "cep": "35160306",
-  "logradouro": "Rua Jequitibá",
-  "bairro": "Horto",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto;",
+    "cep": "35160306",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Jequitibá;"
 }

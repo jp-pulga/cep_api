@@ -1,12 +1,12 @@
 {
-  "cep": "35701126",
-  "logradouro": "Rua Rio Jequitaí",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "35701126",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Rio Jequitaí;"
 }

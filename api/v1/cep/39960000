@@ -1,12 +1,11 @@
 {
-  "cep": "39960000",
-  "logradouro": "Jequitinhonha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jequitinhonha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39960000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jequitinhonha"
+    },
+    "ibge": 3135803
 }

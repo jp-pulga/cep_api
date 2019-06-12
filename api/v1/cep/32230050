@@ -1,12 +1,12 @@
 {
-  "cep": "32230050",
-  "logradouro": "Rua Coronel Mário Campos",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "32230050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Coronel Mário Campos;"
 }

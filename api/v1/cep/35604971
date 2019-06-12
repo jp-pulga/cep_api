@@ -1,12 +1,13 @@
 {
-  "cep": "35604971",
-  "logradouro": "AGC Chapada Praça da Matriz",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Moema",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35604971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Moema"
+    },
+    "ibge": 3142403,
+    "logradouro": "Praça da Matriz  AGC Chapada;"
 }

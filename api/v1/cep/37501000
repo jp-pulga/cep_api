@@ -1,12 +1,12 @@
 {
-  "cep": "37501000",
-  "logradouro": "Praça Doutor Lima Medeiros",
-  "bairro": "Porto Velho",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Porto Velho;",
+    "cep": "37501000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Praça Doutor Lima Medeiros;"
 }

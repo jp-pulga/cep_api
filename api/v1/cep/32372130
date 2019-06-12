@@ -1,12 +1,12 @@
 {
-  "cep": "32372130",
-  "logradouro": "Rua da Luz",
-  "bairro": "Vila Paris",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Paris;",
+    "cep": "32372130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua da Luz;"
 }

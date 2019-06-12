@@ -1,12 +1,13 @@
 {
-  "cep": "37405970",
-  "logradouro": "AC Monsenhor Paulo Rua Dona Inês Salote 37",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monsenhor Paulo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37405970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monsenhor Paulo"
+    },
+    "ibge": 3142601,
+    "logradouro": "Rua Dona Inês Salote, 37  AC Monsenhor Paulo;"
 }

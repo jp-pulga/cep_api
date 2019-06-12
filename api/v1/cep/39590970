@@ -1,12 +1,13 @@
 {
-  "cep": "39590970",
-  "logradouro": "AC Juramento Avenida Doutor João F Pimenta 65 Loja B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juramento",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39590970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juramento"
+    },
+    "ibge": 3136801,
+    "logradouro": "Avenida Doutor João F Pimenta, 65 Loja B  AC Juramento;"
 }

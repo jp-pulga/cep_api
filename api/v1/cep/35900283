@@ -1,12 +1,12 @@
 {
-  "cep": "35900283",
-  "logradouro": "Rua Joanésia",
-  "bairro": "Praia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Praia;",
+    "cep": "35900283",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Joanésia;"
 }

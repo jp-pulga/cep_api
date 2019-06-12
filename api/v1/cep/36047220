@@ -1,12 +1,12 @@
 {
-  "cep": "36047220",
-  "logradouro": "Rua Santa Luiza de Marilac",
-  "bairro": "Bandeirantes",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bandeirantes;",
+    "cep": "36047220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Santa Luiza de Marilac;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35675978",
-  "logradouro": "AGC Samambaia Avenida A 1348",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juatuba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35675978",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juatuba"
+    },
+    "ibge": 3136652,
+    "logradouro": "Avenida A, 1348  AGC Samambaia;"
 }

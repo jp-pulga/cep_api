@@ -1,12 +1,12 @@
 {
-  "cep": "36202393",
-  "logradouro": "Rua Liberdade",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "36202393",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Liberdade;"
 }

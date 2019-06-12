@@ -1,12 +1,12 @@
 {
-  "cep": "35181586",
-  "logradouro": "Rua Mamona",
-  "bairro": "Recanto Verde",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Recanto Verde;",
+    "cep": "35181586",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Mamona;"
 }

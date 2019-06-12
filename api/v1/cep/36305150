@@ -1,12 +1,12 @@
 {
-  "cep": "36305150",
-  "logradouro": "Rua Amaral Gurgel",
-  "bairro": "Matozinhos",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matozinhos;",
+    "cep": "36305150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Amaral Gurgel;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36923971",
-  "logradouro": "AGC Luisburgo Avenida São Francisco de Assis s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luisburgo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36923971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Luisburgo"
+    },
+    "ibge": 3138674,
+    "logradouro": "Avenida São Francisco de Assis, s\/n  AGC Luisburgo;"
 }

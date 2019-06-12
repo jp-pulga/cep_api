@@ -1,12 +1,12 @@
 {
-  "cep": "35300410",
-  "logradouro": "Rua Jequitibá",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "35300410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Jequitibá;"
 }

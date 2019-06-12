@@ -1,12 +1,12 @@
 {
-  "cep": "35300293",
-  "logradouro": "Rua Antônio de Medeiros",
-  "bairro": "Santa Zita",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Zita;",
+    "cep": "35300293",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Antônio de Medeiros;"
 }

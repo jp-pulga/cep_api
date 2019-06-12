@@ -1,12 +1,12 @@
 {
-  "cep": "31998752",
-  "logradouro": "Rua Nordeste Quatro",
-  "bairro": "Capitão Eduardo (Bairro Montes Claros)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Capitão Eduardo (Bairro Montes Claros);",
+    "cep": "31998752",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Nordeste Quatro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30421590",
-  "logradouro": "Beco Mariana",
-  "bairro": "Ventosa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ventosa;",
+    "cep": "30421590",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Mariana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30170050",
-  "logradouro": "Rua Matias Cardoso",
-  "bairro": "Santo Agostinho",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Agostinho;",
+    "cep": "30170050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Matias Cardoso;"
 }

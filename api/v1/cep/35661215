@@ -1,12 +1,12 @@
 {
-  "cep": "35661215",
-  "logradouro": "Rua Mateus Leme",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "35661215",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Mateus Leme;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35657970",
-  "logradouro": "AC Leandro Ferreira Praça São Sebastião 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Leandro Ferreira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35657970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Leandro Ferreira"
+    },
+    "ibge": 3138302,
+    "logradouro": "Praça São Sebastião, 36  AC Leandro Ferreira;"
 }

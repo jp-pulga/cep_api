@@ -1,12 +1,12 @@
 {
-  "cep": "38180414",
-  "logradouro": "Rua Ivan Mesquita",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "38180414",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Ivan Mesquita;"
 }

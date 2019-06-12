@@ -1,12 +1,12 @@
 {
-  "cep": "30130938",
-  "logradouro": "DETRAN - Departamento de Trânsito Avenida João Pinheiro 417",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30130938",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida João Pinheiro, 417  DETRAN - Departamento de Trânsito;"
 }

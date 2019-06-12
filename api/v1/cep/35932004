@@ -1,12 +1,12 @@
 {
-  "cep": "35932004",
-  "logradouro": "Rua Rio Montes Claros",
-  "bairro": "Santa Cecília",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cecília;",
+    "cep": "35932004",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Rio Montes Claros;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37480970",
-  "logradouro": "AC Lambari Praça Nossa Senhora da Saúde 32",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lambari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37480970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lambari"
+    },
+    "ibge": 3137809,
+    "logradouro": "Praça Nossa Senhora da Saúde, 32  AC Lambari;"
 }

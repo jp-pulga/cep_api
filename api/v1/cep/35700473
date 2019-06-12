@@ -1,12 +1,12 @@
 {
-  "cep": "35700473",
-  "logradouro": "Rua Leopoldina",
-  "bairro": "Papavento",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Papavento;",
+    "cep": "35700473",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Leopoldina;"
 }

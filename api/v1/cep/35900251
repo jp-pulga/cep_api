@@ -1,12 +1,12 @@
 {
-  "cep": "35900251",
-  "logradouro": "Avenida Stela Matutina",
-  "bairro": "Vila Amélia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Amélia;",
+    "cep": "35900251",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Avenida Stela Matutina;"
 }

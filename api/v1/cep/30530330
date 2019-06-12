@@ -1,12 +1,12 @@
 {
-  "cep": "30530330",
-  "logradouro": "Rua Dourada",
-  "bairro": "João Pinheiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Pinheiro;",
+    "cep": "30530330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Dourada;"
 }

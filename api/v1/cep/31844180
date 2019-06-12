@@ -1,12 +1,12 @@
 {
-  "cep": "31844180",
-  "logradouro": "Rua Maestro Lobo de Mesquita",
-  "bairro": "Tupi B",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tupi B;",
+    "cep": "31844180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maestro Lobo de Mesquita;"
 }

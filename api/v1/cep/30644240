@@ -1,12 +1,12 @@
 {
-  "cep": "30644240",
-  "logradouro": "Rua Maria José Fernandes",
-  "bairro": "Teixeira Dias (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeira Dias (Barreiro);",
+    "cep": "30644240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria José Fernandes;"
 }

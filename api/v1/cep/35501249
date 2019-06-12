@@ -1,12 +1,12 @@
 {
-  "cep": "35501249",
-  "logradouro": "Rua Medina",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "35501249",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Medina;"
 }

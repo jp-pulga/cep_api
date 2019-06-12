@@ -1,12 +1,12 @@
 {
-  "cep": "30530140",
-  "logradouro": "Rua Bacuri",
-  "bairro": "João Pinheiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Pinheiro;",
+    "cep": "30530140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Bacuri;"
 }

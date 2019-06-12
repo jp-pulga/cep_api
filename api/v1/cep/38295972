@@ -1,12 +1,13 @@
 {
-  "cep": "38295972",
-  "logradouro": "AC Limeira D'Oeste Avenida Sergipe 730",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Limeira do Oeste",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38295972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Limeira do Oeste"
+    },
+    "ibge": 3138625,
+    "logradouro": "Avenida Sergipe, 730  AC Limeira D'Oeste;"
 }

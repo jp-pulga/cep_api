@@ -1,12 +1,12 @@
 {
-  "cep": "35160120",
-  "logradouro": "Rua Jordânia",
-  "bairro": "Cariru",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cariru;",
+    "cep": "35160120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Jordânia;"
 }

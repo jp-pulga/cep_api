@@ -1,12 +1,12 @@
 {
-  "cep": "32623330",
-  "logradouro": "Rua Montes Claros de 500/501 ao fim",
-  "bairro": "Marimbá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marimbá;",
+    "cep": "32623330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Montes Claros - de 500\/501 ao fim;"
 }

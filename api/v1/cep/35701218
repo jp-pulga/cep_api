@@ -1,12 +1,12 @@
 {
-  "cep": "35701218",
-  "logradouro": "Rua Miraí",
-  "bairro": "Iporanga",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Iporanga;",
+    "cep": "35701218",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Miraí;"
 }

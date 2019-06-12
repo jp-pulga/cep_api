@@ -1,12 +1,12 @@
 {
-  "cep": "31741609",
-  "logradouro": "Avenida Cristiano Machado de 10101 a 10319 - lado ímpar",
-  "bairro": "Heliópolis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Heliópolis;",
+    "cep": "31741609",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado - de 10101 a 10319 - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35270970",
-  "logradouro": "AC Mendes Pimentel Rua Mateus Moulin 89",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mendes Pimentel",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35270970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mendes Pimentel"
+    },
+    "ibge": 3141504,
+    "logradouro": "Rua Mateus Moulin, 89  AC Mendes Pimentel;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39642971",
-  "logradouro": "AC José Gonçalves de Minas Praça José Lago de Mendonça 150",
-  "bairro": "Beltrão",
-  "cidade": {
-    "nome": "José Gonçalves de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Beltrão;",
+    "cep": "39642971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "José Gonçalves de Minas"
+    },
+    "ibge": 3136520,
+    "logradouro": "Praça José Lago de Mendonça, 150  AC José Gonçalves de Minas;"
 }

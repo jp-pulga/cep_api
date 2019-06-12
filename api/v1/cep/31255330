@@ -1,12 +1,12 @@
 {
-  "cep": "31255330",
-  "logradouro": "Rua Mendes Pimentel",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "31255330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Mendes Pimentel;"
 }

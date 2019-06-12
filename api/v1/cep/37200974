@@ -1,12 +1,13 @@
 {
-  "cep": "37200974",
-  "logradouro": "CDD Lavras Rua Professor Alberto Carvalho 750",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Lavras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "37200974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lavras"
+    },
+    "ibge": 3138203,
+    "logradouro": "Rua Professor Alberto Carvalho, 750  CDD Lavras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31270510",
-  "logradouro": "Rua Carmelino Pinto Coelho",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "31270510",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Carmelino Pinto Coelho;"
 }

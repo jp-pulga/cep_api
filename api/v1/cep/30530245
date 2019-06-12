@@ -1,12 +1,12 @@
 {
-  "cep": "30530245",
-  "logradouro": "Rua Cid Rebelo Horta",
-  "bairro": "João Pinheiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Pinheiro;",
+    "cep": "30530245",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cid Rebelo Horta;"
 }

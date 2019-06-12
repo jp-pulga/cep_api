@@ -1,12 +1,12 @@
 {
-  "cep": "38406365",
-  "logradouro": "Rua dos Laranjais",
-  "bairro": "Morada dos Pássaros",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morada dos Pássaros;",
+    "cep": "38406365",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua dos Laranjais;"
 }

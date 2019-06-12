@@ -1,12 +1,13 @@
 {
-  "cep": "39775972",
-  "logradouro": "AC José Raydan Praça Cônego Lafaiete 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "José Raydan",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39775972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "José Raydan"
+    },
+    "ibge": 3136553,
+    "logradouro": "Praça Cônego Lafaiete, 10  AC José Raydan;"
 }

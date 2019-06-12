@@ -1,12 +1,12 @@
 {
-  "cep": "35170700",
-  "logradouro": "Beco Quatro",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "35170700",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Beco Quatro;"
 }

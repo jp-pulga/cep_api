@@ -1,12 +1,12 @@
 {
-  "cep": "31140505",
-  "logradouro": "Avenida Cristiano Machado de 1391 a 1599 - lado ímpar",
-  "bairro": "Silveira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Silveira;",
+    "cep": "31140505",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado - de 1391 a 1599 - lado ímpar;"
 }

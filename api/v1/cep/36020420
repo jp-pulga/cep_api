@@ -1,12 +1,13 @@
 {
-  "cep": "36020420",
-  "logradouro": "Avenida Francisco Valadares",
-  "bairro": "Poço Rico",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Poço Rico;",
+    "cep": "36020420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Francisco Valadares;"
 }

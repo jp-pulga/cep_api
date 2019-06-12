@@ -1,12 +1,12 @@
 {
-  "cep": "36300204",
-  "logradouro": "Rua Antônio de Moura",
-  "bairro": "Alto das Mercês",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto das Mercês;",
+    "cep": "36300204",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Antônio de Moura;"
 }

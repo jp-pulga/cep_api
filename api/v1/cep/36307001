@@ -1,12 +1,12 @@
 {
-  "cep": "36307001",
-  "logradouro": "Rua Carlos Montuanelli",
-  "bairro": "Matozinhos",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matozinhos;",
+    "cep": "36307001",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Carlos Montuanelli;"
 }

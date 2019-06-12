@@ -1,12 +1,13 @@
 {
-  "cep": "36083580",
-  "logradouro": "Avenida Jóquei Clube (Lot Vl Vidal)",
-  "bairro": "Jóquei Clube",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jóquei Clube;",
+    "cep": "36083580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Jóquei Clube (Lot Vl Vidal);"
 }

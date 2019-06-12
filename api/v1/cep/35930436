@@ -1,12 +1,13 @@
 {
-  "cep": "35930436",
-  "logradouro": "Avenida Contorno de 1303/1304 ao fim",
-  "bairro": "Vila Tanque",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Tanque;",
+    "cep": "35930436",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Contorno - de 1303\/1304 ao fim;"
 }

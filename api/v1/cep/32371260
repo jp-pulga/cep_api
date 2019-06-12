@@ -1,12 +1,12 @@
 {
-  "cep": "32371260",
-  "logradouro": "Rua Moema",
-  "bairro": "Jardim Bandeirantes",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Bandeirantes;",
+    "cep": "32371260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Moema;"
 }

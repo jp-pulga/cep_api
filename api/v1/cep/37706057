@@ -1,12 +1,12 @@
 {
-  "cep": "37706057",
-  "logradouro": "Rua Amador Lavras",
-  "bairro": "Parque Pinheiros",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Pinheiros;",
+    "cep": "37706057",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Amador Lavras;"
 }

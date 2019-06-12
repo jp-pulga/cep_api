@@ -1,12 +1,12 @@
 {
-  "cep": "36205112",
-  "logradouro": "Rua Machado de Assis",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "36205112",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Machado de Assis;"
 }

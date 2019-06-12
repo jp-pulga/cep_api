@@ -1,12 +1,11 @@
 {
-  "cep": "36760000",
-  "logradouro": "Laranjal",
-  "bairro": "",
-  "cidade": {
-    "nome": "Laranjal",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36760000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Laranjal"
+    },
+    "ibge": 3138005
 }

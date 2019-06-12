@@ -1,12 +1,13 @@
 {
-  "cep": "35367970",
-  "logradouro": "AC Matipó Rua João Mendes Magalhães 170",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matipó",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35367970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Matipó"
+    },
+    "ibge": 3140902,
+    "logradouro": "Rua João Mendes Magalhães, 170  AC Matipó;"
 }

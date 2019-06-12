@@ -1,12 +1,13 @@
 {
-  "cep": "39360970",
-  "logradouro": "AC Lagoa dos Patos Rua Coronel Aristides Batista 74",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa dos Patos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39360970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa dos Patos"
+    },
+    "ibge": 3137304,
+    "logradouro": "Rua Coronel Aristides Batista, 74  AC Lagoa dos Patos;"
 }

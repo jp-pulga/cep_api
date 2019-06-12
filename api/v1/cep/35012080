@@ -1,12 +1,12 @@
 {
-  "cep": "35012080",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Vila Mariana",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Mariana;",
+    "cep": "35012080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Santa Bárbara;"
 }

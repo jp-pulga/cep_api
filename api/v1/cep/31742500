@@ -1,12 +1,12 @@
 {
-  "cep": "31742500",
-  "logradouro": "Rua Maria Rita de Souza",
-  "bairro": "Jardim Felicidade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Felicidade;",
+    "cep": "31742500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Rita de Souza;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39527970",
-  "logradouro": "AC Mato Verde Rua Presidente Castelo Branco 476",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mato Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39527970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mato Verde"
+    },
+    "ibge": 3141009,
+    "logradouro": "Rua Presidente Castelo Branco, 476  AC Mato Verde;"
 }

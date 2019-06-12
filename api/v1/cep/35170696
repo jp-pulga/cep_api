@@ -1,12 +1,12 @@
 {
-  "cep": "35170696",
-  "logradouro": "Rua Cinco",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "35170696",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Cinco;"
 }

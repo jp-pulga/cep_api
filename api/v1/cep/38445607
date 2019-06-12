@@ -1,12 +1,12 @@
 {
-  "cep": "38445607",
-  "logradouro": "Rua Moacir Falleiros Machado",
-  "bairro": "Sibipiruna",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sibipiruna;",
+    "cep": "38445607",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Moacir Falleiros Machado;"
 }

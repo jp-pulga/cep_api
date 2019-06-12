@@ -1,12 +1,12 @@
 {
-  "cep": "38180545",
-  "logradouro": "Rua dos Jequitibás",
-  "bairro": "Monte Verde",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Verde;",
+    "cep": "38180545",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua dos Jequitibás;"
 }

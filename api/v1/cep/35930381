@@ -1,12 +1,12 @@
 {
-  "cep": "35930381",
-  "logradouro": "Rua Lagoa Santa",
-  "bairro": "Laranjeiras",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Laranjeiras;",
+    "cep": "35930381",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Lagoa Santa;"
 }

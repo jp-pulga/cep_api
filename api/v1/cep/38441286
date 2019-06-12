@@ -1,12 +1,12 @@
 {
-  "cep": "38441286",
-  "logradouro": "Rua Maria Fernandes de Lima Santos",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "38441286",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Maria Fernandes de Lima Santos;"
 }

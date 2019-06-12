@@ -1,12 +1,11 @@
 {
-  "cep": "38720000",
-  "logradouro": "Lagoa Formosa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lagoa Formosa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38720000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Formosa"
+    },
+    "ibge": 3137502
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32677165",
-  "logradouro": "Rua Malacacheta lado ímpar",
-  "bairro": "Imbiruçu",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Imbiruçu;",
+    "cep": "32677165",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Malacacheta - lado ímpar;"
 }

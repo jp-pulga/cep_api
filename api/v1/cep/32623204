@@ -1,12 +1,12 @@
 {
-  "cep": "32623204",
-  "logradouro": "Rua Monte Carmelo",
-  "bairro": "Marimbá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marimbá;",
+    "cep": "32623204",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Monte Carmelo;"
 }

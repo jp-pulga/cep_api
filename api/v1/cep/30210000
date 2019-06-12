@@ -1,12 +1,12 @@
 {
-  "cep": "30210000",
-  "logradouro": "Praça Estado de Israel",
-  "bairro": "Mangabeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mangabeiras;",
+    "cep": "30210000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Estado de Israel;"
 }

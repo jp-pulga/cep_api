@@ -1,12 +1,12 @@
 {
-  "cep": "31270970",
-  "logradouro": "AGF Liberdade Rua Boaventura 1623",
-  "bairro": "Jaraguá",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jaraguá;",
+    "cep": "31270970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Boaventura, 1623  AGF Liberdade;"
 }

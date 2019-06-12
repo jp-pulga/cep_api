@@ -1,12 +1,12 @@
 {
-  "cep": "31998070",
-  "logradouro": "Rua Paço da Liberdade",
-  "bairro": "Conjunto Paulo VI",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Paulo VI;",
+    "cep": "31998070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Paço da Liberdade;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "35670000",
-  "logradouro": "Mateus Leme",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mateus Leme",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35670000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mateus Leme"
+    },
+    "ibge": 3140704
 }

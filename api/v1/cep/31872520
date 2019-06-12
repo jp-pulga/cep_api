@@ -1,12 +1,12 @@
 {
-  "cep": "31872520",
-  "logradouro": "Rua Clara Eliza",
-  "bairro": "Monte Azul",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Azul;",
+    "cep": "31872520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Clara Eliza;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32110210",
-  "logradouro": "Rua Lambari",
-  "bairro": "Jardim Balneário",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Balneário;",
+    "cep": "32110210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Lambari;"
 }

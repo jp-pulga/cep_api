@@ -1,12 +1,13 @@
 {
-  "cep": "37305971",
-  "logradouro": "AGC Brasilinha Rua Santo Antônio 01",
-  "bairro": "Brasilinha",
-  "cidade": {
-    "nome": "Madre de Deus de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasilinha;",
+    "cep": "37305971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Madre de Deus de Minas"
+    },
+    "ibge": 3139102,
+    "logradouro": "Rua Santo Antônio, 01  AGC Brasilinha;"
 }

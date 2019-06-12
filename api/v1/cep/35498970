@@ -1,12 +1,13 @@
 {
-  "cep": "35498970",
-  "logradouro": "AC Jeceaba Rua Juscelina Antônia Dias 84",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jeceaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35498970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jeceaba"
+    },
+    "ibge": 3135407,
+    "logradouro": "Rua Juscelina Antônia Dias, 84  AC Jeceaba;"
 }

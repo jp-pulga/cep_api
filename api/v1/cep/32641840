@@ -1,12 +1,12 @@
 {
-  "cep": "32641840",
-  "logradouro": "Rua Mário Campos Lara",
-  "bairro": "Citrolândia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Citrolândia;",
+    "cep": "32641840",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Mário Campos Lara;"
 }

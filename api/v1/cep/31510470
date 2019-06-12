@@ -1,12 +1,12 @@
 {
-  "cep": "31510470",
-  "logradouro": "Rua Mariana Amélia de Azevedo",
-  "bairro": "São João Batista (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João Batista (Venda Nova);",
+    "cep": "31510470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Mariana Amélia de Azevedo;"
 }

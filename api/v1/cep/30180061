@@ -1,12 +1,12 @@
 {
-  "cep": "30180061",
-  "logradouro": "Rua Juiz de Fora de 1101/1102 ao fim",
-  "bairro": "Santo Agostinho",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Agostinho;",
+    "cep": "30180061",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Juiz de Fora - de 1151\/1152 ao fim;"
 }

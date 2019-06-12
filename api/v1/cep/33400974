@@ -1,12 +1,13 @@
 {
-  "cep": "33400974",
-  "logradouro": "AC Doutor Lund Praça Doutor Lund 198",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa Santa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33400974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Santa"
+    },
+    "ibge": 3137601,
+    "logradouro": "Praça Doutor Lund, 194\/198  AC Doutor Lund;"
 }

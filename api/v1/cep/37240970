@@ -1,12 +1,13 @@
 {
-  "cep": "37240970",
-  "logradouro": "AC Luminárias Rua Adeodato Moreira 8",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luminárias",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37240970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Luminárias"
+    },
+    "ibge": 3138708,
+    "logradouro": "Praça Nossa Senhora do Carmo, 340  AC Luminárias;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37038900",
-  "logradouro": "Condomínio Residencial Lagamar Resot Avenida Homero Mendes Frota s/n",
-  "bairro": "Lagamar",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagamar;",
+    "cep": "37038900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Avenida Homero Mendes Frota, s\/n  Condomínio Residencial Lagamar Resot;"
 }

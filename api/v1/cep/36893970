@@ -1,12 +1,13 @@
 {
-  "cep": "36893970",
-  "logradouro": "AC Miradouro Praça Santa Rita 162",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Miradouro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36893970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Miradouro"
+    },
+    "ibge": 3142106,
+    "logradouro": "Praça Santa Rita, 162  AC Miradouro;"
 }

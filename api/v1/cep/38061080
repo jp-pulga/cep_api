@@ -1,12 +1,12 @@
 {
-  "cep": "38061080",
-  "logradouro": "Avenida Dom Luiz Maria de Santana",
-  "bairro": "Mercês",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mercês;",
+    "cep": "38061080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Avenida Dom Luiz Maria de Santana;"
 }

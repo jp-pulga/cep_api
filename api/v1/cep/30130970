@@ -1,12 +1,12 @@
 {
-  "cep": "30130970",
-  "logradouro": "AGF Bernardo Monteiro Avenida Brasil 1071/1081",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "30130970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Brasil, 1071\/1081  AGF Bernardo Monteiro;"
 }

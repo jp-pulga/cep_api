@@ -1,12 +1,12 @@
 {
-  "cep": "35012140",
-  "logradouro": "Rua São Bartolomeu",
-  "bairro": "Vila Mariana",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Mariana;",
+    "cep": "35012140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua São Bartolomeu;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31720280",
-  "logradouro": "Rua Major Walter Mesquita",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "31720280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Major Walter Mesquita;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30270470",
-  "logradouro": "Rua Maria Felipe de Araújo",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia;",
+    "cep": "30270470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Felipe de Araújo;"
 }

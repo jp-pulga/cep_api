@@ -1,12 +1,12 @@
 {
-  "cep": "35502514",
-  "logradouro": "Rua Cidade Ladainha",
-  "bairro": "Rancho Alegre",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rancho Alegre;",
+    "cep": "35502514",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Cidade Ladainha;"
 }

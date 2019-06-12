@@ -1,12 +1,12 @@
 {
-  "cep": "36202764",
-  "logradouro": "Rua José Luiz de Medeiros",
-  "bairro": "João Paulo II",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Paulo II;",
+    "cep": "36202764",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua José Luiz de Medeiros;"
 }

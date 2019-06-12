@@ -1,12 +1,12 @@
 {
-  "cep": "36200002",
-  "logradouro": "Rua Lima Duarte",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36200002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Lima Duarte;"
 }

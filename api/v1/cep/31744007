@@ -1,12 +1,12 @@
 {
-  "cep": "31744007",
-  "logradouro": "Avenida Cristiano Machado de 11001 a 12999 - lado ímpar",
-  "bairro": "Vila Cloris",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cloris;",
+    "cep": "31744007",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado - de 11001 a 12999 - lado ímpar;"
 }

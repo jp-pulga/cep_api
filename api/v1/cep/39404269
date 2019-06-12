@@ -1,12 +1,12 @@
 {
-  "cep": "39404269",
-  "logradouro": "Rua Lagoa Santa Maria",
-  "bairro": "Interlagos",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Interlagos;",
+    "cep": "39404269",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Lagoa Santa Maria;"
 }

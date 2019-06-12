@@ -1,12 +1,12 @@
 {
-  "cep": "33170130",
-  "logradouro": "Rua Imperatriz Leopoldina",
-  "bairro": "Pousada Del Rey (São Benedito)",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pousada Del Rey (São Benedito);",
+    "cep": "33170130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Imperatriz Leopoldina;"
 }

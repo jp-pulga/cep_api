@@ -1,12 +1,12 @@
 {
-  "cep": "30530170",
-  "logradouro": "Avenida Ribeiro de Paiva",
-  "bairro": "João Pinheiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Pinheiro;",
+    "cep": "30530170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Ribeiro de Paiva;"
 }

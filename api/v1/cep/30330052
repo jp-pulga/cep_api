@@ -1,12 +1,12 @@
 {
-  "cep": "30330052",
-  "logradouro": "Rua Montes Claros até 169 - lado ímpar",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "30330052",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Montes Claros - até 169 - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35502832",
-  "logradouro": "Rua Lucas Mesquita",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "35502832",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Lucas Mesquita;"
 }

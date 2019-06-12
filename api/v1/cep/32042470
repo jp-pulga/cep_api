@@ -1,12 +1,12 @@
 {
-  "cep": "32042470",
-  "logradouro": "Rua Lavras",
-  "bairro": "Parque Maracanã",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Maracanã;",
+    "cep": "32042470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Lavras;"
 }

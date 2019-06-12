@@ -1,12 +1,12 @@
 {
-  "cep": "33055209",
-  "logradouro": "Rua Maravilha",
-  "bairro": "Casa Branca",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Casa Branca;",
+    "cep": "33055209",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Maravilha;"
 }

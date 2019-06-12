@@ -1,12 +1,12 @@
 {
-  "cep": "39803191",
-  "logradouro": "Rua Jequitinhonha",
-  "bairro": "Filadélfia",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Filadélfia;",
+    "cep": "39803191",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Jequitinhonha;"
 }

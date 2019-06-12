@@ -1,12 +1,12 @@
 {
-  "cep": "33855580",
-  "logradouro": "Rua Denizart de Mesquita",
-  "bairro": "Santinho",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santinho;",
+    "cep": "33855580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Denizart de Mesquita;"
 }

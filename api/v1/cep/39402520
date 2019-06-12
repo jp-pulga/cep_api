@@ -1,12 +1,12 @@
 {
-  "cep": "39402520",
-  "logradouro": "Rua Monte Azul",
-  "bairro": "Delfino Magalhães",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Delfino Magalhães;",
+    "cep": "39402520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Monte Azul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36202358",
-  "logradouro": "Rua Doutor Lincoln Cruz Machado",
-  "bairro": "Pontilhão",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pontilhão;",
+    "cep": "36202358",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Doutor Lincoln Cruz Machado;"
 }

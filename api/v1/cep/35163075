@@ -1,12 +1,12 @@
 {
-  "cep": "35163075",
-  "logradouro": "Rua Leopoldina",
-  "bairro": "Tiradentes",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tiradentes;",
+    "cep": "35163075",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Leopoldina;"
 }

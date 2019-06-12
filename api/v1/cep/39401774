@@ -1,12 +1,12 @@
 {
-  "cep": "39401774",
-  "logradouro": "Rua Serra Azul",
-  "bairro": "Morada da Serra",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morada da Serra;",
+    "cep": "39401774",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Serra Azul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31730553",
-  "logradouro": "Avenida Cristiano Machado de 10321 a 10999 - lado ímpar",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "31730553",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado - de 10321 a 10999 - lado ímpar;"
 }

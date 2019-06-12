@@ -1,12 +1,13 @@
 {
-  "cep": "39336971",
-  "logradouro": "AGC Luislândia Praça da Matriz 333",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luislândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39336971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Luislândia"
+    },
+    "ibge": 3138682,
+    "logradouro": "Praça da Matriz, 333  AGC Luislândia;"
 }

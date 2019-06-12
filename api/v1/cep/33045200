@@ -1,12 +1,12 @@
 {
-  "cep": "33045200",
-  "logradouro": "Estrada da Maravilha",
-  "bairro": "Frimisa",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Frimisa;",
+    "cep": "33045200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Estrada da Maravilha;"
 }

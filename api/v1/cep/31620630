@@ -1,12 +1,12 @@
 {
-  "cep": "31620630",
-  "logradouro": "Rua Maria Helena Felipe",
-  "bairro": "Letícia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Letícia;",
+    "cep": "31620630",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Helena Felipe;"
 }

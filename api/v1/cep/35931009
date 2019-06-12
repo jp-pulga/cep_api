@@ -1,12 +1,13 @@
 {
-  "cep": "35931009",
-  "logradouro": "Alameda Maria Cândida de Jesus",
-  "bairro": "Loanda",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loanda;",
+    "cep": "35931009",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Alameda Maria Cândida de Jesus;"
 }

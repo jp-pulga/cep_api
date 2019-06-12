@@ -1,12 +1,13 @@
 {
-  "cep": "35931185",
-  "logradouro": "Avenida Alberto Lima de 0933/934 a 1809/1810",
-  "bairro": "Nova Aclimação",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Aclimação;",
+    "cep": "35931185",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Alberto Lima - de 0933\/934 a 1809\/1810;"
 }

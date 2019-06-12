@@ -1,12 +1,10 @@
 {
-  "cep": "35628000",
-  "logradouro": "Morada Nova de Minas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Morada Nova de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
+    "cep": "35628000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Morada Nova de Minas"
     }
-  }
 }

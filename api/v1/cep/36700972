@@ -1,12 +1,13 @@
 {
-  "cep": "36700972",
-  "logradouro": "AGC Arraial dos Montes Rua Principal 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Leopoldina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36700972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Leopoldina"
+    },
+    "ibge": 3138401,
+    "logradouro": "Rua Principal, 10  AGC Arraial dos Montes;"
 }

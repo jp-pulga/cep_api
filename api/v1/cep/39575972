@@ -1,12 +1,13 @@
 {
-  "cep": "39575972",
-  "logradouro": "AC Josenópolis Rua Santos Pestana 64",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Josenópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39575972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Josenópolis"
+    },
+    "ibge": 3136579,
+    "logradouro": "Rua Santos Pestana 64  AC Josenópolis;"
 }

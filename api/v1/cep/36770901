@@ -1,12 +1,12 @@
 {
-  "cep": "36770901",
-  "logradouro": "FORLUZ - Companhia de Força e Luz de Cataguases-Leopoldina Praça Rui Barbosa 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36770901",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Praça Rui Barbosa, 80  FORLUZ - Companhia de Força e Luz de Cataguases-Leopoldina;"
 }

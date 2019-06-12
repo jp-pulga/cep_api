@@ -1,12 +1,12 @@
 {
-  "cep": "30130186",
-  "logradouro": "Avenida João Pinheiro de 122 a 420 - lado par",
-  "bairro": "Lourdes",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lourdes;",
+    "cep": "30130186",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida João Pinheiro - de 122 a 420 - lado par;"
 }

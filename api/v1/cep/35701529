@@ -1,12 +1,12 @@
 {
-  "cep": "35701529",
-  "logradouro": "Rua Joaquim Felício",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "35701529",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Joaquim Felício;"
 }

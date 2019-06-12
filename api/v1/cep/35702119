@@ -1,12 +1,12 @@
 {
-  "cep": "35702119",
-  "logradouro": "Rua Matias Barbosa",
-  "bairro": "Padre Teodoro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Teodoro;",
+    "cep": "35702119",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Matias Barbosa;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37305970",
-  "logradouro": "AC Madre de Deus de Minas Praça Coronel Joaquim Pedro 70-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Madre de Deus de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37305970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Madre de Deus de Minas"
+    },
+    "ibge": 3139102,
+    "logradouro": "Praça Coronel Joaquim Pedro 70-A  AC Madre de Deus de Minas;"
 }

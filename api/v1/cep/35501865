@@ -1,12 +1,12 @@
 {
-  "cep": "35501865",
-  "logradouro": "Rua Medeiros",
-  "bairro": "Terra Azul",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Terra Azul;",
+    "cep": "35501865",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Medeiros;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38701184",
-  "logradouro": "Rua Lagamar",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "38701184",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Lagamar;"
 }

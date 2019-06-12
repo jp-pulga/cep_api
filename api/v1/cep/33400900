@@ -1,12 +1,13 @@
 {
-  "cep": "33400900",
-  "logradouro": "Aeroporto Industrial Tancredo Neves Rodovia MG-10 km 39",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Lagoa Santa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "33400900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Santa"
+    },
+    "ibge": 3137601,
+    "logradouro": "Rodovia MG-10 km 39  Aeroporto Industrial Tancredo Neves;"
 }

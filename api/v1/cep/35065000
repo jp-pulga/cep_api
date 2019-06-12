@@ -1,12 +1,12 @@
 {
-  "cep": "35065000",
-  "logradouro": "Rua Jequitibá",
-  "bairro": "Santo Agostinho",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Agostinho;",
+    "cep": "35065000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Jequitibá;"
 }

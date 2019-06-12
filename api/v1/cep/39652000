@@ -1,12 +1,12 @@
 {
-  "cep": "39652000",
-  "logradouro": "Baixa Quente (Minas Novas)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Baixa Quente (Minas Novas)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Baixa Quente",
+    "cep": "39652000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Minas Novas"
+    },
+    "ibge": 3141801
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31035512",
-  "logradouro": "Avenida Cristiano Machado de 1150 a 1548 - lado par",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sagrada Família;",
+    "cep": "31035512",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado - de 1150 a 1548 - lado par;"
 }

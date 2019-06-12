@@ -1,12 +1,13 @@
 {
-  "cep": "39825970",
-  "logradouro": "AC Ladainha Rua Coronel Ribeiro 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ladainha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39825970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ladainha"
+    },
+    "ibge": 3137007,
+    "logradouro": "Rua Coronel Ribeiro, 13  AC Ladainha;"
 }

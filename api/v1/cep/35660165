@@ -1,12 +1,12 @@
 {
-  "cep": "35660165",
-  "logradouro": "Rua Maravilhas",
-  "bairro": "Nossa Senhora de Lourdes",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Lourdes;",
+    "cep": "35660165",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Maravilhas;"
 }

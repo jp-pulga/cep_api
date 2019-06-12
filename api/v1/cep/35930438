@@ -1,12 +1,13 @@
 {
-  "cep": "35930438",
-  "logradouro": "Avenida Aeroporto",
-  "bairro": "Vila Tanque",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Tanque;",
+    "cep": "35930438",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Aeroporto;"
 }

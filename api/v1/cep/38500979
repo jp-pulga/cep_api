@@ -1,12 +1,13 @@
 {
-  "cep": "38500979",
-  "logradouro": "AGC Gonçalves Praça da Igreja s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Carmelo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38500979",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monte Carmelo"
+    },
+    "ibge": 3143104,
+    "logradouro": "Praça da Igreja, s\/n  AGC Gonçalves;"
 }

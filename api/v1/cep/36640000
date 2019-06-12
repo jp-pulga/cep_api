@@ -1,12 +1,11 @@
 {
-  "cep": "36640000",
-  "logradouro": "Mar de Espanha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mar de Espanha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36640000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mar de Espanha"
+    },
+    "ibge": 3139805
 }

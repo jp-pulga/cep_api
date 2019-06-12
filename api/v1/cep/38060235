@@ -1,12 +1,12 @@
 {
-  "cep": "38060235",
-  "logradouro": "Alameda dos Buritis",
-  "bairro": "Mercês",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mercês;",
+    "cep": "38060235",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Alameda dos Buritis;"
 }

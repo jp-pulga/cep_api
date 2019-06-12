@@ -1,12 +1,12 @@
 {
-  "cep": "30820280",
-  "logradouro": "Rua Mário Campos",
-  "bairro": "Inconfidência",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Inconfidência;",
+    "cep": "30820280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Mário Campos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35163078",
-  "logradouro": "Rua Mantena",
-  "bairro": "Tiradentes",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tiradentes;",
+    "cep": "35163078",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Mantena;"
 }

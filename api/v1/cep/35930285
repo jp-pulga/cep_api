@@ -1,12 +1,13 @@
 {
-  "cep": "35930285",
-  "logradouro": "Avenida Cândido Dias até 995/0996",
-  "bairro": "Loanda",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loanda;",
+    "cep": "35930285",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Cândido Dias - até 995\/0996;"
 }

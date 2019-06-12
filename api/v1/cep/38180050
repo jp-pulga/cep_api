@@ -1,12 +1,12 @@
 {
-  "cep": "38180050",
-  "logradouro": "Rua José Almeida Machado",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "38180050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua José Almeida Machado;"
 }

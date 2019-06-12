@@ -1,12 +1,12 @@
 {
-  "cep": "30692463",
-  "logradouro": "Rua Júlio Mesquita",
-  "bairro": "Marilândia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marilândia;",
+    "cep": "30692463",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Júlio Mesquita;"
 }

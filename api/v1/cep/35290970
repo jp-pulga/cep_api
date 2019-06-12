@@ -1,12 +1,13 @@
 {
-  "cep": "35290970",
-  "logradouro": "AC Mantena Rua Wilson Melado 467",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mantena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35290970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mantena"
+    },
+    "ibge": 3139607,
+    "logradouro": "Rua Wilson Melado, 467  AC Mantena;"
 }

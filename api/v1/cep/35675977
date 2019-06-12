@@ -1,12 +1,13 @@
 {
-  "cep": "35675977",
-  "logradouro": "AGC Francelinos Avenida João Pinheiro s/n",
-  "bairro": "Francelinos",
-  "cidade": {
-    "nome": "Juatuba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Francelinos;",
+    "cep": "35675977",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juatuba"
+    },
+    "ibge": 3136652,
+    "logradouro": "Avenida João Pinheiro, s\/n  AGC Francelinos;"
 }

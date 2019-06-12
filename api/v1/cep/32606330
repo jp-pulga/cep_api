@@ -1,12 +1,12 @@
 {
-  "cep": "32606330",
-  "logradouro": "Rua Leopoldina Francisca de Jesus",
-  "bairro": "Residencial Lagoa",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Lagoa;",
+    "cep": "32606330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Leopoldina Francisca de Jesus;"
 }

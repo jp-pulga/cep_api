@@ -1,12 +1,12 @@
 {
-  "cep": "38703610",
-  "logradouro": "Alameda José Gonçalves da Costa",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "38703610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Alameda José Gonçalves da Costa;"
 }

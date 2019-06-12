@@ -1,12 +1,12 @@
 {
-  "cep": "36300214",
-  "logradouro": "Travessa Guaíra",
-  "bairro": "Alto das Mercês",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto das Mercês;",
+    "cep": "36300214",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Travessa Guaíra;"
 }

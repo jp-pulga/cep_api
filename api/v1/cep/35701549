@@ -1,12 +1,12 @@
 {
-  "cep": "35701549",
-  "logradouro": "Rua Edson Rocha",
-  "bairro": "Mata Grande",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mata Grande;",
+    "cep": "35701549",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Edson Rocha;"
 }

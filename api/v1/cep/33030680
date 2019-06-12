@@ -1,12 +1,12 @@
 {
-  "cep": "33030680",
-  "logradouro": "Rua Davina das Merces",
-  "bairro": "Morada do Rio",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morada do Rio;",
+    "cep": "33030680",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Davina das Merces;"
 }

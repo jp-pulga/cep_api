@@ -1,12 +1,12 @@
 {
-  "cep": "39550973",
-  "logradouro": "AGC Lagoa Grande (Taiobeiras) Praça São Pedro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taiobeiras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39550973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Taiobeiras"
+    },
+    "logradouro": "Praça São Pedro, s\/n  AGC Lagoa Grande (Taiobeiras);"
 }

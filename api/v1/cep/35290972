@@ -1,12 +1,13 @@
 {
-  "cep": "35290972",
-  "logradouro": "AGC Nazário Rua João Belo 37",
-  "bairro": "Nazário",
-  "cidade": {
-    "nome": "Mantena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nazário;",
+    "cep": "35290972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mantena"
+    },
+    "ibge": 3139607,
+    "logradouro": "Rua João Belo, 37  AGC Nazário;"
 }

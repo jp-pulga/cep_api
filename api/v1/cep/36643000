@@ -1,12 +1,12 @@
 {
-  "cep": "36643000",
-  "logradouro": "Engenho Novo (Mar de Espanha)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Engenho Novo (Mar de Espanha)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Engenho Novo",
+    "cep": "36643000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mar de Espanha"
+    },
+    "ibge": 3139805
 }

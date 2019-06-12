@@ -1,12 +1,12 @@
 {
-  "cep": "32017470",
-  "logradouro": "Rua Minas Novas",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "32017470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Minas Novas;"
 }

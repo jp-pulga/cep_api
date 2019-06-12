@@ -1,12 +1,13 @@
 {
-  "cep": "39240970",
-  "logradouro": "AC Joaquim Felício Rua Joäo Viana Ribeiro 96",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joaquim Felício",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39240970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Joaquim Felício"
+    },
+    "ibge": 3136405,
+    "logradouro": "Rua Joäo Viana Ribeiro, 96  AC Joaquim Felício;"
 }

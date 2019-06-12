@@ -1,12 +1,12 @@
 {
-  "cep": "32605342",
-  "logradouro": "Rua Jequitibá",
-  "bairro": "Vila das Flores",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila das Flores;",
+    "cep": "32605342",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Jequitibá;"
 }

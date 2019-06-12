@@ -1,12 +1,12 @@
 {
-  "cep": "36305120",
-  "logradouro": "Rua Antônio Firmino de Paula",
-  "bairro": "Vila Santo Antônio (Matozinhos)",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santo Antônio (Matozinhos);",
+    "cep": "36305120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Antônio Firmino de Paula;"
 }

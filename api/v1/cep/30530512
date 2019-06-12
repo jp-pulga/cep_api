@@ -1,12 +1,12 @@
 {
-  "cep": "30530512",
-  "logradouro": "Beco Vesta",
-  "bairro": "João Pinheiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Pinheiro;",
+    "cep": "30530512",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Vesta;"
 }

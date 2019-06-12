@@ -1,12 +1,13 @@
 {
-  "cep": "39655973",
-  "logradouro": "AGC Acauã Rua Turmalina s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Leme do Prado",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39655973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Leme do Prado"
+    },
+    "ibge": 3138351,
+    "logradouro": "Rua Turmalina, s\/n  AGC Acauã;"
 }

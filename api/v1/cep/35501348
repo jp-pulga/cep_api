@@ -1,12 +1,12 @@
 {
-  "cep": "35501348",
-  "logradouro": "Rua Lagoa Dourada",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "35501348",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Lagoa Dourada;"
 }

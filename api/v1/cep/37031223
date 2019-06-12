@@ -1,12 +1,12 @@
 {
-  "cep": "37031223",
-  "logradouro": "Rua José Raphael de Mesquita",
-  "bairro": "Residencial Belo Horizonte",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Belo Horizonte;",
+    "cep": "37031223",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua José Raphael de Mesquita;"
 }

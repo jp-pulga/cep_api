@@ -1,12 +1,12 @@
 {
-  "cep": "36204158",
-  "logradouro": "Rua Mata Machado",
-  "bairro": "Caminho Novo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caminho Novo;",
+    "cep": "36204158",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Mata Machado;"
 }

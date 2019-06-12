@@ -1,12 +1,12 @@
 {
-  "cep": "33840750",
-  "logradouro": "Rua Galileu Mesquita",
-  "bairro": "Santinho",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santinho;",
+    "cep": "33840750",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Galileu Mesquita;"
 }

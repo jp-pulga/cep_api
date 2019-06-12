@@ -1,12 +1,12 @@
 {
-  "cep": "39404528",
-  "logradouro": "Rua Lagoa Santa",
-  "bairro": "Vila Tiradentes",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Tiradentes;",
+    "cep": "39404528",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Lagoa Santa;"
 }

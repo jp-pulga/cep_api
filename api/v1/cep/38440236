@@ -1,12 +1,12 @@
 {
-  "cep": "38440236",
-  "logradouro": "Praça João Pinheiro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38440236",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Praça João Pinheiro;"
 }

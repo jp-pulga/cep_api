@@ -1,12 +1,13 @@
 {
-  "cep": "36972971",
-  "logradouro": "AC Martins Soares Rua João Batista s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Martins Soares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36972971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Martins Soares"
+    },
+    "ibge": 3140530,
+    "logradouro": "Rua João Batista, s\/n  AC Martins Soares;"
 }

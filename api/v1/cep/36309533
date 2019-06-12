@@ -1,12 +1,12 @@
 {
-  "cep": "36309533",
-  "logradouro": "Rua Mercês A. Oliveira",
-  "bairro": "Vila Jardim São José",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Jardim São José;",
+    "cep": "36309533",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Mercês A. Oliveira;"
 }

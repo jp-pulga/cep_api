@@ -1,12 +1,12 @@
 {
-  "cep": "30820971",
-  "logradouro": "AGF Abílio Machado Avenida Abílio Machado 810",
-  "bairro": "Inconfidência",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Inconfidência;",
+    "cep": "30820971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Abílio Machado, 810  AGF Abílio Machado;"
 }

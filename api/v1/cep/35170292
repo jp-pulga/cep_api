@@ -1,12 +1,12 @@
 {
-  "cep": "35170292",
-  "logradouro": "Rua Jequitibá",
-  "bairro": "Córrego Alto",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Córrego Alto;",
+    "cep": "35170292",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Jequitibá;"
 }

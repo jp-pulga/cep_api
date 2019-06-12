@@ -1,12 +1,12 @@
 {
-  "cep": "30170914",
-  "logradouro": "Edifício Brafer Rua Matias Cardoso 63",
-  "bairro": "Santo Agostinho",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Agostinho;",
+    "cep": "30170914",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Matias Cardoso, 63  Edifício Brafer;"
 }

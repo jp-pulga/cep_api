@@ -1,12 +1,13 @@
 {
-  "cep": "35185975",
-  "logradouro": "AGC Santa Rita (Marliéria) Praça Santa Rita s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marliéria",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35185975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Marliéria"
+    },
+    "ibge": 3140308,
+    "logradouro": "Praça Santa Rita, s\/n  AGC Santa Rita (Marliéria);"
 }

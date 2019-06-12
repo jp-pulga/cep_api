@@ -1,12 +1,12 @@
 {
-  "cep": "31680050",
-  "logradouro": "Rua João Ferreira da Silva",
-  "bairro": "Maria Helena",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Helena;",
+    "cep": "31680050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua João Ferreira da Silva;"
 }

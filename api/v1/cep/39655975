@@ -1,12 +1,13 @@
 {
-  "cep": "39655975",
-  "logradouro": "AC Leme do Prado Rua Santos Dumont 190",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Leme do Prado",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39655975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Leme do Prado"
+    },
+    "ibge": 3138351,
+    "logradouro": "Rua Santos Dumont, 190  AC Leme do Prado;"
 }

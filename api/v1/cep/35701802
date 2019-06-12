@@ -1,12 +1,12 @@
 {
-  "cep": "35701802",
-  "logradouro": "Rua José Figueiredo de Barros",
-  "bairro": "Lontra",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lontra;",
+    "cep": "35701802",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua José Figueiredo de Barros;"
 }

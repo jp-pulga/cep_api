@@ -1,12 +1,12 @@
 {
-  "cep": "36205689",
-  "logradouro": "Rua Lima Duarte",
-  "bairro": "Nova Cidade",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Cidade;",
+    "cep": "36205689",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Lima Duarte;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35930349",
-  "logradouro": "Rua Jordânia",
-  "bairro": "Loanda",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loanda;",
+    "cep": "35930349",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Jordânia;"
 }

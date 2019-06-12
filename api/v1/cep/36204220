@@ -1,12 +1,12 @@
 {
-  "cep": "36204220",
-  "logradouro": "Rua Doutor Cruz Machado",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "36204220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Doutor Cruz Machado;"
 }

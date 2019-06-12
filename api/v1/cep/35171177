@@ -1,12 +1,12 @@
 {
-  "cep": "35171177",
-  "logradouro": "Rua Manhuaçu",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "35171177",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Manhuaçu;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39402179",
-  "logradouro": "Rua Novo Juramento",
-  "bairro": "Delfino Magalhães",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Delfino Magalhães;",
+    "cep": "39402179",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Novo Juramento;"
 }

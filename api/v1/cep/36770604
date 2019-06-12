@@ -1,12 +1,12 @@
 {
-  "cep": "36770604",
-  "logradouro": "Rua Doutor José Pacheco de Medeiros",
-  "bairro": "Vila São José",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila São José;",
+    "cep": "36770604",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua Doutor José Pacheco de Medeiros;"
 }

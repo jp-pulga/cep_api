@@ -1,12 +1,12 @@
 {
-  "cep": "33030430",
-  "logradouro": "Rua Sete Lagoas",
-  "bairro": "Rio das Velhas",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio das Velhas;",
+    "cep": "33030430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Sete Lagoas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36035000",
-  "logradouro": "Avenida Barão do Rio Branco de 0681/682 a 1582/1583",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36035000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Barão do Rio Branco - de 0681\/682 a 1582\/1583;"
 }

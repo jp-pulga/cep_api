@@ -1,12 +1,12 @@
 {
-  "cep": "31310110",
-  "logradouro": "Rua Doutor Geraldo Zola Mesquita",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "31310110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Doutor Geraldo Zola Mesquita;"
 }

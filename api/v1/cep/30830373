@@ -1,12 +1,12 @@
 {
-  "cep": "30830373",
-  "logradouro": "Avenida Abílio Machado de 1631 a 2201 - lado ímpar",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "30830373",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Abílio Machado - de 1631 a 2201 - lado ímpar;"
 }

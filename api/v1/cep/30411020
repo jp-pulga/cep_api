@@ -1,12 +1,12 @@
 {
-  "cep": "30411020",
-  "logradouro": "Rua Mercês",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "30411020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Mercês;"
 }

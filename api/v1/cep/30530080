@@ -1,12 +1,12 @@
 {
-  "cep": "30530080",
-  "logradouro": "Rua Barão de Leopoldina",
-  "bairro": "Alto dos Pinheiros",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto dos Pinheiros;",
+    "cep": "30530080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Barão de Leopoldina;"
 }

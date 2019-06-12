@@ -1,12 +1,12 @@
 {
-  "cep": "38180258",
-  "logradouro": "Rua Rosalvo Francisco Machado",
-  "bairro": "Abolição",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Abolição;",
+    "cep": "38180258",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Rosalvo Francisco Machado;"
 }

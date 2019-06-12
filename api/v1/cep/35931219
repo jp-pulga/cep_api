@@ -1,12 +1,13 @@
 {
-  "cep": "35931219",
-  "logradouro": "Avenida E",
-  "bairro": "Sion",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sion;",
+    "cep": "35931219",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida E;"
 }

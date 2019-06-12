@@ -1,12 +1,12 @@
 {
-  "cep": "31050150",
-  "logradouro": "Rua Lamim",
-  "bairro": "Casa Branca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Casa Branca;",
+    "cep": "31050150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Lamim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30411042",
-  "logradouro": "Rua Matozinhos",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "30411042",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Matozinhos;"
 }

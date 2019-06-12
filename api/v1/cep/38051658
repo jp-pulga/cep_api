@@ -1,12 +1,12 @@
 {
-  "cep": "38051658",
-  "logradouro": "Rua Coração de Maria",
-  "bairro": "Jardim Espanha",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Espanha;",
+    "cep": "38051658",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Coração de Maria;"
 }

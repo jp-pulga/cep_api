@@ -1,12 +1,12 @@
 {
-  "cep": "35701424",
-  "logradouro": "Rua Manhumirim",
-  "bairro": "Indústrias II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Indústrias II;",
+    "cep": "35701424",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Manhumirim;"
 }

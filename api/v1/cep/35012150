@@ -1,12 +1,12 @@
 {
-  "cep": "35012150",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Vila Mariana",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Mariana;",
+    "cep": "35012150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua São Domingos;"
 }

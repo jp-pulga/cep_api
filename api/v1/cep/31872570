@@ -1,12 +1,12 @@
 {
-  "cep": "31872570",
-  "logradouro": "Rua Joaquim Pimenta",
-  "bairro": "Monte Azul",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Azul;",
+    "cep": "31872570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Joaquim Pimenta;"
 }

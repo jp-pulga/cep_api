@@ -1,12 +1,12 @@
 {
-  "cep": "31255492",
-  "logradouro": "Rua Leandro Ferreira",
-  "bairro": "Santa Rosa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rosa;",
+    "cep": "31255492",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Leandro Ferreira;"
 }

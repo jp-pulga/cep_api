@@ -1,12 +1,11 @@
 {
-  "cep": "36972000",
-  "logradouro": "Martins Soares",
-  "bairro": "",
-  "cidade": {
-    "nome": "Martins Soares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36972000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Martins Soares"
+    },
+    "ibge": 3140530
 }

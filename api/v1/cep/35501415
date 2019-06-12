@@ -1,12 +1,12 @@
 {
-  "cep": "35501415",
-  "logradouro": "Rua José Pinto de Medeiros",
-  "bairro": "Realengo",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Realengo;",
+    "cep": "35501415",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua José Pinto de Medeiros;"
 }

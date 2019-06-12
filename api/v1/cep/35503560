@@ -1,12 +1,12 @@
 {
-  "cep": "35503560",
-  "logradouro": "Rua Mesquita",
-  "bairro": "São Luís",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Luís;",
+    "cep": "35503560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Mesquita;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38182533",
-  "logradouro": "Rua Paulo Rosa",
-  "bairro": "Parque das Mangabeiras",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque das Mangabeiras;",
+    "cep": "38182533",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Paulo Rosa;"
 }

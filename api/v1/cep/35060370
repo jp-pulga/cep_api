@@ -1,12 +1,12 @@
 {
-  "cep": "35060370",
-  "logradouro": "Rua Miraí",
-  "bairro": "Grã-Duquesa",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grã-Duquesa;",
+    "cep": "35060370",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Miraí;"
 }

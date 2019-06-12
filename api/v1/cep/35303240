@@ -1,12 +1,12 @@
 {
-  "cep": "35303240",
-  "logradouro": "Travessa Maria Tereza Fernandes",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esperança;",
+    "cep": "35303240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Travessa Maria Tereza Fernandes;"
 }

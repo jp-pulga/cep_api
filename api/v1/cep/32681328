@@ -1,12 +1,12 @@
 {
-  "cep": "32681328",
-  "logradouro": "Rua Lagoa Dourada",
-  "bairro": "Jardim Teresópolis",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Teresópolis;",
+    "cep": "32681328",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Lagoa Dourada;"
 }

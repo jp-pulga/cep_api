@@ -1,12 +1,13 @@
 {
-  "cep": "35720972",
-  "logradouro": "CDD Matozinhos Rua Dona Balá 57",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Matozinhos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "35720972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Matozinhos"
+    },
+    "ibge": 3141108,
+    "logradouro": "Rua Dona Balá, 57  CDD Matozinhos;"
 }

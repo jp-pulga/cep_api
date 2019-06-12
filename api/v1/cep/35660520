@@ -1,12 +1,12 @@
 {
-  "cep": "35660520",
-  "logradouro": "Rua Jovelina Pereira Medina (Cj Hab J Pereira)",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "35660520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Jovelina Pereira Medina (Cj Hab J Pereira);"
 }

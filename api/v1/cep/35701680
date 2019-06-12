@@ -1,12 +1,12 @@
 {
-  "cep": "35701680",
-  "logradouro": "Avenida José Geraldo de Figueiredo Nogueira",
-  "bairro": "Mata Grande",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mata Grande;",
+    "cep": "35701680",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Avenida José Geraldo de Figueiredo Nogueira;"
 }

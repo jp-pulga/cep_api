@@ -1,12 +1,12 @@
 {
-  "cep": "39400381",
-  "logradouro": "Rua Juramento",
-  "bairro": "Cintra",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cintra;",
+    "cep": "39400381",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Juramento;"
 }

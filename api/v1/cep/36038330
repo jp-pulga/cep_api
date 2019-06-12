@@ -1,12 +1,13 @@
 {
-  "cep": "36038330",
-  "logradouro": "Avenida Eugênio do Nascimento",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "36038330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "ibge": 3136702,
+    "logradouro": "Avenida Eugênio do Nascimento;"
 }

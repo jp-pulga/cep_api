@@ -1,12 +1,12 @@
 {
-  "cep": "35182207",
-  "logradouro": "Rua Matipó",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "35182207",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Matipó;"
 }

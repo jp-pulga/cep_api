@@ -1,12 +1,13 @@
 {
-  "cep": "36608970",
-  "logradouro": "AC Maripá de Minas Rua Capitão Avelino Martins 126",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maripá de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36608970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Maripá de Minas"
+    },
+    "ibge": 3140209,
+    "logradouro": "Rua Capitão Avelino Martins, 126  AC Maripá de Minas;"
 }

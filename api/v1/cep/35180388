@@ -1,12 +1,12 @@
 {
-  "cep": "35180388",
-  "logradouro": "Rua Lambari",
-  "bairro": "João XXIII",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João XXIII;",
+    "cep": "35180388",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Lambari;"
 }

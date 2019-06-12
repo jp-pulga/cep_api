@@ -1,12 +1,11 @@
 {
-  "cep": "36140000",
-  "logradouro": "Lima Duarte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lima Duarte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36140000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lima Duarte"
+    },
+    "ibge": 3138609
 }

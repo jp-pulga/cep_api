@@ -1,12 +1,13 @@
 {
-  "cep": "37200970",
-  "logradouro": "AC Lavras Rua Raul Soares 159",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lavras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37200970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lavras"
+    },
+    "ibge": 3138203,
+    "logradouro": "Rua Raul Soares, 159  AC Lavras;"
 }

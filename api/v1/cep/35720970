@@ -1,12 +1,13 @@
 {
-  "cep": "35720970",
-  "logradouro": "AC Matozinhos Rua Carlos Martins 48-C",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matozinhos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35720970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Matozinhos"
+    },
+    "ibge": 3141108,
+    "logradouro": "Rua Carlos Martins, 48-C  AC Matozinhos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "33400972",
-  "logradouro": "CDD Lagoa Santa Rua Miguel Antônio Salomão 133",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa Santa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33400972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Santa"
+    },
+    "ibge": 3137601,
+    "logradouro": "Rua Expedicionário Rios, 470  CDD Lagoa Santa;"
 }

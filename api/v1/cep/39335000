@@ -1,12 +1,11 @@
 {
-  "cep": "39335000",
-  "logradouro": "Japonvar",
-  "bairro": "",
-  "cidade": {
-    "nome": "Japonvar",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39335000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Japonvar"
+    },
+    "ibge": 3135357
 }

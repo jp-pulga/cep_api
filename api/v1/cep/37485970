@@ -1,12 +1,13 @@
 {
-  "cep": "37485970",
-  "logradouro": "AC Jesuânia Rua Sebastião Brandão dos Reis 139",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jesuânia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37485970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jesuânia"
+    },
+    "ibge": 3135902,
+    "logradouro": "Rua Sebastião Brandão dos Reis, 139  AC Jesuânia;"
 }

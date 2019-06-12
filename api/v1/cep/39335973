@@ -1,12 +1,13 @@
 {
-  "cep": "39335973",
-  "logradouro": "AC Japonvar Avenida João Pessoa 92",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Japonvar",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39335973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Japonvar"
+    },
+    "ibge": 3135357,
+    "logradouro": "Avenida João Pessoa, 92  AC Japonvar;"
 }

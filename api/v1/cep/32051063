@@ -1,12 +1,12 @@
 {
-  "cep": "32051063",
-  "logradouro": "Avenida Jequitibá",
-  "bairro": "Vila Ipê Amarelo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Ipê Amarelo;",
+    "cep": "32051063",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Avenida Jequitibá;"
 }

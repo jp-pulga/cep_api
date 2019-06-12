@@ -1,12 +1,12 @@
 {
-  "cep": "35660694",
-  "logradouro": "Rua Leopoldina Gabriela de Oliveira",
-  "bairro": "Rodoviário",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rodoviário;",
+    "cep": "35660694",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Leopoldina Gabriela de Oliveira;"
 }

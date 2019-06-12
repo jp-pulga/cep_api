@@ -1,12 +1,13 @@
 {
-  "cep": "38785972",
-  "logradouro": "AGC Retiro da Roça Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagamar",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38785972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagamar"
+    },
+    "ibge": 3137106,
+    "logradouro": "Rua Principal, s\/n  AGC Retiro da Roça;"
 }

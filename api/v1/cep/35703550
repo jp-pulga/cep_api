@@ -1,12 +1,12 @@
 {
-  "cep": "35703550",
-  "logradouro": "Avenida Everaldo Ferreira Passos",
-  "bairro": "Santa Felicidade",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Felicidade;",
+    "cep": "35703550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Avenida Everaldo Ferreira Passos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "34590145",
-  "logradouro": "Rua Lambari",
-  "bairro": "Nações Unidas",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nações Unidas;",
+    "cep": "34590145",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Lambari;"
 }

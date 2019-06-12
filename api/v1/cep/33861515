@@ -1,12 +1,12 @@
 {
-  "cep": "33861515",
-  "logradouro": "Rua Marieta Martins Pereira",
-  "bairro": "Nova União",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova União;",
+    "cep": "33861515",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Marieta Martins Pereira;"
 }

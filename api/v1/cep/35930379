@@ -1,12 +1,13 @@
 {
-  "cep": "35930379",
-  "logradouro": "Avenida Armando Fajardo de 0901/902 a 1800/1801",
-  "bairro": "Loanda",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loanda;",
+    "cep": "35930379",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Armando Fajardo - de 0901\/902 a 1800\/1801;"
 }

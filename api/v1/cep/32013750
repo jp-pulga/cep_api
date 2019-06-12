@@ -1,12 +1,12 @@
 {
-  "cep": "32013750",
-  "logradouro": "Rua Mendes Pimentel",
-  "bairro": "Fonte Grande",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fonte Grande;",
+    "cep": "32013750",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Mendes Pimentel;"
 }

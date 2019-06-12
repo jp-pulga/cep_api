@@ -1,12 +1,13 @@
 {
-  "cep": "35296971",
-  "logradouro": "AGC Limeira Avenida Nossa Senhora da Penha 260",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mantena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35296971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mantena"
+    },
+    "ibge": 3139607,
+    "logradouro": "Avenida Nossa Senhora da Penha, 260  AGC Limeira;"
 }

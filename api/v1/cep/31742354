@@ -1,12 +1,12 @@
 {
-  "cep": "31742354",
-  "logradouro": "Rua Machacalis",
-  "bairro": "Jardim Guanabara",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Guanabara;",
+    "cep": "31742354",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Machacalis;"
 }

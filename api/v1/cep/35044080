@@ -1,12 +1,12 @@
 {
-  "cep": "35044080",
-  "logradouro": "Avenida Engenheiro Roberto Lassance",
-  "bairro": "Vila Isa",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Isa;",
+    "cep": "35044080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Avenida Engenheiro Roberto Lassance;"
 }

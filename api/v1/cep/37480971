@@ -1,12 +1,13 @@
 {
-  "cep": "37480971",
-  "logradouro": "AGF Wadih Bacha Rua Doutor Wadih Bacha 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lambari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37480971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lambari"
+    },
+    "ibge": 3137809,
+    "logradouro": "Rua Doutor Wadih Bacha, 35  AGF Wadih Bacha;"
 }

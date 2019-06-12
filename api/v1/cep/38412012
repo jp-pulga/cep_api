@@ -1,12 +1,12 @@
 {
-  "cep": "38412012",
-  "logradouro": "Rua Imperatriz Leopoldina",
-  "bairro": "Tubalina",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tubalina;",
+    "cep": "38412012",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Imperatriz Leopoldina;"
 }

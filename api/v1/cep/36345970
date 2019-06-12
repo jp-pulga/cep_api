@@ -1,12 +1,13 @@
 {
-  "cep": "36345970",
-  "logradouro": "AC Lagoa Dourada Praça do Rosário 89",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa Dourada",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36345970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Dourada"
+    },
+    "ibge": 3137403,
+    "logradouro": "Praça do Rosário, 89  AC Lagoa Dourada;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35681594",
-  "logradouro": "Rua José Medeiros",
-  "bairro": "Residencial Veredas II",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Veredas II;",
+    "cep": "35681594",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua José Medeiros;"
 }

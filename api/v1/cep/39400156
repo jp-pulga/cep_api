@@ -1,12 +1,13 @@
 {
-  "cep": "39400156",
-  "logradouro": "Alameda Galeno",
-  "bairro": "Vila Brasília",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Brasília;",
+    "cep": "39400156",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "ibge": 3143302,
+    "logradouro": "Alameda Galeno;"
 }

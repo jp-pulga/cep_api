@@ -1,12 +1,13 @@
 {
-  "cep": "34990973",
-  "logradouro": "AGC Carmo da União Rua Adair Costa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova União",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "34990973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova União"
+    },
+    "ibge": 3136603,
+    "logradouro": "Rua Adair Costa s\/n  AGC Carmo da União;"
 }

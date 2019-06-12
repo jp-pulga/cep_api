@@ -1,12 +1,12 @@
 {
-  "cep": "38700227",
-  "logradouro": "Rua Prefeito Camundinho de 351 a 883 - lado ímpar",
-  "bairro": "Lagoa Grande",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoa Grande;",
+    "cep": "38700227",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Prefeito Camundinho - de 351 a 883 - lado ímpar;"
 }

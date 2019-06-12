@@ -1,12 +1,13 @@
 {
-  "cep": "35930314",
-  "logradouro": "Avenida Brasília",
-  "bairro": "Baú",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Baú;",
+    "cep": "35930314",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Brasília;"
 }

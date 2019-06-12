@@ -1,12 +1,12 @@
 {
-  "cep": "32015530",
-  "logradouro": "Rua Mateus Leme",
-  "bairro": "Fonte Grande",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fonte Grande;",
+    "cep": "32015530",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Mateus Leme;"
 }

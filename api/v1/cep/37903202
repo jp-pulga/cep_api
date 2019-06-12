@@ -1,12 +1,12 @@
 {
-  "cep": "37903202",
-  "logradouro": "Rua Lajinha",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "37903202",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Lajinha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38701164",
-  "logradouro": "Avenida Lucy Mesquita de Araújo",
-  "bairro": "Guanabara",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guanabara;",
+    "cep": "38701164",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Avenida Lucy Mesquita de Araújo;"
 }

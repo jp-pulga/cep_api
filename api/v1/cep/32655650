@@ -1,12 +1,12 @@
 {
-  "cep": "32655650",
-  "logradouro": "Rua Matozinhos até 448/449",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "32655650",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Matozinhos - até 448\/449;"
 }

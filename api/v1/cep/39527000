@@ -1,12 +1,11 @@
 {
-  "cep": "39527000",
-  "logradouro": "Mato Verde",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mato Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39527000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mato Verde"
+    },
+    "ibge": 3141009
 }

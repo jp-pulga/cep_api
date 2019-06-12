@@ -1,12 +1,12 @@
 {
-  "cep": "34555170",
-  "logradouro": "Rua Matias Barbosa",
-  "bairro": "Rosário",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rosário;",
+    "cep": "34555170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Matias Barbosa;"
 }

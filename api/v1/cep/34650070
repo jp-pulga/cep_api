@@ -1,12 +1,12 @@
 {
-  "cep": "34650070",
-  "logradouro": "Rua Martinho Campos",
-  "bairro": "Novo Alvorada",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "34650070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Martinho Campos;"
 }

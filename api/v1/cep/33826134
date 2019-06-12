@@ -1,12 +1,12 @@
 {
-  "cep": "33826134",
-  "logradouro": "Rua Lagoa Santa",
-  "bairro": "Fazenda Castro",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fazenda Castro;",
+    "cep": "33826134",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Lagoa Santa;"
 }

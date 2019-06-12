@@ -1,12 +1,12 @@
 {
-  "cep": "38182462",
-  "logradouro": "Rua H",
-  "bairro": "Parque das Mangabeiras",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque das Mangabeiras;",
+    "cep": "38182462",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua H;"
 }

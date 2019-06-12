@@ -1,12 +1,13 @@
 {
-  "cep": "35670972",
-  "logradouro": "UD Mateus Leme Rua Pereira Guimarães 69 Lote A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mateus Leme",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35670972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mateus Leme"
+    },
+    "ibge": 3140704,
+    "logradouro": "Rua Pereira Guimarães, 69 Lote A  UD Mateus Leme;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35701027",
-  "logradouro": "Rua Patos de Minas",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "35701027",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Patos de Minas;"
 }

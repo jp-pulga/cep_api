@@ -1,12 +1,12 @@
 {
-  "cep": "31210070",
-  "logradouro": "Rua Jequeri",
-  "bairro": "Lagoinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoinha;",
+    "cep": "31210070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Jequeri;"
 }

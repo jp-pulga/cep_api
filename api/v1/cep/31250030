@@ -1,12 +1,12 @@
 {
-  "cep": "31250030",
-  "logradouro": "Rua Mariana Barcelos",
-  "bairro": "Aparecida Sétima Seção",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aparecida Sétima Seção;",
+    "cep": "31250030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Mariana Barcelos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "33400973",
-  "logradouro": "AGC Lagoinha de Fora Rua do Cruzeiro 8",
-  "bairro": "Lagoinha de Fora",
-  "cidade": {
-    "nome": "Lagoa Santa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoinha de Fora;",
+    "cep": "33400973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Santa"
+    },
+    "ibge": 3137601,
+    "logradouro": "Rua do Cruzeiro, 8  AGC Lagoinha de Fora;"
 }

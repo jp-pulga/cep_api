@@ -1,12 +1,12 @@
 {
-  "cep": "38045200",
-  "logradouro": "Rua Rui Mesquita",
-  "bairro": "Parque das Américas",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque das Américas;",
+    "cep": "38045200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Rui Mesquita;"
 }

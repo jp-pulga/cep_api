@@ -1,12 +1,13 @@
 {
-  "cep": "39404303",
-  "logradouro": "Alameda das Américas",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Independência;",
+    "cep": "39404303",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "ibge": 3143302,
+    "logradouro": "Alameda das Américas;"
 }

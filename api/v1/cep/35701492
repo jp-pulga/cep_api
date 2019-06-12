@@ -1,12 +1,12 @@
 {
-  "cep": "35701492",
-  "logradouro": "Fazenda Mata Grande",
-  "bairro": "Dante Lanza",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dante Lanza;",
+    "cep": "35701492",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Fazenda Mata Grande;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30210080",
-  "logradouro": "Praça Engenheiro Flávio Gutierrez",
-  "bairro": "Mangabeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mangabeiras;",
+    "cep": "30210080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Engenheiro Flávio Gutierrez;"
 }

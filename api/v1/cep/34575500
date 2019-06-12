@@ -1,12 +1,12 @@
 {
-  "cep": "34575500",
-  "logradouro": "Rua Matozinhos",
-  "bairro": "Rosário",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rosário;",
+    "cep": "34575500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Matozinhos;"
 }

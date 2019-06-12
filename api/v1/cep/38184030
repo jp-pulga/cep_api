@@ -1,12 +1,12 @@
 {
-  "cep": "38184030",
-  "logradouro": "Rua Mariana Jacinta Duarte",
-  "bairro": "Vila Jardim",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Jardim;",
+    "cep": "38184030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Mariana Jacinta Duarte;"
 }

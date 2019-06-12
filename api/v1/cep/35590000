@@ -1,12 +1,11 @@
 {
-  "cep": "35590000",
-  "logradouro": "Lagoa da Prata",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lagoa da Prata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35590000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa da Prata"
+    },
+    "ibge": 3137205
 }

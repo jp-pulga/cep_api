@@ -1,12 +1,12 @@
 {
-  "cep": "35171414",
-  "logradouro": "Rua Antônio Martins Soares",
-  "bairro": "Santa Terezinha II",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha II;",
+    "cep": "35171414",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Antônio Martins Soares;"
 }

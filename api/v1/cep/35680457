@@ -1,12 +1,12 @@
 {
-  "cep": "35680457",
-  "logradouro": "Rua Maria Ângela Medeiros",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35680457",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Maria Ângela Medeiros;"
 }

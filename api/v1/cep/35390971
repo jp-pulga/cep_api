@@ -1,12 +1,13 @@
 {
-  "cep": "35390971",
-  "logradouro": "AGC Pouso Alegre da Mata Rua Principal s/n",
-  "bairro": "Pouso Alegre da Mata",
-  "cidade": {
-    "nome": "Jequeri",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pouso Alegre da Mata;",
+    "cep": "35390971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jequeri"
+    },
+    "ibge": 3135506,
+    "logradouro": "Rua Principal, s\/n  AGC Pouso Alegre da Mata;"
 }

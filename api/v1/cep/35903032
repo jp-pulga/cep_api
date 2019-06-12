@@ -1,12 +1,12 @@
 {
-  "cep": "35903032",
-  "logradouro": "Rua Elson Lambari",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "35903032",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Elson Lambari;"
 }

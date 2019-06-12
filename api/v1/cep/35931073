@@ -1,12 +1,13 @@
 {
-  "cep": "35931073",
-  "logradouro": "Avenida Armando Fajardo de 3701/3702 ao fim",
-  "bairro": "Cruzeiro Celeste",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro Celeste;",
+    "cep": "35931073",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "ibge": 3136207,
+    "logradouro": "Avenida Armando Fajardo - de 3701\/3702 ao fim;"
 }

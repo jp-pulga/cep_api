@@ -1,12 +1,12 @@
 {
-  "cep": "36200671",
-  "logradouro": "Rua Joaquina Maria das Mercês",
-  "bairro": "Carmo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carmo;",
+    "cep": "36200671",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Joaquina Maria das Mercês;"
 }

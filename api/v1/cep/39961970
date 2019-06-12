@@ -1,12 +1,13 @@
 {
-  "cep": "39961970",
-  "logradouro": "AGC São Pedro do Jequitinhonha Rua da Roseira 45",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro do Jequitinhonha (Jequitinhonha)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/São Pedro do Jequitinhonha",
+    "cep": "39961970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jequitinhonha"
+    },
+    "ibge": 3135803,
+    "logradouro": "Rua da Roseira, 45  AGC São Pedro do Jequitinhonha;"
 }

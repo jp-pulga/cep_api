@@ -1,12 +1,12 @@
 {
-  "cep": "32670558",
-  "logradouro": "Rua Jequeri",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "32670558",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Jequeri;"
 }

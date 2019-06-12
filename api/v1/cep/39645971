@@ -1,12 +1,13 @@
 {
-  "cep": "39645971",
-  "logradouro": "AC Jenipapo de Minas Rua Direita 583",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jenipapo de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39645971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jenipapo de Minas"
+    },
+    "ibge": 3135456,
+    "logradouro": "Rua Direita, 583  AC Jenipapo de Minas;"
 }

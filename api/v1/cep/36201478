@@ -1,12 +1,12 @@
 {
-  "cep": "36201478",
-  "logradouro": "Rua José Antônio de Campos",
-  "bairro": "Monte Mário",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Mário;",
+    "cep": "36201478",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua José Antônio de Campos;"
 }

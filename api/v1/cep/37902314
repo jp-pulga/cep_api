@@ -1,12 +1,12 @@
 {
-  "cep": "37902314",
-  "logradouro": "Rua Lavras",
-  "bairro": "Muarama",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Muarama;",
+    "cep": "37902314",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Lavras;"
 }

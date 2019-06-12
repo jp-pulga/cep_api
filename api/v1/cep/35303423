@@ -1,12 +1,12 @@
 {
-  "cep": "35303423",
-  "logradouro": "Travessa Maria Tereza Fernandes",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "35303423",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Travessa Maria Tereza Fernandes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36300213",
-  "logradouro": "Rua Toledo",
-  "bairro": "Alto das Mercês",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto das Mercês;",
+    "cep": "36300213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Toledo;"
 }

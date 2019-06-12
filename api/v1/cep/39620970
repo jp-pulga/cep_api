@@ -1,12 +1,13 @@
 {
-  "cep": "39620970",
-  "logradouro": "AC Medina Praça Max Machado 338",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Medina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39620970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Medina"
+    },
+    "ibge": 3141405,
+    "logradouro": "Praça Doutor Max Machado, 338  AC Medina;"
 }

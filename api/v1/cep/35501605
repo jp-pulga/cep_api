@@ -1,12 +1,12 @@
 {
-  "cep": "35501605",
-  "logradouro": "Rua Maria das Dores Mesquita",
-  "bairro": "João Paulo II",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Paulo II;",
+    "cep": "35501605",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Maria das Dores Mesquita;"
 }

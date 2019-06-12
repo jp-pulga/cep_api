@@ -1,12 +1,13 @@
 {
-  "cep": "33400970",
-  "logradouro": "AC Lagoa Santa Rua Acadêmico Nilo Figueiredo 2049 Loja 02 Loja 03",
-  "bairro": "Joana D'arc",
-  "cidade": {
-    "nome": "Lagoa Santa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Joana D'arc;",
+    "cep": "33400970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Santa"
+    },
+    "ibge": 3137601,
+    "logradouro": "Rua Acadêmico Nilo Figueiredo, 2049 Loja 02 Loja 03  AC Lagoa Santa;"
 }

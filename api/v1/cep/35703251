@@ -1,12 +1,12 @@
 {
-  "cep": "35703251",
-  "logradouro": "Rua Mercês Rodrigues Soares",
-  "bairro": "Cidade de Deus",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade de Deus;",
+    "cep": "35703251",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Mercês Rodrigues Soares;"
 }

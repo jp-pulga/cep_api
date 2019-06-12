@@ -1,12 +1,12 @@
 {
-  "cep": "35701804",
-  "logradouro": "Rua Francisco Pereira de Souza",
-  "bairro": "Lontra",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lontra;",
+    "cep": "35701804",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Francisco Pereira de Souza;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35681307",
-  "logradouro": "Rua Francisco Inácio Medeiros",
-  "bairro": "Residencial Santanense",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Santanense;",
+    "cep": "35681307",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Francisco Inácio Medeiros;"
 }

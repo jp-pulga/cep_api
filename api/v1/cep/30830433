@@ -1,12 +1,12 @@
 {
-  "cep": "30830433",
-  "logradouro": "Avenida Abílio Machado de 2203 ao fim - lado ímpar",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "30830433",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Abílio Machado - de 2203 ao fim - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31775630",
-  "logradouro": "Avenida Cristiano Machado de 13000/13001 ao fim",
-  "bairro": "Vila Cloris",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cloris;",
+    "cep": "31775630",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado - de 13000\/13001 ao fim;"
 }

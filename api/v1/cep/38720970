@@ -1,12 +1,13 @@
 {
-  "cep": "38720970",
-  "logradouro": "AC Lagoa Formosa Praça Zuza Fonseca 102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa Formosa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38720970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lagoa Formosa"
+    },
+    "ibge": 3137502,
+    "logradouro": "Praça Zuza Fonseca, 102  AC Lagoa Formosa;"
 }

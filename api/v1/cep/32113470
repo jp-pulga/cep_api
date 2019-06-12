@@ -1,12 +1,12 @@
 {
-  "cep": "32113470",
-  "logradouro": "Rua Doutor Belmiro Medeiros",
-  "bairro": "Ressaca",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ressaca;",
+    "cep": "32113470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Doutor Belmiro Medeiros;"
 }

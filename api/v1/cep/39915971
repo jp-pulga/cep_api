@@ -1,12 +1,13 @@
 {
-  "cep": "39915971",
-  "logradouro": "AC Mata Verde Rua Hermínio Araújo dos Santos 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mata Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39915971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mata Verde"
+    },
+    "ibge": 3140555,
+    "logradouro": "Rua Hermínio Araújo dos Santos, 160  AC Mata Verde;"
 }

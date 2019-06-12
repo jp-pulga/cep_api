@@ -1,12 +1,12 @@
 {
-  "cep": "35162331",
-  "logradouro": "Rua Luzerna",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esperança;",
+    "cep": "35162331",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Luzerna;"
 }

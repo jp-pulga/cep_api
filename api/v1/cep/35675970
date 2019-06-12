@@ -1,12 +1,13 @@
 {
-  "cep": "35675970",
-  "logradouro": "UD Juatuba Rua Mário Teixeira 291",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juatuba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35675970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juatuba"
+    },
+    "ibge": 3136652,
+    "logradouro": "Rua Mário Teixeira, 291  UD Juatuba;"
 }

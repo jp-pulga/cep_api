@@ -1,12 +1,13 @@
 {
-  "cep": "39960970",
-  "logradouro": "AC Jequitinhonha Rua Arnaldo do Povo 91",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jequitinhonha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39960970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jequitinhonha"
+    },
+    "ibge": 3135803,
+    "logradouro": "Rua Arnaldo do Povo, 91  AC Jequitinhonha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32628074",
-  "logradouro": "Rua Lagoa Santa",
-  "bairro": "Vianópolis",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vianópolis;",
+    "cep": "32628074",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Lagoa Santa;"
 }

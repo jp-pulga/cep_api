@@ -1,12 +1,12 @@
 {
-  "cep": "30624002",
-  "logradouro": "Rua José do Monte",
-  "bairro": "Flávio Marques Lisboa (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Flávio Marques Lisboa (Barreiro);",
+    "cep": "30624002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José do Monte;"
 }

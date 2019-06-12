@@ -1,12 +1,13 @@
 {
-  "cep": "38930972",
-  "logradouro": "AC Medeiros Avenida Clodoveu Leite de Faria 230-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Medeiros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38930972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Medeiros"
+    },
+    "ibge": 3141306,
+    "logradouro": "Avenida Clodoveu Leite de Faria, 230-A  AC Medeiros;"
 }

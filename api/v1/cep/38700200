@@ -1,12 +1,12 @@
 {
-  "cep": "38700200",
-  "logradouro": "Travessa Rone César da Silva",
-  "bairro": "Lagoa Grande",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoa Grande;",
+    "cep": "38700200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Travessa Rone César da Silva;"
 }
