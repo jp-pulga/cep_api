@@ -1,12 +1,12 @@
 {
-  "cep": "07436780",
-  "logradouro": "Rua Francisco Cesário da Silva",
-  "bairro": "Jardim São Jorge",
-  "cidade": {
-    "nome": "Arujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Jorge;",
+    "cep": "07436780",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Arujá"
+    },
+    "logradouro": "Rua Francisco Cesário da Silva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "06329030",
-  "logradouro": "Rua Carmem",
-  "bairro": "Jardim Cecília Cristina",
-  "cidade": {
-    "nome": "Carapicuíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Cecília Cristina;",
+    "cep": "06329030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Carapicuíba"
+    },
+    "logradouro": "Rua Carmem;"
 }

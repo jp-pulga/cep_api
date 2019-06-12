@@ -1,12 +1,12 @@
 {
-  "cep": "58015900",
-  "logradouro": "Centro Administrativo Estadual Avenida João da Mata s/n",
-  "bairro": "Jaguaribe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jaguaribe;",
+    "cep": "58015900",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida João da Mata, s\/n  Centro Administrativo Estadual;"
 }

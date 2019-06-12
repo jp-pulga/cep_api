@@ -1,12 +1,12 @@
 {
-  "cep": "06465030",
-  "logradouro": "Rua Vicente Nunes Ribeiro",
-  "bairro": "Jardim Santa Cecília",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Cecília;",
+    "cep": "06465030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Rua Vicente Nunes Ribeiro;"
 }

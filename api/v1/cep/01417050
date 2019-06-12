@@ -1,12 +1,12 @@
 {
-  "cep": "01417050",
-  "logradouro": "Rua Jardim Minerva",
-  "bairro": "Cerqueira César",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cerqueira César;",
+    "cep": "01417050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Jardim Minerva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12280112",
-  "logradouro": "Rua Coronel Jaime Rolemberg de Lima",
-  "bairro": "Jardim São José",
-  "cidade": {
-    "nome": "Caçapava",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São José;",
+    "cep": "12280112",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caçapava"
+    },
+    "logradouro": "Rua Coronel Jaime Rolemberg de Lima;"
 }

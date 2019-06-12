@@ -1,12 +1,12 @@
 {
-  "cep": "11664190",
-  "logradouro": "Alameda das Cerejeiras",
-  "bairro": "Cidade Jardim",
-  "cidade": {
-    "nome": "Caraguatatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Jardim;",
+    "cep": "11664190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caraguatatuba"
+    },
+    "logradouro": "Alameda das Cerejeiras;"
 }

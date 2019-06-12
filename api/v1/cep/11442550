@@ -1,12 +1,12 @@
 {
-  "cep": "11442550",
-  "logradouro": "Rua B",
-  "bairro": "Jardim Centenário",
-  "cidade": {
-    "nome": "Guarujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Enseada;",
+    "cep": "11442550",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarujá"
+    },
+    "logradouro": "Rua B (Jardim Centenário);"
 }

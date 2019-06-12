@@ -1,12 +1,12 @@
 {
-  "cep": "13232009",
-  "logradouro": "Avenida Celeste Siqueira da Silva",
-  "bairro": "Jardim Europa",
-  "cidade": {
-    "nome": "Campo Limpo Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Europa;",
+    "cep": "13232009",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campo Limpo Paulista"
+    },
+    "logradouro": "Avenida Celeste Siqueira da Silva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "06065330",
-  "logradouro": "Rua César Mischi",
-  "bairro": "Jaguaribe",
-  "cidade": {
-    "nome": "Osasco",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jaguaribe;",
+    "cep": "06065330",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Osasco"
+    },
+    "logradouro": "Rua César Mischi;"
 }

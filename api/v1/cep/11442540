@@ -1,12 +1,12 @@
 {
-  "cep": "11442540",
-  "logradouro": "Rua A",
-  "bairro": "Jardim Centenário",
-  "cidade": {
-    "nome": "Guarujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Enseada;",
+    "cep": "11442540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarujá"
+    },
+    "logradouro": "Rua A (Jardim Centenário);"
 }

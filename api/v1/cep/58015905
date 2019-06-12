@@ -1,12 +1,12 @@
 {
-  "cep": "58015905",
-  "logradouro": "Centro Federal de Educação Tecnológica da Paraíba Avenida Primeiro de Maio 720",
-  "bairro": "Jaguaribe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jaguaribe;",
+    "cep": "58015905",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida Primeiro de Maio, 720  Centro Federal de Educação Tecnológica da Paraíba;"
 }

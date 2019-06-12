@@ -1,12 +1,12 @@
 {
-  "cep": "06329180",
-  "logradouro": "Rua Dalva",
-  "bairro": "Jardim Cecília Cristina",
-  "cidade": {
-    "nome": "Carapicuíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Cecília Cristina;",
+    "cep": "06329180",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Carapicuíba"
+    },
+    "logradouro": "Rua Dalva;"
 }

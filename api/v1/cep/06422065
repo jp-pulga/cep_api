@@ -1,12 +1,12 @@
 {
-  "cep": "06422065",
-  "logradouro": "Rua Cerquilho",
-  "bairro": "Jardim Itaquiti",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Itaquiti;",
+    "cep": "06422065",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Rua Cerquilho;"
 }
