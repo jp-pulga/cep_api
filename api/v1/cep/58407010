@@ -1,12 +1,12 @@
 {
-  "cep": "58407010",
-  "logradouro": "Rua Leontina Tavares de Macedo",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "58407010",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Leontina Tavares de Macedo;"
 }

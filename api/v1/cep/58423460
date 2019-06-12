@@ -1,12 +1,12 @@
 {
-  "cep": "58423460",
-  "logradouro": "Rua Adma Tavares Araújo",
-  "bairro": "Três Irmãs",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Três Irmãs;",
+    "cep": "58423460",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Adma Tavares Araújo;"
 }

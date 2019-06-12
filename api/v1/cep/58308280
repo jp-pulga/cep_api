@@ -1,12 +1,12 @@
 {
-  "cep": "58308280",
-  "logradouro": "Rua Manoel Tenório",
-  "bairro": "Jardim Aeroporto",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Aeroporto;",
+    "cep": "58308280",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Manoel Tenório;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58420350",
-  "logradouro": "Rua Antônio de Souza Barbosa",
-  "bairro": "Velame",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Velame;",
+    "cep": "58420350",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Antônio de Souza Barbosa;"
 }

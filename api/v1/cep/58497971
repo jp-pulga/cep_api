@@ -1,12 +1,13 @@
 {
-  "cep": "58497971",
-  "logradouro": "AGC Matinadas Rua do Comércio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Umbuzeiro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58497971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Umbuzeiro"
+    },
+    "ibge": 2517001,
+    "logradouro": "Rua do Comércio, s\/n  AGC Matinadas;"
 }

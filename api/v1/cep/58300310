@@ -1,12 +1,12 @@
 {
-  "cep": "58300310",
-  "logradouro": "Rua Ascendino Teixeira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58300310",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "logradouro": "Rua Ascendino Teixeira;"
 }

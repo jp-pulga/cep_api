@@ -1,12 +1,12 @@
 {
-  "cep": "58013071",
-  "logradouro": "Vila Teixeira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58013071",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Vila Teixeira;"
 }

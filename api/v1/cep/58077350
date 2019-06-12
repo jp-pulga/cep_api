@@ -1,12 +1,12 @@
 {
-  "cep": "58077350",
-  "logradouro": "Rua Sebastião Tenório",
-  "bairro": "Cuiá",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cuiá;",
+    "cep": "58077350",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Sebastião Tenório;"
 }

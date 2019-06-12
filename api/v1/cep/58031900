@@ -1,12 +1,12 @@
 {
-  "cep": "58031900",
-  "logradouro": "Justiça Federal Rua João Teixeira de Carvalho 480",
-  "bairro": "Pedro Gondim",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Pedro Gondim;",
+    "cep": "58031900",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua João Teixeira de Carvalho, 480  Justiça Federal;"
 }

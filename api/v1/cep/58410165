@@ -1,12 +1,12 @@
 {
-  "cep": "58410165",
-  "logradouro": "Rua Anísio Rodrigues de Souza Campos",
-  "bairro": "Catolé",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Catolé;",
+    "cep": "58410165",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Anísio Rodrigues de Souza Campos;"
 }

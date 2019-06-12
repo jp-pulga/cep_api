@@ -1,12 +1,12 @@
 {
-  "cep": "58429218",
-  "logradouro": "Rua Oswaldo Tavares Agra",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "58429218",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Oswaldo Tavares Agra;"
 }

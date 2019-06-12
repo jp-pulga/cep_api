@@ -1,12 +1,12 @@
 {
-  "cep": "58069450",
-  "logradouro": "Rua Comerciante Manoel Teixeira da Silva (Lot C Sul)",
-  "bairro": "Gramame",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Gramame;",
+    "cep": "58069450",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Comerciante Manoel Teixeira da Silva (Lot C Sul);"
 }

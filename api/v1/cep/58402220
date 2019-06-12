@@ -1,12 +1,12 @@
 {
-  "cep": "58402220",
-  "logradouro": "Rua Girardino Copozzoli",
-  "bairro": "Jardim Tavares",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Tavares;",
+    "cep": "58402220",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Girardino Copozzoli;"
 }

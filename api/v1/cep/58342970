@@ -1,12 +1,13 @@
 {
-  "cep": "58342970",
-  "logradouro": "AC Sobrado Rua Manoel Sales 176",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sobrado",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58342970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sobrado"
+    },
+    "ibge": 2515971,
+    "logradouro": "Rua Manoel Sales, 176  AC Sobrado;"
 }

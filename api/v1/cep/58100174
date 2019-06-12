@@ -1,12 +1,12 @@
 {
-  "cep": "58100174",
-  "logradouro": "Rua Hilda de Matos Sousa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58100174",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Hilda de Matos Sousa;"
 }

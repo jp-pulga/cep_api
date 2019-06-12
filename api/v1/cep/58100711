@@ -1,12 +1,12 @@
 {
-  "cep": "58100711",
-  "logradouro": "Rua Feliciano Cabral de Souza",
-  "bairro": "Ponta de Matos",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ponta de Matos;",
+    "cep": "58100711",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Feliciano Cabral de Souza;"
 }

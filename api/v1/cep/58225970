@@ -1,12 +1,13 @@
 {
-  "cep": "58225970",
-  "logradouro": "AC Solânea Praça Vinte e Seis de Novembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Solânea",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58225970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Solânea"
+    },
+    "ibge": 2516003,
+    "logradouro": "Praça Vinte e Seis de Novembro, s\/n  AC Solânea;"
 }

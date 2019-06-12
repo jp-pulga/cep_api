@@ -1,12 +1,13 @@
 {
-  "cep": "58955970",
-  "logradouro": "AC Serra Grande Avenida Tomé Pereira dos Santos 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58955970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Serra Grande"
+    },
+    "ibge": 2515708,
+    "logradouro": "Avenida Tomé Pereira dos Santos, 21  AC Serra Grande;"
 }

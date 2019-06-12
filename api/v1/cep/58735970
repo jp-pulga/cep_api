@@ -1,12 +1,13 @@
 {
-  "cep": "58735970",
-  "logradouro": "AC Teixeira Rua José Maria Xavier 27",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teixeira",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58735970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Teixeira"
+    },
+    "ibge": 2516706,
+    "logradouro": "Rua José Maria Xavier, 27  AC Teixeira;"
 }

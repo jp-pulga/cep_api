@@ -1,12 +1,12 @@
 {
-  "cep": "58402000",
-  "logradouro": "Avenida Marechal Floriano Peixoto",
-  "bairro": "Jardim Tavares",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Tavares;",
+    "cep": "58402000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Avenida Marechal Floriano Peixoto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58074111",
-  "logradouro": "Rua Dentista Betina Tenório Coelho",
-  "bairro": "José Américo de Almeida",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "José Américo de Almeida;",
+    "cep": "58074111",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Dentista Betina Tenório Coelho;"
 }

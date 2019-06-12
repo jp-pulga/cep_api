@@ -1,12 +1,12 @@
 {
-  "cep": "58057470",
-  "logradouro": "Rua Ana Cavalcanti de Albuquerque Teixeira Lima",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "58057470",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Ana Cavalcanti de Albuquerque Teixeira Lima;"
 }

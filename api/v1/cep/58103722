@@ -1,12 +1,12 @@
 {
-  "cep": "58103722",
-  "logradouro": "Rua Heriberto de Souza",
-  "bairro": "Jardim Camboinha",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Camboinha;",
+    "cep": "58103722",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Heriberto de Souza;"
 }

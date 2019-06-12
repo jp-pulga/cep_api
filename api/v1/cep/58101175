@@ -1,12 +1,12 @@
 {
-  "cep": "58101175",
-  "logradouro": "Rua Antônio Leandro de Souza",
-  "bairro": "Formosa",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Formosa;",
+    "cep": "58101175",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Antônio Leandro de Souza;"
 }

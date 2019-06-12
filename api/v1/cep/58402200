@@ -1,12 +1,12 @@
 {
-  "cep": "58402200",
-  "logradouro": "Avenida Tavares",
-  "bairro": "Jardim Tavares",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Tavares;",
+    "cep": "58402200",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Avenida Tavares;"
 }

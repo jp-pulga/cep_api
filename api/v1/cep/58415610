@@ -1,12 +1,12 @@
 {
-  "cep": "58415610",
-  "logradouro": "Rua Doutor Hamilton de Souza Neves",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "58415610",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Doutor Hamilton de Souza Neves;"
 }

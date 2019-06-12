@@ -1,12 +1,12 @@
 {
-  "cep": "58101760",
-  "logradouro": "Rua Otávio de Souza Falcão",
-  "bairro": "Ponta de Campina",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ponta de Campina;",
+    "cep": "58101760",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Otávio de Souza Falcão;"
 }

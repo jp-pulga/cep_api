@@ -1,12 +1,12 @@
 {
-  "cep": "58806735",
-  "logradouro": "Rua Antônio Gonçalves de Oliveira",
-  "bairro": "Várzea da Cruz",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Várzea da Cruz;",
+    "cep": "58806735",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Antônio Gonçalves de Oliveira;"
 }

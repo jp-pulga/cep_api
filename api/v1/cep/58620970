@@ -1,12 +1,13 @@
 {
-  "cep": "58620970",
-  "logradouro": "AC Várzea Rua 11 de Janeiro 259",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Várzea",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58620970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Várzea"
+    },
+    "ibge": 2517100,
+    "logradouro": "Rua 11 de Janeiro, 259  AC Várzea;"
 }

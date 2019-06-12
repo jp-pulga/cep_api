@@ -1,12 +1,13 @@
 {
-  "cep": "58680970",
-  "logradouro": "AC Taperoá Rua João Suassuna s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taperoá",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58680970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Taperoá"
+    },
+    "ibge": 2516508,
+    "logradouro": "Rua João Suassuna, s\/n  AC Taperoá;"
 }

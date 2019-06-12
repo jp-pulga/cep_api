@@ -1,12 +1,12 @@
 {
-  "cep": "58101283",
-  "logradouro": "Avenida Tenente Sousa Assis",
-  "bairro": "Camboinha",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Camboinha;",
+    "cep": "58101283",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Avenida Tenente Sousa Assis;"
 }

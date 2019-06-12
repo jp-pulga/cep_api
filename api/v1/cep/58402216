@@ -1,12 +1,12 @@
 {
-  "cep": "58402216",
-  "logradouro": "Rua José Pinto Sobrinho",
-  "bairro": "Jardim Tavares",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Tavares;",
+    "cep": "58402216",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua José Pinto Sobrinho;"
 }

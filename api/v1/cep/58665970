@@ -1,12 +1,13 @@
 {
-  "cep": "58665970",
-  "logradouro": "AGC Tenório Rua 14 de Agosto 67",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tenório",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58665970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Tenório"
+    },
+    "ibge": 2516755,
+    "logradouro": "Rua 14 de Agosto, 67  AGC Tenório;"
 }

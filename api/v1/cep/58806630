@@ -1,12 +1,12 @@
 {
-  "cep": "58806630",
-  "logradouro": "Rua Afonso Pereira Gadelha",
-  "bairro": "Várzea da Cruz",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Várzea da Cruz;",
+    "cep": "58806630",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Afonso Pereira Gadelha;"
 }

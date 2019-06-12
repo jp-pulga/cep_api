@@ -1,12 +1,12 @@
 {
-  "cep": "58105780",
-  "logradouro": "Rua João de Souza Rocha",
-  "bairro": "Jacaré",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jacaré;",
+    "cep": "58105780",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua João de Souza Rocha;"
 }

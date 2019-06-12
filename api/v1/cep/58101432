@@ -1,12 +1,12 @@
 {
-  "cep": "58101432",
-  "logradouro": "Rua Raul de Souza Carvalho",
-  "bairro": "Poço",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Poço;",
+    "cep": "58101432",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Raul de Souza Carvalho;"
 }

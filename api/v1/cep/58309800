@@ -1,12 +1,12 @@
 {
-  "cep": "58309800",
-  "logradouro": "Rua Herbert de Souza",
-  "bairro": "Comercial Norte",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Comercial Norte;",
+    "cep": "58309800",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Herbert de Souza;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58806652",
-  "logradouro": "Rua Pedro Celeste",
-  "bairro": "Várzea da Cruz",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Várzea da Cruz;",
+    "cep": "58806652",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Pedro Celeste;"
 }

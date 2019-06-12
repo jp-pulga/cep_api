@@ -1,12 +1,12 @@
 {
-  "cep": "58106066",
-  "logradouro": "Rua Yolanda Souza da Costa",
-  "bairro": "Portal do Poço",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Portal do Poço;",
+    "cep": "58106066",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Yolanda Souza da Costa;"
 }

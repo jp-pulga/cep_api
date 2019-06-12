@@ -1,12 +1,12 @@
 {
-  "cep": "58400438",
-  "logradouro": "Rua Teixeira de Freitas",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "58400438",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Teixeira de Freitas;"
 }

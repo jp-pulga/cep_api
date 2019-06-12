@@ -1,12 +1,12 @@
 {
-  "cep": "58027794",
-  "logradouro": "Rua Farmacêutico Antônio Teixeira Lima",
-  "bairro": "Alto do Céu",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Céu;",
+    "cep": "58027794",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Farmacêutico Antônio Teixeira Lima;"
 }

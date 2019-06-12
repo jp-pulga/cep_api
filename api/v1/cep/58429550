@@ -1,12 +1,12 @@
 {
-  "cep": "58429550",
-  "logradouro": "Rua Manoel Tenório de Souza",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "58429550",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Manoel Tenório de Souza;"
 }
