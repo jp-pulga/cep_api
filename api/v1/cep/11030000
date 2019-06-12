@@ -1,12 +1,12 @@
 {
-  "cep": "11030000",
-  "logradouro": "Praça Engenheiro José Rebouças",
-  "bairro": "Ponta da Praia",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ponta da Praia;",
+    "cep": "11030000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Praça Engenheiro José Rebouças;"
 }

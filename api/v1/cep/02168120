@@ -1,12 +1,12 @@
 {
-  "cep": "02168120",
-  "logradouro": "Rua das Pitangas",
-  "bairro": "Conjunto Promorar Vila Maria III",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Promorar Vila Maria III;",
+    "cep": "02168120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua das Pitangas;"
 }

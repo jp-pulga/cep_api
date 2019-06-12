@@ -1,12 +1,12 @@
 {
-  "cep": "19013440",
-  "logradouro": "Rua Sebastião de Paula Freitas",
-  "bairro": "Jardim Bela Daria",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bela Daria;",
+    "cep": "19013440",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Sebastião de Paula Freitas;"
 }

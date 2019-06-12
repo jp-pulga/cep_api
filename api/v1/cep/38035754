@@ -1,12 +1,12 @@
 {
-  "cep": "38035754",
-  "logradouro": "Rua Professor Antônio Cavatorta",
-  "bairro": "Conjunto Maringá I",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Maringá I;",
+    "cep": "38035754",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Professor Antônio Cavatorta;"
 }

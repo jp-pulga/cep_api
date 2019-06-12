@@ -1,12 +1,12 @@
 {
-  "cep": "08245360",
-  "logradouro": "Rua Praia do Pinhão",
-  "bairro": "Jardim Beatriz (Zona Leste)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Beatriz (Zona Leste);",
+    "cep": "08245360",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Praia do Pinhão;"
 }

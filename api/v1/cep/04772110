@@ -1,12 +1,12 @@
 {
-  "cep": "04772110",
-  "logradouro": "Praça Maria Padilha Theodósio",
-  "bairro": "Jardim Santa Helena",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Helena;",
+    "cep": "04772110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Maria Padilha Theodósio;"
 }

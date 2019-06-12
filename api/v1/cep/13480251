@@ -1,12 +1,12 @@
 {
-  "cep": "13480251",
-  "logradouro": "Praça Professor Antônio de Queiroz",
-  "bairro": "Jardim Mercedes",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Mercedes;",
+    "cep": "13480251",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Praça Professor Antônio de Queiroz;"
 }

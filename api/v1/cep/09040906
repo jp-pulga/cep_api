@@ -1,12 +1,12 @@
 {
-  "cep": "09040906",
-  "logradouro": "Forum Comarca de Santo André Praça Quarto Centenário 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09040906",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo André"
+    },
+    "logradouro": "Praça Quarto Centenário, 03  Forum Comarca de Santo André;"
 }

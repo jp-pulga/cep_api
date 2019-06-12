@@ -1,12 +1,12 @@
 {
-  "cep": "03447065",
-  "logradouro": "Praça Mariópolis",
-  "bairro": "Vila Carrão",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Carrão;",
+    "cep": "03447065",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Mariópolis;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38020140",
-  "logradouro": "Travessa Professora Antônia Maria de Freitas",
-  "bairro": "Vila Maria Helena",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Maria Helena;",
+    "cep": "38020140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Travessa Professora Antônia Maria de Freitas;"
 }

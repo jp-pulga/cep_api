@@ -1,12 +1,12 @@
 {
-  "cep": "31680360",
-  "logradouro": "Rua Professora Rosinha Cendon",
-  "bairro": "Maria Helena",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Helena;",
+    "cep": "31680360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professora Rosinha Cendon;"
 }

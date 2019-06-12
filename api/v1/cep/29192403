@@ -1,12 +1,12 @@
 {
-  "cep": "29192403",
-  "logradouro": "Rua Praia das Palmeiras",
-  "bairro": "Sauaçu",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sauaçu;",
+    "cep": "29192403",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Praia das Palmeiras;"
 }

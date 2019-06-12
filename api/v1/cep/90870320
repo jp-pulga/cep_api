@@ -1,12 +1,12 @@
 {
-  "cep": "90870320",
-  "logradouro": "Praça George Black",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira;",
+    "cep": "90870320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça George Black;"
 }

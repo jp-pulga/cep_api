@@ -1,12 +1,12 @@
 {
-  "cep": "57046550",
-  "logradouro": "Rua Professora Mariluza Duarte Soares Dias (Res Serra Mar)",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "57046550",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Professora Mariluza Duarte Soares Dias (Res Serra Mar);"
 }

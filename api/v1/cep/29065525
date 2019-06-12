@@ -1,12 +1,12 @@
 {
-  "cep": "29065525",
-  "logradouro": "Rua Mercedes Resende",
-  "bairro": "Mata da Praia",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mata da Praia;",
+    "cep": "29065525",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Mercedes Resende;"
 }

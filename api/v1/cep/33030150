@@ -1,12 +1,12 @@
 {
-  "cep": "33030150",
-  "logradouro": "Rua Professor Aureliano Nestor Veado",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "33030150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Professor Aureliano Nestor Veado;"
 }

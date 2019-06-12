@@ -1,12 +1,12 @@
 {
-  "cep": "38030240",
-  "logradouro": "Praça Nossa Senhora das Graças",
-  "bairro": "Leblon",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Leblon;",
+    "cep": "38030240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Praça Nossa Senhora das Graças;"
 }

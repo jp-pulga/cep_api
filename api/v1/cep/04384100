@@ -1,12 +1,12 @@
 {
-  "cep": "04384100",
-  "logradouro": "Praça Luigi Palma",
-  "bairro": "Jardim Jabaquara",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Jabaquara;",
+    "cep": "04384100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Luigi Palma;"
 }

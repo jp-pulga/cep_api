@@ -1,12 +1,12 @@
 {
-  "cep": "89233415",
-  "logradouro": "Rua Cidade de Palotina",
-  "bairro": "Profipo",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Profipo;",
+    "cep": "89233415",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Cidade de Palotina;"
 }

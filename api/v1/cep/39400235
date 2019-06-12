@@ -1,12 +1,12 @@
 {
-  "cep": "39400235",
-  "logradouro": "Rua Menino Jesus de Praga",
-  "bairro": "Renascença",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Renascença;",
+    "cep": "39400235",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Menino Jesus de Praga;"
 }

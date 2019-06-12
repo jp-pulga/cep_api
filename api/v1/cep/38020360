@@ -1,12 +1,12 @@
 {
-  "cep": "38020360",
-  "logradouro": "Praça Princesa Isabel",
-  "bairro": "Vila Maria Helena",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Maria Helena;",
+    "cep": "38020360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Praça Princesa Isabel;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35060710",
-  "logradouro": "Travessa Primeiro",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "35060710",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Travessa Primeiro;"
 }

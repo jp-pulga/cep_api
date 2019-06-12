@@ -1,12 +1,12 @@
 {
-  "cep": "37902418",
-  "logradouro": "Rua dos Professores",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "37902418",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua dos Professores;"
 }

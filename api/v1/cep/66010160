@@ -1,12 +1,12 @@
 {
-  "cep": "66010160",
-  "logradouro": "Praça das Mercedes",
-  "bairro": "Campina",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Campina;",
+    "cep": "66010160",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Praça das Mercedes;"
 }

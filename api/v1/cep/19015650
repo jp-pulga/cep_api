@@ -1,12 +1,12 @@
 {
-  "cep": "19015650",
-  "logradouro": "Rua Maria da Glória",
-  "bairro": "Vila Santa Helena",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Helena;",
+    "cep": "19015650",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Maria da Glória;"
 }

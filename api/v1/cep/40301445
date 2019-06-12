@@ -1,12 +1,12 @@
 {
-  "cep": "40301445",
-  "logradouro": "Rua Professor Palma",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "40301445",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Professor Palma;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "11420190",
-  "logradouro": "Avenida Praxedes Pinto de Abreu",
-  "bairro": "Jardim Las Palmas",
-  "cidade": {
-    "nome": "Guarujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Las Palmas;",
+    "cep": "11420190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarujá"
+    },
+    "logradouro": "Avenida Praxedes Pinto de Abreu;"
 }

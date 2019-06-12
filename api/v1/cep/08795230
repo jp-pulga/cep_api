@@ -1,12 +1,12 @@
 {
-  "cep": "08795230",
-  "logradouro": "Praça Doutor José Carlos Pinhal",
-  "bairro": "Vila Natal",
-  "cidade": {
-    "nome": "Mogi das Cruzes",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Natal;",
+    "cep": "08795230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi das Cruzes"
+    },
+    "logradouro": "Praça Doutor José Carlos Pinhal;"
 }

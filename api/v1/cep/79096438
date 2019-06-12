@@ -1,12 +1,12 @@
 {
-  "cep": "79096438",
-  "logradouro": "Rua Macaco prego",
-  "bairro": "Rancho Alegre IV",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Rancho Alegre IV;",
+    "cep": "79096438",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Macaco prego;"
 }

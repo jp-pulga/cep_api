@@ -1,12 +1,12 @@
 {
-  "cep": "69053010",
-  "logradouro": "Rua Nova Prata",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "69053010",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Nova Prata;"
 }

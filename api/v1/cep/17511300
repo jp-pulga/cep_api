@@ -1,12 +1,12 @@
 {
-  "cep": "17511300",
-  "logradouro": "Rua Júlio Preto",
-  "bairro": "Palmital",
-  "cidade": {
-    "nome": "Marília",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Palmital;",
+    "cep": "17511300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Marília"
+    },
+    "logradouro": "Rua Júlio Preto;"
 }

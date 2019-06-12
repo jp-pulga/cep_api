@@ -1,12 +1,12 @@
 {
-  "cep": "09980005",
-  "logradouro": "Praça Nossa Senhora das Graças (Jd Ruyce)",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "09980005",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Praça Nossa Senhora das Graças (Jd Ruyce);"
 }

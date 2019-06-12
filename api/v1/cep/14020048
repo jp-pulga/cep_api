@@ -1,12 +1,12 @@
 {
-  "cep": "14020048",
-  "logradouro": "Travessa Marilena",
-  "bairro": "Vila Seixas",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Seixas;",
+    "cep": "14020048",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Travessa Marilena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "03192230",
-  "logradouro": "Praça Pien",
-  "bairro": "Vila Oratório",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Oratório;",
+    "cep": "03192230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Pien;"
 }

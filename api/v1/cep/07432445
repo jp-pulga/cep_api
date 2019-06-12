@@ -1,12 +1,12 @@
 {
-  "cep": "07432445",
-  "logradouro": "Rua das Pitangueiras",
-  "bairro": "Recanto Primavera",
-  "cidade": {
-    "nome": "Arujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto Primavera;",
+    "cep": "07432445",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Arujá"
+    },
+    "logradouro": "Rua das Pitangueiras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "09913000",
-  "logradouro": "Avenida Presidente Kennedy (Jd Pitangueiras)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09913000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Avenida Presidente Kennedy (Jd Pitangueiras);"
 }

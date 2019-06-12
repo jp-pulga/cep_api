@@ -1,12 +1,12 @@
 {
-  "cep": "57017030",
-  "logradouro": "Praça Nossa Senhora das Graças",
-  "bairro": "Levada",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Levada;",
+    "cep": "57017030",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Praça Nossa Senhora das Graças;"
 }

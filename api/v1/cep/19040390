@@ -1,12 +1,12 @@
 {
-  "cep": "19040390",
-  "logradouro": "Rua Mercedes Cabrini Menotti",
-  "bairro": "Jardim São Pedro",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Pedro;",
+    "cep": "19040390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Mercedes Cabrini Menotti;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "11666831",
-  "logradouro": "Avenida Domingos Martins Cabrera ( Praia das Palmeiras )",
-  "bairro": "Balneário Recanto do Sol",
-  "cidade": {
-    "nome": "Caraguatatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Balneário Recanto do Sol;",
+    "cep": "11666831",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caraguatatuba"
+    },
+    "logradouro": "Avenida Domingos Martins Cabrera ( Praia das Palmeiras );"
 }

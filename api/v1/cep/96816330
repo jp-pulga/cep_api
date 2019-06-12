@@ -1,12 +1,12 @@
 {
-  "cep": "96816330",
-  "logradouro": "Rua Professor Henrique Carlos Elsenbruch",
-  "bairro": "Renascença",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Renascença;",
+    "cep": "96816330",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Professor Henrique Carlos Elsenbruch;"
 }

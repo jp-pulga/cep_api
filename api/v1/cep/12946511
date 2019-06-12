@@ -1,12 +1,12 @@
 {
-  "cep": "12946511",
-  "logradouro": "Praça Marilena",
-  "bairro": "Vila Petrópolis",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Petrópolis;",
+    "cep": "12946511",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Praça Marilena;"
 }

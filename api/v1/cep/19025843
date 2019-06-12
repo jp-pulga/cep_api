@@ -1,12 +1,12 @@
 {
-  "cep": "19025843",
-  "logradouro": "Rua Manoel Fernandes Ribas",
-  "bairro": "Jardim São Sebastião",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Sebastião;",
+    "cep": "19025843",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Manoel Fernandes Ribas;"
 }

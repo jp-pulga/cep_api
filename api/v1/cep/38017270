@@ -1,12 +1,12 @@
 {
-  "cep": "38017270",
-  "logradouro": "Praça Doutor José Pereira Rebouças",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "38017270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Praça Doutor José Pereira Rebouças;"
 }

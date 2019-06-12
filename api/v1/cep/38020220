@@ -1,12 +1,12 @@
 {
-  "cep": "38020220",
-  "logradouro": "Travessa Wilson José Prata",
-  "bairro": "Vila Maria Helena",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Maria Helena;",
+    "cep": "38020220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Travessa Wilson José Prata;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89253829",
-  "logradouro": "Rua Prudentópolis",
-  "bairro": "Tifa Martins",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tifa Martins;",
+    "cep": "89253829",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua Prudentópolis;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12043358",
-  "logradouro": "Praça Dona Mercedes Ponzoni",
-  "bairro": "Quiririm",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Quiririm;",
+    "cep": "12043358",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Praça Dona Mercedes Ponzoni;"
 }

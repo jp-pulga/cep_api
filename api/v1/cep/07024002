@@ -1,12 +1,12 @@
 {
-  "cep": "07024002",
-  "logradouro": "Praça Quarto Centenário",
-  "bairro": "Jardim Santa Francisca",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Francisca;",
+    "cep": "07024002",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Praça Quarto Centenário;"
 }

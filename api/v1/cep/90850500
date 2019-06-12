@@ -1,12 +1,12 @@
 {
-  "cep": "90850500",
-  "logradouro": "Praça Montese",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira;",
+    "cep": "90850500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Montese;"
 }

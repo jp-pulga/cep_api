@@ -1,12 +1,12 @@
 {
-  "cep": "19050190",
-  "logradouro": "Rua Marechal Cândido Rondon de 211/212 ao fim",
-  "bairro": "Vila Formosa",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Formosa;",
+    "cep": "19050190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Marechal Cândido Rondon - de 211\/212 ao fim;"
 }

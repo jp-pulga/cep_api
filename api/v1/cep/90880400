@@ -1,12 +1,12 @@
 {
-  "cep": "90880400",
-  "logradouro": "Praça Grêmio Foot-Ball Porto Alegrense",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira;",
+    "cep": "90880400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Grêmio Foot-Ball Porto Alegrense;"
 }

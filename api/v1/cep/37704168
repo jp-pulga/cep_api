@@ -1,12 +1,12 @@
 {
-  "cep": "37704168",
-  "logradouro": "Avenida Saul do Prado Brandão",
-  "bairro": "Parque Nova Aurora",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Nova Aurora;",
+    "cep": "37704168",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Avenida Saul do Prado Brandão;"
 }

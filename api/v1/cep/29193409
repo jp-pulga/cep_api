@@ -1,12 +1,12 @@
 {
-  "cep": "29193409",
-  "logradouro": "Rua Praia das Palmeiras",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "29193409",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Praia das Palmeiras;"
 }

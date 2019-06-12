@@ -1,12 +1,12 @@
 {
-  "cep": "09845360",
-  "logradouro": "Rua Professor Nelson Monteiro Palma (Prq das Flores)",
-  "bairro": "Dos Casa",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Dos Casa;",
+    "cep": "09845360",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Professor Nelson Monteiro Palma (Prq das Flores);"
 }

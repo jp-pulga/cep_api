@@ -1,12 +1,12 @@
 {
-  "cep": "64015461",
-  "logradouro": "Rua Professora Maria Helena Nunes",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "64015461",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professora Maria Helena Nunes;"
 }

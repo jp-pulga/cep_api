@@ -1,12 +1,12 @@
 {
-  "cep": "78070510",
-  "logradouro": "Rua Palmital",
-  "bairro": "Praeiro",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Praeiro;",
+    "cep": "78070510",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Palmital;"
 }

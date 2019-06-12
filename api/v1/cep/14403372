@@ -1,12 +1,12 @@
 {
-  "cep": "14403372",
-  "logradouro": "Praça Maria Helena Teixeira",
-  "bairro": "Vila Industrial",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Industrial;",
+    "cep": "14403372",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Praça Maria Helena Teixeira;"
 }

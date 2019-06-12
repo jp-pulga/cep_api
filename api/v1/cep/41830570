@@ -1,12 +1,12 @@
 {
-  "cep": "41830570",
-  "logradouro": "Rua Professor Diógenes Rebouças",
-  "bairro": "Pituba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pituba;",
+    "cep": "41830570",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Professor Diógenes Rebouças;"
 }

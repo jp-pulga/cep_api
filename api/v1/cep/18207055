@@ -1,12 +1,12 @@
 {
-  "cep": "18207055",
-  "logradouro": "Rua Olga Palma Prestes",
-  "bairro": "Vila Francisca",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Francisca;",
+    "cep": "18207055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Olga Palma Prestes;"
 }

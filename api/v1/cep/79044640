@@ -1,12 +1,12 @@
 {
-  "cep": "79044640",
-  "logradouro": "Rua Prudentópolis",
-  "bairro": "Panorama",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Panorama;",
+    "cep": "79044640",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Prudentópolis;"
 }

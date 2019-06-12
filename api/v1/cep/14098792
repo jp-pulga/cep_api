@@ -1,12 +1,12 @@
 {
-  "cep": "14098792",
-  "logradouro": "Condomínio Pitangueiras",
-  "bairro": "Condomínio Pitangueiras",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Condomínio Pitangueiras;",
+    "cep": "14098792",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Condomínio Pitangueiras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "08411300",
-  "logradouro": "Rua Professor Tadeu",
-  "bairro": "Vila Marilena",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Marilena;",
+    "cep": "08411300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Tadeu;"
 }

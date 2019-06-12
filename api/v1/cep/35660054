@@ -1,12 +1,12 @@
 {
-  "cep": "35660054",
-  "logradouro": "Rua Antônio Praxedes",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "35660054",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Antônio Praxedes;"
 }

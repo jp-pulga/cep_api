@@ -1,12 +1,12 @@
 {
-  "cep": "41760170",
-  "logradouro": "Rua Professora Maria Helena Fonsêca",
-  "bairro": "Costa Azul",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Costa Azul;",
+    "cep": "41760170",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Professora Maria Helena Fonsêca;"
 }

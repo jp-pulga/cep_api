@@ -1,12 +1,12 @@
 {
-  "cep": "29066150",
-  "logradouro": "Rua José de Almeida Rebouças",
-  "bairro": "Mata da Praia",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mata da Praia;",
+    "cep": "29066150",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua José de Almeida Rebouças;"
 }

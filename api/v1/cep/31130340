@@ -1,12 +1,12 @@
 {
-  "cep": "31130340",
-  "logradouro": "Praça Inconfidência Mineira",
-  "bairro": "Renascença",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Renascença;",
+    "cep": "31130340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Inconfidência Mineira;"
 }

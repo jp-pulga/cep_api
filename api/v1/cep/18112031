@@ -1,12 +1,12 @@
 {
-  "cep": "18112031",
-  "logradouro": "Rua Projetada",
-  "bairro": "Vila Mercedes",
-  "cidade": {
-    "nome": "Votorantim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Mercedes;",
+    "cep": "18112031",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Votorantim"
+    },
+    "logradouro": "Rua Projetada;"
 }

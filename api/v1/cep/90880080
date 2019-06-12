@@ -1,12 +1,12 @@
 {
-  "cep": "90880080",
-  "logradouro": "Praça Juventude Thiago de Moraes Gonzaga",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira;",
+    "cep": "90880080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Juventude Thiago de Moraes Gonzaga;"
 }

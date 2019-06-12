@@ -1,12 +1,12 @@
 {
-  "cep": "64018627",
-  "logradouro": "Praça Elisa Alves",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "64018627",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Praça Elisa Alves;"
 }
