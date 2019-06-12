@@ -1,12 +1,13 @@
 {
-  "cep": "46350970",
-  "logradouro": "AC Urandi Travessa Doutor Luís Gomes 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Urandi",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46350970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Urandi"
+    },
+    "ibge": 2932606,
+    "logradouro": "Travessa Doutor Luís Gomes, 01  AC Urandi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44053420",
-  "logradouro": "Caminho Una",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "44053420",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Caminho Una;"
 }

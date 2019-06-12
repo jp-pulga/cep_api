@@ -1,12 +1,13 @@
 {
-  "cep": "45400973",
-  "logradouro": "AGC Guaibim Rua Tamarineiro s/n",
-  "bairro": "Guaibim",
-  "cidade": {
-    "nome": "Valença",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Guaibim;",
+    "cep": "45400973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Valença"
+    },
+    "ibge": 2932903,
+    "logradouro": "Rua Tamarineiro s\/n  AGC Guaibim;"
 }

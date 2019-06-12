@@ -1,12 +1,12 @@
 {
-  "cep": "41815270",
-  "logradouro": "Rua Wanderley Pinho",
-  "bairro": "Itaigara",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itaigara;",
+    "cep": "41815270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Wanderley Pinho;"
 }

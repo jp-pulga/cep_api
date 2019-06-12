@@ -1,12 +1,12 @@
 {
-  "cep": "91230500",
-  "logradouro": "Acesso Ceres-Norte",
-  "bairro": "Passo das Pedras",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo das Pedras;",
+    "cep": "91230500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso Ceres-Norte;"
 }

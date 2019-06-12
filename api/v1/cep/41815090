@@ -1,12 +1,12 @@
 {
-  "cep": "41815090",
-  "logradouro": "Rua Oswaldo Valente",
-  "bairro": "Itaigara",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itaigara;",
+    "cep": "41815090",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Oswaldo Valente;"
 }

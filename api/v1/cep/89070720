@@ -1,12 +1,12 @@
 {
-  "cep": "89070720",
-  "logradouro": "Rua Mathilde Wagner",
-  "bairro": "Badenfurt",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Badenfurt;",
+    "cep": "89070720",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Mathilde Wagner;"
 }

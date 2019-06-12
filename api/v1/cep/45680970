@@ -1,12 +1,13 @@
 {
-  "cep": "45680970",
-  "logradouro": "AC Uruçuca Rua Lomanto Júnior s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uruçuca",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45680970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Uruçuca"
+    },
+    "ibge": 2932705,
+    "logradouro": "Rua Lomanto Júnior, s\/n  AC Uruçuca;"
 }

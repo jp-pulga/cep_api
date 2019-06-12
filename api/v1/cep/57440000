@@ -1,12 +1,11 @@
 {
-  "cep": "57440000",
-  "logradouro": "Monteirópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Monteirópolis",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57440000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Monteirópolis"
+    },
+    "ibge": 2705408
 }

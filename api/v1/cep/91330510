@@ -1,12 +1,12 @@
 {
-  "cep": "91330510",
-  "logradouro": "Rua Monte Alverne",
-  "bairro": "Chácara das Pedras",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Chácara das Pedras;",
+    "cep": "91330510",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Monte Alverne;"
 }

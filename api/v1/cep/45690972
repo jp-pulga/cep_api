@@ -1,12 +1,13 @@
 {
-  "cep": "45690972",
-  "logradouro": "AGC Comandatuba Praça São Sebastião s/n",
-  "bairro": "Comandatuba",
-  "cidade": {
-    "nome": "Una",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Comandatuba;",
+    "cep": "45690972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Una"
+    },
+    "ibge": 2932507,
+    "logradouro": "Praça São Sebastião, s\/n  AGC Comandatuba;"
 }

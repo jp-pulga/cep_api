@@ -1,12 +1,13 @@
 {
-  "cep": "45052100",
-  "logradouro": "Rua A (Urbis II e III)",
-  "bairro": "Bateias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bateias;",
+    "cep": "45052100",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "ibge": 2933307,
+    "logradouro": "Rua A (Urbis II e III);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91230560",
-  "logradouro": "Praça Coronel Alberto Walter de Almeida",
-  "bairro": "Passo das Pedras",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo das Pedras;",
+    "cep": "91230560",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Coronel Alberto Walter de Almeida;"
 }

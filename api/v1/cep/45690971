@@ -1,12 +1,13 @@
 {
-  "cep": "45690971",
-  "logradouro": "AGC Pedras de Una Rua da Linha s/n",
-  "bairro": "Pedras de Una",
-  "cidade": {
-    "nome": "Una",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pedras de Una;",
+    "cep": "45690971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Una"
+    },
+    "ibge": 2932507,
+    "logradouro": "Rua da Linha, s\/n  AGC Pedras de Una;"
 }

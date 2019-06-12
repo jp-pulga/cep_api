@@ -1,12 +1,13 @@
 {
-  "cep": "45690974",
-  "logradouro": "AGC Vila Brasil Avenida Ilhéus s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Una",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45690974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Una"
+    },
+    "ibge": 2932507,
+    "logradouro": "Avenida Ilhéus, s\/n  AGC Vila Brasil;"
 }

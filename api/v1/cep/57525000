@@ -1,12 +1,11 @@
 {
-  "cep": "57525000",
-  "logradouro": "Ouro Branco",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ouro Branco",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57525000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Ouro Branco"
+    },
+    "ibge": 2706109
 }

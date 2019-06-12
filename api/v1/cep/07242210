@@ -1,12 +1,12 @@
 {
-  "cep": "07242210",
-  "logradouro": "Rua Pindoba",
-  "bairro": "Cidade Parque Alvorada",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Parque Alvorada;",
+    "cep": "07242210",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Pindoba;"
 }

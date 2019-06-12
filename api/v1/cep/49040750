@@ -1,12 +1,12 @@
 {
-  "cep": "49040750",
-  "logradouro": "Rua José Gonçalves Valença",
-  "bairro": "Inácio Barbosa",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Inácio Barbosa;",
+    "cep": "49040750",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua José Gonçalves Valença;"
 }

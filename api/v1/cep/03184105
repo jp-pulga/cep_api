@@ -1,12 +1,12 @@
 {
-  "cep": "03184105",
-  "logradouro": "Vila Jacinto",
-  "bairro": "Alto da Mooca",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alto da Mooca;",
+    "cep": "03184105",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Vila Jacinto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40414400",
-  "logradouro": "Rua Claudionor Wanderlei",
-  "bairro": "Boa Viagem",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boa Viagem;",
+    "cep": "40414400",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Claudionor Wanderlei;"
 }

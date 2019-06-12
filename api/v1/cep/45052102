@@ -1,12 +1,13 @@
 {
-  "cep": "45052102",
-  "logradouro": "Caminho Dezessete (Urbis III)",
-  "bairro": "Bateias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bateias;",
+    "cep": "45052102",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "ibge": 2933307,
+    "logradouro": "Caminho Dezessete (Urbis III);"
 }

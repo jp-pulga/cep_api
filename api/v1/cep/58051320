@@ -1,12 +1,12 @@
 {
-  "cep": "58051320",
-  "logradouro": "Rua Bancário Wagner Alexandrino Bezerra Japyassu",
-  "bairro": "Bancários",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Bancários;",
+    "cep": "58051320",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Bancário Wagner Alexandrino Bezerra Japyassu;"
 }

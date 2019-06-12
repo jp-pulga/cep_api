@@ -1,12 +1,12 @@
 {
-  "cep": "49015130",
-  "logradouro": "Praça Tobias Barreto",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "49015130",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Praça Tobias Barreto;"
 }

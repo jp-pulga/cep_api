@@ -1,12 +1,12 @@
 {
-  "cep": "45660570",
-  "logradouro": "Rua Almerindo Sarmento",
-  "bairro": "Olivença",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Olivença;",
+    "cep": "45660570",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Almerindo Sarmento;"
 }

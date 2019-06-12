@@ -1,12 +1,12 @@
 {
-  "cep": "57308620",
-  "logradouro": "Rua Passo de Camaragibe",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "57308620",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Passo de Camaragibe;"
 }

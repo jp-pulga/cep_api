@@ -1,12 +1,12 @@
 {
-  "cep": "57080101",
-  "logradouro": "2ª Travessa Pão de Açúcar",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "57080101",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "2ª Travessa Pão de Açúcar;"
 }

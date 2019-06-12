@@ -1,12 +1,13 @@
 {
-  "cep": "57720970",
-  "logradouro": "AC Pindoba Rua do Comércio 33",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pindoba",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57720970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Pindoba"
+    },
+    "ibge": 2707008,
+    "logradouro": "Rua do Comércio, 33  AC Pindoba;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47803795",
-  "logradouro": "Rua Vereda Tropical",
-  "bairro": "Alphaville",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alphaville;",
+    "cep": "47803795",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Vereda Tropical;"
 }

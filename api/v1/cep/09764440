@@ -1,12 +1,12 @@
 {
-  "cep": "09764440",
-  "logradouro": "Viela Utinga",
-  "bairro": "Nova Baeta",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Nova Baeta;",
+    "cep": "09764440",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Viela Utinga;"
 }

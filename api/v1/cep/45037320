@@ -1,12 +1,13 @@
 {
-  "cep": "45037320",
-  "logradouro": "Rodovia BA-415",
-  "bairro": "Espírito Santo",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Espírito Santo;",
+    "cep": "45037320",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "ibge": 2933307,
+    "logradouro": "Rodovia BA-415;"
 }

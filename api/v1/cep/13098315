@@ -1,12 +1,12 @@
 {
-  "cep": "13098315",
-  "logradouro": "Rua Murici",
-  "bairro": "Loteamento Alphaville Campinas",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Loteamento Alphaville Campinas;",
+    "cep": "13098315",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Murici;"
 }

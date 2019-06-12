@@ -1,12 +1,12 @@
 {
-  "cep": "29032406",
-  "logradouro": "Rua Getúlio Alvarenga",
-  "bairro": "Nova Palestina",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Palestina;",
+    "cep": "29032406",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Getúlio Alvarenga;"
 }

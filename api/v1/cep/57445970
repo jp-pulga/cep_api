@@ -1,12 +1,13 @@
 {
-  "cep": "57445970",
-  "logradouro": "AC São José da Tapera Rua 24 de Dezembro 65",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Tapera",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57445970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "São José da Tapera"
+    },
+    "ibge": 2708402,
+    "logradouro": "Rua 24 de Dezembro, 65  AC São José da Tapera;"
 }

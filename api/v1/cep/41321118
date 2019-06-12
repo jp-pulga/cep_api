@@ -1,12 +1,12 @@
 {
-  "cep": "41321118",
-  "logradouro": "Rua Eustácio Valente de Lima",
-  "bairro": "Castelo Branco",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Castelo Branco;",
+    "cep": "41321118",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Eustácio Valente de Lima;"
 }

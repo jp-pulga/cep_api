@@ -1,12 +1,12 @@
 {
-  "cep": "12043022",
-  "logradouro": "Rua Paulo Wagner de Barros Santos",
-  "bairro": "Cecap",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cecap;",
+    "cep": "12043022",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Paulo Wagner de Barros Santos;"
 }

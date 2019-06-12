@@ -1,12 +1,12 @@
 {
-  "cep": "38181568",
-  "logradouro": "Rua Guiomar Alves da Silva",
-  "bairro": "Conjunto Habitacional Pão de Açúcar",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Pão de Açúcar;",
+    "cep": "38181568",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Guiomar Alves da Silva;"
 }

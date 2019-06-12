@@ -1,12 +1,12 @@
 {
-  "cep": "88810065",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "88810065",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

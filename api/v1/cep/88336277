@@ -1,12 +1,12 @@
 {
-  "cep": "88336277",
-  "logradouro": "Rua Acadêmico Wagner Nathan de Castro (Lot. Jd. Primavera)",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "88336277",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Rua Acadêmico Wagner Nathan de Castro (Lot. Jd. Primavera);"
 }

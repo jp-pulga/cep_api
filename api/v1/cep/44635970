@@ -1,12 +1,13 @@
 {
-  "cep": "44635970",
-  "logradouro": "AC Várzea da Roça Praça Alfredo Navarro 437",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Várzea da Roça",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44635970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Várzea da Roça"
+    },
+    "ibge": 2933059,
+    "logradouro": "Praça Alfredo Navarro, 437  AC Várzea da Roça;"
 }

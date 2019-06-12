@@ -1,12 +1,12 @@
 {
-  "cep": "13221591",
-  "logradouro": "Rua João de Barro",
-  "bairro": "Cidade Nova II",
-  "cidade": {
-    "nome": "Várzea Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Nova II;",
+    "cep": "13221591",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Várzea Paulista"
+    },
+    "logradouro": "Rua João de Barro;"
 }

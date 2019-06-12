@@ -1,12 +1,12 @@
 {
-  "cep": "29145785",
-  "logradouro": "Rua Alice",
-  "bairro": "Vila Palestina",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Palestina;",
+    "cep": "29145785",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Alice;"
 }

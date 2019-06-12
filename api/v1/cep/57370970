@@ -1,12 +1,13 @@
 {
-  "cep": "57370970",
-  "logradouro": "AC Traipu Rua Senador Serapião s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Traipu",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57370970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Traipu"
+    },
+    "ibge": 2709202,
+    "logradouro": "Rua Senador Serapião, s\/n  AC Traipu;"
 }

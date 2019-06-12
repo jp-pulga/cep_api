@@ -1,12 +1,13 @@
 {
-  "cep": "45052196",
-  "logradouro": "Caminho Dez (Lot Sta Cruz)",
-  "bairro": "Bateias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bateias;",
+    "cep": "45052196",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "ibge": 2933307,
+    "logradouro": "Caminho Dez (Lot Sta Cruz);"
 }

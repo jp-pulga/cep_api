@@ -1,12 +1,12 @@
 {
-  "cep": "03687010",
-  "logradouro": "Avenida Nicolau Jacinto",
-  "bairro": "Jardim Artur Alvim",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Artur Alvim;",
+    "cep": "03687010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Nicolau Jacinto;"
 }

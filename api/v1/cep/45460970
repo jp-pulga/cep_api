@@ -1,12 +1,13 @@
 {
-  "cep": "45460970",
-  "logradouro": "AC Wenceslau Guimarães Rua Otaviano Santos Lisboa 259",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Wenceslau Guimarães",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45460970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Wenceslau Guimarães"
+    },
+    "ibge": 2933505,
+    "logradouro": "Rua Otaviano Santos Lisboa, 259  AC Wenceslau Guimarães;"
 }

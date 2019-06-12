@@ -1,12 +1,13 @@
 {
-  "cep": "44690970",
-  "logradouro": "AC Várzea Nova Rua Padre Alfredo Haasler 24",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Várzea Nova",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44690970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Várzea Nova"
+    },
+    "ibge": 2933158,
+    "logradouro": "Rua Padre Alfredo Haasler, 108  AC Várzea Nova;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91330240",
-  "logradouro": "Rua Doutor Rodrigues Alves",
-  "bairro": "Chácara das Pedras",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Chácara das Pedras;",
+    "cep": "91330240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Doutor Rodrigues Alves;"
 }

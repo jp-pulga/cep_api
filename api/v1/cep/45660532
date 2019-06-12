@@ -1,12 +1,12 @@
 {
-  "cep": "45660532",
-  "logradouro": "Rua Alto Alegre",
-  "bairro": "Olivença",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Olivença;",
+    "cep": "45660532",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Alto Alegre;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57308480",
-  "logradouro": "Rua Paulo Jacinto",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "57308480",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Paulo Jacinto;"
 }

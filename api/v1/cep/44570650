@@ -1,12 +1,12 @@
 {
-  "cep": "44570650",
-  "logradouro": "Rua Cidade de Valença",
-  "bairro": "Maria Preta",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Maria Preta;",
+    "cep": "44570650",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "logradouro": "Rua Cidade de Valença;"
 }

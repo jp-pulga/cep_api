@@ -1,12 +1,11 @@
 {
-  "cep": "57410000",
-  "logradouro": "Palestina",
-  "bairro": "",
-  "cidade": {
-    "nome": "Palestina",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57410000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palestina"
+    },
+    "ibge": 2706208
 }

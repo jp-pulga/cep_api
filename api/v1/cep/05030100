@@ -1,12 +1,12 @@
 {
-  "cep": "05030100",
-  "logradouro": "Rua Estevão Barbosa",
-  "bairro": "Jardim Vera Cruz",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Vera Cruz;",
+    "cep": "05030100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Estevão Barbosa;"
 }

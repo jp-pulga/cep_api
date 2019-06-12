@@ -1,12 +1,12 @@
 {
-  "cep": "58040912",
-  "logradouro": "Supermercado Pão de Açúcar - Torre Avenida Ministro José Américo de Almeida 676",
-  "bairro": "Torre",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Torre;",
+    "cep": "58040912",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida Ministro José Américo de Almeida, 676  Supermercado Pão de Açúcar - Torre;"
 }

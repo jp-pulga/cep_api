@@ -1,12 +1,12 @@
 {
-  "cep": "57313740",
-  "logradouro": "Rua São Judas Tadeu",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "57313740",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua São Judas Tadeu;"
 }

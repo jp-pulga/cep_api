@@ -1,12 +1,13 @@
 {
-  "cep": "47940970",
-  "logradouro": "AC Wanderley Avenida São Vicente de Paula 28",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Wanderley",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47940970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Wanderley"
+    },
+    "ibge": 2933455,
+    "logradouro": "Avenida São Vicente de Paula, 28  AC Wanderley;"
 }

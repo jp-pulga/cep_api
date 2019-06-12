@@ -1,12 +1,13 @@
 {
-  "cep": "45000625",
-  "logradouro": "Praça Sá Barreto",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45000625",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "ibge": 2933307,
+    "logradouro": "Praça Sá Barreto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47800617",
-  "logradouro": "Rua Wanderley",
-  "bairro": "Rio Grande",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Grande;",
+    "cep": "47800617",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Wanderley;"
 }

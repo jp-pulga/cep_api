@@ -1,12 +1,12 @@
 {
-  "cep": "45652040",
-  "logradouro": "Travessa Wenceslau Guimarães",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "45652040",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Travessa Wenceslau Guimarães;"
 }

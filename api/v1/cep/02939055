@@ -1,12 +1,12 @@
 {
-  "cep": "02939055",
-  "logradouro": "Praça Jacinto Alberto",
-  "bairro": "Jardim Cidade Pirituba",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Cidade Pirituba;",
+    "cep": "02939055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Jacinto Alberto;"
 }

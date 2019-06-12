@@ -1,12 +1,12 @@
 {
-  "cep": "45414000",
-  "logradouro": "Serra Grande (Valença)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Serra Grande (Valença)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serra Grande",
+    "cep": "45414000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Valença"
+    },
+    "ibge": 2932903
 }

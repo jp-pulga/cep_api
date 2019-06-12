@@ -1,12 +1,12 @@
 {
-  "cep": "66063028",
-  "logradouro": "Alameda Residencial São Miguel",
-  "bairro": "São Brás",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São Brás;",
+    "cep": "66063028",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Alameda Residencial São Miguel;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44635971",
-  "logradouro": "AGC Campo de São João Rua Maria Madalena s/n",
-  "bairro": "Campo de São João",
-  "cidade": {
-    "nome": "Várzea da Roça",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Campo de São João;",
+    "cep": "44635971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Várzea da Roça"
+    },
+    "ibge": 2933059,
+    "logradouro": "Rua Maria Madalena, s\/n  AGC Campo de São João;"
 }

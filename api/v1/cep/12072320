@@ -1,12 +1,12 @@
 {
-  "cep": "12072320",
-  "logradouro": "Rua Alcides Ballarini",
-  "bairro": "UNA",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "UNA;",
+    "cep": "12072320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Alcides Ballarini;"
 }

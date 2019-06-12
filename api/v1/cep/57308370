@@ -1,12 +1,12 @@
 {
-  "cep": "57308370",
-  "logradouro": "Avenida Pão de Açúcar",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "57308370",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Avenida Pão de Açúcar;"
 }

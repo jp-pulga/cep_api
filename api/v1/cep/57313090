@@ -1,12 +1,12 @@
 {
-  "cep": "57313090",
-  "logradouro": "Rua São Nicolau",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "57313090",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua São Nicolau;"
 }

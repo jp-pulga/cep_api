@@ -1,12 +1,12 @@
 {
-  "cep": "41400050",
-  "logradouro": "Rua Utinga",
-  "bairro": "CEASA",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "CEASA;",
+    "cep": "41400050",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Utinga;"
 }

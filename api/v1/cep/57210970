@@ -1,12 +1,13 @@
 {
-  "cep": "57210970",
-  "logradouro": "AC Piaçabuçu Praça Centenário s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piaçabuçu",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57210970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Piaçabuçu"
+    },
+    "ibge": 2706802,
+    "logradouro": "Praça Centenário, s\/n  AC Piaçabuçu;"
 }

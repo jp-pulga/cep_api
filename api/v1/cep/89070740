@@ -1,12 +1,12 @@
 {
-  "cep": "89070740",
-  "logradouro": "Rua Paulina Wagner",
-  "bairro": "Badenfurt",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Badenfurt;",
+    "cep": "89070740",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Paulina Wagner;"
 }

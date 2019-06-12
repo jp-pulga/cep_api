@@ -1,12 +1,12 @@
 {
-  "cep": "45658262",
-  "logradouro": "Rodovia Ilhéus-Uruçuca",
-  "bairro": "Jardim Savóia",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Savóia;",
+    "cep": "45658262",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rodovia Ilhéus-Uruçuca;"
 }

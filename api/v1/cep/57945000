@@ -1,12 +1,11 @@
 {
-  "cep": "57945000",
-  "logradouro": "Porto de Pedras",
-  "bairro": "",
-  "cidade": {
-    "nome": "Porto de Pedras",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57945000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Porto de Pedras"
+    },
+    "ibge": 2707404
 }

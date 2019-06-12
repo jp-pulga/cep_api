@@ -1,12 +1,12 @@
 {
-  "cep": "41480140",
-  "logradouro": "Rua Jorge Valente Filho",
-  "bairro": "Mussurunga II",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mussurunga II;",
+    "cep": "41480140",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Jorge Valente Filho;"
 }

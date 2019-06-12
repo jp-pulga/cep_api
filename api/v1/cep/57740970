@@ -1,12 +1,13 @@
 {
-  "cep": "57740970",
-  "logradouro": "AC Paulo Jacinto Rua João Cassiano Costa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulo Jacinto",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57740970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Paulo Jacinto"
+    },
+    "ibge": 2706604,
+    "logradouro": "Rua João Cassiano Costa, s\/n  AC Paulo Jacinto;"
 }

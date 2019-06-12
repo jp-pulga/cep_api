@@ -1,12 +1,12 @@
 {
-  "cep": "44092408",
-  "logradouro": "Rua Unaí",
-  "bairro": "Tomba",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tomba;",
+    "cep": "44092408",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Unaí;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57860970",
-  "logradouro": "AC São José da Laje Avenida Valdemar Pontes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Laje",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57860970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "São José da Laje"
+    },
+    "ibge": 2708303,
+    "logradouro": "Avenida Valdemar Pontes, s\/n  AC São José da Laje;"
 }

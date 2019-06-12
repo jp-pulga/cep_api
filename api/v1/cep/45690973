@@ -1,12 +1,13 @@
 {
-  "cep": "45690973",
-  "logradouro": "AGC Colônia Rua Central s/n",
-  "bairro": "Colônia",
-  "cidade": {
-    "nome": "Una",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Colônia;",
+    "cep": "45690973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Una"
+    },
+    "ibge": 2932507,
+    "logradouro": "Rua Central, s\/n  AGC Colônia;"
 }

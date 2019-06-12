@@ -1,12 +1,12 @@
 {
-  "cep": "40415270",
-  "logradouro": "Rua Professor Gilberto Valente",
-  "bairro": "Bonfim",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bonfim;",
+    "cep": "40415270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Professor Gilberto Valente;"
 }

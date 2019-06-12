@@ -1,12 +1,12 @@
 {
-  "cep": "14783129",
-  "logradouro": "Praça Padre Valente",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Barretos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "14783129",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barretos"
+    },
+    "logradouro": "Praça Padre Valente;"
 }

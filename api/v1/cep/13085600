@@ -1,12 +1,12 @@
 {
-  "cep": "13085600",
-  "logradouro": "Rua Wagner Campos Dias",
-  "bairro": "Residencial Terras do Barão",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Terras do Barão;",
+    "cep": "13085600",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Wagner Campos Dias;"
 }

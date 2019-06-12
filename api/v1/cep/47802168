@@ -1,12 +1,12 @@
 {
-  "cep": "47802168",
-  "logradouro": "Rua João Fernando Alves Queiroz",
-  "bairro": "Jardim Ouro Branco",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Ouro Branco;",
+    "cep": "47802168",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua João Fernando Alves Queiroz;"
 }

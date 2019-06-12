@@ -1,12 +1,12 @@
 {
-  "cep": "57312040",
-  "logradouro": "Rua Roteiro",
-  "bairro": "Santa Esmeralda",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santa Esmeralda;",
+    "cep": "57312040",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Roteiro;"
 }

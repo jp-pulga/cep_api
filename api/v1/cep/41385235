@@ -1,12 +1,12 @@
 {
-  "cep": "41385235",
-  "logradouro": "Avenida Osório Valente",
-  "bairro": "Sete de Abril",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sete de Abril;",
+    "cep": "41385235",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Osório Valente;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69098326",
-  "logradouro": "Travessa Andrade Murici (Vl Rica)",
-  "bairro": "Novo Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Novo Aleixo;",
+    "cep": "69098326",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Andrade Murici;"
 }

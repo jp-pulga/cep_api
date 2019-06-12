@@ -1,12 +1,12 @@
 {
-  "cep": "45658335",
-  "logradouro": "Rodovia Ilhéus-Uruçuca",
-  "bairro": "Iguape",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Iguape;",
+    "cep": "45658335",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rodovia Ilhéus-Uruçuca;"
 }

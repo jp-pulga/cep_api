@@ -1,12 +1,12 @@
 {
-  "cep": "08598717",
-  "logradouro": "Rua Barra do Una",
-  "bairro": "Residencial Furtuna",
-  "cidade": {
-    "nome": "Itaquaquecetuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Furtuna;",
+    "cep": "08598717",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itaquaquecetuba"
+    },
+    "logradouro": "Rua Barra do Una;"
 }

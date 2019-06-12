@@ -1,12 +1,12 @@
 {
-  "cep": "38181566",
-  "logradouro": "Rua Bento Alves Mariano",
-  "bairro": "Conjunto Habitacional Pão de Açúcar",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Pão de Açúcar;",
+    "cep": "38181566",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Bento Alves Mariano;"
 }

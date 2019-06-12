@@ -1,12 +1,13 @@
 {
-  "cep": "44470972",
-  "logradouro": "AGC Barra do Gil Rua das Flores s/n",
-  "bairro": "Barra do Gil",
-  "cidade": {
-    "nome": "Vera Cruz",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barra do Gil;",
+    "cep": "44470972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vera Cruz"
+    },
+    "ibge": 2933208,
+    "logradouro": "Rua das Flores, s\/n  AGC Barra do Gil;"
 }

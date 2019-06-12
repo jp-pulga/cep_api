@@ -1,12 +1,13 @@
 {
-  "cep": "45400970",
-  "logradouro": "AC Valença Praça da República 116",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Valença",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45400970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Valença"
+    },
+    "ibge": 2932903,
+    "logradouro": "Praça da República, 116  AC Valença;"
 }

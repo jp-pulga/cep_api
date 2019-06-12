@@ -1,12 +1,11 @@
 {
-  "cep": "57930000",
-  "logradouro": "Passo de Camaragibe",
-  "bairro": "",
-  "cidade": {
-    "nome": "Passo de Camaragibe",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57930000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Passo de Camaragibe"
+    },
+    "ibge": 2706505
 }

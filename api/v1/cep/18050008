@@ -1,12 +1,12 @@
 {
-  "cep": "18050008",
-  "logradouro": "Rua Roberto Dias Baptista",
-  "bairro": "Jardim Vera Cruz",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Vera Cruz;",
+    "cep": "18050008",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Roberto Dias Baptista;"
 }

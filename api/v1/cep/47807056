@@ -1,12 +1,12 @@
 {
-  "cep": "47807056",
-  "logradouro": "Rua Unaí",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Paulo;",
+    "cep": "47807056",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Unaí;"
 }

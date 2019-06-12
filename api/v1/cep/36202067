@@ -1,12 +1,12 @@
 {
-  "cep": "36202067",
-  "logradouro": "Rua Wanderley Pereira",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "36202067",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Wanderley Pereira;"
 }

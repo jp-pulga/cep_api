@@ -1,12 +1,13 @@
 {
-  "cep": "44565970",
-  "logradouro": "AC Varzedo Rua do Mercado Municipal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Varzedo",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44565970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Varzedo"
+    },
+    "ibge": 2933174,
+    "logradouro": "Rua do Mercado Municipal, s\/n  AC Varzedo;"
 }

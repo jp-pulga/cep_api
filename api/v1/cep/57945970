@@ -1,12 +1,13 @@
 {
-  "cep": "57945970",
-  "logradouro": "AC Porto de Pedras Rua Doutor Sebastião da Hora 281",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto de Pedras",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57945970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Porto de Pedras"
+    },
+    "ibge": 2707404,
+    "logradouro": "Rua Doutor Sebastião da Hora, 281  AC Porto de Pedras;"
 }

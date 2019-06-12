@@ -1,12 +1,12 @@
 {
-  "cep": "09230080",
-  "logradouro": "Rua Barcelona",
-  "bairro": "Utinga",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Utinga;",
+    "cep": "09230080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo André"
+    },
+    "logradouro": "Rua Barcelona;"
 }

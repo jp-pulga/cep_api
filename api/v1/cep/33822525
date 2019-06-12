@@ -1,12 +1,12 @@
 {
-  "cep": "33822525",
-  "logradouro": "Rua Sebastiana Tavares Bahia",
-  "bairro": "Vereda",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vereda;",
+    "cep": "33822525",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Sebastiana Tavares Bahia;"
 }

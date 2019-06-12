@@ -1,12 +1,12 @@
 {
-  "cep": "12213310",
-  "logradouro": "Rua Braz Alves de Almeida",
-  "bairro": "Vila São Geraldo",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila São Geraldo;",
+    "cep": "12213310",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Braz Alves de Almeida;"
 }

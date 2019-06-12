@@ -1,12 +1,12 @@
 {
-  "cep": "57071238",
-  "logradouro": "Rua Monteirópolis",
-  "bairro": "Clima Bom",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Clima Bom;",
+    "cep": "57071238",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Monteirópolis;"
 }

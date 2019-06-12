@@ -1,12 +1,13 @@
 {
-  "cep": "57380970",
-  "logradouro": "AC São Brás Rua São José 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Brás",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57380970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "São Brás"
+    },
+    "ibge": 2708204,
+    "logradouro": "Rua São José, 02  AC São Brás;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "57400000",
-  "logradouro": "Pão de Açúcar",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pão de Açúcar",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57400000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Pão de Açúcar"
+    },
+    "ibge": 2706406
 }

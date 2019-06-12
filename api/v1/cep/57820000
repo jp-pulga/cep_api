@@ -1,12 +1,11 @@
 {
-  "cep": "57820000",
-  "logradouro": "Murici",
-  "bairro": "",
-  "cidade": {
-    "nome": "Murici",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57820000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Murici"
+    },
+    "ibge": 2705507
 }

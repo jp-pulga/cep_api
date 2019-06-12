@@ -1,12 +1,13 @@
 {
-  "cep": "47400970",
-  "logradouro": "AC Xique-Xique Rua Coronel Manoel Teixeira 91",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xique-Xique",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47400970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Xique-Xique"
+    },
+    "ibge": 2933604,
+    "logradouro": "Rua Coronel Manoel Teixeira, 91  AC Xique-Xique;"
 }

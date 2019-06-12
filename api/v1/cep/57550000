@@ -1,12 +1,11 @@
 {
-  "cep": "57550000",
-  "logradouro": "Olivença",
-  "bairro": "",
-  "cidade": {
-    "nome": "Olivença",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57550000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Olivença"
+    },
+    "ibge": 2706000
 }

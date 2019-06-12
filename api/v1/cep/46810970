@@ -1,12 +1,13 @@
 {
-  "cep": "46810970",
-  "logradouro": "AC Utinga Praça Antônio Muniz 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Utinga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46810970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Utinga"
+    },
+    "ibge": 2932804,
+    "logradouro": "Praça Antônio Muniz, 29  AC Utinga;"
 }

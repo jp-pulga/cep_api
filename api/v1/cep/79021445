@@ -1,12 +1,12 @@
 {
-  "cep": "79021445",
-  "logradouro": "Rua Doutor Mauro Rogério de Barros Wanderley",
-  "bairro": "Royal Park",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Royal Park;",
+    "cep": "79021445",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Doutor Mauro Rogério de Barros Wanderley;"
 }

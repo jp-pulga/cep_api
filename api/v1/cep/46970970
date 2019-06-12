@@ -1,12 +1,13 @@
 {
-  "cep": "46970970",
-  "logradouro": "AC Wagner Praça Esmeraldo Sena s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Wagner",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46970970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Wagner"
+    },
+    "ibge": 2933406,
+    "logradouro": "Praça Esmeraldo Sena, s\/n  AC Wagner;"
 }

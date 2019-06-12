@@ -1,12 +1,11 @@
 {
-  "cep": "49300000",
-  "logradouro": "Tobias Barreto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tobias Barreto",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49300000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Tobias Barreto"
+    },
+    "ibge": 2807402
 }

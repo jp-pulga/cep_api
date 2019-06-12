@@ -1,12 +1,13 @@
 {
-  "cep": "45052142",
-  "logradouro": "Avenida Projetada",
-  "bairro": "Bateias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bateias;",
+    "cep": "45052142",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "ibge": 2933307,
+    "logradouro": "Avenida José Fernandes Pedral Sampaio;"
 }
