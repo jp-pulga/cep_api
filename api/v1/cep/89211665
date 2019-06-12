@@ -1,12 +1,12 @@
 {
-  "cep": "89211665",
-  "logradouro": "Rua Luiz Alves",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "89211665",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Luiz Alves;"
 }

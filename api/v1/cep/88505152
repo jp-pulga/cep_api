@@ -1,12 +1,13 @@
 {
-  "cep": "88505152",
-  "logradouro": "Avenida Alfeu Rodolfo da Silva",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "88505152",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Alfeu Rodolfo da Silva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89221170",
-  "logradouro": "Rua Guaramirim",
-  "bairro": "Saguaçu",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Saguaçu;",
+    "cep": "89221170",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Guaramirim;"
 }

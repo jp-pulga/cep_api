@@ -1,12 +1,12 @@
 {
-  "cep": "89046320",
-  "logradouro": "Rua Matos Costa",
-  "bairro": "Passo Manso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passo Manso;",
+    "cep": "89046320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Matos Costa;"
 }

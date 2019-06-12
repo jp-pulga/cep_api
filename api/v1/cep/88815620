@@ -1,12 +1,12 @@
 {
-  "cep": "88815620",
-  "logradouro": "Rua Itaiópolis",
-  "bairro": "Nossa Senhora da Salete",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nossa Senhora da Salete;",
+    "cep": "88815620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Itaiópolis;"
 }

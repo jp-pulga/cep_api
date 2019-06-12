@@ -1,12 +1,13 @@
 {
-  "cep": "89145970",
-  "logradouro": "AC José Boiteux Avenida Vinte e Seis de Abril 87",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "José Boiteux",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89145970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "José Boiteux"
+    },
+    "ibge": 4209151,
+    "logradouro": "Avenida Vinte e Seis de Abril, 87  AC José Boiteux;"
 }

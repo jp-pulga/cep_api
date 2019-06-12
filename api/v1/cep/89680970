@@ -1,12 +1,13 @@
 {
-  "cep": "89680970",
-  "logradouro": "AC Irani Rua Governador Ivo Silveira 1233",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Irani",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89680970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Irani"
+    },
+    "ibge": 4207809,
+    "logradouro": "Rua Governador Ivo Silveira, 1233  AC Irani;"
 }

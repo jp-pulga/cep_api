@@ -1,12 +1,12 @@
 {
-  "cep": "88811030",
-  "logradouro": "Rua Lauro Muller de 465/466 ao fim",
-  "bairro": "Cruzeiro do Sul",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cruzeiro do Sul;",
+    "cep": "88811030",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Lauro Muller - de 465\/466 ao fim;"
 }

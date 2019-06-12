@@ -1,12 +1,12 @@
 {
-  "cep": "88032480",
-  "logradouro": "Rua do Guaramirim",
-  "bairro": "Monte Verde",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Verde;",
+    "cep": "88032480",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua do Guaramirim;"
 }

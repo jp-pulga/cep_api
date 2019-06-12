@@ -1,12 +1,12 @@
 {
-  "cep": "88111483",
-  "logradouro": "Rua Ana Simas Navrocki",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88111483",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Ana Simas Navrocki;"
 }

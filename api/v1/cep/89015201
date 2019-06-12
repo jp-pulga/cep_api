@@ -1,12 +1,12 @@
 {
-  "cep": "89015201",
-  "logradouro": "Rua Itajaí de 1689 a 2591 - lado ímpar",
-  "bairro": "Vorstadt",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vorstadt;",
+    "cep": "89015201",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Itajaí - de 1689 a 2591 - lado ímpar;"
 }

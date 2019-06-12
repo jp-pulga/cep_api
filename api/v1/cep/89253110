@@ -1,12 +1,13 @@
 {
-  "cep": "89253110",
-  "logradouro": "Rua Acre",
-  "bairro": "Jaraguá Esquerdo",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jaraguá Esquerdo;",
+    "cep": "89253110",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Rua Acre;"
 }

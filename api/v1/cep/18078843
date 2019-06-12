@@ -1,12 +1,12 @@
 {
-  "cep": "18078843",
-  "logradouro": "Rua Valdemar Itaidio Scatola",
-  "bairro": "Jardim Sorocaba Park",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Sorocaba Park;",
+    "cep": "18078843",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Valdemar Itaidio Scatola;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "88780000",
-  "logradouro": "Imbituba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Imbituba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88780000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imbituba"
+    },
+    "ibge": 4207304
 }

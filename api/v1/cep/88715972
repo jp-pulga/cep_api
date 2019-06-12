@@ -1,12 +1,13 @@
 {
-  "cep": "88715972",
-  "logradouro": "AGC Campo Bom Estrada Geral do Campo Bom s/n",
-  "bairro": "Campo Bom",
-  "cidade": {
-    "nome": "Jaguaruna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campo Bom;",
+    "cep": "88715972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaguaruna"
+    },
+    "ibge": 4208807,
+    "logradouro": "Estrada Geral do Campo Bom, s\/n  AGC Campo Bom;"
 }

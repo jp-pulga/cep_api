@@ -1,12 +1,12 @@
 {
-  "cep": "88805600",
-  "logradouro": "Rua Jaraguá do Sul",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "88805600",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Jaraguá do Sul;"
 }

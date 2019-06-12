@@ -1,12 +1,12 @@
 {
-  "cep": "41150040",
-  "logradouro": "Conjunto Parque Residencial Planalto",
-  "bairro": "Cabula",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cabula;",
+    "cep": "41150040",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Conjunto Parque Residencial Planalto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89062224",
-  "logradouro": "Rua Marema",
-  "bairro": "Itoupava Central",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Central;",
+    "cep": "89062224",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Marema;"
 }

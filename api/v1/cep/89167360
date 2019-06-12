@@ -1,12 +1,12 @@
 {
-  "cep": "89167360",
-  "logradouro": "Travessa Laguna",
-  "bairro": "Laranjeiras",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Laranjeiras;",
+    "cep": "89167360",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Travessa Laguna;"
 }

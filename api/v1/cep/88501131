@@ -1,12 +1,12 @@
 {
-  "cep": "88501131",
-  "logradouro": "Rua Lauro Muller de 501/502 a 879/880",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88501131",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Lauro Muller - de 501\/502 a 879\/880;"
 }

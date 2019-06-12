@@ -1,12 +1,12 @@
 {
-  "cep": "89035092",
-  "logradouro": "Rua Jaguaruna",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "89035092",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Jaguaruna;"
 }

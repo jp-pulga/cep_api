@@ -1,12 +1,12 @@
 {
-  "cep": "88817123",
-  "logradouro": "Rua Andrino Horácio Silva",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "88817123",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Andrino Horácio Silva;"
 }

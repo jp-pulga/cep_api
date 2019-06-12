@@ -1,12 +1,13 @@
 {
-  "cep": "88371266",
-  "logradouro": "Rua Manoel Schneider",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "88371266",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Rua Manoel Schneider;"
 }

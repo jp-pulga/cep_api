@@ -1,12 +1,13 @@
 {
-  "cep": "88504043",
-  "logradouro": "Avenida Belisário Ramos de 501 a 1115 - lado ímpar",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "88504043",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - de 501 a 1115 - lado ímpar;"
 }

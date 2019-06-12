@@ -1,12 +1,13 @@
 {
-  "cep": "88950970",
-  "logradouro": "AC Jacinto Machado Rua Irmãos Trevisol 1079",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacinto Machado",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88950970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jacinto Machado"
+    },
+    "ibge": 4208708,
+    "logradouro": "Rua Irmãos Trevisol, 1079  AC Jacinto Machado;"
 }

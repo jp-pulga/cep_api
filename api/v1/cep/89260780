@@ -1,12 +1,13 @@
 {
-  "cep": "89260780",
-  "logradouro": "Rua Adolina Ramos Silveira",
-  "bairro": "Jaraguá 99",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jaraguá 99;",
+    "cep": "89260780",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Rua Adolina Ramos Silveira;"
 }

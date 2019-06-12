@@ -1,12 +1,12 @@
 {
-  "cep": "88308312",
-  "logradouro": "Rua João Laurentino das neves",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "88308312",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua João Laurentino das neves;"
 }

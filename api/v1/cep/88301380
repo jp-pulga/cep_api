@@ -1,12 +1,13 @@
 {
-  "cep": "88301380",
-  "logradouro": "Rua Antônio Bernardo Schauffert",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88301380",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Rua Antônio Bernardo Schauffert;"
 }

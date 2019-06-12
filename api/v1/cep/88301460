@@ -1,12 +1,12 @@
 {
-  "cep": "88301460",
-  "logradouro": "Rua Laguna",
-  "bairro": "Fazenda",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fazenda;",
+    "cep": "88301460",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Laguna;"
 }

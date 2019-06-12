@@ -1,12 +1,11 @@
 {
-  "cep": "89380000",
-  "logradouro": "Monte Castelo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Monte Castelo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89380000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Monte Castelo"
+    },
+    "ibge": 4211108
 }

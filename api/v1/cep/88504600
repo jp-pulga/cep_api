@@ -1,12 +1,12 @@
 {
-  "cep": "88504600",
-  "logradouro": "Rua Léssio Zanotto",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88504600",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Léssio Zanotto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79005602",
-  "logradouro": "Praça Primeiro de Maio",
-  "bairro": "Vila Carvalho",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Carvalho;",
+    "cep": "79005602",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Praça Primeiro de Maio;"
 }

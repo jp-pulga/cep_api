@@ -1,12 +1,13 @@
 {
-  "cep": "88780970",
-  "logradouro": "AC Imbituba Avenida Santa Catarina 919",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Imbituba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88780970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imbituba"
+    },
+    "ibge": 4207304,
+    "logradouro": "Avenida Santa Catarina, 919  AC Imbituba;"
 }

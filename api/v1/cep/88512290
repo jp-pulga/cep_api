@@ -1,12 +1,12 @@
 {
-  "cep": "88512290",
-  "logradouro": "Rua Adelaide Alves",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "88512290",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Adelaide Alves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89814460",
-  "logradouro": "Rua Irani D",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "89814460",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Irani - D;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89204100",
-  "logradouro": "Rua Itaiópolis até 589/590",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "América;",
+    "cep": "89204100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Itaiópolis - até 589\/590;"
 }

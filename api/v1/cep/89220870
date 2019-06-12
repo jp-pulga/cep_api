@@ -1,12 +1,13 @@
 {
-  "cep": "89220870",
-  "logradouro": "Rua Pedro Alvaro Schmoeller",
-  "bairro": "Costa e Silva",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Costa e Silva;",
+    "cep": "89220870",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rua Pedro Alvaro Schmoeller;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88372286",
-  "logradouro": "Avenida Osvaldo José Reiser",
-  "bairro": "Meia Praia",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Meia Praia;",
+    "cep": "88372286",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida Osvaldo José Reiser;"
 }

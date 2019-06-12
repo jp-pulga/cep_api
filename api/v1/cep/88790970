@@ -1,12 +1,13 @@
 {
-  "cep": "88790970",
-  "logradouro": "AC Laguna Rua Osvaldo Cabral 113",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Laguna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88790970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Laguna"
+    },
+    "ibge": 4209409,
+    "logradouro": "Rua Osvaldo Cabral, 113  AC Laguna;"
 }

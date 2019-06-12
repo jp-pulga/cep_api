@@ -1,12 +1,13 @@
 {
-  "cep": "89856971",
-  "logradouro": "AC Irati Rua Rodolfo Meurer 103",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Irati",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89856971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Irati"
+    },
+    "ibge": 4207858,
+    "logradouro": "Rua Rodolfo Meurer, 103  AC Irati;"
 }

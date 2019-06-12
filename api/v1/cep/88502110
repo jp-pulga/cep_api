@@ -1,12 +1,12 @@
 {
-  "cep": "88502110",
-  "logradouro": "Rua Lauro Muller de 881/882 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88502110",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Lauro Muller - de 881\/882 ao fim;"
 }

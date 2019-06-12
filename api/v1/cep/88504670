@@ -1,12 +1,12 @@
 {
-  "cep": "88504670",
-  "logradouro": "Rua Romeu Ramos Lucena",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88504670",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Romeu Ramos Lucena;"
 }

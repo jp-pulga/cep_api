@@ -1,12 +1,13 @@
 {
-  "cep": "88370438",
-  "logradouro": "Avenida João Sacavem até 588/589",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370438",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida João Sacavem - até 588\/589;"
 }

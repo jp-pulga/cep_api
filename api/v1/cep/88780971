@@ -1,12 +1,13 @@
 {
-  "cep": "88780971",
-  "logradouro": "AGC Araçatuba Rodovia SC 434 Km 14",
-  "bairro": "Araçatuba",
-  "cidade": {
-    "nome": "Imbituba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Araçatuba;",
+    "cep": "88780971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imbituba"
+    },
+    "ibge": 4207304,
+    "logradouro": "Rodovia SC 434, Km 14  AGC Araçatuba;"
 }

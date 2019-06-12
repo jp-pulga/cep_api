@@ -1,12 +1,13 @@
 {
-  "cep": "89896970",
-  "logradouro": "AC Itapiranga Rua São José 168",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapiranga",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89896970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itapiranga"
+    },
+    "ibge": 4208401,
+    "logradouro": "Rua da Independência, 65  AC Itapiranga;"
 }

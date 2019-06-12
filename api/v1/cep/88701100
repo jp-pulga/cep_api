@@ -1,12 +1,12 @@
 {
-  "cep": "88701100",
-  "logradouro": "Rua Lauro Muller até 883 - lado direito",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88701100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Lauro Muller - até 882\/883;"
 }

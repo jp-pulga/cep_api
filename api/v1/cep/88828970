@@ -1,12 +1,12 @@
 {
-  "cep": "88828970",
-  "logradouro": "AGC Balneário Rincão Rua Jaguaruna 699",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Rincão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88828970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Rincão"
+    },
+    "logradouro": "Rua Jaguaruna, 699  AGC Balneário Rincão;"
 }

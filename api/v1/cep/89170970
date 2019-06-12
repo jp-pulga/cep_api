@@ -1,12 +1,13 @@
 {
-  "cep": "89170970",
-  "logradouro": "AC Laurentino Rua Quinze de Novembro 63 Sala 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Laurentino",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89170970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Laurentino"
+    },
+    "ibge": 4209508,
+    "logradouro": "Rua Quinze de Novembro, 63 Sala 3  AC Laurentino;"
 }

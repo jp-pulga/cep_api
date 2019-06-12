@@ -1,12 +1,12 @@
 {
-  "cep": "89202240",
-  "logradouro": "Rua Navegantes",
-  "bairro": "Bucarein",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bucarein;",
+    "cep": "89202240",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Navegantes;"
 }

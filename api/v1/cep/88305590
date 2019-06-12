@@ -1,12 +1,13 @@
 {
-  "cep": "88305590",
-  "logradouro": "Rua Nelson Augusto da Silva Schiefler",
-  "bairro": "Barra do Rio",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra do Rio;",
+    "cep": "88305590",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Rua Nelson Augusto da Silva Schiefler;"
 }

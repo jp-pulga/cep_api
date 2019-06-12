@@ -1,12 +1,12 @@
 {
-  "cep": "07729505",
-  "logradouro": "Rua Fernando Prestes de Albuquerque (Jd Planalto)",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Caieiras",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "07729505",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caieiras"
+    },
+    "logradouro": "Rua Fernando Prestes de Albuquerque (Jd Planalto);"
 }

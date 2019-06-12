@@ -1,12 +1,13 @@
 {
-  "cep": "88501135",
-  "logradouro": "Rua Felipe Schmidt",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88501135",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Rua Felipe Schmidt;"
 }

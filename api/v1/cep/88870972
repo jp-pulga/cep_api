@@ -1,12 +1,13 @@
 {
-  "cep": "88870972",
-  "logradouro": "AGC Barracão Estrada Geral s/n",
-  "bairro": "Barracão",
-  "cidade": {
-    "nome": "Orleans",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barracão;",
+    "cep": "88870972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Orleans"
+    },
+    "ibge": 4211702,
+    "logradouro": "Estrada Geral, s\/n  AGC Barracão;"
 }

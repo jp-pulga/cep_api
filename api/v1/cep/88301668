@@ -1,12 +1,13 @@
 {
-  "cep": "88301668",
-  "logradouro": "Rua Fritz Schneider",
-  "bairro": "Fazenda",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fazenda;",
+    "cep": "88301668",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Rua Fritz Schneider;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89230305",
-  "logradouro": "Rua Nova Veneza",
-  "bairro": "Jarivatuba",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jarivatuba;",
+    "cep": "89230305",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Nova Veneza;"
 }

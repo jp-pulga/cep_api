@@ -1,12 +1,13 @@
 {
-  "cep": "89265525",
-  "logradouro": "Rodovia Prefeito Engelbert Oechsler lado direito",
-  "bairro": "Nereu Ramos",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nereu Ramos;",
+    "cep": "89265525",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Rodovia Prefeito Engelbert Oechsler;"
 }

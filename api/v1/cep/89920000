@@ -1,12 +1,11 @@
 {
-  "cep": "89920000",
-  "logradouro": "Guaraciaba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Guaraciaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89920000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Guaraciaba"
+    },
+    "ibge": 4206405
 }

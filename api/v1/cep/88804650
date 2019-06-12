@@ -1,12 +1,12 @@
 {
-  "cep": "88804650",
-  "logradouro": "Rua Itapema",
-  "bairro": "Pinheirinho",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pinheirinho;",
+    "cep": "88804650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Itapema;"
 }

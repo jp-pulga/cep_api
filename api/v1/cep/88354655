@@ -1,12 +1,12 @@
 {
-  "cep": "88354655",
-  "logradouro": "Rua Manoel da Silva Mafra",
-  "bairro": "Jardim Maluche",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Maluche;",
+    "cep": "88354655",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Manoel da Silva Mafra;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89194970",
-  "logradouro": "AGC Mirim Doce Rua Alfredo Cordeiro 22",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mirim Doce",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89194970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Mirim Doce"
+    },
+    "ibge": 4210852,
+    "logradouro": "Rua Alfredo Cordeiro, 22  AGC Mirim Doce;"
 }

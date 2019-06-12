@@ -1,12 +1,13 @@
 {
-  "cep": "89893970",
-  "logradouro": "AC Mondaí Avenida Laju 435",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mondaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89893970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Mondaí"
+    },
+    "ibge": 4211009,
+    "logradouro": "Avenida Laju, 435  AC Mondaí;"
 }

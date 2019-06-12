@@ -1,12 +1,13 @@
 {
-  "cep": "89253075",
-  "logradouro": "Rua Adolfo Sacani",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89253075",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Rua Adolfo Sacani;"
 }

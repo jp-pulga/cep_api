@@ -1,12 +1,13 @@
 {
-  "cep": "88880971",
-  "logradouro": "AGC Itanema Rua Marlene 41",
-  "bairro": "Povoado de Itanema",
-  "cidade": {
-    "nome": "Lauro Müller",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Povoado de Itanema;",
+    "cep": "88880971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lauro Müller"
+    },
+    "ibge": 4209607,
+    "logradouro": "Rua Marlene, 41  AGC Itanema;"
 }

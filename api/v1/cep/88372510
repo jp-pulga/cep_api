@@ -1,12 +1,13 @@
 {
-  "cep": "88372510",
-  "logradouro": "Avenida Ivo Silveira",
-  "bairro": "Gravatá",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Gravatá;",
+    "cep": "88372510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida Ivo Silveira;"
 }

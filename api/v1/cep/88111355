@@ -1,12 +1,12 @@
 {
-  "cep": "88111355",
-  "logradouro": "Rua Alessandro Alberto de Oliveira",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88111355",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Alessandro Alberto de Oliveira;"
 }

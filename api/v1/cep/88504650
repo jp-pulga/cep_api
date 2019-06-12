@@ -1,12 +1,12 @@
 {
-  "cep": "88504650",
-  "logradouro": "Rua Eloy João Lopes Oliveira",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88504650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Eloy João Lopes Oliveira;"
 }

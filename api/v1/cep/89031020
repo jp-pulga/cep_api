@@ -1,12 +1,12 @@
 {
-  "cep": "89031020",
-  "logradouro": "Rua Lontras",
-  "bairro": "Do Salto",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Do Salto;",
+    "cep": "89031020",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Lontras;"
 }

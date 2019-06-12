@@ -1,12 +1,13 @@
 {
-  "cep": "88270970",
-  "logradouro": "AC Nova Trento Rua Santo Inácio 127 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Trento",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88270970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Nova Trento"
+    },
+    "ibge": 4211504,
+    "logradouro": "Rua Santo Inácio, 127 Sala 02  AC Nova Trento;"
 }

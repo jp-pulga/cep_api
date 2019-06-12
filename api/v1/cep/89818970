@@ -1,12 +1,13 @@
 {
-  "cep": "89818970",
-  "logradouro": "AC Nova Itaberaba Rua Santa Catarina 51",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Itaberaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89818970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Nova Itaberaba"
+    },
+    "ibge": 4211454,
+    "logradouro": "Rua Santa Catarina, 51  AC Nova Itaberaba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88302273",
-  "logradouro": "Rua Augusto Pedro Schoenau",
-  "bairro": "Fazenda",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fazenda;",
+    "cep": "88302273",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Rua Augusto Pedro Schoenau;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89210370",
-  "logradouro": "Rua Itapema até 280/281",
-  "bairro": "Itaum",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itaum;",
+    "cep": "89210370",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Itapema - até 280\/281;"
 }

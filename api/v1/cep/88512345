@@ -1,12 +1,13 @@
 {
-  "cep": "88512345",
-  "logradouro": "Rua Orlando Ribeiro Schmidt",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88512345",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Rua Orlando Ribeiro Schmidt;"
 }

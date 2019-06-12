@@ -1,12 +1,12 @@
 {
-  "cep": "38402260",
-  "logradouro": "Praça Primeiro de Maio",
-  "bairro": "Marta Helena",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marta Helena;",
+    "cep": "38402260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Praça Primeiro de Maio;"
 }

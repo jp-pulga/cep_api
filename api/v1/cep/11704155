@@ -1,12 +1,12 @@
 {
-  "cep": "11704155",
-  "logradouro": "Rua Professora Carmem Italia Scigliano",
-  "bairro": "Ocian",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ocian;",
+    "cep": "11704155",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Rua Professora Carmem Italia Scigliano;"
 }

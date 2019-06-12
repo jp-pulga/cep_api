@@ -1,12 +1,13 @@
 {
-  "cep": "88920970",
-  "logradouro": "AC Meleiro Rua Sete de Setembro 255",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Meleiro",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88920970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Meleiro"
+    },
+    "ibge": 4210803,
+    "logradouro": "Rua Sete de Setembro 255  AC Meleiro;"
 }

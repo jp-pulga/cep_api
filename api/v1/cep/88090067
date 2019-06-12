@@ -1,12 +1,12 @@
 {
-  "cep": "88090067",
-  "logradouro": "Servidão Paralela Novo Horizonte",
-  "bairro": "Monte Cristo",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Cristo;",
+    "cep": "88090067",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Paralela Novo Horizonte;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88509001",
-  "logradouro": "Avenida Dom Pedro II de 1186 a 2284 - lado par",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "88509001",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Dom Pedro II - de 1186 a 2284 - lado par;"
 }

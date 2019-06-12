@@ -1,12 +1,13 @@
 {
-  "cep": "89140970",
-  "logradouro": "AC Ibirama Rua Onze de Março 104",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibirama",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89140970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ibirama"
+    },
+    "ibge": 4206900,
+    "logradouro": "Rua Onze de Março, 104  AC Ibirama;"
 }

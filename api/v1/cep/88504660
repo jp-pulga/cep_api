@@ -1,12 +1,12 @@
 {
-  "cep": "88504660",
-  "logradouro": "Rua Longino José Chaves",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88504660",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Longino José Chaves;"
 }

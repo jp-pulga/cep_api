@@ -1,12 +1,12 @@
 {
-  "cep": "88117972",
-  "logradouro": "AGF Bairro Barreiros Avenida Leoberto Leal 498",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88117972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Avenida Leoberto Leal, 498  AGF Bairro Barreiros;"
 }

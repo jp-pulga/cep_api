@@ -1,12 +1,12 @@
 {
-  "cep": "57014490",
-  "logradouro": "Rua Professor José Saraiva Neto",
-  "bairro": "Ponta Grossa",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ponta Grossa;",
+    "cep": "57014490",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Professor José Saraiva Neto;"
 }

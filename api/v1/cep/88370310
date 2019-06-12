@@ -1,12 +1,13 @@
 {
-  "cep": "88370310",
-  "logradouro": "Avenida José Alcebiades Laurentino até 428/429",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370310",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida José Alcebiades Laurentino - até 428\/429;"
 }

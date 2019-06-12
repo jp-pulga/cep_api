@@ -1,12 +1,13 @@
 {
-  "cep": "88503400",
-  "logradouro": "Avenida Belisário Ramos de 6002 ao fim - lado par",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "88503400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - de 6002 ao fim - lado par;"
 }

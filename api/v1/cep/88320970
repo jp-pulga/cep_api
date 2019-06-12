@@ -1,12 +1,13 @@
 {
-  "cep": "88320970",
-  "logradouro": "AC Ilhota Rua Vinte e Um de Junho 360 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ilhota",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88320970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ilhota"
+    },
+    "ibge": 4207106,
+    "logradouro": "Rua Vinte e Um de Junho, 360 Sala 01  AC Ilhota;"
 }

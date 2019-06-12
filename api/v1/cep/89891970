@@ -1,12 +1,13 @@
 {
-  "cep": "89891970",
-  "logradouro": "AC Iraceminha Avenida Governador Irineu Bornhausen 437",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iraceminha",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89891970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Iraceminha"
+    },
+    "ibge": 4207759,
+    "logradouro": "Avenida Governador Irineu Bornhausen, 437  AC Iraceminha;"
 }

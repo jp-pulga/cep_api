@@ -1,12 +1,12 @@
 {
-  "cep": "88137230",
-  "logradouro": "Rua das Macieiras",
-  "bairro": "Pedra Branca",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pedra Branca;",
+    "cep": "88137230",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua das Macieiras;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88301441",
-  "logradouro": "Avenida Joca Brandão de 383/384 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88301441",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Avenida Joca Brandão - de 383\/384 ao fim;"
 }

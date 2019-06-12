@@ -1,12 +1,13 @@
 {
-  "cep": "89340971",
-  "logradouro": "AGC Moema Rodovia SC-477 s/n",
-  "bairro": "Distrito de Moema",
-  "cidade": {
-    "nome": "Itaiópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Distrito de Moema;",
+    "cep": "89340971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itaiópolis"
+    },
+    "ibge": 4208104,
+    "logradouro": "Rodovia SC-477, s\/n  AGC Moema;"
 }

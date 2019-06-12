@@ -1,12 +1,12 @@
 {
-  "cep": "88520620",
-  "logradouro": "Rua Riacho Ipiranga",
-  "bairro": "Dom Daniel",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Dom Daniel;",
+    "cep": "88520620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Riacho Ipiranga;"
 }

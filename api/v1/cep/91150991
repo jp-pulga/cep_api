@@ -1,12 +1,11 @@
 {
-  "cep": "91150991",
-  "logradouro": "Associação dos Moradores Jardim Vitória da Conquista Rua A 5 próximo a Plínio Kroeff",
-  "bairro": "",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "91150991",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua A, 5  próximo a Plínio Kroeff  CPC Associação dos Moradores Jardim Vitória da Conquista;"
 }

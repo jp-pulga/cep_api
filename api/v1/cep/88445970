@@ -1,12 +1,13 @@
 {
-  "cep": "88445970",
-  "logradouro": "AC Leoberto Leal Rua Jorge Lacerda 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Leoberto Leal",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88445970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Leoberto Leal"
+    },
+    "ibge": 4209805,
+    "logradouro": "Rua Jorge Lacerda, 36  AC Leoberto Leal;"
 }

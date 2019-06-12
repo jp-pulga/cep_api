@@ -1,12 +1,12 @@
 {
-  "cep": "89233790",
-  "logradouro": "Rua Fabiana Laurentino",
-  "bairro": "Itinga",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itinga;",
+    "cep": "89233790",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Fabiana Laurentino;"
 }

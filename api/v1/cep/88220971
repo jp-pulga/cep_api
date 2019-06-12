@@ -1,12 +1,13 @@
 {
-  "cep": "88220971",
-  "logradouro": "ACC Meia Praia Avenida Nereu Ramos 4062 Loja 2",
-  "bairro": "Meia Praia",
-  "cidade": {
-    "nome": "Itapema",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Meia Praia;",
+    "cep": "88220971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itapema"
+    },
+    "ibge": 4208302,
+    "logradouro": "Avenida Nereu Ramos, 4062 Loja 2  ACC Meia Praia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88504710",
-  "logradouro": "Rua Galdino João Duarte",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88504710",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Galdino João Duarte;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88370472",
-  "logradouro": "Avenida Conselheiro João Gaya de 1167/1168 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370472",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida Conselheiro João Gaya - de 1167\/1168 ao fim;"
 }

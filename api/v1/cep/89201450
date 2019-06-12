@@ -1,12 +1,12 @@
 {
-  "cep": "89201450",
-  "logradouro": "Rua Jaguaruna",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89201450",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Jaguaruna;"
 }

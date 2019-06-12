@@ -1,12 +1,12 @@
 {
-  "cep": "88340070",
-  "logradouro": "Rua Prefeito Antonio Manços de Souza Mafra",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88340070",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Camboriú"
+    },
+    "logradouro": "Rua Prefeito Antonio Manços de Souza Mafra;"
 }

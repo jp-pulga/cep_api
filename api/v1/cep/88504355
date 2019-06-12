@@ -1,12 +1,13 @@
 {
-  "cep": "88504355",
-  "logradouro": "Avenida Belisário Ramos até 320 - lado par",
-  "bairro": "Triângulo",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Triângulo;",
+    "cep": "88504355",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - até 320 - lado par;"
 }

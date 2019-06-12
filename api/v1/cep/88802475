@@ -1,12 +1,12 @@
 {
-  "cep": "88802475",
-  "logradouro": "Rua Monte Castelo",
-  "bairro": "Comerciário",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Comerciário;",
+    "cep": "88802475",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Monte Castelo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57308800",
-  "logradouro": "Rua 08-46 (Cohab Nova)",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "57308800",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Professora Eliane Rodrigues do Nascimento (Cohab Nova);"
 }

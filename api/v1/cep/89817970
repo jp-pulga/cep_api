@@ -1,12 +1,13 @@
 {
-  "cep": "89817970",
-  "logradouro": "AGC Guatambú Rua Angelo Cora",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guatambú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89817970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Guatambú"
+    },
+    "ibge": 4206652,
+    "logradouro": "Rua Angelo Cora  AGC Guatambú;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88817119",
-  "logradouro": "Rua Luiza Martinhago Colombo",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "88817119",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Luiza Martinhago Colombo;"
 }

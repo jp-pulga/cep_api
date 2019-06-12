@@ -1,12 +1,13 @@
 {
-  "cep": "89340970",
-  "logradouro": "AC Itaiópolis Rua Carril Pflanzer 79",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaiópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89340970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itaiópolis"
+    },
+    "ibge": 4208104,
+    "logradouro": "Rua Carril Pflanzer, 79  AC Itaiópolis;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88504705",
-  "logradouro": "Rua Valério Antunes de 1500/1501 ao fim",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88504705",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Valério Antunes - de 1500\/1501 ao fim;"
 }

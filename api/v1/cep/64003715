@@ -1,12 +1,12 @@
 {
-  "cep": "64003715",
-  "logradouro": "Rua Primeiro de Maio (Zona Norte) lado ímpar",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "64003715",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Primeiro de Maio (Zona Norte) - lado ímpar;"
 }

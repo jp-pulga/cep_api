@@ -1,12 +1,12 @@
 {
-  "cep": "88111610",
-  "logradouro": "Rua Afonso Pena",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88111610",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Afonso Pena;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88503215",
-  "logradouro": "Avenida Belisário Ramos de 5502 a 6000 - lado par",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "88503215",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - de 5502 a 6000 - lado par;"
 }

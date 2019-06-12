@@ -1,12 +1,13 @@
 {
-  "cep": "89899970",
-  "logradouro": "AC Iporã do Oeste Avenida Augusto Fetter 797",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iporã do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89899970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Iporã do Oeste"
+    },
+    "ibge": 4207650,
+    "logradouro": "Avenida Gustavo Fetter, 797  AC Iporã do Oeste;"
 }

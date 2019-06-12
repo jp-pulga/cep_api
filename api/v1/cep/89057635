@@ -1,12 +1,12 @@
 {
-  "cep": "89057635",
-  "logradouro": "Rua José Mafra",
-  "bairro": "Tribess",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tribess;",
+    "cep": "89057635",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua José Mafra;"
 }

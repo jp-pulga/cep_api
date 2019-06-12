@@ -1,12 +1,13 @@
 {
-  "cep": "89652971",
-  "logradouro": "AC Ibiam Rua Vinte de Julho 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibiam",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89652971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ibiam"
+    },
+    "ibge": 4206751,
+    "logradouro": "Rua Vinte de Julho, 36  AC Ibiam;"
 }

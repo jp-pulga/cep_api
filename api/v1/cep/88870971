@@ -1,12 +1,13 @@
 {
-  "cep": "88870971",
-  "logradouro": "AGC Brusque do Sul Estrada Chapadão de Brusque s/n",
-  "bairro": "Brusque do Sul",
-  "cidade": {
-    "nome": "Orleans",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Brusque do Sul;",
+    "cep": "88870971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Orleans"
+    },
+    "ibge": 4211702,
+    "logradouro": "Estrada Chapadão de Brusque, s\/n  AGC Brusque do Sul;"
 }

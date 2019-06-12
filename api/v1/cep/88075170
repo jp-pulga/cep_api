@@ -1,12 +1,12 @@
 {
-  "cep": "88075170",
-  "logradouro": "Rua dos Navegantes de 299/300 ao fim",
-  "bairro": "Balneário",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Balneário;",
+    "cep": "88075170",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua dos Navegantes - de 299\/300 ao fim;"
 }

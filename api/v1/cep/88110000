@@ -1,12 +1,12 @@
 {
-  "cep": "88110000",
-  "logradouro": "Avenida Leoberto Leal de 808 ao fim - lado par",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88110000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Avenida Leoberto Leal - de 808 ao fim - lado par;"
 }

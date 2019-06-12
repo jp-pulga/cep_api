@@ -1,12 +1,13 @@
 {
-  "cep": "88303465",
-  "logradouro": "Rua Egon Schauffert",
-  "bairro": "São Judas",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Judas;",
+    "cep": "88303465",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Rua Egon Schauffert;"
 }

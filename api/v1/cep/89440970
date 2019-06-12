@@ -1,12 +1,13 @@
 {
-  "cep": "89440970",
-  "logradouro": "AC Irineópolis Avenida Vinte e Dois de Julho 707",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Irineópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89440970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Irineópolis"
+    },
+    "ibge": 4207908,
+    "logradouro": "Avenida Vinte e Dois de Julho, 707  AC Irineópolis;"
 }

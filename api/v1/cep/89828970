@@ -1,12 +1,13 @@
 {
-  "cep": "89828970",
-  "logradouro": "AGC Lajeado Grande Rua Judithe Dal Magro 345",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lajeado Grande",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89828970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lajeado Grande"
+    },
+    "ibge": 4209458,
+    "logradouro": "Rua Judithe Dal Magro, 345  AGC Lajeado Grande;"
 }

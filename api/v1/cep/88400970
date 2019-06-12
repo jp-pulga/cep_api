@@ -1,12 +1,13 @@
 {
-  "cep": "88400970",
-  "logradouro": "AC Ituporanga Travessa Jacob Sens 98",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ituporanga",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88400970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ituporanga"
+    },
+    "ibge": 4208500,
+    "logradouro": "Travessa Jacob Sens, 108  AC Ituporanga;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "89891000",
-  "logradouro": "Iraceminha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Iraceminha",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89891000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Iraceminha"
+    },
+    "ibge": 4207759
 }

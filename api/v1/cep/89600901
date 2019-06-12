@@ -1,12 +1,13 @@
 {
-  "cep": "89600901",
-  "logradouro": "CAE 06 - Coordenadoria de Atividades Externas 06 Rua Roberto Trompowski 07",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joaçaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89600901",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joaçaba"
+    },
+    "ibge": 4209003,
+    "logradouro": "Rua Roberto Trompowski 07  CAE 06 - Coordenadoria de Atividades Externas 06;"
 }

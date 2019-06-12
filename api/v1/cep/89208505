@@ -1,12 +1,13 @@
 {
-  "cep": "89208505",
-  "logradouro": "Rua Avani Schlivinski Jablonski",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "89208505",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rua Avani Schlivinski Jablonski;"
 }

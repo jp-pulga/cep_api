@@ -1,12 +1,13 @@
 {
-  "cep": "89515970",
-  "logradouro": "AC Lebon Régis Rua Arthur Barth 528",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lebon Régis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89515970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lebon Régis"
+    },
+    "ibge": 4209706,
+    "logradouro": "Rua Arthur Barth, 528  AC Lebon Régis;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89211645",
-  "logradouro": "Rua Maravilha de 95/96 ao fim",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "89211645",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Maravilha - de 95\/96 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88370390",
-  "logradouro": "Avenida Conselheiro João Gaya de 760/761 a 1165/1166",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370390",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida Conselheiro João Gaya - de 760\/761 a 1165\/1166;"
 }

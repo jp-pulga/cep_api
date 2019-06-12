@@ -1,12 +1,13 @@
 {
-  "cep": "88260970",
-  "logradouro": "AC Major Gercino Avenida Joaquim Silveira 289",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Major Gercino",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88260970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Major Gercino"
+    },
+    "ibge": 4210209,
+    "logradouro": "Avenida Joaquim Silveira, 289  AC Major Gercino;"
 }

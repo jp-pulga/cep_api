@@ -1,12 +1,13 @@
 {
-  "cep": "89660970",
-  "logradouro": "AC Lacerdópolis Rua 31de Março 1158 Sala 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lacerdópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89660970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lacerdópolis"
+    },
+    "ibge": 4209201,
+    "logradouro": "Rua 31de Março, 1158 Sala 2  AC Lacerdópolis;"
 }

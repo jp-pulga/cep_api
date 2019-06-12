@@ -1,12 +1,12 @@
 {
-  "cep": "88318630",
-  "logradouro": "Rua José Laurentino Junior",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "88318630",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua José Laurentino Junior;"
 }

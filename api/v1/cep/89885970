@@ -1,12 +1,12 @@
 {
-  "cep": "89885970",
-  "logradouro": "AC São Carlos Rua Monteiro Lobato 291",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89885970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rua Monteiro Lobato, 291  AC São Carlos;"
 }

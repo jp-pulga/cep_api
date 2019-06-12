@@ -1,12 +1,12 @@
 {
-  "cep": "89035040",
-  "logradouro": "Rua José Boiteux",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "89035040",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua José Boiteux;"
 }

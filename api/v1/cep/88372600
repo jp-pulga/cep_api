@@ -1,12 +1,12 @@
 {
-  "cep": "88372600",
-  "logradouro": "Rua Geraldo Laurentino Inácio",
-  "bairro": "Gravatá",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Gravatá;",
+    "cep": "88372600",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Geraldo Laurentino Inácio;"
 }

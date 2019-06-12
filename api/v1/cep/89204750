@@ -1,12 +1,13 @@
 {
-  "cep": "89204750",
-  "logradouro": "Rua Doutor Orlando B Schroeder",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "América;",
+    "cep": "89204750",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rua Doutor Orlando B Schroeder;"
 }

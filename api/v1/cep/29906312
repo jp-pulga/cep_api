@@ -1,12 +1,12 @@
 {
-  "cep": "29906312",
-  "logradouro": "Avenida Prefeito Samuel Batista Cruz de 8000 a 8998 - lado par",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "29906312",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Prefeito Samuel Batista Cruz - de 7092 a 8020 - lado par;"
 }

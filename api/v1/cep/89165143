@@ -1,12 +1,12 @@
 {
-  "cep": "89165143",
-  "logradouro": "Beco Lebon Regis",
-  "bairro": "Barragem",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barragem;",
+    "cep": "89165143",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Beco Lebon Regis;"
 }

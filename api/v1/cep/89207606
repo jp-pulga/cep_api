@@ -1,12 +1,12 @@
 {
-  "cep": "89207606",
-  "logradouro": "Rua Irati",
-  "bairro": "Guanabara",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Guanabara;",
+    "cep": "89207606",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Irati;"
 }

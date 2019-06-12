@@ -1,12 +1,13 @@
 {
-  "cep": "88370396",
-  "logradouro": "Avenida Conselheiro João Gaya de 420/421 a 758/759",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370396",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida Conselheiro João Gaya - de 420\/421 a 758\/759;"
 }

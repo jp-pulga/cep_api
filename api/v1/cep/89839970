@@ -1,12 +1,13 @@
 {
-  "cep": "89839970",
-  "logradouro": "AGC Jupiá Avenida Tupinambas",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jupiá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89839970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jupiá"
+    },
+    "ibge": 4209177,
+    "logradouro": "Avenida Tupinambas  AGC Jupiá;"
 }

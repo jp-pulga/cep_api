@@ -1,12 +1,13 @@
 {
-  "cep": "89872970",
-  "logradouro": "AC Modelo Avenida Nereu Ramos 2370",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Modelo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89872970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Modelo"
+    },
+    "ibge": 4210902,
+    "logradouro": "Rua Quinze de Novembro, 44 Sala 01  AC Modelo;"
 }

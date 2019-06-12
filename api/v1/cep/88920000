@@ -1,12 +1,11 @@
 {
-  "cep": "88920000",
-  "logradouro": "Meleiro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Meleiro",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88920000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Meleiro"
+    },
+    "ibge": 4210803
 }

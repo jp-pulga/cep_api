@@ -1,12 +1,13 @@
 {
-  "cep": "89920970",
-  "logradouro": "AC Guaraciaba Rua Presidente Castelo Branco 148 Sala 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guaraciaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89920970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Guaraciaba"
+    },
+    "ibge": 4206405,
+    "logradouro": "Rua Presidente Castelo Branco, 148 Sala 05  AC Guaraciaba;"
 }

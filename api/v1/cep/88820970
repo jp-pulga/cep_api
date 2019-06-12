@@ -1,12 +1,13 @@
 {
-  "cep": "88820970",
-  "logradouro": "AC Içara Avenida Dílcio Esmael da Silva 796",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Içara",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88820970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Içara"
+    },
+    "ibge": 4207007,
+    "logradouro": "Rua Altamiro Guimarães, 167  AC Içara;"
 }

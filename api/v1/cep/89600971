@@ -1,12 +1,13 @@
 {
-  "cep": "89600971",
-  "logradouro": "ACF Quinze de Novembro Rua Treze de Maio 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joaçaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89600971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joaçaba"
+    },
+    "ibge": 4209003,
+    "logradouro": "Rua Treze de Maio, 43  ACF Quinze de Novembro;"
 }

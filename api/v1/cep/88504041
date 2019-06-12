@@ -1,12 +1,13 @@
 {
-  "cep": "88504041",
-  "logradouro": "Avenida Belisário Ramos de 1002 a 1600 - lado par",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "88504041",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - de 1002 a 1600 - lado par;"
 }

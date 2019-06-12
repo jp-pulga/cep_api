@@ -1,12 +1,12 @@
 {
-  "cep": "88520409",
-  "logradouro": "Rua Luíz Carlos Alves",
-  "bairro": "Gethal",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Gethal;",
+    "cep": "88520409",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Luíz Carlos Alves;"
 }

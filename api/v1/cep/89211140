@@ -1,12 +1,13 @@
 {
-  "cep": "89211140",
-  "logradouro": "Rua Oswaldo Schlemm",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "89211140",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rua Oswaldo Schlemm;"
 }

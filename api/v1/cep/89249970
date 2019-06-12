@@ -1,12 +1,13 @@
 {
-  "cep": "89249970",
-  "logradouro": "AC Itapoá Rua Ana Maria Rodrigues de Freitas 173",
-  "bairro": "Itapema do Norte",
-  "cidade": {
-    "nome": "Itapoá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itapema do Norte;",
+    "cep": "89249970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itapoá"
+    },
+    "ibge": 4208450,
+    "logradouro": "Rua Ana Maria Rodrigues de Freitas, 173  AC Itapoá;"
 }

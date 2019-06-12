@@ -1,12 +1,11 @@
 {
-  "cep": "88280000",
-  "logradouro": "Aguti (Nova Trento)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Aguti (Nova Trento)",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88280000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Nova Trento"
+    },
+    "ibge": 4211504
 }

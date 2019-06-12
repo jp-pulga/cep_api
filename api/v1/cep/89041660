@@ -1,12 +1,12 @@
 {
-  "cep": "89041660",
-  "logradouro": "Rua Ibicaré",
-  "bairro": "Água Verde",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Água Verde;",
+    "cep": "89041660",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Ibicaré;"
 }

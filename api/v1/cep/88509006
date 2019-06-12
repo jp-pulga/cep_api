@@ -1,12 +1,13 @@
 {
-  "cep": "88509006",
-  "logradouro": "Rua Sebastião Ramos Schmidt de 101/102 ao fim",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "88509006",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Rua Sebastião Ramos Schmidt - de 101\/102 ao fim;"
 }

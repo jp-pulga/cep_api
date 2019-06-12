@@ -1,12 +1,12 @@
 {
-  "cep": "88111340",
-  "logradouro": "Rua Antenor Valentim da Silva",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88111340",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Antenor Valentin da Silva (Loteamento Jardim das Acácias);"
 }

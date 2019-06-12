@@ -1,12 +1,12 @@
 {
-  "cep": "88032668",
-  "logradouro": "Servidão Carlos Henrique de Souza",
-  "bairro": "Monte Verde",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Verde;",
+    "cep": "88032668",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Carlos Henrique de Souza;"
 }

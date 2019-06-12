@@ -1,12 +1,13 @@
 {
-  "cep": "88306783",
-  "logradouro": "Avenida Central",
-  "bairro": "Balneário Santa Clara",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia Brava de Itajaí;",
+    "cep": "88306783",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Avenida Central;"
 }

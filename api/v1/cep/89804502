@@ -1,12 +1,12 @@
 {
-  "cep": "89804502",
-  "logradouro": "Rua Morro da Fumaça de 51 ao fim - lado ímpar",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "89804502",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Morro da Fumaça - de 51 ao fim - lado ímpar;"
 }

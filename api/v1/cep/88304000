@@ -1,12 +1,13 @@
 {
-  "cep": "88304000",
-  "logradouro": "Avenida Irineu Bornhausen de 1472/1473 ao fim",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "88304000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Avenida Irineu Bornhausen - de 1472\/1473 ao fim;"
 }

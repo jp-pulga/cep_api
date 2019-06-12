@@ -1,12 +1,12 @@
 {
-  "cep": "89015205",
-  "logradouro": "Rua Itajaí até 1616 - lado par",
-  "bairro": "Vorstadt",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vorstadt;",
+    "cep": "89015205",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Itajaí - até 1616 - lado par;"
 }

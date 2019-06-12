@@ -1,12 +1,12 @@
 {
-  "cep": "88817125",
-  "logradouro": "Rua Ageu Cândido Teixeira",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "88817125",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Ageu Cândido Teixeira;"
 }

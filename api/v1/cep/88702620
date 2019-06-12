@@ -1,12 +1,12 @@
 {
-  "cep": "88702620",
-  "logradouro": "Rua Abel Bressan",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "88702620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Abel Bressan;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13572404",
-  "logradouro": "Rua José Scalla",
-  "bairro": "Vila Monte Carlo",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Monte Carlo;",
+    "cep": "13572404",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rua José Scalla;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88524010",
-  "logradouro": "Avenida Edézio Caon",
-  "bairro": "Jardim Panorâmico",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Panorâmico;",
+    "cep": "88524010",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Edézio Caon;"
 }

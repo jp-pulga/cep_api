@@ -1,12 +1,11 @@
 {
-  "cep": "88870000",
-  "logradouro": "Orleans",
-  "bairro": "",
-  "cidade": {
-    "nome": "Orleans",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88870000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Orleans"
+    },
+    "ibge": 4211702
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89051190",
-  "logradouro": "Rua Lebon Régis",
-  "bairro": "Ponta Aguda",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ponta Aguda;",
+    "cep": "89051190",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Lebon Régis;"
 }

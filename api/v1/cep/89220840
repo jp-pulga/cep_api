@@ -1,12 +1,13 @@
 {
-  "cep": "89220840",
-  "logradouro": "Rua Luiz Carlos Schroeder",
-  "bairro": "Costa e Silva",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Costa e Silva;",
+    "cep": "89220840",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rua Luiz Carlos Schroeder;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88063011",
-  "logradouro": "Servidão Macieira",
-  "bairro": "Campeche",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campeche;",
+    "cep": "88063011",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Macieira;"
 }

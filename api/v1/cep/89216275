@@ -1,12 +1,12 @@
 {
-  "cep": "89216275",
-  "logradouro": "Rua José Boiteux",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "89216275",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua José Boiteux;"
 }

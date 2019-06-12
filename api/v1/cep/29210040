@@ -1,12 +1,12 @@
 {
-  "cep": "29210040",
-  "logradouro": "Rua 20",
-  "bairro": "Itapebussu",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itapebussu;",
+    "cep": "29210040",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua José Schineider;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88503625",
-  "logradouro": "Rua Sebastiana Pereira da Silva",
-  "bairro": "Morro Grande",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morro Grande;",
+    "cep": "88503625",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Sebastiana Pereira da Silva;"
 }

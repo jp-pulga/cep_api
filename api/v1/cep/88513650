@@ -1,12 +1,13 @@
 {
-  "cep": "88513650",
-  "logradouro": "Avenida Hipérides de Sá Ferreira",
-  "bairro": "Cruz de Malta",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cruz de Malta;",
+    "cep": "88513650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Hipérides de Sá Ferreira;"
 }

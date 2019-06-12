@@ -1,12 +1,12 @@
 {
-  "cep": "88810245",
-  "logradouro": "Rua Meleiro",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88810245",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Meleiro;"
 }

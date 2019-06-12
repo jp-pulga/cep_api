@@ -1,12 +1,13 @@
 {
-  "cep": "89998971",
-  "logradouro": "AC Novo Horizonte Rua José Fabro 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Horizonte",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89998971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Novo Horizonte"
+    },
+    "ibge": 4211652,
+    "logradouro": "Rua José Fabro, 3  AC Novo Horizonte;"
 }

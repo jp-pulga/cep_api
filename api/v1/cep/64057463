@@ -1,12 +1,12 @@
 {
-  "cep": "64057463",
-  "logradouro": "Rua Professor Raimundo Nonato Andrade (Conjunto Planalto Uruguai)",
-  "bairro": "Vale Quem Tem",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vale Quem Tem;",
+    "cep": "64057463",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professor Raimundo Nonato Andrade (Residencial Planalto Uruguai);"
 }

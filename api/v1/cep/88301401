@@ -1,12 +1,12 @@
 {
-  "cep": "88301401",
-  "logradouro": "Rua Lauro Muller de 617/618 ao fim",
-  "bairro": "Fazenda",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fazenda;",
+    "cep": "88301401",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Lauro Muller - de 617\/618 ao fim;"
 }

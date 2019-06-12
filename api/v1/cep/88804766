@@ -1,12 +1,12 @@
 {
-  "cep": "88804766",
-  "logradouro": "Rua Itapema",
-  "bairro": "Jardim Angélica",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Angélica;",
+    "cep": "88804766",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Itapema;"
 }

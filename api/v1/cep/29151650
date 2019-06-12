@@ -1,12 +1,12 @@
 {
-  "cep": "29151650",
-  "logradouro": "Avenida Doutor Afonso Schwab",
-  "bairro": "Itaquari",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itaquari;",
+    "cep": "29151650",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Afonso Schwab;"
 }

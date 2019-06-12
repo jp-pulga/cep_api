@@ -1,12 +1,13 @@
 {
-  "cep": "89832971",
-  "logradouro": "AC Ipuaçu Rua Pagnoncelli 535 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipuaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89832971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ipuaçu"
+    },
+    "ibge": 4207684,
+    "logradouro": "Rua Pagnoncelli, 535 Sala 02  AC Ipuaçu;"
 }

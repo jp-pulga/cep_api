@@ -1,12 +1,13 @@
 {
-  "cep": "88317140",
-  "logradouro": "Avenida Atílio Dalsóquio",
-  "bairro": "Espinheiros",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Espinheiros;",
+    "cep": "88317140",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "ibge": 4208203,
+    "logradouro": "Avenida Atílio Dalsóquio;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88509517",
-  "logradouro": "Avenida Dom Pedro II até 769 - lado ímpar",
-  "bairro": "Coral",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Coral;",
+    "cep": "88509517",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Dom Pedro II - até 769 - lado ímpar;"
 }

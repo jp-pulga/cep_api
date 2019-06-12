@@ -1,12 +1,13 @@
 {
-  "cep": "89860970",
-  "logradouro": "AC Marema Rua Pedro Álvares Cabral 274",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marema",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89860970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Marema"
+    },
+    "ibge": 4210555,
+    "logradouro": "Rua Pedro Álvares Cabral, 274  AC Marema;"
 }

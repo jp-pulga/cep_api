@@ -1,12 +1,12 @@
 {
-  "cep": "89221330",
-  "logradouro": "Rua Itapiranga",
-  "bairro": "Saguaçu",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Saguaçu;",
+    "cep": "89221330",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Itapiranga;"
 }

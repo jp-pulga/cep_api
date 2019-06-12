@@ -1,12 +1,13 @@
 {
-  "cep": "88514605",
-  "logradouro": "Avenida Doutor João Pedro Arruda",
-  "bairro": "Área Industrial",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Área Industrial;",
+    "cep": "88514605",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Doutor João Pedro Arruda;"
 }

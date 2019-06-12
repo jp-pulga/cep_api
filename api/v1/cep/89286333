@@ -1,12 +1,12 @@
 {
-  "cep": "89286333",
-  "logradouro": "Rua Monte Castelo lado par",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "89286333",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Monte Castelo - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88911348",
-  "logradouro": "Rua Laguna",
-  "bairro": "Morro dos Conventos",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morro dos Conventos;",
+    "cep": "88911348",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Rua Laguna;"
 }

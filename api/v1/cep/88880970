@@ -1,12 +1,13 @@
 {
-  "cep": "88880970",
-  "logradouro": "AC Lauro Muller Praça Henrique Lage 88",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lauro Müller",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88880970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lauro Müller"
+    },
+    "ibge": 4209607,
+    "logradouro": "Praça Henrique Lage, 88  AC Lauro Muller;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64000430",
-  "logradouro": "Rua Primeiro de Maio (Zona Norte) até 899/900",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64000430",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Primeiro de Maio (Zona Norte) - até 899\/900;"
 }

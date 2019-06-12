@@ -1,12 +1,12 @@
 {
-  "cep": "88340494",
-  "logradouro": "Rua Irani Ana Moser",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88340494",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Camboriú"
+    },
+    "logradouro": "Rua Irani Ana Moser;"
 }

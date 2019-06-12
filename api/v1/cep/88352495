@@ -1,12 +1,12 @@
 {
-  "cep": "88352495",
-  "logradouro": "Rua Itajaí até 998/999",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "88352495",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Itajaí - até 998\/999;"
 }

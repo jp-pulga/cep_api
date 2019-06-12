@@ -1,12 +1,12 @@
 {
-  "cep": "31742060",
-  "logradouro": "Praça Primeiro de Maio",
-  "bairro": "Floramar",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floramar;",
+    "cep": "31742060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Primeiro de Maio;"
 }

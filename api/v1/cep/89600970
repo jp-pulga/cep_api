@@ -1,12 +1,13 @@
 {
-  "cep": "89600970",
-  "logradouro": "AC Joaçaba Rua Roberto Trompowski 7",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joaçaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89600970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joaçaba"
+    },
+    "ibge": 4209003,
+    "logradouro": "Rua Roberto Trompowski, 7  AC Joaçaba;"
 }

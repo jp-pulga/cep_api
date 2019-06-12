@@ -1,12 +1,13 @@
 {
-  "cep": "89600900",
-  "logradouro": "REVEN SC-04 Oeste Catarinense Rua Roberto Trompowski 07",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joaçaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89600900",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joaçaba"
+    },
+    "ibge": 4209003,
+    "logradouro": "Rua Roberto Trompowski 07  REVEN SC-04 Oeste Catarinense;"
 }

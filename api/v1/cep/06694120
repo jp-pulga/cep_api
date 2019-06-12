@@ -1,12 +1,12 @@
 {
-  "cep": "06694120",
-  "logradouro": "Rua Padre Manfredo Schubiger",
-  "bairro": "Nova Itapevi",
-  "cidade": {
-    "nome": "Itapevi",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Nova Itapevi;",
+    "cep": "06694120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapevi"
+    },
+    "logradouro": "Rua Padre Manfredo Schubiger;"
 }

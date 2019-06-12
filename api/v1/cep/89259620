@@ -1,12 +1,13 @@
 {
-  "cep": "89259620",
-  "logradouro": "Rua Adão Maba",
-  "bairro": "Barra do Rio Molha",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra do Rio Molha;",
+    "cep": "89259620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Rua Adão Maba;"
 }

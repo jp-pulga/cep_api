@@ -1,12 +1,13 @@
 {
-  "cep": "89265105",
-  "logradouro": "Rodovia Prefeito Engelbert Oechsler lado esquerdo",
-  "bairro": "Tifa Monos",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tifa Monos;",
+    "cep": "89265105",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Rodovia Prefeito Engelbert Oechsler;"
 }

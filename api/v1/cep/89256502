@@ -1,12 +1,13 @@
 {
-  "cep": "89256502",
-  "logradouro": "Avenida Prefeito Waldemar Grubba de 3292 ao fim - lado par",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centenário;",
+    "cep": "89256502",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Avenida Prefeito Waldemar Grubba - de 3292 ao fim - lado par;"
 }

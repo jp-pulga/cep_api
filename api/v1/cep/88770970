@@ -1,12 +1,13 @@
 {
-  "cep": "88770970",
-  "logradouro": "AC Imaruí Rua Antônio Bittencourt Capanema 858",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Imaruí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88770970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imaruí"
+    },
+    "ibge": 4207205,
+    "logradouro": "Rua Antônio Bittencourt Capanema, 858  AC Imaruí;"
 }

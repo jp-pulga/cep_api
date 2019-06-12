@@ -1,12 +1,12 @@
 {
-  "cep": "88352245",
-  "logradouro": "Rua Luiz Alves",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "88352245",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Luiz Alves;"
 }

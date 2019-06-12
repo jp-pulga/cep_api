@@ -1,12 +1,13 @@
 {
-  "cep": "89380970",
-  "logradouro": "AC Monte Castelo Rua Barão do Cerro Azul 950",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Castelo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89380970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Monte Castelo"
+    },
+    "ibge": 4211108,
+    "logradouro": "Rua Barão do Cerro Azul, 950  AC Monte Castelo;"
 }

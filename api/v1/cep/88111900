@@ -1,12 +1,12 @@
 {
-  "cep": "88111900",
-  "logradouro": "Vidal Procópio Lohn e Filhos Ltda Rodovia BR-101 s/n",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "88111900",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rodovia BR-101, s\/n  Vidal Procópio Lohn e Filhos Ltda;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88505005",
-  "logradouro": "Avenida Belisário Ramos de 1593 a 1995 - lado ímpar",
-  "bairro": "Beatriz",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Beatriz;",
+    "cep": "88505005",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - de 1593 a 1995 - lado ímpar;"
 }

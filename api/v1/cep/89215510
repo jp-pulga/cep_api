@@ -1,12 +1,13 @@
 {
-  "cep": "89215510",
-  "logradouro": "Rodovia Rodolfo Jahn lado ímpar",
-  "bairro": "Morro do Meio",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morro do Meio;",
+    "cep": "89215510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rodovia SC-108 - lado ímpar;"
 }

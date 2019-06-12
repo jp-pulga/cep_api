@@ -1,12 +1,12 @@
 {
-  "cep": "89802157",
-  "logradouro": "Rua Ipiranga",
-  "bairro": "SAIC",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "SAIC;",
+    "cep": "89802157",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Ipiranga;"
 }

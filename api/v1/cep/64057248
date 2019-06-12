@@ -1,12 +1,12 @@
 {
-  "cep": "64057248",
-  "logradouro": "Rua Professor Raimundo Morais (Conjunto Planalto Uruguai)",
-  "bairro": "Vale Quem Tem",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vale Quem Tem;",
+    "cep": "64057248",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professor Raimundo Morais (Conjunto Planalto Uruguai);"
 }

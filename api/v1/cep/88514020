@@ -1,12 +1,13 @@
 {
-  "cep": "88514020",
-  "logradouro": "Avenida Aristeu Rodolfo até 899/900",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "88514020",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Aristeu Rodolfo - até 899\/900;"
 }

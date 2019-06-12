@@ -1,12 +1,13 @@
 {
-  "cep": "88511118",
-  "logradouro": "Avenida Antônio Ribeiro dos Santos até 525 - lado ímpar",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "88511118",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Antônio Ribeiro dos Santos - até 525 - lado ímpar;"
 }

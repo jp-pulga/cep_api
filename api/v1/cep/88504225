@@ -1,12 +1,12 @@
 {
-  "cep": "88504225",
-  "logradouro": "Rua Gustavo Lebon Régis",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "88504225",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Gustavo Lebon Régis;"
 }

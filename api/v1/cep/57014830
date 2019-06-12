@@ -1,12 +1,12 @@
 {
-  "cep": "57014830",
-  "logradouro": "Rua Professor Sampaio Dória",
-  "bairro": "Ponta Grossa",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ponta Grossa;",
+    "cep": "57014830",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Professor Sampaio Dória;"
 }

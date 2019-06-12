@@ -1,12 +1,12 @@
 {
-  "cep": "88810360",
-  "logradouro": "Rua Jaguaruna",
-  "bairro": "Maria Céu",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Maria Céu;",
+    "cep": "88810360",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Jaguaruna;"
 }

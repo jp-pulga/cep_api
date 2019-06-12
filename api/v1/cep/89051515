@@ -1,12 +1,12 @@
 {
-  "cep": "89051515",
-  "logradouro": "Rua Veneza",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "89051515",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Veneza;"
 }

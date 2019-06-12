@@ -1,12 +1,12 @@
 {
-  "cep": "89810190",
-  "logradouro": "Rua Ipira",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "89810190",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Ipira;"
 }

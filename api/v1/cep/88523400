@@ -1,12 +1,13 @@
 {
-  "cep": "88523400",
-  "logradouro": "Avenida Corina Caon de 579/580 ao fim",
-  "bairro": "Ponte Grande",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ponte Grande;",
+    "cep": "88523400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Corina Caon - de 579\/580 ao fim;"
 }

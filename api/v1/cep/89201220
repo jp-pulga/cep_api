@@ -1,12 +1,13 @@
 {
-  "cep": "89201220",
-  "logradouro": "Avenida Doutor Albano Schulz",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89201220",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Avenida Doutor Albano Schulz;"
 }

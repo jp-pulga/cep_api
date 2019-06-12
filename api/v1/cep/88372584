@@ -1,12 +1,13 @@
 {
-  "cep": "88372584",
-  "logradouro": "Rua André Schumacher até 669/670",
-  "bairro": "Gravatá",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Gravatá;",
+    "cep": "88372584",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Rua André Schumacher - até 669\/670;"
 }

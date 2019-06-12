@@ -1,12 +1,11 @@
 {
-  "cep": "88787000",
-  "logradouro": "Mirim (Imbituba)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mirim (Imbituba)",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88787000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imbituba"
+    },
+    "ibge": 4207304
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "89701990",
-  "logradouro": "Planalto Rua Principal s/n Planalto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Concórdia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89701990",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Concórdia"
+    },
+    "logradouro": "Rua Principal, s\/n   Planalto  CPC Planalto;"
 }

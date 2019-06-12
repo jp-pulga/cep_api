@@ -1,12 +1,12 @@
 {
-  "cep": "57014002",
-  "logradouro": "Rua Professor Virgílio Guedes lado par",
-  "bairro": "Ponta Grossa",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ponta Grossa;",
+    "cep": "57014002",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Professor Virgílio Guedes - lado par;"
 }

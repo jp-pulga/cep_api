@@ -1,12 +1,12 @@
 {
-  "cep": "89060324",
-  "logradouro": "Rua Antônio Olavo Mafra",
-  "bairro": "Fidélis",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fidélis;",
+    "cep": "89060324",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Antônio Olavo Mafra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88351230",
-  "logradouro": "Rua Luiz Alves Gevaerd",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "88351230",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Luiz Alves Gevaerd;"
 }

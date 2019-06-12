@@ -1,12 +1,13 @@
 {
-  "cep": "89940970",
-  "logradouro": "AC Guarujá do Sul Rua Otavio Diehl 640",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guarujá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89940970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Guarujá do Sul"
+    },
+    "ibge": 4206603,
+    "logradouro": "Rua Otavio Diehl, 640  AC Guarujá do Sul;"
 }

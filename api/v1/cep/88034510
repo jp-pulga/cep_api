@@ -1,12 +1,12 @@
 {
-  "cep": "88034510",
-  "logradouro": "Rua Itapuã",
-  "bairro": "Itacorubi",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itacorubi;",
+    "cep": "88034510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Itapuã;"
 }

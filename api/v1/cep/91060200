@@ -1,12 +1,12 @@
 {
-  "cep": "91060200",
-  "logradouro": "Praça Vitória Régia",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "91060200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Vitória Régia;"
 }

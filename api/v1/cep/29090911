@@ -1,12 +1,12 @@
 {
-  "cep": "29090911",
-  "logradouro": "Porto de Praia Mole Estrada Complexo Siderúrgico de Tubarão 6100",
-  "bairro": "Parque Industrial",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque Industrial;",
+    "cep": "29090911",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Estrada Complexo Siderúrgico de Tubarão, 6100  Porto de Praia Mole;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88340293",
-  "logradouro": "Rua Lauro Muller",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88340293",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Camboriú"
+    },
+    "logradouro": "Rua Lauro Muller;"
 }

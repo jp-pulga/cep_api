@@ -1,12 +1,11 @@
 {
-  "cep": "88400000",
-  "logradouro": "Ituporanga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ituporanga",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88400000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ituporanga"
+    },
+    "ibge": 4208500
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88705505",
-  "logradouro": "Rua Lauro Muller de 2126/2127 ao fim",
-  "bairro": "Passagem",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passagem;",
+    "cep": "88705505",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Lauro Muller - de 2126\/2127 ao fim;"
 }

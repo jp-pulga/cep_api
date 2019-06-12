@@ -1,12 +1,12 @@
 {
-  "cep": "88160382",
-  "logradouro": "Rua Nossa Senhora dos Navegantes",
-  "bairro": "Saveiro",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Saveiro;",
+    "cep": "88160382",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "logradouro": "Rua Nossa Senhora dos Navegantes;"
 }

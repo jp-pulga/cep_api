@@ -1,12 +1,11 @@
 {
-  "cep": "89440000",
-  "logradouro": "Irineópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Irineópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89440000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Irineópolis"
+    },
+    "ibge": 4207908
 }

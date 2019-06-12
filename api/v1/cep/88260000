@@ -1,12 +1,11 @@
 {
-  "cep": "88260000",
-  "logradouro": "Major Gercino",
-  "bairro": "",
-  "cidade": {
-    "nome": "Major Gercino",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88260000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Major Gercino"
+    },
+    "ibge": 4210209
 }

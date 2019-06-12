@@ -1,12 +1,13 @@
 {
-  "cep": "88715973",
-  "logradouro": "AGC Olho D'Agua Estrada Geral de Olho D'Agua s/n",
-  "bairro": "Olho D'Água",
-  "cidade": {
-    "nome": "Jaguaruna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Olho D'Água;",
+    "cep": "88715973",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaguaruna"
+    },
+    "ibge": 4208807,
+    "logradouro": "Estrada Geral de Olho D'Agua, s\/n  AGC Olho D'Agua;"
 }

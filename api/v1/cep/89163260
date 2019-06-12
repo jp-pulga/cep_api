@@ -1,12 +1,12 @@
 {
-  "cep": "89163260",
-  "logradouro": "Rua Massaranduba",
-  "bairro": "Canta Galo",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Canta Galo;",
+    "cep": "89163260",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Massaranduba;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "19033810",
-  "logradouro": "Rua Presidente Castelo Branco",
-  "bairro": "Parque Castelo Branco",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Castelo Branco;",
+    "cep": "19033810",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Presidente Castelo Branco;"
 }

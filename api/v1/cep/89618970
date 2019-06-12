@@ -1,12 +1,13 @@
 {
-  "cep": "89618970",
-  "logradouro": "AC Monte Carlo Avenida Enio Lopes de Albuquerque 1125",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Carlo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89618970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Monte Carlo"
+    },
+    "ibge": 4211058,
+    "logradouro": "Avenida Enio Lopes de Albuquerque, 1125  AC Monte Carlo;"
 }

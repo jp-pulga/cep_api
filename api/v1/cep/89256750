@@ -1,12 +1,13 @@
 {
-  "cep": "89256750",
-  "logradouro": "Rua Ademar Irio Vasel",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centenário;",
+    "cep": "89256750",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "ibge": 4208906,
+    "logradouro": "Rua Ademar Irio Vasel;"
 }

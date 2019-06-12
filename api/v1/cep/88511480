@@ -1,12 +1,12 @@
 {
-  "cep": "88511480",
-  "logradouro": "Rua das Imbuias",
-  "bairro": "Habitação",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Habitação;",
+    "cep": "88511480",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua das Imbuias;"
 }

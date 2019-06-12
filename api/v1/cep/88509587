@@ -1,12 +1,13 @@
 {
-  "cep": "88509587",
-  "logradouro": "Rua Hilda Schmidt Piccinini",
-  "bairro": "Coral",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Coral;",
+    "cep": "88509587",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Rua Hilda Schmidt Piccinini;"
 }

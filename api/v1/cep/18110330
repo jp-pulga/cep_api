@@ -1,12 +1,12 @@
 {
-  "cep": "18110330",
-  "logradouro": "Rua Lourenço Prado Ferreira Filho",
-  "bairro": "Jardim Icatu",
-  "cidade": {
-    "nome": "Votorantim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Icatu;",
+    "cep": "18110330",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Votorantim"
+    },
+    "logradouro": "Rua Lourenço Prado Ferreira Filho;"
 }

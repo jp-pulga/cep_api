@@ -1,12 +1,12 @@
 {
-  "cep": "88525130",
-  "logradouro": "Rua Itapoá",
-  "bairro": "São Miguel",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Miguel;",
+    "cep": "88525130",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Itapoá;"
 }

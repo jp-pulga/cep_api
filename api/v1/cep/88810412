@@ -1,12 +1,12 @@
 {
-  "cep": "88810412",
-  "logradouro": "Rua Nova Trento",
-  "bairro": "Mina do Mato",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Mina do Mato;",
+    "cep": "88810412",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Nova Trento;"
 }

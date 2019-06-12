@@ -1,12 +1,12 @@
 {
-  "cep": "88037420",
-  "logradouro": "Rua Eduardo Laurentino da Silva",
-  "bairro": "Córrego Grande",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Córrego Grande;",
+    "cep": "88037420",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Eduardo Laurentino da Silva;"
 }

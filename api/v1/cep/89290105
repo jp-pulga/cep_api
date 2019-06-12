@@ -1,12 +1,12 @@
 {
-  "cep": "89290105",
-  "logradouro": "Travessa Imbuia",
-  "bairro": "25 de Julho",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "25 de Julho;",
+    "cep": "89290105",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Travessa Imbuia;"
 }

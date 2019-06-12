@@ -1,12 +1,11 @@
 {
-  "cep": "88865000",
-  "logradouro": "Nova Veneza",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Veneza",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88865000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Nova Veneza"
+    },
+    "ibge": 4211603
 }

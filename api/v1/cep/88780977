@@ -1,12 +1,13 @@
 {
-  "cep": "88780977",
-  "logradouro": "AGC Alto Arroio Estrada Geral s/n",
-  "bairro": "Alto Arroio",
-  "cidade": {
-    "nome": "Imbituba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Alto Arroio;",
+    "cep": "88780977",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imbituba"
+    },
+    "ibge": 4207304,
+    "logradouro": "Estrada Geral, s\/n  AGC Alto Arroio;"
 }

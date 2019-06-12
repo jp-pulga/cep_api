@@ -1,12 +1,12 @@
 {
-  "cep": "89213522",
-  "logradouro": "Servidão Jaborandi",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "89213522",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Servidão Jaborandi;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88715971",
-  "logradouro": "AGC Camacho Rua Amapá s/n",
-  "bairro": "Camacho",
-  "cidade": {
-    "nome": "Jaguaruna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Camacho;",
+    "cep": "88715971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaguaruna"
+    },
+    "ibge": 4208807,
+    "logradouro": "Rua Amapá, s\/n  AGC Camacho;"
 }

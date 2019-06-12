@@ -1,12 +1,12 @@
 {
-  "cep": "29178522",
-  "logradouro": "Rua Ribeirão Preto",
-  "bairro": "Planalto Serrano Bloco B",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Planalto Serrano;",
+    "cep": "29178522",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Ribeirão Preto (Bloco B);"
 }

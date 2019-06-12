@@ -1,12 +1,13 @@
 {
-  "cep": "88370074",
-  "logradouro": "Avenida João Sacavem de 590/591 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370074",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida João Sacavem - de 590\/591 ao fim;"
 }

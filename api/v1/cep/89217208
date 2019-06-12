@@ -1,12 +1,13 @@
 {
-  "cep": "89217208",
-  "logradouro": "Servidão Frida Augusta Schneider Kluver",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "89217208",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Servidão Frida Augusta Schneider Kluver;"
 }

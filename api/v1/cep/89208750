@@ -1,12 +1,13 @@
 {
-  "cep": "89208750",
-  "logradouro": "Avenida Paulo Schroeder de 2552/2553 ao fim",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "89208750",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Avenida Paulo Schroeder - de 2552\/2553 ao fim;"
 }

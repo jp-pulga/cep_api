@@ -1,12 +1,13 @@
 {
-  "cep": "88504040",
-  "logradouro": "Avenida Belisário Ramos até 999/1000",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "88504040",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - de 322 a 1000 - lado par;"
 }

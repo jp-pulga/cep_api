@@ -1,12 +1,12 @@
 {
-  "cep": "89812123",
-  "logradouro": "Rua Itapoã",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "89812123",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Itapoã;"
 }

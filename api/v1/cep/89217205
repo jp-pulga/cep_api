@@ -1,12 +1,13 @@
 {
-  "cep": "89217205",
-  "logradouro": "Rua Ricardo Scholz",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "89217205",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rua Ricardo Scholz;"
 }

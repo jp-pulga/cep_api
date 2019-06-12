@@ -1,12 +1,12 @@
 {
-  "cep": "89228161",
-  "logradouro": "Rua Imbuia de 704/705 ao fim",
-  "bairro": "Comasa",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Comasa;",
+    "cep": "89228161",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Imbuia - de 704\/705 ao fim;"
 }

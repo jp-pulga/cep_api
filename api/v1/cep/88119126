@@ -1,12 +1,12 @@
 {
-  "cep": "88119126",
-  "logradouro": "Rua Jaborandi",
-  "bairro": "Potecas",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Potecas;",
+    "cep": "88119126",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Jaborandi;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89677970",
-  "logradouro": "AC Jaborá Rua Carlos Gomes 98",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaborá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89677970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaborá"
+    },
+    "ibge": 4208609,
+    "logradouro": "Rua Lauro Rupp, 99  AC Jaborá;"
 }

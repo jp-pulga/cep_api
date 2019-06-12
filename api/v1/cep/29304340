@@ -1,12 +1,12 @@
 {
-  "cep": "29304340",
-  "logradouro": "Rua Sabina Scárdua Fardim",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "29304340",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Sabina Scárdua Fardim;"
 }

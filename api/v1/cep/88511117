@@ -1,12 +1,13 @@
 {
-  "cep": "88511117",
-  "logradouro": "Avenida Antônio Ribeiro dos Santos até 526 - lado par",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "88511117",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Antônio Ribeiro dos Santos - até 526 - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89809430",
-  "logradouro": "Rua Mondaí",
-  "bairro": "Engenho Braun",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Engenho Braun;",
+    "cep": "89809430",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Mondaí;"
 }

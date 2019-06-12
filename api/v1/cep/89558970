@@ -1,12 +1,13 @@
 {
-  "cep": "89558970",
-  "logradouro": "AC Iomerê Rua São Camilo 170",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iomerê",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89558970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Iomerê"
+    },
+    "ibge": 4207577,
+    "logradouro": "Rua São Camilo, 170  AC Iomerê;"
 }

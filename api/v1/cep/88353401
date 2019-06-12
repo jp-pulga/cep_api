@@ -1,12 +1,12 @@
 {
-  "cep": "88353401",
-  "logradouro": "Rua Nova Trento de 381/382 ao fim",
-  "bairro": "Azambuja",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Azambuja;",
+    "cep": "88353401",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Nova Trento - de 381\/382 ao fim;"
 }

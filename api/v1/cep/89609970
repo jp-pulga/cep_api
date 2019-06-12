@@ -1,12 +1,13 @@
 {
-  "cep": "89609970",
-  "logradouro": "AC Luzerna Avenida Dezesseis de Fevereiro 187 Sala 08",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luzerna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89609970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Luzerna"
+    },
+    "ibge": 4210035,
+    "logradouro": "Avenida Dezesseis de Fevereiro, 187 Sala 08  AC Luzerna;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88815690",
-  "logradouro": "Rua Ibirama",
-  "bairro": "Nossa Senhora da Salete",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nossa Senhora da Salete;",
+    "cep": "88815690",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Ibirama;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88440970",
-  "logradouro": "AC Imbuia Rua Mainolfo Lehmkut 77",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Imbuia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88440970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imbuia"
+    },
+    "ibge": 4207403,
+    "logradouro": "Rua Mainolfo Lehmkut, 77  AC Imbuia;"
 }

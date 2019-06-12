@@ -1,12 +1,12 @@
 {
-  "cep": "88133050",
-  "logradouro": "Rua Nova Veneza",
-  "bairro": "Passa Vinte",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passa Vinte;",
+    "cep": "88133050",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Nova Veneza;"
 }

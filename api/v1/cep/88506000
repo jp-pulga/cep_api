@@ -1,12 +1,13 @@
 {
-  "cep": "88506000",
-  "logradouro": "Avenida Belisário Ramos de 2483/2484 a 3246/3247",
-  "bairro": "Guadalupe",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Guadalupe;",
+    "cep": "88506000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida Belisário Ramos - de 2483 a 3247 - lado ímpar;"
 }

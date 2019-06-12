@@ -1,12 +1,13 @@
 {
-  "cep": "88524100",
-  "logradouro": "Rua Adolfo Schmidt",
-  "bairro": "Jardim Panorâmico",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Panorâmico;",
+    "cep": "88524100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Rua Adolfo Schmidt;"
 }

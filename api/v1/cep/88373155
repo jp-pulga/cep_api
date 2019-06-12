@@ -1,12 +1,13 @@
 {
-  "cep": "88373155",
-  "logradouro": "Rua Francisco Schmitz",
-  "bairro": "Pedreiras",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pedreiras;",
+    "cep": "88373155",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Rua Francisco Schmitz;"
 }

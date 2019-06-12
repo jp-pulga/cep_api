@@ -1,12 +1,13 @@
 {
-  "cep": "89518971",
-  "logradouro": "AC Macieira Rua Dona Maria Mendes 416",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Macieira",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89518971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Macieira"
+    },
+    "ibge": 4210050,
+    "logradouro": "Rua Dona Maria Mendes, 416  AC Macieira;"
 }

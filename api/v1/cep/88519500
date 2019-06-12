@@ -1,12 +1,13 @@
 {
-  "cep": "88519500",
-  "logradouro": "Avenida João Goulart até 654/655",
-  "bairro": "Jardim Celina",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Celina;",
+    "cep": "88519500",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Avenida João Goulart - até 654\/655;"
 }

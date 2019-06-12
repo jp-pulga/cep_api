@@ -1,12 +1,12 @@
 {
-  "cep": "89270991",
-  "logradouro": "Caixa D'agua Rua Angelo Zanluca 97",
-  "bairro": "",
-  "cidade": {
-    "nome": "Guaramirim",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89270991",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Guaramirim"
+    },
+    "ibge": 4206504,
+    "logradouro": "Rua Angelo Zanluca, 97  CPC Caixa D'agua;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88372640",
-  "logradouro": "Rua Lauro Muller",
-  "bairro": "Gravatá",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Gravatá;",
+    "cep": "88372640",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Lauro Muller;"
 }

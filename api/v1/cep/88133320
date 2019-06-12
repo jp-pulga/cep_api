@@ -1,12 +1,12 @@
 {
-  "cep": "88133320",
-  "logradouro": "Rua Lauro Muller",
-  "bairro": "Jardim Eldorado",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Eldorado;",
+    "cep": "88133320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Lauro Muller;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89865970",
-  "logradouro": "AC Nova Erechim Avenida Coronel Bertaso 51",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Erechim",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89865970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Nova Erechim"
+    },
+    "ibge": 4211405,
+    "logradouro": "Avenida Coronel Bertaso, 51  AC Nova Erechim;"
 }

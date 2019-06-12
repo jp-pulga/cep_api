@@ -1,12 +1,13 @@
 {
-  "cep": "88780972",
-  "logradouro": "AGC Nova Brasília Avenida Cônego Itamar Luiz da Costa 1011",
-  "bairro": "Povoado de Nova Brasília",
-  "cidade": {
-    "nome": "Imbituba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Povoado de Nova Brasília;",
+    "cep": "88780972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Imbituba"
+    },
+    "ibge": 4207304,
+    "logradouro": "Avenida Cônego Itamar Luiz da Costa, 1011  AGC Nova Brasília;"
 }

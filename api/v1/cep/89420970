@@ -1,12 +1,13 @@
 {
-  "cep": "89420970",
-  "logradouro": "AC Matos Costa Rua Tereza Cristina s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matos Costa",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89420970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Matos Costa"
+    },
+    "ibge": 4210704,
+    "logradouro": "Rua Tereza Cristina, s\/n  AC Matos Costa;"
 }

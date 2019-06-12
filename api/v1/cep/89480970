@@ -1,12 +1,13 @@
 {
-  "cep": "89480970",
-  "logradouro": "AC Major Vieira Rua Argemiro Borges 103",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Major Vieira",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89480970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Major Vieira"
+    },
+    "ibge": 4210308,
+    "logradouro": "Travessa Otacílio F. Souza, s\/n  AC Major Vieira;"
 }

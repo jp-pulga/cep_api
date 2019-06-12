@@ -1,12 +1,13 @@
 {
-  "cep": "88870973",
-  "logradouro": "AGC Rio Pinheiros Estrada Rio Pinheiros Baixo s/n",
-  "bairro": "Rio Pinheiros",
-  "cidade": {
-    "nome": "Orleans",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Pinheiros;",
+    "cep": "88870973",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Orleans"
+    },
+    "ibge": 4211702,
+    "logradouro": "Estrada Rio Pinheiros Baixo, s\/n  AGC Rio Pinheiros;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88715970",
-  "logradouro": "AC Jaguaruna Rua Getúlio Vargas 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaguaruna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88715970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaguaruna"
+    },
+    "ibge": 4208807,
+    "logradouro": "Rua Coronel Luiz Francisco Pereira, 22  AC Jaguaruna;"
 }

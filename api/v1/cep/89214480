@@ -1,12 +1,13 @@
 {
-  "cep": "89214480",
-  "logradouro": "Rua Eduardo Scheel",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "89214480",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "ibge": 4209102,
+    "logradouro": "Rua Eduardo Scheel;"
 }

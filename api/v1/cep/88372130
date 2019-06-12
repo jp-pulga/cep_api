@@ -1,12 +1,13 @@
 {
-  "cep": "88372130",
-  "logradouro": "Avenida Ivo Silveira",
-  "bairro": "Meia Praia",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Meia Praia;",
+    "cep": "88372130",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Avenida Ivo Silveira;"
 }

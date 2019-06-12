@@ -1,12 +1,13 @@
 {
-  "cep": "88508526",
-  "logradouro": "Rua Plínio Schmidt",
-  "bairro": "Sagrado Coração de Jesus",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sagrado Coração de Jesus;",
+    "cep": "88508526",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "ibge": 4209300,
+    "logradouro": "Rua Plínio Schmidt;"
 }

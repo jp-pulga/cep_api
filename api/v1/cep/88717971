@@ -1,12 +1,12 @@
 {
-  "cep": "88717971",
-  "logradouro": "AGC Morro Grande Rua São João Batista",
-  "bairro": "Distrito de Morro Grande",
-  "cidade": {
-    "nome": "Sangão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Distrito de Morro Grande;",
+    "cep": "88717971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Sangão"
+    },
+    "logradouro": "Rua São João Batista, s\/n  AGC Morro Grande Sangão;"
 }

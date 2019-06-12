@@ -1,12 +1,13 @@
 {
-  "cep": "88370388",
-  "logradouro": "Rua José Schubert Junior de 660/661 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370388",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "ibge": 4211306,
+    "logradouro": "Rua Secretário José Schubert Junior - de 660\/661 ao fim;"
 }
