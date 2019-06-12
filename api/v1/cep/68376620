@@ -1,12 +1,13 @@
 {
-  "cep": "68376620",
-  "logradouro": "Travessa E (Loteamento Panorama)",
-  "bairro": "Jardim Altamira",
-  "cidade": {
-    "nome": "Altamira",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Altamira;",
+    "cep": "68376620",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Altamira"
+    },
+    "ibge": 1500602,
+    "logradouro": "Travessa E (Lot Panorama);"
 }

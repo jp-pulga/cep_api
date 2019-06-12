@@ -1,12 +1,13 @@
 {
-  "cep": "68702154",
-  "logradouro": "Passagem Raimundo Nogueira",
-  "bairro": "Inussun",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Inussun;",
+    "cep": "68702154",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Raimundo Nogueira;"
 }

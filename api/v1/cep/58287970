@@ -1,12 +1,13 @@
 {
-  "cep": "58287970",
-  "logradouro": "AGC Capim Rua São Sebastião 30",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capim",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58287970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Capim"
+    },
+    "ibge": 2504033,
+    "logradouro": "Rua São Sebastião, 30  AGC Capim;"
 }

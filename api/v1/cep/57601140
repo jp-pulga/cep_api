@@ -1,12 +1,12 @@
 {
-  "cep": "57601140",
-  "logradouro": "Avenida Sete de Setembro",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "57601140",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "logradouro": "Avenida Sete de Setembro;"
 }

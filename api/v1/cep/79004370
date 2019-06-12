@@ -1,12 +1,12 @@
 {
-  "cep": "79004370",
-  "logradouro": "Rua Piauí",
-  "bairro": "Itanhangá Park",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Itanhangá Park;",
+    "cep": "79004370",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Piauí;"
 }

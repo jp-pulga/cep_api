@@ -1,12 +1,13 @@
 {
-  "cep": "68745360",
-  "logradouro": "Passagem Velasco",
-  "bairro": "Ianetama",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Ianetama;",
+    "cep": "68745360",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Velasco;"
 }

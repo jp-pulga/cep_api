@@ -1,12 +1,13 @@
 {
-  "cep": "64895970",
-  "logradouro": "AGC Brejo do Piauí Avenida José Gomes Chaves 94",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brejo do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64895970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Brejo do Piauí"
+    },
+    "ibge": 2201988,
+    "logradouro": "Avenida José Gomes Chaves, 94  AGC Brejo do Piauí;"
 }

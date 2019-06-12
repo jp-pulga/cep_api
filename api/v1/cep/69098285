@@ -1,12 +1,12 @@
 {
-  "cep": "69098285",
-  "logradouro": "Rua Rio Ipixuna (N Aleixo)",
-  "bairro": "Novo Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Novo Aleixo;",
+    "cep": "69098285",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Rio Ipixuna;"
 }

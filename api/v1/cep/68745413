@@ -1,12 +1,13 @@
 {
-  "cep": "68745413",
-  "logradouro": "Passagem Cristo Rei",
-  "bairro": "Santa Lídia",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Lídia;",
+    "cep": "68745413",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Cristo Rei;"
 }

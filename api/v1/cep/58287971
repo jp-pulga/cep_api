@@ -1,12 +1,13 @@
 {
-  "cep": "58287971",
-  "logradouro": "AGC Olho D'agua do Serrão Avenida São José 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capim",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58287971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Capim"
+    },
+    "ibge": 2504033,
+    "logradouro": "Avenida São José, 43  AGC Olho D'agua do Serrão;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69401242",
-  "logradouro": "Avenida Pedro Moura de 582 ao fim - lado par",
-  "bairro": "Terra Preta",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Terra Preta;",
+    "cep": "69401242",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Pedro Moura - de 582 ao fim - lado par;"
 }

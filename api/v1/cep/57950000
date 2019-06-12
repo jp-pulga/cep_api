@@ -1,12 +1,11 @@
 {
-  "cep": "57950000",
-  "logradouro": "Japaratinga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Japaratinga",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57950000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Japaratinga"
+    },
+    "ibge": 2703601
 }

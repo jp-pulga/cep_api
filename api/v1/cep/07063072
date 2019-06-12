@@ -1,12 +1,12 @@
 {
-  "cep": "07063072",
-  "logradouro": "Rua Soldado Eugênio Martins Pereira",
-  "bairro": "Vila Aliança",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Aliança;",
+    "cep": "07063072",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Soldado Eugênio Martins Pereira;"
 }

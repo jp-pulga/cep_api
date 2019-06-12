@@ -1,12 +1,12 @@
 {
-  "cep": "58028858",
-  "logradouro": "Rua Geraldo Fagundes de Araújo",
-  "bairro": "Ipês",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ipês;",
+    "cep": "58028858",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Geraldo Fagundes de Araújo;"
 }

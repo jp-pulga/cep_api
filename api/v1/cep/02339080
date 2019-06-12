@@ -1,12 +1,12 @@
 {
-  "cep": "02339080",
-  "logradouro": "Praça Maciel Baião",
-  "bairro": "Jardim Franca",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Franca;",
+    "cep": "02339080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Maciel Baião;"
 }

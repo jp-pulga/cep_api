@@ -1,12 +1,13 @@
 {
-  "cep": "68745260",
-  "logradouro": "Passagem Raimundo Holanda",
-  "bairro": "Ianetama",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Ianetama;",
+    "cep": "68745260",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Raimundo Holanda;"
 }

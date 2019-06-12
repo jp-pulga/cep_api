@@ -1,12 +1,12 @@
 {
-  "cep": "11674351",
-  "logradouro": "Rua Celeste Sant' Ana de Barros",
-  "bairro": "Jardim Jaqueira",
-  "cidade": {
-    "nome": "Caraguatatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Jaqueira;",
+    "cep": "11674351",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caraguatatuba"
+    },
+    "logradouro": "Rua Celeste Sant' Ana de Barros;"
 }

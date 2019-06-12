@@ -1,12 +1,13 @@
 {
-  "cep": "68742260",
-  "logradouro": "Alameda Paraíso",
-  "bairro": "Fonte Boa",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Fonte Boa;",
+    "cep": "68742260",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Alameda Paraíso;"
 }

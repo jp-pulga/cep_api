@@ -1,12 +1,12 @@
 {
-  "cep": "94100070",
-  "logradouro": "Rua Sergipe",
-  "bairro": "Neópolis",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Neópolis;",
+    "cep": "94100070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Sergipe;"
 }

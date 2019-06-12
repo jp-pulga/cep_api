@@ -1,12 +1,13 @@
 {
-  "cep": "58265970",
-  "logradouro": "AC Duas Estradas Rua do Comercio 50",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Duas Estradas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58265970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Duas Estradas"
+    },
+    "ibge": 2505808,
+    "logradouro": "Rua do Comercio, 50  AC Duas Estradas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68701450",
-  "logradouro": "Passagem São Domingos",
-  "bairro": "Motocros",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Motocros;",
+    "cep": "68701450",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem São Domingos;"
 }

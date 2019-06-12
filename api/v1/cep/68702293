@@ -1,12 +1,13 @@
 {
-  "cep": "68702293",
-  "logradouro": "Avenida João Paulo II lado ímpar",
-  "bairro": "Areia Branca",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Areia Branca;",
+    "cep": "68702293",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Avenida João Paulo II - lado ímpar;"
 }

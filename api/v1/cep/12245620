@@ -1,12 +1,12 @@
 {
-  "cep": "12245620",
-  "logradouro": "Praça José Peneluppi Filho",
-  "bairro": "Vila Betânia",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Betânia;",
+    "cep": "12245620",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Praça José Peneluppi Filho;"
 }

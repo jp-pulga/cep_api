@@ -1,12 +1,12 @@
 {
-  "cep": "58401213",
-  "logradouro": "Rua Quinze de Novembro",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "58401213",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Quinze de Novembro;"
 }

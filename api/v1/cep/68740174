@@ -1,12 +1,13 @@
 {
-  "cep": "68740174",
-  "logradouro": "Passagem Idelfonso Pena de Oliveira",
-  "bairro": "Saudade II",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Saudade II;",
+    "cep": "68740174",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Idelfonso Pena de Oliveira;"
 }

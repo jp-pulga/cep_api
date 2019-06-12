@@ -1,12 +1,12 @@
 {
-  "cep": "38400236",
-  "logradouro": "Rua Senador Salgado Filho",
-  "bairro": "Tabajaras",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tabajaras;",
+    "cep": "38400236",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Senador Salgado Filho;"
 }

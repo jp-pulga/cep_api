@@ -1,12 +1,12 @@
 {
-  "cep": "58086140",
-  "logradouro": "Rua Nossa Senhora do Desterro",
-  "bairro": "Cruz das Armas",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cruz das Armas;",
+    "cep": "58086140",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Nossa Senhora do Desterro;"
 }

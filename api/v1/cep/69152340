@@ -1,12 +1,13 @@
 {
-  "cep": "69152340",
-  "logradouro": "Alameda Quatro",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "69152340",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Alameda Quatro;"
 }

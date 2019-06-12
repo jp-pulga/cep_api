@@ -1,12 +1,12 @@
 {
-  "cep": "37900010",
-  "logradouro": "Rua Coronel João de Barros de 650/651 a 1329/1330",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37900010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Coronel João de Barros - de 650\/651 a 1329\/1330;"
 }

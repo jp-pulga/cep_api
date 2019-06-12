@@ -1,12 +1,13 @@
 {
-  "cep": "69400901",
-  "logradouro": "Câmara Municipal de Manacapuru Avenida Eduardo Ribeiro 1161",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69400901",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Eduardo Ribeiro, 1161  Câmara Municipal de Manacapuru;"
 }

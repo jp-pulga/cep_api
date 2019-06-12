@@ -1,12 +1,12 @@
 {
-  "cep": "57020040",
-  "logradouro": "Praça Marechal Deodoro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57020040",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Praça Marechal Deodoro;"
 }

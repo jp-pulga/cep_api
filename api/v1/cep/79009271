@@ -1,12 +1,12 @@
 {
-  "cep": "79009271",
-  "logradouro": "Praça Pé de Cedro",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "79009271",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Praça Pé de Cedro;"
 }

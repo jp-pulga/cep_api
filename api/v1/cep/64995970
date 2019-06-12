@@ -1,12 +1,13 @@
 {
-  "cep": "64995970",
-  "logradouro": "AC Cristalândia do Piauí Avenida Presidente Tancredo Neves s/n",
-  "bairro": "Vila Nova República",
-  "cidade": {
-    "nome": "Cristalândia do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vila Nova República;",
+    "cep": "64995970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cristalândia do Piauí"
+    },
+    "ibge": 2203008,
+    "logradouro": "Avenida Presidente Tancredo Neves, s\/n  AC Cristalândia do Piauí;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58922970",
-  "logradouro": "AC Bernardino Batista Rua Vicente Egídio dos Santos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bernardino Batista",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58922970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bernardino Batista"
+    },
+    "ibge": 2502052,
+    "logradouro": "Rua Vicente Egídio dos Santos, s\/n  AC Bernardino Batista;"
 }

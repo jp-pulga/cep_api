@@ -1,12 +1,13 @@
 {
-  "cep": "68373420",
-  "logradouro": "Alameda Padre Eurico",
-  "bairro": "Jardim Independente I",
-  "cidade": {
-    "nome": "Altamira",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Independente I;",
+    "cep": "68373420",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Altamira"
+    },
+    "ibge": 1500602,
+    "logradouro": "Alameda Padre Eurico;"
 }

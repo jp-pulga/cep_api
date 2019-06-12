@@ -1,12 +1,11 @@
 {
-  "cep": "57320000",
-  "logradouro": "Craíbas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Craíbas",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57320000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Craíbas"
+    },
+    "ibge": 2702355
 }

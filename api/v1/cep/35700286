@@ -1,12 +1,12 @@
 {
-  "cep": "35700286",
-  "logradouro": "Rua Senador Salgado Filho",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "35700286",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Senador Salgado Filho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36047420",
-  "logradouro": "Rua Joaquim Borges Pereira",
-  "bairro": "Granjas Betânia",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granjas Betânia;",
+    "cep": "36047420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Joaquim Borges Pereira;"
 }

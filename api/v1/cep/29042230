@@ -1,12 +1,12 @@
 {
-  "cep": "29042230",
-  "logradouro": "Rua Senador Salgado Filho",
-  "bairro": "Fradinhos",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Fradinhos;",
+    "cep": "29042230",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Senador Salgado Filho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35900093",
-  "logradouro": "Rua Seis",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "35900093",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Seis;"
 }

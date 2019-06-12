@@ -1,12 +1,12 @@
 {
-  "cep": "04473080",
-  "logradouro": "Rua dos Bagres",
-  "bairro": "Balneário São Francisco",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Balneário São Francisco;",
+    "cep": "04473080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua dos Bagres;"
 }

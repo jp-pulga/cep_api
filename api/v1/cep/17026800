@@ -1,12 +1,12 @@
 {
-  "cep": "17026800",
-  "logradouro": "Rua Cézar Cruz Ciafrei de Quadra 5 a Quadra 8",
-  "bairro": "Jardim Chapadão",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Chapadão;",
+    "cep": "17026800",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Cézar Cruz Ciafrei - de Quadra 5 a Quadra 8;"
 }

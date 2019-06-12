@@ -1,12 +1,13 @@
 {
-  "cep": "69153421",
-  "logradouro": "Beco Acioly",
-  "bairro": "São Vicente de Paula",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Vicente de Paula;",
+    "cep": "69153421",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Beco Acioly;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58013190",
-  "logradouro": "Avenida Desembargador Souto Maior",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58013190",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Desembargador Souto Maior;"
 }

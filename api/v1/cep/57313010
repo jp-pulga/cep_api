@@ -1,12 +1,12 @@
 {
-  "cep": "57313010",
-  "logradouro": "Rua Marechal Deodoro da Fonseca lado ímpar",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "57313010",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Marechal Deodoro da Fonseca - lado ímpar;"
 }

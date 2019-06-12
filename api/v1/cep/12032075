@@ -1,12 +1,12 @@
 {
-  "cep": "12032075",
-  "logradouro": "Rua Augusto Cesar Cortez Pereira",
-  "bairro": "Jardim de Alah",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim de Alah;",
+    "cep": "12032075",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Augusto Cesar Cortez Pereira;"
 }

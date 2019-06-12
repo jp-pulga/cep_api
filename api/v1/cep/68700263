@@ -1,12 +1,13 @@
 {
-  "cep": "68700263",
-  "logradouro": "Avenida João Paulo II de 2 ao fim - lado par",
-  "bairro": "Pedreira",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pedreira;",
+    "cep": "68700263",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Avenida João Paulo II - de 2 ao fim - lado par;"
 }

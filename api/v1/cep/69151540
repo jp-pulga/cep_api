@@ -1,12 +1,13 @@
 {
-  "cep": "69151540",
-  "logradouro": "Avenida Amazonas",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "69151540",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Avenida Amazonas;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "57980000",
-  "logradouro": "Joaquim Gomes",
-  "bairro": "",
-  "cidade": {
-    "nome": "Joaquim Gomes",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57980000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Joaquim Gomes"
+    },
+    "ibge": 2703809
 }

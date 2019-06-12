@@ -1,12 +1,11 @@
 {
-  "cep": "49780000",
-  "logradouro": "Muribeca",
-  "bairro": "",
-  "cidade": {
-    "nome": "Muribeca",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49780000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Muribeca"
+    },
+    "ibge": 2804300
 }

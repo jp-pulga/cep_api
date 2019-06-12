@@ -1,12 +1,12 @@
 {
-  "cep": "41510137",
-  "logradouro": "Rua Raul Seixas",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "41510137",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Raul Seixas;"
 }

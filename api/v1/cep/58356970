@@ -1,12 +1,13 @@
 {
-  "cep": "58356970",
-  "logradouro": "AC Gurinhém Rua Flávio Ribeiro 90",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gurinhém",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58356970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Gurinhém"
+    },
+    "ibge": 2506400,
+    "logradouro": "Rua Flávio Ribeiro, 90  AC Gurinhém;"
 }

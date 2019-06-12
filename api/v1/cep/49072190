@@ -1,12 +1,12 @@
 {
-  "cep": "49072190",
-  "logradouro": "Rua Neópolis",
-  "bairro": "Dezoito do Forte",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Dezoito do Forte;",
+    "cep": "49072190",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Neópolis;"
 }

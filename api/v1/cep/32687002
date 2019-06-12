@@ -1,12 +1,12 @@
 {
-  "cep": "32687002",
-  "logradouro": "Rua Marechal Deodoro",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "32687002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Marechal Deodoro;"
 }

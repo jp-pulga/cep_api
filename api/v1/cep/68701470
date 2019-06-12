@@ -1,12 +1,13 @@
 {
-  "cep": "68701470",
-  "logradouro": "Passagem Juliana Araújo",
-  "bairro": "Motocros",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Motocros;",
+    "cep": "68701470",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Juliana Araújo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58015335",
-  "logradouro": "Avenida Alberto de Brito de 787/788 ao fim",
-  "bairro": "Jaguaribe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jaguaribe;",
+    "cep": "58015335",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Alberto de Brito - de 787\/788 ao fim;"
 }

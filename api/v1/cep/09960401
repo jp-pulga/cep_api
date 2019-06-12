@@ -1,12 +1,12 @@
 {
-  "cep": "09960401",
-  "logradouro": "Passagem Célia Cruz (Jd Marilene)",
-  "bairro": "Vila Nogueira",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nogueira;",
+    "cep": "09960401",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Passagem Célia Cruz (Jd Marilene);"
 }

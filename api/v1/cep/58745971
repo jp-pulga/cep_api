@@ -1,12 +1,13 @@
 {
-  "cep": "58745971",
-  "logradouro": "AGC Palmeira Rua Antônio Leite de Góis s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Imaculada",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58745971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Imaculada"
+    },
+    "ibge": 2506707,
+    "logradouro": "Rua Antônio Leite de Góis, s\/n  AGC Palmeira;"
 }

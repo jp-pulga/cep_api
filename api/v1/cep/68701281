@@ -1,12 +1,13 @@
 {
-  "cep": "68701281",
-  "logradouro": "Passagem Antônio Carneiro",
-  "bairro": "Dom João VI",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Dom João VI;",
+    "cep": "68701281",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Antônio Carneiro;"
 }

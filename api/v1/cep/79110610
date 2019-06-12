@@ -1,12 +1,12 @@
 {
-  "cep": "79110610",
-  "logradouro": "Avenida Alfredo Scaff",
-  "bairro": "Loteamento Papa João Paulo II",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Loteamento Papa João Paulo II;",
+    "cep": "79110610",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Alfredo Scaff;"
 }

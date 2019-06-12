@@ -1,12 +1,13 @@
 {
-  "cep": "69400248",
-  "logradouro": "Avenida Eduardo Ribeiro de 851/852 a 1409/1410",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69400248",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Eduardo Ribeiro - de 851\/852 a 1409\/1410;"
 }

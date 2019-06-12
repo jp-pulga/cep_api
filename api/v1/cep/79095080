@@ -1,12 +1,12 @@
 {
-  "cep": "79095080",
-  "logradouro": "Avenida Ministro João Alberto",
-  "bairro": "Vila São Jorge da Lagoa",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila São Jorge da Lagoa;",
+    "cep": "79095080",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Ministro João Alberto;"
 }

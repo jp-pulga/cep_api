@@ -1,12 +1,11 @@
 {
-  "cep": "69680000",
-  "logradouro": "Santo Antônio do Içá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santo Antônio do Içá",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69680000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Santo Antônio do Içá"
+    },
+    "ibge": 1303700
 }

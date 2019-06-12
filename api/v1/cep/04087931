@@ -1,12 +1,12 @@
 {
-  "cep": "04087931",
-  "logradouro": "Edifício Fiandeiras. Alameda dos Anapurus 1114",
-  "bairro": "Indianópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Indianópolis;",
+    "cep": "04087931",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Alameda dos Anapurus, 1114  Edifício Fiandeiras.;"
 }

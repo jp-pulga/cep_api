@@ -1,12 +1,12 @@
 {
-  "cep": "03981040",
-  "logradouro": "Rua Serra de Itabaiana",
-  "bairro": "Parque Santa Madalena",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Santa Madalena;",
+    "cep": "03981040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Serra de Itabaiana;"
 }

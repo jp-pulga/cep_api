@@ -1,12 +1,13 @@
 {
-  "cep": "64222970",
-  "logradouro": "AGC Cajueiro da Praia Avenida Souzinha s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cajueiro da Praia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64222970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cajueiro da Praia"
+    },
+    "ibge": 2202083,
+    "logradouro": "Avenida Souzinha, s\/n  AGC Cajueiro da Praia;"
 }

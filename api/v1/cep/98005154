@@ -1,12 +1,12 @@
 {
-  "cep": "98005154",
-  "logradouro": "Rua Marechal Deodoro até 564 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98005154",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Marechal Deodoro - até 564 - lado par;"
 }

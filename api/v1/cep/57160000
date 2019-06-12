@@ -1,12 +1,11 @@
 {
-  "cep": "57160000",
-  "logradouro": "Marechal Deodoro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Marechal Deodoro",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57160000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Marechal Deodoro"
+    },
+    "ibge": 2704708
 }

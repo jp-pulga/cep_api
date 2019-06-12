@@ -1,12 +1,12 @@
 {
-  "cep": "08692050",
-  "logradouro": "Rua Thiago César Silva Cruz",
-  "bairro": "Cidade Miguel Badra (Gleba 02)",
-  "cidade": {
-    "nome": "Suzano",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Miguel Badra (Gleba 02);",
+    "cep": "08692050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Suzano"
+    },
+    "logradouro": "Rua Thiago César Silva Cruz;"
 }

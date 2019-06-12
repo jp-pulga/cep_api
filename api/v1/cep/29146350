@@ -1,12 +1,12 @@
 {
-  "cep": "29146350",
-  "logradouro": "Rua Álvaro Pedro Miranda",
-  "bairro": "Campo Grande",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Campo Grande;",
+    "cep": "29146350",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Álvaro Pedro Miranda;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78110412",
-  "logradouro": "Rua Coronel João Norberto de Barros (Lot Centro)",
-  "bairro": "Centro-Norte",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Norte;",
+    "cep": "78110412",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Coronel João Norberto de Barros (Lot Centro);"
 }

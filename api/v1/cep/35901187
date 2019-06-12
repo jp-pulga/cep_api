@@ -1,12 +1,12 @@
 {
-  "cep": "35901187",
-  "logradouro": "Rua Sete",
-  "bairro": "Santa Marta",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Marta;",
+    "cep": "35901187",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Sete;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58315971",
-  "logradouro": "AGC Fagundes Rua São José s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lucena",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58315971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Lucena"
+    },
+    "logradouro": "Rua São José, s\/n  AGC Fagundes;"
 }

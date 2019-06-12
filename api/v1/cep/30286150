@@ -1,12 +1,12 @@
 {
-  "cep": "30286150",
-  "logradouro": "Rua Coronel Robson Zamprogno",
-  "bairro": "Granja de Freitas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja de Freitas;",
+    "cep": "30286150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Coronel Robson Zamprogno;"
 }

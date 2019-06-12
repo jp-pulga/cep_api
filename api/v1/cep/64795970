@@ -1,12 +1,13 @@
 {
-  "cep": "64795970",
-  "logradouro": "AC Caracol Rua Luís Ribeiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caracol",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64795970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Caracol"
+    },
+    "ibge": 2202505,
+    "logradouro": "Rua Luís Ribeiro, s\/n  AC Caracol;"
 }

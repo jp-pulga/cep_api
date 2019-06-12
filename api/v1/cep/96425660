@@ -1,12 +1,12 @@
 {
-  "cep": "96425660",
-  "logradouro": "Rua Senador Salgado Filho de 1100/1101 ao fim",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "96425660",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Senador Salgado Filho - de 1100\/1101 ao fim;"
 }

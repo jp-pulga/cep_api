@@ -1,12 +1,12 @@
 {
-  "cep": "58401265",
-  "logradouro": "Rua Presidente Epitácio Pessoa",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "58401265",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Presidente Epitácio Pessoa;"
 }

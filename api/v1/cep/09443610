@@ -1,12 +1,12 @@
 {
-  "cep": "09443610",
-  "logradouro": "Rua Bagre",
-  "bairro": "Centro de Ouro Fino Paulista",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro de Ouro Fino Paulista;",
+    "cep": "09443610",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Bagre;"
 }

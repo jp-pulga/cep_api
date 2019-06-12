@@ -1,12 +1,13 @@
 {
-  "cep": "69400365",
-  "logradouro": "Avenida Ribeiro Júnior de 751/752 a 1105/1106",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69400365",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Ribeiro Júnior - de 751\/752 a 1105\/1106;"
 }

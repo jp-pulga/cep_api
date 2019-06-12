@@ -1,12 +1,11 @@
 {
-  "cep": "49800000",
-  "logradouro": "Porto da Folha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Porto da Folha",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49800000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Porto da Folha"
+    },
+    "ibge": 2805604
 }

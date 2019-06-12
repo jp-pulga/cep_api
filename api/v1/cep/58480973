@@ -1,12 +1,13 @@
 {
-  "cep": "58480973",
-  "logradouro": "AGC Ribeira Sítio Ribeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cabaceiras",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58480973",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabaceiras"
+    },
+    "ibge": 2503100,
+    "logradouro": "Sítio Ribeira, s\/n  AGC Ribeira;"
 }

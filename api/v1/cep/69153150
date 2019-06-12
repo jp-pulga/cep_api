@@ -1,12 +1,13 @@
 {
-  "cep": "69153150",
-  "logradouro": "Avenida José Esteves",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "69153150",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Avenida José Esteves;"
 }

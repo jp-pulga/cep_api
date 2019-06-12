@@ -1,12 +1,12 @@
 {
-  "cep": "35901365",
-  "logradouro": "Rua Rebeca Fatala Sella",
-  "bairro": "Bálsamos",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bálsamos;",
+    "cep": "35901365",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Rebeca Fatala Sella;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68377332",
-  "logradouro": "Rua B-Nove (Loteamento Invasão dos Padres)",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Altamira",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Aparecida;",
+    "cep": "68377332",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Altamira"
+    },
+    "ibge": 1500602,
+    "logradouro": "Rua B-Nove (Lot I Padres);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64206200",
-  "logradouro": "Rua Antonio Bagre",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "64206200",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Antonio Bagre;"
 }

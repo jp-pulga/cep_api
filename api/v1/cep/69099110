@@ -1,12 +1,12 @@
 {
-  "cep": "69099110",
-  "logradouro": "Rua Igaci (A Mendes)",
-  "bairro": "Novo Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Novo Aleixo;",
+    "cep": "69099110",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Igaci;"
 }

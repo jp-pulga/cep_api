@@ -1,12 +1,11 @@
 {
-  "cep": "57975000",
-  "logradouro": "Colônia Leopoldina",
-  "bairro": "",
-  "cidade": {
-    "nome": "Colônia Leopoldina",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57975000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Colônia Leopoldina"
+    },
+    "ibge": 2702108
 }

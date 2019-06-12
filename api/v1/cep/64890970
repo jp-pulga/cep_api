@@ -1,12 +1,13 @@
 {
-  "cep": "64890970",
-  "logradouro": "AC Canto do Buriti Rua Rogério Nunes 1397",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canto do Buriti",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64890970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Canto do Buriti"
+    },
+    "ibge": 2202307,
+    "logradouro": "Rua Rogério Nunes, 1397  AC Canto do Buriti;"
 }

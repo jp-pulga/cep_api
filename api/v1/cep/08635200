@@ -1,12 +1,12 @@
 {
-  "cep": "08635200",
-  "logradouro": "Rua Coronel Paulo da Cruz Mariano",
-  "bairro": "Clube dos Oficiais",
-  "cidade": {
-    "nome": "Suzano",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Clube dos Oficiais;",
+    "cep": "08635200",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Suzano"
+    },
+    "logradouro": "Rua Coronel Paulo da Cruz Mariano;"
 }

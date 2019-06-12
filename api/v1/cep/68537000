@@ -1,12 +1,11 @@
 {
-  "cep": "68537000",
-  "logradouro": "Canaã dos Carajás",
-  "bairro": "",
-  "cidade": {
-    "nome": "Canaã dos Carajás",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68537000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Canaã dos Carajás"
+    },
+    "ibge": 1502152
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04087939",
-  "logradouro": "Edifício Jardim dos Passaros Alameda dos Anapurus 1790",
-  "bairro": "Indianópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Indianópolis;",
+    "cep": "04087939",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Alameda dos Anapurus, 1790  Edifício Jardim dos Passaros;"
 }

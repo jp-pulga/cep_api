@@ -1,12 +1,12 @@
 {
-  "cep": "36071220",
-  "logradouro": "Rua Francisco Cerqueira Cruzeiro",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "36071220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Francisco Cerqueira Cruzeiro;"
 }

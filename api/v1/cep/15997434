@@ -1,12 +1,12 @@
 {
-  "cep": "15997434",
-  "logradouro": "Avenida Celso da Cruz Oliveira",
-  "bairro": "Jardim Novo Mundo",
-  "cidade": {
-    "nome": "Matão",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Novo Mundo;",
+    "cep": "15997434",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Matão"
+    },
+    "logradouro": "Avenida Celso da Cruz Oliveira;"
 }

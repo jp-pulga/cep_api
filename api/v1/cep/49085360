@@ -1,12 +1,12 @@
 {
-  "cep": "49085360",
-  "logradouro": "Rua Santa Rosa de Lima",
-  "bairro": "José Conrado de Araújo",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "José Conrado de Araújo;",
+    "cep": "49085360",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Santa Rosa de Lima;"
 }

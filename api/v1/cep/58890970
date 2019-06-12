@@ -1,12 +1,13 @@
 {
-  "cep": "58890970",
-  "logradouro": "AC Brejo do Cruz Rua Pedro Gomes de Andrade 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brejo do Cruz",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58890970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Brejo do Cruz"
+    },
+    "ibge": 2502805,
+    "logradouro": "Rua Pedro Gomes de Andrade, 18  AC Brejo do Cruz;"
 }

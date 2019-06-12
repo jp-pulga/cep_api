@@ -1,12 +1,13 @@
 {
-  "cep": "69151588",
-  "logradouro": "Beco Ademir Fárias",
-  "bairro": "São José Operário",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São José Operário;",
+    "cep": "69151588",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Beco Ademir Fárias;"
 }

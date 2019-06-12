@@ -1,12 +1,13 @@
 {
-  "cep": "69400350",
-  "logradouro": "Avenida Barão do Rio Branco de 777/778 a 1551/1552",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69400350",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Barão do Rio Branco - de 777\/778 a 1551\/1552;"
 }

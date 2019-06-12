@@ -1,12 +1,12 @@
 {
-  "cep": "29042773",
-  "logradouro": "Rua Senador Salgado Filho",
-  "bairro": "de Lourdes",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "de Lourdes;",
+    "cep": "29042773",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Senador Salgado Filho;"
 }

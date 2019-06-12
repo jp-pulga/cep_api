@@ -1,12 +1,12 @@
 {
-  "cep": "78110450",
-  "logradouro": "Rua Antonio Norberto de Barros Corrêa Filho (Lot Centro)",
-  "bairro": "Centro-Norte",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Norte;",
+    "cep": "78110450",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Antonio Norberto de Barros Corrêa Filho (Lot Centro);"
 }

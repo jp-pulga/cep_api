@@ -1,12 +1,13 @@
 {
-  "cep": "58015320",
-  "logradouro": "Avenida Alberto de Brito até 756/757",
-  "bairro": "Jaguaribe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jaguaribe;",
+    "cep": "58015320",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Alberto de Brito - até 756\/757;"
 }

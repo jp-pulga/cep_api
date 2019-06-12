@@ -1,12 +1,12 @@
 {
-  "cep": "58027500",
-  "logradouro": "Rua Conde Bagnoli",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "58027500",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Conde Bagnoli;"
 }

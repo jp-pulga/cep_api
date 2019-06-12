@@ -1,12 +1,13 @@
 {
-  "cep": "68700050",
-  "logradouro": "Avenida João Paulo II lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68700050",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Avenida João Paulo II - lado par;"
 }

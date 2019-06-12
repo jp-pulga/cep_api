@@ -1,12 +1,12 @@
 {
-  "cep": "57308270",
-  "logradouro": "Rua Jacaré dos Homens",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "57308270",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Jacaré dos Homens;"
 }

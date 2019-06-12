@@ -1,12 +1,12 @@
 {
-  "cep": "11714120",
-  "logradouro": "Rua Seis",
-  "bairro": "Ribeirópolis",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ribeirópolis;",
+    "cep": "11714120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Rua Seis;"
 }

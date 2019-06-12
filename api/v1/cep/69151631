@@ -1,12 +1,13 @@
 {
-  "cep": "69151631",
-  "logradouro": "Beco Alan Kardek",
-  "bairro": "Santa Clara",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santa Clara;",
+    "cep": "69151631",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Beco Alan Kardek;"
 }

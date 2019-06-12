@@ -1,12 +1,12 @@
 {
-  "cep": "12926290",
-  "logradouro": "Rua José Pelegrino Reginato",
-  "bairro": "Jardim do Cedro",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim do Cedro;",
+    "cep": "12926290",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Rua José Pelegrino Reginato;"
 }

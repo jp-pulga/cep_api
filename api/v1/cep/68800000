@@ -1,12 +1,11 @@
 {
-  "cep": "68800000",
-  "logradouro": "Breves",
-  "bairro": "",
-  "cidade": {
-    "nome": "Breves",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68800000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Breves"
+    },
+    "ibge": 1501808
 }

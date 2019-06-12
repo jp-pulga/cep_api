@@ -1,12 +1,12 @@
 {
-  "cep": "08040000",
-  "logradouro": "Avenida Afonso Lopes de Baião de 630/631 a 1278/1279",
-  "bairro": "Vila Carolina",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Carolina;",
+    "cep": "08040000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Afonso Lopes de Baião - de 630\/631 a 1278\/1279;"
 }

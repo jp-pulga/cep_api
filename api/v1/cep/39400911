@@ -1,12 +1,12 @@
 {
-  "cep": "39400911",
-  "logradouro": "Conjunto Residencial Castanheiras Avenida Deputado Esteves Rodrigues 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39400911",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Avenida Deputado Esteves Rodrigues, 6  Conjunto Residencial Castanheiras;"
 }

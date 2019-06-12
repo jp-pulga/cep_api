@@ -1,12 +1,12 @@
 {
-  "cep": "79013190",
-  "logradouro": "Alameda do Café",
-  "bairro": "Coronel Antonino",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Coronel Antonino;",
+    "cep": "79013190",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Alameda do Café;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68742470",
-  "logradouro": "Passagem Dois Irmãos",
-  "bairro": "Nova Olinda",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Olinda;",
+    "cep": "68742470",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Dois Irmãos;"
 }

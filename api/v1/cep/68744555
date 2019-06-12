@@ -1,12 +1,13 @@
 {
-  "cep": "68744555",
-  "logradouro": "Passagem Quinze de Novembro",
-  "bairro": "Salgadinho",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Salgadinho;",
+    "cep": "68744555",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Quinze de Novembro;"
 }

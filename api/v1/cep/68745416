@@ -1,12 +1,13 @@
 {
-  "cep": "68745416",
-  "logradouro": "Passagem Milagre",
-  "bairro": "Santa Lídia",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Lídia;",
+    "cep": "68745416",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Milagre;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "57620000",
-  "logradouro": "Igaci",
-  "bairro": "",
-  "cidade": {
-    "nome": "Igaci",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57620000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Igaci"
+    },
+    "ibge": 2703106
 }

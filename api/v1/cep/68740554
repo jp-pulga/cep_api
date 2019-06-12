@@ -1,12 +1,13 @@
 {
-  "cep": "68740554",
-  "logradouro": "Alameda Papoula",
-  "bairro": "Cariri",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cariri;",
+    "cep": "68740554",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Alameda Papoula;"
 }

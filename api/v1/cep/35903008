@@ -1,12 +1,12 @@
 {
-  "cep": "35903008",
-  "logradouro": "Rua Ipê da Serra",
-  "bairro": "Jardim dos Ipês",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Ipês;",
+    "cep": "35903008",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Ipê da Serra;"
 }

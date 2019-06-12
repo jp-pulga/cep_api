@@ -1,12 +1,12 @@
 {
-  "cep": "79100671",
-  "logradouro": "Praça Senador Salgado Filho",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "79100671",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Praça Senador Salgado Filho;"
 }

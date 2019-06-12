@@ -1,12 +1,13 @@
 {
-  "cep": "68700690",
-  "logradouro": "Passagem João Coelho",
-  "bairro": "Caixa D'água",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Caixa D'água;",
+    "cep": "68700690",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem João Coelho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30590170",
-  "logradouro": "Rua Alair Pereira de Mello",
-  "bairro": "Betânia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Betânia;",
+    "cep": "30590170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Alair Pereira de Mello;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "05085020",
-  "logradouro": "Rua Porteiro Peres",
-  "bairro": "Bela Aliança",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bela Aliança;",
+    "cep": "05085020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Porteiro Peres;"
 }

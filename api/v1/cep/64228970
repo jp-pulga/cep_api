@@ -1,12 +1,13 @@
 {
-  "cep": "64228970",
-  "logradouro": "AGC Caxingó Rua Felipe Alves s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caxingó",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64228970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Caxingó"
+    },
+    "ibge": 2202653,
+    "logradouro": "Rua Felipe Alves, s\/n  AGC Caxingó;"
 }

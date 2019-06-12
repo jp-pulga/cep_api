@@ -1,12 +1,11 @@
 {
-  "cep": "68810000",
-  "logradouro": "Anajás",
-  "bairro": "",
-  "cidade": {
-    "nome": "Anajás",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68810000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Anajás"
+    },
+    "ibge": 1500701
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "49230000",
-  "logradouro": "Santa Luzia do Itanhy",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Luzia do Itanhy",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49230000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Santa Luzia do Itanhy"
+    },
+    "ibge": 2806305
 }

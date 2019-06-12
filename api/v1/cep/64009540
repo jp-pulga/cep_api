@@ -1,12 +1,12 @@
 {
-  "cep": "64009540",
-  "logradouro": "Rua Canto do Buriti",
-  "bairro": "Alto Alegre",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Alegre;",
+    "cep": "64009540",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Canto do Buriti;"
 }

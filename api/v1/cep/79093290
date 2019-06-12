@@ -1,12 +1,12 @@
 {
-  "cep": "79093290",
-  "logradouro": "Avenida General Alberto Carlos Mendonça Lima",
-  "bairro": "Jardim São Conrado",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim São Conrado;",
+    "cep": "79093290",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida General Alberto Carlos Mendonça Lima;"
 }

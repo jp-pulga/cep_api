@@ -1,12 +1,12 @@
 {
-  "cep": "58418080",
-  "logradouro": "Rua da Conceição",
-  "bairro": "Velame",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Velame;",
+    "cep": "58418080",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua da Conceição;"
 }

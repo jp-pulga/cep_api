@@ -1,12 +1,11 @@
 {
-  "cep": "58960000",
-  "logradouro": "Bonito de Santa Fé",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bonito de Santa Fé",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "cep": "58960000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bonito de Santa Fé"
+    },
+    "ibge": 2502409
 }

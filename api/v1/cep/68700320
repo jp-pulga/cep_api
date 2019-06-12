@@ -1,12 +1,13 @@
 {
-  "cep": "68700320",
-  "logradouro": "Passagem Bandeira",
-  "bairro": "Samambaia",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Samambaia;",
+    "cep": "68700320",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Bandeira;"
 }

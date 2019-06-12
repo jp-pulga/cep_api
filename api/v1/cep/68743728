@@ -1,12 +1,13 @@
 {
-  "cep": "68743728",
-  "logradouro": "Alameda Imperador (Cj Parque dos Catanhais)",
-  "bairro": "Novo Estrela",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Novo Estrela;",
+    "cep": "68743728",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Alameda Imperador (Cj Parque dos Catanhais);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "02735000",
-  "logradouro": "Rua Baião Parente",
-  "bairro": "Vila Primavera",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Primavera;",
+    "cep": "02735000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Baião Parente;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69403622",
-  "logradouro": "Rua Bons Amigos",
-  "bairro": "Vale Verde",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vale Verde;",
+    "cep": "69403622",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Rua Bons Amigos;"
 }

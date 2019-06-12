@@ -1,12 +1,11 @@
 {
-  "cep": "69890000",
-  "logradouro": "Ipixuna",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ipixuna",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69890000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Ipixuna"
+    },
+    "ibge": 1301803
 }

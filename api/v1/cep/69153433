@@ -1,12 +1,13 @@
 {
-  "cep": "69153433",
-  "logradouro": "Beco Agostinho Cunha",
-  "bairro": "São Vicente de Paula",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Vicente de Paula;",
+    "cep": "69153433",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Beco Agostinho Cunha;"
 }

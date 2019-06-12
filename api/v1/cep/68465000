@@ -1,12 +1,11 @@
 {
-  "cep": "68465000",
-  "logradouro": "Baião",
-  "bairro": "",
-  "cidade": {
-    "nome": "Baião",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68465000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Baião"
+    },
+    "ibge": 1501204
 }

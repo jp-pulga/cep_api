@@ -1,12 +1,12 @@
 {
-  "cep": "79035470",
-  "logradouro": "Avenida Alexandre Herculano",
-  "bairro": "Taquaral Bosque",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Taquaral Bosque;",
+    "cep": "79035470",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Alexandre Herculano;"
 }

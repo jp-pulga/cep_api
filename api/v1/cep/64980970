@@ -1,12 +1,13 @@
 {
-  "cep": "64980970",
-  "logradouro": "AC Corrente Avenida Getúlio Vargas 227",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corrente",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64980970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Corrente"
+    },
+    "ibge": 2202901,
+    "logradouro": "Rua Adolfo John Terry, 1572  AC Corrente;"
 }

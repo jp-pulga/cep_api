@@ -1,12 +1,12 @@
 {
-  "cep": "58401282",
-  "logradouro": "Rua João da Silva Pimentel de 350/351 ao fim",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "58401282",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua João da Silva Pimentel - de 350\/351 ao fim;"
 }

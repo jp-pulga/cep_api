@@ -1,12 +1,12 @@
 {
-  "cep": "66025662",
-  "logradouro": "Travessa Breves",
-  "bairro": "Jurunas",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jurunas;",
+    "cep": "66025662",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Travessa Breves;"
 }

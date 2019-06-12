@@ -1,12 +1,12 @@
 {
-  "cep": "69020410",
-  "logradouro": "Beco Maraã",
-  "bairro": "Praça 14 de Janeiro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Praça 14 de Janeiro;",
+    "cep": "69020410",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Maraã;"
 }

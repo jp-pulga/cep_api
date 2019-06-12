@@ -1,12 +1,12 @@
 {
-  "cep": "17057470",
-  "logradouro": "Alameda Campo Grande",
-  "bairro": "Vila Dutra",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Dutra;",
+    "cep": "17057470",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Alameda Campo Grande;"
 }

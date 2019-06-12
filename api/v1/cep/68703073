@@ -1,12 +1,13 @@
 {
-  "cep": "68703073",
-  "logradouro": "Avenida João Paulo II lado ímpar",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "68703073",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Avenida João Paulo II - lado ímpar;"
 }

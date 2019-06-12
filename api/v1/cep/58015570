@@ -1,12 +1,13 @@
 {
-  "cep": "58015570",
-  "logradouro": "Avenida Feliciano Cirne",
-  "bairro": "Jaguaribe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jaguaribe;",
+    "cep": "58015570",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Feliciano Cirne;"
 }

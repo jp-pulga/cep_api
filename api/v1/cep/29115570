@@ -1,12 +1,12 @@
 {
-  "cep": "29115570",
-  "logradouro": "Rua Pascoal Ponzo da Sede",
-  "bairro": "Ilha das Flores",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ilha das Flores;",
+    "cep": "29115570",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Pascoal Ponzo da Sede;"
 }

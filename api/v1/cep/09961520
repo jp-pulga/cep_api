@@ -1,12 +1,12 @@
 {
-  "cep": "09961520",
-  "logradouro": "Passagem Nossa Senhora das Dores (Jd Portinari)",
-  "bairro": "Casa Grande",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Casa Grande;",
+    "cep": "09961520",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Passagem Nossa Senhora das Dores (Jd Portinari);"
 }

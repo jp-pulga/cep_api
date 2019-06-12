@@ -1,12 +1,12 @@
 {
-  "cep": "05016060",
-  "logradouro": "Rua Sebastião Cortes",
-  "bairro": "Perdizes",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Perdizes;",
+    "cep": "05016060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Sebastião Cortes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58045080",
-  "logradouro": "Avenida Adolfo Loureiro França",
-  "bairro": "Cabo Branco",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cabo Branco;",
+    "cep": "58045080",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Adolfo Loureiro França;"
 }

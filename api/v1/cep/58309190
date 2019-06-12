@@ -1,12 +1,12 @@
 {
-  "cep": "58309190",
-  "logradouro": "Travessa Nova",
-  "bairro": "Imaculada",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Imaculada;",
+    "cep": "58309190",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Travessa Nova;"
 }

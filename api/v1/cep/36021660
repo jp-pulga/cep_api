@@ -1,12 +1,12 @@
 {
-  "cep": "36021660",
-  "logradouro": "Rua Senador Salgado Filho",
-  "bairro": "Bom Pastor",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Pastor;",
+    "cep": "36021660",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Senador Salgado Filho;"
 }

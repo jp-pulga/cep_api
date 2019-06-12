@@ -1,12 +1,13 @@
 {
-  "cep": "58033220",
-  "logradouro": "Avenida Coronel José Maurício da Costa",
-  "bairro": "Brisamar",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Brisamar;",
+    "cep": "58033220",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Coronel José Maurício da Costa;"
 }

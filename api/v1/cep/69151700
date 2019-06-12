@@ -1,12 +1,13 @@
 {
-  "cep": "69151700",
-  "logradouro": "Avenida Nações Unidas",
-  "bairro": "Vitória Régia",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vitória Régia;",
+    "cep": "69151700",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Avenida Nações Unidas;"
 }

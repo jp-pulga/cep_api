@@ -1,12 +1,13 @@
 {
-  "cep": "58278972",
-  "logradouro": "AGC Formosa Sítio Formosa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacaraú",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58278972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Jacaraú"
+    },
+    "ibge": 2507309,
+    "logradouro": "Sítio Formosa, s\/n  AGC Formosa;"
 }

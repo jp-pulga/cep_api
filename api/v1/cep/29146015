@@ -1,12 +1,12 @@
 {
-  "cep": "29146015",
-  "logradouro": "Rua Álvaro Machado",
-  "bairro": "Campo Grande",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Campo Grande;",
+    "cep": "29146015",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Álvaro Machado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58880970",
-  "logradouro": "AC Brejo dos Santos Rua Floriano Peixoto 38",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brejo dos Santos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58880970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Brejo dos Santos"
+    },
+    "logradouro": "Rua Floriano Peixoto, 38  AC Brejo dos Santos;"
 }

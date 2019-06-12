@@ -1,12 +1,13 @@
 {
-  "cep": "68741622",
-  "logradouro": "Passagem Madalena",
-  "bairro": "Betânia",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Betânia;",
+    "cep": "68741622",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Madalena;"
 }

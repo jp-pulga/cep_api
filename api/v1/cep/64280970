@@ -1,12 +1,13 @@
 {
-  "cep": "64280970",
-  "logradouro": "AC Campo Maior Avenida José Paulino 353",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Maior",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64280970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Campo Maior"
+    },
+    "ibge": 2202208,
+    "logradouro": "Avenida José Paulino, 353  AC Campo Maior;"
 }

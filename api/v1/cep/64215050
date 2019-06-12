@@ -1,12 +1,12 @@
 {
-  "cep": "64215050",
-  "logradouro": "Rua Campo Maior",
-  "bairro": "São Francisco da Guarita",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Francisco da Guarita;",
+    "cep": "64215050",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Campo Maior;"
 }

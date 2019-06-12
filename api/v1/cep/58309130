@@ -1,12 +1,12 @@
 {
-  "cep": "58309130",
-  "logradouro": "Travessa Pedro Ulisses",
-  "bairro": "Imaculada",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Imaculada;",
+    "cep": "58309130",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Travessa Pedro Ulisses;"
 }

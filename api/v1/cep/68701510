@@ -1,12 +1,13 @@
 {
-  "cep": "68701510",
-  "logradouro": "Passagem Maria de Lourdes",
-  "bairro": "Motocros",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Motocros;",
+    "cep": "68701510",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Maria de Lourdes;"
 }

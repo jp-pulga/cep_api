@@ -1,12 +1,13 @@
 {
-  "cep": "69151070",
-  "logradouro": "Avenida Furtado Belém",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69151070",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Avenida Furtado Belém;"
 }

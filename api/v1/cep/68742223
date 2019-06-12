@@ -1,12 +1,13 @@
 {
-  "cep": "68742223",
-  "logradouro": "Alameda do Patrocínio",
-  "bairro": "Estrela",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Estrela;",
+    "cep": "68742223",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Alameda do Patrocínio;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68700200",
-  "logradouro": "Passagem Coração de Jesus",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68700200",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Coração de Jesus;"
 }

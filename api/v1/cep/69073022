@@ -1,12 +1,12 @@
 {
-  "cep": "69073022",
-  "logradouro": "Rua General Vidal Pessoa",
-  "bairro": "Betânia",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Betânia;",
+    "cep": "69073022",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua General Vidal Pessoa;"
 }

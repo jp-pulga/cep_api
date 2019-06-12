@@ -1,12 +1,13 @@
 {
-  "cep": "68740438",
-  "logradouro": "Rua Estrada do Papuquara",
-  "bairro": "Apeú",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Apeú;",
+    "cep": "68740438",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Rua Estrada do Papuquara;"
 }

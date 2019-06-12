@@ -1,12 +1,12 @@
 {
-  "cep": "58411406",
-  "logradouro": "Rua Maria da Conceição Cunha",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "58411406",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Maria da Conceição Cunha;"
 }

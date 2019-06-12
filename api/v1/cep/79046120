@@ -1,12 +1,12 @@
 {
-  "cep": "79046120",
-  "logradouro": "Alameda Serissa",
-  "bairro": "Residencial Damha",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Residencial Damha;",
+    "cep": "79046120",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Alameda Serissa;"
 }

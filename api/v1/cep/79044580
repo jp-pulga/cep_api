@@ -1,12 +1,12 @@
 {
-  "cep": "79044580",
-  "logradouro": "Avenida Alzira Brandão",
-  "bairro": "Jardim Samambaia",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Samambaia;",
+    "cep": "79044580",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Alzira Brandão;"
 }

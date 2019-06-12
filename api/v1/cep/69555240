@@ -1,12 +1,12 @@
 {
-  "cep": "69555240",
-  "logradouro": "Rua Tabatinga",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "69555240",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "logradouro": "Rua Tabatinga;"
 }

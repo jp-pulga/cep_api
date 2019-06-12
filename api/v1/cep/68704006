@@ -1,12 +1,13 @@
 {
-  "cep": "68704006",
-  "logradouro": "Passagem Raimundo Nogueira",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "68704006",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Raimundo Nogueira;"
 }

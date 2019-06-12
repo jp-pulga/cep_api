@@ -1,12 +1,13 @@
 {
-  "cep": "68700400",
-  "logradouro": "Passagem Cinco de Novembro",
-  "bairro": "Campinho",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Campinho;",
+    "cep": "68700400",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Cinco de Novembro;"
 }

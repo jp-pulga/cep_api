@@ -1,12 +1,13 @@
 {
-  "cep": "69400302",
-  "logradouro": "Beco Adolfo Cavalcante",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69400302",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Beco Adolfo Cavalcante;"
 }

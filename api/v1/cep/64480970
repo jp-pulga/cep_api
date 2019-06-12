@@ -1,12 +1,13 @@
 {
-  "cep": "64480970",
-  "logradouro": "AC Arraial Avenida Cândido Muniz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arraial",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64480970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Arraial"
+    },
+    "ibge": 2201002,
+    "logradouro": "Avenida Cândido Muniz, s\/n  AC Arraial;"
 }

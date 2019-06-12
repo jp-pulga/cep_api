@@ -1,12 +1,13 @@
 {
-  "cep": "58714970",
-  "logradouro": "AC Condado Rua Padre Amâncio Leite 128",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Condado",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58714970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Condado"
+    },
+    "ibge": 2504504,
+    "logradouro": "Rua Padre Amâncio Leite, 128  AC Condado;"
 }

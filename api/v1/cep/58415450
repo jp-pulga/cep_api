@@ -1,12 +1,12 @@
 {
-  "cep": "58415450",
-  "logradouro": "Rua Maria da Conceição Cunha",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "58415450",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Maria da Conceição Cunha;"
 }

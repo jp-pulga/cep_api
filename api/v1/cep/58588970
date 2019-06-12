@@ -1,12 +1,13 @@
 {
-  "cep": "58588970",
-  "logradouro": "AGC Coxixola Praça Maria Anunciada das N. Moura 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coxixola",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58588970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Coxixola"
+    },
+    "ibge": 2504850,
+    "logradouro": "Praça Maria Anunciada das N. Moura, 11  AGC Coxixola;"
 }

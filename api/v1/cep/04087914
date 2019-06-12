@@ -1,12 +1,12 @@
 {
-  "cep": "04087914",
-  "logradouro": "Edifício Giadacchino Tassini Alameda dos Anapurus 1325",
-  "bairro": "Indianópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Indianópolis;",
+    "cep": "04087914",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Alameda dos Anapurus, 1325  Edifício Giadacchino Tassini;"
 }

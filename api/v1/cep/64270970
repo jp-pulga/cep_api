@@ -1,12 +1,13 @@
 {
-  "cep": "64270970",
-  "logradouro": "AC Capitão de Campos Avenida Santos Dumont 240",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capitão de Campos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64270970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Capitão de Campos"
+    },
+    "ibge": 2202406,
+    "logradouro": "Avenida Santos Dumont, 240  AC Capitão de Campos;"
 }

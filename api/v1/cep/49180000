@@ -1,12 +1,11 @@
 {
-  "cep": "49180000",
-  "logradouro": "Santo Amaro das Brotas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santo Amaro das Brotas",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49180000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Santo Amaro das Brotas"
+    },
+    "ibge": 2806602
 }

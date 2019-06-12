@@ -1,12 +1,11 @@
 {
-  "cep": "57425000",
-  "logradouro": "Jaramataia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jaramataia",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57425000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Jaramataia"
+    },
+    "ibge": 2703700
 }

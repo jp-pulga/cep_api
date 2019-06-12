@@ -1,12 +1,12 @@
 {
-  "cep": "35900617",
-  "logradouro": "Praça Seis",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "35900617",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Praça Seis;"
 }

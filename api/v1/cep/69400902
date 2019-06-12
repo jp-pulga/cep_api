@@ -1,12 +1,13 @@
 {
-  "cep": "69400902",
-  "logradouro": "Banco do Brasil Avenida Ribeiro Júnior 155",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69400902",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Ribeiro Júnior, 155  Banco do Brasil;"
 }

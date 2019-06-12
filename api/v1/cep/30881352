@@ -1,12 +1,12 @@
 {
-  "cep": "30881352",
-  "logradouro": "Rua Coronel Belmiro Cruz",
-  "bairro": "São Salvador",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Salvador;",
+    "cep": "30881352",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Coronel Belmiro Cruz;"
 }

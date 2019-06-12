@@ -1,12 +1,13 @@
 {
-  "cep": "69152087",
-  "logradouro": "Avenida Geny Bentes",
-  "bairro": "Paulo Correa",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Paulo Correa;",
+    "cep": "69152087",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Avenida Geny Bentes;"
 }

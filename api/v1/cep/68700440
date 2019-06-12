@@ -1,12 +1,13 @@
 {
-  "cep": "68700440",
-  "logradouro": "Passagem Neco Barbosa",
-  "bairro": "Oliveira Brito",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Oliveira Brito;",
+    "cep": "68700440",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Neco Barbosa;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68701820",
-  "logradouro": "Passagem Benedito Pereira",
-  "bairro": "São Pedro e São Paulo",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São Pedro e São Paulo;",
+    "cep": "68701820",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Benedito Pereira;"
 }

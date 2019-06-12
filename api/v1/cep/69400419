@@ -1,12 +1,13 @@
 {
-  "cep": "69400419",
-  "logradouro": "Avenida João XXIII até 1095 - lado ímpar",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69400419",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida João XXIII - até 1095 - lado ímpar;"
 }

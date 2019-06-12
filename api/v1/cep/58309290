@@ -1,12 +1,12 @@
 {
-  "cep": "58309290",
-  "logradouro": "Rua José de Alencar",
-  "bairro": "Imaculada",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Imaculada;",
+    "cep": "58309290",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua José de Alencar;"
 }

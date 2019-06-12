@@ -1,12 +1,12 @@
 {
-  "cep": "57600060",
-  "logradouro": "Rua Marechal Deodoro da Fonseca",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57600060",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "logradouro": "Rua Marechal Deodoro da Fonseca;"
 }

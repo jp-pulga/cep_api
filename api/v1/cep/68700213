@@ -1,12 +1,13 @@
 {
-  "cep": "68700213",
-  "logradouro": "Passagem João Flor",
-  "bairro": "Igrejinha",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Igrejinha;",
+    "cep": "68700213",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem João Flor;"
 }

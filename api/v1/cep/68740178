@@ -1,12 +1,13 @@
 {
-  "cep": "68740178",
-  "logradouro": "Passagem Tiradentes",
-  "bairro": "Saudade II",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Saudade II;",
+    "cep": "68740178",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "ibge": 1502400,
+    "logradouro": "Passagem Tiradentes;"
 }

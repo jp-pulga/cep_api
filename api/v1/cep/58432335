@@ -1,12 +1,12 @@
 {
-  "cep": "58432335",
-  "logradouro": "Rua Miguel Seabra Fagundes",
-  "bairro": "Dinamérica",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Dinamérica;",
+    "cep": "58432335",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Miguel Seabra Fagundes;"
 }

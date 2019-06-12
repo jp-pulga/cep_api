@@ -1,12 +1,12 @@
 {
-  "cep": "13100376",
-  "logradouro": "Rua Serra de Itabaiana",
-  "bairro": "Jardim São Fernando",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Fernando;",
+    "cep": "13100376",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Serra de Itabaiana;"
 }

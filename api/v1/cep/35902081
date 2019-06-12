@@ -1,12 +1,12 @@
 {
-  "cep": "35902081",
-  "logradouro": "Rua José Sergio Rosa",
-  "bairro": "Gabiroba",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Gabiroba;",
+    "cep": "35902081",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua José Sergio Rosa;"
 }

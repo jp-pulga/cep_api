@@ -1,12 +1,12 @@
 {
-  "cep": "79041052",
-  "logradouro": "Rua do Ipê Amarelo",
-  "bairro": "Tiradentes",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Tiradentes;",
+    "cep": "79041052",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Alameda do Ipê Amarelo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "06867516",
-  "logradouro": "Rua Macambira",
-  "bairro": "Jardim Santa Júlia",
-  "cidade": {
-    "nome": "Itapecerica da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Júlia;",
+    "cep": "06867516",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapecerica da Serra"
+    },
+    "logradouro": "Rua Macambira;"
 }

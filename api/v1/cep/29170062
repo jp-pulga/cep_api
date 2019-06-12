@@ -1,12 +1,12 @@
 {
-  "cep": "29170062",
-  "logradouro": "Rua Itabira",
-  "bairro": "Nova Carapina I",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Carapina I;",
+    "cep": "29170062",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Itabira;"
 }

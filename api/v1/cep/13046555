@@ -1,12 +1,12 @@
 {
-  "cep": "13046555",
-  "logradouro": "Rua Carmelinda Marques Pereira",
-  "bairro": "Jardim Aliança",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Aliança;",
+    "cep": "13046555",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Carmelinda Marques Pereira;"
 }

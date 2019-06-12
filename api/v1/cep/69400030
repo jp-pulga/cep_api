@@ -1,12 +1,13 @@
 {
-  "cep": "69400030",
-  "logradouro": "Avenida da Correnteza de 1911/1912 ao fim",
-  "bairro": "Correnteza",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Correnteza;",
+    "cep": "69400030",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida da Correnteza - de 1911\/1912 ao fim;"
 }

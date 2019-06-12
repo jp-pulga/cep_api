@@ -1,12 +1,12 @@
 {
-  "cep": "69073807",
-  "logradouro": "Travessa Padre Samuel Fritz",
-  "bairro": "Betânia",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Betânia;",
+    "cep": "69073807",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Padre Samuel Fritz;"
 }

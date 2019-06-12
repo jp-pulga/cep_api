@@ -1,12 +1,11 @@
 {
-  "cep": "69250000",
-  "logradouro": "Careiro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Careiro",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69250000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Careiro"
+    },
+    "ibge": 1301100
 }

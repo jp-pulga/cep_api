@@ -1,12 +1,12 @@
 {
-  "cep": "35258970",
-  "logradouro": "AC São Geraldo do Baixio Avenida Messias Gonçalves 1046",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Geraldo do Baixio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35258970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Geraldo do Baixio"
+    },
+    "logradouro": "Avenida Messias Gonçalves, 1046  AC São Geraldo do Baixio;"
 }

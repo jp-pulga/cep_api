@@ -1,12 +1,12 @@
 {
-  "cep": "69073805",
-  "logradouro": "Rua São Pedro",
-  "bairro": "Betânia",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Betânia;",
+    "cep": "69073805",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua São Pedro;"
 }

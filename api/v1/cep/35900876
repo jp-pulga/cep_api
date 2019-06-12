@@ -1,12 +1,12 @@
 {
-  "cep": "35900876",
-  "logradouro": "Rua Seis",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "35900876",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Seis;"
 }

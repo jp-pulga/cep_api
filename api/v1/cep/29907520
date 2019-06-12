@@ -1,12 +1,12 @@
 {
-  "cep": "29907520",
-  "logradouro": "Rua Pedro Felipe Santiago",
-  "bairro": "Nova Betânia",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Betânia;",
+    "cep": "29907520",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Pedro Felipe Santiago;"
 }

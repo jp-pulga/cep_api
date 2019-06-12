@@ -1,12 +1,12 @@
 {
-  "cep": "35901081",
-  "logradouro": "Rua Sete",
-  "bairro": "Santa Ruth",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Ruth;",
+    "cep": "35901081",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Sete;"
 }

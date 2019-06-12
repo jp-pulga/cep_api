@@ -1,12 +1,12 @@
 {
-  "cep": "79046250",
-  "logradouro": "Alameda Imperador",
-  "bairro": "Residencial Damha III",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Residencial Damha III;",
+    "cep": "79046250",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Alameda Imperador;"
 }

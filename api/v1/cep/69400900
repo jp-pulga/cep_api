@@ -1,12 +1,13 @@
 {
-  "cep": "69400900",
-  "logradouro": "Instituto Nacional do Seguro Social - INSS Avenida Eduardo Ribeiro 457",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69400900",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Eduardo Ribeiro, 457  Instituto Nacional do Seguro Social - INSS;"
 }

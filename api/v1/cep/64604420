@@ -1,12 +1,12 @@
 {
-  "cep": "64604420",
-  "logradouro": "Rua Nossa Senhora Aparecida",
-  "bairro": "Ipueiras",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ipueiras;",
+    "cep": "64604420",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Nossa Senhora Aparecida (Morro da Macambira);"
 }

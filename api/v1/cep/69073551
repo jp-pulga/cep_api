@@ -1,12 +1,12 @@
 {
-  "cep": "69073551",
-  "logradouro": "Travessa João Pessoa",
-  "bairro": "Betânia",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Betânia;",
+    "cep": "69073551",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa João Pessoa;"
 }

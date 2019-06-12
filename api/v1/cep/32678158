@@ -1,12 +1,12 @@
 {
-  "cep": "32678158",
-  "logradouro": "Rua Ceará lado par",
-  "bairro": "Granja Verde",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja Verde;",
+    "cep": "32678158",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Ceará - lado par;"
 }

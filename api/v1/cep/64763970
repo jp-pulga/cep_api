@@ -1,12 +1,13 @@
 {
-  "cep": "64763970",
-  "logradouro": "AC Capitão Gervásio Oliveira Avenida Antonio Mendes de Sousa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capitão Gervásio Oliveira",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64763970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Capitão Gervásio Oliveira"
+    },
+    "ibge": 2202455,
+    "logradouro": "Avenida Antonio Mendes de Sousa, s\/n  AC Capitão Gervásio Oliveira;"
 }

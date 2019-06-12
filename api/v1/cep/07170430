@@ -1,12 +1,12 @@
 {
-  "cep": "07170430",
-  "logradouro": "Viela Anajás",
-  "bairro": "Cidade Parque São Luiz",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Parque São Luiz;",
+    "cep": "07170430",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Viela Anajás;"
 }

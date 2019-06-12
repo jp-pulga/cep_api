@@ -1,12 +1,12 @@
 {
-  "cep": "35900378",
-  "logradouro": "Rua Sergipe",
-  "bairro": "Amazonas",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Amazonas;",
+    "cep": "35900378",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Sergipe;"
 }

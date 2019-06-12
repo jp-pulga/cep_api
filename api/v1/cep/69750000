@@ -1,12 +1,11 @@
 {
-  "cep": "69750000",
-  "logradouro": "São Gabriel da Cachoeira",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Gabriel da Cachoeira",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69750000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "São Gabriel da Cachoeira"
+    },
+    "ibge": 1303809
 }

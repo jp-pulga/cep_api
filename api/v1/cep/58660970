@@ -1,12 +1,13 @@
 {
-  "cep": "58660970",
-  "logradouro": "AC Juazeirinho Praça João Pessoa 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juazeirinho",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58660970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Juazeirinho"
+    },
+    "ibge": 2507705,
+    "logradouro": "Praça João Pessoa, 29  AC Juazeirinho;"
 }

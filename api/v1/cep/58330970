@@ -1,12 +1,13 @@
 {
-  "cep": "58330970",
-  "logradouro": "AC Juripiranga Avenida Brasil 558",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juripiranga",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58330970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Juripiranga"
+    },
+    "ibge": 2507903,
+    "logradouro": "Avenida Brasil, 558  AC Juripiranga;"
 }

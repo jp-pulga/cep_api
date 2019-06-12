@@ -1,12 +1,12 @@
 {
-  "cep": "35900900",
-  "logradouro": "Vale S/A Estrada Serra do Esmeril",
-  "bairro": "Serra do Esmeril",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra do Esmeril;",
+    "cep": "35900900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Estrada Serra do Esmeril  Vale S\/A;"
 }

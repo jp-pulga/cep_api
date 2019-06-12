@@ -1,12 +1,12 @@
 {
-  "cep": "97578090",
-  "logradouro": "Rua Amaro Martins Pereira",
-  "bairro": "Tabatinga",
-  "cidade": {
-    "nome": "Santana do Livramento",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tabatinga;",
+    "cep": "97578090",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana do Livramento"
+    },
+    "logradouro": "Rua Amaro Martins Pereira;"
 }

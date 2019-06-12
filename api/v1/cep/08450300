@@ -1,12 +1,12 @@
 {
-  "cep": "08450300",
-  "logradouro": "Rua Arraial da Piranga",
-  "bairro": "Lajeado",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Lajeado;",
+    "cep": "08450300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Arraial da Piranga;"
 }

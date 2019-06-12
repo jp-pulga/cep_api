@@ -1,12 +1,13 @@
 {
-  "cep": "58337970",
-  "logradouro": "AC Cruz dos Espírito Santo Rua César Cartaxo 50",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruz do Espírito Santo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58337970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cruz do Espírito Santo"
+    },
+    "ibge": 2504900,
+    "logradouro": "Rua César Cartaxo, 50  AC Cruz dos Espírito Santo;"
 }

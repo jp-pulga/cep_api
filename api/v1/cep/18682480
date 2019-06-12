@@ -1,12 +1,12 @@
 {
-  "cep": "18682480",
-  "logradouro": "Rua Anapurus",
-  "bairro": "Jardim Itamaraty",
-  "cidade": {
-    "nome": "Lençóis Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Itamaraty;",
+    "cep": "18682480",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Lençóis Paulista"
+    },
+    "logradouro": "Rua Anapurus;"
 }

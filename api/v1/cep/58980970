@@ -1,12 +1,13 @@
 {
-  "cep": "58980970",
-  "logradouro": "AC Ibiara Rua Joaquim Lopes Ribeiro 31",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibiara",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58980970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Ibiara"
+    },
+    "ibge": 2506608,
+    "logradouro": "Rua Joaquim Lopes Ribeiro, 31  AC Ibiara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64335970",
-  "logradouro": "AC Coivaras Praça João Ferreira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coivaras",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64335970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Coivaras"
+    },
+    "ibge": 2202737,
+    "logradouro": "Praça João Ferreira, s\/n  AC Coivaras;"
 }

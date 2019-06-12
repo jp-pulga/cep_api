@@ -1,12 +1,13 @@
 {
-  "cep": "58322970",
-  "logradouro": "AC Conde Rua Manoel Alves s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conde",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58322970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Conde"
+    },
+    "ibge": 2504603,
+    "logradouro": "Rua Manoel Alves, s\/n  AC Conde;"
 }

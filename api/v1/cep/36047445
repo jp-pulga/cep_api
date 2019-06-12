@@ -1,12 +1,12 @@
 {
-  "cep": "36047445",
-  "logradouro": "Rua Sebastião Pereira Barbosa",
-  "bairro": "Granjas Betânia",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granjas Betânia;",
+    "cep": "36047445",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Sebastião Pereira Barbosa;"
 }

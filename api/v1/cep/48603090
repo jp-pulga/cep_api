@@ -1,12 +1,12 @@
 {
-  "cep": "48603090",
-  "logradouro": "Rua Nova Aliança",
-  "bairro": "Perpétuo Socorro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Perpétuo Socorro;",
+    "cep": "48603090",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Nova Aliança;"
 }

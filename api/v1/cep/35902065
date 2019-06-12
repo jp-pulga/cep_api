@@ -1,12 +1,12 @@
 {
-  "cep": "35902065",
-  "logradouro": "Rua dos Senadores",
-  "bairro": "Gabiroba",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Gabiroba;",
+    "cep": "35902065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua dos Senadores;"
 }

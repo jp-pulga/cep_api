@@ -1,12 +1,12 @@
 {
-  "cep": "09403610",
-  "logradouro": "Rua Filomena Pelizon Bernardi",
-  "bairro": "Aliança",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Aliança;",
+    "cep": "09403610",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Filomena Pelizon Bernardi;"
 }

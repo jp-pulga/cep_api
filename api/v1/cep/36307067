@@ -1,12 +1,12 @@
 {
-  "cep": "36307067",
-  "logradouro": "Rua Francisco César Carvalho de Barros",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "36307067",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Francisco César Carvalho de Barros;"
 }

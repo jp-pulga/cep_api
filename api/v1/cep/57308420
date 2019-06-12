@@ -1,12 +1,12 @@
 {
-  "cep": "57308420",
-  "logradouro": "Rua Colônia de Leopoldina",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "57308420",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Colônia de Leopoldina;"
 }

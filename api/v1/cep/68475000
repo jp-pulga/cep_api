@@ -1,12 +1,11 @@
 {
-  "cep": "68475000",
-  "logradouro": "Bagre",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bagre",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68475000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Bagre"
+    },
+    "ibge": 1501105
 }

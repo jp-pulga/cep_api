@@ -1,12 +1,13 @@
 {
-  "cep": "58027430",
-  "logradouro": "Avenida Caramuru",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "58027430",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Caramuru;"
 }

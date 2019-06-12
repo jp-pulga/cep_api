@@ -1,12 +1,12 @@
 {
-  "cep": "01007060",
-  "logradouro": "Viaduto Doutor Eusébio Stevaux",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "01007060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Viaduto Doutor Eusébio Stevaux;"
 }

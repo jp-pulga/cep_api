@@ -1,12 +1,11 @@
 {
-  "cep": "57140000",
-  "logradouro": "Coqueiro Seco",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coqueiro Seco",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57140000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Coqueiro Seco"
+    },
+    "ibge": 2702207
 }

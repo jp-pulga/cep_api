@@ -1,12 +1,13 @@
 {
-  "cep": "68701160",
-  "logradouro": "Passagem da Estação",
-  "bairro": "Dom João VI",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Dom João VI;",
+    "cep": "68701160",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem da Estação;"
 }

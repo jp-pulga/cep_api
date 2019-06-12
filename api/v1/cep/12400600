@@ -1,12 +1,12 @@
 {
-  "cep": "12400600",
-  "logradouro": "Avenida Benedito Cruz César",
-  "bairro": "Residencial Campo Belo",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Campo Belo;",
+    "cep": "12400600",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Avenida Benedito Cruz César;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69401311",
-  "logradouro": "Avenida Pedro Moura até 597 - lado ímpar",
-  "bairro": "Terra Preta",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Terra Preta;",
+    "cep": "69401311",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Pedro Moura - até 597 - lado ímpar;"
 }

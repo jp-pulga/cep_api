@@ -1,12 +1,13 @@
 {
-  "cep": "64868970",
-  "logradouro": "AC Baixa Grande do Ribeiro Praça Agenor Dias Pinheiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Baixa Grande do Ribeiro",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64868970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Baixa Grande do Ribeiro"
+    },
+    "ibge": 2201150,
+    "logradouro": "Praça Agenor Dias Pinheiro, s\/n  AC Baixa Grande do Ribeiro;"
 }

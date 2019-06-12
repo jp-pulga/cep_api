@@ -1,12 +1,12 @@
 {
-  "cep": "35900315",
-  "logradouro": "Rua Vinte e Sete",
-  "bairro": "Colina da Praia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colina da Praia;",
+    "cep": "35900315",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Vinte e Sete;"
 }

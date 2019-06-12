@@ -1,12 +1,11 @@
 {
-  "cep": "57430000",
-  "logradouro": "Jacaré dos Homens",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jacaré dos Homens",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57430000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Jacaré dos Homens"
+    },
+    "ibge": 2703403
 }

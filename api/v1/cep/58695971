@@ -1,12 +1,13 @@
 {
-  "cep": "58695971",
-  "logradouro": "AGC Tataira Rua Dois Irmãos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Desterro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58695971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Desterro"
+    },
+    "ibge": 2505402,
+    "logradouro": "Rua Dois Irmãos, s\/n  AGC Tataira;"
 }

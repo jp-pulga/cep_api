@@ -1,12 +1,12 @@
 {
-  "cep": "04087926",
-  "logradouro": "Edifício Palacio Visconde de Abaete Alameda dos Anapurus 746",
-  "bairro": "Indianópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Indianópolis;",
+    "cep": "04087926",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Alameda dos Anapurus, 746  Edifício Palacio Visconde de Abaete;"
 }

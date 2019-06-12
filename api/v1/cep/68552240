@@ -1,12 +1,12 @@
 {
-  "cep": "68552240",
-  "logradouro": "Rua Conceição do Araguaia",
-  "bairro": "Setor Oeste",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Setor Oeste;",
+    "cep": "68552240",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "logradouro": "Rua Conceição do Araguaia;"
 }

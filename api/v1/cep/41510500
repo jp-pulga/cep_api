@@ -1,12 +1,12 @@
 {
-  "cep": "41510500",
-  "logradouro": "Rua Senhor do Bonfim de Cima",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "41510500",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Senhor do Bonfim de Cima;"
 }

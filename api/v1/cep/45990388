@@ -1,12 +1,12 @@
 {
-  "cep": "45990388",
-  "logradouro": "Avenida Senhor José Silotti",
-  "bairro": "Santa Rosa de Lima",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Rosa de Lima;",
+    "cep": "45990388",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Avenida Senhor José Silotti;"
 }

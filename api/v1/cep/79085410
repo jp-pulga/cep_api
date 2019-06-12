@@ -1,12 +1,12 @@
 {
-  "cep": "79085410",
-  "logradouro": "Avenida Generoso de Albuquerque",
-  "bairro": "Conjunto Aero Rancho",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Conjunto Aero Rancho;",
+    "cep": "79085410",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Generoso de Albuquerque;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58401347",
-  "logradouro": "Rua Doutor Vasconcelos de 1 ao fim - lado ímpar",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "58401347",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Doutor Vasconcelos - de 1 ao fim - lado ímpar;"
 }

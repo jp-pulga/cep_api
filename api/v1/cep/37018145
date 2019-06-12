@@ -1,12 +1,12 @@
 {
-  "cep": "37018145",
-  "logradouro": "Rua Professor Célio Siqueira Cruz",
-  "bairro": "Vila Mendes",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Mendes;",
+    "cep": "37018145",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Professor Célio Siqueira Cruz;"
 }

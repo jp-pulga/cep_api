@@ -1,12 +1,12 @@
 {
-  "cep": "58401078",
-  "logradouro": "Rua Conde do Bonfim",
-  "bairro": "Palmeira",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Palmeira;",
+    "cep": "58401078",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Conde do Bonfim;"
 }

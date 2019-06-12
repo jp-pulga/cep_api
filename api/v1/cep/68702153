@@ -1,12 +1,13 @@
 {
-  "cep": "68702153",
-  "logradouro": "Passagem Raimundo Alves",
-  "bairro": "Inussun",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Inussun;",
+    "cep": "68702153",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Raimundo Alves;"
 }

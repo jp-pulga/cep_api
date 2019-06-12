@@ -1,12 +1,13 @@
 {
-  "cep": "68703220",
-  "logradouro": "Avenida Senador Jarbas Passarinho",
-  "bairro": "Nazaré",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nazaré;",
+    "cep": "68703220",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Avenida Senador Jarbas Passarinho;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58695972",
-  "logradouro": "AGC São Sebastião Rua Vereador Manoel de Almeida s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Desterro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58695972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Desterro"
+    },
+    "ibge": 2505402,
+    "logradouro": "Rua Vereador Manoel de Almeida, s\/n  AGC São Sebastião;"
 }

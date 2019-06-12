@@ -1,12 +1,13 @@
 {
-  "cep": "58015345",
-  "logradouro": "Avenida Capitão José Pessoa de 568/569 ao fim",
-  "bairro": "Jaguaribe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jaguaribe;",
+    "cep": "58015345",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Capitão José Pessoa - de 568\/569 ao fim;"
 }

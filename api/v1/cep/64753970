@@ -1,12 +1,13 @@
 {
-  "cep": "64753970",
-  "logradouro": "AC Betânia do Piauí Avenida José Inocêncio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Betânia do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64753970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Betânia do Piauí"
+    },
+    "ibge": 2201739,
+    "logradouro": "Avenida José Inocêncio, s\/n  AC Betânia do Piauí;"
 }

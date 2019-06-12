@@ -1,12 +1,12 @@
 {
-  "cep": "37900055",
-  "logradouro": "Rua Coronel João de Barros até 271/272",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37900055",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Coronel João de Barros - até 271\/272;"
 }

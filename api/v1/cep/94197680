@@ -1,12 +1,12 @@
 {
-  "cep": "94197680",
-  "logradouro": "Rua Pedro Paulo da Silva",
-  "bairro": "Jardim do Cedro",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim do Cedro;",
+    "cep": "94197680",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Pedro Paulo da Silva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "92420120",
-  "logradouro": "Rua Senador Salgado Filho",
-  "bairro": "São Luis",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luis;",
+    "cep": "92420120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Senador Salgado Filho;"
 }

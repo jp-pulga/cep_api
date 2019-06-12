@@ -1,12 +1,12 @@
 {
-  "cep": "58401340",
-  "logradouro": "Rua Professora Luíza de Castro Lago",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "58401340",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Professora Luíza de Castro Lago;"
 }

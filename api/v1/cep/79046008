@@ -1,12 +1,12 @@
 {
-  "cep": "79046008",
-  "logradouro": "Alameda Ubacáia",
-  "bairro": "Residencial Damha II",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Residencial Damha II;",
+    "cep": "79046008",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Alameda Ubacáia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64283970",
-  "logradouro": "AC Boqueirão do Piauí Praça Agostinho Barbosa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boqueirão do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64283970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Boqueirão do Piauí"
+    },
+    "ibge": 2201945,
+    "logradouro": "Praça Agostinho Barbosa, s\/n  AC Boqueirão do Piauí;"
 }

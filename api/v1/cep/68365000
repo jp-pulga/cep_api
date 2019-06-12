@@ -1,12 +1,11 @@
 {
-  "cep": "68365000",
-  "logradouro": "Anapu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Anapu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68365000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Anapu"
+    },
+    "ibge": 1500859
 }

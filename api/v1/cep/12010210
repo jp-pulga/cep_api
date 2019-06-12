@@ -1,12 +1,12 @@
 {
-  "cep": "12010210",
-  "logradouro": "Praça Doutor Euzébio Câmara Leal",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "12010210",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Praça Doutor Euzébio Câmara Leal;"
 }

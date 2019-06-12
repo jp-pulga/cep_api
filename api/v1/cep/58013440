@@ -1,12 +1,13 @@
 {
-  "cep": "58013440",
-  "logradouro": "Avenida Francisca Moura até 473/474",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58013440",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Francisca Moura - até 473\/474;"
 }

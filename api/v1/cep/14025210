@@ -1,12 +1,12 @@
 {
-  "cep": "14025210",
-  "logradouro": "Rua Marechal Deodoro de 2130/2131 ao fim",
-  "bairro": "Alto da Boa Vista",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alto da Boa Vista;",
+    "cep": "14025210",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Marechal Deodoro - de 2130\/2131 ao fim;"
 }

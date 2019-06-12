@@ -1,12 +1,12 @@
 {
-  "cep": "58306011",
-  "logradouro": "Rua Raimunda Maria da Conceição",
-  "bairro": "Sesi",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Sesi;",
+    "cep": "58306011",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Raimunda Maria da Conceição;"
 }

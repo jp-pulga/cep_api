@@ -1,12 +1,12 @@
 {
-  "cep": "64208555",
-  "logradouro": "Rua Deputado Mussa Demes (Entre Quadras C e D Cj Betânia)",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208555",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Deputado Mussa Demes (Entre Quadras C e D Cj Betânia);"
 }

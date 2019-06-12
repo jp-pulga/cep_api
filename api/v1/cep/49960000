@@ -1,12 +1,11 @@
 {
-  "cep": "49960000",
-  "logradouro": "Japaratuba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Japaratuba",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49960000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Japaratuba"
+    },
+    "ibge": 2803302
 }

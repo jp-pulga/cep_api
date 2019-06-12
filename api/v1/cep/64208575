@@ -1,12 +1,12 @@
 {
-  "cep": "64208575",
-  "logradouro": "Rua Coronel Dante Pires Rebelo (Entre Quadras A e B Cj Betânia)",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208575",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Coronel Dante Pires Rebelo (Entre Quadras A e B Cj Betânia);"
 }

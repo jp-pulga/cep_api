@@ -1,12 +1,12 @@
 {
-  "cep": "41906141",
-  "logradouro": "Rua Nossa Senhora da Vitória (V Pedrinhas)",
-  "bairro": "Nordeste",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nordeste;",
+    "cep": "41906141",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Nossa Senhora da Vitória (V Pedrinhas);"
 }

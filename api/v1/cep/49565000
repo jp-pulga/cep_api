@@ -1,12 +1,11 @@
 {
-  "cep": "49565000",
-  "logradouro": "Macambira",
-  "bairro": "",
-  "cidade": {
-    "nome": "Macambira",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49565000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Macambira"
+    },
+    "ibge": 2803708
 }

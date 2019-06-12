@@ -1,12 +1,12 @@
 {
-  "cep": "03274040",
-  "logradouro": "Rua Antônio Baião",
-  "bairro": "Vila Santa Clara",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Clara;",
+    "cep": "03274040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Antônio Baião;"
 }

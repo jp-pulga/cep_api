@@ -1,12 +1,12 @@
 {
-  "cep": "49075400",
-  "logradouro": "Rua Neópolis",
-  "bairro": "Siqueira Campos",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Siqueira Campos;",
+    "cep": "49075400",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Neópolis;"
 }

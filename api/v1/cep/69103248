@@ -1,12 +1,12 @@
 {
-  "cep": "69103248",
-  "logradouro": "Rua Severiano Nunes",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "69103248",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "logradouro": "Rua Severiano Nunes;"
 }

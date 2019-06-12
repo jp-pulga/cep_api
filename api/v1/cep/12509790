@@ -1,12 +1,12 @@
 {
-  "cep": "12509790",
-  "logradouro": "Rua Coronel João da Cruz Payao",
-  "bairro": "Vila dos Comerciários II",
-  "cidade": {
-    "nome": "Guaratinguetá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila dos Comerciários II;",
+    "cep": "12509790",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guaratinguetá"
+    },
+    "logradouro": "Rua Coronel João da Cruz Payao;"
 }

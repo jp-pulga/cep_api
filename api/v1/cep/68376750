@@ -1,12 +1,13 @@
 {
-  "cep": "68376750",
-  "logradouro": "Passagem IX",
-  "bairro": "Ibiza",
-  "cidade": {
-    "nome": "Altamira",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Ibiza;",
+    "cep": "68376750",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Altamira"
+    },
+    "ibge": 1500602,
+    "logradouro": "Passagem IX;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "49517000",
-  "logradouro": "Pinhão",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pinhão",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49517000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Pinhão"
+    },
+    "ibge": 2805208
 }

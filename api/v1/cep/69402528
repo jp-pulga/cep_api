@@ -1,12 +1,13 @@
 {
-  "cep": "69402528",
-  "logradouro": "Avenida Gavião Real (Lot Sto Antônio)",
-  "bairro": "Morada do Sol",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Morada do Sol;",
+    "cep": "69402528",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Gavião Real (Lot Sto Antônio);"
 }

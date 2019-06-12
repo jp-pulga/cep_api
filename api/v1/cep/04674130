@@ -1,12 +1,12 @@
 {
-  "cep": "04674130",
-  "logradouro": "Rua Antônio de Barros César",
-  "bairro": "Jardim Itapeva",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Itapeva;",
+    "cep": "04674130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Antônio de Barros César;"
 }

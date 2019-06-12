@@ -1,12 +1,13 @@
 {
-  "cep": "68702013",
-  "logradouro": "Avenida João Paulo II lado ímpar",
-  "bairro": "Garrafão",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Garrafão;",
+    "cep": "68702013",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Avenida João Paulo II - lado ímpar;"
 }

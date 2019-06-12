@@ -1,12 +1,12 @@
 {
-  "cep": "69075032",
-  "logradouro": "Travessa Tonantins",
-  "bairro": "Distrito Industrial I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Distrito Industrial I;",
+    "cep": "69075032",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Tonantins;"
 }

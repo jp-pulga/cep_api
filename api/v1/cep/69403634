@@ -1,12 +1,13 @@
 {
-  "cep": "69403634",
-  "logradouro": "Avenida Doutor Francisco",
-  "bairro": "Vale Verde",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vale Verde;",
+    "cep": "69403634",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Doutor Francisco;"
 }

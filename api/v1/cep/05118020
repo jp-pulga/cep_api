@@ -1,12 +1,12 @@
 {
-  "cep": "05118020",
-  "logradouro": "Rua Altamira do Paraná",
-  "bairro": "Vila Jaguara",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Jaguara;",
+    "cep": "05118020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Altamira do Paraná;"
 }

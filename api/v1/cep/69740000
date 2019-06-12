@@ -1,12 +1,11 @@
 {
-  "cep": "69740000",
-  "logradouro": "Santa Isabel do Rio Negro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Isabel do Rio Negro",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69740000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Santa Isabel do Rio Negro"
+    },
+    "ibge": 1303601
 }

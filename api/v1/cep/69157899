@@ -1,12 +1,13 @@
 {
-  "cep": "69157899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Parintins",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Área Rural de Parintins;",
+    "cep": "69157899",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Área Rural;"
 }

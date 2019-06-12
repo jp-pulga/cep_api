@@ -1,12 +1,12 @@
 {
-  "cep": "89161316",
-  "logradouro": "Rua Pedro Frankenberger de 841/842 ao fim",
-  "bairro": "Bela Aliança",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Aliança;",
+    "cep": "89161316",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Pedro Frankenberger - de 841\/842 ao fim;"
 }

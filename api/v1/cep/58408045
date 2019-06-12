@@ -1,12 +1,12 @@
 {
-  "cep": "58408045",
-  "logradouro": "Rua Josefa Maria da Conceição",
-  "bairro": "Vila Cabral",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Vila Cabral;",
+    "cep": "58408045",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Josefa Maria da Conceição;"
 }

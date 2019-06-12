@@ -1,12 +1,13 @@
 {
-  "cep": "69400359",
-  "logradouro": "Avenida Getúlio Vargas de 805/806 ao fim",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69400359",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Avenida Getúlio Vargas - de 805\/806 ao fim;"
 }

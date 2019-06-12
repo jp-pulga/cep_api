@@ -1,12 +1,12 @@
 {
-  "cep": "79065130",
-  "logradouro": "Avenida Alto da Serra",
-  "bairro": "Vila Moreninha II",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Moreninha II;",
+    "cep": "79065130",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Alto da Serra;"
 }

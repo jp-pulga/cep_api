@@ -1,12 +1,12 @@
 {
-  "cep": "58010570",
-  "logradouro": "Rua Porto do Capim",
-  "bairro": "Varadouro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Varadouro;",
+    "cep": "58010570",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Porto do Capim;"
 }

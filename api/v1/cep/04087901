@@ -1,12 +1,12 @@
 {
-  "cep": "04087901",
-  "logradouro": "Edifício Grand Palans Alameda dos Anapurus 620",
-  "bairro": "Indianópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Indianópolis;",
+    "cep": "04087901",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Alameda dos Anapurus, 620  Edifício Grand Palans;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68785000",
-  "logradouro": "Colares",
-  "bairro": "",
-  "cidade": {
-    "nome": "Colares",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68785000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Colares"
+    },
+    "ibge": 1502608
 }

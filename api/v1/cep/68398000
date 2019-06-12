@@ -1,12 +1,11 @@
 {
-  "cep": "68398000",
-  "logradouro": "Cumaru do Norte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cumaru do Norte",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68398000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Cumaru do Norte"
+    },
+    "ibge": 1502764
 }

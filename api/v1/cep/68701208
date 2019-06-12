@@ -1,12 +1,13 @@
 {
-  "cep": "68701208",
-  "logradouro": "Passagem Nezinho Oliveira",
-  "bairro": "Três de Maio",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Três de Maio;",
+    "cep": "68701208",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem Nezinho Oliveira;"
 }

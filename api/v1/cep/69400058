@@ -1,12 +1,13 @@
 {
-  "cep": "69400058",
-  "logradouro": "Rua Amazonino Mendes",
-  "bairro": "Correnteza",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Correnteza;",
+    "cep": "69400058",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "ibge": 1302504,
+    "logradouro": "Rua Amazonino Mendes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64208545",
-  "logradouro": "Avenida Desembargador Walter Carvalho Miranda (Entre Quadras D e E Cj Betânia)",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208545",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Avenida Desembargador Walter Carvalho Miranda (Entre Quadras D e E Cj Betânia);"
 }

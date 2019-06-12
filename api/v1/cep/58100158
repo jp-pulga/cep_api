@@ -1,12 +1,12 @@
 {
-  "cep": "58100158",
-  "logradouro": "Rua Juarez Távora",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58100158",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Juarez Távora;"
 }

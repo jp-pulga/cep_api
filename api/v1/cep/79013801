@@ -1,12 +1,12 @@
 {
-  "cep": "79013801",
-  "logradouro": "Travessa dos Bagres",
-  "bairro": "Recanto Pantaneiro",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Recanto Pantaneiro;",
+    "cep": "79013801",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Travessa dos Bagres;"
 }

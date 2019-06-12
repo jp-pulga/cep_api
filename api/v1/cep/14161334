@@ -1,12 +1,12 @@
 {
-  "cep": "14161334",
-  "logradouro": "Rua Pedro Carleto Netto",
-  "bairro": "Jardim Grande Aliança",
-  "cidade": {
-    "nome": "Sertãozinho",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Grande Aliança;",
+    "cep": "14161334",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sertãozinho"
+    },
+    "logradouro": "Rua Pedro Carleto Netto;"
 }

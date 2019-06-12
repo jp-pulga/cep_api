@@ -1,12 +1,11 @@
 {
-  "cep": "69880000",
-  "logradouro": "Eirunepé",
-  "bairro": "",
-  "cidade": {
-    "nome": "Eirunepé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69880000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Eirunepé"
+    },
+    "ibge": 1301407
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04921240",
-  "logradouro": "Rua José Colares",
-  "bairro": "Jardim Marquesa",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Marquesa;",
+    "cep": "04921240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua José Colares;"
 }

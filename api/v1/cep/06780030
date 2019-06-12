@@ -1,12 +1,12 @@
 {
-  "cep": "06780030",
-  "logradouro": "Rua Piracicaba",
-  "bairro": "Arraial Paulista",
-  "cidade": {
-    "nome": "Taboão da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Arraial Paulista;",
+    "cep": "06780030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taboão da Serra"
+    },
+    "logradouro": "Rua Piracicaba;"
 }

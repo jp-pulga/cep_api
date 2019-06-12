@@ -1,12 +1,12 @@
 {
-  "cep": "69075025",
-  "logradouro": "Travessa Tabatinga",
-  "bairro": "Distrito Industrial I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Distrito Industrial I;",
+    "cep": "69075025",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Tabatinga;"
 }

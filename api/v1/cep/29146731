@@ -1,12 +1,12 @@
 {
-  "cep": "29146731",
-  "logradouro": "Rua Benedito Cezário",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "29146731",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Benedito Cezário;"
 }

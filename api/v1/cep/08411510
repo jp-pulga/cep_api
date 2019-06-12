@@ -1,12 +1,12 @@
 {
-  "cep": "08411510",
-  "logradouro": "Rua Colares",
-  "bairro": "Jardim São Paulo(Zona Leste)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Paulo(Zona Leste);",
+    "cep": "08411510",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Colares;"
 }

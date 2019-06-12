@@ -1,12 +1,12 @@
 {
-  "cep": "64006510",
-  "logradouro": "Rua Corrente",
-  "bairro": "Água Mineral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Água Mineral;",
+    "cep": "64006510",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Corrente;"
 }

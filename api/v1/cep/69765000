@@ -1,12 +1,11 @@
 {
-  "cep": "69765000",
-  "logradouro": "Cucuí (São Gabriel da Cachoeira)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cucuí (São Gabriel da Cachoeira)",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69765000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "São Gabriel da Cachoeira"
+    },
+    "ibge": 1303809
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69152000",
-  "logradouro": "Avenida Geny Bentes",
-  "bairro": "Itaúna I",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Itaúna I;",
+    "cep": "69152000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Avenida Geny Bentes;"
 }

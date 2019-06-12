@@ -1,12 +1,13 @@
 {
-  "cep": "68701200",
-  "logradouro": "Passagem João Maria Neves",
-  "bairro": "Três de Maio",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Três de Maio;",
+    "cep": "68701200",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem João Maria Neves;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "69640000",
-  "logradouro": "Tabatinga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tabatinga",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69640000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tabatinga"
+    },
+    "ibge": 1304062
 }

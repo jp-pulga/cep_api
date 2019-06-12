@@ -1,12 +1,13 @@
 {
-  "cep": "69151261",
-  "logradouro": "Praça da Amizade",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69151261",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Praça da Amizade;"
 }

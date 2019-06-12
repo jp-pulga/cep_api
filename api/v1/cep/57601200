@@ -1,12 +1,12 @@
 {
-  "cep": "57601200",
-  "logradouro": "Rua Sebastião Ramos",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "57601200",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "logradouro": "Rua Sebastião Ramos - lado par;"
 }

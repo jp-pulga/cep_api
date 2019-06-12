@@ -1,12 +1,12 @@
 {
-  "cep": "98803140",
-  "logradouro": "Rua Manoel dos Santos Pedroso",
-  "bairro": "Aliança",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aliança;",
+    "cep": "98803140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Manoel dos Santos Pedroso;"
 }

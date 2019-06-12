@@ -1,12 +1,12 @@
 {
-  "cep": "29164806",
-  "logradouro": "Rua Santa Rosa de Lima",
-  "bairro": "Bicanga",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bicanga;",
+    "cep": "29164806",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Santa Rosa de Lima;"
 }

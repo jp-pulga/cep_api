@@ -1,12 +1,12 @@
 {
-  "cep": "37701425",
-  "logradouro": "Rua Dona Celina Cruz",
-  "bairro": "Jardim Gama Cruz",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Gama Cruz;",
+    "cep": "37701425",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Dona Celina Cruz;"
 }

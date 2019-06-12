@@ -1,12 +1,13 @@
 {
-  "cep": "68700739",
-  "logradouro": "Passagem João Coelho",
-  "bairro": "São Raimundo",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São Raimundo;",
+    "cep": "68700739",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Passagem João Coelho;"
 }

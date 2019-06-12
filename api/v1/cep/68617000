@@ -1,12 +1,11 @@
 {
-  "cep": "68617000",
-  "logradouro": "Cachoeira do Piriá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cachoeira do Piriá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68617000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Cachoeira do Piriá"
+    },
+    "ibge": 1501956
 }

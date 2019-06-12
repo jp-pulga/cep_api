@@ -1,12 +1,13 @@
 {
-  "cep": "58360972",
-  "logradouro": "AGC Cariata Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itabaiana",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58360972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Itabaiana"
+    },
+    "ibge": 2506905,
+    "logradouro": "Rua Principal, s\/n  AGC Cariata;"
 }

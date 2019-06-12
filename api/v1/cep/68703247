@@ -1,12 +1,13 @@
 {
-  "cep": "68703247",
-  "logradouro": "Avenida Jarbas Passarinho (Portelinha)",
-  "bairro": "Pedreira",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pedreira;",
+    "cep": "68703247",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "ibge": 1502202,
+    "logradouro": "Avenida Jarbas Passarinho (Portelinha);"
 }

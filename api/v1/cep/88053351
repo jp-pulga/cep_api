@@ -1,12 +1,12 @@
 {
-  "cep": "88053351",
-  "logradouro": "Passagem dos Bagres",
-  "bairro": "Jurerê Internacional",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jurerê Internacional;",
+    "cep": "88053351",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Passagem dos Bagres;"
 }

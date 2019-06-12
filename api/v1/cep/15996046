@@ -1,12 +1,12 @@
 {
-  "cep": "15996046",
-  "logradouro": "Avenida Guilherme Pedro",
-  "bairro": "Park Aliança",
-  "cidade": {
-    "nome": "Matão",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Park Aliança;",
+    "cep": "15996046",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Matão"
+    },
+    "logradouro": "Avenida Guilherme Pedro;"
 }

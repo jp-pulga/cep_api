@@ -1,12 +1,12 @@
 {
-  "cep": "79037280",
-  "logradouro": "Avenida Alexandre Herculano",
-  "bairro": "Jardim Veraneio",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Veraneio;",
+    "cep": "79037280",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Alexandre Herculano;"
 }

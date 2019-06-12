@@ -1,12 +1,12 @@
 {
-  "cep": "35663484",
-  "logradouro": "Rua Paulo Roberto do Amaral",
-  "bairro": "Residencial Capanema",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Capanema;",
+    "cep": "35663484",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Paulo Roberto do Amaral;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57020921",
-  "logradouro": "Câmara Municipal de Maceió Praça Marechal Deodoro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57020921",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Praça Marechal Deodoro, s\/n  Câmara Municipal de Maceió;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68376592",
-  "logradouro": "Rua Um (Loteamento Panorama)",
-  "bairro": "Jardim Altamira",
-  "cidade": {
-    "nome": "Altamira",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Altamira;",
+    "cep": "68376592",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Altamira"
+    },
+    "ibge": 1500602,
+    "logradouro": "Rua Um (Lot Panorama);"
 }

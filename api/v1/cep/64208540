@@ -1,12 +1,12 @@
 {
-  "cep": "64208540",
-  "logradouro": "Rua Francisco Ferreira de Araújo (Entre Quadras E e F Cj Betânia)",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208540",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Francisco Ferreira de Araújo (Entre Quadras E e F Cj Betânia);"
 }

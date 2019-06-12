@@ -1,12 +1,13 @@
 {
-  "cep": "69152203",
-  "logradouro": "Avenida Geny Bentes",
-  "bairro": "Itaúna II",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Itaúna II;",
+    "cep": "69152203",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "ibge": 1303403,
+    "logradouro": "Avenida Geny Bentes;"
 }

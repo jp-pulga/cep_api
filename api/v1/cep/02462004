@@ -1,12 +1,12 @@
 {
-  "cep": "02462004",
-  "logradouro": "Rua Domingos Baião",
-  "bairro": "Chora Menino",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chora Menino;",
+    "cep": "02462004",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Domingos Baião;"
 }

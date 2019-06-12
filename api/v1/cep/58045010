@@ -1,12 +1,13 @@
 {
-  "cep": "58045010",
-  "logradouro": "Avenida Cabo Branco",
-  "bairro": "Cabo Branco",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cabo Branco;",
+    "cep": "58045010",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "ibge": 2507507,
+    "logradouro": "Avenida Cabo Branco;"
 }

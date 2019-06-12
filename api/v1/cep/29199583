@@ -1,12 +1,12 @@
 {
-  "cep": "29199583",
-  "logradouro": "Rua Coronel Simões",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "29199583",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Coronel Simões;"
 }
