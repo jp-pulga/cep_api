@@ -1,12 +1,12 @@
 {
-  "cep": "02524050",
-  "logradouro": "Rua Miguel Maldonado",
-  "bairro": "Jardim São Bento",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Bento;",
+    "cep": "02524050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Miguel Maldonado;"
 }

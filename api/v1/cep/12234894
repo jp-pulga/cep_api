@@ -1,12 +1,12 @@
 {
-  "cep": "12234894",
-  "logradouro": "Rua Maria Otília Araújo Lima de Oliveira",
-  "bairro": "Jardim Nova República",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nova República;",
+    "cep": "12234894",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Maria Otília Araújo Lima de Oliveira;"
 }

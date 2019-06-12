@@ -1,12 +1,12 @@
 {
-  "cep": "29182125",
-  "logradouro": "Rua Luciano Marques do Rosário",
-  "bairro": "Parque Santa Fé",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque Santa Fé;",
+    "cep": "29182125",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Luciano Marques do Rosário;"
 }

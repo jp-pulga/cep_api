@@ -1,12 +1,12 @@
 {
-  "cep": "57010861",
-  "logradouro": "Vila Santa Helena",
-  "bairro": "Pontal da Barra",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pontal da Barra;",
+    "cep": "57010861",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Vila Santa Helena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "19024400",
-  "logradouro": "Avenida Presidente Juscelino Kubitschek de 5853/5854 a 7099/7100",
-  "bairro": "Jardim Maracanã",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Maracanã;",
+    "cep": "19024400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitschek - de 5853\/5854 a 7099\/7100;"
 }

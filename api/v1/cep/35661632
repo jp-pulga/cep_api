@@ -1,12 +1,12 @@
 {
-  "cep": "35661632",
-  "logradouro": "Rua Antônio Marciano",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "35661632",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Antônio Marciano;"
 }

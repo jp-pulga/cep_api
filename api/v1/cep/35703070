@@ -1,12 +1,12 @@
 {
-  "cep": "35703070",
-  "logradouro": "Rua Maria Terezinha Rodrigues Pinto",
-  "bairro": "Nossa Senhora de Lourdes",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Lourdes;",
+    "cep": "35703070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Maria Terezinha Rodrigues Pinto;"
 }

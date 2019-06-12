@@ -1,12 +1,12 @@
 {
-  "cep": "39801290",
-  "logradouro": "Rua Rita Martins Teixeira",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "39801290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Rita Martins Teixeira;"
 }

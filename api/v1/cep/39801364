@@ -1,12 +1,12 @@
 {
-  "cep": "39801364",
-  "logradouro": "Rua Gilésio da Costa Marques",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "39801364",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Gilésio da Costa Marques;"
 }

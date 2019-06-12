@@ -1,12 +1,12 @@
 {
-  "cep": "03978570",
-  "logradouro": "Rua Andréa Martini",
-  "bairro": "Jardim São Roberto",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Roberto;",
+    "cep": "03978570",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Andréa Martini;"
 }

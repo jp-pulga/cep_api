@@ -1,12 +1,12 @@
 {
-  "cep": "35703033",
-  "logradouro": "Rua Maria Venância do Rosário",
-  "bairro": "Bela Vista l",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista l;",
+    "cep": "35703033",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Maria Venância do Rosário;"
 }

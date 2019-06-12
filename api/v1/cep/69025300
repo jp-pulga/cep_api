@@ -1,12 +1,12 @@
 {
-  "cep": "69025300",
-  "logradouro": "Beco Dinástico",
-  "bairro": "Presidente Vargas",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Presidente Vargas;",
+    "cep": "69025300",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Dinástico;"
 }

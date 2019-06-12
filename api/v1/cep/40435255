@@ -1,12 +1,12 @@
 {
-  "cep": "40435255",
-  "logradouro": "Vila São João Batista",
-  "bairro": "Massaranduba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Massaranduba;",
+    "cep": "40435255",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Vila São João Batista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "05133060",
-  "logradouro": "Rua Alexandre Ramos de Souza",
-  "bairro": "Vila Mangalot",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Mangalot;",
+    "cep": "05133060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Alexandre Ramos de Souza;"
 }

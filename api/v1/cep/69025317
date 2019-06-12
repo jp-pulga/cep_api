@@ -1,12 +1,12 @@
 {
-  "cep": "69025317",
-  "logradouro": "Beco Iara Cruz",
-  "bairro": "Presidente Vargas",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Presidente Vargas;",
+    "cep": "69025317",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Iara Cruz;"
 }

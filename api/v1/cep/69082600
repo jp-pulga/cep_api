@@ -1,12 +1,12 @@
 {
-  "cep": "69082600",
-  "logradouro": "Rua Santa Inês (O Verde)",
-  "bairro": "Coroado",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Coroado;",
+    "cep": "69082600",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Santa Inês;"
 }

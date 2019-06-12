@@ -1,12 +1,12 @@
 {
-  "cep": "97032440",
-  "logradouro": "Rua Paulino Knackfuss",
-  "bairro": "Tancredo Neves",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tancredo Neves;",
+    "cep": "97032440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Paulino Knackfuss;"
 }

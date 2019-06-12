@@ -1,12 +1,12 @@
 {
-  "cep": "58417823",
-  "logradouro": "Rua Marilídia Marques dos Santos",
-  "bairro": "Presidente Médici",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Presidente Médici;",
+    "cep": "58417823",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Marilídia Marques dos Santos;"
 }

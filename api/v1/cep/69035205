@@ -1,12 +1,12 @@
 {
-  "cep": "69035205",
-  "logradouro": "Beco Pinheiro Manso",
-  "bairro": "Compensa",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Compensa;",
+    "cep": "69035205",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Pinheiro Manso;"
 }

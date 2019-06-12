@@ -1,12 +1,12 @@
 {
-  "cep": "05881120",
-  "logradouro": "Rua Francisco Mariani",
-  "bairro": "Jardim São Bento Novo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Bento Novo;",
+    "cep": "05881120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Francisco Mariani;"
 }

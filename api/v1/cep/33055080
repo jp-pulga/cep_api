@@ -1,12 +1,12 @@
 {
-  "cep": "33055080",
-  "logradouro": "Avenida Barão de Macaúbas de 1/2 ao fim",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "33055080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Avenida Barão de Macaúbas;"
 }

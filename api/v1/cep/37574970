@@ -1,12 +1,12 @@
 {
-  "cep": "37574970",
-  "logradouro": "AGC São José do Mato Dentro Rua Benedito Bento da Silva 33",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Mato Dentro (Ouro Fino)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/São José do Mato Dentro",
+    "cep": "37574970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ouro Fino"
+    },
+    "logradouro": "Rua Benedito Bento da Silva, 33  AGC São José do Mato Dentro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33080012",
-  "logradouro": "Rua Madre Inês",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "33080012",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Madre Inês;"
 }

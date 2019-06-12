@@ -1,12 +1,12 @@
 {
-  "cep": "69078610",
-  "logradouro": "Beco Santa Helena",
-  "bairro": "Japiim",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Japiim;",
+    "cep": "69078610",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Santa Helena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64019848",
-  "logradouro": "Rua Treze de Maio (Zona Sul)",
-  "bairro": "Pio XII",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Pio XII;",
+    "cep": "64019848",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Treze de Maio (Zona Sul);"
 }

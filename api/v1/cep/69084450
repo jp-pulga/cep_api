@@ -1,12 +1,12 @@
 {
-  "cep": "69084450",
-  "logradouro": "Rua Santa Inês",
-  "bairro": "Zumbi dos Palmares",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Zumbi dos Palmares;",
+    "cep": "69084450",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Santa Inês;"
 }

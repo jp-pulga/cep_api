@@ -1,12 +1,12 @@
 {
-  "cep": "69097008",
-  "logradouro": "Rua Serra de São Bento (Com R Sol)",
-  "bairro": "Nova Cidade",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nova Cidade;",
+    "cep": "69097008",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Serra de São Bento;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57303276",
-  "logradouro": "Rua Antonio Matias Pinheiro (Res Morada do Sol)",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "57303276",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Antonio Matias Pinheiro (Res Morada do Sol);"
 }

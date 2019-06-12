@@ -1,12 +1,12 @@
 {
-  "cep": "31515470",
-  "logradouro": "Rua Ivartt Maria Mota",
-  "bairro": "São João Batista (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João Batista (Venda Nova);",
+    "cep": "31515470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ivartt Maria Mota;"
 }

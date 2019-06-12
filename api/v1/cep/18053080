@@ -1,12 +1,12 @@
 {
-  "cep": "18053080",
-  "logradouro": "Rua Mário de Campos Lima",
-  "bairro": "Conjunto Habitacional Júlio de Mesquita Filho",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Júlio de Mesquita Filho;",
+    "cep": "18053080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Mário de Campos Lima;"
 }

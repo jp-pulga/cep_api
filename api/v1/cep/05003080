@@ -1,12 +1,12 @@
 {
-  "cep": "05003080",
-  "logradouro": "Rua Pedro Machado",
-  "bairro": "Água Branca",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Água Branca;",
+    "cep": "05003080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pedro Machado;"
 }

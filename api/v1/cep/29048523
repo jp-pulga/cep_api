@@ -1,12 +1,12 @@
 {
-  "cep": "29048523",
-  "logradouro": "Rua Manoel Pinheiro",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "29048523",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Manoel Pinheiro;"
 }

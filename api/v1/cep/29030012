@@ -1,12 +1,12 @@
 {
-  "cep": "29030012",
-  "logradouro": "Travessa Roberto Marinho",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "29030012",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Travessa Roberto Marinho;"
 }

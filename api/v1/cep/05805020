@@ -1,12 +1,12 @@
 {
-  "cep": "05805020",
-  "logradouro": "Rua Doutor José da Mata Cardim",
-  "bairro": "Jardim São Luís",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Luís;",
+    "cep": "05805020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Doutor José da Mata Cardim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57017292",
-  "logradouro": "Travessa Santa Helena",
-  "bairro": "Bom Parto",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Bom Parto;",
+    "cep": "57017292",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Santa Helena;"
 }

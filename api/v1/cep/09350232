@@ -1,12 +1,12 @@
 {
-  "cep": "09350232",
-  "logradouro": "Viela Monte Alto",
-  "bairro": "Jardim Aracy",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Aracy;",
+    "cep": "09350232",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Viela Monte Alto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "03621110",
-  "logradouro": "Rua Sambaiba",
-  "bairro": "Vila Marieta",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Marieta;",
+    "cep": "03621110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Sambaiba;"
 }

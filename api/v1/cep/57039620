@@ -1,12 +1,12 @@
 {
-  "cep": "57039620",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Pescaria",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pescaria;",
+    "cep": "57039620",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

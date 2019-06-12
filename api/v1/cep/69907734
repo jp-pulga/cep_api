@@ -1,12 +1,12 @@
 {
-  "cep": "69907734",
-  "logradouro": "Travessa Mateus",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "69907734",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Travessa Mateus;"
 }

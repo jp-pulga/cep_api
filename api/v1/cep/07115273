@@ -1,12 +1,12 @@
 {
-  "cep": "07115273",
-  "logradouro": "Rua São Luís do Maranhão",
-  "bairro": "Jardim Maia",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Maia;",
+    "cep": "07115273",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua São Luís do Maranhão;"
 }

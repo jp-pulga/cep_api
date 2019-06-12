@@ -1,12 +1,12 @@
 {
-  "cep": "64049492",
-  "logradouro": "Rua Professora Marieta Pedreira Martins",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "64049492",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professora Marieta Pedreira Martins;"
 }

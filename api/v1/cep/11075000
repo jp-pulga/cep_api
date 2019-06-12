@@ -1,12 +1,12 @@
 {
-  "cep": "11075000",
-  "logradouro": "Avenida Senador Pinheiro Machado até 610 - lado par",
-  "bairro": "Marapé",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Marapé;",
+    "cep": "11075000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Avenida Senador Pinheiro Machado - até 610 - lado par;"
 }

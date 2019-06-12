@@ -1,12 +1,12 @@
 {
-  "cep": "03813070",
-  "logradouro": "Rua das Romanzeiras",
-  "bairro": "Jardim Matarazzo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Matarazzo;",
+    "cep": "03813070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua das Romanzeiras;"
 }

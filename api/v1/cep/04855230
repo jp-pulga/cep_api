@@ -1,12 +1,12 @@
 {
-  "cep": "04855230",
-  "logradouro": "Rua Major Lúcio Dias Ramos",
-  "bairro": "Jardim Belcito",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Belcito;",
+    "cep": "04855230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Major Lúcio Dias Ramos;"
 }

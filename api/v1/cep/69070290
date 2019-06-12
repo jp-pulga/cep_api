@@ -1,12 +1,12 @@
 {
-  "cep": "69070290",
-  "logradouro": "Travessa São João Batista",
-  "bairro": "Educandos",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Educandos;",
+    "cep": "69070290",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa São João Batista;"
 }

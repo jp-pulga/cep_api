@@ -1,12 +1,12 @@
 {
-  "cep": "07122121",
-  "logradouro": "Viela Matinha",
-  "bairro": "Jardim Bom Clima",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bom Clima;",
+    "cep": "07122121",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Viela Matinha;"
 }

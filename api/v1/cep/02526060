@@ -1,12 +1,12 @@
 {
-  "cep": "02526060",
-  "logradouro": "Rua Maestro Antão Fernandes",
-  "bairro": "Jardim São Bento",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Bento;",
+    "cep": "02526060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Maestro Antão Fernandes;"
 }

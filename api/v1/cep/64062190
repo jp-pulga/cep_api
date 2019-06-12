@@ -1,12 +1,12 @@
 {
-  "cep": "64062190",
-  "logradouro": "Rua Maria Júlia Santos",
-  "bairro": "Morros",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Morros;",
+    "cep": "64062190",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Maria Júlia Santos;"
 }

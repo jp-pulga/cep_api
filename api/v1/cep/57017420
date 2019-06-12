@@ -1,12 +1,12 @@
 {
-  "cep": "57017420",
-  "logradouro": "Rua Santa Rita de Cássia",
-  "bairro": "Bom Parto",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Bom Parto;",
+    "cep": "57017420",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Santa Rita de Cássia;"
 }

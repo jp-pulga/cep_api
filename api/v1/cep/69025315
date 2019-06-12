@@ -1,12 +1,12 @@
 {
-  "cep": "69025315",
-  "logradouro": "Avenida Constantino Nery",
-  "bairro": "Presidente Vargas",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Presidente Vargas;",
+    "cep": "69025315",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Constantino Nery;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64062180",
-  "logradouro": "Rua Mariazinha Area Leão",
-  "bairro": "Morros",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Morros;",
+    "cep": "64062180",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Mariazinha Area Leão;"
 }

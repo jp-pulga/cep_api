@@ -1,12 +1,12 @@
 {
-  "cep": "09764170",
-  "logradouro": "Rua São Geraldo Majela",
-  "bairro": "Nova Baeta",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Nova Baeta;",
+    "cep": "09764170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua São Geraldo Majela;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79116580",
-  "logradouro": "Rua Santa Madalena",
-  "bairro": "Vila Santa Luzia",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Santa Luzia;",
+    "cep": "79116580",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Santa Madalena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29118550",
-  "logradouro": "Travessa Santa Maria",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "29118550",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Travessa Santa Maria;"
 }

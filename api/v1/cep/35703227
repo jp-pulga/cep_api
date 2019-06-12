@@ -1,12 +1,12 @@
 {
-  "cep": "35703227",
-  "logradouro": "Rua Raimundo Matos",
-  "bairro": "Santa Felicidade",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Felicidade;",
+    "cep": "35703227",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Raimundo Matos;"
 }

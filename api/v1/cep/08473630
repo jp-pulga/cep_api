@@ -1,12 +1,12 @@
 {
-  "cep": "08473630",
-  "logradouro": "Rua Manoel Oliveira Ramos",
-  "bairro": "Vila Iolanda II",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Iolanda II;",
+    "cep": "08473630",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Manoel Oliveira Ramos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57046140",
-  "logradouro": "Avenida Presidente Getúlio Vargas",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "57046140",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Presidente Getúlio Vargas;"
 }

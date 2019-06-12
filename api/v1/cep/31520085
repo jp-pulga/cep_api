@@ -1,12 +1,12 @@
 {
-  "cep": "31520085",
-  "logradouro": "Rua Madre Teresa de Calcutá",
-  "bairro": "São João Batista (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João Batista (Venda Nova);",
+    "cep": "31520085",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Madre Teresa de Calcutá;"
 }

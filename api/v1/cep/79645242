@@ -1,12 +1,12 @@
 {
-  "cep": "79645242",
-  "logradouro": "Rua Evaristo Mariano Rodrigues",
-  "bairro": "Jardim Paranapunga",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Paranapunga;",
+    "cep": "79645242",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Evaristo Mariano Rodrigues;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69038600",
-  "logradouro": "Rua São João do Paraíso",
-  "bairro": "Lírio do Vale",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Lírio do Vale;",
+    "cep": "69038600",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua São João do Paraíso;"
 }

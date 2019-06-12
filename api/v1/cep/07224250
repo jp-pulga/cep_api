@@ -1,12 +1,12 @@
 {
-  "cep": "07224250",
-  "logradouro": "Rua Marcelino Ramos",
-  "bairro": "Cidade Industrial Satélite de São Paulo",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Industrial Satélite de São Paulo;",
+    "cep": "07224250",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Marcelino Ramos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07142260",
-  "logradouro": "Rua São Raimundo das Mangabeiras",
-  "bairro": "Jardim São Domingos",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Domingos;",
+    "cep": "07142260",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua São Raimundo das Mangabeiras;"
 }

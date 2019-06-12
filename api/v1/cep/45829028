@@ -1,12 +1,12 @@
 {
-  "cep": "45829028",
-  "logradouro": "Rua Madeira",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "45829028",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Madeira;"
 }

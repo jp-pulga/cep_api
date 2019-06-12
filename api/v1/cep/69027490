@@ -1,12 +1,12 @@
 {
-  "cep": "69027490",
-  "logradouro": "Rua São Bento",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "69027490",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua São Bento;"
 }

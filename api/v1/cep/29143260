@@ -1,12 +1,12 @@
 {
-  "cep": "29143260",
-  "logradouro": "Rua São Bernardo",
-  "bairro": "Vista Mar",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Mar;",
+    "cep": "29143260",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua São Bernardo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31660520",
-  "logradouro": "Praça Affonso de Almeida Magalhães",
-  "bairro": "Mantiqueira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mantiqueira;",
+    "cep": "31660520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Affonso de Almeida Magalhães;"
 }

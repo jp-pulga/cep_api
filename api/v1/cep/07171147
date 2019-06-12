@@ -1,12 +1,12 @@
 {
-  "cep": "07171147",
-  "logradouro": "Viela Marinópolis",
-  "bairro": "Jardim Presidente Dutra",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Presidente Dutra;",
+    "cep": "07171147",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Viela Marinópolis;"
 }

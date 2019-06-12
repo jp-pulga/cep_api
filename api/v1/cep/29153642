@@ -1,12 +1,12 @@
 {
-  "cep": "29153642",
-  "logradouro": "Rua Santa Marta",
-  "bairro": "Presidente Médici",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Presidente Médici;",
+    "cep": "29153642",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Santa Marta;"
 }

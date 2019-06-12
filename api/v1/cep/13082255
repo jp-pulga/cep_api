@@ -1,12 +1,12 @@
 {
-  "cep": "13082255",
-  "logradouro": "Rua Roberto Bueno Teixeira",
-  "bairro": "Jardim São Marcos",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Marcos;",
+    "cep": "13082255",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Roberto Bueno Teixeira;"
 }

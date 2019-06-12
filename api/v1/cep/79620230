@@ -1,12 +1,12 @@
 {
-  "cep": "79620230",
-  "logradouro": "Rua Manoel Rodrigues Artez",
-  "bairro": "Jardim Nova Ipanema",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Nova Ipanema;",
+    "cep": "79620230",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Manoel Rodrigues Artez;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "68183326",
-  "logradouro": "Travessa Santa Rita",
-  "bairro": "Maria Magdalena",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Maria Magdalena;",
+    "cep": "68183326",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "logradouro": "Travessa Santa Rita;"
 }

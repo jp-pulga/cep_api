@@ -1,12 +1,12 @@
 {
-  "cep": "78128662",
-  "logradouro": "Rua Santa Luzia (Lot Sta Maria)",
-  "bairro": "Costa Verde",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Costa Verde;",
+    "cep": "78128662",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Santa Luzia (Lot Sta Maria);"
 }

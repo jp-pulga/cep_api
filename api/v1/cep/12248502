@@ -1,12 +1,12 @@
 {
-  "cep": "12248502",
-  "logradouro": "Rua Giovanna Maria Apparecida D'Amato Lima",
-  "bairro": "Jardim Santa Inês III",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Inês III;",
+    "cep": "12248502",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Giovanna Maria Apparecida D'Amato Lima;"
 }

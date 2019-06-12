@@ -1,12 +1,12 @@
 {
-  "cep": "69027110",
-  "logradouro": "Avenida Presidente Dutra",
-  "bairro": "São Raimundo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Raimundo;",
+    "cep": "69027110",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Presidente Dutra;"
 }

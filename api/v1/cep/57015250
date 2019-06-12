@@ -1,12 +1,12 @@
 {
-  "cep": "57015250",
-  "logradouro": "Rua Campo Verde",
-  "bairro": "Vergel do Lago",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Vergel do Lago;",
+    "cep": "57015250",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Campo Verde;"
 }

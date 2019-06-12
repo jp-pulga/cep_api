@@ -1,12 +1,12 @@
 {
-  "cep": "02353090",
-  "logradouro": "Rua Gabriel Martins",
-  "bairro": "Parque Ramos Freitas",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Ramos Freitas;",
+    "cep": "02353090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Gabriel Martins;"
 }

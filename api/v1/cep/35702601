@@ -1,12 +1,12 @@
 {
-  "cep": "35702601",
-  "logradouro": "Rua Marilene das Graças P. Pontelo",
-  "bairro": "Verde Vale",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Verde Vale;",
+    "cep": "35702601",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Marilene das Graças P. Pontelo;"
 }

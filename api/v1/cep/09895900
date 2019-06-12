@@ -1,12 +1,12 @@
 {
-  "cep": "09895900",
-  "logradouro": "Mangel São Bernardo S.A. Rua Max Mangels Sênior 777",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "09895900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Max Mangels Sênior, 777  Mangel São Bernardo S.A.;"
 }

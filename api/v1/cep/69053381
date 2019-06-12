@@ -1,12 +1,12 @@
 {
-  "cep": "69053381",
-  "logradouro": "Beco São João Batista",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "69053381",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco São João Batista;"
 }

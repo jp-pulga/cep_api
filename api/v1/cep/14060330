@@ -1,12 +1,12 @@
 {
-  "cep": "14060330",
-  "logradouro": "Rua Carolina Maria de Jesus",
-  "bairro": "Presidente Dutra",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Presidente Dutra;",
+    "cep": "14060330",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Carolina Maria de Jesus;"
 }

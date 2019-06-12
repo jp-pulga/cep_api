@@ -1,12 +1,12 @@
 {
-  "cep": "12226235",
-  "logradouro": "Rua Tereza Maria Lima dos Santos",
-  "bairro": "Portal do Céu",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Portal do Céu;",
+    "cep": "12226235",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Tereza Maria Lima dos Santos;"
 }

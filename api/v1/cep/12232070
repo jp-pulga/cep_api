@@ -1,12 +1,12 @@
 {
-  "cep": "12232070",
-  "logradouro": "Rua José Maria de Lima",
-  "bairro": "Jardim Estoril",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Estoril;",
+    "cep": "12232070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua José Maria de Lima;"
 }

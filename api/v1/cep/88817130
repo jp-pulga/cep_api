@@ -1,12 +1,12 @@
 {
-  "cep": "88817130",
-  "logradouro": "Rua Matilde dos Santos Pedreira",
-  "bairro": "Vila Zuleima",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Zuleima;",
+    "cep": "88817130",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Matilde dos Santos Pedreira;"
 }

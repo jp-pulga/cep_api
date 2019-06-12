@@ -1,12 +1,12 @@
 {
-  "cep": "36309314",
-  "logradouro": "Rua Rômulo de Almeida Magalhães",
-  "bairro": "São José Operário",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José Operário;",
+    "cep": "36309314",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Rômulo de Almeida Magalhães;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "11070480",
-  "logradouro": "Rua Sete (Morro do Marapé)",
-  "bairro": "Marapé",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Marapé;",
+    "cep": "11070480",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Rua Sete (Morro do Marapé);"
 }

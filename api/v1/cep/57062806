@@ -1,12 +1,12 @@
 {
-  "cep": "57062806",
-  "logradouro": "Escadaria Santa Helena",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "57062806",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Escadaria Santa Helena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35702602",
-  "logradouro": "Avenida Inah Louzada Marotta",
-  "bairro": "Verde Vale",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Verde Vale;",
+    "cep": "35702602",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Avenida Inah Louzada Marotta;"
 }

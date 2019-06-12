@@ -1,12 +1,12 @@
 {
-  "cep": "03978583",
-  "logradouro": "Rua Manhã de Sol (Jd do Leste)",
-  "bairro": "Jardim São Roberto",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Roberto;",
+    "cep": "03978583",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Manhã de Sol (Jd do Leste);"
 }

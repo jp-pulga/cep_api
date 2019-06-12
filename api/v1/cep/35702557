@@ -1,12 +1,12 @@
 {
-  "cep": "35702557",
-  "logradouro": "Rua Francisco Alves Macedo",
-  "bairro": "Verde Vale",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Verde Vale;",
+    "cep": "35702557",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Francisco Alves Macedo;"
 }

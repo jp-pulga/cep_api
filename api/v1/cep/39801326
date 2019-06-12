@@ -1,12 +1,12 @@
 {
-  "cep": "39801326",
-  "logradouro": "Rua Maria Pacheco da Silva",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "39801326",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Maria Pacheco da Silva;"
 }

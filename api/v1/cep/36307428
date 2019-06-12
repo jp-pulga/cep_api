@@ -1,12 +1,12 @@
 {
-  "cep": "36307428",
-  "logradouro": "Rua Professor João Batista Viegas",
-  "bairro": "Vila Maria (Bonfim)",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Maria (Bonfim);",
+    "cep": "36307428",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Professor João Batista Viegas;"
 }

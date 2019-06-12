@@ -1,12 +1,12 @@
 {
-  "cep": "18087064",
-  "logradouro": "Rua Professora Maria do Rosário Mesquita de Oliveira",
-  "bairro": "Jardim Residencial Colinas do Sol",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Residencial Colinas do Sol;",
+    "cep": "18087064",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Professora Maria do Rosário Mesquita de Oliveira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39801316",
-  "logradouro": "Rua José Matheus de Oliveira",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "39801316",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua José Matheus de Oliveira;"
 }

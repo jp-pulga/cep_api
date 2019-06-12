@@ -1,12 +1,12 @@
 {
-  "cep": "35661636",
-  "logradouro": "Rua José Marciano de Queiroz",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "35661636",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua José Marciano de Queiroz;"
 }

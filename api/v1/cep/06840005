@@ -1,12 +1,12 @@
 {
-  "cep": "06840005",
-  "logradouro": "Rua Matões",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Embu das Artes",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "06840005",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Embu das Artes"
+    },
+    "logradouro": "Rua Matões;"
 }

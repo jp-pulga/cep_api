@@ -1,12 +1,12 @@
 {
-  "cep": "69063332",
-  "logradouro": "Beco Almir Pedreira",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "69063332",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Almir Pedreira;"
 }

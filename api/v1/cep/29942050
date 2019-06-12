@@ -1,12 +1,12 @@
 {
-  "cep": "29942050",
-  "logradouro": "Avenida João Batista Crespo",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "29942050",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Avenida João Batista Crespo;"
 }

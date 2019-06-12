@@ -1,12 +1,12 @@
 {
-  "cep": "08040320",
-  "logradouro": "Rua Mata Roma",
-  "bairro": "Vila Carolina",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Carolina;",
+    "cep": "08040320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Mata Roma;"
 }

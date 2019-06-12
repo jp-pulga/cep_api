@@ -1,12 +1,12 @@
 {
-  "cep": "29222560",
-  "logradouro": "Avenida Manoel Rodrigues Pinheiro",
-  "bairro": "Una",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Una;",
+    "cep": "29222560",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Avenida Manoel Rodrigues Pinheiro;"
 }

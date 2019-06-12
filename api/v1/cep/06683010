@@ -1,12 +1,12 @@
 {
-  "cep": "06683010",
-  "logradouro": "Rua Magnólia (Lot. Res. Santa Rita)",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Itapevi",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "06683010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapevi"
+    },
+    "logradouro": "Rua Magnólia (Lot. Res. Santa Rita);"
 }

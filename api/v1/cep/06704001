@@ -1,12 +1,12 @@
 {
-  "cep": "06704001",
-  "logradouro": "Rua Matias Pinheiro de Carvalho",
-  "bairro": "Jardim Nara Lúcia",
-  "cidade": {
-    "nome": "Cotia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nara Lúcia;",
+    "cep": "06704001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cotia"
+    },
+    "logradouro": "Rua Matias Pinheiro de Carvalho;"
 }

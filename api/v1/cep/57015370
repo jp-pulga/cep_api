@@ -1,12 +1,12 @@
 {
-  "cep": "57015370",
-  "logradouro": "Rua São Bento",
-  "bairro": "Vergel do Lago",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Vergel do Lago;",
+    "cep": "57015370",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua São Bento;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12226856",
-  "logradouro": "Rua Engenheiro Pedro Paulo Cerqueira Lima",
-  "bairro": "Jardim Mariana I",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Mariana I;",
+    "cep": "12226856",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Engenheiro Pedro Paulo Cerqueira Lima;"
 }

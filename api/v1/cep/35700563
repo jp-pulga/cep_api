@@ -1,12 +1,12 @@
 {
-  "cep": "35700563",
-  "logradouro": "Travessa Mato Grosso",
-  "bairro": "Catarina",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Catarina;",
+    "cep": "35700563",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Travessa Mato Grosso;"
 }

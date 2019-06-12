@@ -1,12 +1,12 @@
 {
-  "cep": "12244011",
-  "logradouro": "Rua Maurício Vaz de Lima",
-  "bairro": "Condomínio Chácara Serimbura",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Condomínio Chácara Serimbura;",
+    "cep": "12244011",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Maurício Vaz de Lima;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69027615",
-  "logradouro": "Avenida Presidente Dutra",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "69027615",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Presidente Dutra;"
 }

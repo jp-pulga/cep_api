@@ -1,12 +1,12 @@
 {
-  "cep": "29930065",
-  "logradouro": "Praça Carlos Roberto Cunha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29930065",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Praça Carlos Roberto Cunha;"
 }

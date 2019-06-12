@@ -1,12 +1,12 @@
 {
-  "cep": "57036030",
-  "logradouro": "Rua Alfredo Santa Rita",
-  "bairro": "Jatiúca",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jatiúca;",
+    "cep": "57036030",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Alfredo Santa Rita;"
 }

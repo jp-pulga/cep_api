@@ -1,12 +1,12 @@
 {
-  "cep": "64062210",
-  "logradouro": "Rua Professora Manoca Nobre",
-  "bairro": "Morros",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Morros;",
+    "cep": "64062210",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professora Manoca Nobre;"
 }

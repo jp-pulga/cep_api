@@ -1,12 +1,12 @@
 {
-  "cep": "13210510",
-  "logradouro": "Rua Irmã Maria de São Luiz",
-  "bairro": "Vila Josefina",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Josefina;",
+    "cep": "13210510",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Rua Irmã Maria de São Luiz;"
 }

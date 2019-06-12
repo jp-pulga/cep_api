@@ -1,12 +1,12 @@
 {
-  "cep": "69027131",
-  "logradouro": "Beco João da Mata",
-  "bairro": "São Raimundo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Raimundo;",
+    "cep": "69027131",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Presidente Dutra;"
 }

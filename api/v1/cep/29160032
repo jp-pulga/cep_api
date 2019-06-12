@@ -1,12 +1,12 @@
 {
-  "cep": "29160032",
-  "logradouro": "Rua da Matinha",
-  "bairro": "Carapina Grande",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Carapina Grande;",
+    "cep": "29160032",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua da Matinha;"
 }

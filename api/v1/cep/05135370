@@ -1,12 +1,12 @@
 {
-  "cep": "05135370",
-  "logradouro": "Rua Fábio de Almeida Magalhães",
-  "bairro": "Jardim Santo Elias",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santo Elias;",
+    "cep": "05135370",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Fábio de Almeida Magalhães;"
 }

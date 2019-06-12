@@ -1,12 +1,12 @@
 {
-  "cep": "79640240",
-  "logradouro": "Rua Mato Grosso",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "79640240",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Mato Grosso;"
 }

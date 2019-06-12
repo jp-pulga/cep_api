@@ -1,12 +1,12 @@
 {
-  "cep": "29932560",
-  "logradouro": "Rua São João Batista",
-  "bairro": "Litorâneo",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Litorâneo;",
+    "cep": "29932560",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São João Batista;"
 }

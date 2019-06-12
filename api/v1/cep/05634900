@@ -1,12 +1,12 @@
 {
-  "cep": "05634900",
-  "logradouro": "Condomínio Paula e Asmara Rua Osiris Magalhães de Almeida 441",
-  "bairro": "Vila Suzana",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Suzana;",
+    "cep": "05634900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Osiris Magalhães de Almeida, 441  Condomínio Paula e Asmara;"
 }

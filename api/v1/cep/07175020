@@ -1,12 +1,12 @@
 {
-  "cep": "07175020",
-  "logradouro": "Rua Matões",
-  "bairro": "Vila Nova Bonsucesso",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Bonsucesso;",
+    "cep": "07175020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Matões;"
 }

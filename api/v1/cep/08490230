@@ -1,12 +1,12 @@
 {
-  "cep": "08490230",
-  "logradouro": "Rua Frei Manuel Santa Rita",
-  "bairro": "Conjunto Residencial Prestes Maia",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Residencial Prestes Maia;",
+    "cep": "08490230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Frei Manuel Santa Rita;"
 }

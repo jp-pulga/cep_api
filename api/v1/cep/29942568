@@ -1,12 +1,12 @@
 {
-  "cep": "29942568",
-  "logradouro": "Rua São João Batista",
-  "bairro": "Morada do Lago",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Morada do Lago;",
+    "cep": "29942568",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São João Batista;"
 }

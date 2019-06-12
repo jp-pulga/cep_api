@@ -1,12 +1,12 @@
 {
-  "cep": "92323100",
-  "logradouro": "Rua Nova Iorque",
-  "bairro": "Mato Grande",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mato Grande;",
+    "cep": "92323100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Nova Iorque;"
 }

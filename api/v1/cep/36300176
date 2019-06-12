@@ -1,12 +1,12 @@
 {
-  "cep": "36300176",
-  "logradouro": "Rua Maestro Batista Lopes",
-  "bairro": "Tejuco",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tejuco;",
+    "cep": "36300176",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Maestro Batista Lopes;"
 }

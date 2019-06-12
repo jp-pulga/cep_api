@@ -1,12 +1,12 @@
 {
-  "cep": "02841110",
-  "logradouro": "Praça Silva Mafra",
-  "bairro": "Parque São Luís",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Luís;",
+    "cep": "02841110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Silva Mafra;"
 }

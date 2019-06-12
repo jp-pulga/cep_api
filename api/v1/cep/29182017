@@ -1,12 +1,12 @@
 {
-  "cep": "29182017",
-  "logradouro": "Rua Luciano Marques do Rosário",
-  "bairro": "Nova Almeida Centro",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Almeida Centro;",
+    "cep": "29182017",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Luciano Marques do Rosário;"
 }

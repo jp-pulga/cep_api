@@ -1,12 +1,12 @@
 {
-  "cep": "35702599",
-  "logradouro": "Rua Nilson Antônio Martins",
-  "bairro": "Verde Vale",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Verde Vale;",
+    "cep": "35702599",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Nilson Antônio Martins;"
 }

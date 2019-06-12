@@ -1,12 +1,12 @@
 {
-  "cep": "35700340",
-  "logradouro": "Rua Matozinhos",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "35700340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Matozinhos;"
 }

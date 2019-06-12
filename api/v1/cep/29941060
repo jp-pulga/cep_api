@@ -1,12 +1,12 @@
 {
-  "cep": "29941060",
-  "logradouro": "Rua Maranhão",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "29941060",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Maranhão;"
 }

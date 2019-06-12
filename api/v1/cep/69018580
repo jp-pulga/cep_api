@@ -1,12 +1,12 @@
 {
-  "cep": "69018580",
-  "logradouro": "Rua Ágata Verde (Res V Melhor)",
-  "bairro": "Lago Azul",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Lago Azul;",
+    "cep": "69018580",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Ágata Verde (Res V Melhor);"
 }

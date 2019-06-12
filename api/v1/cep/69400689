@@ -1,12 +1,12 @@
 {
-  "cep": "69400689",
-  "logradouro": "Rua Benjamim Roberto de 1607/1608 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "69400689",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Rua Benjamim Roberto - de 1607\/1608 ao fim;"
 }

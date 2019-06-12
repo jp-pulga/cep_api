@@ -1,12 +1,12 @@
 {
-  "cep": "13567030",
-  "logradouro": "Rua Mariano Garcia Carrasco",
-  "bairro": "Jardim São João Batista",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São João Batista;",
+    "cep": "13567030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rua Mariano Garcia Carrasco;"
 }

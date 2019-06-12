@@ -1,12 +1,12 @@
 {
-  "cep": "09765640",
-  "logradouro": "Rua Maria José Teixeira de Lima (Prq São Bernardo)",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09765640",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Maria José Teixeira de Lima (Prq São Bernardo);"
 }

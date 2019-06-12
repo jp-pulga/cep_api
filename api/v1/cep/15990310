@@ -1,12 +1,12 @@
 {
-  "cep": "15990310",
-  "logradouro": "Rua Amadeu Romanelli",
-  "bairro": "Vila Santa Cruz",
-  "cidade": {
-    "nome": "Matão",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Cruz;",
+    "cep": "15990310",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Matão"
+    },
+    "logradouro": "Rua Amadeu Romanelli;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64062220",
-  "logradouro": "Rua Áurea Martins",
-  "bairro": "Morros",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Morros;",
+    "cep": "64062220",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Áurea Martins;"
 }

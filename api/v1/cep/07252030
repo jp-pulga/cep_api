@@ -1,12 +1,12 @@
 {
-  "cep": "07252030",
-  "logradouro": "Rua São Francisco do Maranhão",
-  "bairro": "Jardim Normandia",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Normandia;",
+    "cep": "07252030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua São Francisco do Maranhão;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "09790500",
-  "logradouro": "Rua Manuel Antônio de Almeida (Vl São José)",
-  "bairro": "Ferrazópolis",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ferrazópolis;",
+    "cep": "09790500",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Manuel Antônio de Almeida (Vl São José);"
 }

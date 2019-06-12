@@ -1,12 +1,12 @@
 {
-  "cep": "03332070",
-  "logradouro": "Rua Monte Alto",
-  "bairro": "Cidade Mãe do Céu",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Mãe do Céu;",
+    "cep": "03332070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Monte Alto;"
 }

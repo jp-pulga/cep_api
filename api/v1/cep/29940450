@@ -1,12 +1,12 @@
 {
-  "cep": "29940450",
-  "logradouro": "Rua São Bernardo",
-  "bairro": "Comunidade Paulista",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Comunidade Paulista;",
+    "cep": "29940450",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São Bernardo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13848558",
-  "logradouro": "Rua Maria do Rosário Cruz",
-  "bairro": "Jardim Victória",
-  "cidade": {
-    "nome": "Mogi Guaçu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Victória;",
+    "cep": "13848558",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Guaçu"
+    },
+    "logradouro": "Rua Maria do Rosário Cruz;"
 }

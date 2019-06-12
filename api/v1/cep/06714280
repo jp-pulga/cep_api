@@ -1,12 +1,12 @@
 {
-  "cep": "06714280",
-  "logradouro": "Rua Maria do Rosário",
-  "bairro": "Parque Alexandre",
-  "cidade": {
-    "nome": "Cotia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Alexandre;",
+    "cep": "06714280",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cotia"
+    },
+    "logradouro": "Rua Maria do Rosário;"
 }

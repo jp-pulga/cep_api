@@ -1,12 +1,12 @@
 {
-  "cep": "69021225",
-  "logradouro": "Avenida Santa Helena (Com S Pedro)",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã;",
+    "cep": "69021225",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Santa Helena;"
 }

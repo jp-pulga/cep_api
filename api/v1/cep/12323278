@@ -1,12 +1,12 @@
 {
-  "cep": "12323278",
-  "logradouro": "Rua Sebastião Rodrigues Machado",
-  "bairro": "Condomínio Parque Vale dos Lagos",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Condomínio Parque Vale dos Lagos;",
+    "cep": "12323278",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Rua Sebastião Rodrigues Machado;"
 }

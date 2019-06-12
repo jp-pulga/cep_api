@@ -1,12 +1,12 @@
 {
-  "cep": "69043610",
-  "logradouro": "Rua São Bernardo",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "69043610",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua São Bernardo;"
 }

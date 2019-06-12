@@ -1,12 +1,12 @@
 {
-  "cep": "79630331",
-  "logradouro": "Rua Duque Manoel de Faria",
-  "bairro": "Jardim Rodrigues",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Rodrigues;",
+    "cep": "79630331",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Duque Manoel de Faria;"
 }

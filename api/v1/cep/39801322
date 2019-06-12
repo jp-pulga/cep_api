@@ -1,12 +1,12 @@
 {
-  "cep": "39801322",
-  "logradouro": "Rua Maria Ana Holherbach",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "39801322",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Maria Ana Holherbach;"
 }

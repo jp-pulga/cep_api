@@ -1,12 +1,12 @@
 {
-  "cep": "02851050",
-  "logradouro": "Rua Morro das Mangueiras",
-  "bairro": "Jardim Guarani",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Guarani;",
+    "cep": "02851050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Morro das Mangueiras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33080010",
-  "logradouro": "Rua Irmã Maria da Glória",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "33080010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Irmã Maria da Glória;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "17057250",
-  "logradouro": "Rua Joaquim da Silva Marques",
-  "bairro": "Conjunto Habitacional Presidente Eurico Gaspar Dutra",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Presidente Eurico Gaspar Dutra;",
+    "cep": "17057250",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Joaquim da Silva Marques;"
 }

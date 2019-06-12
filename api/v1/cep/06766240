@@ -1,12 +1,12 @@
 {
-  "cep": "06766240",
-  "logradouro": "Rua Maria José de Souza Pedreira",
-  "bairro": "Parque Marabá",
-  "cidade": {
-    "nome": "Taboão da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Marabá;",
+    "cep": "06766240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taboão da Serra"
+    },
+    "logradouro": "Rua Maria José de Souza Pedreira;"
 }

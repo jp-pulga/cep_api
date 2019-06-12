@@ -1,12 +1,12 @@
 {
-  "cep": "64008190",
-  "logradouro": "Rua Doutor Antonio Pedreira Martins",
-  "bairro": "Alto Alegre",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Alegre;",
+    "cep": "64008190",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Doutor Antonio Pedreira Martins;"
 }

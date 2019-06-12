@@ -1,12 +1,12 @@
 {
-  "cep": "38701059",
-  "logradouro": "Rua Olívia Maria Rodrigues",
-  "bairro": "Lagoinha",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoinha;",
+    "cep": "38701059",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Olívia Maria Rodrigues;"
 }

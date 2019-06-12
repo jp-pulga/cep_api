@@ -1,12 +1,12 @@
 {
-  "cep": "35700331",
-  "logradouro": "Rua Professora Guiomar de Matos",
-  "bairro": "Henrique Nery",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Henrique Nery;",
+    "cep": "35700331",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Professora Guiomar de Matos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64063040",
-  "logradouro": "Rua Professora Marieta Pedreiras Martins",
-  "bairro": "Socopo",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Socopo;",
+    "cep": "64063040",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professora Marieta Pedreiras Martins;"
 }

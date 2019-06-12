@@ -1,12 +1,12 @@
 {
-  "cep": "79081470",
-  "logradouro": "Rua Maria Margarida do Rosário",
-  "bairro": "Jardim Parati",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Parati;",
+    "cep": "79081470",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Maria Margarida do Rosário;"
 }

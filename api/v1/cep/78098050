@@ -1,12 +1,12 @@
 {
-  "cep": "78098050",
-  "logradouro": "Rua Paulo Martins",
-  "bairro": "Pascoal Ramos",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Pascoal Ramos;",
+    "cep": "78098050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Paulo Martins;"
 }

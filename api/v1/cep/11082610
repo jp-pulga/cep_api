@@ -1,12 +1,12 @@
 {
-  "cep": "11082610",
-  "logradouro": "Rua São Matheus",
-  "bairro": "Morro São Bento",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Morro São Bento;",
+    "cep": "11082610",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Rua São Matheus;"
 }

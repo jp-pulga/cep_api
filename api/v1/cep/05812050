@@ -1,12 +1,12 @@
 {
-  "cep": "05812050",
-  "logradouro": "Rua Doutor Francisco Pires Martins",
-  "bairro": "Jardim São Luís",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Luís;",
+    "cep": "05812050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Doutor Francisco Pires Martins;"
 }

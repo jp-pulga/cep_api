@@ -1,12 +1,12 @@
 {
-  "cep": "05846240",
-  "logradouro": "Rua Diego Masson",
-  "bairro": "Conjunto Promorar São Luis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Promorar São Luis;",
+    "cep": "05846240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Diego Masson;"
 }

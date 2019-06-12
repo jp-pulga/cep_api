@@ -1,12 +1,12 @@
 {
-  "cep": "40435620",
-  "logradouro": "Travessa Caio Mário Pedreira Filho",
-  "bairro": "Massaranduba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Massaranduba;",
+    "cep": "40435620",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Caio Mário Pedreira Filho;"
 }

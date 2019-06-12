@@ -1,12 +1,12 @@
 {
-  "cep": "15990195",
-  "logradouro": "Avenida Padre Nelson Antônio Romão até 870 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matão",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "15990195",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Matão"
+    },
+    "logradouro": "Avenida Padre Nelson Antônio Romão - até 870 - lado par;"
 }

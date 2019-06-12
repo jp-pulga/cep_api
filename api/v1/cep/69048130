@@ -1,12 +1,12 @@
 {
-  "cep": "69048130",
-  "logradouro": "Rua Pedreira",
-  "bairro": "Da Paz",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Da Paz;",
+    "cep": "69048130",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Pedreira;"
 }

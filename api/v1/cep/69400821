@@ -1,12 +1,12 @@
 {
-  "cep": "69400821",
-  "logradouro": "Rua Coronel Júlio Roberto de 2582/2583 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "69400821",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Rua Coronel Júlio Roberto - de 2582\/2583 ao fim;"
 }

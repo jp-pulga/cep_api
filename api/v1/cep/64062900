@@ -1,12 +1,12 @@
 {
-  "cep": "64062900",
-  "logradouro": "Condomínio Asalpi Rua Maria Júlia Santos 3930",
-  "bairro": "Morros",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Morros;",
+    "cep": "64062900",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Maria Júlia Santos, 3930  Condomínio Asalpi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "08680000",
-  "logradouro": "Avenida Major Pinheiro Froes",
-  "bairro": "Vila Maria de Maggi",
-  "cidade": {
-    "nome": "Suzano",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Maria de Maggi;",
+    "cep": "08680000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Suzano"
+    },
+    "logradouro": "Avenida Major Pinheiro Froes;"
 }

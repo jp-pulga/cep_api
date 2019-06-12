@@ -1,12 +1,12 @@
 {
-  "cep": "35500306",
-  "logradouro": "Rua Marechal São Bento Menni",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "35500306",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Marechal São Bento Menni;"
 }

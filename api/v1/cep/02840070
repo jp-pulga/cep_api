@@ -1,12 +1,12 @@
 {
-  "cep": "02840070",
-  "logradouro": "Rua Fernando de Matos",
-  "bairro": "Parque São Luís",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Luís;",
+    "cep": "02840070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Fernando de Matos;"
 }

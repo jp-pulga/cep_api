@@ -1,12 +1,12 @@
 {
-  "cep": "69025400",
-  "logradouro": "Beco Monterrey",
-  "bairro": "Presidente Vargas",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Presidente Vargas;",
+    "cep": "69025400",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Monterrey;"
 }

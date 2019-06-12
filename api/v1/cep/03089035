@@ -1,12 +1,12 @@
 {
-  "cep": "03089035",
-  "logradouro": "Travessa Francisco Joaquim Lopes",
-  "bairro": "Maranhão",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Maranhão;",
+    "cep": "03089035",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Francisco Joaquim Lopes;"
 }

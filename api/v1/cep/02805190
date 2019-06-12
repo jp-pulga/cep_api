@@ -1,12 +1,12 @@
 {
-  "cep": "02805190",
-  "logradouro": "Rua Manoel Ramos",
-  "bairro": "Vila Cruz das Almas",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Cruz das Almas;",
+    "cep": "02805190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Manoel Ramos;"
 }

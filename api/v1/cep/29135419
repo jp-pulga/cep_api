@@ -1,12 +1,12 @@
 {
-  "cep": "29135419",
-  "logradouro": "Rua São Bernardo do Campo",
-  "bairro": "Marcílio de Noronha",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Marcílio de Noronha;",
+    "cep": "29135419",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua São Bernardo do Campo;"
 }

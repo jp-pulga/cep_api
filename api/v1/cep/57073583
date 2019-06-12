@@ -1,12 +1,12 @@
 {
-  "cep": "57073583",
-  "logradouro": "Quadra B (Cj Sta Helena)",
-  "bairro": "Cidade Universitária",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cidade Universitária;",
+    "cep": "57073583",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Santa Helena (Cj Sta Helena);"
 }

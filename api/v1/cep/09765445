@@ -1,12 +1,12 @@
 {
-  "cep": "09765445",
-  "logradouro": "Rua Manoel Souza Pinto (Pq São Bernardo)",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09765445",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Manoel Souza Pinto (Pq São Bernardo);"
 }

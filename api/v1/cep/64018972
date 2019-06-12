@@ -1,12 +1,12 @@
 {
-  "cep": "64018972",
-  "logradouro": "CDD Teresina - Zona Sul Rua Treze de Maio 2575",
-  "bairro": "Pio XII",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Pio XII;",
+    "cep": "64018972",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Treze de Maio, 2575  CDD Teresina - Zona Sul;"
 }

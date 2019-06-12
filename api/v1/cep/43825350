@@ -1,12 +1,12 @@
 {
-  "cep": "43825350",
-  "logradouro": "Rua São Bento",
-  "bairro": "Malemba",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Malemba;",
+    "cep": "43825350",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Rua São Bento;"
 }

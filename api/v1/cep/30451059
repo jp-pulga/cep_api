@@ -1,12 +1,12 @@
 {
-  "cep": "30451059",
-  "logradouro": "Beco Maria do Rosário",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "30451059",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Maria do Rosário;"
 }

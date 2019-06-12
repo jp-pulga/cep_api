@@ -1,12 +1,12 @@
 {
-  "cep": "79640570",
-  "logradouro": "Rua Mato Grosso",
-  "bairro": "Jardim Carandá",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Carandá;",
+    "cep": "79640570",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Mato Grosso;"
 }

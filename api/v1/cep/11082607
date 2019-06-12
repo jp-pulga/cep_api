@@ -1,12 +1,12 @@
 {
-  "cep": "11082607",
-  "logradouro": "Travessa São Manoel",
-  "bairro": "Morro São Bento",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Morro São Bento;",
+    "cep": "11082607",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Travessa São Manoel;"
 }

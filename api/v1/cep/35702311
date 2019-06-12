@@ -1,12 +1,12 @@
 {
-  "cep": "35702311",
-  "logradouro": "Rua José Rodrigues Soares",
-  "bairro": "Orozimbo Macedo",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Orozimbo Macedo;",
+    "cep": "35702311",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua José Rodrigues Soares;"
 }

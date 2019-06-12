@@ -1,12 +1,12 @@
 {
-  "cep": "13106016",
-  "logradouro": "Rua Maria de Almeida Magalhães (Dona Marina)",
-  "bairro": "Sousas",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sousas;",
+    "cep": "13106016",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Maria de Almeida Magalhães (Dona Marina);"
 }

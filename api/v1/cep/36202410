@@ -1,12 +1,12 @@
 {
-  "cep": "36202410",
-  "logradouro": "Rua Santa Maria",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "36202410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Santa Maria;"
 }

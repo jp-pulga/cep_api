@@ -1,12 +1,12 @@
 {
-  "cep": "15997327",
-  "logradouro": "Avenida Reinaldo Romanelli",
-  "bairro": "Vila Cardim",
-  "cidade": {
-    "nome": "Matão",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Cardim;",
+    "cep": "15997327",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Matão"
+    },
+    "logradouro": "Avenida Reinaldo Romanelli;"
 }

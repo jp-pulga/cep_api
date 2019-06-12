@@ -1,12 +1,12 @@
 {
-  "cep": "14091380",
-  "logradouro": "Rua Marino Paterlini",
-  "bairro": "Presidente Médici",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Presidente Médici;",
+    "cep": "14091380",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Marino Paterlini;"
 }

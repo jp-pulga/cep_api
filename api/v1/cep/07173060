@@ -1,12 +1,12 @@
 {
-  "cep": "07173060",
-  "logradouro": "Rua Governador Mangabeira",
-  "bairro": "Jardim Presidente Dutra",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Presidente Dutra;",
+    "cep": "07173060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Governador Mangabeira;"
 }

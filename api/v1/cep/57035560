@@ -1,12 +1,12 @@
 {
-  "cep": "57035560",
-  "logradouro": "Avenida Pio XII",
-  "bairro": "Jatiúca",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jatiúca;",
+    "cep": "57035560",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Pio XII;"
 }

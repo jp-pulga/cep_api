@@ -1,12 +1,12 @@
 {
-  "cep": "69063050",
-  "logradouro": "Rua Sobrinho Maranhão",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69063050",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Sobrinho Maranhão;"
 }

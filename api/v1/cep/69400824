@@ -1,12 +1,12 @@
 {
-  "cep": "69400824",
-  "logradouro": "Beco Coronel Júlio Roberto",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "69400824",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Beco Coronel Júlio Roberto;"
 }

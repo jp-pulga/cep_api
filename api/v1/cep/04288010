@@ -1,12 +1,12 @@
 {
-  "cep": "04288010",
-  "logradouro": "Rua Jaime Ramos Veiga",
-  "bairro": "Vila Brasílio Machado",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Brasílio Machado;",
+    "cep": "04288010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Jaime Ramos Veiga;"
 }

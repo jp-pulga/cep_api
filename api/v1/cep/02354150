@@ -1,12 +1,12 @@
 {
-  "cep": "02354150",
-  "logradouro": "Rua Bonifácio Maia",
-  "bairro": "Parque Ramos Freitas",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Ramos Freitas;",
+    "cep": "02354150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Bonifácio Maia;"
 }

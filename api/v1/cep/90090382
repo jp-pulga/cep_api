@@ -1,12 +1,12 @@
 {
-  "cep": "90090382",
-  "logradouro": "Rua Santa Rita de Cássia (Ilha dos Marinheiros)",
-  "bairro": "Arquipélago",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arquipélago;",
+    "cep": "90090382",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Santa Rita de Cássia (Ilha dos Marinheiros);"
 }

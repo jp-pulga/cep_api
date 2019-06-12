@@ -1,12 +1,12 @@
 {
-  "cep": "35702205",
-  "logradouro": "Praça Geraldino de Matos Viana",
-  "bairro": "JK",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "JK;",
+    "cep": "35702205",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Praça Geraldino de Matos Viana;"
 }

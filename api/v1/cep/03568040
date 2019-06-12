@@ -1,12 +1,12 @@
 {
-  "cep": "03568040",
-  "logradouro": "Rua Pedreira de Magalhães",
-  "bairro": "Parque Artur Alvim",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Artur Alvim;",
+    "cep": "03568040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pedreira de Magalhães;"
 }

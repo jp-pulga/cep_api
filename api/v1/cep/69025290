@@ -1,12 +1,12 @@
 {
-  "cep": "69025290",
-  "logradouro": "Beco Olsen Araújo",
-  "bairro": "Presidente Vargas",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Presidente Vargas;",
+    "cep": "69025290",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Olsen Araújo;"
 }

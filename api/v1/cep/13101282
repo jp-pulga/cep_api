@@ -1,12 +1,12 @@
 {
-  "cep": "13101282",
-  "logradouro": "Rua Maria do Rosário Nunes Terra",
-  "bairro": "Jardim Tamoio",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Tamoio;",
+    "cep": "13101282",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Maria do Rosário Nunes Terra;"
 }

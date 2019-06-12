@@ -1,12 +1,12 @@
 {
-  "cep": "12712680",
-  "logradouro": "Rua Presidente Juscelino Kubitschek de Oliveira",
-  "bairro": "Retiro da Mantiqueira",
-  "cidade": {
-    "nome": "Cruzeiro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Retiro da Mantiqueira;",
+    "cep": "12712680",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cruzeiro"
+    },
+    "logradouro": "Rua Presidente Juscelino Kubitschek de Oliveira;"
 }

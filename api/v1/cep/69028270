@@ -1,12 +1,12 @@
 {
-  "cep": "69028270",
-  "logradouro": "Rua Barão de Loreto",
-  "bairro": "Flores",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Flores;",
+    "cep": "69028270",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Barão de Loreto;"
 }

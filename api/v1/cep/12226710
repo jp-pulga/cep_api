@@ -1,12 +1,12 @@
 {
-  "cep": "12226710",
-  "logradouro": "Rua Maria Auxiliadora Monção Antinópolis Bonafé",
-  "bairro": "Campos de São José",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Campos de São José;",
+    "cep": "12226710",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Maria Auxiliadora Monção Antinópolis Bonafé;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31920460",
-  "logradouro": "Rua Jaques Roberto",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "31920460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Jaques Roberto;"
 }

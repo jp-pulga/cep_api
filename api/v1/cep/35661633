@@ -1,12 +1,12 @@
 {
-  "cep": "35661633",
-  "logradouro": "Rua Basília Maria de Melo",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "35661633",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Basília Maria de Melo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64004020",
-  "logradouro": "Rua Raimundo Pinheiro Machado",
-  "bairro": "Mafrense",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Mafrense;",
+    "cep": "64004020",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Raimundo Pinheiro Machado;"
 }
