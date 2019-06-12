@@ -1,12 +1,13 @@
 {
-  "cep": "44249971",
-  "logradouro": "AGC Bessa Rua Principal s/n",
-  "bairro": "Bessa",
-  "cidade": {
-    "nome": "Conceição do Jacuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bessa;",
+    "cep": "44249971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Conceição do Jacuípe"
+    },
+    "ibge": 2908507,
+    "logradouro": "Rua Principal, s\/n  AGC Bessa;"
 }

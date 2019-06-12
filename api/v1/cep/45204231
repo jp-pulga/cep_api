@@ -1,12 +1,12 @@
 {
-  "cep": "45204231",
-  "logradouro": "Rua Filadelfia",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "45204231",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Filadelfia;"
 }

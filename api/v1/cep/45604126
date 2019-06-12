@@ -1,12 +1,12 @@
 {
-  "cep": "45604126",
-  "logradouro": "Rua Balduíno Silveira",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "45604126",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Balduíno Silveira;"
 }

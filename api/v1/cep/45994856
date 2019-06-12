@@ -1,12 +1,12 @@
 {
-  "cep": "45994856",
-  "logradouro": "Rua Cordeiro de Deus",
-  "bairro": "Jardim Beira Rio",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Beira Rio;",
+    "cep": "45994856",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Cordeiro de Deus;"
 }

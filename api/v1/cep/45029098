@@ -1,12 +1,12 @@
 {
-  "cep": "45029098",
-  "logradouro": "Rua Rio Gavião",
-  "bairro": "Candeias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeias;",
+    "cep": "45029098",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Rio Gavião;"
 }

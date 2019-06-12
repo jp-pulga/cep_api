@@ -1,12 +1,12 @@
 {
-  "cep": "45725970",
-  "logradouro": "AC Santa Cruz da Vitória Rua Firmino Alves 88",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz da Vitória",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45725970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santa Cruz da Vitória"
+    },
+    "logradouro": "Rua Firmino Alves, 88  AC Santa Cruz da Vitória;"
 }

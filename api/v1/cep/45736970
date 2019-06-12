@@ -1,12 +1,13 @@
 {
-  "cep": "45736970",
-  "logradouro": "AGC Palmira Praça Antonio Osório s/n",
-  "bairro": "Palmira",
-  "cidade": {
-    "nome": "Itaju do Colônia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Palmira;",
+    "cep": "45736970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itaju do Colônia"
+    },
+    "ibge": 2915403,
+    "logradouro": "Praça Antonio Osório, s\/n  AGC Palmira;"
 }

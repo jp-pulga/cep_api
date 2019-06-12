@@ -1,12 +1,13 @@
 {
-  "cep": "44560970",
-  "logradouro": "AC Dom Macedo Costa Rua Manoel Vitorino 37-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Macedo Costa",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44560970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Dom Macedo Costa"
+    },
+    "ibge": 2910206,
+    "logradouro": "Rua Manoel Vitorino, 37-A  AC Dom Macedo Costa;"
 }

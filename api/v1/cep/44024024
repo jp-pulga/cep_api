@@ -1,12 +1,12 @@
 {
-  "cep": "44024024",
-  "logradouro": "Travessa Itambé",
-  "bairro": "Jardim Cruzeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Cruzeiro;",
+    "cep": "44024024",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Itambé;"
 }

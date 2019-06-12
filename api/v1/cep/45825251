@@ -1,12 +1,12 @@
 {
-  "cep": "45825251",
-  "logradouro": "Rua Itabuna",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vista Alegre;",
+    "cep": "45825251",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Itabuna;"
 }

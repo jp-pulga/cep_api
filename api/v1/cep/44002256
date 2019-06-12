@@ -1,12 +1,13 @@
 {
-  "cep": "44002256",
-  "logradouro": "Rua Sales Barbosa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44002256",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua Sales Barbosa;"
 }

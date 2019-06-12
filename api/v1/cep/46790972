@@ -1,12 +1,13 @@
 {
-  "cep": "46790972",
-  "logradouro": "AGC Rumo Avenida do Comércio 40",
-  "bairro": "Rumo",
-  "cidade": {
-    "nome": "Itaeté",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rumo;",
+    "cep": "46790972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itaeté"
+    },
+    "ibge": 2915007,
+    "logradouro": "Avenida do Comércio, 40  AGC Rumo;"
 }

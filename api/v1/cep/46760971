@@ -1,12 +1,13 @@
 {
-  "cep": "46760971",
-  "logradouro": "AGC Cascavel Praça do Comércio s/n",
-  "bairro": "Cascavel",
-  "cidade": {
-    "nome": "Ibicoara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cascavel;",
+    "cep": "46760971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibicoara"
+    },
+    "ibge": 2912202,
+    "logradouro": "Praça do Comércio, s\/n  AGC Cascavel;"
 }

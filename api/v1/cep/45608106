@@ -1,12 +1,13 @@
 {
-  "cep": "45608106",
-  "logradouro": "Praça Nicodemos Barreto",
-  "bairro": "Sarinha Alcântara",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sarinha Alcântara;",
+    "cep": "45608106",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Praça Nicodemos Barreto;"
 }

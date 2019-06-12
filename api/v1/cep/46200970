@@ -1,12 +1,13 @@
 {
-  "cep": "46200970",
-  "logradouro": "AC Condeúba Rua Martinho Moreira 60",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Condeúba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46200970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Condeúba"
+    },
+    "ibge": 2908705,
+    "logradouro": "Rua Martinho Moreira, 60  AC Condeúba;"
 }

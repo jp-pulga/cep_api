@@ -1,12 +1,12 @@
 {
-  "cep": "40415820",
-  "logradouro": "Vila Ibiquera",
-  "bairro": "Bonfim",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bonfim;",
+    "cep": "40415820",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Vila Ibiquera;"
 }

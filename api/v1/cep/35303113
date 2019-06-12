@@ -1,12 +1,12 @@
 {
-  "cep": "35303113",
-  "logradouro": "Rua Olinto Augusto Barbosa",
-  "bairro": "Maria da Glória",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria da Glória;",
+    "cep": "35303113",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Olinto Augusto Barbosa;"
 }

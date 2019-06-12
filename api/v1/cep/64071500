@@ -1,12 +1,12 @@
 {
-  "cep": "64071500",
-  "logradouro": "Rua Nossa Senhora de Fátima (Vl Sta Bárbara)",
-  "bairro": "Verde Lar",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Verde Lar;",
+    "cep": "64071500",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Nossa Senhora de Fátima (Vl Sta Bárbara);"
 }

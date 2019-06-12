@@ -1,12 +1,12 @@
 {
-  "cep": "48610300",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "48610300",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

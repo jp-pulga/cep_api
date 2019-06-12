@@ -1,12 +1,12 @@
 {
-  "cep": "42850970",
-  "logradouro": "AC Dias D'Ávila Rua Raimundo da Conceição Tabireza 157",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dias D'Ávila",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "42850970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Dias D'Ávila"
+    },
+    "logradouro": "Rua Raimundo da Conceição Tabireza, 157  AC Dias D'Ávila;"
 }

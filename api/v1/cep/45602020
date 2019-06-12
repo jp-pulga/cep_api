@@ -1,12 +1,13 @@
 {
-  "cep": "45602020",
-  "logradouro": "Travessa São João Batista",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "45602020",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Travessa São João Batista;"
 }

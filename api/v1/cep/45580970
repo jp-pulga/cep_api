@@ -1,12 +1,13 @@
 {
-  "cep": "45580970",
-  "logradouro": "AC Ibirataia Rua Amado Raimundo dos Santos 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibirataia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45580970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibirataia"
+    },
+    "ibge": 2912905,
+    "logradouro": "Rua Amado Raimundo dos Santos, 40  AC Ibirataia;"
 }

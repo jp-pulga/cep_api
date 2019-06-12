@@ -1,12 +1,13 @@
 {
-  "cep": "45831156",
-  "logradouro": "Avenida Antônio Carlos Magalhães",
-  "bairro": "Santa Edwirges",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Edwirges;",
+    "cep": "45831156",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Antônio Carlos Magalhães;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "48180000",
-  "logradouro": "Entre Rios",
-  "bairro": "",
-  "cidade": {
-    "nome": "Entre Rios",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "48180000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Entre Rios"
+    },
+    "ibge": 2910503
 }

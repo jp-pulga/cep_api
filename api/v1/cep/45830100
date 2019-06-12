@@ -1,12 +1,13 @@
 {
-  "cep": "45830100",
-  "logradouro": "Avenida Artulino Ribeiro de 440/441 a 598/599",
-  "bairro": "Dinah Borges",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Dinah Borges;",
+    "cep": "45830100",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Artulino Ribeiro - de 440\/441 a 598\/599;"
 }

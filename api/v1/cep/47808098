@@ -1,12 +1,12 @@
 {
-  "cep": "47808098",
-  "logradouro": "Rua Irecê",
-  "bairro": "Antonio Geraldo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Antonio Geraldo;",
+    "cep": "47808098",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Irecê;"
 }

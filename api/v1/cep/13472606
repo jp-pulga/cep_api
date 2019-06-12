@@ -1,12 +1,12 @@
 {
-  "cep": "13472606",
-  "logradouro": "Rua São Bartolomeu",
-  "bairro": "Jardim Esplanada",
-  "cidade": {
-    "nome": "Americana",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Esplanada;",
+    "cep": "13472606",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Americana"
+    },
+    "logradouro": "Rua São Bartolomeu;"
 }

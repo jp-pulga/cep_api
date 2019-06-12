@@ -1,12 +1,12 @@
 {
-  "cep": "45989028",
-  "logradouro": "Rua Itapicuru",
-  "bairro": "Irmã Dulce",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Irmã Dulce;",
+    "cep": "45989028",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Itapicuru;"
 }

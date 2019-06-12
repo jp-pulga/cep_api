@@ -1,12 +1,13 @@
 {
-  "cep": "45658250",
-  "logradouro": "Avenida Raymundo Sá Barreto",
-  "bairro": "Jardim Savóia",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Savóia;",
+    "cep": "45658250",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Avenida Raymundo Sá Barreto;"
 }

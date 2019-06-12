@@ -1,12 +1,13 @@
 {
-  "cep": "44320970",
-  "logradouro": "AC Conceição da Feira Rua Alfredo Mascarenhas 72",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição da Feira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44320970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Conceição da Feira"
+    },
+    "ibge": 2908200,
+    "logradouro": "Rua Alfredo Mascarenhas, 72  AC Conceição da Feira;"
 }

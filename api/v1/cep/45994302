@@ -1,12 +1,12 @@
 {
-  "cep": "45994302",
-  "logradouro": "Avenida Euclides da Cunha",
-  "bairro": "Nova Teixeira",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Teixeira;",
+    "cep": "45994302",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Avenida Euclides da Cunha;"
 }

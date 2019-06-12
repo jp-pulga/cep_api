@@ -1,12 +1,11 @@
 {
-  "cep": "44970000",
-  "logradouro": "Ibipeba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ibipeba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44970000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibipeba"
+    },
+    "ibge": 2912400
 }

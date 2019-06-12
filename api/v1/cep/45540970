@@ -1,12 +1,13 @@
 {
-  "cep": "45540970",
-  "logradouro": "AC Gongogi Rua Jamil Rihan 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gongogi",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45540970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Gongogi"
+    },
+    "ibge": 2911501,
+    "logradouro": "Rua Jamil Rihan, 1  AC Gongogi;"
 }

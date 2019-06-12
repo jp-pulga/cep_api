@@ -1,12 +1,12 @@
 {
-  "cep": "44088432",
-  "logradouro": "Rua Rio Itapicuru",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "44088432",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Rio Itapicuru;"
 }

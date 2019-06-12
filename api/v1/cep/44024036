@@ -1,12 +1,13 @@
 {
-  "cep": "44024036",
-  "logradouro": "Rua Barroquinha",
-  "bairro": "Jardim Cruzeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Cruzeiro;",
+    "cep": "44024036",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua Barroquinha;"
 }

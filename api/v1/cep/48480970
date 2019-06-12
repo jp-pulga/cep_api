@@ -1,12 +1,13 @@
 {
-  "cep": "48480970",
-  "logradouro": "AC Crisópolis Avenida Luís Coelho Moreira Caldas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Crisópolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48480970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Crisópolis"
+    },
+    "ibge": 2909604,
+    "logradouro": "Avenida Luís Coelho Moreira Caldas, s\/n  AC Crisópolis;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41245230",
-  "logradouro": "Rua Cravolândia",
-  "bairro": "Pau da Lima",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pau da Lima;",
+    "cep": "41245230",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Cravolândia;"
 }

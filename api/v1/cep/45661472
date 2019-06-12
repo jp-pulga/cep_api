@@ -1,12 +1,13 @@
 {
-  "cep": "45661472",
-  "logradouro": "Rua A",
-  "bairro": "Banco da Vitória",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Banco da Vitória;",
+    "cep": "45661472",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Rua A;"
 }

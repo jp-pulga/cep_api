@@ -1,12 +1,12 @@
 {
-  "cep": "41603365",
-  "logradouro": "Rua Irajuba",
-  "bairro": "Praia do Flamengo",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Praia do Flamengo;",
+    "cep": "41603365",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Irajuba;"
 }

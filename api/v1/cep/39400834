@@ -1,12 +1,12 @@
 {
-  "cep": "39400834",
-  "logradouro": "Rua Henrique Batista",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "39400834",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Henrique Batista;"
 }

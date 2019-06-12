@@ -1,12 +1,12 @@
 {
-  "cep": "02804180",
-  "logradouro": "Rua Leandro Bassano",
-  "bairro": "Vila Cruz das Almas",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Cruz das Almas;",
+    "cep": "02804180",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Leandro Bassano;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39401448",
-  "logradouro": "Rua Henriqueta Batista",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "39401448",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Henriqueta Batista;"
 }

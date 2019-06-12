@@ -1,12 +1,12 @@
 {
-  "cep": "45604095",
-  "logradouro": "Rua Nina Barreto",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "45604095",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Nina Barreto;"
 }

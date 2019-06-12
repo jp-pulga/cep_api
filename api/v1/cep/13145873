@@ -1,12 +1,12 @@
 {
-  "cep": "13145873",
-  "logradouro": "Rua Manoel Barboza Braga (Residencial Campos do Conde)",
-  "bairro": "João Aranha",
-  "cidade": {
-    "nome": "Paulínia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "João Aranha;",
+    "cep": "13145873",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Paulínia"
+    },
+    "logradouro": "Rua Manoel Barboza Braga (Residencial Campos do Conde);"
 }

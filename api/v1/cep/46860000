@@ -1,12 +1,11 @@
 {
-  "cep": "46860000",
-  "logradouro": "Iaçu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Iaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "46860000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Iaçu"
+    },
+    "ibge": 2911907
 }

@@ -1,12 +1,10 @@
 {
-  "cep": "42850000",
-  "logradouro": "Dias D'Ávila",
-  "bairro": "",
-  "cidade": {
-    "nome": "Dias D'Ávila",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
+    "cep": "42850000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Dias D'Ávila"
     }
-  }
 }

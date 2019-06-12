@@ -1,12 +1,12 @@
 {
-  "cep": "49040190",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Inácio Barbosa",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Inácio Barbosa;",
+    "cep": "49040190",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

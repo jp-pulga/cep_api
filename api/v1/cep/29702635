@@ -1,12 +1,12 @@
 {
-  "cep": "29702635",
-  "logradouro": "Avenida Doutor Adauto Barcellos de Carvalho",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "29702635",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Avenida Doutor Adauto Barcellos de Carvalho;"
 }

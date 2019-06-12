@@ -1,12 +1,12 @@
 {
-  "cep": "41502375",
-  "logradouro": "Rua Igrapiúna",
-  "bairro": "Jardim das Margaridas",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim das Margaridas;",
+    "cep": "41502375",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Igrapiúna;"
 }

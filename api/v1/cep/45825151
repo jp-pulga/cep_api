@@ -1,12 +1,13 @@
 {
-  "cep": "45825151",
-  "logradouro": "Avenida Alcides Lacerda",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vista Alegre;",
+    "cep": "45825151",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Alcides Lacerda;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "48605380",
-  "logradouro": "Rua Lago Itaparica",
-  "bairro": "Caminho dos Lagos",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caminho dos Lagos;",
+    "cep": "48605380",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Lago Itaparica;"
 }

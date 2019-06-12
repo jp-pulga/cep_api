@@ -1,12 +1,13 @@
 {
-  "cep": "44003314",
-  "logradouro": "Alameda Alvorada",
-  "bairro": "Serraria Brasil",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serraria Brasil;",
+    "cep": "44003314",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Alameda Alvorada;"
 }

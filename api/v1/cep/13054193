@@ -1,12 +1,12 @@
 {
-  "cep": "13054193",
-  "logradouro": "Rua Marginal dos Bandeirantes",
-  "bairro": "Jardim Filadélfia",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Filadélfia;",
+    "cep": "13054193",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Marginal dos Bandeirantes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44001555",
-  "logradouro": "Rua Barão de Cotegipe de 557 a 1061 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44001555",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua Barão de Cotegipe - de 557 a 1061 - lado ímpar;"
 }

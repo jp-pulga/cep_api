@@ -1,12 +1,13 @@
 {
-  "cep": "47650971",
-  "logradouro": "AGC São Manoel Rua Antônio Lopes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Correntina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47650971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Correntina"
+    },
+    "ibge": 2909307,
+    "logradouro": "Rua Antônio Lopes, s\/n  AGC São Manoel;"
 }

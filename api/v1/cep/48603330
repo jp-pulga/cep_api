@@ -1,12 +1,12 @@
 {
-  "cep": "48603330",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Clériston Andrade",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Clériston Andrade;",
+    "cep": "48603330",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

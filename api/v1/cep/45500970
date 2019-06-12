@@ -1,12 +1,13 @@
 {
-  "cep": "45500970",
-  "logradouro": "AC Ibirapitanga Praça Grandes Lojas Unidas da Bahia s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibirapitanga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45500970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibirapitanga"
+    },
+    "ibge": 2912707,
+    "logradouro": "Praça Grandes Lojas Unidas da Bahia, s\/n  AC Ibirapitanga;"
 }

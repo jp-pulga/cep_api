@@ -1,12 +1,12 @@
 {
-  "cep": "41100455",
-  "logradouro": "1ª Travessa Euclydes da Cunha",
-  "bairro": "Pernambués",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pernambués;",
+    "cep": "41100455",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "1ª Travessa Euclydes da Cunha;"
 }

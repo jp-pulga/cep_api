@@ -1,12 +1,13 @@
 {
-  "cep": "45828051",
-  "logradouro": "Rua João Baptista Figueiredo",
-  "bairro": "Pequi",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pequi;",
+    "cep": "45828051",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Rua João Baptista Figueiredo;"
 }

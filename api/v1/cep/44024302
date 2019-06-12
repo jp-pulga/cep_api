@@ -1,12 +1,12 @@
 {
-  "cep": "44024302",
-  "logradouro": "Rua Itapebi",
-  "bairro": "Jardim Cruzeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Cruzeiro;",
+    "cep": "44024302",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Itapebi;"
 }

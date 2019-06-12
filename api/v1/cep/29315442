@@ -1,12 +1,12 @@
 {
-  "cep": "29315442",
-  "logradouro": "Rodovia Ricardo Barbieri",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "29315442",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rodovia Ricardo Barbieri;"
 }

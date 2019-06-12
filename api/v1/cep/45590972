@@ -1,12 +1,13 @@
 {
-  "cep": "45590972",
-  "logradouro": "AGC Planalto Íris Rua Central s/n",
-  "bairro": "Planalto Iris",
-  "cidade": {
-    "nome": "Dário Meira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Planalto Iris;",
+    "cep": "45590972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Dário Meira"
+    },
+    "ibge": 2910008,
+    "logradouro": "Rua Central, s\/n  AGC Planalto Íris;"
 }

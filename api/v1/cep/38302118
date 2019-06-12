@@ -1,12 +1,12 @@
 {
-  "cep": "38302118",
-  "logradouro": "Travessa Ana Maria Figueiredo Barreto",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "38302118",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Travessa Ana Maria Figueiredo Barreto;"
 }

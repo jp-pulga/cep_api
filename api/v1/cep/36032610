@@ -1,12 +1,12 @@
 {
-  "cep": "36032610",
-  "logradouro": "Rua Antônio Batista",
-  "bairro": "Ipiranguinha",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranguinha;",
+    "cep": "36032610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Antônio Batista;"
 }

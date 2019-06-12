@@ -1,12 +1,12 @@
 {
-  "cep": "48601445",
-  "logradouro": "Rua Severino Cordeiro Costa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48601445",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Severino Cordeiro Costa;"
 }

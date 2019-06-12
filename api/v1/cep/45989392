@@ -1,12 +1,12 @@
 {
-  "cep": "45989392",
-  "logradouro": "Rua Ibicuí",
-  "bairro": "Nanuque",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nanuque;",
+    "cep": "45989392",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Ibicuí;"
 }

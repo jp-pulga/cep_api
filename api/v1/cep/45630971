@@ -1,12 +1,13 @@
 {
-  "cep": "45630971",
-  "logradouro": "AGC Pimenteira Rua Joaquim Nabuco s/n",
-  "bairro": "Pimenteira",
-  "cidade": {
-    "nome": "Itajuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pimenteira;",
+    "cep": "45630971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itajuípe"
+    },
+    "ibge": 2915502,
+    "logradouro": "Rua Joaquim Nabuco, s\/n  AGC Pimenteira;"
 }

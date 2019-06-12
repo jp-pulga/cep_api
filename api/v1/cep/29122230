@@ -1,12 +1,12 @@
 {
-  "cep": "29122230",
-  "logradouro": "Rua Bariri",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "29122230",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Bariri;"
 }

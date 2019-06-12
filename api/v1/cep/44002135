@@ -1,12 +1,12 @@
 {
-  "cep": "44002135",
-  "logradouro": "Rua Barão de Cotegipe de 1450 a 1760 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44002135",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Barão de Cotegipe - de 1450 a 1760 - lado par;"
 }

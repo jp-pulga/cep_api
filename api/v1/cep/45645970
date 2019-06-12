@@ -1,12 +1,13 @@
 {
-  "cep": "45645970",
-  "logradouro": "AC Itapitanga Rua do Corsário s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapitanga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45645970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itapitanga"
+    },
+    "ibge": 2916609,
+    "logradouro": "Rua do Corsário, s\/n  AC Itapitanga;"
 }

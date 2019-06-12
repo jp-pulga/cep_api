@@ -1,12 +1,12 @@
 {
-  "cep": "45210022",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "45210022",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

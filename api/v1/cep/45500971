@@ -1,12 +1,13 @@
 {
-  "cep": "45500971",
-  "logradouro": "AGC Itamaraty Praça Tancredo Neves s/n",
-  "bairro": "Itamaraty",
-  "cidade": {
-    "nome": "Ibirapitanga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itamaraty;",
+    "cep": "45500971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibirapitanga"
+    },
+    "ibge": 2912707,
+    "logradouro": "Praça Tancredo Neves, s\/n  AGC Itamaraty;"
 }

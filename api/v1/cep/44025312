@@ -1,12 +1,13 @@
 {
-  "cep": "44025312",
-  "logradouro": "Rua João Batista Figueiredo",
-  "bairro": "Gabriela",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Gabriela;",
+    "cep": "44025312",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua João Batista Figueiredo;"
 }

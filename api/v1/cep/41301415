@@ -1,12 +1,12 @@
 {
-  "cep": "41301415",
-  "logradouro": "3ª Travessa Itaparica",
-  "bairro": "Valéria",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Valéria;",
+    "cep": "41301415",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "3ª Travessa Itaparica;"
 }

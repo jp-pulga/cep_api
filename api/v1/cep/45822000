@@ -1,12 +1,13 @@
 {
-  "cep": "45822000",
-  "logradouro": "Rua São Bartolomeu até 740/741",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "45822000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Rua São Bartolomeu - até 740\/741;"
 }

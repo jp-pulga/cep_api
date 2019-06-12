@@ -1,12 +1,13 @@
 {
-  "cep": "45657165",
-  "logradouro": "Rua Barcelos",
-  "bairro": "Teotônio Vilela",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Teotônio Vilela;",
+    "cep": "45657165",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Rua Barcelos;"
 }

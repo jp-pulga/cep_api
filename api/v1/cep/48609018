@@ -1,12 +1,12 @@
 {
-  "cep": "48609018",
-  "logradouro": "Rua Itaparica",
-  "bairro": "Tancredo Neves I",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tancredo Neves I;",
+    "cep": "48609018",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Itaparica;"
 }

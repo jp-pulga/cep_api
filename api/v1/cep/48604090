@@ -1,12 +1,12 @@
 {
-  "cep": "48604090",
-  "logradouro": "Rua Itabuna",
-  "bairro": "Jardim Bahia",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Bahia;",
+    "cep": "48604090",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Itabuna;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45820620",
-  "logradouro": "Avenida Bahia",
-  "bairro": "Vivendas Costa Azul",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vivendas Costa Azul;",
+    "cep": "45820620",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Bahia;"
 }

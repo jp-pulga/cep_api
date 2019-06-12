@@ -1,12 +1,12 @@
 {
-  "cep": "40170120",
-  "logradouro": "Rua Dom Basílio Mendes Ribeiro",
-  "bairro": "Ondina",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ondina;",
+    "cep": "40170120",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Dom Basílio Mendes Ribeiro;"
 }

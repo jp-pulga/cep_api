@@ -1,12 +1,12 @@
 {
-  "cep": "45987188",
-  "logradouro": "Rua Coração de Maria",
-  "bairro": "Recanto do Lago",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Recanto do Lago;",
+    "cep": "45987188",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Coração de Maria;"
 }

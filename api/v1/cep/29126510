@@ -1,12 +1,12 @@
 {
-  "cep": "29126510",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Morada da Barra",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Morada da Barra;",
+    "cep": "29126510",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

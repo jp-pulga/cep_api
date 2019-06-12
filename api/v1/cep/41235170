@@ -1,12 +1,12 @@
 {
-  "cep": "41235170",
-  "logradouro": "Avenida Coração de Maria",
-  "bairro": "Pau da Lima",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pau da Lima;",
+    "cep": "41235170",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Coração de Maria;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45823872",
-  "logradouro": "Rua da Bahia",
-  "bairro": "Nova Eunápolis",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Eunápolis;",
+    "cep": "45823872",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Rua da Bahia;"
 }

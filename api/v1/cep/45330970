@@ -1,12 +1,13 @@
 {
-  "cep": "45330970",
-  "logradouro": "AC Cravolândia Praça Lomanto Júnior s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cravolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45330970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cravolândia"
+    },
+    "ibge": 2909505,
+    "logradouro": "Praça Lomanto Júnior, s\/n  AC Cravolândia;"
 }

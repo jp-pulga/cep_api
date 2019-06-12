@@ -1,12 +1,12 @@
 {
-  "cep": "47808134",
-  "logradouro": "Rua Maria da Glória",
-  "bairro": "Antonio Geraldo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Antonio Geraldo;",
+    "cep": "47808134",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Maria da Glória;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45450970",
-  "logradouro": "AC Gandu Rua Nestor Lopes da Silva s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gandu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45450970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Gandu"
+    },
+    "ibge": 2911204,
+    "logradouro": "Rua Nestor Lopes da Silva, s\/n  AC Gandu;"
 }

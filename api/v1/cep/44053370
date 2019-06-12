@@ -1,12 +1,12 @@
 {
-  "cep": "44053370",
-  "logradouro": "Caminho Coração de Maria",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "44053370",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Caminho Coração de Maria;"
 }

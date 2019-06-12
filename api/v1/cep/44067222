@@ -1,12 +1,12 @@
 {
-  "cep": "44067222",
-  "logradouro": "Estrada Papagaio-Rosário",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "44067222",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Estrada Papagaio-Rosário;"
 }

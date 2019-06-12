@@ -1,12 +1,13 @@
 {
-  "cep": "45823609",
-  "logradouro": "Travessa André Pereira Baio",
-  "bairro": "Sapucaeira",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sapucaeira;",
+    "cep": "45823609",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Travessa André Pereira Baio;"
 }

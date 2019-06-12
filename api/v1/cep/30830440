@@ -1,12 +1,12 @@
 {
-  "cep": "30830440",
-  "logradouro": "Rua José Bartolota",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "30830440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Bartolota;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41231435",
-  "logradouro": "Rua Rio Itapicuru",
-  "bairro": "Jardim Santo Inácio",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Santo Inácio;",
+    "cep": "41231435",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Rio Itapicuru;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45230970",
-  "logradouro": "AC Itagi Praça Nelson Davi Ribeiro 312",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itagi",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45230970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itagi"
+    },
+    "ibge": 2915106,
+    "logradouro": "Praça Nelson Davi Ribeiro, 312  AC Itagi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04235160",
-  "logradouro": "Rua do Bananal de Heliópolis",
-  "bairro": "Cidade Nova Heliópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Nova Heliópolis;",
+    "cep": "04235160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua do Bananal de Heliópolis;"
 }

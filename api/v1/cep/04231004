@@ -1,12 +1,12 @@
 {
-  "cep": "04231004",
-  "logradouro": "Rua Barão do Rio Prata",
-  "bairro": "Cidade Nova Heliópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Nova Heliópolis;",
+    "cep": "04231004",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barão do Rio Prata;"
 }

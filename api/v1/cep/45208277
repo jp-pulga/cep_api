@@ -1,12 +1,12 @@
 {
-  "cep": "45208277",
-  "logradouro": "Avenida Ipiaú",
-  "bairro": "Jequiezinho",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jequiezinho;",
+    "cep": "45208277",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Avenida Ipiaú;"
 }

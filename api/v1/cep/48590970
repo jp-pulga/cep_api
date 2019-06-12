@@ -1,12 +1,13 @@
 {
-  "cep": "48590970",
-  "logradouro": "AC Coronel João Sá Rua Abdias Rodrigues de Souza s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel João Sá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48590970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Coronel João Sá"
+    },
+    "ibge": 2909208,
+    "logradouro": "Rua Abdias Rodrigues de Souza, s\/n  AC Coronel João Sá;"
 }

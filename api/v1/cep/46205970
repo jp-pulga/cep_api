@@ -1,12 +1,13 @@
 {
-  "cep": "46205970",
-  "logradouro": "AC Guajeru Rua João da Silva Coutinho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guajeru",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46205970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Guajeru"
+    },
+    "ibge": 2911659,
+    "logradouro": "Rua João da Silva Coutinho, s\/n  AC Guajeru;"
 }

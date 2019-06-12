@@ -1,12 +1,12 @@
 {
-  "cep": "06409185",
-  "logradouro": "Travessa Itamaraju",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "06409185",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Travessa Itamaraju;"
 }

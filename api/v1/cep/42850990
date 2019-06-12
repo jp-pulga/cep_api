@@ -1,12 +1,11 @@
 {
-  "cep": "42850990",
-  "logradouro": "Associação Beneficente Unida e Desp. de Biribeira Rua Antônio Norberto 06",
-  "bairro": "",
-  "cidade": {
-    "nome": "Dias D'Ávila",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "42850990",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Dias D'Ávila"
+    },
+    "logradouro": "Rua Antônio Norberto, 06  CPC Associação Beneficente Unida e Desp. de Biribeira;"
 }

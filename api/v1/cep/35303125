@@ -1,12 +1,12 @@
 {
-  "cep": "35303125",
-  "logradouro": "Rua Geraldo Lomeu Bastos",
-  "bairro": "Maria da Glória",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria da Glória;",
+    "cep": "35303125",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Geraldo Lomeu Bastos;"
 }

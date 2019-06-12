@@ -1,12 +1,12 @@
 {
-  "cep": "44023414",
-  "logradouro": "Travessa Irará",
-  "bairro": "Rua Nova",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rua Nova;",
+    "cep": "44023414",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Irará;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88706069",
-  "logradouro": "Rua Maria da Glória Machado Barboza",
-  "bairro": "Praia Redonda",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia Redonda;",
+    "cep": "88706069",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Maria da Glória Machado Barboza;"
 }

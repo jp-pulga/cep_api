@@ -1,12 +1,13 @@
 {
-  "cep": "45613208",
-  "logradouro": "Travessa São João Batista",
-  "bairro": "Ferradas",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ferradas;",
+    "cep": "45613208",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Travessa São João Batista;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45822610",
-  "logradouro": "Rua Ari Barroso",
-  "bairro": "Parque da Renovação",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque da Renovação;",
+    "cep": "45822610",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Rua Ari Barroso;"
 }

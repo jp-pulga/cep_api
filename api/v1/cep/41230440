@@ -1,12 +1,12 @@
 {
-  "cep": "41230440",
-  "logradouro": "Rua Coronel João Welly",
-  "bairro": "Jardim Cajazeiras",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Cajazeiras;",
+    "cep": "41230440",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Coronel João Welly;"
 }

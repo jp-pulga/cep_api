@@ -1,12 +1,12 @@
 {
-  "cep": "40434450",
-  "logradouro": "Rua Itacaré",
-  "bairro": "Massaranduba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Massaranduba;",
+    "cep": "40434450",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Itacaré;"
 }

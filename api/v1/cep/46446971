@@ -1,12 +1,13 @@
 {
-  "cep": "46446971",
-  "logradouro": "AGC Ramalho Rua Principal s/n",
-  "bairro": "Ramalho",
-  "cidade": {
-    "nome": "Feira da Mata",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ramalho;",
+    "cep": "46446971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira da Mata"
+    },
+    "ibge": 2910776,
+    "logradouro": "Rua Principal, s\/n  AGC Ramalho;"
 }

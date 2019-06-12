@@ -1,12 +1,12 @@
 {
-  "cep": "02956060",
-  "logradouro": "Rua São João Batista da Glória",
-  "bairro": "Vila Mirante",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Mirante;",
+    "cep": "02956060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua São João Batista da Glória;"
 }

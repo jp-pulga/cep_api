@@ -1,12 +1,13 @@
 {
-  "cep": "45585970",
-  "logradouro": "AC Itagibá Rua Dom Pedro II 47",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itagibá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45585970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itagibá"
+    },
+    "ibge": 2915205,
+    "logradouro": "Rua Dom Pedro II, 47  AC Itagibá;"
 }

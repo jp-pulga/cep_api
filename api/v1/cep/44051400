@@ -1,12 +1,12 @@
 {
-  "cep": "44051400",
-  "logradouro": "Rua Coronel José Pinto dos Santos de 500/501 ao fim",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "44051400",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Coronel José Pinto dos Santos - de 500\/501 ao fim;"
 }

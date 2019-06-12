@@ -1,12 +1,12 @@
 {
-  "cep": "45988347",
-  "logradouro": "Rua Itacaré",
-  "bairro": "Vila Feliz",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Feliz;",
+    "cep": "45988347",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Itacaré;"
 }

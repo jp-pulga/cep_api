@@ -1,12 +1,12 @@
 {
-  "cep": "39403211",
-  "logradouro": "Rua João Cordeiro Bastos",
-  "bairro": "Major Prates",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Major Prates;",
+    "cep": "39403211",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua João Cordeiro Bastos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "48903450",
-  "logradouro": "Praça Cordeiro de Miranda",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juazeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48903450",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Juazeiro"
+    },
+    "logradouro": "Praça Cordeiro de Miranda;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44775970",
-  "logradouro": "AC Filadélfia Praça Cleriston Andrade 81",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Filadélfia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44775970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Filadélfia"
+    },
+    "ibge": 2910859,
+    "logradouro": "Praça Cleriston Andrade, 81  AC Filadélfia;"
 }

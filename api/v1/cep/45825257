@@ -1,12 +1,12 @@
 {
-  "cep": "45825257",
-  "logradouro": "Rua Itapetinga",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vista Alegre;",
+    "cep": "45825257",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Itapetinga;"
 }

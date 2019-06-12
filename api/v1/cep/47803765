@@ -1,12 +1,12 @@
 {
-  "cep": "47803765",
-  "logradouro": "Rua Filadélfia",
-  "bairro": "Alphaville",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alphaville;",
+    "cep": "47803765",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Filadélfia;"
 }

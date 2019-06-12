@@ -1,12 +1,12 @@
 {
-  "cep": "47800527",
-  "logradouro": "Rua Gandu",
-  "bairro": "Rio Grande",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Grande;",
+    "cep": "47800527",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Gandu;"
 }

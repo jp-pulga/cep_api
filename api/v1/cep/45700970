@@ -1,12 +1,13 @@
 {
-  "cep": "45700970",
-  "logradouro": "AC Itapetinga Rua Marechal Deodoro da Fonseca s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapetinga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45700970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itapetinga"
+    },
+    "ibge": 2916401,
+    "logradouro": "Rua Marechal Deodoro da Fonseca, s\/n  AC Itapetinga;"
 }

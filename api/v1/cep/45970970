@@ -1,12 +1,13 @@
 {
-  "cep": "45970970",
-  "logradouro": "AC Itanhém Praça da Liberdade 150",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itanhém",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45970970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itanhém"
+    },
+    "ibge": 2916005,
+    "logradouro": "Praça da Liberdade, 150  AC Itanhém;"
 }

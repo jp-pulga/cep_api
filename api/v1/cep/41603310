@@ -1,12 +1,12 @@
 {
-  "cep": "41603310",
-  "logradouro": "Rua Ibitiara",
-  "bairro": "Praia do Flamengo",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Praia do Flamengo;",
+    "cep": "41603310",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Ibitiara;"
 }

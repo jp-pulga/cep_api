@@ -1,12 +1,13 @@
 {
-  "cep": "45658120",
-  "logradouro": "Avenida Vereador Amilton Ignácio de Castro",
-  "bairro": "Barra do Itaípe",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barra do Itaípe;",
+    "cep": "45658120",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Avenida Vereador Amilton Ignácio de Castro;"
 }

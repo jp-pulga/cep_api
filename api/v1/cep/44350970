@@ -1,12 +1,13 @@
 {
-  "cep": "44350970",
-  "logradouro": "AC Governador Mangabeira Rua Wilson Falcão s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Governador Mangabeira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44350970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Governador Mangabeira"
+    },
+    "ibge": 2911600,
+    "logradouro": "Rua Wilson Falcão, s\/n  AC Governador Mangabeira;"
 }

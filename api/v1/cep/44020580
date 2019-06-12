@@ -1,12 +1,12 @@
 {
-  "cep": "44020580",
-  "logradouro": "Rua Itacaré",
-  "bairro": "Baraúna",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Baraúna;",
+    "cep": "44020580",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Itacaré;"
 }

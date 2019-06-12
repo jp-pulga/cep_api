@@ -1,12 +1,12 @@
 {
-  "cep": "44067400",
-  "logradouro": "Praça Cruzeiro do Norte",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "44067400",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Praça Cruzeiro do Norte;"
 }

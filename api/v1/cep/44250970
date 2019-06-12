@@ -1,12 +1,13 @@
 {
-  "cep": "44250970",
-  "logradouro": "AC Coração de Maria Rua Anibal Amorim s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coração de Maria",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44250970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Coração de Maria"
+    },
+    "ibge": 2908903,
+    "logradouro": "Rua Anibal Amorim, 99  AC Coração de Maria;"
 }

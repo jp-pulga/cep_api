@@ -1,12 +1,12 @@
 {
-  "cep": "38302096",
-  "logradouro": "Rua Pedro Dias Barbosa",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "38302096",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Rua Pedro Dias Barbosa;"
 }

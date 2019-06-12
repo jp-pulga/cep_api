@@ -1,12 +1,13 @@
 {
-  "cep": "45602205",
-  "logradouro": "Travessa Joaquim Batista",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "45602205",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Travessa Joaquim Batista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39801014",
-  "logradouro": "Rua Jader Ferreira Barranco",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "39801014",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Jader Ferreira Barranco;"
 }

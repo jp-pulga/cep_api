@@ -1,12 +1,13 @@
 {
-  "cep": "45828054",
-  "logradouro": "Avenida Alcides Gobira Lacerda",
-  "bairro": "Pequi",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pequi;",
+    "cep": "45828054",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Alcides Gobira Lacerda;"
 }

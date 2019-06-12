@@ -1,12 +1,12 @@
 {
-  "cep": "41680072",
-  "logradouro": "Rua Itagibá",
-  "bairro": "Patamares",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Patamares;",
+    "cep": "41680072",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Itagibá;"
 }

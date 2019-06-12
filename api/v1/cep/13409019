@@ -1,12 +1,12 @@
 {
-  "cep": "13409019",
-  "logradouro": "Rua Itapevi (Res Prq Piracicaba Balbo)",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "13409019",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Itapevi (Res Prq Piracicaba - Balbo);"
 }

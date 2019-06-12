@@ -1,12 +1,13 @@
 {
-  "cep": "45605616",
-  "logradouro": "Rua BNH",
-  "bairro": "Banco Raso",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Banco Raso;",
+    "cep": "45605616",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua BNH;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "48930000",
-  "logradouro": "Curaçá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Curaçá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "48930000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Curaçá"
+    },
+    "ibge": 2909901
 }

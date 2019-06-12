@@ -1,12 +1,13 @@
 {
-  "cep": "45570970",
-  "logradouro": "AC Ipiaú Rua Juraci Magalhães 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipiaú",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45570970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ipiaú"
+    },
+    "ibge": 2913903,
+    "logradouro": "Rua Juraci Magalhães, 68  AC Ipiaú;"
 }

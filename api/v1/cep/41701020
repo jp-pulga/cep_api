@@ -1,12 +1,12 @@
 {
-  "cep": "41701020",
-  "logradouro": "Residencial Itaparica",
-  "bairro": "Alphaville I",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alphaville I;",
+    "cep": "41701020",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Residencial Itaparica;"
 }

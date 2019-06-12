@@ -1,12 +1,12 @@
 {
-  "cep": "18211030",
-  "logradouro": "Rua João Batista Pires Gavião",
-  "bairro": "Jardim Casa Grande",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Casa Grande;",
+    "cep": "18211030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua João Batista Pires Gavião;"
 }

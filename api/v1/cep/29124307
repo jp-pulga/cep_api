@@ -1,12 +1,12 @@
 {
-  "cep": "29124307",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Barramares",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barramares;",
+    "cep": "29124307",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

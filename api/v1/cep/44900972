@@ -1,12 +1,13 @@
 {
-  "cep": "44900972",
-  "logradouro": "ACC I Teotônio Marques Dourado Praça Teotônio Marques Dourado Filho 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Irecê",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44900972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Irecê"
+    },
+    "ibge": 2914604,
+    "logradouro": "Praça Teotônio Marques Dourado Filho, 11  ACCI Teotônio Marques Dourado;"
 }

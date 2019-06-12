@@ -1,12 +1,12 @@
 {
-  "cep": "11050251",
-  "logradouro": "Rua Barão de Paranapiacaba de 195/196 ao fim",
-  "bairro": "Encruzilhada",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Encruzilhada;",
+    "cep": "11050251",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Rua Barão de Paranapiacaba - de 195\/196 ao fim;"
 }

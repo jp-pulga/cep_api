@@ -1,12 +1,12 @@
 {
-  "cep": "41308061",
-  "logradouro": "Rua José Ramos Cordeiro",
-  "bairro": "Palestina",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Palestina;",
+    "cep": "41308061",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua José Ramos Cordeiro;"
 }

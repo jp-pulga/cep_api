@@ -1,12 +1,13 @@
 {
-  "cep": "44054048",
-  "logradouro": "Rua Bangu",
-  "bairro": "Parque Ipê",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Ipê;",
+    "cep": "44054048",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua Bangu;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45602647",
-  "logradouro": "Rua Bahia",
-  "bairro": "São Lourenço",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Lourenço;",
+    "cep": "45602647",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua Bahia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46980970",
-  "logradouro": "AC Iraquara Rua Marechal Castelo Branco s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iraquara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46980970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Iraquara"
+    },
+    "ibge": 2914406,
+    "logradouro": "Rua Marechal Castelo Branco, s\/n  AC Iraquara;"
 }

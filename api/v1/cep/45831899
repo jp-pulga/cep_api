@@ -1,12 +1,13 @@
 {
-  "cep": "45831899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Eunápolis",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Área Rural de Eunápolis;",
+    "cep": "45831899",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Área Rural;"
 }

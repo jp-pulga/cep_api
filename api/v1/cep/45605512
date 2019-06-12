@@ -1,12 +1,13 @@
 {
-  "cep": "45605512",
-  "logradouro": "Rua Bahia",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "45605512",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua Bahia;"
 }

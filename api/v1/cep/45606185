@@ -1,12 +1,13 @@
 {
-  "cep": "45606185",
-  "logradouro": "Rua João Batista",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "45606185",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua João Batista;"
 }

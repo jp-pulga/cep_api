@@ -1,12 +1,12 @@
 {
-  "cep": "45651316",
-  "logradouro": "Avenida Itabuna",
-  "bairro": "Malhado",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Malhado;",
+    "cep": "45651316",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Avenida Itabuna;"
 }

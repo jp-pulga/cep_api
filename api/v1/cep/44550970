@@ -1,12 +1,12 @@
 {
-  "cep": "44550970",
-  "logradouro": "AC São Felipe Rua Dom Macedo Costa 309",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Felipe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44550970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Felipe"
+    },
+    "logradouro": "Rua Dom Macedo Costa, 309  AC São Felipe;"
 }

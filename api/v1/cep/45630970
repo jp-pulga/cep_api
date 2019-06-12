@@ -1,12 +1,13 @@
 {
-  "cep": "45630970",
-  "logradouro": "AC Itajuípe Rua Coração de Jesus 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45630970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itajuípe"
+    },
+    "ibge": 2915502,
+    "logradouro": "Rua Coração de Jesus, 40  AC Itajuípe;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64029260",
-  "logradouro": "Rua Tecla Barreto Soares Cordeiro",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "64029260",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Tecla Barreto Soares Cordeiro;"
 }

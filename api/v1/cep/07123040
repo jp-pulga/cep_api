@@ -1,12 +1,12 @@
 {
-  "cep": "07123040",
-  "logradouro": "Rua Dom Basílio",
-  "bairro": "Jardim Paraventi",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paraventi;",
+    "cep": "07123040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Dom Basílio;"
 }

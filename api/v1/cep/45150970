@@ -1,12 +1,13 @@
 {
-  "cep": "45150970",
-  "logradouro": "AC Encruzilhada Rua Francisco Pascoal 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Encruzilhada",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45150970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Encruzilhada"
+    },
+    "ibge": 2910404,
+    "logradouro": "Rua Francisco Pascoal, 12  AC Encruzilhada;"
 }

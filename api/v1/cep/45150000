@@ -1,12 +1,11 @@
 {
-  "cep": "45150000",
-  "logradouro": "Encruzilhada",
-  "bairro": "",
-  "cidade": {
-    "nome": "Encruzilhada",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45150000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Encruzilhada"
+    },
+    "ibge": 2910404
 }

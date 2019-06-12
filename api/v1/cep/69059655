@@ -1,12 +1,12 @@
 {
-  "cep": "69059655",
-  "logradouro": "Rua Dom Basílio Pereira (Jd Fortaleza)",
-  "bairro": "Santa Etelvina",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santa Etelvina;",
+    "cep": "69059655",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Dom Basílio Pereira;"
 }

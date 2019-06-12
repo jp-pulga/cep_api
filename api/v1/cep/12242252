@@ -1,12 +1,12 @@
 {
-  "cep": "12242252",
-  "logradouro": "Rua Itacaré",
-  "bairro": "Condomínio Loteamento Reserva da Barra",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Condomínio Loteamento Reserva da Barra;",
+    "cep": "12242252",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Itacaré;"
 }

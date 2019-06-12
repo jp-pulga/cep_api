@@ -1,12 +1,12 @@
 {
-  "cep": "44570720",
-  "logradouro": "Rua Cidade de Conceição do Coité",
-  "bairro": "Maria Preta",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Maria Preta;",
+    "cep": "44570720",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "logradouro": "Rua Cidade de Conceição do Coité;"
 }

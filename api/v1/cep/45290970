@@ -1,12 +1,13 @@
 {
-  "cep": "45290970",
-  "logradouro": "AC Ibicuí Rua Gerson Batista França 4",
-  "bairro": "Tancredo Neves",
-  "cidade": {
-    "nome": "Ibicuí",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tancredo Neves;",
+    "cep": "45290970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibicuí"
+    },
+    "ibge": 2912301,
+    "logradouro": "Rua Gerson Batista França, 4  AC Ibicuí;"
 }

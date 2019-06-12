@@ -1,12 +1,13 @@
 {
-  "cep": "45602688",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "São Lourenço",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Lourenço;",
+    "cep": "45602688",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua Santa Bárbara;"
 }

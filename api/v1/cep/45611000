@@ -1,12 +1,12 @@
 {
-  "cep": "45611000",
-  "logradouro": "Avenida Ibicaraí",
-  "bairro": "Nova Itabuna",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Itabuna;",
+    "cep": "45611000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Avenida Ibicaraí;"
 }

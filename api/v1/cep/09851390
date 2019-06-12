@@ -1,12 +1,12 @@
 {
-  "cep": "09851390",
-  "logradouro": "Rua Barão de Cotegipe (Jd Continental)",
-  "bairro": "Alves Dias",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alves Dias;",
+    "cep": "09851390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Barão de Cotegipe (Jd Continental);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35501009",
-  "logradouro": "Travessa Bahia-Minas",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "35501009",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Travessa Bahia-Minas;"
 }

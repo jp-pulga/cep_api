@@ -1,12 +1,12 @@
 {
-  "cep": "29314003",
-  "logradouro": "Beco José Barbosa de Sá Filho",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "29314003",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Beco José Barbosa de Sá Filho;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44900971",
-  "logradouro": "ACC I Licínio Barreto Rua Licínio Barreto 165",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Irecê",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44900971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Irecê"
+    },
+    "ibge": 2914604,
+    "logradouro": "Rua Licínio Barreto, 165  ACCI Licínio Barreto;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48730970",
-  "logradouro": "AC Conceição do Coité Praça Doutor José Gonçalves 150",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Coité",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48730970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Conceição do Coité"
+    },
+    "ibge": 2908408,
+    "logradouro": "Praça Doutor José Gonçalves, 150  AC Conceição do Coité;"
 }

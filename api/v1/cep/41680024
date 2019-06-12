@@ -1,12 +1,12 @@
 {
-  "cep": "41680024",
-  "logradouro": "Avenida Ibirapitanga",
-  "bairro": "Patamares",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Patamares;",
+    "cep": "41680024",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Ibirapitanga;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "47950970",
-  "logradouro": "AC Cristópolis Avenida Major Claro 204",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cristópolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47950970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cristópolis"
+    },
+    "ibge": 2909703,
+    "logradouro": "Avenida Major Claro, 204  AC Cristópolis;"
 }

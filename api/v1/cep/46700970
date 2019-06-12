@@ -1,12 +1,13 @@
 {
-  "cep": "46700970",
-  "logradouro": "AC Ibitiara Praça da Bandeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibitiara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46700970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibitiara"
+    },
+    "ibge": 2913002,
+    "logradouro": "Praça da Bandeira, s\/n  AC Ibitiara;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "48903440",
-  "logradouro": "Rua Barão de Cotegipe",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juazeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48903440",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Juazeiro"
+    },
+    "logradouro": "Rua Barão de Cotegipe;"
 }

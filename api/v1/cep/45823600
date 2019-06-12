@@ -1,12 +1,13 @@
 {
-  "cep": "45823600",
-  "logradouro": "Rua André Pereira Baio",
-  "bairro": "Sapucaeira",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sapucaeira;",
+    "cep": "45823600",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Rua André Pereira Baio;"
 }

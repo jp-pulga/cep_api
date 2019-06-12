@@ -1,12 +1,13 @@
 {
-  "cep": "44380970",
-  "logradouro": "AC Cruz das Almas Rua Otens 31",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruz das Almas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44380970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cruz das Almas"
+    },
+    "ibge": 2909802,
+    "logradouro": "Rua Otens, 31  AC Cruz das Almas;"
 }

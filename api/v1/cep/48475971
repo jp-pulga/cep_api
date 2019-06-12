@@ -1,12 +1,13 @@
 {
-  "cep": "48475971",
-  "logradouro": "AGC Lagoa Redonda Rua José Carvalho dos Santos s/n",
-  "bairro": "Lagoa Redonda",
-  "cidade": {
-    "nome": "Itapicuru",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lagoa Redonda;",
+    "cep": "48475971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itapicuru"
+    },
+    "ibge": 2916500,
+    "logradouro": "Rua José Carvalho dos Santos s\/n  AGC Lagoa Redonda;"
 }

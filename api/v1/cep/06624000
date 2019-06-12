@@ -1,12 +1,12 @@
 {
-  "cep": "06624000",
-  "logradouro": "Estrada Estadual Barueri-Itapevi",
-  "bairro": "Jardim Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Jandira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nossa Senhora de Fátima;",
+    "cep": "06624000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jandira"
+    },
+    "logradouro": "Estrada Estadual Barueri-Itapevi;"
 }

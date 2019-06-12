@@ -1,12 +1,13 @@
 {
-  "cep": "45651319",
-  "logradouro": "Avenida Conselheiro Antônio Francisco Fernandes Badaró lado ímpar",
-  "bairro": "Malhado",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Malhado;",
+    "cep": "45651319",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Avenida Conselheiro Antônio Francisco Fernandes Badaró - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45830184",
-  "logradouro": "Avenida Artulino Ribeiro de 600/601 ao fim",
-  "bairro": "Dinah Borges",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Dinah Borges;",
+    "cep": "45830184",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Artulino Ribeiro - de 600\/601 ao fim;"
 }

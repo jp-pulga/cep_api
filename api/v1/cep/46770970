@@ -1,12 +1,13 @@
 {
-  "cep": "46770970",
-  "logradouro": "AC Iramaia Praça Feliciano Augusto de Souza 62",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iramaia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46770970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Iramaia"
+    },
+    "ibge": 2914307,
+    "logradouro": "Praça Feliciano Augusto de Souza, 62  AC Iramaia;"
 }

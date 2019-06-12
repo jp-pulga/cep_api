@@ -1,12 +1,12 @@
 {
-  "cep": "44053642",
-  "logradouro": "Caminho Conde",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "44053642",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Caminho Conde;"
 }

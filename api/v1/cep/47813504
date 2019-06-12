@@ -1,12 +1,12 @@
 {
-  "cep": "47813504",
-  "logradouro": "Rua Itapemirim",
-  "bairro": "Vila Amorim",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Amorim;",
+    "cep": "47813504",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Itapemirim;"
 }

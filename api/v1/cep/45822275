@@ -1,12 +1,13 @@
 {
-  "cep": "45822275",
-  "logradouro": "Rua São Bartolomeu de 1576/1577 ao fim",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "45822275",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Rua São Bartolomeu - de 1576\/1577 ao fim;"
 }

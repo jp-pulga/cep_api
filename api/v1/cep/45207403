@@ -1,12 +1,12 @@
 {
-  "cep": "45207403",
-  "logradouro": "Avenida Ipiaú",
-  "bairro": "Vila Rodoviária",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Rodoviária;",
+    "cep": "45207403",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Avenida Ipiaú;"
 }

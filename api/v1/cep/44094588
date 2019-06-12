@@ -1,12 +1,12 @@
 {
-  "cep": "44094588",
-  "logradouro": "Rua Conde do Arco",
-  "bairro": "35º BI",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "35º BI;",
+    "cep": "44094588",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Conde do Arco;"
 }

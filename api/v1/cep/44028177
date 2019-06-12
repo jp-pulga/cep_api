@@ -1,12 +1,12 @@
 {
-  "cep": "44028177",
-  "logradouro": "Rua Ipiaú",
-  "bairro": "Gabriela",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Gabriela;",
+    "cep": "44028177",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Ipiaú;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44650970",
-  "logradouro": "AC Gavião Rua Humberto de Campos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gavião",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44650970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Gavião"
+    },
+    "ibge": 2911253,
+    "logradouro": "Rua Humberto de Campos, s\/n  AC Gavião;"
 }

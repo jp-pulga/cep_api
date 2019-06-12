@@ -1,12 +1,12 @@
 {
-  "cep": "04205911",
-  "logradouro": "Condomínio Edifício Duque do Ipiranga Rua Cipriano Barata 3039",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "04205911",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Cipriano Barata, 3039  Condomínio Edifício Duque do Ipiranga;"
 }

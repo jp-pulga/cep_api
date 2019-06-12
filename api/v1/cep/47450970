@@ -1,12 +1,13 @@
 {
-  "cep": "47450970",
-  "logradouro": "AC Gentio do Ouro Rua Antônio Mariano s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gentio do Ouro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47450970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Gentio do Ouro"
+    },
+    "ibge": 2911303,
+    "logradouro": "Rua Antônio Mariano, s\/n  AC Gentio do Ouro;"
 }

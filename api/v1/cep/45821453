@@ -1,12 +1,13 @@
 {
-  "cep": "45821453",
-  "logradouro": "Avenida América",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "45821453",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida América;"
 }

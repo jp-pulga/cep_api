@@ -1,12 +1,12 @@
 {
-  "cep": "44033394",
-  "logradouro": "Travessa Conde de Irajá",
-  "bairro": "Campo Limpo",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Campo Limpo;",
+    "cep": "44033394",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Conde de Irajá;"
 }

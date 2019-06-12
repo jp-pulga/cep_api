@@ -1,12 +1,13 @@
 {
-  "cep": "45830610",
-  "logradouro": "Avenida Antônio Carlos Magalhães",
-  "bairro": "Motor",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Motor;",
+    "cep": "45830610",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Antônio Carlos Magalhães;"
 }

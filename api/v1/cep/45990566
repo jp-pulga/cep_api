@@ -1,12 +1,12 @@
 {
-  "cep": "45990566",
-  "logradouro": "Rua Dias D'Ávila",
-  "bairro": "Vila Caraípe",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Caraípe;",
+    "cep": "45990566",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Dias D'Ávila;"
 }

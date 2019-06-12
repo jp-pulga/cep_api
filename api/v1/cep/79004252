@@ -1,12 +1,12 @@
 {
-  "cep": "79004252",
-  "logradouro": "Rua Bariri",
-  "bairro": "Vila Glória",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Glória;",
+    "cep": "79004252",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Bariri;"
 }

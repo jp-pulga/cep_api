@@ -1,12 +1,12 @@
 {
-  "cep": "41680054",
-  "logradouro": "Rua Dom Basílio",
-  "bairro": "Patamares",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Patamares;",
+    "cep": "41680054",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Dom Basílio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44091348",
-  "logradouro": "Rua Conceição da Barra",
-  "bairro": "Tomba",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tomba;",
+    "cep": "44091348",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Conceição da Barra;"
 }

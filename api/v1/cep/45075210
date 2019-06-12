@@ -1,12 +1,12 @@
 {
-  "cep": "45075210",
-  "logradouro": "Avenida Guanambi de 2997/2998 ao fim",
-  "bairro": "Ibirapuera",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ibirapuera;",
+    "cep": "45075210",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Guanambi - de 2997\/2998 ao fim;"
 }

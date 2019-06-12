@@ -1,12 +1,13 @@
 {
-  "cep": "45608030",
-  "logradouro": "Rua Fernando Teixeira Barreto",
-  "bairro": "Sarinha Alcântara",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sarinha Alcântara;",
+    "cep": "45608030",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua Fernando Teixeira Barreto;"
 }

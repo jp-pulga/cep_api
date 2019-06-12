@@ -1,12 +1,11 @@
 {
-  "cep": "44540000",
-  "logradouro": "Conceição do Almeida",
-  "bairro": "",
-  "cidade": {
-    "nome": "Conceição do Almeida",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44540000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Conceição do Almeida"
+    },
+    "ibge": 2908309
 }

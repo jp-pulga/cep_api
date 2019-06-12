@@ -1,12 +1,12 @@
 {
-  "cep": "45611532",
-  "logradouro": "Rua Floresta Azul",
-  "bairro": "Jorge Amado",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jorge Amado;",
+    "cep": "45611532",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Floresta Azul;"
 }

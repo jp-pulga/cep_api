@@ -1,12 +1,12 @@
 {
-  "cep": "48611120",
-  "logradouro": "Rua Ibotirama",
-  "bairro": "Tancredo Neves III",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tancredo Neves III;",
+    "cep": "48611120",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Ibotirama;"
 }

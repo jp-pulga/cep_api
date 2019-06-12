@@ -1,12 +1,13 @@
 {
-  "cep": "45850971",
-  "logradouro": "AGC União Baiana Rua Ruy Barbosa 202",
-  "bairro": "União Baiana",
-  "cidade": {
-    "nome": "Itagimirim",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "União Baiana;",
+    "cep": "45850971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itagimirim"
+    },
+    "ibge": 2915304,
+    "logradouro": "Rua Ruy Barbosa, 202  AGC União Baiana;"
 }

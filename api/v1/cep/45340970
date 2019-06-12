@@ -1,12 +1,13 @@
 {
-  "cep": "45340970",
-  "logradouro": "AC Itaquara Avenida Liberdade 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaquara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45340970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itaquara"
+    },
+    "ibge": 2916708,
+    "logradouro": "Avenida Liberdade, 10  AC Itaquara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45940970",
-  "logradouro": "AC Ibirapuã Praça Lourival Pereira Barros s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibirapuã",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45940970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibirapuã"
+    },
+    "ibge": 2912806,
+    "logradouro": "Praça Lourival Pereira Barros, s\/n  AC Ibirapuã;"
 }

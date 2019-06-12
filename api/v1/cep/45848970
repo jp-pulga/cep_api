@@ -1,12 +1,13 @@
 {
-  "cep": "45848970",
-  "logradouro": "AC Itabela Avenida Pedro Álvares Cabral 284",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itabela",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45848970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabela"
+    },
+    "ibge": 2914653,
+    "logradouro": "Avenida Pedro Álvares Cabral, 284  AC Itabela;"
 }

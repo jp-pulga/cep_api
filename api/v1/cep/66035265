@@ -1,12 +1,12 @@
 {
-  "cep": "66035265",
-  "logradouro": "Passagem Euclides da Cunha",
-  "bairro": "Batista Campos",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Batista Campos;",
+    "cep": "66035265",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Euclides da Cunha;"
 }

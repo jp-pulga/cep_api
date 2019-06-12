@@ -1,12 +1,13 @@
 {
-  "cep": "44066598",
-  "logradouro": "Rua Baixa Fria",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "44066598",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua Baixa Fria;"
 }

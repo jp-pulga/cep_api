@@ -1,12 +1,12 @@
 {
-  "cep": "29124024",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Cidade da Barra",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cidade da Barra;",
+    "cep": "29124024",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

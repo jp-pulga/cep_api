@@ -1,12 +1,12 @@
 {
-  "cep": "45992396",
-  "logradouro": "Rua Itiruçu",
-  "bairro": "Liberdade II",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Liberdade II;",
+    "cep": "45992396",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Itiruçu;"
 }

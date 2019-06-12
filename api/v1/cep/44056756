@@ -1,12 +1,12 @@
 {
-  "cep": "44056756",
-  "logradouro": "Rua Ibititá",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "44056756",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Ibititá;"
 }

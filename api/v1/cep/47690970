@@ -1,12 +1,13 @@
 {
-  "cep": "47690970",
-  "logradouro": "AC Coribe Rua Santa Cruz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coribe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47690970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Coribe"
+    },
+    "ibge": 2909109,
+    "logradouro": "Rua Santa Cruz, s\/n  AC Coribe;"
 }

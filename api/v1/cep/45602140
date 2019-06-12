@@ -1,12 +1,13 @@
 {
-  "cep": "45602140",
-  "logradouro": "Rua Batista",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "45602140",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua Batista;"
 }

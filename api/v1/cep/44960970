@@ -1,12 +1,13 @@
 {
-  "cep": "44960970",
-  "logradouro": "AC Ibititá Praça do Comércio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibititá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44960970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibititá"
+    },
+    "ibge": 2913101,
+    "logradouro": "Praça do Comércio, s\/n  AC Ibititá;"
 }

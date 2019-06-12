@@ -1,12 +1,12 @@
 {
-  "cep": "41502385",
-  "logradouro": "Rua Ipupiara",
-  "bairro": "Jardim das Margaridas",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim das Margaridas;",
+    "cep": "41502385",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Ipupiara;"
 }

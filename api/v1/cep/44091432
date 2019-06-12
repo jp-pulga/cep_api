@@ -1,12 +1,12 @@
 {
-  "cep": "44091432",
-  "logradouro": "Rua Contendas do Sincorá",
-  "bairro": "Tomba",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tomba;",
+    "cep": "44091432",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Contendas do Sincorá;"
 }

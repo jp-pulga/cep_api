@@ -1,12 +1,13 @@
 {
-  "cep": "44460971",
-  "logradouro": "AGC Amoreiras Rua Salvino s/n",
-  "bairro": "Amoreira",
-  "cidade": {
-    "nome": "Itaparica",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Amoreira;",
+    "cep": "44460971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itaparica"
+    },
+    "ibge": 2916104,
+    "logradouro": "Rua Salvino, s\/n  AGC Amoreiras;"
 }

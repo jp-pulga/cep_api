@@ -1,12 +1,13 @@
 {
-  "cep": "44001666",
-  "logradouro": "Rua Cristóvão Barreto até 594 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44001666",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua Cristóvão Barreto - até 594 - lado par;"
 }

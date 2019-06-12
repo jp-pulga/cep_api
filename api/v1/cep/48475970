@@ -1,12 +1,13 @@
 {
-  "cep": "48475970",
-  "logradouro": "AC Itapicuru Rua Pedro Barreto do Rosário 364",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapicuru",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48475970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itapicuru"
+    },
+    "ibge": 2916500,
+    "logradouro": "Rua Pedro Barreto do Rosário, 364  AC Itapicuru;"
 }

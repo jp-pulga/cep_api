@@ -1,12 +1,12 @@
 {
-  "cep": "40810110",
-  "logradouro": "Rua Itaparica",
-  "bairro": "Paripe",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Paripe;",
+    "cep": "40810110",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Itaparica;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45350970",
-  "logradouro": "AC Itiruçu Praça Adelmário Meira 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itiruçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45350970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiruçu"
+    },
+    "ibge": 2916906,
+    "logradouro": "Praça Adelmário Meira, 11  AC Itiruçu;"
 }

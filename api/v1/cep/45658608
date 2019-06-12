@@ -1,12 +1,13 @@
 {
-  "cep": "45658608",
-  "logradouro": "Rua Augusto Fernandes",
-  "bairro": "Basílio",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Basílio;",
+    "cep": "45658608",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Rua Augusto Fernandes;"
 }

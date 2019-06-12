@@ -1,12 +1,12 @@
 {
-  "cep": "32670172",
-  "logradouro": "Rua Fábio Bandeira Figueiredo",
-  "bairro": "Filadélfia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Filadélfia;",
+    "cep": "32670172",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Fábio Bandeira Figueiredo;"
 }

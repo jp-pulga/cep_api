@@ -1,12 +1,12 @@
 {
-  "cep": "41350480",
-  "logradouro": "3ª Travessa Manoel Cordeiro",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "41350480",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "3ª Travessa Manoel Cordeiro;"
 }

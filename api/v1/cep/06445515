@@ -1,12 +1,12 @@
 {
-  "cep": "06445515",
-  "logradouro": "Rua Duque de Barcelos",
-  "bairro": "Vila do Conde",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila do Conde;",
+    "cep": "06445515",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Rua Duque de Barcelos;"
 }

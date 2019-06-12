@@ -1,12 +1,13 @@
 {
-  "cep": "48180970",
-  "logradouro": "AC Entre Rios Rua Bom Jesus 49",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Entre Rios",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48180970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Entre Rios"
+    },
+    "ibge": 2910503,
+    "logradouro": "Rua Bom Jesus, 49  AC Entre Rios;"
 }

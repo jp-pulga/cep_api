@@ -1,12 +1,13 @@
 {
-  "cep": "48490972",
-  "logradouro": "AGC Colônia Roberto Santos Travessa Primeiro de Maio s/n",
-  "bairro": "Colônia Roberto Santos",
-  "cidade": {
-    "nome": "Inhambupe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Colônia Roberto Santos;",
+    "cep": "48490972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Inhambupe"
+    },
+    "ibge": 2913705,
+    "logradouro": "Travessa Primeiro de Maio, s\/n  AGC Colônia Roberto Santos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45830726",
-  "logradouro": "Avenida Antártida lado ímpar",
-  "bairro": "Niterói",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Niterói;",
+    "cep": "45830726",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Antártida - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45720970",
-  "logradouro": "AC Firmino Alves Praça Pompílio Céo 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Firmino Alves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45720970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Firmino Alves"
+    },
+    "ibge": 2910909,
+    "logradouro": "Praça Pompílio Céo, 15  AC Firmino Alves;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45285970",
-  "logradouro": "AGC Iguaibi Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iguaibi (Iguaí)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Iguaibi\/Iguaibi",
+    "cep": "45285970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Iguaí"
+    },
+    "ibge": 2913507,
+    "logradouro": "Rua Principal, s\/n  AGC Iguaibi;"
 }

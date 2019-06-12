@@ -1,12 +1,13 @@
 {
-  "cep": "44001650",
-  "logradouro": "Rua Barão de Cotegipe de 314 a 556 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44001650",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Rua Barão de Cotegipe - de 314 a 556 - lado par;"
 }

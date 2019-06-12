@@ -1,12 +1,13 @@
 {
-  "cep": "45653340",
-  "logradouro": "Praça Ruy Barbosa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45653340",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Praça Ruy Barbosa;"
 }

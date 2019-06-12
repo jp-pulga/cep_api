@@ -1,12 +1,12 @@
 {
-  "cep": "45658850",
-  "logradouro": "Estrada Antiga Ilhéus-Itabuna",
-  "bairro": "Vila Nazaré",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Nazaré;",
+    "cep": "45658850",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Estrada Antiga Ilhéus-Itabuna;"
 }

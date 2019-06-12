@@ -1,12 +1,12 @@
 {
-  "cep": "02846160",
-  "logradouro": "Rua Muniz Barreto",
-  "bairro": "Vila Itaberaba",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Itaberaba;",
+    "cep": "02846160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Muniz Barreto;"
 }

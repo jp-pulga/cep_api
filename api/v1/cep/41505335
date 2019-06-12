@@ -1,12 +1,12 @@
 {
-  "cep": "41505335",
-  "logradouro": "Rua Ibotirama",
-  "bairro": "Cassange",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cassange;",
+    "cep": "41505335",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Ibotirama;"
 }

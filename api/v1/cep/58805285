@@ -1,12 +1,12 @@
 {
-  "cep": "58805285",
-  "logradouro": "Rua Maria de Fátima Barbosa Gomes",
-  "bairro": "Jardim Sorrilândia II",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Sorrilândia II;",
+    "cep": "58805285",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Maria de Fátima Barbosa Gomes;"
 }

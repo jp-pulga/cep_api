@@ -1,12 +1,12 @@
 {
-  "cep": "02737020",
-  "logradouro": "Rua Pedro Barbosa",
-  "bairro": "Itaberaba",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Itaberaba;",
+    "cep": "02737020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pedro Barbosa;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45658616",
-  "logradouro": "Alto Luiz Gama",
-  "bairro": "Basílio",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Basílio;",
+    "cep": "45658616",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Alto Luiz Gama;"
 }

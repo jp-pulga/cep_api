@@ -1,12 +1,13 @@
 {
-  "cep": "45590971",
-  "logradouro": "AGC Idelfonso Maroto Rua Central s/n",
-  "bairro": "Idelfonso Maroto",
-  "cidade": {
-    "nome": "Dário Meira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Idelfonso Maroto;",
+    "cep": "45590971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Dário Meira"
+    },
+    "ibge": 2910008,
+    "logradouro": "Rua Central, s\/n  AGC Idelfonso Maroto;"
 }

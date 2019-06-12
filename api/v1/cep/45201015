@@ -1,12 +1,12 @@
 {
-  "cep": "45201015",
-  "logradouro": "Rua Itiruçu",
-  "bairro": "Joaquim Romão",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Joaquim Romão;",
+    "cep": "45201015",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Itiruçu;"
 }

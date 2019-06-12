@@ -1,12 +1,13 @@
 {
-  "cep": "45820070",
-  "logradouro": "Praça da Bandeira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45820070",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Praça da Bandeira;"
 }

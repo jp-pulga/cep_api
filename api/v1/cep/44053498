@@ -1,12 +1,13 @@
 {
-  "cep": "44053498",
-  "logradouro": "Caminho Conceição Lobo Barreto",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "44053498",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "ibge": 2910800,
+    "logradouro": "Caminho Conceição Lobo Barreto;"
 }

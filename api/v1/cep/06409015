@@ -1,12 +1,12 @@
 {
-  "cep": "06409015",
-  "logradouro": "Travessa Iaçu",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "06409015",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Travessa Iaçu;"
 }

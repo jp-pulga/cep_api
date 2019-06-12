@@ -1,12 +1,13 @@
 {
-  "cep": "44960971",
-  "logradouro": "AGC Feira Nova Praça Tertuliano Marques de Almeida s/n",
-  "bairro": "Feira Nova",
-  "cidade": {
-    "nome": "Ibititá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Feira Nova;",
+    "cep": "44960971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibititá"
+    },
+    "ibge": 2913101,
+    "logradouro": "Praça Tertuliano Marques de Almeida, s\/n  AGC Feira Nova;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58570970",
-  "logradouro": "AC São José dos Cordeiros Rua Batista Cordeiro 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José dos Cordeiros",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58570970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José dos Cordeiros"
+    },
+    "logradouro": "Rua Batista Cordeiro, 34  AC São José dos Cordeiros;"
 }

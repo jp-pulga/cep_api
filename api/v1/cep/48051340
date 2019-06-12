@@ -1,12 +1,12 @@
 {
-  "cep": "48051340",
-  "logradouro": "Rua Itapicuru",
-  "bairro": "Dois de Julho",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Dois de Julho;",
+    "cep": "48051340",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Itapicuru;"
 }

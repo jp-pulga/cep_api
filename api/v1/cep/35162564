@@ -1,12 +1,12 @@
 {
-  "cep": "35162564",
-  "logradouro": "Rua Barão de Cotegipe",
-  "bairro": "Cidade Nobre",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nobre;",
+    "cep": "35162564",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Barão de Cotegipe;"
 }

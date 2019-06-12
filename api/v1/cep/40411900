@@ -1,12 +1,12 @@
 {
-  "cep": "40411900",
-  "logradouro": "Edifício Serravalle Rua Barão de Cotegipe 36",
-  "bairro": "Calçada",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Calçada;",
+    "cep": "40411900",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Barão de Cotegipe, 36  Edifício Serravalle;"
 }

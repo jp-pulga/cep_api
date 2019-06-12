@@ -1,12 +1,12 @@
 {
-  "cep": "45605198",
-  "logradouro": "Rua Godofredo de Almeida",
-  "bairro": "Nossa Senhora da Conceição",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora da Conceição;",
+    "cep": "45605198",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Godofredo de Almeida;"
 }

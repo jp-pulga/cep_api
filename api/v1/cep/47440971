@@ -1,12 +1,13 @@
 {
-  "cep": "47440971",
-  "logradouro": "AGC Itaguaçu da Bahia Rua Dois de Julho 159",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaguaçu da Bahia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47440971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itaguaçu da Bahia"
+    },
+    "ibge": 2915353,
+    "logradouro": "Rua Dois de Julho, 159  AGC Itaguaçu da Bahia;"
 }

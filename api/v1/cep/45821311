@@ -1,12 +1,13 @@
 {
-  "cep": "45821311",
-  "logradouro": "Alameda YZ",
-  "bairro": "Antares",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Antares;",
+    "cep": "45821311",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Alameda YZ;"
 }

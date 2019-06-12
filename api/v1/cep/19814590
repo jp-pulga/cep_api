@@ -1,12 +1,12 @@
 {
-  "cep": "19814590",
-  "logradouro": "Rua Doutor Heitor Bastos Cordeiro",
-  "bairro": "Jardim Europa",
-  "cidade": {
-    "nome": "Assis",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Europa;",
+    "cep": "19814590",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Assis"
+    },
+    "logradouro": "Rua Doutor Heitor Bastos Cordeiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41152080",
-  "logradouro": "Rua Ibicaraí",
-  "bairro": "Resgate",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Resgate;",
+    "cep": "41152080",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Ibicaraí;"
 }

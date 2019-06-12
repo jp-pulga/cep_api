@@ -1,12 +1,12 @@
 {
-  "cep": "45989401",
-  "logradouro": "Rua Gandu",
-  "bairro": "Nanuque",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nanuque;",
+    "cep": "45989401",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Gandu;"
 }

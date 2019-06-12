@@ -1,12 +1,13 @@
 {
-  "cep": "44900974",
-  "logradouro": "AGC Conquista Rua da Igreja s/n",
-  "bairro": "Conquista",
-  "cidade": {
-    "nome": "Irecê",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conquista;",
+    "cep": "44900974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Irecê"
+    },
+    "ibge": 2914604,
+    "logradouro": "Rua da Igreja, s\/n  AGC Conquista;"
 }

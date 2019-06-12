@@ -1,12 +1,13 @@
 {
-  "cep": "46430971",
-  "logradouro": "AGC Morrinhos Rua do Comércio s/n",
-  "bairro": "Morrinhos",
-  "cidade": {
-    "nome": "Guanambi",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Morrinhos;",
+    "cep": "46430971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Guanambi"
+    },
+    "ibge": 2911709,
+    "logradouro": "Rua do Comércio, s\/n  AGC Morrinhos;"
 }

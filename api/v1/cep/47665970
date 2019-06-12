@@ -1,12 +1,12 @@
 {
-  "cep": "47665970",
-  "logradouro": "AC São Félix do Coribe Avenida Ernesto Geisel 370",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Félix do Coribe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47665970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Félix do Coribe"
+    },
+    "logradouro": "Avenida Ernesto Geisel, 370  AC São Félix do Coribe;"
 }

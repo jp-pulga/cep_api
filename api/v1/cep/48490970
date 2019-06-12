@@ -1,12 +1,13 @@
 {
-  "cep": "48490970",
-  "logradouro": "AC Inhambupe Rua João da Silva Nery 410",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Inhambupe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48490970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Inhambupe"
+    },
+    "ibge": 2913705,
+    "logradouro": "Rua João da Silva Nery, 410  AC Inhambupe;"
 }

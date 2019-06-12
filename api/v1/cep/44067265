@@ -1,12 +1,12 @@
 {
-  "cep": "44067265",
-  "logradouro": "Avenida Antônio Sérgio Carneiro",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "44067265",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Antônio Sérgio Carneiro;"
 }

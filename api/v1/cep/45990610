@@ -1,12 +1,12 @@
 {
-  "cep": "45990610",
-  "logradouro": "Rua Itaparica",
-  "bairro": "Jardim Planalto",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Planalto;",
+    "cep": "45990610",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Itaparica;"
 }

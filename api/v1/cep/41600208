@@ -1,12 +1,12 @@
 {
-  "cep": "41600208",
-  "logradouro": "Rua Clóvis Ibitiara",
-  "bairro": "Stella Maris",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Stella Maris;",
+    "cep": "41600208",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Clóvis Ibitiara;"
 }

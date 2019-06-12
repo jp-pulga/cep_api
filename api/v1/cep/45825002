@@ -1,12 +1,13 @@
 {
-  "cep": "45825002",
-  "logradouro": "Avenida Alcides Lacerda",
-  "bairro": "Alecrim",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alecrim;",
+    "cep": "45825002",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Alcides Lacerda;"
 }

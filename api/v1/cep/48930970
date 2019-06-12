@@ -1,12 +1,13 @@
 {
-  "cep": "48930970",
-  "logradouro": "AC Curaçá Rua Salvador Pereira Lima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curaçá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48930970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Curaçá"
+    },
+    "ibge": 2909901,
+    "logradouro": "Rua Salvador Pereira Lima, s\/n  AC Curaçá;"
 }

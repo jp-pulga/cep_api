@@ -1,12 +1,13 @@
 {
-  "cep": "45855970",
-  "logradouro": "AC Itapebi Rua Valfrides Santana Silva s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapebi",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45855970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itapebi"
+    },
+    "ibge": 2916302,
+    "logradouro": "Rua Valfrides Santana Silva, s\/n  AC Itapebi;"
 }

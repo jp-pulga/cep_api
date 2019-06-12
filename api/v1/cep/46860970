@@ -1,12 +1,13 @@
 {
-  "cep": "46860970",
-  "logradouro": "AC Iaçu Rua Rui Barbosa 294",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46860970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Iaçu"
+    },
+    "ibge": 2911907,
+    "logradouro": "Rua Rui Barbosa, 294  AC Iaçu;"
 }

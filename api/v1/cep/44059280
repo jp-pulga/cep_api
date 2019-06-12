@@ -1,12 +1,12 @@
 {
-  "cep": "44059280",
-  "logradouro": "Rua Iraquara",
-  "bairro": "Papagaio",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Papagaio;",
+    "cep": "44059280",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Iraquara;"
 }

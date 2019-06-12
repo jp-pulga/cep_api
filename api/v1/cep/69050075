@@ -1,12 +1,12 @@
 {
-  "cep": "69050075",
-  "logradouro": "Travessa Ipiranga (Vl Bafururu)",
-  "bairro": "Chapada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Chapada;",
+    "cep": "69050075",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Ipiranga (Vl Bafururu);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32670248",
-  "logradouro": "Avenida Bandeirantes de 200 a 648 - lado par",
-  "bairro": "Filadélfia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Filadélfia;",
+    "cep": "32670248",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Avenida Bandeirantes - de 200 a 648 - lado par;"
 }

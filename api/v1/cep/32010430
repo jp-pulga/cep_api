@@ -1,12 +1,12 @@
 {
-  "cep": "32010430",
-  "logradouro": "Rua Barão de Cotegipe",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "32010430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Barão de Cotegipe;"
 }

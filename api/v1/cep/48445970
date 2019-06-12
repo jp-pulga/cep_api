@@ -1,12 +1,13 @@
 {
-  "cep": "48445970",
-  "logradouro": "AC Heliópolis Praça Ananias Barbosa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Heliópolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48445970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Heliópolis"
+    },
+    "ibge": 2911857,
+    "logradouro": "Praça Ananias Barbosa, s\/n  AC Heliópolis;"
 }

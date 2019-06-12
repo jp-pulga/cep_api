@@ -1,12 +1,12 @@
 {
-  "cep": "41308405",
-  "logradouro": "1ª Travessa José Ramos Cordeiro",
-  "bairro": "Palestina",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Palestina;",
+    "cep": "41308405",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "1ª Travessa José Ramos Cordeiro;"
 }

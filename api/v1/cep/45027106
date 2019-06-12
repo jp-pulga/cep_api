@@ -1,12 +1,12 @@
 {
-  "cep": "45027106",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "45027106",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

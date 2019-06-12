@@ -1,12 +1,12 @@
 {
-  "cep": "41152130",
-  "logradouro": "Rua Condeúba",
-  "bairro": "Resgate",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Resgate;",
+    "cep": "41152130",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Condeúba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44540970",
-  "logradouro": "AC Conceição do Almeida Praça Doutor Edgard Tupinambá s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Almeida",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44540970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Conceição do Almeida"
+    },
+    "ibge": 2908309,
+    "logradouro": "Praça Doutor Edgard Tupinambá, s\/n  AC Conceição do Almeida;"
 }

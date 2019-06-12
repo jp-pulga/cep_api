@@ -1,12 +1,13 @@
 {
-  "cep": "45830804",
-  "logradouro": "Rua Lídio Barreto",
-  "bairro": "Encanto das Águas",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Encanto das Águas;",
+    "cep": "45830804",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Rua Lídio Barreto;"
 }

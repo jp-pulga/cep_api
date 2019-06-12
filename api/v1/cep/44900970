@@ -1,12 +1,13 @@
 {
-  "cep": "44900970",
-  "logradouro": "AC Irecê Rua Coronel Terêncio Dourado s/n",
-  "bairro": "Morada do Sol",
-  "cidade": {
-    "nome": "Irecê",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Morada do Sol;",
+    "cep": "44900970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Irecê"
+    },
+    "ibge": 2914604,
+    "logradouro": "Rua Coronel Terêncio Dourado, s\/n  AC Irecê;"
 }

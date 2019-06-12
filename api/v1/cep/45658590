@@ -1,12 +1,12 @@
 {
-  "cep": "45658590",
-  "logradouro": "Rua Nossa Senhora de Fátima",
-  "bairro": "Basílio",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Basílio;",
+    "cep": "45658590",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Nossa Senhora de Fátima;"
 }

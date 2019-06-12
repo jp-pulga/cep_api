@@ -1,12 +1,12 @@
 {
-  "cep": "45990033",
-  "logradouro": "Rua Itanhém",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "45990033",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Itanhém;"
 }

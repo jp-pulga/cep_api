@@ -1,12 +1,12 @@
 {
-  "cep": "08559400",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Vila Bandeirantes",
-  "cidade": {
-    "nome": "Poá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Bandeirantes;",
+    "cep": "08559400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Poá"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

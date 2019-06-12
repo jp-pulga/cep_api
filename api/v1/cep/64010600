@@ -1,12 +1,12 @@
 {
-  "cep": "64010600",
-  "logradouro": "Rua Professor Barreto Cordeiro",
-  "bairro": "Mocambinho",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Mocambinho;",
+    "cep": "64010600",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professor Barreto Cordeiro;"
 }

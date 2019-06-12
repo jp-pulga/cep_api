@@ -1,12 +1,13 @@
 {
-  "cep": "45700972",
-  "logradouro": "ACC I Octávio Camões Avenida Flamengo 50",
-  "bairro": "Octavio Camões",
-  "cidade": {
-    "nome": "Itapetinga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Octavio Camões;",
+    "cep": "45700972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itapetinga"
+    },
+    "ibge": 2916401,
+    "logradouro": "Avenida Flamengo, 50  ACCI Octávio Camões;"
 }

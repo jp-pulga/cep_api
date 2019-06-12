@@ -1,12 +1,11 @@
 {
-  "cep": "45280000",
-  "logradouro": "Iguaí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Iguaí",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45280000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Iguaí"
+    },
+    "ibge": 2913507
 }

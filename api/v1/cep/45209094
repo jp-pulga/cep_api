@@ -1,12 +1,12 @@
 {
-  "cep": "45209094",
-  "logradouro": "Avenida Ipiaú",
-  "bairro": "Tropical",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tropical;",
+    "cep": "45209094",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Avenida Ipiaú;"
 }

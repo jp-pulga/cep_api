@@ -1,12 +1,12 @@
 {
-  "cep": "29315752",
-  "logradouro": "Rua Antonio Francisco de Barros",
-  "bairro": "Jardim Itapemirim",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Itapemirim;",
+    "cep": "29315752",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Antonio Francisco de Barros;"
 }

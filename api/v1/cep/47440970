@@ -1,12 +1,13 @@
 {
-  "cep": "47440970",
-  "logradouro": "AC Itaguaçu da Bahia Rua Doutor Renan Braga s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaguaçu da Bahia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47440970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itaguaçu da Bahia"
+    },
+    "ibge": 2915353,
+    "logradouro": "Rua Doutor Renan Braga, s\/n  AC Itaguaçu da Bahia;"
 }

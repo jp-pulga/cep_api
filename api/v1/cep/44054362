@@ -1,12 +1,12 @@
 {
-  "cep": "44054362",
-  "logradouro": "Rua Gentio do Ouro",
-  "bairro": "Parque Ipê",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Ipê;",
+    "cep": "44054362",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Gentio do Ouro;"
 }

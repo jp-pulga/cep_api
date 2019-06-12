@@ -1,12 +1,12 @@
 {
-  "cep": "47808090",
-  "logradouro": "Rua Ibititá lado ímpar",
-  "bairro": "Antonio Geraldo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Antonio Geraldo;",
+    "cep": "47808090",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Ibititá - lado ímpar;"
 }

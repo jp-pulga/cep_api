@@ -1,12 +1,13 @@
 {
-  "cep": "44254970",
-  "logradouro": "AGC Retiro Rua Padre Caetano s/n",
-  "bairro": "Retiro",
-  "cidade": {
-    "nome": "Coração de Maria",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Retiro;",
+    "cep": "44254970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Coração de Maria"
+    },
+    "ibge": 2908903,
+    "logradouro": "Rua Padre Caetano, s\/n  AGC Retiro;"
 }

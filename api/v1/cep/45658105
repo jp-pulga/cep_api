@@ -1,12 +1,13 @@
 {
-  "cep": "45658105",
-  "logradouro": "Rua da Costa",
-  "bairro": "Barra do Itaípe",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barra do Itaípe;",
+    "cep": "45658105",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Rua da Costa;"
 }

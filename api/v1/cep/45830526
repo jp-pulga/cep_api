@@ -1,12 +1,13 @@
 {
-  "cep": "45830526",
-  "logradouro": "Avenida Antártida lado par",
-  "bairro": "Ivan Moura",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ivan Moura;",
+    "cep": "45830526",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Antártida - lado par;"
 }

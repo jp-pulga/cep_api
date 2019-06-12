@@ -1,12 +1,13 @@
 {
-  "cep": "45654510",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Pontal",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pontal;",
+    "cep": "45654510",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Rua Barão do Rio Branco;"
 }

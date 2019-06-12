@@ -1,12 +1,13 @@
 {
-  "cep": "45840973",
-  "logradouro": "AGC São João do Sul Rua Guaratinga s/n",
-  "bairro": "São João do Sul",
-  "cidade": {
-    "nome": "Guaratinga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São João do Sul;",
+    "cep": "45840973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Guaratinga"
+    },
+    "ibge": 2911808,
+    "logradouro": "Rua Guaratinga, s\/n  AGC São João do Sul;"
 }

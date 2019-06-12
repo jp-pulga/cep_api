@@ -1,12 +1,12 @@
 {
-  "cep": "13457063",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Jardim Santa Rita de Cássia",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Rita de Cássia;",
+    "cep": "13457063",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

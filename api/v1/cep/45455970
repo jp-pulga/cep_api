@@ -1,12 +1,13 @@
 {
-  "cep": "45455970",
-  "logradouro": "AC Itamari Rua Donino Rocha Galvão 138",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itamari",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45455970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itamari"
+    },
+    "ibge": 2915700,
+    "logradouro": "Rua Donino Rocha Galvão, 138  AC Itamari;"
 }

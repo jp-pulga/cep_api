@@ -1,12 +1,13 @@
 {
-  "cep": "44245970",
-  "logradouro": "AC Conceição do Jacuípe Rua Manoel Teixeira de Freitas 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Jacuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44245970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Conceição do Jacuípe"
+    },
+    "ibge": 2908507,
+    "logradouro": "Rua Manoel Teixeira de Freitas, 29  AC Conceição do Jacuípe;"
 }

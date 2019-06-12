@@ -1,12 +1,12 @@
 {
-  "cep": "29313360",
-  "logradouro": "Rua Abelardo Barbosa",
-  "bairro": "Coramara",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Coramara;",
+    "cep": "29313360",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Abelardo Barbosa;"
 }

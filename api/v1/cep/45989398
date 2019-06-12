@@ -1,12 +1,12 @@
 {
-  "cep": "45989398",
-  "logradouro": "Rua Irecê",
-  "bairro": "Nanuque",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nanuque;",
+    "cep": "45989398",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Irecê;"
 }

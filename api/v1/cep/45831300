@@ -1,12 +1,13 @@
 {
-  "cep": "45831300",
-  "logradouro": "Avenida Antônio Carlos Magalhães",
-  "bairro": "Green Gold",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Green Gold;",
+    "cep": "45831300",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Antônio Carlos Magalhães;"
 }

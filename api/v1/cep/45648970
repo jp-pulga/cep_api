@@ -1,12 +1,13 @@
 {
-  "cep": "45648970",
-  "logradouro": "AGC Cafundo Praça Manoel José Teixeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapitanga",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45648970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itapitanga"
+    },
+    "ibge": 2916609,
+    "logradouro": "Praça Manoel José Teixeira, s\/n  AGC Cafundo;"
 }

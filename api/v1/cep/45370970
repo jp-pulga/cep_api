@@ -1,12 +1,13 @@
 {
-  "cep": "45370970",
-  "logradouro": "AC Irajuba Praça Santo Antônio 177",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Irajuba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45370970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Irajuba"
+    },
+    "ibge": 2914208,
+    "logradouro": "Praça Santo Antônio, 177  AC Irajuba;"
 }

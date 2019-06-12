@@ -1,12 +1,13 @@
 {
-  "cep": "45606048",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Zizo",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Zizo;",
+    "cep": "45606048",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua Santa Bárbara;"
 }

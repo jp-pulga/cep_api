@@ -1,12 +1,13 @@
 {
-  "cep": "45613248",
-  "logradouro": "Rua dos Bandeirantes",
-  "bairro": "Ferradas",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ferradas;",
+    "cep": "45613248",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "ibge": 2914802,
+    "logradouro": "Rua dos Bandeirantes;"
 }

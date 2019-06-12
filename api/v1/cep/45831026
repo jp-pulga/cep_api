@@ -1,12 +1,13 @@
 {
-  "cep": "45831026",
-  "logradouro": "Avenida Adolfo Xavier",
-  "bairro": "Encanto das Águas",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Encanto das Águas;",
+    "cep": "45831026",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Adolfo Xavier;"
 }

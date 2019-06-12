@@ -1,12 +1,13 @@
 {
-  "cep": "47900970",
-  "logradouro": "AC Cotegipe Rua Francisco Mariani Passos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cotegipe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47900970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cotegipe"
+    },
+    "ibge": 2909406,
+    "logradouro": "Rua Francisco Mariani Passos, s\/n  AC Cotegipe;"
 }

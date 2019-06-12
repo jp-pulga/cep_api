@@ -1,12 +1,13 @@
 {
-  "cep": "45661204",
-  "logradouro": "Rua Adílio Alves de Jesus",
-  "bairro": "Banco da Vitória",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Banco da Vitória;",
+    "cep": "45661204",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Rua Adílio Alves de Jesus;"
 }

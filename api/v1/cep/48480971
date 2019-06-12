@@ -1,12 +1,13 @@
 {
-  "cep": "48480971",
-  "logradouro": "AGC Pinto Avenida Senhora Santana s/n",
-  "bairro": "Pinto",
-  "cidade": {
-    "nome": "Crisópolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pinto;",
+    "cep": "48480971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Crisópolis"
+    },
+    "ibge": 2909604,
+    "logradouro": "Rua Major Rodolfo Coelho, 156  AGC Pinto;"
 }

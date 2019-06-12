@@ -1,12 +1,12 @@
 {
-  "cep": "33841260",
-  "logradouro": "Rua Euclides da Cunha",
-  "bairro": "Barcelona",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barcelona;",
+    "cep": "33841260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Euclides da Cunha;"
 }

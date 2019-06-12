@@ -1,12 +1,12 @@
 {
-  "cep": "78745490",
-  "logradouro": "Rua Barão de Cotegipe",
-  "bairro": "Vila Goulart",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Goulart;",
+    "cep": "78745490",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão de Cotegipe;"
 }

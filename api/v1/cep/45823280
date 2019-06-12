@@ -1,12 +1,12 @@
 {
-  "cep": "45823280",
-  "logradouro": "Rua Ibicaraí",
-  "bairro": "Rosa Neto",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rosa Neto;",
+    "cep": "45823280",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Ibicaraí;"
 }

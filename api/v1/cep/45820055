@@ -1,12 +1,12 @@
 {
-  "cep": "45820055",
-  "logradouro": "Rua Guaratinga",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45820055",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Guaratinga;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45210204",
-  "logradouro": "Avenida Governador Otávio Mangabeira de 701 a 1145 - lado ímpar",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "45210204",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Avenida Governador Otávio Mangabeira - de 701 a 1145 - lado ímpar;"
 }

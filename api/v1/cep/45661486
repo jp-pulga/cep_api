@@ -1,12 +1,13 @@
 {
-  "cep": "45661486",
-  "logradouro": "Rua Belo Horizonte",
-  "bairro": "Banco da Vitória",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Banco da Vitória;",
+    "cep": "45661486",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "ibge": 2913606,
+    "logradouro": "Rua Belo Horizonte;"
 }

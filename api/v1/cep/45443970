@@ -1,12 +1,13 @@
 {
-  "cep": "45443970",
-  "logradouro": "AC Igrapiúna Praça da Feira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Igrapiúna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45443970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Igrapiúna"
+    },
+    "ibge": 2913457,
+    "logradouro": "Praça da Feira, s\/n  AC Igrapiúna;"
 }

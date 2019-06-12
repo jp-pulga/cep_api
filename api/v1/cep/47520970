@@ -1,12 +1,13 @@
 {
-  "cep": "47520970",
-  "logradouro": "AC Ibotirama Praça da Bandeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibotirama",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47520970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibotirama"
+    },
+    "ibge": 2913200,
+    "logradouro": "Praça da Bandeira, s\/n  AC Ibotirama;"
 }

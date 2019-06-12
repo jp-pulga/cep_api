@@ -1,12 +1,12 @@
 {
-  "cep": "88310443",
-  "logradouro": "Rua Bahia",
-  "bairro": "Cordeiros",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cordeiros;",
+    "cep": "88310443",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Bahia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "01042907",
-  "logradouro": "Edifício Barão de Itapetininga Rua Barão de Itapetininga 224",
-  "bairro": "República",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "República;",
+    "cep": "01042907",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barão de Itapetininga, 224  Edifício Barão de Itapetininga;"
 }

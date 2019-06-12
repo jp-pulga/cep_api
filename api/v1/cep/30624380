@@ -1,12 +1,12 @@
 {
-  "cep": "30624380",
-  "logradouro": "Rua Gavião",
-  "bairro": "Flávio Marques Lisboa (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Flávio Marques Lisboa (Barreiro);",
+    "cep": "30624380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Gavião;"
 }

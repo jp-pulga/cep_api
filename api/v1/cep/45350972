@@ -1,12 +1,13 @@
 {
-  "cep": "45350972",
-  "logradouro": "AGC Upabuçu Avenida Amélia Umburanas s/n",
-  "bairro": "Upabuçu",
-  "cidade": {
-    "nome": "Itiruçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Upabuçu;",
+    "cep": "45350972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itiruçu"
+    },
+    "ibge": 2916906,
+    "logradouro": "Avenida Amélia Umburanas, s\/n  AGC Upabuçu;"
 }

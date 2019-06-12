@@ -1,12 +1,13 @@
 {
-  "cep": "48300970",
-  "logradouro": "AC Conde Rua Dois de Julho 112",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conde",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48300970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Conde"
+    },
+    "ibge": 2908606,
+    "logradouro": "Rua Dois de Julho, 112  AC Conde;"
 }

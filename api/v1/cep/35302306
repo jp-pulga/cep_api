@@ -1,12 +1,12 @@
 {
-  "cep": "35302306",
-  "logradouro": "Rua Flávio Elias Barbosa",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "35302306",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Flávio Elias Barbosa;"
 }

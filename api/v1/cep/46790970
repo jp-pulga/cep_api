@@ -1,12 +1,13 @@
 {
-  "cep": "46790970",
-  "logradouro": "AC Itaeté Avenida Doutor Inocêncio Monteiro de Souza 349",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaeté",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46790970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itaeté"
+    },
+    "ibge": 2915007,
+    "logradouro": "Avenida Doutor Inocêncio Monteiro de Souza, 349  AC Itaeté;"
 }

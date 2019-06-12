@@ -1,12 +1,12 @@
 {
-  "cep": "41291100",
-  "logradouro": "Travessa Gavião",
-  "bairro": "Pirajá",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pirajá;",
+    "cep": "41291100",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Gavião;"
 }

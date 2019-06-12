@@ -1,12 +1,13 @@
 {
-  "cep": "44900973",
-  "logradouro": "AGC Mamoeiro Praça do Comércio s/n",
-  "bairro": "Mamoeiro",
-  "cidade": {
-    "nome": "Irecê",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mamoeiro;",
+    "cep": "44900973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Irecê"
+    },
+    "ibge": 2914604,
+    "logradouro": "Praça do Comércio, s\/n  AGC Mamoeiro;"
 }

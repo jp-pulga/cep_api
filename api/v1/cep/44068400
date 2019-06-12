@@ -1,12 +1,12 @@
 {
-  "cep": "44068400",
-  "logradouro": "Estrada do Rosário",
-  "bairro": "Conceição",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conceição;",
+    "cep": "44068400",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Estrada do Rosário;"
 }

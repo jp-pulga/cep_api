@@ -1,12 +1,13 @@
 {
-  "cep": "45830124",
-  "logradouro": "Avenida África até 248/249",
-  "bairro": "Dinah Borges",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Dinah Borges;",
+    "cep": "45830124",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida África - até 248\/249;"
 }

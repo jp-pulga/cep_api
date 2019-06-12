@@ -1,12 +1,13 @@
 {
-  "cep": "45826204",
-  "logradouro": "Avenida Alcides Lacerda",
-  "bairro": "Arivaldo Reis",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Arivaldo Reis;",
+    "cep": "45826204",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Avenida Alcides Lacerda;"
 }

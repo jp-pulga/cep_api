@@ -1,12 +1,12 @@
 {
-  "cep": "45989115",
-  "logradouro": "Rua Osmindo Muniz Cordeiro",
-  "bairro": "Castelinho",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Castelinho;",
+    "cep": "45989115",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Osmindo Muniz Cordeiro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46390970",
-  "logradouro": "AC Ibiassucê Avenida Senador Antonio Fernandes 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibiassucê",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46390970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibiassucê"
+    },
+    "ibge": 2912004,
+    "logradouro": "Avenida Senador Antonio Fernandes, 40  AC Ibiassucê;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47803846",
-  "logradouro": "Rua Entre Rios",
-  "bairro": "Alphaville",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alphaville;",
+    "cep": "47803846",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Entre Rios;"
 }

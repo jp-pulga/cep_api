@@ -1,12 +1,13 @@
 {
-  "cep": "48725970",
-  "logradouro": "AC Ichu Praça da Matriz 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ichu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48725970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ichu"
+    },
+    "ibge": 2913309,
+    "logradouro": "Praça da Matriz, 02  AC Ichu;"
 }

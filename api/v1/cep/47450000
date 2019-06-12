@@ -1,12 +1,11 @@
 {
-  "cep": "47450000",
-  "logradouro": "Gentio do Ouro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Gentio do Ouro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "47450000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Gentio do Ouro"
+    },
+    "ibge": 2911303
 }

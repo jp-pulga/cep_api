@@ -1,12 +1,12 @@
 {
-  "cep": "47800554",
-  "logradouro": "Rua Esplanada",
-  "bairro": "Rio Grande",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Grande;",
+    "cep": "47800554",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Esplanada;"
 }

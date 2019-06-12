@@ -1,12 +1,13 @@
 {
-  "cep": "46760970",
-  "logradouro": "AC Ibicoara Praça Tancredo de Almeida Neves 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibicoara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46760970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ibicoara"
+    },
+    "ibge": 2912202,
+    "logradouro": "Praça Tancredo de Almeida Neves, 10  AC Ibicoara;"
 }

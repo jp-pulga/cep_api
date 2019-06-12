@@ -1,12 +1,12 @@
 {
-  "cep": "29314195",
-  "logradouro": "Rodovia Ricardo Barbieri",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "29314195",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rodovia Ricardo Barbieri;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41219497",
-  "logradouro": "Rua Gandu",
-  "bairro": "Mata Escura",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mata Escura;",
+    "cep": "41219497",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Gandu;"
 }

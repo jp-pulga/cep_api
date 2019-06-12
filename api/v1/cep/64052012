@@ -1,12 +1,12 @@
 {
-  "cep": "64052012",
-  "logradouro": "Rua Professor João Gabriel Baptista (Lot N Sra Fátima)",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "64052012",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Professor João Gabriel Baptista (Lot N Sra Fátima);"
 }

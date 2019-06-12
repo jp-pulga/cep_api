@@ -1,12 +1,13 @@
 {
-  "cep": "45828063",
-  "logradouro": "Alameda das Esmeraldas",
-  "bairro": "Pequi",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pequi;",
+    "cep": "45828063",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "ibge": 2910727,
+    "logradouro": "Alameda das Esmeraldas;"
 }
