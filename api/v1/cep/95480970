@@ -1,12 +1,13 @@
 {
-  "cep": "95480970",
-  "logradouro": "AC Cambará do Sul Rua Getúlio Vargas 937",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cambará do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95480970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cambará do Sul"
+    },
+    "ibge": 4303608,
+    "logradouro": "Rua Getúlio Vargas, 937  AC Cambará do Sul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79822110",
-  "logradouro": "Rua Bertoldo Miranda Barros",
-  "bairro": "Jardim Flórida",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Flórida;",
+    "cep": "79822110",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Bertoldo Miranda Barros;"
 }

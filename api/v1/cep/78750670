@@ -1,12 +1,12 @@
 {
-  "cep": "78750670",
-  "logradouro": "Rua Alvarenga Peixoto",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "78750670",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Alvarenga Peixoto;"
 }

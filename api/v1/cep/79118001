@@ -1,12 +1,12 @@
 {
-  "cep": "79118001",
-  "logradouro": "Travessa Porto Murtinho",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "79118001",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Travessa Porto Murtinho;"
 }

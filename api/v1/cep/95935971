@@ -1,12 +1,13 @@
 {
-  "cep": "95935971",
-  "logradouro": "AC Capitão Rua Augusto Ritt 28",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capitão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95935971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Capitão"
+    },
+    "ibge": 4304697,
+    "logradouro": "Rua Augusto Ritt, 28  AC Capitão;"
 }

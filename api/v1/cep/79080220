@@ -1,12 +1,12 @@
 {
-  "cep": "79080220",
-  "logradouro": "Avenida Tenente Pedro Correa Duncan",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "79080220",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Tenente-Aviador Pedro Correa Duncan;"
 }

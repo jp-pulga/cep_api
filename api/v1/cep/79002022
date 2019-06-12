@@ -1,12 +1,12 @@
 {
-  "cep": "79002022",
-  "logradouro": "Rua Aquidauana",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79002022",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Aquidauana;"
 }

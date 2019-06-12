@@ -1,12 +1,13 @@
 {
-  "cep": "97850970",
-  "logradouro": "AC Bossoroca Rua João Gonçalves 296",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bossoroca",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97850970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bossoroca"
+    },
+    "ibge": 4302501,
+    "logradouro": "Rua João Gonçalves, 296  AC Bossoroca;"
 }

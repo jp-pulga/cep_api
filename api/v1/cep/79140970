@@ -1,12 +1,13 @@
 {
-  "cep": "79140970",
-  "logradouro": "AC Nova Alvorada Rua Cassiano Leal Pael 352",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Alvorada do Sul",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79140970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Nova Alvorada do Sul"
+    },
+    "ibge": 5006002,
+    "logradouro": "Rua Cassiano Leal Pael, 352  AC Nova Alvorada do Sul;"
 }

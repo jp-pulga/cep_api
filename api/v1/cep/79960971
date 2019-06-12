@@ -1,12 +1,13 @@
 {
-  "cep": "79960971",
-  "logradouro": "AGC Nossa Senhora Auxiliadora Avenida Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iguatemi",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79960971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Iguatemi"
+    },
+    "ibge": 5004304,
+    "logradouro": "Avenida Principal, s\/n  AGC Nossa Senhora Auxiliadora;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95940970",
-  "logradouro": "AC Arroio do Meio Rua General Daltro Filho 137",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arroio do Meio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95940970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Arroio do Meio"
+    },
+    "ibge": 4301008,
+    "logradouro": "Rua General Daltro Filho, 137  AC Arroio do Meio;"
 }

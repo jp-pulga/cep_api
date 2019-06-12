@@ -1,12 +1,12 @@
 {
-  "cep": "79070093",
-  "logradouro": "Rua Herculano Leite Miranda",
-  "bairro": "Jardim Morenão",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Morenão;",
+    "cep": "79070093",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Herculano Leite Miranda;"
 }

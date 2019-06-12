@@ -1,12 +1,12 @@
 {
-  "cep": "79841612",
-  "logradouro": "Avenida Maracaju",
-  "bairro": "Jardim Marília",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Marília;",
+    "cep": "79841612",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Avenida Maracaju;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "99740970",
-  "logradouro": "AC Barão de Cotegipe Avenida Ângelo Caleffi 242",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barão de Cotegipe",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99740970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Barão de Cotegipe"
+    },
+    "ibge": 4301701,
+    "logradouro": "Avenida Ângelo Caleffi, 242  AC Barão de Cotegipe;"
 }

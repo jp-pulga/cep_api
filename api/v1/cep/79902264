@@ -1,12 +1,12 @@
 {
-  "cep": "79902264",
-  "logradouro": "Rua Três Lagoas",
-  "bairro": "Vila Renô",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Renô;",
+    "cep": "79902264",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "logradouro": "Rua Três Lagoas;"
 }

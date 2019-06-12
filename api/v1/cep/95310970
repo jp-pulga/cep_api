@@ -1,12 +1,13 @@
 {
-  "cep": "95310970",
-  "logradouro": "AC André da Rocha Avenida Marcolino Pereira Vieira 1437 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "André da Rocha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95310970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "André da Rocha"
+    },
+    "ibge": 4300661,
+    "logradouro": "Avenida Marcolino Pereira Vieira, 1437 Sala 02  AC André da Rocha;"
 }

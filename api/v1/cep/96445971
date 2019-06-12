@@ -1,12 +1,13 @@
 {
-  "cep": "96445971",
-  "logradouro": "AC Aceguá Rua Quinhentos e Dez 788",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aceguá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96445971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Aceguá"
+    },
+    "ibge": 4300034,
+    "logradouro": "Rua Quinhentos e Dez, 788  AC Aceguá;"
 }

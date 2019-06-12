@@ -1,12 +1,13 @@
 {
-  "cep": "99795970",
-  "logradouro": "AGC Barra do Rio Azul Rua das Azaléias s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra do Rio Azul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99795970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Barra do Rio Azul"
+    },
+    "ibge": 4301925,
+    "logradouro": "Rua das Azaléias, s\/n  AGC Barra do Rio Azul;"
 }

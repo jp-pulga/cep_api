@@ -1,12 +1,13 @@
 {
-  "cep": "79320108",
-  "logradouro": "Alameda A",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "79320108",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda A;"
 }

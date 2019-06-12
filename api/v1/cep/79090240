@@ -1,12 +1,12 @@
 {
-  "cep": "79090240",
-  "logradouro": "Rua Eldorado",
-  "bairro": "Vila Anahy",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Anahy;",
+    "cep": "79090240",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Eldorado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78750541",
-  "logradouro": "Rodovia BR-364 de 209/210 ao fim",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "78750541",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rodovia BR-364 - do km 209,000 ao fim;"
 }

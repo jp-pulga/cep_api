@@ -1,12 +1,12 @@
 {
-  "cep": "90480970",
-  "logradouro": "AGF Avenida Carlos Gomes Avenida Carlos Gomes 598",
-  "bairro": "Auxiliadora",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Auxiliadora;",
+    "cep": "90480970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Carlos Gomes, 598  AGF Avenida Carlos Gomes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79700970",
-  "logradouro": "AC Fátima do sul Avenida Nove de Julho 1169",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fátima do Sul",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79700970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Fátima do Sul"
+    },
+    "ibge": 5003801,
+    "logradouro": "Avenida Nove de Julho, 1169  AC Fátima do sul;"
 }

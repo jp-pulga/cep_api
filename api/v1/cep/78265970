@@ -1,12 +1,13 @@
 {
-  "cep": "78265970",
-  "logradouro": "AC Reserva do Cabaçal Avenida José Julio Lima 302",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Reserva do Cabaçal",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78265970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Reserva do Cabaçal"
+    },
+    "ibge": 5107156,
+    "logradouro": "Avenida José Julio Lima, 302  AC Reserva do Cabaçal;"
 }

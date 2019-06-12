@@ -1,12 +1,13 @@
 {
-  "cep": "78135304",
-  "logradouro": "Avenida Frei Coimbra (Lot F Minas)",
-  "bairro": "Canelas",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Canelas;",
+    "cep": "78135304",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Frei Coimbra (Lot F Minas);"
 }

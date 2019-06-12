@@ -1,12 +1,12 @@
 {
-  "cep": "79907010",
-  "logradouro": "Rua Bandeirantes",
-  "bairro": "Jardim Primavera I",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Primavera I;",
+    "cep": "79907010",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "logradouro": "Rua Bandeirantes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78555554",
-  "logradouro": "Avenida Bruno Martini de 1900 a 3360 - lado par",
-  "bairro": "Residencial Ipanema",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Ipanema;",
+    "cep": "78555554",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida Bruno Martini - de 1900 a 3360 - lado par;"
 }

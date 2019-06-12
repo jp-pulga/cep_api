@@ -1,12 +1,13 @@
 {
-  "cep": "79611301",
-  "logradouro": "Avenida Rosário Congro de 3602 ao fim - lado par",
-  "bairro": "Jardim das Américas",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim das Américas;",
+    "cep": "79611301",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "ibge": 5008305,
+    "logradouro": "Avenida Advogado Rosário Congro - de 3602 ao fim - lado par;"
 }

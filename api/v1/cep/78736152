@@ -1,12 +1,13 @@
 {
-  "cep": "78736152",
-  "logradouro": "Avenida D",
-  "bairro": "Residencial João Antônio Fagundes",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial João Antônio Fagundes;",
+    "cep": "78736152",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida D;"
 }

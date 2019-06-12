@@ -1,12 +1,13 @@
 {
-  "cep": "79582970",
-  "logradouro": "AGC São Pedro Avenida Inocência s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro (Inocência)",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro\/São Pedro",
+    "cep": "79582970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Inocência"
+    },
+    "ibge": 5004403,
+    "logradouro": "Avenida Inocência, s\/n  AGC São Pedro;"
 }

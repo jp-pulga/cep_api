@@ -1,12 +1,13 @@
 {
-  "cep": "95995970",
-  "logradouro": "AC Arvorezinha Rua Osvaldo Aranha 215",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arvorezinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95995970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Arvorezinha"
+    },
+    "ibge": 4301404,
+    "logradouro": "Rua Osvaldo Aranha, 215  AC Arvorezinha;"
 }

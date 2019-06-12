@@ -1,12 +1,13 @@
 {
-  "cep": "78557099",
-  "logradouro": "Avenida Alexandre Ferronato até 499/500",
-  "bairro": "Setor Industrial",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Industrial;",
+    "cep": "78557099",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida Alexandre Ferronato - até 499\/500;"
 }

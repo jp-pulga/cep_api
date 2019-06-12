@@ -1,12 +1,13 @@
 {
-  "cep": "78555350",
-  "logradouro": "Avenida Bruno Martini de 672 a 978 - lado par",
-  "bairro": "Jardim Barcelona II",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Barcelona II;",
+    "cep": "78555350",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida Bruno Martini - de 672 a 978 - lado par;"
 }

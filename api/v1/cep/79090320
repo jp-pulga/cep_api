@@ -1,12 +1,12 @@
 {
-  "cep": "79090320",
-  "logradouro": "Praça Faria Lima",
-  "bairro": "Jardim Aeroporto",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Aeroporto;",
+    "cep": "79090320",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Praça Faria Lima;"
 }

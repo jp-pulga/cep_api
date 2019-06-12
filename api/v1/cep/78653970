@@ -1,12 +1,12 @@
 {
-  "cep": "78653970",
-  "logradouro": "AGC Veranópolis Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Veranópolis (Confresa)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro\/Veranópolis",
+    "cep": "78653970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Confresa"
+    },
+    "logradouro": "Rua Principal, s\/n  AGC Veranópolis;"
 }

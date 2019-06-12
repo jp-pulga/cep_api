@@ -1,12 +1,12 @@
 {
-  "cep": "79112110",
-  "logradouro": "Rua Nioaque",
-  "bairro": "Vila Santo Amaro",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Santo Amaro;",
+    "cep": "79112110",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Nioaque;"
 }

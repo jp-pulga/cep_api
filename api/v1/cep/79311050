@@ -1,12 +1,12 @@
 {
-  "cep": "79311050",
-  "logradouro": "Rua Antônio João de 2231/2232 ao fim",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Cristo Redentor;",
+    "cep": "79311050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Antônio João - de 2231\/2232 ao fim;"
 }

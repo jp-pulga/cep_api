@@ -1,12 +1,13 @@
 {
-  "cep": "79935970",
-  "logradouro": "AC Sete Quedas Rua Monteiro Lobato 781",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sete Quedas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79935970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Sete Quedas"
+    },
+    "ibge": 5007703,
+    "logradouro": "Rua Monteiro Lobato, 781  AC Sete Quedas;"
 }

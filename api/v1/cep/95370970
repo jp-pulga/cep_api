@@ -1,12 +1,13 @@
 {
-  "cep": "95370970",
-  "logradouro": "AC Barracão Avenida Brasília 441",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barracão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95370970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Barracão"
+    },
+    "ibge": 4301800,
+    "logradouro": "Avenida Brasília, 441  AC Barracão;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98770970",
-  "logradouro": "AC Catuípe Rua Coronel Bicaco 550",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Catuípe",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98770970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Catuípe"
+    },
+    "ibge": 4305009,
+    "logradouro": "Rua Coronel Bicaco, 550  AC Catuípe;"
 }

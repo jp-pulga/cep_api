@@ -1,12 +1,13 @@
 {
-  "cep": "79826320",
-  "logradouro": "Alameda dos Eucaliptos",
-  "bairro": "Portal de Dourados",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Portal de Dourados;",
+    "cep": "79826320",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "ibge": 5003702,
+    "logradouro": "Alameda dos Eucaliptos;"
 }

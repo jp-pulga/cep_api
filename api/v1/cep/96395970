@@ -1,12 +1,13 @@
 {
-  "cep": "96395970",
-  "logradouro": "AC Cerrito Praça Luis Siqueira 53",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cerrito",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96395970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cerrito"
+    },
+    "ibge": 4305124,
+    "logradouro": "Praça Luis Siqueira, 53  AC Cerrito;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78890972",
-  "logradouro": "AGC Caravágio Rodovia Mt 242 s/n",
-  "bairro": "Caravaggio",
-  "cidade": {
-    "nome": "Sorriso",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Caravaggio;",
+    "cep": "78890972",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sorriso"
+    },
+    "ibge": 5107925,
+    "logradouro": "Rodovia Mt 242, s\/n  AGC Caravágio;"
 }

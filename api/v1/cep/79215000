@@ -1,12 +1,11 @@
 {
-  "cep": "79215000",
-  "logradouro": "Dois Irmãos do Buriti",
-  "bairro": "",
-  "cidade": {
-    "nome": "Dois Irmãos do Buriti",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "cep": "79215000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dois Irmãos do Buriti"
+    },
+    "ibge": 5003488
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "78435000",
-  "logradouro": "São José do Rio Claro",
-  "bairro": "",
-  "cidade": {
-    "nome": "São José do Rio Claro",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78435000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São José do Rio Claro"
+    },
+    "ibge": 5107305
 }

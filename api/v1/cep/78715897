@@ -1,12 +1,12 @@
 {
-  "cep": "78715897",
-  "logradouro": "Avenida Barão do Rio Branco",
-  "bairro": "Residencial Padre Lothar",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Padre Lothar;",
+    "cep": "78715897",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Barão do Rio Branco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79601906",
-  "logradouro": "Banco do Brasil S/A Rua Paranaíba 598",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79601906",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Paranaíba, 598  Banco do Brasil S\/A;"
 }

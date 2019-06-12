@@ -1,12 +1,12 @@
 {
-  "cep": "79110090",
-  "logradouro": "Rua Paranaiba",
-  "bairro": "Sobrinho",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Sobrinho;",
+    "cep": "79110090",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Paranaiba;"
 }

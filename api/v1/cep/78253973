@@ -1,12 +1,13 @@
 {
-  "cep": "78253973",
-  "logradouro": "AGC Vale de São Domingos Avenida Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vale de São Domingos",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78253973",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Vale de São Domingos"
+    },
+    "ibge": 5108352,
+    "logradouro": "Avenida Principal, s\/n  AGC Vale de São Domingos;"
 }

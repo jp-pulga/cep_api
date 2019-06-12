@@ -1,12 +1,13 @@
 {
-  "cep": "79740970",
-  "logradouro": "AC Ivinhema Avenida Reynaldo Massi 2300",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ivinhema",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79740970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ivinhema"
+    },
+    "ibge": 5004700,
+    "logradouro": "Avenida Reynaldo Massi, 2300  AC Ivinhema;"
 }

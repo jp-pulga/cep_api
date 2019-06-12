@@ -1,12 +1,12 @@
 {
-  "cep": "97060970",
-  "logradouro": "CEE Santa Maria Rodovia RST-287 1410",
-  "bairro": "Cerrito",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cerrito;",
+    "cep": "97060970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rodovia BR-287, 1410  CEE Santa Maria;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79084093",
-  "logradouro": "Rua Inocência Moreira dos Santos",
-  "bairro": "Conjunto Aero Rancho",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Conjunto Aero Rancho;",
+    "cep": "79084093",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Inocência Moreira dos Santos;"
 }

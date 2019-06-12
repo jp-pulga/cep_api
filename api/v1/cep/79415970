@@ -1,12 +1,13 @@
 {
-  "cep": "79415970",
-  "logradouro": "AC Sonora Rua da Justiça 135",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sonora",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79415970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Sonora"
+    },
+    "ibge": 5007935,
+    "logradouro": "Rua da Justiça, 135  AC Sonora;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78628972",
-  "logradouro": "AC Santo Antônio do Leste Rua Passo Fundo 135",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Leste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78628972",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Santo Antônio do Leste"
+    },
+    "ibge": 5107792,
+    "logradouro": "Rua Passo Fundo, 135  AC Santo Antônio do Leste;"
 }

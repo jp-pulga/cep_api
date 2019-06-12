@@ -1,12 +1,13 @@
 {
-  "cep": "79333320",
-  "logradouro": "Alameda Antônio Avelino Amaral",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "79333320",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Antônio Avelino Amaral;"
 }

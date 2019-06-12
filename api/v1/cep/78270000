@@ -1,12 +1,11 @@
 {
-  "cep": "78270000",
-  "logradouro": "Salto do Céu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Salto do Céu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78270000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Salto do Céu"
+    },
+    "ibge": 5107750
 }

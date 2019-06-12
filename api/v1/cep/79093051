@@ -1,12 +1,13 @@
 {
-  "cep": "79093051",
-  "logradouro": "Rua Conde de Boa Vista",
-  "bairro": "Residencial Aquários II",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Residencial Aquarius II;",
+    "cep": "79093051",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Conde de Boa Vista - de 1651 a 2079 - lado ímpar;"
 }

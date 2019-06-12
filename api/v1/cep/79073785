@@ -1,12 +1,12 @@
 {
-  "cep": "79073785",
-  "logradouro": "Avenida Henrique Bertin",
-  "bairro": "Jardim Los Angeles",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Los Angeles;",
+    "cep": "79073785",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Henrique Bertin;"
 }

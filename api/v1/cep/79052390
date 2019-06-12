@@ -1,12 +1,12 @@
 {
-  "cep": "79052390",
-  "logradouro": "Rua Rio Bonito",
-  "bairro": "Vila Morumbi",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Morumbi;",
+    "cep": "79052390",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Rio Bonito;"
 }

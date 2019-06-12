@@ -1,12 +1,11 @@
 {
-  "cep": "79573000",
-  "logradouro": "Cupins (Aparecida do Taboado)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cupins (Aparecida do Taboado)",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "cep": "79573000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Aparecida do Taboado"
+    },
+    "ibge": 5001003
 }

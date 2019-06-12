@@ -1,12 +1,13 @@
 {
-  "cep": "78563970",
-  "logradouro": "AC Tabaporã Avenida José Pedro Dias 920 E",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tabaporã",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78563970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Tabaporã"
+    },
+    "ibge": 5107941,
+    "logradouro": "Avenida Comendador José Pedro Dias, 920 E  AC Tabaporã;"
 }

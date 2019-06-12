@@ -1,12 +1,13 @@
 {
-  "cep": "78890970",
-  "logradouro": "AC Sorriso Rua Eurico Gaspar Dutra 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sorriso",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78890970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sorriso"
+    },
+    "ibge": 5107925,
+    "logradouro": "Rua Eurico Gaspar Dutra, 52  AC Sorriso;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78593970",
-  "logradouro": "AC Nova Monte Verde Avenida Rondonópolis s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Monte Verde",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78593970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Monte Verde"
+    },
+    "ibge": 5108956,
+    "logradouro": "Avenida Rondonópolis, s\/n Edifício Boing  AC Nova Monte Verde;"
 }

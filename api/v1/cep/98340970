@@ -1,12 +1,13 @@
 {
-  "cep": "98340970",
-  "logradouro": "AC Cerro Grande Avenida Primeiro de Maio 1391",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cerro Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98340970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cerro Grande"
+    },
+    "ibge": 4305157,
+    "logradouro": "Avenida Primeiro de Maio, 1391  AC Cerro Grande;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95933971",
-  "logradouro": "AC Canudos do Vale Rua João José Briesch 400",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canudos do Vale",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95933971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canudos do Vale"
+    },
+    "ibge": 4304614,
+    "logradouro": "Rua João José Briesch, 400  AC Canudos do Vale;"
 }

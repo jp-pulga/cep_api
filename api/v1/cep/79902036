@@ -1,12 +1,13 @@
 {
-  "cep": "79902036",
-  "logradouro": "Alameda Sagrado Coração de Jesus",
-  "bairro": "Vila Santa Ana",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Santa Ana;",
+    "cep": "79902036",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Alameda Sagrado Coração de Jesus;"
 }

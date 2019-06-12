@@ -1,12 +1,13 @@
 {
-  "cep": "79230970",
-  "logradouro": "AC Guia Lopes da Laguna Travessa General Osório 75",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guia Lopes da Laguna",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79230970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Guia Lopes da Laguna"
+    },
+    "ibge": 5004106,
+    "logradouro": "Travessa General Osório, 35  AC Guia Lopes da Laguna;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78553078",
-  "logradouro": "Avenida das Águias de 1002 a 1050 - lado par",
-  "bairro": "Chácara de Lazer Maria Carolina I",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Chácara de Lazer Maria Carolina I;",
+    "cep": "78553078",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida das Águias - de 1002 a 1050 - lado par;"
 }

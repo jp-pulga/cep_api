@@ -1,12 +1,13 @@
 {
-  "cep": "78775970",
-  "logradouro": "AC Tesouro Rua Epifânio Duarte 39",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tesouro",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78775970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Tesouro"
+    },
+    "ibge": 5108105,
+    "logradouro": "Rua Epifânio Duarte, 39  AC Tesouro;"
 }

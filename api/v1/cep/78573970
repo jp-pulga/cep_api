@@ -1,12 +1,13 @@
 {
-  "cep": "78573970",
-  "logradouro": "AC Tapurah Avenida Mato Grosso 39",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tapurah",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78573970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Tapurah"
+    },
+    "ibge": 5108006,
+    "logradouro": "Avenida Mato Grosso, 39  AC Tapurah;"
 }

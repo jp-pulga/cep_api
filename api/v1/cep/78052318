@@ -1,12 +1,12 @@
 {
-  "cep": "78052318",
-  "logradouro": "Rua Tangará",
-  "bairro": "Altos da Serra I",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Altos da Serra I;",
+    "cep": "78052318",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Tangará;"
 }

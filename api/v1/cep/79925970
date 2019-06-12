@@ -1,12 +1,13 @@
 {
-  "cep": "79925970",
-  "logradouro": "AC Paranhos Avenida Marechal Dutra 1854",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paranhos",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79925970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Paranhos"
+    },
+    "ibge": 5006358,
+    "logradouro": "Avenida Marechal Dutra, 1854  AC Paranhos;"
 }

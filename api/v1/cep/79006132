@@ -1,12 +1,12 @@
 {
-  "cep": "79006132",
-  "logradouro": "Rua do Campo",
-  "bairro": "Vila Taquarussu",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Taquarussu;",
+    "cep": "79006132",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua do Campo;"
 }

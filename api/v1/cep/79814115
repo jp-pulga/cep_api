@@ -1,12 +1,12 @@
 {
-  "cep": "79814115",
-  "logradouro": "Rua José Anastácio Oliveira",
-  "bairro": "Vila Cachoeirinha",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Cachoeirinha;",
+    "cep": "79814115",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua José Anastácio Oliveira;"
 }

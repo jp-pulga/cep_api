@@ -1,12 +1,13 @@
 {
-  "cep": "79907899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Ponta Porã",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Área Rural de Ponta Porã;",
+    "cep": "79907899",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Área Rural;"
 }

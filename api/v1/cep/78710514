@@ -1,12 +1,12 @@
 {
-  "cep": "78710514",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Jardim Pindorama II",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Pindorama II;",
+    "cep": "78710514",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

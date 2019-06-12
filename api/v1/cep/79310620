@@ -1,12 +1,12 @@
 {
-  "cep": "79310620",
-  "logradouro": "Rua Antônio João de 1421/1422 a 2229/2230",
-  "bairro": "Popular Velha",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Popular Velha;",
+    "cep": "79310620",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Antônio João - de 1421\/1422 a 2229\/2230;"
 }

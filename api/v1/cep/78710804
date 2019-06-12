@@ -1,12 +1,13 @@
 {
-  "cep": "78710804",
-  "logradouro": "Avenida Aeroporto",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "78710804",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Aeroporto;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79902480",
-  "logradouro": "Avenida Belmiro de Albuquerque",
-  "bairro": "Residencial Ponta Porã I",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Residencial Ponta Porã I;",
+    "cep": "79902480",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Belmiro de Albuquerque;"
 }

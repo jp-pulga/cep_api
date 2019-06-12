@@ -1,12 +1,13 @@
 {
-  "cep": "99825970",
-  "logradouro": "AGC Carlos Gomes Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carlos Gomes",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99825970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Carlos Gomes"
+    },
+    "ibge": 4304853,
+    "logradouro": "Rua Principal, s\/n  AGC Carlos Gomes;"
 }

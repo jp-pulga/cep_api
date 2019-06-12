@@ -1,12 +1,13 @@
 {
-  "cep": "79970970",
-  "logradouro": "AC Eldorado Rua São Paulo 1185",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eldorado",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79970970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Eldorado"
+    },
+    "ibge": 5003751,
+    "logradouro": "Rua São Paulo, 1185  AC Eldorado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "97920975",
-  "logradouro": "AC São Pedro do Butiá Rua Sete de Setembro 620",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro do Butiá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97920975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Pedro do Butiá"
+    },
+    "logradouro": "Rua Sete de Setembro, 620  AC São Pedro do Butiá;"
 }

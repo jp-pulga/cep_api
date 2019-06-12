@@ -1,12 +1,13 @@
 {
-  "cep": "95185974",
-  "logradouro": "AGC Cinco da Boa Vista Estrada Municipal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carlos Barbosa",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95185974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Carlos Barbosa"
+    },
+    "ibge": 4304804,
+    "logradouro": "Estrada Municipal, s\/n  AGC Cinco da Boa Vista;"
 }

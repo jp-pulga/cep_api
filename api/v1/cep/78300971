@@ -1,12 +1,13 @@
 {
-  "cep": "78300971",
-  "logradouro": "CDD Tangará da Serra Rua Antonio Hortolani 164",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tangará da Serra",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78300971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Tangará da Serra"
+    },
+    "ibge": 5107958,
+    "logradouro": "Rua Antonio Hortolani, 164  CDD Tangará da Serra;"
 }

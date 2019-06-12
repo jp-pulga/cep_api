@@ -1,12 +1,13 @@
 {
-  "cep": "79611010",
-  "logradouro": "Avenida Rosário Congro de 2494 a 3000 - lado par",
-  "bairro": "Jardim Angélica",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Angélica;",
+    "cep": "79611010",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "ibge": 5008305,
+    "logradouro": "Avenida Advogado Rosário Congro - de 2494 a 3000 - lado par;"
 }

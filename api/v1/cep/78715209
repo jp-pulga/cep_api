@@ -1,12 +1,12 @@
 {
-  "cep": "78715209",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Jardim Urupês",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Urupês;",
+    "cep": "78715209",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

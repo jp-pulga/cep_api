@@ -1,12 +1,13 @@
 {
-  "cep": "95920970",
-  "logradouro": "AC Boqueirão do Leão Rua São Pedro 151",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boqueirão do Leão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95920970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Boqueirão do Leão"
+    },
+    "ibge": 4302451,
+    "logradouro": "Rua São Pedro, 151  AC Boqueirão do Leão;"
 }

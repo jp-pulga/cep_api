@@ -1,12 +1,13 @@
 {
-  "cep": "95599970",
-  "logradouro": "AC Balneário Pinhal Avenida Itália 2995",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Pinhal",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95599970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Balneário Pinhal"
+    },
+    "ibge": 4301636,
+    "logradouro": "Avenida Itália, 2995  AC Balneário Pinhal;"
 }

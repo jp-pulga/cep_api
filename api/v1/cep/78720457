@@ -1,12 +1,13 @@
 {
-  "cep": "78720457",
-  "logradouro": "Avenida Bahia",
-  "bairro": "Loteamento Esplanada",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Loteamento Esplanada;",
+    "cep": "78720457",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Bahia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79311670",
-  "logradouro": "Alameda Belmiro Maciel de Barros",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Cristo Redentor;",
+    "cep": "79311670",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Belmiro Maciel de Barros;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79010915",
-  "logradouro": "MATEL - Matadouro Eldorado Rua Luís Braille 587",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "79010915",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Luís Braille, 587  MATEL - Matadouro Eldorado;"
 }

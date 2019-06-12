@@ -1,12 +1,12 @@
 {
-  "cep": "99010970",
-  "logradouro": "AGF Capitão Eleutério Rua Capitão Eleutério 598",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99010970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Capitão Eleutério, 598  AGF Capitão Eleutério;"
 }

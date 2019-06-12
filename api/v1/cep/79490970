@@ -1,12 +1,13 @@
 {
-  "cep": "79490970",
-  "logradouro": "AC São Gabriel D' Oeste Avenida Getúlio Vargas 337",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gabriel do Oeste",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79490970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "São Gabriel do Oeste"
+    },
+    "ibge": 5007695,
+    "logradouro": "Avenida Getúlio Vargas, 337  AC São Gabriel do Oeste;"
 }

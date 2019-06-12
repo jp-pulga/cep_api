@@ -1,12 +1,13 @@
 {
-  "cep": "78715270",
-  "logradouro": "Avenida Anita Alves da Silva",
-  "bairro": "Jardim Eldorado",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Eldorado;",
+    "cep": "78715270",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Anita Alves da Silva;"
 }

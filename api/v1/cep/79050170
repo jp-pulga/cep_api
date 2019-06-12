@@ -1,12 +1,12 @@
 {
-  "cep": "79050170",
-  "logradouro": "Rua Lupércio de Miranda",
-  "bairro": "Jardim TV Morena",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim TV Morena;",
+    "cep": "79050170",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Lupércio de Miranda;"
 }

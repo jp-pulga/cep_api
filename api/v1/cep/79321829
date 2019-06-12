@@ -1,12 +1,13 @@
 {
-  "cep": "79321829",
-  "logradouro": "Alameda B (PIUVA)",
-  "bairro": "Nova Corumbá",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Nova Corumbá;",
+    "cep": "79321829",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda B (PIUVA);"
 }

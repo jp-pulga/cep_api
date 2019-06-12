@@ -1,12 +1,13 @@
 {
-  "cep": "95870970",
-  "logradouro": "AC Bom Retiro do Sul Rua Senador Pinheiro Machado 195",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Retiro do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95870970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bom Retiro do Sul"
+    },
+    "ibge": 4302402,
+    "logradouro": "Rua Senador Pinheiro Machado, 195  AC Bom Retiro do Sul;"
 }

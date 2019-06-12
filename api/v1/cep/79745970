@@ -1,12 +1,13 @@
 {
-  "cep": "79745970",
-  "logradouro": "AC Novo Horizonte Avenida Marcos Freire 670",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Horizonte do Sul",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79745970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Novo Horizonte do Sul"
+    },
+    "ibge": 5006259,
+    "logradouro": "Avenida Marcos Freire, 670  AC Novo Horizonte do Sul;"
 }

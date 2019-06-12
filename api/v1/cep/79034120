@@ -1,12 +1,13 @@
 {
-  "cep": "79034120",
-  "logradouro": "Avenida Panamericana",
-  "bairro": "Parque dos Novos Estados",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Parque dos Novos Estados;",
+    "cep": "79034120",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Panamericana;"
 }

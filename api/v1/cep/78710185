@@ -1,12 +1,12 @@
 {
-  "cep": "78710185",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Jardim Guanabara I",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Guanabara;",
+    "cep": "78710185",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

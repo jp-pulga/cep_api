@@ -1,12 +1,13 @@
 {
-  "cep": "79440970",
-  "logradouro": "AC Jaraguari Rua Geraldo Ferreira Barbosa 580",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaraguari",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79440970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Jaraguari"
+    },
+    "ibge": 5004908,
+    "logradouro": "Rua Geraldo Ferreira Barbosa, 580  AC Jaraguari;"
 }

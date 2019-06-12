@@ -1,12 +1,12 @@
 {
-  "cep": "79003025",
-  "logradouro": "Rua Itaquirai",
-  "bairro": "Vila Antônio Vendas",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Antônio Vendas;",
+    "cep": "79003025",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Itaquirai;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79006190",
-  "logradouro": "Rua Melanias Barbosa",
-  "bairro": "Vila Taquarussu",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Taquarussu;",
+    "cep": "79006190",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Melanias Barbosa;"
 }

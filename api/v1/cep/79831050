@@ -1,12 +1,12 @@
 {
-  "cep": "79831050",
-  "logradouro": "Rua Ivinhema até 4254/4255",
-  "bairro": "Vila Rosa",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Rosa;",
+    "cep": "79831050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Ivinhema - até 4254\/4255;"
 }

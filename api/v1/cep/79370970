@@ -1,12 +1,13 @@
 {
-  "cep": "79370970",
-  "logradouro": "AC Ladário Rua Riachuelo 607",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ladário",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79370970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ladário"
+    },
+    "ibge": 5005202,
+    "logradouro": "Rua Riachuelo, 607  AC Ladário;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79034612",
-  "logradouro": "Rua do Dourado",
-  "bairro": "Conjunto Habitacional Estrela D'Alva I",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Conjunto Habitacional Estrela D'Alva I;",
+    "cep": "79034612",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua do Dourado;"
 }

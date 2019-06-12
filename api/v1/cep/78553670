@@ -1,12 +1,13 @@
 {
-  "cep": "78553670",
-  "logradouro": "Avenida André Antônio Maggi de 5791 a 6145 - lado ímpar",
-  "bairro": "Jardim Novo Estado",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Novo Estado;",
+    "cep": "78553670",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida André Antônio Maggi - de 5791 a 6145 - lado ímpar;"
 }

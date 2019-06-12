@@ -1,12 +1,12 @@
 {
-  "cep": "79841480",
-  "logradouro": "Rua Costa Rica",
-  "bairro": "Parque das Nações",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Parque das Nações;",
+    "cep": "79841480",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Costa Rica;"
 }

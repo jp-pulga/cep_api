@@ -1,12 +1,13 @@
 {
-  "cep": "78554136",
-  "logradouro": "Avenida das Águias de 1391 a 1675 - lado ímpar",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "78554136",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida das Águias - de 1391 a 1675 - lado ímpar;"
 }

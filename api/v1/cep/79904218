@@ -1,12 +1,13 @@
 {
-  "cep": "79904218",
-  "logradouro": "Alameda Sigrid",
-  "bairro": "Condomínio Village do Sol",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Condomínio Village do Sol;",
+    "cep": "79904218",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Alameda Sigrid;"
 }

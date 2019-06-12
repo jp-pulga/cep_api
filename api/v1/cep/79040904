@@ -1,12 +1,12 @@
 {
-  "cep": "79040904",
-  "logradouro": "Câmara Municipal Avenida Ricardo Brandão 1600",
-  "bairro": "Vila Manoel da Costa Lima",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Manoel da Costa Lima;",
+    "cep": "79040904",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Ricardo Brandão, 1600  Câmara Municipal;"
 }

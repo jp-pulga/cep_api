@@ -1,12 +1,12 @@
 {
-  "cep": "79092630",
-  "logradouro": "Rua Presidente Dutra Jardim",
-  "bairro": "Jardim Bonança",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Bonança;",
+    "cep": "79092630",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Presidente Dutra Jardim;"
 }

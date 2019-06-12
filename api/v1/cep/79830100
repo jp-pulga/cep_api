@@ -1,12 +1,12 @@
 {
-  "cep": "79830100",
-  "logradouro": "Rua Aquidauana de 972/973 a 1598/1599",
-  "bairro": "Jardim Paulista",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Paulista;",
+    "cep": "79830100",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Aquidauana - de 972\/973 a 1598\/1599;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79310164",
-  "logradouro": "Alameda Cáceres",
-  "bairro": "Centro América",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro América;",
+    "cep": "79310164",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Cáceres;"
 }

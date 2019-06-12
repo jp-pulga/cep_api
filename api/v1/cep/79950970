@@ -1,12 +1,13 @@
 {
-  "cep": "79950970",
-  "logradouro": "AC Navirai Avenida Iguatemi 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Naviraí",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79950970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Naviraí"
+    },
+    "ibge": 5005707,
+    "logradouro": "Avenida Iguatemi, 99  AC Navirai;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98440975",
-  "logradouro": "AGC Linha Lazzari Rua Principal s/n",
-  "bairro": "Linha Lazzari",
-  "cidade": {
-    "nome": "Caiçara",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Linha Lazzari;",
+    "cep": "98440975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caiçara"
+    },
+    "ibge": 4303400,
+    "logradouro": "Rua Principal, s\/n  AGC Linha Lazzari;"
 }

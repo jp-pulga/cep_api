@@ -1,12 +1,12 @@
 {
-  "cep": "79006410",
-  "logradouro": "Rua Nova Bandeirantes",
-  "bairro": "Jardim Jacy",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Jacy;",
+    "cep": "79006410",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Nova Bandeirantes;"
 }

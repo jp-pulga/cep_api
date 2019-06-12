@@ -1,12 +1,13 @@
 {
-  "cep": "79180970",
-  "logradouro": "AC Ribas do Rio Pardo Avenida Aureliano Moura Brandão 1040 Sala 7",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribas do Rio Pardo",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79180970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ribas do Rio Pardo"
+    },
+    "ibge": 5007109,
+    "logradouro": "Avenida Aureliano Moura Brandão, 1100  AC Ribas do Rio Pardo;"
 }

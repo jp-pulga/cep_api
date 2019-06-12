@@ -1,12 +1,12 @@
 {
-  "cep": "78150356",
-  "logradouro": "Rua Rosário Oeste (Lot A Branca)",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "78150356",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Rosário Oeste (Lot A Branca);"
 }

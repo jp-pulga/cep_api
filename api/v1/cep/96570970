@@ -1,12 +1,13 @@
 {
-  "cep": "96570970",
-  "logradouro": "AC Caçapava do Sul Rua Sete de Setembro 463",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caçapava do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96570970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caçapava do Sul"
+    },
+    "ibge": 4302808,
+    "logradouro": "Rua Sete de Setembro, 463  AC Caçapava do Sul;"
 }

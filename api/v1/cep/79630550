@@ -1,12 +1,12 @@
 {
-  "cep": "79630550",
-  "logradouro": "Avenida Antônio João",
-  "bairro": "Jardim Moçambique",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Moçambique;",
+    "cep": "79630550",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Avenida Antônio João;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79321451",
-  "logradouro": "Alameda Cambará",
-  "bairro": "Guaicurus",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Guaicurus;",
+    "cep": "79321451",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Cambará;"
 }

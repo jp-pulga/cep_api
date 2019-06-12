@@ -1,12 +1,13 @@
 {
-  "cep": "78663971",
-  "logradouro": "AGC Projeto de Assentamento Santo Antônio Rua Principal s/n",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "São José do Xingu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "78663971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São José do Xingu"
+    },
+    "ibge": 5107354,
+    "logradouro": "Rua Principal, s\/n  AGC Projeto de Assentamento Santo Antônio;"
 }

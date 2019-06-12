@@ -1,12 +1,13 @@
 {
-  "cep": "93880970",
-  "logradouro": "AC Araricá Avenida José Antônio de Oliveira Neto 281",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araricá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93880970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Araricá"
+    },
+    "ibge": 4300877,
+    "logradouro": "Avenida José Antônio de Oliveira Neto, 281  AC Araricá;"
 }

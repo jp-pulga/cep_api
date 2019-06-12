@@ -1,12 +1,13 @@
 {
-  "cep": "79900316",
-  "logradouro": "Avenida Belmiro de Albuquerque",
-  "bairro": "Vila Boa Vista",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Boa Vista;",
+    "cep": "79900316",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Belmiro de Albuquerque;"
 }

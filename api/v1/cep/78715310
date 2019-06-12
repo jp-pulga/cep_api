@@ -1,12 +1,12 @@
 {
-  "cep": "78715310",
-  "logradouro": "Avenida Aeroporto",
-  "bairro": "Jardim Vera Cruz",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Vera Cruz;",
+    "cep": "78715310",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Aeroporto;"
 }

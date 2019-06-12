@@ -1,12 +1,13 @@
 {
-  "cep": "79905300",
-  "logradouro": "Avenida Brasil até 1044 - lado par",
-  "bairro": "Bairro da Granja",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Bairro da Granja;",
+    "cep": "79905300",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Brasil - até 1044 - lado par;"
 }

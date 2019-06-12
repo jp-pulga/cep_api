@@ -1,12 +1,13 @@
 {
-  "cep": "96160970",
-  "logradouro": "AC Capão do Leão Avenida Narciso Silva 1680",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capão do Leão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96160970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Capão do Leão"
+    },
+    "ibge": 4304663,
+    "logradouro": "Avenida Narciso Silva, 1796  AC Capão do Leão;"
 }

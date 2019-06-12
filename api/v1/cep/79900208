@@ -1,12 +1,12 @@
 {
-  "cep": "79900208",
-  "logradouro": "Rua Ladário de 1 a 99999 - lado ímpar",
-  "bairro": "Parque dos Ipês I",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Parque dos Ipês I;",
+    "cep": "79900208",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "logradouro": "Rua Ladário - de 1 a 99999 - lado ímpar;"
 }

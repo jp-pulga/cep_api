@@ -1,12 +1,12 @@
 {
-  "cep": "69901564",
-  "logradouro": "Rua Monte Negro",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69901564",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Monte Negro;"
 }

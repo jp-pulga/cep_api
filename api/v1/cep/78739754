@@ -1,12 +1,12 @@
 {
-  "cep": "78739754",
-  "logradouro": "Rua Barão Rio Branco",
-  "bairro": "Prolongamento Jardim Mato Grosso",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Prolongamento Jardim Mato Grosso;",
+    "cep": "78739754",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

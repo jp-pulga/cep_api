@@ -1,12 +1,13 @@
 {
-  "cep": "79906600",
-  "logradouro": "Avenida Alcemiro Camilo Ranzi",
-  "bairro": "Bairro São Domingos",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Bairro São Domingos;",
+    "cep": "79906600",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Alcemiro Camilo Ranzi;"
 }

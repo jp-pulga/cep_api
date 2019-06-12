@@ -1,12 +1,13 @@
 {
-  "cep": "78181970",
-  "logradouro": "AGC Agrovila das Palmeiras Rua Principal s/n",
-  "bairro": "Palmeiras",
-  "cidade": {
-    "nome": "Santo Antônio do Leverger",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Palmeiras;",
+    "cep": "78181970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Santo Antônio do Leverger"
+    },
+    "ibge": 5107800,
+    "logradouro": "Rua Principal, s\/n  AGC Agrovila das Palmeiras;"
 }

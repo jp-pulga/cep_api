@@ -1,12 +1,11 @@
 {
-  "cep": "78505000",
-  "logradouro": "Terra Nova do Norte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Terra Nova do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78505000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Terra Nova do Norte"
+    },
+    "ibge": 5108055
 }

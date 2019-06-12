@@ -1,12 +1,12 @@
 {
-  "cep": "79095120",
-  "logradouro": "Rua Itaporã de 151/152 ao fim",
-  "bairro": "Vila São Jorge da Lagoa",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila São Jorge da Lagoa;",
+    "cep": "79095120",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Itaporã - de 151\/152 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79112280",
-  "logradouro": "Rua Três Lagoas",
-  "bairro": "Vila Palmira",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Palmira;",
+    "cep": "79112280",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Três Lagoas;"
 }

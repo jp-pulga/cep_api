@@ -1,12 +1,12 @@
 {
-  "cep": "79006160",
-  "logradouro": "Rua Congonhas",
-  "bairro": "Vila Taquarussu",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Taquarussu;",
+    "cep": "79006160",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Congonhas;"
 }

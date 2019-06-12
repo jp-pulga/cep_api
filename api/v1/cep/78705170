@@ -1,12 +1,13 @@
 {
-  "cep": "78705170",
-  "logradouro": "Avenida Brigadeiro Eduardo Gomes",
-  "bairro": "Cidade Salmen",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Cidade Salmen;",
+    "cep": "78705170",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Brigadeiro Eduardo Gomes;"
 }

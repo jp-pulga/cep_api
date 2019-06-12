@@ -1,12 +1,13 @@
 {
-  "cep": "78740470",
-  "logradouro": "Alameda dos Lírios",
-  "bairro": "Colina Verde",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Colina Verde;",
+    "cep": "78740470",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Alameda dos Lírios;"
 }

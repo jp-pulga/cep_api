@@ -1,12 +1,13 @@
 {
-  "cep": "79622039",
-  "logradouro": "Rua Ipê",
-  "bairro": "Ipê",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Ipê;",
+    "cep": "79622039",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "ibge": 5008305,
+    "logradouro": "Alameda Ipê;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "99360970",
-  "logradouro": "AC Barros Cassal Avenida Ceferino Barbosa 285",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barros Cassal",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99360970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Barros Cassal"
+    },
+    "ibge": 4302006,
+    "logradouro": "Avenida Ceferino Barbosa, 285  AC Barros Cassal;"
 }

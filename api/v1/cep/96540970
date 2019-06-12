@@ -1,12 +1,13 @@
 {
-  "cep": "96540970",
-  "logradouro": "AC Agudo Rua Tiradentes 1721",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Agudo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96540970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Agudo"
+    },
+    "ibge": 4300109,
+    "logradouro": "Rua Tiradentes, 1721  AC Agudo;"
 }

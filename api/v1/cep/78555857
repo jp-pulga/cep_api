@@ -1,12 +1,13 @@
 {
-  "cep": "78555857",
-  "logradouro": "Alameda Escritora Cora Coralina",
-  "bairro": "Jardim Bougainville",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Bougainville;",
+    "cep": "78555857",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Alameda Escritora Cora Coralina;"
 }

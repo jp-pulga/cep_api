@@ -1,12 +1,12 @@
 {
-  "cep": "79837016",
-  "logradouro": "Rua Isabel Cardoso Miranda",
-  "bairro": "Jardim Guaicurus",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Guaicurus;",
+    "cep": "79837016",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Isabel Cardoso Miranda;"
 }

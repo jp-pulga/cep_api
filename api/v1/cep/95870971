@@ -1,12 +1,13 @@
 {
-  "cep": "95870971",
-  "logradouro": "AGC Beira do Rio Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Retiro do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Beira do Rio;",
+    "cep": "95870971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bom Retiro do Sul"
+    },
+    "ibge": 4302402,
+    "logradouro": "Rodovia RS-129, s\/n  AGC Beira do Rio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79002210",
-  "logradouro": "Rua Maracaju até 822 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79002210",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Maracaju - até 822 - lado par;"
 }

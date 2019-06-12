@@ -1,12 +1,12 @@
 {
-  "cep": "79006630",
-  "logradouro": "Rua Engenheiro Roberto Mange de 1141/1142 ao fim",
-  "bairro": "Vila Taquarussu",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Taquarussu;",
+    "cep": "79006630",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Engenheiro Roberto Mange - de 1141\/1142 ao fim;"
 }

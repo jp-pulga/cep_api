@@ -1,12 +1,13 @@
 {
-  "cep": "78470970",
-  "logradouro": "AC Rosário Oeste Rua Marechal Deodoro 233",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rosário Oeste",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78470970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rosário Oeste"
+    },
+    "ibge": 5107701,
+    "logradouro": "Rua Marechal Deodoro, 233  AC Rosário Oeste;"
 }

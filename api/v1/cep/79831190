@@ -1,12 +1,12 @@
 {
-  "cep": "79831190",
-  "logradouro": "Rua Paranhos",
-  "bairro": "Vila Esperança",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Esperança;",
+    "cep": "79831190",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Paranhos;"
 }

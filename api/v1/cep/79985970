@@ -1,12 +1,13 @@
 {
-  "cep": "79985970",
-  "logradouro": "AC Japorã Avenida Deputado Fernando Saldanha 795",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Japorã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79985970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Japorã"
+    },
+    "ibge": 5004809,
+    "logradouro": "Avenida Deputado Fernando Saldanha, 795  AC Japorã;"
 }

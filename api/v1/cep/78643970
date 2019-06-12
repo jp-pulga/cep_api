@@ -1,12 +1,13 @@
 {
-  "cep": "78643970",
-  "logradouro": "AC Querência Avenida Cuiabá 35 Setor C",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Querência",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78643970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Querência"
+    },
+    "ibge": 5107065,
+    "logradouro": "Avenida Cuiabá, 35 Setor C  AC Querência;"
 }

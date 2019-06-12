@@ -1,12 +1,13 @@
 {
-  "cep": "79690970",
-  "logradouro": "AC Santa Rita do Pardo Rua Marechal Cândido Mariano Rondon 725",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita do Pardo",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79690970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Santa Rita do Pardo"
+    },
+    "ibge": 5007554,
+    "logradouro": "Rua Marechal Cândido Mariano Rondon, 725  AC Santa Rita do Pardo;"
 }

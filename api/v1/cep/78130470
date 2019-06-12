@@ -1,12 +1,13 @@
 {
-  "cep": "78130470",
-  "logradouro": "Avenida Alzira Santana (Lot Prq Nova Era)",
-  "bairro": "Ikaray",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Ikaray;",
+    "cep": "78130470",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Alzira Santana (Lot Prq N Era);"
 }

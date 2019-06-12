@@ -1,12 +1,13 @@
 {
-  "cep": "79720970",
-  "logradouro": "AC Jatei Avenida Weimar Gonçalves Torres 515",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jateí",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79720970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Jateí"
+    },
+    "ibge": 5005103,
+    "logradouro": "Avenida Weimar Gonçalves Torres, 515  AC Jatei;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78505970",
-  "logradouro": "AC Terra Nova do Norte Praça Treze de Maio 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Terra Nova do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78505970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Terra Nova do Norte"
+    },
+    "ibge": 5108055,
+    "logradouro": "Praça Treze de Maio, 68  AC Terra Nova do Norte;"
 }

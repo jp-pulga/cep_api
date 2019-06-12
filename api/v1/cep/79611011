@@ -1,12 +1,12 @@
 {
-  "cep": "79611011",
-  "logradouro": "Rua Carvalho",
-  "bairro": "Jardim Angélica",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Angélica;",
+    "cep": "79611011",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Carvalho;"
 }

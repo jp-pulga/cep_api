@@ -1,12 +1,13 @@
 {
-  "cep": "79890970",
-  "logradouro": "AC Itaporã Rua Juscelino K Oliveira 684",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaporã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79890970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Itaporã"
+    },
+    "ibge": 5004502,
+    "logradouro": "Rua Juscelino K Oliveira, 684  AC Itaporã;"
 }

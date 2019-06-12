@@ -1,12 +1,12 @@
 {
-  "cep": "79023041",
-  "logradouro": "Rua Rio Negro",
-  "bairro": "Vila Margarida",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Margarida;",
+    "cep": "79023041",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Rio Negro;"
 }

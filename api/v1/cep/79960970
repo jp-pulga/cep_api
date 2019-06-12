@@ -1,12 +1,13 @@
 {
-  "cep": "79960970",
-  "logradouro": "AC Iguatemi Avenida Eufrasina Martins Fernandes 826",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iguatemi",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79960970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Iguatemi"
+    },
+    "ibge": 5004304,
+    "logradouro": "Avenida Eufrasina Martins Fernandes, 826  AC Iguatemi;"
 }

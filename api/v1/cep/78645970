@@ -1,12 +1,13 @@
 {
-  "cep": "78645970",
-  "logradouro": "AC Vila Rica Avenida Brasil 506",
-  "bairro": "Setor Norte",
-  "cidade": {
-    "nome": "Vila Rica",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Norte;",
+    "cep": "78645970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Vila Rica"
+    },
+    "ibge": 5108600,
+    "logradouro": "Avenida Brasil, 506  AC Vila Rica;"
 }

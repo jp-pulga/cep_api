@@ -1,12 +1,12 @@
 {
-  "cep": "79302001",
-  "logradouro": "Rua Antônio João de 0471/472 a 935/0936",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79302001",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Antônio João - de 0471\/472 a 935\/0936;"
 }

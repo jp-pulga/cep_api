@@ -1,12 +1,12 @@
 {
-  "cep": "79303030",
-  "logradouro": "Rua Ladário até 1741/1742",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79303030",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Ladário - até 1741\/1742;"
 }

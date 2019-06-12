@@ -1,12 +1,13 @@
 {
-  "cep": "78675970",
-  "logradouro": "AC Ribeirão Cascalheira Avenida Padre João Bosco 1842",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeirão Cascalheira",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78675970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Ribeirão Cascalheira"
+    },
+    "ibge": 5107180,
+    "logradouro": "Avenida Padre João Bosco, 1842  AC Ribeirão Cascalheira;"
 }

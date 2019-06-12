@@ -1,12 +1,13 @@
 {
-  "cep": "78671970",
-  "logradouro": "AGC Nova Suiá Rua Principal s/n",
-  "bairro": "Posto da Mata",
-  "cidade": {
-    "nome": "São Félix do Araguaia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Posto da Mata;",
+    "cep": "78671970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São Félix do Araguaia"
+    },
+    "ibge": 5107859,
+    "logradouro": "Rua Principal, s\/n  AGC Nova Suiá;"
 }

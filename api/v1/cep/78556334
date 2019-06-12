@@ -1,12 +1,13 @@
 {
-  "cep": "78556334",
-  "logradouro": "Avenida Antonio Rozeguini até 756 - lado par",
-  "bairro": "Residencial Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Nossa Senhora Aparecida;",
+    "cep": "78556334",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida Antonio Rozeguini - até 756 - lado par;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78705050",
-  "logradouro": "Avenida Ary Coelho",
-  "bairro": "Vila Birigui",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Birigui;",
+    "cep": "78705050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Ary Coelho;"
 }

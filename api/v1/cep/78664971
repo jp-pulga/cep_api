@@ -1,12 +1,13 @@
 {
-  "cep": "78664971",
-  "logradouro": "AC Santa Cruz do Xingu Avenida dos Imigrantes 176",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz do Xingu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78664971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Santa Cruz do Xingu"
+    },
+    "ibge": 5107743,
+    "logradouro": "Avenida dos Imigrantes, 176  AC Santa Cruz do Xingu;"
 }

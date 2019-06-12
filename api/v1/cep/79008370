@@ -1,12 +1,12 @@
 {
-  "cep": "79008370",
-  "logradouro": "Rua Doutor Arlindo de Andrade",
-  "bairro": "Amambaí",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Amambaí;",
+    "cep": "79008370",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Doutor Arlindo de Andrade;"
 }

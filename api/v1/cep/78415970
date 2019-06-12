@@ -1,12 +1,13 @@
 {
-  "cep": "78415970",
-  "logradouro": "AC Nova Marilândia Avenida Marechal Rondon 546",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Marilândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78415970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Marilândia"
+    },
+    "ibge": 5108857,
+    "logradouro": "Avenida Marechal Rondon, 546  AGC Nova Marilândia;"
 }

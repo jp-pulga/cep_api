@@ -1,12 +1,13 @@
 {
-  "cep": "96330970",
-  "logradouro": "AC Arroio Grande Rua Júlio de Castilho 543",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arroio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96330970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Arroio Grande"
+    },
+    "ibge": 4301305,
+    "logradouro": "Rua Júlio de Castilho, 543 Sala 01  AC Arroio Grande;"
 }

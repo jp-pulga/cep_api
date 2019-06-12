@@ -1,12 +1,13 @@
 {
-  "cep": "79980970",
-  "logradouro": "AC Mundo Novo Avenida Juscelino Kubistschek de Oliveira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mundo Novo",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79980970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Mundo Novo"
+    },
+    "ibge": 5005681,
+    "logradouro": "Avenida Juscelino Kubistschek de Oliveira, s\/n  AC Mundo Novo;"
 }

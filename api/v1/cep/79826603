@@ -1,12 +1,13 @@
 {
-  "cep": "79826603",
-  "logradouro": "Alameda 01",
-  "bairro": "Jardim Mônaco",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Mônaco;",
+    "cep": "79826603",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "ibge": 5003702,
+    "logradouro": "Alameda 01;"
 }

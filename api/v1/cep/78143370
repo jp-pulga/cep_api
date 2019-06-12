@@ -1,12 +1,12 @@
 {
-  "cep": "78143370",
-  "logradouro": "Rua Terra Nova do Norte (Lot T Nova)",
-  "bairro": "Mapim",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mapim;",
+    "cep": "78143370",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Terra Nova do Norte (Lot T Nova);"
 }

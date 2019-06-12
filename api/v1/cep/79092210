@@ -1,12 +1,12 @@
 {
-  "cep": "79092210",
-  "logradouro": "Rua Tenente Antônio João Ribeiro",
-  "bairro": "Coophamat",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Coophamat;",
+    "cep": "79092210",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Tenente Antônio João Ribeiro;"
 }

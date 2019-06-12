@@ -1,12 +1,13 @@
 {
-  "cep": "78338971",
-  "logradouro": "AC Rondolândia Rua André Maggi s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rondolândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78338971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondolândia"
+    },
+    "ibge": 5107578,
+    "logradouro": "Rua André Maggi, s\/n  AC Rondolândia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79333021",
-  "logradouro": "Alameda Brasil",
-  "bairro": "Generoso",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Generoso;",
+    "cep": "79333021",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Brasil;"
 }

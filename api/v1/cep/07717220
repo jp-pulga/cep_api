@@ -1,12 +1,12 @@
 {
-  "cep": "07717220",
-  "logradouro": "Rua Brasília (Jd Mte Alegre)",
-  "bairro": "Vera Tereza",
-  "cidade": {
-    "nome": "Caieiras",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vera Tereza;",
+    "cep": "07717220",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caieiras"
+    },
+    "logradouro": "Rua Brasília (Jd Mte Alegre);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78564970",
-  "logradouro": "AGC Gleba Mercedes Avenida dos Primeiros 09",
-  "bairro": "Mercedes",
-  "cidade": {
-    "nome": "Tabaporã",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Mercedes;",
+    "cep": "78564970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Tabaporã"
+    },
+    "ibge": 5107941,
+    "logradouro": "Avenida dos Primeiros, 09  AGC Gleba Mercedes;"
 }

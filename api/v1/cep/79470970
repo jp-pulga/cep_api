@@ -1,12 +1,13 @@
 {
-  "cep": "79470970",
-  "logradouro": "AC Rio Negro Rua José Morita 330",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Negro",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79470970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Rio Negro"
+    },
+    "ibge": 5007307,
+    "logradouro": "Rua José Morita, 330  AC Rio Negro;"
 }

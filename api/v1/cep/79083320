@@ -1,12 +1,12 @@
 {
-  "cep": "79083320",
-  "logradouro": "Avenida Graciliano Ramos",
-  "bairro": "Jardim Aero Rancho",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Aero Rancho;",
+    "cep": "79083320",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Graciliano Ramos;"
 }

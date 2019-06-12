@@ -1,12 +1,13 @@
 {
-  "cep": "79470971",
-  "logradouro": "AGC Vila São Francisco Rua Duque de Caxias",
-  "bairro": "Vila São Francisco",
-  "cidade": {
-    "nome": "Rio Negro",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila São Francisco;",
+    "cep": "79470971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Rio Negro"
+    },
+    "ibge": 5007307,
+    "logradouro": "Rua Duque de Caxias  AGC Vila São Francisco;"
 }

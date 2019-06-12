@@ -1,12 +1,13 @@
 {
-  "cep": "98970970",
-  "logradouro": "AC Cândido Godoi Rua Padre Benedito Muster 38",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cândido Godói",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98970970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cândido Godói"
+    },
+    "ibge": 4304309,
+    "logradouro": "Rua Padre Benedito Muster, 38  AC Cândido Godoi;"
 }

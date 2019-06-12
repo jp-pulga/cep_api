@@ -1,12 +1,12 @@
 {
-  "cep": "78150820",
-  "logradouro": "Rua Santo Afonso (Lot Jd Eldorado)",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "78150820",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Santo Afonso (Lot Jd Eldorado);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95680971",
-  "logradouro": "CDD Hortênsias Rua Dom Luiz Guanella 109",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Canela",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "95680971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canela"
+    },
+    "ibge": 4304408,
+    "logradouro": "Rua Dom Luiz Guanella, 109  CDD Hortênsias;"
 }

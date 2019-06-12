@@ -1,12 +1,12 @@
 {
-  "cep": "78115840",
-  "logradouro": "Rua Santo Afonso (Lot U Monteiro)",
-  "bairro": "Ponte Nova",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Ponte Nova;",
+    "cep": "78115840",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Santo Afonso (Lot U Monteiro);"
 }

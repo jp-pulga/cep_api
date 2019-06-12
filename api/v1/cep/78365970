@@ -1,12 +1,13 @@
 {
-  "cep": "78365970",
-  "logradouro": "AC Sapezal Avenida do Jaú 1219",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sapezal",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78365970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sapezal"
+    },
+    "ibge": 5107875,
+    "logradouro": "Avenida do Jaú, 1219  AC Sapezal;"
 }

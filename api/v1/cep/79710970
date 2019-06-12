@@ -1,12 +1,13 @@
 {
-  "cep": "79710970",
-  "logradouro": "AC Vicentina Rua Professor Bernardo Baur 1061",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vicentina",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79710970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Vicentina"
+    },
+    "ibge": 5008404,
+    "logradouro": "Rua Professor Bernardo Baur, 1061  AC Vicentina;"
 }

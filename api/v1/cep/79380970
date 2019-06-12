@@ -1,12 +1,13 @@
 {
-  "cep": "79380970",
-  "logradouro": "AC Miranda Rua Afonso Pena 582",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Miranda",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79380970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Miranda"
+    },
+    "ibge": 5005608,
+    "logradouro": "Avenida Afonso Pena, 185  AC Miranda;"
 }

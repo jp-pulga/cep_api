@@ -1,12 +1,12 @@
 {
-  "cep": "78158128",
-  "logradouro": "Avenida Santa Terezinha (Res Cb Michel)",
-  "bairro": "Jardim dos Estados",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim dos Estados;",
+    "cep": "78158128",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida Santa Terezinha (Res Cb Michel);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79410970",
-  "logradouro": "AC Pedro Gomes Rua Manoel Alves de Moraes Junior 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro Gomes",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79410970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Pedro Gomes"
+    },
+    "ibge": 5006408,
+    "logradouro": "Avenida Manoel Alves de Moraes Junior, 52  AC Pedro Gomes;"
 }

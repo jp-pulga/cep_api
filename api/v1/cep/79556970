@@ -1,12 +1,13 @@
 {
-  "cep": "79556970",
-  "logradouro": "AC Paraíso Avenida Manoel Rodrigues da Cruz 89",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paraíso das Águas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79556970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Paraíso das Águas"
+    },
+    "ibge": 5006275,
+    "logradouro": "Avenida Manoel Rodrigues da Cruz, 89  AC Paraíso;"
 }

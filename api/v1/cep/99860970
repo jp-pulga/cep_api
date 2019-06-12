@@ -1,12 +1,13 @@
 {
-  "cep": "99860970",
-  "logradouro": "AC Cacique Doble Avenida Kaigang 113",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cacique Doble",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99860970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cacique Doble"
+    },
+    "ibge": 4303202,
+    "logradouro": "Avenida Kaigang, 113  AC Cacique Doble;"
 }

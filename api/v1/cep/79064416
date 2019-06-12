@@ -1,12 +1,12 @@
 {
-  "cep": "79064416",
-  "logradouro": "Rua Corumbatai",
-  "bairro": "Jardim do Corrego",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim do Corrego;",
+    "cep": "79064416",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Corumbatai;"
 }

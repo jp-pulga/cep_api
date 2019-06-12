@@ -1,12 +1,13 @@
 {
-  "cep": "95250972",
-  "logradouro": "AGC Linha Vinte e Um de Abril Estrada Principal s/n",
-  "bairro": "Vinte e Um de Abril",
-  "cidade": {
-    "nome": "Antônio Prado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vinte e Um de Abril;",
+    "cep": "95250972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Antônio Prado"
+    },
+    "ibge": 4300802,
+    "logradouro": "Estrada Principal, s\/n  AGC Linha Vinte e Um de Abril;"
 }

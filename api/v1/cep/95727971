@@ -1,12 +1,13 @@
 {
-  "cep": "95727971",
-  "logradouro": "AGC São Luiz de Castro Estrada Principal s/n",
-  "bairro": "São Luiz de Castro",
-  "cidade": {
-    "nome": "Boa Vista do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luiz de Castro;",
+    "cep": "95727971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Boa Vista do Sul"
+    },
+    "ibge": 4302253,
+    "logradouro": "Estrada Principal, s\/n  AGC São Luiz de Castro;"
 }

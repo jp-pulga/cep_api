@@ -1,12 +1,13 @@
 {
-  "cep": "78132310",
-  "logradouro": "Avenida Argentina (Res 15 Maio)",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "78132310",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Argentina (Res 15 Maio);"
 }

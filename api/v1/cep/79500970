@@ -1,12 +1,13 @@
 {
-  "cep": "79500970",
-  "logradouro": "AC Paranaiba Rua Coronel Carlos 1641",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paranaíba",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79500970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Paranaíba"
+    },
+    "ibge": 5006309,
+    "logradouro": "Rua Coronel Carlos, 1641  AC Paranaiba;"
 }

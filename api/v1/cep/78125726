@@ -1,12 +1,13 @@
 {
-  "cep": "78125726",
-  "logradouro": "Avenida Alzira Santana (Lot C Esportivo)",
-  "bairro": "Centro-Sul",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78125726",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Alzira Santana (Lot C Esportivo);"
 }

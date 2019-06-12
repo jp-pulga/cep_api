@@ -1,12 +1,13 @@
 {
-  "cep": "78730394",
-  "logradouro": "Avenida Canindé",
-  "bairro": "Jardim Iguassu II",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Iguassu II;",
+    "cep": "78730394",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Canindé;"
 }

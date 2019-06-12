@@ -1,12 +1,13 @@
 {
-  "cep": "78745030",
-  "logradouro": "Avenida Bandeirantes",
-  "bairro": "Jardim Ipanema",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Ipanema;",
+    "cep": "78745030",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Bandeirantes;"
 }

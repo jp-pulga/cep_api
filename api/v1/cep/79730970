@@ -1,12 +1,13 @@
 {
-  "cep": "79730970",
-  "logradouro": "AC Glória de Dourados Rua Antônio Schiave Neto 401",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Glória de Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79730970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Glória de Dourados"
+    },
+    "ibge": 5004007,
+    "logradouro": "Rua Antônio Schiave Neto, 401  AC Glória de Dourados;"
 }

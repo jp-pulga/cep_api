@@ -1,12 +1,12 @@
 {
-  "cep": "94090060",
-  "logradouro": "Rua Monte Rey",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "94090060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Monte Rey;"
 }

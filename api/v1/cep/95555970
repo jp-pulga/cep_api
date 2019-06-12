@@ -1,12 +1,13 @@
 {
-  "cep": "95555970",
-  "logradouro": "AC Capão da Canoa Rua Andira 497 Sala 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capão da Canoa",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95555970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Capão da Canoa"
+    },
+    "ibge": 4304630,
+    "logradouro": "Rua Andira, 497 Sala 2  AC Capão da Canoa;"
 }

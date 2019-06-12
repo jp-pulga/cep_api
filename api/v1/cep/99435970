@@ -1,12 +1,13 @@
 {
-  "cep": "99435970",
-  "logradouro": "AC Campos Borges Avenida Maurício Cardoso 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campos Borges",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99435970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Campos Borges"
+    },
+    "ibge": 4304101,
+    "logradouro": "Avenida Maurício Cardoso, 310  AC Campos Borges;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78554234",
-  "logradouro": "Rua Vila Rica",
-  "bairro": "Residencial Jardim Araguaia",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Jardim Araguaia;",
+    "cep": "78554234",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "logradouro": "Rua Vila Rica;"
 }

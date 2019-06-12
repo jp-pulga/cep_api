@@ -1,12 +1,12 @@
 {
-  "cep": "78750650",
-  "logradouro": "Avenida Juscelino Ferreira de Farias",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "78750650",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Juscelino Ferreira de Farias;"
 }

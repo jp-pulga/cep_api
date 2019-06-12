@@ -1,12 +1,13 @@
 {
-  "cep": "79190970",
-  "logradouro": "AC Terenos Rua Doutor Ari Coelho de Oliveira 458",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Terenos",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79190970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Terenos"
+    },
+    "ibge": 5008008,
+    "logradouro": "Rua Doutor Ari Coelho de Oliveira, 458  AC Terenos;"
 }

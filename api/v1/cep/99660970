@@ -1,12 +1,13 @@
 {
-  "cep": "99660970",
-  "logradouro": "AC Campinas do Sul Avenida Maurício Cardoso 420",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campinas do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99660970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Campinas do Sul"
+    },
+    "ibge": 4303806,
+    "logradouro": "Avenida Maurício Cardoso, 420  AC Campinas do Sul;"
 }

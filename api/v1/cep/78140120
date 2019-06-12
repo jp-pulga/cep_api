@@ -1,12 +1,13 @@
 {
-  "cep": "78140120",
-  "logradouro": "Avenida Aleixo Ramos da Conceição (Lot Figueirinha)",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "78140120",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Aleixo Ramos da Conceição (Lot Figueirinha);"
 }

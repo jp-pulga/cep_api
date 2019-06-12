@@ -1,12 +1,13 @@
 {
-  "cep": "95250970",
-  "logradouro": "AC Antônio Prado Travessa José Rigon 75",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antônio Prado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95250970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Antônio Prado"
+    },
+    "ibge": 4300802,
+    "logradouro": "Travessa José Rigon, 75  AC Antônio Prado;"
 }

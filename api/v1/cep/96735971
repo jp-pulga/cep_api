@@ -1,12 +1,13 @@
 {
-  "cep": "96735971",
-  "logradouro": "AC Barão do Triunfo Rua Tacinari Casaré 241",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barão do Triunfo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96735971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Barão do Triunfo"
+    },
+    "ibge": 4301750,
+    "logradouro": "Rua Tacinari Casaré, 241  AC Barão do Triunfo;"
 }

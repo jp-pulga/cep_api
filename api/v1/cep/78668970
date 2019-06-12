@@ -1,12 +1,13 @@
 {
-  "cep": "78668970",
-  "logradouro": "AGC Serra Nova Dourada Rua Quinze de Novembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra Nova Dourada",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78668970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Serra Nova Dourada"
+    },
+    "ibge": 5107883,
+    "logradouro": "Rua Quinze de Novembro, s\/n  AGC Serra Nova Dourada;"
 }

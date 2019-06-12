@@ -1,12 +1,13 @@
 {
-  "cep": "79220970",
-  "logradouro": "AC Nioaque Avenida Coronel Camisão 770",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nioaque",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79220970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Nioaque"
+    },
+    "ibge": 5005806,
+    "logradouro": "Avenida Coronel Camisão, 770  AC Nioaque;"
 }

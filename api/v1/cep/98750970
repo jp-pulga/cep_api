@@ -1,12 +1,13 @@
 {
-  "cep": "98750970",
-  "logradouro": "AC Ajuricaba Rua Oscar Schmidt 201",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ajuricaba",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98750970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ajuricaba"
+    },
+    "ibge": 4300208,
+    "logradouro": "Rua Oscar Schmidt, 201  AC Ajuricaba;"
 }

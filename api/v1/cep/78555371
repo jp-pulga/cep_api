@@ -1,12 +1,13 @@
 {
-  "cep": "78555371",
-  "logradouro": "Avenida Bruno Martini de 980 a 1196 - lado par",
-  "bairro": "Jardim Itália II",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Itália II;",
+    "cep": "78555371",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida Bruno Martini - de 980 a 1196 - lado par;"
 }

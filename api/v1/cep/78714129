@@ -1,12 +1,13 @@
 {
-  "cep": "78714129",
-  "logradouro": "Avenida Cassimiro de Abreu",
-  "bairro": "Jardim do Sol",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim do Sol;",
+    "cep": "78714129",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Cassimiro de Abreu;"
 }

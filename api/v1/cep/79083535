@@ -1,12 +1,12 @@
 {
-  "cep": "79083535",
-  "logradouro": "Jardim Manacá",
-  "bairro": "Jardim Aero Rancho",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Aero Rancho;",
+    "cep": "79083535",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Jardim Manacá;"
 }

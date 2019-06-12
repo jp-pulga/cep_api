@@ -1,12 +1,13 @@
 {
-  "cep": "95727972",
-  "logradouro": "AC Boa Vista do Sul Rua Vinte e Dois de Outubro 112 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Vista do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95727972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Boa Vista do Sul"
+    },
+    "ibge": 4302253,
+    "logradouro": "Rua Vinte e Dois de Outubro, 112 Sala 02  AC Boa Vista do Sul;"
 }

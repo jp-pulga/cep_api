@@ -1,12 +1,12 @@
 {
-  "cep": "79005001",
-  "logradouro": "Avenida Afonso Pena até 1500 - lado par",
-  "bairro": "Amambaí",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Amambaí;",
+    "cep": "79005001",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Afonso Pena - até 1500 - lado par;"
 }

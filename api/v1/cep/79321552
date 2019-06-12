@@ -1,12 +1,13 @@
 {
-  "cep": "79321552",
-  "logradouro": "Alameda Cabo Verde",
-  "bairro": "Vila Guarani",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Guarani;",
+    "cep": "79321552",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Cabo Verde;"
 }

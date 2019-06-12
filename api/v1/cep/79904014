@@ -1,12 +1,13 @@
 {
-  "cep": "79904014",
-  "logradouro": "Alameda dos Trilhos",
-  "bairro": "Vila Ferroviária I",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Ferroviária I;",
+    "cep": "79904014",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Alameda dos Trilhos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78750540",
-  "logradouro": "Avenida Cláudio Manoel da Costa",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "78750540",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Cláudio Manoel da Costa;"
 }

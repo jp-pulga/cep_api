@@ -1,12 +1,12 @@
 {
-  "cep": "78710025",
-  "logradouro": "Travessa Santa Terezinha",
-  "bairro": "La Salle II",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "La Salle II;",
+    "cep": "78710025",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Travessa Santa Terezinha;"
 }

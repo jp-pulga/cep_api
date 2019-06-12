@@ -1,12 +1,13 @@
 {
-  "cep": "95250971",
-  "logradouro": "AGC Vila Santana A Prado Rua Principal 555",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antônio Prado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95250971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Antônio Prado"
+    },
+    "ibge": 4300802,
+    "logradouro": "Rua Principal, 555  AGC Vila Santana A Prado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78750560",
-  "logradouro": "Rua José Alves Maciel",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "78750560",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua José Alves Maciel;"
 }

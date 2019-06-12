@@ -1,12 +1,13 @@
 {
-  "cep": "78670970",
-  "logradouro": "AC São Felix do Araguaia Rua Manoel Ferreira Rocha 369",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Félix do Araguaia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78670970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São Félix do Araguaia"
+    },
+    "ibge": 5107859,
+    "logradouro": "Rua Manoel Ferreira Rocha, 369  AC São Felix do Araguaia;"
 }

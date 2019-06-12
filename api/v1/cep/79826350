@@ -1,12 +1,13 @@
 {
-  "cep": "79826350",
-  "logradouro": "Alameda das Acácias",
-  "bairro": "Portal de Dourados",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Portal de Dourados;",
+    "cep": "79826350",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "ibge": 5003702,
+    "logradouro": "Alameda das Acácias;"
 }

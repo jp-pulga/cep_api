@@ -1,12 +1,13 @@
 {
-  "cep": "95315970",
-  "logradouro": "AC Caseiros Avenida José Cirino Rodrigues 191",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caseiros",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95315970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caseiros"
+    },
+    "ibge": 4304952,
+    "logradouro": "Avenida José Cirino Rodrigues, 191  AC Caseiros;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95980970",
-  "logradouro": "AC Anta Gorda Rua Arminho Mioto 1194",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anta Gorda",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95980970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Anta Gorda"
+    },
+    "ibge": 4300703,
+    "logradouro": "Rua Arminho Mioto, 1194  AC Anta Gorda;"
 }

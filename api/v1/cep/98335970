@@ -1,12 +1,13 @@
 {
-  "cep": "98335970",
-  "logradouro": "AC Boa Vista das Missões Rua Vinte de Março 932",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Vista das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98335970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Boa Vista das Missões"
+    },
+    "ibge": 4302154,
+    "logradouro": "Rua Vinte de Março 932  AC Boa Vista das Missões;"
 }

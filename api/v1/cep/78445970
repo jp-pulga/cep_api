@@ -1,12 +1,13 @@
 {
-  "cep": "78445970",
-  "logradouro": "AC Nova Maringá Rua Amos Bernardino Zanchet s/n Quadra 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Maringá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78445970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Nova Maringá"
+    },
+    "ibge": 5108907,
+    "logradouro": "Rua Amós Bernardino Zanchet, s\/n Quadra 1  AC Nova Maringá;"
 }

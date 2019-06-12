@@ -1,12 +1,13 @@
 {
-  "cep": "78555286",
-  "logradouro": "Avenida André Antônio Maggi de 3177 a 3729 - lado ímpar",
-  "bairro": "Loteamento Village",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Loteamento Village;",
+    "cep": "78555286",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida André Antônio Maggi - de 3177 a 3729 - lado ímpar;"
 }

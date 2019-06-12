@@ -1,12 +1,13 @@
 {
-  "cep": "78556060",
-  "logradouro": "Avenida das Acácias de 301 a 743 - lado ímpar",
-  "bairro": "Jardim Botânico",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Botânico;",
+    "cep": "78556060",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida das Acácias - de 301 a 743 - lado ímpar;"
 }

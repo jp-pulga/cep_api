@@ -1,12 +1,11 @@
 {
-  "cep": "79530000",
-  "logradouro": "Alcinópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alcinópolis",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "cep": "79530000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Alcinópolis"
+    },
+    "ibge": 5000252
 }

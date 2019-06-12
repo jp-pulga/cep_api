@@ -1,12 +1,12 @@
 {
-  "cep": "79904662",
-  "logradouro": "Rua General Alberto Corrêa de Miranda Lima",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79904662",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "logradouro": "Rua General Alberto Corrêa de Miranda Lima;"
 }

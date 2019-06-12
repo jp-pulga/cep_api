@@ -1,12 +1,13 @@
 {
-  "cep": "95870972",
-  "logradouro": "AGC Faxinal do Silva Jorge Rua Principal s/n",
-  "bairro": "Faxinal do Silva Jorge",
-  "cidade": {
-    "nome": "Bom Retiro do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Faxinal do Silva Jorge;",
+    "cep": "95870972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bom Retiro do Sul"
+    },
+    "ibge": 4302402,
+    "logradouro": "Rua Principal, s\/n  AGC Faxinal do Silva Jorge;"
 }

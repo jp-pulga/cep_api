@@ -1,12 +1,13 @@
 {
-  "cep": "79900294",
-  "logradouro": "Avenida Belmiro de Albuquerque",
-  "bairro": "Vila Alegrete",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Alegrete;",
+    "cep": "79900294",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Belmiro de Albuquerque;"
 }

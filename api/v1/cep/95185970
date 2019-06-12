@@ -1,12 +1,13 @@
 {
-  "cep": "95185970",
-  "logradouro": "AC Carlos Barbosa Rua Buarque de Macedo 4085",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carlos Barbosa",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95185970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Carlos Barbosa"
+    },
+    "ibge": 4304804,
+    "logradouro": "Rua Buarque de Macedo, 4085  AC Carlos Barbosa;"
 }

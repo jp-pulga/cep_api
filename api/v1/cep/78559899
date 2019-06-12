@@ -1,12 +1,13 @@
 {
-  "cep": "78559899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Sinop",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Área Rural de Sinop;",
+    "cep": "78559899",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Área Rural;"
 }

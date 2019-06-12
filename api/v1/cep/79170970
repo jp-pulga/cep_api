@@ -1,12 +1,13 @@
 {
-  "cep": "79170970",
-  "logradouro": "AC Sidrolândia Rua Lúcia de Souza Mello 444",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sidrolândia",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79170970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Sidrolândia"
+    },
+    "ibge": 5007901,
+    "logradouro": "Rua Lúcia de Souza Mello, 444  AC Sidrolândia;"
 }

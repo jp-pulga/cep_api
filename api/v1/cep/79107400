@@ -1,12 +1,12 @@
 {
-  "cep": "79107400",
-  "logradouro": "Rua Itaporanga",
-  "bairro": "Jardim do Zé Pereira",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim do Zé Pereira;",
+    "cep": "79107400",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Itaporanga;"
 }

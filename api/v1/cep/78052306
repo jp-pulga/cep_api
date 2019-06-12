@@ -1,12 +1,12 @@
 {
-  "cep": "78052306",
-  "logradouro": "Rua Rio Branco",
-  "bairro": "Altos da Serra I",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Altos da Serra I;",
+    "cep": "78052306",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Rio Branco;"
 }

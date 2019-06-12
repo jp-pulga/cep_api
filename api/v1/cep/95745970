@@ -1,12 +1,13 @@
 {
-  "cep": "95745970",
-  "logradouro": "AC Capela de Santana Avenida Coronel Orestes Lucas 2170",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capela de Santana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95745970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Capela de Santana"
+    },
+    "ibge": 4304689,
+    "logradouro": "Avenida Coronel Orestes Lucas, 2170  AC Capela de Santana;"
 }

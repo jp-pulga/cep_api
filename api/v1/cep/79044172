@@ -1,12 +1,12 @@
 {
-  "cep": "79044172",
-  "logradouro": "Rua Vicentina Coelho Neto",
-  "bairro": "Vivendas do Parque",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vivendas do Parque;",
+    "cep": "79044172",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Vicentina Coelho Neto;"
 }

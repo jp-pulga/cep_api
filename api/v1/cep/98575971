@@ -1,12 +1,13 @@
 {
-  "cep": "98575971",
-  "logradouro": "AC Bom Progresso Avenida Castelo Branco 1323",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Progresso",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98575971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bom Progresso"
+    },
+    "ibge": 4302378,
+    "logradouro": "Avenida Castelo Branco, 1323  AC Bom Progresso;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78715319",
-  "logradouro": "Rua C",
-  "bairro": "Jardim Vera Cruz",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Vera Cruz;",
+    "cep": "78715319",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua C;"
 }

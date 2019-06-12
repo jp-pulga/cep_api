@@ -1,12 +1,13 @@
 {
-  "cep": "78554150",
-  "logradouro": "Avenida das Águias de 1390 a 1676 - lado par",
-  "bairro": "Jardim Veneza",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Veneza;",
+    "cep": "78554150",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida das Águias - de 1260 a 1616 - lado par;"
 }

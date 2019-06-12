@@ -1,12 +1,13 @@
 {
-  "cep": "79321626",
-  "logradouro": "Alameda B",
-  "bairro": "Conjunto Cadiwéus",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Conjunto Cadiwéus;",
+    "cep": "79321626",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda B;"
 }

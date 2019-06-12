@@ -1,12 +1,12 @@
 {
-  "cep": "79955970",
-  "logradouro": "AC Juti Avenida Sergio Maciel 1070",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jutí",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79955970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Jutí"
+    },
+    "logradouro": "Avenida Sergio Maciel, 1070  AC Juti;"
 }

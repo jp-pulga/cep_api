@@ -1,12 +1,13 @@
 {
-  "cep": "78555562",
-  "logradouro": "Avenida Copacabana",
-  "bairro": "Residencial Ipanema",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Ipanema;",
+    "cep": "78555562",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida Copacabana;"
 }

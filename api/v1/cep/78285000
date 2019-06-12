@@ -1,12 +1,11 @@
 {
-  "cep": "78285000",
-  "logradouro": "São José dos Quatro Marcos",
-  "bairro": "",
-  "cidade": {
-    "nome": "São José dos Quatro Marcos",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78285000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São José dos Quatro Marcos"
+    },
+    "ibge": 5107107
 }

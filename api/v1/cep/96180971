@@ -1,12 +1,13 @@
 {
-  "cep": "96180971",
-  "logradouro": "CDD Camaquã Rua Bento Gonçalves 1320",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camaquã",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96180971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Camaquã"
+    },
+    "ibge": 4303509,
+    "logradouro": "Rua Bento Gonçalves, 1320  CDD Camaquã;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78773970",
-  "logradouro": "AC São José do Povo Rua José Salmen Hanze 927",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Povo",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78773970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São José do Povo"
+    },
+    "ibge": 5107297,
+    "logradouro": "Rua José Salmen Hanze, 927  AGC São José do Povo;"
 }

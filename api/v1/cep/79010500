@@ -1,12 +1,13 @@
 {
-  "cep": "79010500",
-  "logradouro": "Avenida Mascarenhas de Moraes de 1002/1003 ao fim",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "79010500",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Mascarenhas de Moraes - de 1002\/1003 ao fim;"
 }

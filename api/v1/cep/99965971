@@ -1,12 +1,13 @@
 {
-  "cep": "99965971",
-  "logradouro": "AC Água Santa Rua Padre Júlio Marin 669",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Água Santa",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99965971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Água Santa"
+    },
+    "ibge": 4300059,
+    "logradouro": "Rua Padre Júlio Marin, 669  AC Água Santa;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "79670000",
-  "logradouro": "Brasilândia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Brasilândia",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "cep": "79670000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Brasilândia"
+    },
+    "ibge": 5002308
 }

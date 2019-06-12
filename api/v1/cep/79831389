@@ -1,12 +1,12 @@
 {
-  "cep": "79831389",
-  "logradouro": "Rua Paranhos",
-  "bairro": "Jardim Piratininga",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Piratininga;",
+    "cep": "79831389",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Paranhos;"
 }

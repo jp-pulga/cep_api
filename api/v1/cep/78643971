@@ -1,12 +1,13 @@
 {
-  "cep": "78643971",
-  "logradouro": "AGC Coutinho União Rua Principal s/n",
-  "bairro": "Coutinho",
-  "cidade": {
-    "nome": "Querência",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Coutinho;",
+    "cep": "78643971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Querência"
+    },
+    "ibge": 5107065,
+    "logradouro": "Rua Principal, s\/n  AGC Coutinho União;"
 }

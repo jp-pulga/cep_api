@@ -1,12 +1,13 @@
 {
-  "cep": "79428971",
-  "logradouro": "AC Figueirão Avenida Moises Araujo Galvão 592",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Figueirão",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79428971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Figueirão"
+    },
+    "ibge": 5003900,
+    "logradouro": "Avenida Moises Araujo Galvão, 592  AC Figueirão;"
 }

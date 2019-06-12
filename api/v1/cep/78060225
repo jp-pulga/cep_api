@@ -1,12 +1,12 @@
 {
-  "cep": "78060225",
-  "logradouro": "Rua Rosário Oeste",
-  "bairro": "Santo Antônio do Pedregal",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Santo Antônio do Pedregal;",
+    "cep": "78060225",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Rosário Oeste;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95765970",
-  "logradouro": "AC Bom Princípio Rua Vinte e Cinco de Julho 235",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Princípio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95765970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bom Princípio"
+    },
+    "ibge": 4302352,
+    "logradouro": "Rua Vinte e Cinco de Julho, 235  AC Bom Princípio;"
 }

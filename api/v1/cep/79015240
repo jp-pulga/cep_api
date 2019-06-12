@@ -1,12 +1,12 @@
 {
-  "cep": "79015240",
-  "logradouro": "Rua Costa Rica",
-  "bairro": "Jardim Presidente",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Presidente;",
+    "cep": "79015240",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Costa Rica;"
 }

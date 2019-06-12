@@ -1,12 +1,13 @@
 {
-  "cep": "78550222",
-  "logradouro": "Avenida das Embaúbas de 736 a 1100 - lado par",
-  "bairro": "Setor Comercial",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Comercial;",
+    "cep": "78550222",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida das Embaúbas - de 736 a 1100 - lado par;"
 }

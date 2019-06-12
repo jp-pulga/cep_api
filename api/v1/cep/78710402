@@ -1,12 +1,12 @@
 {
-  "cep": "78710402",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Jardim Santa Marta",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Santa Marta;",
+    "cep": "78710402",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

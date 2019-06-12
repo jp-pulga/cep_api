@@ -1,12 +1,13 @@
 {
-  "cep": "79321551",
-  "logradouro": "Alameda Beirute",
-  "bairro": "Popular Nova",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Popular Nova;",
+    "cep": "79321551",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Beirute;"
 }

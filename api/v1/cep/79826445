@@ -1,12 +1,13 @@
 {
-  "cep": "79826445",
-  "logradouro": "Alameda das Margaridas",
-  "bairro": "Jardim Aline",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Aline;",
+    "cep": "79826445",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "ibge": 5003702,
+    "logradouro": "Alameda das Margaridas;"
 }

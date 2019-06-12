@@ -1,12 +1,13 @@
 {
-  "cep": "78507970",
-  "logradouro": "AGC Sexta Agrovila Rua Principal s/n",
-  "bairro": "Miraguai do Norte",
-  "cidade": {
-    "nome": "Terra Nova do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Miraguai do Norte;",
+    "cep": "78507970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Terra Nova do Norte"
+    },
+    "ibge": 5108055,
+    "logradouro": "Rua Principal, s\/n  AGC Sexta Agrovila;"
 }

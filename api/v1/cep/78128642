@@ -1,12 +1,12 @@
 {
-  "cep": "78128642",
-  "logradouro": "Rua Santa Terezinha (Lot Sta Maria)",
-  "bairro": "Costa Verde",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Costa Verde;",
+    "cep": "78128642",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Santa Terezinha (Lot Sta Maria);"
 }

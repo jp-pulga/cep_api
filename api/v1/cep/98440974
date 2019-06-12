@@ -1,12 +1,13 @@
 {
-  "cep": "98440974",
-  "logradouro": "AGC Linha Mendes Estrada Moraes Km 11",
-  "bairro": "Linha Mendes",
-  "cidade": {
-    "nome": "Caiçara",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Linha Mendes;",
+    "cep": "98440974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caiçara"
+    },
+    "ibge": 4303400,
+    "logradouro": "Estrada Moraes, Km 11  AGC Linha Mendes;"
 }

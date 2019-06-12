@@ -1,12 +1,13 @@
 {
-  "cep": "78180970",
-  "logradouro": "AC Santo Antônio do Leverger Rodovia Coronel Palmiro de Barros s/n",
-  "bairro": "Fronteira",
-  "cidade": {
-    "nome": "Santo Antônio do Leverger",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Fronteira;",
+    "cep": "78180970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Santo Antônio do Leverger"
+    },
+    "ibge": 5107800,
+    "logradouro": "Rodovia Coronel Palmiro de Barros, s\/n  AC Santo Antônio do Leverger;"
 }

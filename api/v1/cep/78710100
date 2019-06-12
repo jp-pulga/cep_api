@@ -1,12 +1,12 @@
 {
-  "cep": "78710100",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "La Salle II",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "La Salle II;",
+    "cep": "78710100",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

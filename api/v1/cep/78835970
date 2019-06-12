@@ -1,12 +1,13 @@
 {
-  "cep": "78835970",
-  "logradouro": "AC São Pedro da Cipa Avenida Presidente Vargas 380",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro da Cipa",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78835970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São Pedro da Cipa"
+    },
+    "ibge": 5107404,
+    "logradouro": "Avenida Presidente Vargas, 380  AC São Pedro da Cipa;"
 }

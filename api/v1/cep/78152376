@@ -1,12 +1,12 @@
 {
-  "cep": "78152376",
-  "logradouro": "Rua Rosário Oeste (Res S Mateus)",
-  "bairro": "São Matheus",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Matheus;",
+    "cep": "78152376",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Rosário Oeste (Res S Mateus);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "96750970",
-  "logradouro": "AC Butiá Avenida Piratini 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Butiá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96750970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Butiá"
+    },
+    "ibge": 4302709,
+    "logradouro": "Avenida Piratini, 310  AC Butiá;"
 }

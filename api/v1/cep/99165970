@@ -1,12 +1,13 @@
 {
-  "cep": "99165970",
-  "logradouro": "AC Camargo Avenida Brasil 890",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camargo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99165970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Camargo"
+    },
+    "ibge": 4303558,
+    "logradouro": "Avenida Brasil, 890  AC Camargo;"
 }

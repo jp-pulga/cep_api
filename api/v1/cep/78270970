@@ -1,12 +1,13 @@
 {
-  "cep": "78270970",
-  "logradouro": "AC Salto do Céu Avenida Pedro Pedrossian s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salto do Céu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78270970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Salto do Céu"
+    },
+    "ibge": 5107750,
+    "logradouro": "Avenida Mato Grosso, s\/n  AC Salto do Céu;"
 }

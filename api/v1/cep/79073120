@@ -1,12 +1,12 @@
 {
-  "cep": "79073120",
-  "logradouro": "Rua Marajoara",
-  "bairro": "Jardim Centro Oeste",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Centro Oeste;",
+    "cep": "79073120",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Marajoara;"
 }

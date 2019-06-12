@@ -1,12 +1,13 @@
 {
-  "cep": "79021300",
-  "logradouro": "Avenida Doutor Paulo Machado até 1283/1284",
-  "bairro": "Santa Fé",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Santa Fé;",
+    "cep": "79021300",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Doutor Paulo Machado - até 1283\/1284;"
 }

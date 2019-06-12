@@ -1,12 +1,12 @@
 {
-  "cep": "79033337",
-  "logradouro": "Rua João Antônio Lunardi",
-  "bairro": "Mata do Jacinto",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Mata do Jacinto;",
+    "cep": "79033337",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua João Antônio Lunardi;"
 }

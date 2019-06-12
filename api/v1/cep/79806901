@@ -1,12 +1,12 @@
 {
-  "cep": "79806901",
-  "logradouro": "Edifício Eldorado Rua Camilo Ermelindo da Silva 720",
-  "bairro": "Jardim Caramuru",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Caramuru;",
+    "cep": "79806901",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Camilo Ermelindo da Silva, 720  Edifício Eldorado;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95515971",
-  "logradouro": "AC Caraá Rua Lourenço Correia Gomes 205",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caraá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95515971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caraá"
+    },
+    "ibge": 4304713,
+    "logradouro": "Rua Lourenço Correia Gomes, 205  AC Caraá;"
 }

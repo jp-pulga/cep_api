@@ -1,12 +1,13 @@
 {
-  "cep": "96930970",
-  "logradouro": "AC Candelária Rua Sete de Setembro 243",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Candelária",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96930970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Candelária"
+    },
+    "ibge": 4304200,
+    "logradouro": "Rua Sete de Setembro, 243  AC Candelária;"
 }

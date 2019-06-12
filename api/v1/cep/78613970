@@ -1,12 +1,13 @@
 {
-  "cep": "78613970",
-  "logradouro": "AC Ribeirãozinho Rua Antônio João 213",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeirãozinho",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78613970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Ribeirãozinho"
+    },
+    "ibge": 5107198,
+    "logradouro": "Rua Antônio João, 213  AC Ribeirãozinho;"
 }

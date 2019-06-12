@@ -1,12 +1,13 @@
 {
-  "cep": "79021375",
-  "logradouro": "Avenida Nelly Martins",
-  "bairro": "Coophafé",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Coophafé;",
+    "cep": "79021375",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "ibge": 5002704,
+    "logradouro": "Avenida Nelly Martins;"
 }

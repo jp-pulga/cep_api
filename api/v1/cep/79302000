@@ -1,12 +1,12 @@
 {
-  "cep": "79302000",
-  "logradouro": "Rua Antônio João até 469/0470",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79302000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Antônio João - até 469\/0470;"
 }

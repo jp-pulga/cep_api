@@ -1,12 +1,13 @@
 {
-  "cep": "78545970",
-  "logradouro": "AC Santa Carmem Avenida do Comércio 1164",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Carmem",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78545970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Santa Carmem"
+    },
+    "ibge": 5107248,
+    "logradouro": "Avenida do Comércio, 1164  AC Santa Carmem;"
 }

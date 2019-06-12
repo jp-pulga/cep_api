@@ -1,12 +1,13 @@
 {
-  "cep": "79320122",
-  "logradouro": "Alameda Beirute",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "79320122",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Beirute;"
 }

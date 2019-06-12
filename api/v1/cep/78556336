@@ -1,12 +1,13 @@
 {
-  "cep": "78556336",
-  "logradouro": "Avenida André Antônio Maggi de 2965 a 3175 - lado ímpar",
-  "bairro": "Residencial Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Nossa Senhora Aparecida;",
+    "cep": "78556336",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida André Antônio Maggi - de 2965 a 3175 - lado ímpar;"
 }

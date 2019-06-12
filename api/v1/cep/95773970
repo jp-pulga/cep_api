@@ -1,12 +1,13 @@
 {
-  "cep": "95773970",
-  "logradouro": "AC Alto Feliz Avenida A. J. Renner 209",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Feliz",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95773970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alto Feliz"
+    },
+    "ibge": 4300570,
+    "logradouro": "Avenida A. J. Renner, 209  AC Alto Feliz;"
 }

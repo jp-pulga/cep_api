@@ -1,12 +1,13 @@
 {
-  "cep": "96950970",
-  "logradouro": "AC Arroio do Tigre Rua Marechal Castelo Branco 467",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arroio do Tigre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96950970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Arroio do Tigre"
+    },
+    "ibge": 4301206,
+    "logradouro": "Rua Marechal Castelo Branco, 467  AC Arroio do Tigre;"
 }

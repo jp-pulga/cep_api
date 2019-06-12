@@ -1,12 +1,13 @@
 {
-  "cep": "78115601",
-  "logradouro": "Avenida Gonçalo Botelho de Campos (Lot Manga)",
-  "bairro": "Ponte Nova",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Ponte Nova;",
+    "cep": "78115601",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Gonçalo Botelho de Campos (Lot Manga);"
 }

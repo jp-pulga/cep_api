@@ -1,12 +1,12 @@
 {
-  "cep": "79814160",
-  "logradouro": "Rua Bandeirantes",
-  "bairro": "Jardim Londrina",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Londrina;",
+    "cep": "79814160",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Bandeirantes;"
 }

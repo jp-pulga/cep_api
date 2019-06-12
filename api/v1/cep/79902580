@@ -1,12 +1,13 @@
 {
-  "cep": "79902580",
-  "logradouro": "Avenida Belmiro de Albuquerque",
-  "bairro": "Jardim Nova Ponta Porã",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Nova Ponta Porã;",
+    "cep": "79902580",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Belmiro de Albuquerque;"
 }

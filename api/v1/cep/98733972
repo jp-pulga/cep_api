@@ -1,12 +1,13 @@
 {
-  "cep": "98733972",
-  "logradouro": "AC Bozano Rua Silvio Frederico Ceccatto 108",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bozano",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98733972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bozano"
+    },
+    "ibge": 4302584,
+    "logradouro": "Rua Silvio Frederico Ceccatto, 108  AC Bozano;"
 }

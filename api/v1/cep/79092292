@@ -1,12 +1,12 @@
 {
-  "cep": "79092292",
-  "logradouro": "Rua Pedro Dourado da Silva",
-  "bairro": "Vila Flório",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Flório;",
+    "cep": "79092292",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Pedro Dourado da Silva;"
 }

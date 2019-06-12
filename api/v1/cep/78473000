@@ -1,12 +1,11 @@
 {
-  "cep": "78473000",
-  "logradouro": "Arruda (Rosário Oeste)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Arruda (Rosário Oeste)",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "cep": "78473000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rosário Oeste"
+    },
+    "ibge": 5107701
 }

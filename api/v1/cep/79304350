@@ -1,12 +1,13 @@
 {
-  "cep": "79304350",
-  "logradouro": "Alameda Brasília",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "79304350",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Brasília;"
 }

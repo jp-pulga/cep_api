@@ -1,12 +1,12 @@
 {
-  "cep": "79006902",
-  "logradouro": "Recanto das Orquídeas Rua Tenente Antônio João de Figueiredo 215",
-  "bairro": "Vila Bandeirante",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Bandeirante;",
+    "cep": "79006902",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Tenente Antônio João de Figueiredo, 215  Recanto das Orquídeas;"
 }

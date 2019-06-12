@@ -1,12 +1,11 @@
 {
-  "cep": "79780000",
-  "logradouro": "Bataguassu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bataguassu",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "cep": "79780000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Bataguassu"
+    },
+    "ibge": 5001904
 }

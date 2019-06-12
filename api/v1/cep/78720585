@@ -1,12 +1,13 @@
 {
-  "cep": "78720585",
-  "logradouro": "Avenida Bahia",
-  "bairro": "Vila Operária",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Operária;",
+    "cep": "78720585",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Bahia;"
 }

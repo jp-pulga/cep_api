@@ -1,12 +1,13 @@
 {
-  "cep": "79620111",
-  "logradouro": "Acesso Dracena",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "79620111",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "ibge": 5008305,
+    "logradouro": "Acesso Dracena;"
 }

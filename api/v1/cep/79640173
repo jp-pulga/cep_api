@@ -1,12 +1,12 @@
 {
-  "cep": "79640173",
-  "logradouro": "Rua Goiás",
-  "bairro": "Jardim Bela Vista",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Bela Vista;",
+    "cep": "79640173",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Goiás;"
 }

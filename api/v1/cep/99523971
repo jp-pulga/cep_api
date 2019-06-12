@@ -1,12 +1,13 @@
 {
-  "cep": "99523971",
-  "logradouro": "AC Almirante Tamandaré do Sul Avenida General Lopes de Oliveira 760 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Almirante Tamandaré do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99523971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Almirante Tamandaré do Sul"
+    },
+    "ibge": 4300471,
+    "logradouro": "Avenida General Lopes de Oliveira, 760 Sala 01  AC Almirante Tamandaré do Sul;"
 }

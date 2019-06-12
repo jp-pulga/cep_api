@@ -1,12 +1,12 @@
 {
-  "cep": "79092612",
-  "logradouro": "Avenida Gunter Hans",
-  "bairro": "Jardim Tijuca",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Tijuca;",
+    "cep": "79092612",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Doutor Gunter Hans;"
 }

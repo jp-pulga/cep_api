@@ -1,12 +1,12 @@
 {
-  "cep": "79103531",
-  "logradouro": "Rua Nova Andradina",
-  "bairro": "Jardim Aeroporto",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Aeroporto;",
+    "cep": "79103531",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Nova Andradina;"
 }

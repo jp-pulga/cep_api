@@ -1,12 +1,13 @@
 {
-  "cep": "79920970",
-  "logradouro": "AC Laguna Carapã Rua Aimoré Oliveira Lima 651",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Laguna Carapã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79920970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Laguna Carapã"
+    },
+    "ibge": 5005251,
+    "logradouro": "Rua Aimore de Oliveira Lima, 651  AC Laguna Carapã;"
 }

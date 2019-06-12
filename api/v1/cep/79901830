@@ -1,12 +1,13 @@
 {
-  "cep": "79901830",
-  "logradouro": "Rodovia MS-164",
-  "bairro": "Chácara Alvorada",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Chácara Alvorada;",
+    "cep": "79901830",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Rodovia MS-164;"
 }

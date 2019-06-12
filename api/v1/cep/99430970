@@ -1,12 +1,13 @@
 {
-  "cep": "99430970",
-  "logradouro": "AC Alto Alegre Rua Orestes Pedrassani 375",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99430970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alto Alegre"
+    },
+    "ibge": 4300554,
+    "logradouro": "Rua Orestes Pedrassani, 375  AC Alto Alegre;"
 }

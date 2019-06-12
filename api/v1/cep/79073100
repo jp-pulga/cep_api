@@ -1,12 +1,12 @@
 {
-  "cep": "79073100",
-  "logradouro": "Rua Job Rezende de Miranda",
-  "bairro": "Jardim Centro Oeste",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Centro Oeste;",
+    "cep": "79073100",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Job Rezende de Miranda;"
 }

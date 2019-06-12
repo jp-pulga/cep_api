@@ -1,12 +1,13 @@
 {
-  "cep": "79822020",
-  "logradouro": "Avenida Indaiá",
-  "bairro": "Panambi Vera",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Panambi Vera;",
+    "cep": "79822020",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "ibge": 5003702,
+    "logradouro": "Avenida Indaiá;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79765970",
-  "logradouro": "AC Taquarussu Avenida Felinto Muller 1129",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taquarussu",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79765970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Taquarussu"
+    },
+    "ibge": 5007976,
+    "logradouro": "Avenida Felinto Muller, 1129  AC Taquarussu;"
 }

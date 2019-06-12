@@ -1,12 +1,12 @@
 {
-  "cep": "79831240",
-  "logradouro": "Rua Maria da Glória de 1936/1937 ao fim",
-  "bairro": "Jardim dos Estados",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim dos Estados;",
+    "cep": "79831240",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Maria da Glória - de 1936\/1937 ao fim;"
 }

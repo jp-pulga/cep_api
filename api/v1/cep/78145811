@@ -1,12 +1,13 @@
 {
-  "cep": "78145811",
-  "logradouro": "Avenida Luiz Coelho de Campos (Lot S Simão)",
-  "bairro": "São Simão",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Simão;",
+    "cep": "78145811",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Luiz Coelho de Campos (Lot S Simão);"
 }

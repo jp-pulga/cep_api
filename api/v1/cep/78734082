@@ -1,12 +1,13 @@
 {
-  "cep": "78734082",
-  "logradouro": "Avenida Bruno Lima Nascimento",
-  "bairro": "Chácaras Paraíso",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Chácaras Paraíso;",
+    "cep": "78734082",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Bruno Lima Nascimento;"
 }

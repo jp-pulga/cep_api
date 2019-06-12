@@ -1,12 +1,13 @@
 {
-  "cep": "79170972",
-  "logradouro": "AGC Assentamento São Pedro Travessa do Meio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sidrolândia",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79170972",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Sidrolândia"
+    },
+    "ibge": 5007901,
+    "logradouro": "Travessa do Meio, s\/n  AGC Assentamento São Pedro;"
 }

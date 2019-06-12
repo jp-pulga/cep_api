@@ -1,12 +1,12 @@
 {
-  "cep": "79833480",
-  "logradouro": "Rua Juti",
-  "bairro": "Vila Nova Esperança",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Nova Esperança;",
+    "cep": "79833480",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Juti;"
 }

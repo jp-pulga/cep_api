@@ -1,12 +1,12 @@
 {
-  "cep": "95084902",
-  "logradouro": "Edifício Centenário Rua Garibaldi 791",
-  "bairro": "Exposição",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Exposição;",
+    "cep": "95084902",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Garibaldi, 791  Edifício Centenário;"
 }

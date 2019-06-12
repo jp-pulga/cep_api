@@ -1,12 +1,12 @@
 {
-  "cep": "78740021",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Vila Aurora I",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Aurora I;",
+    "cep": "78740021",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

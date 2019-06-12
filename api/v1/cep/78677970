@@ -1,12 +1,13 @@
 {
-  "cep": "78677970",
-  "logradouro": "AGC Novo Paraíso Rua E 19",
-  "bairro": "Novo Paraíso",
-  "cidade": {
-    "nome": "Ribeirão Cascalheira",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Novo Paraíso;",
+    "cep": "78677970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Ribeirão Cascalheira"
+    },
+    "ibge": 5107180,
+    "logradouro": "Rua E, 19  AGC Novo Paraíso;"
 }

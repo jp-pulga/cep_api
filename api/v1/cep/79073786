@@ -1,12 +1,12 @@
 {
-  "cep": "79073786",
-  "logradouro": "Corredor Público 01",
-  "bairro": "Jardim Los Angeles",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Los Angeles;",
+    "cep": "79073786",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Corredor Público 01;"
 }

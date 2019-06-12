@@ -1,12 +1,13 @@
 {
-  "cep": "78550015",
-  "logradouro": "Avenida das Embaúbas de 163 a 893 - lado ímpar",
-  "bairro": "Setor Residencial Sul",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Setor Residencial Sul;",
+    "cep": "78550015",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "ibge": 5107909,
+    "logradouro": "Avenida das Embaúbas - de 163 a 893 - lado ímpar;"
 }

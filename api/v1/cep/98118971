@@ -1,12 +1,13 @@
 {
-  "cep": "98118971",
-  "logradouro": "AC Boa Vista do Cadeado Avenida Francisco Barasuol 145",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Vista do Cadeado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98118971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Boa Vista do Cadeado"
+    },
+    "ibge": 4302220,
+    "logradouro": "Avenida Francisco Barasuol, 145  AC Boa Vista do Cadeado;"
 }

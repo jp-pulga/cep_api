@@ -1,12 +1,13 @@
 {
-  "cep": "79904106",
-  "logradouro": "Alameda Villaverde",
-  "bairro": "Residencial Villaverde",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Residencial Villaverde;",
+    "cep": "79904106",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Alameda Villaverde;"
 }

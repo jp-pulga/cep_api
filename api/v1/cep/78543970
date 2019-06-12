@@ -1,12 +1,13 @@
 {
-  "cep": "78543970",
-  "logradouro": "AC União do Sul Avenida Porto Alegre 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "União do Sul",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78543970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "União do Sul"
+    },
+    "ibge": 5108303,
+    "logradouro": "Avenida Porto Alegre, 63  AC União do Sul;"
 }

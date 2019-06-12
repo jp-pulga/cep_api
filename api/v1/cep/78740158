@@ -1,12 +1,12 @@
 {
-  "cep": "78740158",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Vila Aurora III",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Aurora III;",
+    "cep": "78740158",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

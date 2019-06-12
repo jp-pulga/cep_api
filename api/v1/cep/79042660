@@ -1,12 +1,12 @@
 {
-  "cep": "79042660",
-  "logradouro": "Avenida João Garcia de Carvalho Filho",
-  "bairro": "Jardim Jerusalem",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Jerusalem;",
+    "cep": "79042660",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida João Garcia de Carvalho Filho;"
 }

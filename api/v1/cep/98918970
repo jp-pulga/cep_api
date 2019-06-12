@@ -1,12 +1,13 @@
 {
-  "cep": "98918970",
-  "logradouro": "AC Boa Vista do Buricá Rua Salzano Vieira da Cunha 241",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Vista do Buricá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98918970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Boa Vista do Buricá"
+    },
+    "ibge": 4302204,
+    "logradouro": "Rua Salzano Vieira da Cunha 241  AC Boa Vista do Buricá;"
 }

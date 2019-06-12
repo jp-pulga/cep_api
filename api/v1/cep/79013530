@@ -1,12 +1,12 @@
 {
-  "cep": "79013530",
-  "logradouro": "Rua Caarapó",
-  "bairro": "Coronel Antonino",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Coronel Antonino;",
+    "cep": "79013530",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Caarapó;"
 }

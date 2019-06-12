@@ -1,12 +1,13 @@
 {
-  "cep": "79603112",
-  "logradouro": "Avenida Rosário Congro de 1166 a 2492 - lado par",
-  "bairro": "Jardim Primaveril",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Primaveril;",
+    "cep": "79603112",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "ibge": 5008305,
+    "logradouro": "Avenida Advogado Rosário Congro - de 1166 a 2492 - lado par;"
 }

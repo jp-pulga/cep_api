@@ -1,12 +1,13 @@
 {
-  "cep": "99500970",
-  "logradouro": "AC Carazinho Avenida Flores da Cunha 1197",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carazinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99500970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Carazinho"
+    },
+    "ibge": 4304705,
+    "logradouro": "Avenida Flores da Cunha, 1197  AC Carazinho;"
 }

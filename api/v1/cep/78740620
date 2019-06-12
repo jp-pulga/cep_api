@@ -1,12 +1,13 @@
 {
-  "cep": "78740620",
-  "logradouro": "Alameda das Rosas",
-  "bairro": "Vila Aurora",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Aurora;",
+    "cep": "78740620",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Alameda das Rosas;"
 }

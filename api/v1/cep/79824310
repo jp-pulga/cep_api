@@ -1,12 +1,13 @@
 {
-  "cep": "79824310",
-  "logradouro": "Avenida das Palmeiras Oeste",
-  "bairro": "Ecoville",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Ecoville;",
+    "cep": "79824310",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "ibge": 5003702,
+    "logradouro": "Avenida das Palmeiras - Oeste;"
 }

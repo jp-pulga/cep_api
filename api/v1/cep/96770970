@@ -1,12 +1,12 @@
 {
-  "cep": "96770970",
-  "logradouro": "AC Cerro Grande do Sul Avenida Arthur Emílio Jenisch 355 Sala 102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cerro Grande do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96770970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cerro Grande do Sul"
+    },
+    "logradouro": "Avenida Arthur Emílio Jenisch, 355 Sala 102  AC Cerro Grande do Sul;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78132180",
-  "logradouro": "Avenida Torquato (Lot C Piçarrão)",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "78132180",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida Torquato (Lot C Piçarrão);"
 }

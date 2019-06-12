@@ -1,12 +1,13 @@
 {
-  "cep": "78338970",
-  "logradouro": "AGC Rondolândia Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rondolândia",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78338970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondolândia"
+    },
+    "ibge": 5107578,
+    "logradouro": "Rua Principal, s\/n  AGC Rondolândia;"
 }

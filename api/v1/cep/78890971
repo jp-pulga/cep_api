@@ -1,12 +1,13 @@
 {
-  "cep": "78890971",
-  "logradouro": "AC Park Shopping Sorriso Avenida Tancredo Neves 543 8º Sala",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sorriso",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78890971",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sorriso"
+    },
+    "ibge": 5107925,
+    "logradouro": "Avenida Tancredo Neves, 543 8º Sala  AC Park Shopping Sorriso;"
 }

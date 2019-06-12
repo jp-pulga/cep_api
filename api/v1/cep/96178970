@@ -1,12 +1,13 @@
 {
-  "cep": "96178970",
-  "logradouro": "AC Arambaré Rua Ildefonso Pereira 91 Loja 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arambaré",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96178970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Arambaré"
+    },
+    "ibge": 4300851,
+    "logradouro": "Rua Ildefonso Pereira, 91 Loja 99  AC Arambaré;"
 }

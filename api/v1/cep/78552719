@@ -1,12 +1,12 @@
 {
-  "cep": "78552719",
-  "logradouro": "Rua Vera Lúcia",
-  "bairro": "Jardim Maria Carolina",
-  "cidade": {
-    "nome": "Sinop",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Maria Carolina;",
+    "cep": "78552719",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Sinop"
+    },
+    "logradouro": "Rua Vera Lúcia;"
 }

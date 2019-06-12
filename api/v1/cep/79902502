@@ -1,12 +1,13 @@
 {
-  "cep": "79902502",
-  "logradouro": "Avenida Belmiro de Albuquerque",
-  "bairro": "Coophafronteira",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Coophafronteira;",
+    "cep": "79902502",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Belmiro de Albuquerque;"
 }

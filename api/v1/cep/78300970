@@ -1,12 +1,13 @@
 {
-  "cep": "78300970",
-  "logradouro": "AC Tangará da Serra Avenida Brasil 104-E",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tangará da Serra",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78300970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Tangará da Serra"
+    },
+    "ibge": 5107958,
+    "logradouro": "Avenida Brasil, 104-E  AC Tangará da Serra;"
 }

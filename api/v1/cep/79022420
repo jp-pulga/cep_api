@@ -1,12 +1,12 @@
 {
-  "cep": "79022420",
-  "logradouro": "Rua Cassilândia",
-  "bairro": "Monte Carlo",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Monte Carlo;",
+    "cep": "79022420",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Cassilândia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "79150970",
-  "logradouro": "AC Maracaju Avenida João Pedro Fernandes 2500",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maracaju",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79150970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Maracaju"
+    },
+    "ibge": 5005400,
+    "logradouro": "Avenida João Pedro Fernandes, 2500  AC Maracaju;"
 }

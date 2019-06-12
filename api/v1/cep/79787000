@@ -1,12 +1,11 @@
 {
-  "cep": "79787000",
-  "logradouro": "Ipezal (Angélica)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ipezal (Angélica)",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "cep": "79787000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Angélica"
+    },
+    "ibge": 5000856
 }

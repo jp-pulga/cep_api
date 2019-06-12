@@ -1,12 +1,13 @@
 {
-  "cep": "96180975",
-  "logradouro": "AGC Bandeirinha Avenida Principal s/n",
-  "bairro": "Bandeirinha",
-  "cidade": {
-    "nome": "Camaquã",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bandeirinha;",
+    "cep": "96180975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Camaquã"
+    },
+    "ibge": 4303509,
+    "logradouro": "Avenida Principal, s\/n  AGC Bandeirinha;"
 }

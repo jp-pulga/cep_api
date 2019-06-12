@@ -1,12 +1,12 @@
 {
-  "cep": "79003050",
-  "logradouro": "Rua José Pereira",
-  "bairro": "Jardim Bela Vista",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Bela Vista;",
+    "cep": "79003050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua José Pereira;"
 }

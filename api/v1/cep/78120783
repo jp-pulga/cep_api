@@ -1,12 +1,13 @@
 {
-  "cep": "78120783",
-  "logradouro": "Avenida São Gonçalo (Lot At B Vista)",
-  "bairro": "Parque do Lago",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Parque do Lago;",
+    "cep": "78120783",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Avenida São Gonçalo (Lot At B Vista);"
 }

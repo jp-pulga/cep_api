@@ -1,12 +1,13 @@
 {
-  "cep": "79965970",
-  "logradouro": "AC Itaquiraí Avenida Mato Grosso 1620",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaquiraí",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79965970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Itaquiraí"
+    },
+    "ibge": 5004601,
+    "logradouro": "Avenida Mato Grosso, 1620  AC Itaquiraí;"
 }

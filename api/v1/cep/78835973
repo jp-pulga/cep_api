@@ -1,12 +1,13 @@
 {
-  "cep": "78835973",
-  "logradouro": "AGC São Pedro da Cipa Avenida São Pedro 439",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro da Cipa",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78835973",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "São Pedro da Cipa"
+    },
+    "ibge": 5107404,
+    "logradouro": "Avenida Presidente Dutra, 439  AGC São Pedro da Cipa;"
 }

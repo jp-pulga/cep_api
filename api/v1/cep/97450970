@@ -1,12 +1,13 @@
 {
-  "cep": "97450970",
-  "logradouro": "AC Cacequi Rua Salgado Filho 285",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cacequi",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97450970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cacequi"
+    },
+    "ibge": 4302907,
+    "logradouro": "Rua Salgado Filho, 285  AC Cacequi;"
 }

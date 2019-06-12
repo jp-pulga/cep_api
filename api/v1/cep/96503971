@@ -1,12 +1,12 @@
 {
-  "cep": "96503971",
-  "logradouro": "CDD Cachoeira do Sul Rua Barão de Viamão 1330",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "96503971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Barão de Viamão, 1330  CDD Cachoeira do Sul;"
 }

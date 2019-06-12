@@ -1,12 +1,13 @@
 {
-  "cep": "96535970",
-  "logradouro": "AC Cerro Branco Rua Oscar Lamb 108",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cerro Branco",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96535970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cerro Branco"
+    },
+    "ibge": 4305132,
+    "logradouro": "Rua Oscar Lamb, 108  AC Cerro Branco;"
 }

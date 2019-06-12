@@ -1,12 +1,13 @@
 {
-  "cep": "96740970",
-  "logradouro": "AC Arroio dos Ratos Avenida Espanha 420",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arroio dos Ratos",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96740970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Arroio dos Ratos"
+    },
+    "ibge": 4301107,
+    "logradouro": "Avenida Espanha, 420  AC Arroio dos Ratos;"
 }

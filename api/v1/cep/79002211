@@ -1,12 +1,12 @@
 {
-  "cep": "79002211",
-  "logradouro": "Rua Maracaju de 827 ao fim - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79002211",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Maracaju - de 827 ao fim - lado ímpar;"
 }

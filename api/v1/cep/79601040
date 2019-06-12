@@ -1,12 +1,13 @@
 {
-  "cep": "79601040",
-  "logradouro": "Avenida Rosário Congro de 0355 a 0761 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79601040",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "ibge": 5008305,
+    "logradouro": "Avenida Advogado Rosário Congro - de 0355 a 0761 - lado ímpar;"
 }

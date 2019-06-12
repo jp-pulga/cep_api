@@ -1,12 +1,13 @@
 {
-  "cep": "79450970",
-  "logradouro": "AC Rochedo Rua Duque De Caxias 31",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rochedo",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79450970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Rochedo"
+    },
+    "ibge": 5007505,
+    "logradouro": "Rua Duque De Caxias, 31  AC Rochedo;"
 }

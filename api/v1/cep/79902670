@@ -1,12 +1,13 @@
 {
-  "cep": "79902670",
-  "logradouro": "Avenida Belmiro de Albuquerque",
-  "bairro": "Jardim Coimbra",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Coimbra;",
+    "cep": "79902670",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Belmiro de Albuquerque;"
 }

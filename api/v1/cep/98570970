@@ -1,12 +1,13 @@
 {
-  "cep": "98570970",
-  "logradouro": "AC Campo Novo Rua Braga 324",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Novo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98570970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Campo Novo"
+    },
+    "ibge": 4304002,
+    "logradouro": "Rua Braga, 324  AC Campo Novo;"
 }

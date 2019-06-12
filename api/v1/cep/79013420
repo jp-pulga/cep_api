@@ -1,12 +1,12 @@
 {
-  "cep": "79013420",
-  "logradouro": "Rua Serra de Maracaju",
-  "bairro": "Conjunto Habitacional Jardim Talismã",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Conjunto Habitacional Jardim Talismã;",
+    "cep": "79013420",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Serra de Maracaju;"
 }

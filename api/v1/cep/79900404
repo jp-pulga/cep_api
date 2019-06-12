@@ -1,12 +1,13 @@
 {
-  "cep": "79900404",
-  "logradouro": "Avenida Belmiro de Albuquerque",
-  "bairro": "Jardim Botânico",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Botânico;",
+    "cep": "79900404",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "ibge": 5006606,
+    "logradouro": "Avenida Belmiro de Albuquerque;"
 }

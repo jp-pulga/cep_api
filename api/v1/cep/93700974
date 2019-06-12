@@ -1,12 +1,13 @@
 {
-  "cep": "93700974",
-  "logradouro": "AGF Vale dos Sinos Rua São Leopoldo 105 Loja 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Bom",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93700974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Campo Bom"
+    },
+    "ibge": 4303905,
+    "logradouro": "Rua São Leopoldo, 105 Loja 01  AGF Vale dos Sinos;"
 }

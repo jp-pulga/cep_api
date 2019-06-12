@@ -1,12 +1,12 @@
 {
-  "cep": "78740383",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Jardim Mato Grosso",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Mato Grosso;",
+    "cep": "78740383",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

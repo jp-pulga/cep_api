@@ -1,12 +1,13 @@
 {
-  "cep": "98465971",
-  "logradouro": "AC Ametista do Sul Rua Guaporé 133",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ametista do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98465971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ametista do Sul"
+    },
+    "ibge": 4300646,
+    "logradouro": "Rua Guaporé, 133  AC Ametista do Sul;"
 }

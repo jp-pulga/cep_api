@@ -1,12 +1,13 @@
 {
-  "cep": "78506970",
-  "logradouro": "AGC Décima Agrovila Avenida Principal s/n",
-  "bairro": "Décima Agrovila",
-  "cidade": {
-    "nome": "Terra Nova do Norte",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Décima Agrovila;",
+    "cep": "78506970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Terra Nova do Norte"
+    },
+    "ibge": 5108055,
+    "logradouro": "Avenida Principal, s\/n  AGC Décima Agrovila;"
 }

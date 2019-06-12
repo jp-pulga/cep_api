@@ -1,12 +1,12 @@
 {
-  "cep": "78715243",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Loteamento Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Loteamento Nossa Senhora Aparecida;",
+    "cep": "78715243",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

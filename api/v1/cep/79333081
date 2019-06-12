@@ -1,12 +1,13 @@
 {
-  "cep": "79333081",
-  "logradouro": "Alameda Cacimba da Saúde",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "79333081",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "ibge": 5003207,
+    "logradouro": "Alameda Cacimba da Saúde;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "78695970",
-  "logradouro": "AC Torixoréu Rua Cuiabá 84",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Torixoréu",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78695970",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Torixoréu"
+    },
+    "ibge": 5108204,
+    "logradouro": "Rua Cuiabá, 84  AC Torixoréu;"
 }

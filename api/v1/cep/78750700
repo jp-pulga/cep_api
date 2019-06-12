@@ -1,12 +1,13 @@
 {
-  "cep": "78750700",
-  "logradouro": "Avenida Batuira",
-  "bairro": "Vila Olinda",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Olinda;",
+    "cep": "78750700",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "ibge": 5107602,
+    "logradouro": "Avenida Batuira;"
 }

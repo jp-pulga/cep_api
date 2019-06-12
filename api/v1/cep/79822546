@@ -1,12 +1,12 @@
 {
-  "cep": "79822546",
-  "logradouro": "Rua Pedro Gomes de Souza",
-  "bairro": "Ypê Roxo",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Ypê Roxo;",
+    "cep": "79822546",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Pedro Gomes de Souza;"
 }

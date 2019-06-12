@@ -1,12 +1,12 @@
 {
-  "cep": "79601902",
-  "logradouro": "Caixa Econômica Federal Avenida Antônio Trajano 610",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Lagoas",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "79601902",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Três Lagoas"
+    },
+    "logradouro": "Rua Paranaíba, 610  Caixa Econômica Federal;"
 }

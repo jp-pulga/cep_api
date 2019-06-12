@@ -1,12 +1,11 @@
 {
-  "cep": "79550000",
-  "logradouro": "Costa Rica",
-  "bairro": "",
-  "cidade": {
-    "nome": "Costa Rica",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "cep": "79550000",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Costa Rica"
+    },
+    "ibge": 5003256
 }

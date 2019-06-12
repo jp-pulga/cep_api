@@ -1,12 +1,13 @@
 {
-  "cep": "78152303",
-  "logradouro": "Rodovia BR-364 do km 436501 ao km 439000",
-  "bairro": "Loteamento Jardim Paula III",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Loteamento Jardim Paula III;",
+    "cep": "78152303",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "ibge": 5108402,
+    "logradouro": "Rodovia BR-364 - do km 436,501 ao km 439,000;"
 }

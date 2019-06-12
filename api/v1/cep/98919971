@@ -1,12 +1,12 @@
 {
-  "cep": "98919971",
-  "logradouro": "AC Nova Candelária Rua Santo Antônio 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Candelária",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98919971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Candelária"
+    },
+    "logradouro": "Rua Santo Antônio, 99  AC Nova Candelária;"
 }
