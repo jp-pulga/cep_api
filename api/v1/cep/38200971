@@ -1,12 +1,13 @@
 {
-  "cep": "38200971",
-  "logradouro": "CDD Frutal Rua Senador Gomes da Silva 1510",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frutal",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38200971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Frutal"
+    },
+    "ibge": 3127107,
+    "logradouro": "Rua Senador Gomes da Silva, 1510  CDD Frutal;"
 }

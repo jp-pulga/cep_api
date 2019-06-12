@@ -1,12 +1,13 @@
 {
-  "cep": "37212971",
-  "logradouro": "AGF Major Gote Rua Luciana Valéria 33",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itumirim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37212971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itumirim"
+    },
+    "ibge": 3134301,
+    "logradouro": "Rua Luciana Valéria, 33  AGF Major Gote;"
 }

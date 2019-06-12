@@ -1,12 +1,13 @@
 {
-  "cep": "39120970",
-  "logradouro": "AC Gouvêa Avenida Alexandre Mascarenhas 458",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gouveia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39120970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Gouveia"
+    },
+    "ibge": 3127602,
+    "logradouro": "Avenida Alexandre Mascarenhas, 458  AC Gouvêa;"
 }

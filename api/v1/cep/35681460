@@ -1,12 +1,13 @@
 {
-  "cep": "35681460",
-  "logradouro": "Rodovia MG-050 do km 90000 ao km 90999",
-  "bairro": "Santanense",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santanense;",
+    "cep": "35681460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Rodovia MG-050 - do km 90,000 ao km 90,999;"
 }

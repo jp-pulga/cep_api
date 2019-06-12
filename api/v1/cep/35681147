@@ -1,12 +1,13 @@
 {
-  "cep": "35681147",
-  "logradouro": "Avenida Doutor Miguel Augusto Gonçalves até 1961/1962",
-  "bairro": "Graças",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Graças;",
+    "cep": "35681147",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Doutor Miguel Augusto Gonçalves - até 1961\/1962;"
 }

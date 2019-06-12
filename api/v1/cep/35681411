@@ -1,12 +1,13 @@
 {
-  "cep": "35681411",
-  "logradouro": "Avenida Chico Inácio",
-  "bairro": "Vila Santa Maria",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Maria;",
+    "cep": "35681411",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Chico Inácio;"
 }

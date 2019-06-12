@@ -1,12 +1,13 @@
 {
-  "cep": "38490971",
-  "logradouro": "AC Indianópolis Rua Marechal Deodoro 340",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Indianópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38490971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Indianópolis"
+    },
+    "ibge": 3130705,
+    "logradouro": "Rua Marechal Deodoro, 340  AC Indianópolis;"
 }

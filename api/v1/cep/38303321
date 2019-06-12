@@ -1,12 +1,13 @@
 {
-  "cep": "38303321",
-  "logradouro": "Avenida C-19",
-  "bairro": "Residencial Canaã II",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Canaã II;",
+    "cep": "38303321",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida C-19;"
 }

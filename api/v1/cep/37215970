@@ -1,12 +1,13 @@
 {
-  "cep": "37215970",
-  "logradouro": "AC Ingaí Rua Aureliano de Souza Pinto 259",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ingaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37215970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ingaí"
+    },
+    "ibge": 3130804,
+    "logradouro": "Rua Aureliano de Souza Pinto, 259  AC Ingaí;"
 }

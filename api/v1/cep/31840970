@@ -1,12 +1,12 @@
 {
-  "cep": "31840970",
-  "logradouro": "CDD Guarani Rua Furquim Werneck 92",
-  "bairro": "Tupi A",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tupi A;",
+    "cep": "31840970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Furquim Werneck, 92  CDD Guarani;"
 }

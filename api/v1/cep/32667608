@@ -1,12 +1,12 @@
 {
-  "cep": "32667608",
-  "logradouro": "Rua Antônio Jacinto de Almeida",
-  "bairro": "Paulo Camilo",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paulo Camilo;",
+    "cep": "32667608",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Antônio Jacinto de Almeida;"
 }

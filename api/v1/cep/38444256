@@ -1,12 +1,12 @@
 {
-  "cep": "38444256",
-  "logradouro": "Rua Ituiutaba - de 300 ao fim - lado par",
-  "bairro": "Ouro Verde",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Verde;",
+    "cep": "38444256",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Ituiutaba - de 300 ao fim - lado par;"
 }

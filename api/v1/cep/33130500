@@ -1,12 +1,12 @@
 {
-  "cep": "33130500",
-  "logradouro": "Rua Jacutinga",
-  "bairro": "São Cosme de Cima (São Benedito)",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cosme de Cima (São Benedito);",
+    "cep": "33130500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Jacutinga;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37466970",
-  "logradouro": "AC Itamonte Rua Presidente Vargas 142",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itamonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37466970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itamonte"
+    },
+    "ibge": 3133006,
+    "logradouro": "Rua Presidente Vargas 142  AC Itamonte;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38305531",
-  "logradouro": "Avenida Antonio Baduy",
-  "bairro": "Gerson Baduy I",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Gerson Baduy I;",
+    "cep": "38305531",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Antonio Baduy;"
 }

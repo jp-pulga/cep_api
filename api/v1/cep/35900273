@@ -1,12 +1,12 @@
 {
-  "cep": "35900273",
-  "logradouro": "Rua Januária",
-  "bairro": "Praia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Praia;",
+    "cep": "35900273",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Januária;"
 }

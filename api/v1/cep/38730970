@@ -1,12 +1,13 @@
 {
-  "cep": "38730970",
-  "logradouro": "AC Guimarânia Rua Conselheiro Rufino 453",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guimarânia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38730970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guimarânia"
+    },
+    "ibge": 3128907,
+    "logradouro": "Rua Tamoios, 263  AC Guimarânia;"
 }

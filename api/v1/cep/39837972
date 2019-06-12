@@ -1,12 +1,13 @@
 {
-  "cep": "39837972",
-  "logradouro": "AC Jampruca Praça Jorge Agostinho 56",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jampruca",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39837972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jampruca"
+    },
+    "ibge": 3135076,
+    "logradouro": "Praça Jorge Agostinho, 56  AC Jampruca;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35450970",
-  "logradouro": "AC Itabirito Praça Doutor Guilherme 272",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itabirito",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35450970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabirito"
+    },
+    "ibge": 3131901,
+    "logradouro": "Praça Doutor Guilherme, 272  AC Itabirito;"
 }

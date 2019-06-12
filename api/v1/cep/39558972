@@ -1,12 +1,13 @@
 {
-  "cep": "39558972",
-  "logradouro": "AC Fruta de Leite Avenida Montes Claros 780",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fruta de Leite",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39558972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fruta de Leite"
+    },
+    "ibge": 3127073,
+    "logradouro": "Avenida Montes Claros, 780  AC Fruta de Leite;"
 }

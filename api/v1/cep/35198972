@@ -1,12 +1,13 @@
 {
-  "cep": "35198972",
-  "logradouro": "AC Ipaba Avenida José Rodrigues de Almeida 640 Loja 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35198972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipaba"
+    },
+    "ibge": 3131158,
+    "logradouro": "Avenida José Rodrigues de Almeida, 640 Loja 03  AC Ipaba;"
 }

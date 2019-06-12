@@ -1,12 +1,13 @@
 {
-  "cep": "35681325",
-  "logradouro": "Avenida Doutor Miguel Augusto Gonçalves de 1963/1964 ao fim",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "35681325",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Doutor Miguel Augusto Gonçalves - de 1963\/1964 ao fim;"
 }

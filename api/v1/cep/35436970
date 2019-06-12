@@ -1,12 +1,13 @@
 {
-  "cep": "35436970",
-  "logradouro": "AC Guaraciaba Rua Coração de Maria 95",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guaraciaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35436970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guaraciaba"
+    },
+    "ibge": 3128204,
+    "logradouro": "Rua Coração de Maria, 95  AC Guaraciaba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39594970",
-  "logradouro": "AC Itacambira Avenida Francisco Bicalho 255",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itacambira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39594970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itacambira"
+    },
+    "ibge": 3132008,
+    "logradouro": "Avenida Francisco Bicalho, 255  AC Itacambira;"
 }

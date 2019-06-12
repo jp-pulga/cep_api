@@ -1,12 +1,13 @@
 {
-  "cep": "35120971",
-  "logradouro": "ACS Iara Praça da Matriz 319",
-  "bairro": "Iara",
-  "cidade": {
-    "nome": "Itanhomi",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Iara;",
+    "cep": "35120971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itanhomi"
+    },
+    "ibge": 3133204,
+    "logradouro": "Praça da Matriz, 319  ACS Iara;"
 }

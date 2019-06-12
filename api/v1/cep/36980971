@@ -1,12 +1,12 @@
 {
-  "cep": "36980971",
-  "logradouro": "AGC Prata de Lajinha Rua Nestor Vieira de Gouvêia 69",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lajinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36980971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Lajinha"
+    },
+    "logradouro": "Rua Nestor Vieira de Gouvêia, 69  AGC Prata de Lajinha;"
 }

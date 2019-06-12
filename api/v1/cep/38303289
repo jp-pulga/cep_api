@@ -1,12 +1,13 @@
 {
-  "cep": "38303289",
-  "logradouro": "Avenida C-09",
-  "bairro": "Residencial Canaã I",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Canaã I;",
+    "cep": "38303289",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida C-09;"
 }

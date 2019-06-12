@@ -1,12 +1,13 @@
 {
-  "cep": "35330972",
-  "logradouro": "AGC Novo Horizonte de Inhapim Avenida Geraldino Nunes de Morais 38",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Inhapim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "35330972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Inhapim"
+    },
+    "ibge": 3130903,
+    "logradouro": "Avenida Geraldino Nunes de Morais, 38  AGC Novo Horizonte de Inhapim;"
 }

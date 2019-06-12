@@ -1,12 +1,12 @@
 {
-  "cep": "35661002",
-  "logradouro": "Rua Itapecerica",
-  "bairro": "Vila Raquel",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Raquel;",
+    "cep": "35661002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Itapecerica;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35580970",
-  "logradouro": "AC Japaraíba Rua Francisco Tavares de Morais 248",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Japaraíba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35580970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Japaraíba"
+    },
+    "ibge": 3135308,
+    "logradouro": "Rua Francisco Tavares de Morais, 248  AC Japaraíba;"
 }

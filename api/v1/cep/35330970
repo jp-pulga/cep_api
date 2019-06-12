@@ -1,12 +1,13 @@
 {
-  "cep": "35330970",
-  "logradouro": "AC Inhapim Rua Carmo Viggiano 47",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Inhapim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35330970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Inhapim"
+    },
+    "ibge": 3130903,
+    "logradouro": "Rua Carmo Viggiano, 47  AC Inhapim;"
 }

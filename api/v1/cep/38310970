@@ -1,12 +1,13 @@
 {
-  "cep": "38310970",
-  "logradouro": "AC Gurinhatã Rua Rafael de Feo 230",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gurinhatã",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38310970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Gurinhatã"
+    },
+    "ibge": 3129103,
+    "logradouro": "Rua Rafael de Feo, 230  AC Gurinhatã;"
 }

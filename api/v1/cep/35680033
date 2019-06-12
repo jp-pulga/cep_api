@@ -1,12 +1,13 @@
 {
-  "cep": "35680033",
-  "logradouro": "Avenida Dona Cota",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35680033",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Dona Cota;"
 }

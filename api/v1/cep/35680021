@@ -1,12 +1,13 @@
 {
-  "cep": "35680021",
-  "logradouro": "Avenida Anita Lima",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35680021",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Anita Lima;"
 }

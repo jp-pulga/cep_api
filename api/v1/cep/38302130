@@ -1,12 +1,13 @@
 {
-  "cep": "38302130",
-  "logradouro": "Avenida Ataíde Quirino Ribeiro até 509/510",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "38302130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Ataíde Quirino Ribeiro - até 509\/510;"
 }

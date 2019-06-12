@@ -1,12 +1,12 @@
 {
-  "cep": "31110670",
-  "logradouro": "Rua Itapeva",
-  "bairro": "Concórdia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Concórdia;",
+    "cep": "31110670",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Itapeva;"
 }

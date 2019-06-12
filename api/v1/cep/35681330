@@ -1,12 +1,13 @@
 {
-  "cep": "35681330",
-  "logradouro": "Rodovia MG-050 do km 88000 ao km 88999",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "35681330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Rodovia MG-050 - do km 88,000 ao km 88,999;"
 }

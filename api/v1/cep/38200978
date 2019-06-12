@@ -1,12 +1,13 @@
 {
-  "cep": "38200978",
-  "logradouro": "AGC Vila Pradolândia Rua Três 203",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frutal",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38200978",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Frutal"
+    },
+    "ibge": 3127107,
+    "logradouro": "Rua Três, 203  AGC Vila Pradolândia;"
 }

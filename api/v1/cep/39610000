@@ -1,12 +1,11 @@
 {
-  "cep": "39610000",
-  "logradouro": "Itinga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39610000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itinga"
+    },
+    "ibge": 3134004
 }

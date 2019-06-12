@@ -1,12 +1,13 @@
 {
-  "cep": "35330971",
-  "logradouro": "AGC Jerusalém Rua Otávio Brasiliense de Araújo 43",
-  "bairro": "Jerusalém",
-  "cidade": {
-    "nome": "Inhapim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jerusalém;",
+    "cep": "35330971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Inhapim"
+    },
+    "ibge": 3130903,
+    "logradouro": "Rua Otávio Brasiliense de Araújo 43  AGC Jerusalém;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35120974",
-  "logradouro": "AGC São Francisco do Jataí Rua Frederico Neuba s/n",
-  "bairro": "São Francisco do Jataí",
-  "cidade": {
-    "nome": "Itanhomi",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco do Jataí;",
+    "cep": "35120974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itanhomi"
+    },
+    "ibge": 3133204,
+    "logradouro": "Rua Frederico Neuba, s\/n  AGC São Francisco do Jataí;"
 }

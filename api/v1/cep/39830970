@@ -1,12 +1,13 @@
 {
-  "cep": "39830970",
-  "logradouro": "AC Itambacuri Rua Epaminondas Otoni 203",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itambacuri",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39830970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itambacuri"
+    },
+    "ibge": 3132701,
+    "logradouro": "Rua Epaminondas Otoni, 203  AC Itambacuri;"
 }

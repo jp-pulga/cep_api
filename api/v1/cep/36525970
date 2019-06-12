@@ -1,12 +1,13 @@
 {
-  "cep": "36525970",
-  "logradouro": "AC Guiricema Praça Coronel Luiz Coutinho 09-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guiricema",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36525970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guiricema"
+    },
+    "ibge": 3129004,
+    "logradouro": "Praça Coronel Luiz Coutinho, 09-A  AC Guiricema;"
 }

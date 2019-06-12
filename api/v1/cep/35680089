@@ -1,12 +1,13 @@
 {
-  "cep": "35680089",
-  "logradouro": "Avenida Dona Dorica",
-  "bairro": "Vila Vilaça",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Vilaça;",
+    "cep": "35680089",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Dona Dorica;"
 }

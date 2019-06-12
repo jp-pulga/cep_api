@@ -1,12 +1,13 @@
 {
-  "cep": "37223972",
-  "logradouro": "AC Ibituruna Avenida Presidente Médici 515",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibituruna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37223972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ibituruna"
+    },
+    "ibge": 3130002,
+    "logradouro": "Rua Prefeito Sebastião Rodrigues dos Santos, 125 Térreo .  AC Ibituruna;"
 }

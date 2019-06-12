@@ -1,12 +1,12 @@
 {
-  "cep": "35163065",
-  "logradouro": "Rua Itanhomi",
-  "bairro": "Tiradentes",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tiradentes;",
+    "cep": "35163065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Itanhomi;"
 }

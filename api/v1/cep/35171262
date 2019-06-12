@@ -1,12 +1,12 @@
 {
-  "cep": "35171262",
-  "logradouro": "Rua Jacuí",
-  "bairro": "Caladinho",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caladinho;",
+    "cep": "35171262",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Jacuí;"
 }

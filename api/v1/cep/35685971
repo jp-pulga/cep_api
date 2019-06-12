@@ -1,12 +1,13 @@
 {
-  "cep": "35685971",
-  "logradouro": "AGC Pinheiros de Itatiaiuçu Avenida Manoel Pinheiro Diniz 265",
-  "bairro": "Pinheiros",
-  "cidade": {
-    "nome": "Itatiaiuçu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pinheiros;",
+    "cep": "35685971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itatiaiuçu"
+    },
+    "ibge": 3133709,
+    "logradouro": "Avenida Manoel Pinheiro Diniz, 265  AGC Pinheiros de Itatiaiuçu;"
 }

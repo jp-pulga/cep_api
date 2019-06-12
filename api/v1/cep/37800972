@@ -1,12 +1,13 @@
 {
-  "cep": "37800972",
-  "logradouro": "AC Guaxupé Rua Doutor João Carlos 128",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guaxupé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37800972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guaxupé"
+    },
+    "ibge": 3128709,
+    "logradouro": "Rua Doutor João Carlos, 128  AC Guaxupé;"
 }

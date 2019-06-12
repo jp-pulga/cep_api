@@ -1,12 +1,13 @@
 {
-  "cep": "38302248",
-  "logradouro": "Avenida Boa Vista",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "38302248",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Boa Vista;"
 }

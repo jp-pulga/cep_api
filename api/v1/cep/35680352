@@ -1,12 +1,13 @@
 {
-  "cep": "35680352",
-  "logradouro": "Avenida Jove Soares até 1066/1067",
-  "bairro": "Graças",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Graças;",
+    "cep": "35680352",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Jove Soares - até 1066\/1067;"
 }

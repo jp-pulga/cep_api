@@ -1,12 +1,12 @@
 {
-  "cep": "33125380",
-  "logradouro": "Rua Jacuípe",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "33125380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Jacuípe;"
 }

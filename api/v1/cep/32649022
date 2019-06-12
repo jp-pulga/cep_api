@@ -1,12 +1,12 @@
 {
-  "cep": "32649022",
-  "logradouro": "Rua Jacinto Franco Amaral",
-  "bairro": "Cidade Verde",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Verde;",
+    "cep": "32649022",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Jacinto Franco Amaral;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37177970",
-  "logradouro": "AC Guapé Praça Doutor Passos Maia 230-A Loja 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guapé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37177970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guapé"
+    },
+    "ibge": 3128105,
+    "logradouro": "Praça Doutor Passos Maia, 230-A Loja 02  AC Guapé;"
 }

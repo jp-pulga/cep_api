@@ -1,12 +1,13 @@
 {
-  "cep": "39592973",
-  "logradouro": "AC Glaucilândia Avenida Joaquim da Silva Maia 45",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Glaucilândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39592973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Glaucilândia"
+    },
+    "ibge": 3127354,
+    "logradouro": "Avenida Joaquim da Silva Maia, 45  AC Glaucilândia;"
 }

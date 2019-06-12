@@ -1,12 +1,13 @@
 {
-  "cep": "39350972",
-  "logradouro": "AGC Bom Jesus da Vereda Praça da Matriz s/n",
-  "bairro": "Bom Jesus da Vereda",
-  "cidade": {
-    "nome": "Ibiaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus da Vereda;",
+    "cep": "39350972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ibiaí"
+    },
+    "ibge": 3129608,
+    "logradouro": "Praça da Igreja, S\/n  AGC Bom Jesus da Vereda;"
 }

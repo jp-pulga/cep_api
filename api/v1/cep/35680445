@@ -1,12 +1,13 @@
 {
-  "cep": "35680445",
-  "logradouro": "Avenida Carlos José de Abreu",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "35680445",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Carlos José de Abreu;"
 }

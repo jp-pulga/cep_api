@@ -1,12 +1,12 @@
 {
-  "cep": "38183152",
-  "logradouro": "Rua Sargento Jacinto da Silva",
-  "bairro": "Doutor Pedro Pezzuti",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Doutor Pedro Pezzuti;",
+    "cep": "38183152",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Sargento Jacinto da Silva;"
 }

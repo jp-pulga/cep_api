@@ -1,12 +1,13 @@
 {
-  "cep": "35680141",
-  "logradouro": "Avenida Lenhita de 1712/1713 ao fim",
-  "bairro": "Cidade Leonane",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Leonane;",
+    "cep": "35680141",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Lenhita - de 1712\/1713 ao fim;"
 }

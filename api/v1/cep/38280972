@@ -1,12 +1,13 @@
 {
-  "cep": "38280972",
-  "logradouro": "UD Iturama Avenida Alencastro 1224",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iturama",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38280972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Iturama"
+    },
+    "ibge": 3134400,
+    "logradouro": "Rua Rio Bonito, 800  CDD Iturama;"
 }

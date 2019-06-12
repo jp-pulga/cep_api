@@ -1,12 +1,13 @@
 {
-  "cep": "35680415",
-  "logradouro": "Avenida Juscelino Kubitschek",
-  "bairro": "Alaita",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alaita;",
+    "cep": "35680415",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Juscelino Kubitschek;"
 }

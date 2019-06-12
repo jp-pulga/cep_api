@@ -1,12 +1,13 @@
 {
-  "cep": "35695970",
-  "logradouro": "AC Igaratinga Praça Manoel de Assis 59",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Igaratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35695970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Igaratinga"
+    },
+    "ibge": 3130200,
+    "logradouro": "Praça Manoel de Assis, 59  AC Igaratinga;"
 }

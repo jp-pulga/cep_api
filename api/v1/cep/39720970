@@ -1,12 +1,13 @@
 {
-  "cep": "39720970",
-  "logradouro": "AC Gonzaga Avenida Presidente Kennedy 170",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gonzaga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39720970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Gonzaga"
+    },
+    "ibge": 3127503,
+    "logradouro": "Avenida Presidente Kennedy, 170  AC Gonzaga;"
 }

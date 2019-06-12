@@ -1,12 +1,13 @@
 {
-  "cep": "35330974",
-  "logradouro": "AGC Macadame Rua João Barbosa Neto s/n",
-  "bairro": "Macadame",
-  "cidade": {
-    "nome": "Inhapim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Macadame;",
+    "cep": "35330974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Inhapim"
+    },
+    "ibge": 3130903,
+    "logradouro": "Rua João Barbosa Neto s\/n  AGC Macadame;"
 }

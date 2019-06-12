@@ -1,12 +1,13 @@
 {
-  "cep": "35681155",
-  "logradouro": "Avenida Brasília",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "35681155",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Brasília;"
 }

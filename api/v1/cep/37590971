@@ -1,12 +1,13 @@
 {
-  "cep": "37590971",
-  "logradouro": "AGC São Luís Rua Cinco s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacutinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37590971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jacutinga"
+    },
+    "ibge": 3134905,
+    "logradouro": "Rua Cinco, s\/n  AGC São Luís;"
 }

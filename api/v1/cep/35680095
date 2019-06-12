@@ -1,12 +1,13 @@
 {
-  "cep": "35680095",
-  "logradouro": "Avenida Castro Alves",
-  "bairro": "Irmãos Auler",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Irmãos Auler;",
+    "cep": "35680095",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Castro Alves;"
 }

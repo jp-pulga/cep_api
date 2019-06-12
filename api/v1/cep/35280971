@@ -1,12 +1,13 @@
 {
-  "cep": "35280971",
-  "logradouro": "PC Itabirinha de Mantena Avenida Getúlio Vargas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itabirinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35280971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabirinha"
+    },
+    "ibge": 3131802,
+    "logradouro": "Avenida Getúlio Vargas, s\/n  PC Itabirinha de Mantena;"
 }

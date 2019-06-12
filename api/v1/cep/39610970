@@ -1,12 +1,13 @@
 {
-  "cep": "39610970",
-  "logradouro": "AC Itinga Avenida Marechal Rondon 360",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39610970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itinga"
+    },
+    "ibge": 3134004,
+    "logradouro": "Avenida Marechal Rondon, 360  AC Itinga;"
 }

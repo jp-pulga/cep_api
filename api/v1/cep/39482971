@@ -1,12 +1,13 @@
 {
-  "cep": "39482971",
-  "logradouro": "AGC Pandeiros Praça da Matriz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Januária",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39482971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Januária"
+    },
+    "ibge": 3135209,
+    "logradouro": "Praça da Matriz, s\/n  AGC Pandeiros;"
 }

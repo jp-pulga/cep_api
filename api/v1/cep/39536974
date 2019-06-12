@@ -1,12 +1,13 @@
 {
-  "cep": "39536974",
-  "logradouro": "AC Indaiabira Rua Zivaldo Miranda 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Indaiabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39536974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Indaiabira"
+    },
+    "ibge": 3130655,
+    "logradouro": "Rua Zivaldo Miranda, 80  AC Indaiabira;"
 }

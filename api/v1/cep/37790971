@@ -1,12 +1,13 @@
 {
-  "cep": "37790971",
-  "logradouro": "AC Ibitiúra de Minas Rua Santo Antônio 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibitiúra de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37790971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ibitiúra de Minas"
+    },
+    "ibge": 3129905,
+    "logradouro": "Rua Santo Antônio, 29  AC Ibitiúra de Minas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39508970",
-  "logradouro": "AC Jaíba Rua Coronel Moacir J. Silva 744",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaíba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39508970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jaíba"
+    },
+    "ibge": 3135050,
+    "logradouro": "Rua Coronel Moacir J. Silva, 744  AC Jaíba;"
 }

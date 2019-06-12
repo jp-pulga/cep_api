@@ -1,12 +1,13 @@
 {
-  "cep": "35120970",
-  "logradouro": "AC Itanhomi Avenida JK 304",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itanhomi",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35120970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itanhomi"
+    },
+    "ibge": 3133204,
+    "logradouro": "Avenida JK, 304  AC Itanhomi;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37210970",
-  "logradouro": "AC Itumirim Rua Arlindo Vitor Lima 13 Loja 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itumirim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37210970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itumirim"
+    },
+    "ibge": 3134301,
+    "logradouro": "Rua Arlindo Vitor Lima, 13 Loja 02  AC Itumirim;"
 }

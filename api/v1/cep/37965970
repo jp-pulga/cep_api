@@ -1,12 +1,13 @@
 {
-  "cep": "37965970",
-  "logradouro": "AC Jacuí Praça Presidente Vargas 225",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37965970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jacuí"
+    },
+    "ibge": 3134806,
+    "logradouro": "Praça Presidente Vargas, 225  AC Jacuí;"
 }

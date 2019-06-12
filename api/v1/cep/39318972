@@ -1,12 +1,13 @@
 {
-  "cep": "39318972",
-  "logradouro": "AC Icaraí de Minas Rua Coronel José Bernadino s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Icaraí de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39318972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Icaraí de Minas"
+    },
+    "ibge": 3130051,
+    "logradouro": "Rua Coronel José Bernadino, s\/n  AC Icaraí de Minas;"
 }

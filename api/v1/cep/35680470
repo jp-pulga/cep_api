@@ -1,12 +1,13 @@
 {
-  "cep": "35680470",
-  "logradouro": "Avenida Flávio Carvalho",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "35680470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Flávio Carvalho;"
 }

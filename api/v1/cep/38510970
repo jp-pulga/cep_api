@@ -1,12 +1,13 @@
 {
-  "cep": "38510970",
-  "logradouro": "AC Iraí de Minas Rua Eduardo Luiz Vieira 383 Loja A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iraí de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38510970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Iraí de Minas"
+    },
+    "ibge": 3131604,
+    "logradouro": "Rua Eduardo Luiz Vieira, 383 Loja A  AC Iraí de Minas;"
 }

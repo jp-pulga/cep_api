@@ -1,12 +1,12 @@
 {
-  "cep": "32676694",
-  "logradouro": "Rua Itumirim",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "32676694",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Itumirim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32044456",
-  "logradouro": "Rua Manoel Jacinto Coelho",
-  "bairro": "Vila Militar",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Militar;",
+    "cep": "32044456",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Manoel Jacinto Coelho;"
 }

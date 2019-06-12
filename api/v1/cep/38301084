@@ -1,12 +1,13 @@
 {
-  "cep": "38301084",
-  "logradouro": "Avenida Antônio Carlos Catanant de 360/361 ao fim",
-  "bairro": "Maria Vilela",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Vilela;",
+    "cep": "38301084",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Antônio Carlos Catanant - de 360\/361 ao fim;"
 }

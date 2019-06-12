@@ -1,12 +1,13 @@
 {
-  "cep": "38304254",
-  "logradouro": "Avenida Cinquenta e Um",
-  "bairro": "Elândia",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Elândia;",
+    "cep": "38304254",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Cinquenta e Um;"
 }

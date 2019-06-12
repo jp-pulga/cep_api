@@ -1,12 +1,13 @@
 {
-  "cep": "38307168",
-  "logradouro": "Avenida Alan Charley Bull",
-  "bairro": "Hélio",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Hélio;",
+    "cep": "38307168",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Alan Charley Bull;"
 }

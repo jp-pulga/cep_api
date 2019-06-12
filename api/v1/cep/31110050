@@ -1,12 +1,12 @@
 {
-  "cep": "31110050",
-  "logradouro": "Rua Jacuí até 2029/2030",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "31110050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Jacuí - até 2029\/2030;"
 }

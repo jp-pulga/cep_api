@@ -1,12 +1,13 @@
 {
-  "cep": "39708970",
-  "logradouro": "AC Frei Lagonegro Rua Apolo XI 83",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frei Lagonegro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39708970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Frei Lagonegro"
+    },
+    "ibge": 3126950,
+    "logradouro": "Rua Apolo XI, 83  AC Frei Lagonegro;"
 }

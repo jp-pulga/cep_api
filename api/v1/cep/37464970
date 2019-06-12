@@ -1,12 +1,13 @@
 {
-  "cep": "37464970",
-  "logradouro": "AC Itanhandu Avenida Fernando Costa 564",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itanhandu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37464970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itanhandu"
+    },
+    "ibge": 3133105,
+    "logradouro": "Avenida Fernando Costa, 564  AC Itanhandu;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35680625",
-  "logradouro": "Avenida Alice Nogueira G. de Melo",
-  "bairro": "Tropical",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tropical;",
+    "cep": "35680625",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Alice Nogueira G. de Melo;"
 }

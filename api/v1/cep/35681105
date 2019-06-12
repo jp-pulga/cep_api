@@ -1,12 +1,12 @@
 {
-  "cep": "35681105",
-  "logradouro": "Rua Pará de Minas",
-  "bairro": "Parque Jardim Santanense",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Jardim Santanense;",
+    "cep": "35681105",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Pará de Minas;"
 }

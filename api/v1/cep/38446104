@@ -1,12 +1,12 @@
 {
-  "cep": "38446104",
-  "logradouro": "Rua Iturama",
-  "bairro": "Bosque",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bosque;",
+    "cep": "38446104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Iturama;"
 }

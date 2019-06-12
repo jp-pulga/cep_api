@@ -1,12 +1,13 @@
 {
-  "cep": "38303317",
-  "logradouro": "Avenida C-17",
-  "bairro": "Residencial Canaã II",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Canaã II;",
+    "cep": "38303317",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida C-17;"
 }

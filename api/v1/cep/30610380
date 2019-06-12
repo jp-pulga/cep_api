@@ -1,12 +1,12 @@
 {
-  "cep": "30610380",
-  "logradouro": "Rua José Jacinto Agapito",
-  "bairro": "Indústrias I (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Indústrias I (Barreiro);",
+    "cep": "30610380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Jacinto Agapito;"
 }

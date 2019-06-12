@@ -1,12 +1,13 @@
 {
-  "cep": "35680145",
-  "logradouro": "Avenida Lenhita até 1710/1711",
-  "bairro": "Padre Eustáquio",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Eustáquio;",
+    "cep": "35680145",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Lenhita - até 1710\/1711;"
 }

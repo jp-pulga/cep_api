@@ -1,12 +1,12 @@
 {
-  "cep": "32240294",
-  "logradouro": "Beco Itaúna",
-  "bairro": "Bandeirantes",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bandeirantes;",
+    "cep": "32240294",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Beco Itaúna;"
 }

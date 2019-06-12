@@ -1,12 +1,12 @@
 {
-  "cep": "31630520",
-  "logradouro": "Rua Januária Marques Barbosa",
-  "bairro": "Serra Verde (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Verde (Venda Nova);",
+    "cep": "31630520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Januária Marques Barbosa;"
 }

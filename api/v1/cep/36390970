@@ -1,12 +1,13 @@
 {
-  "cep": "36390970",
-  "logradouro": "AC Itutinga Rua Santo Antônio 62-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itutinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36390970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itutinga"
+    },
+    "ibge": 3134509,
+    "logradouro": "Rua Santo Antônio, 62-A  AC Itutinga;"
 }

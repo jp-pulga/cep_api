@@ -1,12 +1,13 @@
 {
-  "cep": "39740973",
-  "logradouro": "AGC Taquaral (Guanhães) Rua José Inês de Souza 77",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guanhães",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39740973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guanhães"
+    },
+    "ibge": 3128006,
+    "logradouro": "Rua José Inês de Souza, 77  AGC Taquaral (Guanhães);"
 }

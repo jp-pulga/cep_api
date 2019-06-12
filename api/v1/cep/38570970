@@ -1,12 +1,13 @@
 {
-  "cep": "38570970",
-  "logradouro": "AC Guarda-Mor Rua Doutor Candido Ulhoa 164",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guarda-Mor",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38570970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guarda-Mor"
+    },
+    "ibge": 3128600,
+    "logradouro": "Rua Doutor Candido Ulhoa, 164  AC Guarda-Mor;"
 }

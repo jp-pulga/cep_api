@@ -1,12 +1,13 @@
 {
-  "cep": "35684899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Itaúna",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Itaúna;",
+    "cep": "35684899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Área Rural;"
 }

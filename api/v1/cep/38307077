@@ -1,12 +1,13 @@
 {
-  "cep": "38307077",
-  "logradouro": "Avenida Alan Charl Bull",
-  "bairro": "Platina",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Platina;",
+    "cep": "38307077",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Alan Charl Bull;"
 }

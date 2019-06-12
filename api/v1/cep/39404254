@@ -1,12 +1,12 @@
 {
-  "cep": "39404254",
-  "logradouro": "Rua Lagoa Itapeva",
-  "bairro": "Interlagos",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Interlagos;",
+    "cep": "39404254",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Lagoa Itapeva;"
 }

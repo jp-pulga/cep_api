@@ -1,12 +1,13 @@
 {
-  "cep": "38302036",
-  "logradouro": "Avenida Cinco-A",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "38302036",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Cinco-A;"
 }

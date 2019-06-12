@@ -1,12 +1,13 @@
 {
-  "cep": "38303080",
-  "logradouro": "Avenida Adones Alves Pereira",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "38303080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Adones Alves Pereira;"
 }

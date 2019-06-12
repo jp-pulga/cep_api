@@ -1,12 +1,12 @@
 {
-  "cep": "39680971",
-  "logradouro": "UD Capelinha Rua Jacinto José Ribeiro 594 1º Andar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capelinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39680971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Capelinha"
+    },
+    "logradouro": "Rua Jacinto José Ribeiro, 594 1º Andar  CDD Capelinha;"
 }

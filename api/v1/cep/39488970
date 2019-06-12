@@ -1,12 +1,13 @@
 {
-  "cep": "39488970",
-  "logradouro": "AGC São Joaquim (Januária) Praça Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Joaquim (Januária)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/São Joaquim",
+    "cep": "39488970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Januária"
+    },
+    "ibge": 3135209,
+    "logradouro": "Praça Principal, s\/n  AGC São Joaquim (Januária);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35280970",
-  "logradouro": "AC Itabirinha de Mantena Rua Juscelino Kubitschek 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itabirinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35280970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabirinha"
+    },
+    "ibge": 3131802,
+    "logradouro": "Rua Juscelino Kubitschek, 13  AC Itabirinha de Mantena;"
 }

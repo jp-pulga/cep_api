@@ -1,12 +1,12 @@
 {
-  "cep": "30535640",
-  "logradouro": "Rua Itutinga",
-  "bairro": "Minas Brasil",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Minas Brasil;",
+    "cep": "30535640",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Itutinga;"
 }

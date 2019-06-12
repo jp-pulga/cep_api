@@ -1,12 +1,12 @@
 {
-  "cep": "31360170",
-  "logradouro": "Rua Jacinto Marcelino Ferreira",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "31360170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Jacinto Marcelino Ferreira;"
 }

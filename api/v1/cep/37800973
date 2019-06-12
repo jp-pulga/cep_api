@@ -1,12 +1,13 @@
 {
-  "cep": "37800973",
-  "logradouro": "AGF João Machado Rua Capitão João Machado 183",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guaxupé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37800973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guaxupé"
+    },
+    "ibge": 3128709,
+    "logradouro": "Rua Capitão João Machado, 183  AGF João Machado;"
 }

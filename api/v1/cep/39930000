@@ -1,12 +1,11 @@
 {
-  "cep": "39930000",
-  "logradouro": "Jacinto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jacinto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39930000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jacinto"
+    },
+    "ibge": 3134707
 }

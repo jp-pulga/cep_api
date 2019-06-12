@@ -1,12 +1,13 @@
 {
-  "cep": "38910970",
-  "logradouro": "AC Iguatama Rua Cinco 782-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iguatama",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38910970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Iguatama"
+    },
+    "ibge": 3130309,
+    "logradouro": "Rua Cinco, 782-A  AC Iguatama;"
 }

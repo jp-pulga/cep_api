@@ -1,12 +1,13 @@
 {
-  "cep": "39815970",
-  "logradouro": "AC Itaipé Avenida Artur Bernardes 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaipé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39815970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaipé"
+    },
+    "ibge": 3132305,
+    "logradouro": "Avenida Artur Bernardes 52  AC Itaipé;"
 }

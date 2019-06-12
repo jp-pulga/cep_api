@@ -1,12 +1,12 @@
 {
-  "cep": "32621395",
-  "logradouro": "Rua Januária até 199 - lado ímpar",
-  "bairro": "Pimentas",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pimentas;",
+    "cep": "32621395",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Januária - até 199 - lado ímpar;"
 }

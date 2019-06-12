@@ -1,12 +1,13 @@
 {
-  "cep": "35190970",
-  "logradouro": "AC Iapu Praça Higino Fernandes 116 Loja 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iapu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35190970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Iapu"
+    },
+    "ibge": 3129301,
+    "logradouro": "Praça Higino Fernandes, 116 Loja 03  AC Iapu;"
 }

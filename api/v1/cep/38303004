@@ -1,12 +1,13 @@
 {
-  "cep": "38303004",
-  "logradouro": "Avenida Augusto Vilela Moraes",
-  "bairro": "Santa Edwiges",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Edwiges;",
+    "cep": "38303004",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Augusto Vilela Moraes;"
 }

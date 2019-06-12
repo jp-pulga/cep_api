@@ -1,12 +1,13 @@
 {
-  "cep": "37975970",
-  "logradouro": "AC Itaú de Minas Rua João Kirchner 603",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaú de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37975970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaú de Minas"
+    },
+    "ibge": 3133758,
+    "logradouro": "Rua João Kirchner, 603  AC Itaú de Minas;"
 }

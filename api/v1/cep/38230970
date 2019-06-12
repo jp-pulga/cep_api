@@ -1,12 +1,13 @@
 {
-  "cep": "38230970",
-  "logradouro": "AC Fronteira Rua Abdo Jauid Feres 88",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fronteira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38230970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fronteira"
+    },
+    "ibge": 3127008,
+    "logradouro": "Rua Abdo Jauid Feres, 88  AC Fronteira;"
 }

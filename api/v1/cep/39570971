@@ -1,12 +1,13 @@
 {
-  "cep": "39570971",
-  "logradouro": "AGC Vale das Cancelas Avenida Montes Claros 111",
-  "bairro": "Vale das Cancelas",
-  "cidade": {
-    "nome": "Grão Mogol",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale das Cancelas;",
+    "cep": "39570971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Grão Mogol"
+    },
+    "ibge": 3127800,
+    "logradouro": "Avenida Montes Claros, 111  AGC Vale das Cancelas;"
 }

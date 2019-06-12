@@ -1,12 +1,13 @@
 {
-  "cep": "39870973",
-  "logradouro": "AC Fronteira dos Vales Praça Intendente Nascimento 97",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fronteira dos Vales",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39870973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Fronteira dos Vales"
+    },
+    "ibge": 3127057,
+    "logradouro": "Praça Intendente Nascimento, 97  AC Fronteira dos Vales;"
 }

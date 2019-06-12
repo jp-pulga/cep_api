@@ -1,12 +1,12 @@
 {
-  "cep": "32900991",
-  "logradouro": "Bar e Mercearia do Pedro Rua Sebastiana do Serro 754 Jequitibá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Igarapé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "32900991",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Igarapé"
+    },
+    "ibge": 3130101,
+    "logradouro": "Rua Sebastiana do Serro, 754, Jequitibá  CPC Bar e Mercearia do Pedro;"
 }

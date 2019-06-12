@@ -1,12 +1,12 @@
 {
-  "cep": "35680070",
-  "logradouro": "Rua Jacinto Ferreira",
-  "bairro": "Vila Tavares",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Tavares;",
+    "cep": "35680070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Jacinto Ferreira;"
 }

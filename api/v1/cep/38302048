@@ -1,12 +1,13 @@
 {
-  "cep": "38302048",
-  "logradouro": "Avenida Artur Junqueira de Almeida",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "38302048",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Artur Junqueira de Almeida;"
 }

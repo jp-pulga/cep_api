@@ -1,12 +1,12 @@
 {
-  "cep": "30692508",
-  "logradouro": "Rua Conceição Januária",
-  "bairro": "Itaipu (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itaipu (Barreiro);",
+    "cep": "30692508",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Conceição Januária;"
 }

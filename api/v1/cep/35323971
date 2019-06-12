@@ -1,12 +1,13 @@
 {
-  "cep": "35323971",
-  "logradouro": "AC Imbé de Minas Avenida José Calazans 23",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Imbé de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35323971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Imbé de Minas"
+    },
+    "ibge": 3130556,
+    "logradouro": "Avenida José Calazans, 23  AC Imbé de Minas;"
 }

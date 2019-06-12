@@ -1,12 +1,13 @@
 {
-  "cep": "38510971",
-  "logradouro": "AGC São José do Barreiro Avenida Brasil 288",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iraí de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38510971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Iraí de Minas"
+    },
+    "ibge": 3131604,
+    "logradouro": "Avenida Brasil, 288  AGC São José do Barreiro;"
 }

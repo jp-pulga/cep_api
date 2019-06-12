@@ -1,12 +1,13 @@
 {
-  "cep": "35685970",
-  "logradouro": "AC Itatiaiuçu Praça Antônio Quirino da Silva 560",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itatiaiuçu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35685970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itatiaiuçu"
+    },
+    "ibge": 3133709,
+    "logradouro": "Praça Antônio Quirino da Silva, 560  AC Itatiaiuçu;"
 }

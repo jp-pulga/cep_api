@@ -1,12 +1,12 @@
 {
-  "cep": "35930411",
-  "logradouro": "Avenida João Braga",
-  "bairro": "Jacuí",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jacuí;",
+    "cep": "35930411",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Avenida João Braga;"
 }

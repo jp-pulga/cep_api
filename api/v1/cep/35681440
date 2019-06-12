@@ -1,12 +1,13 @@
 {
-  "cep": "35681440",
-  "logradouro": "Rodovia MG-050 do km 85000 ao km 85999",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "35681440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Rodovia MG-050 - do km 85,000 ao km 85,999;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32672358",
-  "logradouro": "Rua Jacuípe",
-  "bairro": "Vargem das Flores",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vargem das Flores;",
+    "cep": "32672358",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Jacuípe;"
 }

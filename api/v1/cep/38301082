@@ -1,12 +1,13 @@
 {
-  "cep": "38301082",
-  "logradouro": "Avenida Altair Alves Ferreira",
-  "bairro": "Maria Vilela",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Vilela;",
+    "cep": "38301082",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Altair Alves Ferreira;"
 }

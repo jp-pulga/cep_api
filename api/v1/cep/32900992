@@ -1,12 +1,12 @@
 {
-  "cep": "32900992",
-  "logradouro": "Comercial Vista da Serra Rua Vista Alegre 36 Recanto do Igarapé",
-  "bairro": "",
-  "cidade": {
-    "nome": "Igarapé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "32900992",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Igarapé"
+    },
+    "ibge": 3130101,
+    "logradouro": "Rua Vista Alegre, 36, Recanto do Igarapé  CPC Comercial Vista da Serra;"
 }

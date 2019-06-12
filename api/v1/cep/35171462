@@ -1,12 +1,12 @@
 {
-  "cep": "35171462",
-  "logradouro": "Rua Ceará",
-  "bairro": "Vila Jacinto das Neves",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Jacinto das Neves;",
+    "cep": "35171462",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Ceará;"
 }

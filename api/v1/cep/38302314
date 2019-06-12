@@ -1,12 +1,13 @@
 {
-  "cep": "38302314",
-  "logradouro": "Avenida Ataíde Quirino Ribeiro de 741 ao fim - lado ímpar",
-  "bairro": "Residencial Drummond",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Drummond;",
+    "cep": "38302314",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Ataíde Quirino Ribeiro - de 741 ao fim - lado ímpar;"
 }

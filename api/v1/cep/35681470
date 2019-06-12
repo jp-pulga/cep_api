@@ -1,12 +1,13 @@
 {
-  "cep": "35681470",
-  "logradouro": "Avenida Domingos Diniz Andrade",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "35681470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Domingos Diniz Andrade;"
 }

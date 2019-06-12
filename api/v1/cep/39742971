@@ -1,12 +1,13 @@
 {
-  "cep": "39742971",
-  "logradouro": "AGC Sapucaia de Guanhães Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sapucaia de Guanhães (Guanhães)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/Sapucaia de Guanhães",
+    "cep": "39742971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guanhães"
+    },
+    "ibge": 3128006,
+    "logradouro": "Rua Principal, s\/n  AGC Sapucaia de Guanhães;"
 }

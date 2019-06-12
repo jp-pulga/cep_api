@@ -1,12 +1,13 @@
 {
-  "cep": "38302540",
-  "logradouro": "Avenida Alberto Novaes",
-  "bairro": "Residencial Nadime Derze Jorge II",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Nadime Derze Jorge II;",
+    "cep": "38302540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Alberto Novaes;"
 }

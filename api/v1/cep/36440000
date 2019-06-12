@@ -1,12 +1,11 @@
 {
-  "cep": "36440000",
-  "logradouro": "Itaverava",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itaverava",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36440000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaverava"
+    },
+    "ibge": 3133907
 }

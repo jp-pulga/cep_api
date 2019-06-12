@@ -1,12 +1,12 @@
 {
-  "cep": "37902330",
-  "logradouro": "Rua Jacutinga",
-  "bairro": "Muarama",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Muarama;",
+    "cep": "37902330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Jacutinga;"
 }

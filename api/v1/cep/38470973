@@ -1,12 +1,13 @@
 {
-  "cep": "38470973",
-  "logradouro": "AC Grupiara Avenida Sílvio José de Oliveira 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Grupiara",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38470973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Grupiara"
+    },
+    "ibge": 3127909,
+    "logradouro": "Avenida Sílvio José de Oliveira, 29  AC Grupiara;"
 }

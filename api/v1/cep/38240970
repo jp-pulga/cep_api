@@ -1,12 +1,13 @@
 {
-  "cep": "38240970",
-  "logradouro": "AC Itapagipe Avenida Cinco 300",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapagipe",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38240970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itapagipe"
+    },
+    "ibge": 3133402,
+    "logradouro": "Avenida Cinco, 300  AC Itapagipe;"
 }

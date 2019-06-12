@@ -1,12 +1,12 @@
 {
-  "cep": "37502458",
-  "logradouro": "Rua Itapeva",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "37502458",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Itapeva;"
 }

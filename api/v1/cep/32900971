@@ -1,12 +1,13 @@
 {
-  "cep": "32900971",
-  "logradouro": "UD Igarapé Avenida Professor Clovis Salgado 121",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Igarapé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "32900971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Igarapé"
+    },
+    "ibge": 3130101,
+    "logradouro": "Avenida Bernardino da Silva Couto, 520  CDD Igarapé;"
 }

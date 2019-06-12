@@ -1,12 +1,13 @@
 {
-  "cep": "35248972",
-  "logradouro": "AC Goiabeira Rua Monte Castelo 37",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Goiabeira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35248972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Goiabeira"
+    },
+    "ibge": 3127370,
+    "logradouro": "Rua Monte Castelo, 37  AC Goiabeira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36225970",
-  "logradouro": "AC Ibertioga Rua Evaristo de Carvalho 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibertioga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36225970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ibertioga"
+    },
+    "ibge": 3129400,
+    "logradouro": "Rua Evaristo de Carvalho, 36  AC Ibertioga;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37590970",
-  "logradouro": "AC Jacutinga Rua Júlio Brandão 481",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacutinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37590970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jacutinga"
+    },
+    "ibge": 3134905,
+    "logradouro": "Rua Júlio Brandão, 481  AC Jacutinga;"
 }

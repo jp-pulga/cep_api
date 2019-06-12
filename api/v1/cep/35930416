@@ -1,12 +1,12 @@
 {
-  "cep": "35930416",
-  "logradouro": "Rua Topázio",
-  "bairro": "Jacuí",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jacuí;",
+    "cep": "35930416",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Topázio;"
 }

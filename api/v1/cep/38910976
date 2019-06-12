@@ -1,12 +1,13 @@
 {
-  "cep": "38910976",
-  "logradouro": "AGC Corguinhos Rua Quatrocentos e Treze s/n",
-  "bairro": "Corguinhos",
-  "cidade": {
-    "nome": "Iguatama",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Corguinhos;",
+    "cep": "38910976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Iguatama"
+    },
+    "ibge": 3130309,
+    "logradouro": "Rua Quatrocentos e Treze, s\/n  AGC Corguinhos;"
 }

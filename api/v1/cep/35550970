@@ -1,12 +1,13 @@
 {
-  "cep": "35550970",
-  "logradouro": "AC Itapecerica Rua Vigário Antunes 222",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapecerica",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35550970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itapecerica"
+    },
+    "ibge": 3133501,
+    "logradouro": "Rua Vigário Antunes, 222  AC Itapecerica;"
 }

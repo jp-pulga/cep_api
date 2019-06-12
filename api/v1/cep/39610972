@@ -1,12 +1,13 @@
 {
-  "cep": "39610972",
-  "logradouro": "AGC Taquaral (Itinga) Avenida Itinga 420",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39610972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itinga"
+    },
+    "ibge": 3134004,
+    "logradouro": "Avenida Itinga, 420  AGC Taquaral (Itinga);"
 }

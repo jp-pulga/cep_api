@@ -1,12 +1,13 @@
 {
-  "cep": "35681300",
-  "logradouro": "Rodovia MG-050 do km 87000 ao km 87999",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "35681300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Rodovia MG-050 - do km 87,000 ao km 87,999;"
 }

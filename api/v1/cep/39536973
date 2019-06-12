@@ -1,12 +1,13 @@
 {
-  "cep": "39536973",
-  "logradouro": "AGC Barra de Alegria Praça do Mercado 130",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Indaiabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39536973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Indaiabira"
+    },
+    "ibge": 3130655,
+    "logradouro": "Praça do Mercado, 130  AGC Barra de Alegria;"
 }

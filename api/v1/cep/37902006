@@ -1,12 +1,12 @@
 {
-  "cep": "37902006",
-  "logradouro": "Rua Jacuí",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "37902006",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Jacuí;"
 }

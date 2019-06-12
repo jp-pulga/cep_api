@@ -1,12 +1,13 @@
 {
-  "cep": "37990970",
-  "logradouro": "AC Ibiraci Rua Quinze de Novembro 265",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibiraci",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37990970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ibiraci"
+    },
+    "ibge": 3129707,
+    "logradouro": "Rua Quinze de Novembro, 265  AC Ibiraci;"
 }

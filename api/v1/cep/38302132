@@ -1,12 +1,13 @@
 {
-  "cep": "38302132",
-  "logradouro": "Avenida Deputado Daniel de Freitas Barros até 1998/1999",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "38302132",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida Deputado Daniel de Freitas Barros - até 1998\/1999;"
 }

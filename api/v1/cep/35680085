@@ -1,12 +1,13 @@
 {
-  "cep": "35680085",
-  "logradouro": "Avenida Doutor Walter Mendes Nogueira",
-  "bairro": "Vila Tavares",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Tavares;",
+    "cep": "35680085",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "ibge": 3133808,
+    "logradouro": "Avenida Doutor Walter Mendes Nogueira;"
 }

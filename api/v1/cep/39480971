@@ -1,12 +1,13 @@
 {
-  "cep": "39480971",
-  "logradouro": "UD Januária Rua Cesário Alvim 250",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Januária",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39480971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Januária"
+    },
+    "ibge": 3135209,
+    "logradouro": "Rua Cesário Alvim, 250  CDD Januária;"
 }

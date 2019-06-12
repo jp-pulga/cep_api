@@ -1,12 +1,11 @@
 {
-  "cep": "39837000",
-  "logradouro": "Jampruca",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jampruca",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39837000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Jampruca"
+    },
+    "ibge": 3135076
 }

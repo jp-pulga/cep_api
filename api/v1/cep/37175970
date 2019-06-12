@@ -1,12 +1,13 @@
 {
-  "cep": "37175970",
-  "logradouro": "AC Ilicínea Rua do Comércio 123",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ilicínea",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37175970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ilicínea"
+    },
+    "ibge": 3130507,
+    "logradouro": "Rua do Comércio, 123  AC Ilicínea;"
 }

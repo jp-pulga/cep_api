@@ -1,12 +1,12 @@
 {
-  "cep": "38400374",
-  "logradouro": "Travessa Iturama",
-  "bairro": "Martins",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Martins;",
+    "cep": "38400374",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Travessa Iturama;"
 }

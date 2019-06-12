@@ -1,12 +1,13 @@
 {
-  "cep": "39120971",
-  "logradouro": "AGC Vila Alexandre Mascarenhas Avenida Henrique Moreira So 1263",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gouveia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39120971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Gouveia"
+    },
+    "ibge": 3127602,
+    "logradouro": "Avenida Henrique Moreira So, 1263  AGC Vila Alexandre Mascarenhas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38303273",
-  "logradouro": "Avenida C-01",
-  "bairro": "Residencial Canaã I",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Canaã I;",
+    "cep": "38303273",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "ibge": 3134202,
+    "logradouro": "Avenida C-01;"
 }
