@@ -1,12 +1,12 @@
 {
-  "cep": "36201101",
-  "logradouro": "Rua Antônio de Paiva Neto",
-  "bairro": "Santa Tereza II",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza II;",
+    "cep": "36201101",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Antônio de Paiva Neto;"
 }

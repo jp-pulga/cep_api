@@ -1,12 +1,12 @@
 {
-  "cep": "32183173",
-  "logradouro": "Rua Amintas Marcos da Costa",
-  "bairro": "Pedra Azul",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Azul;",
+    "cep": "32183173",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Amintas Marcos da Costa;"
 }

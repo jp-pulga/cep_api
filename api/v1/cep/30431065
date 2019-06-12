@@ -1,12 +1,12 @@
 {
-  "cep": "30431065",
-  "logradouro": "Rua Pedra Bonita de 851/852 ao fim",
-  "bairro": "Barroca",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barroca;",
+    "cep": "30431065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pedra Bonita - de 851\/852 ao fim;"
 }

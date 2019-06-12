@@ -1,12 +1,12 @@
 {
-  "cep": "31340150",
-  "logradouro": "Rua Anita Blumberg",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "31340150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Anita Blumberg;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37570973",
-  "logradouro": "AGC Pinhalzinho dos Góis Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ouro Fino",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37570973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ouro Fino"
+    },
+    "ibge": 3146008,
+    "logradouro": "Rua Principal, s\/n  AGC Pinhalzinho dos Góis;"
 }

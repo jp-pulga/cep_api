@@ -1,12 +1,12 @@
 {
-  "cep": "35430303",
-  "logradouro": "Rua Padre José Alvarenga",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "35430303",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua Padre José Alvarenga;"
 }

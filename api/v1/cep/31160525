@@ -1,12 +1,12 @@
 {
-  "cep": "31160525",
-  "logradouro": "Avenida Cristiano Machado de 4091 a 5159 - lado ímpar",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "31160525",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado - de 4091 a 5159 - lado ímpar;"
 }

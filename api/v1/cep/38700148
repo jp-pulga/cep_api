@@ -1,12 +1,13 @@
 {
-  "cep": "38700148",
-  "logradouro": "Alameda Rubens Magnino",
-  "bairro": "Cônego Getúlio",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cônego Getúlio;",
+    "cep": "38700148",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Alameda Rubens Magnino;"
 }

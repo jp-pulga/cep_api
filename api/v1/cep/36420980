@@ -1,12 +1,13 @@
 {
-  "cep": "36420980",
-  "logradouro": "UD Ouro Branco Rua José Guilherme 227",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ouro Branco",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36420980",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ouro Branco"
+    },
+    "ibge": 3145901,
+    "logradouro": "Rua José Guilherme, 227  UD Ouro Branco;"
 }

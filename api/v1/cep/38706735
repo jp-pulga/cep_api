@@ -1,12 +1,12 @@
 {
-  "cep": "38706735",
-  "logradouro": "Rua Ouro Branco",
-  "bairro": "Distrito Industrial II",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial II;",
+    "cep": "38706735",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Ouro Branco;"
 }

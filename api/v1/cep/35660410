@@ -1,12 +1,13 @@
 {
-  "cep": "35660410",
-  "logradouro": "Alameda do Ipê",
-  "bairro": "Jardim Castelo Branco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Castelo Branco;",
+    "cep": "35660410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "ibge": 3147105,
+    "logradouro": "Alameda do Ipê;"
 }

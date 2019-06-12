@@ -1,12 +1,13 @@
 {
-  "cep": "36828972",
-  "logradouro": "AC Orizânia Rua João Henrique da Rocha 81",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Orizânia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36828972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Orizânia"
+    },
+    "ibge": 3145877,
+    "logradouro": "Rua João Henrique da Rocha, 81  AC Orizânia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35430028",
-  "logradouro": "Avenida Abdalla Felício",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35430028",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Abdalla Felício;"
 }

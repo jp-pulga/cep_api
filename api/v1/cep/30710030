@@ -1,12 +1,12 @@
 {
-  "cep": "30710030",
-  "logradouro": "Rua Padre Paraíso",
-  "bairro": "Carlos Prates",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carlos Prates;",
+    "cep": "30710030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Padre Paraíso;"
 }

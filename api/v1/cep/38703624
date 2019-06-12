@@ -1,12 +1,13 @@
 {
-  "cep": "38703624",
-  "logradouro": "Alameda Iracema Valadares de Campos",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "38703624",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Alameda Iracema Valadares de Campos;"
 }

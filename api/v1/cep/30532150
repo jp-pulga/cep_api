@@ -1,12 +1,12 @@
 {
-  "cep": "30532150",
-  "logradouro": "Rua Barão de Paraopeba",
-  "bairro": "Jardinópolis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardinópolis;",
+    "cep": "30532150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Barão de Paraopeba;"
 }

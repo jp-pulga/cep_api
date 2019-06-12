@@ -1,12 +1,12 @@
 {
-  "cep": "36087075",
-  "logradouro": "Rua Irene Pinto Kneipp",
-  "bairro": "Nova Era",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Era;",
+    "cep": "36087075",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Irene Pinto Kneipp;"
 }

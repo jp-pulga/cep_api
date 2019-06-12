@@ -1,12 +1,12 @@
 {
-  "cep": "38440318",
-  "logradouro": "Rua Palmas",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "38440318",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Palmas;"
 }

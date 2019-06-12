@@ -1,12 +1,13 @@
 {
-  "cep": "36480970",
-  "logradouro": "AC Piranga Praça Coronel Amantino 70 Loja 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piranga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36480970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piranga"
+    },
+    "ibge": 3150802,
+    "logradouro": "Praça Coronel Amantino, 70 Loja 01  AC Piranga;"
 }

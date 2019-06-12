@@ -1,12 +1,13 @@
 {
-  "cep": "36250970",
-  "logradouro": "AC Oliveira Fortes Praça Vicente Prata Mourão s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Oliveira Fortes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36250970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Oliveira Fortes"
+    },
+    "ibge": 3145703,
+    "logradouro": "Praça Vicente Prata Mourão, s\/n  AC Oliveira Fortes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30421437",
-  "logradouro": "Beco Papagaio",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "30421437",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Papagaio;"
 }

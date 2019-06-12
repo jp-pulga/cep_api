@@ -1,12 +1,13 @@
 {
-  "cep": "37460970",
-  "logradouro": "AC Passa Quatro Praça Doutor Alkimim 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passa Quatro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37460970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passa Quatro"
+    },
+    "ibge": 3147600,
+    "logradouro": "Praça Floriano Cancela Neto, 6  AC Passa Quatro;"
 }

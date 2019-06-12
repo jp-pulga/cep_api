@@ -1,12 +1,12 @@
 {
-  "cep": "31210720",
-  "logradouro": "Rua Pereira Passos",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "31210720",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pereira Passos;"
 }

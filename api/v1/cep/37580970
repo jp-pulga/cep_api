@@ -1,12 +1,13 @@
 {
-  "cep": "37580970",
-  "logradouro": "AC Monte Sião Rua Presidente Tancredo Neves 130",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Sião",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37580970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Monte Sião"
+    },
+    "ibge": 3143401,
+    "logradouro": "Rua Presidente Tancredo Neves, 130  AC Monte Sião;"
 }

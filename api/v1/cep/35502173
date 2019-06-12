@@ -1,12 +1,12 @@
 {
-  "cep": "35502173",
-  "logradouro": "Rua Pedra Bonita",
-  "bairro": "Anchieta",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Anchieta;",
+    "cep": "35502173",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Pedra Bonita;"
 }

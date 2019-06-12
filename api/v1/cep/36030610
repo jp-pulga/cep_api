@@ -1,12 +1,12 @@
 {
-  "cep": "36030610",
-  "logradouro": "Rua Joaquim Pavão",
-  "bairro": "Jardim de Alá",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim de Alá;",
+    "cep": "36030610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Joaquim Pavão;"
 }

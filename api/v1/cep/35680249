@@ -1,12 +1,12 @@
 {
-  "cep": "35680249",
-  "logradouro": "Rua Paracatu",
-  "bairro": "Nogueirinha",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nogueirinha;",
+    "cep": "35680249",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Paracatu;"
 }

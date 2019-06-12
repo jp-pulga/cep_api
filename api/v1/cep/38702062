@@ -1,12 +1,13 @@
 {
-  "cep": "38702062",
-  "logradouro": "Alameda Um",
-  "bairro": "Aurélio Caixeta",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aurélio Caixeta;",
+    "cep": "38702062",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Alameda Um;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35164340",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Novo Cruzeiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Cruzeiro;",
+    "cep": "35164340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua São Francisco;"
 }

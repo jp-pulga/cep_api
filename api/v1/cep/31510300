@@ -1,12 +1,12 @@
 {
-  "cep": "31510300",
-  "logradouro": "Rua Pedra do Indaiá",
-  "bairro": "Candelária",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Candelária;",
+    "cep": "31510300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pedra do Indaiá;"
 }

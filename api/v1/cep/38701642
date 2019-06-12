@@ -1,12 +1,13 @@
 {
-  "cep": "38701642",
-  "logradouro": "Avenida do Planalto",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "38701642",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida do Planalto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30390170",
-  "logradouro": "Rua Senhora do Carmo",
-  "bairro": "Olhos D'Água",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Olhos D'Água;",
+    "cep": "30390170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Senhora do Carmo;"
 }

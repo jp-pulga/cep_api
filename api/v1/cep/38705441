@@ -1,12 +1,13 @@
 {
-  "cep": "38705441",
-  "logradouro": "Avenida Afonso Queiroz de 2830/2831 ao fim",
-  "bairro": "Afonso Queiroz",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Afonso Queiroz;",
+    "cep": "38705441",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida Afonso Queiroz - de 2830\/2831 ao fim;"
 }

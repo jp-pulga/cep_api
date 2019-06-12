@@ -1,12 +1,12 @@
 {
-  "cep": "32675495",
-  "logradouro": "Avenida Pedra Azul até 399 - lado ímpar",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675495",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Avenida Pedra Azul - até 399 - lado ímpar;"
 }

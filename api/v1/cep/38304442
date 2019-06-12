@@ -1,12 +1,12 @@
 {
-  "cep": "38304442",
-  "logradouro": "Rua Benevuto Rezende",
-  "bairro": "Nova Ituiutaba IV",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Ituiutaba IV;",
+    "cep": "38304442",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Rua Benevuto Rezende;"
 }

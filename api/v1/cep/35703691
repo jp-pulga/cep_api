@@ -1,12 +1,12 @@
 {
-  "cep": "35703691",
-  "logradouro": "Rua Agostinho Pires da Silva",
-  "bairro": "Nova Serrana",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Serrana;",
+    "cep": "35703691",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Agostinho Pires da Silva;"
 }

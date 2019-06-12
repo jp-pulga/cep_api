@@ -1,12 +1,12 @@
 {
-  "cep": "35663670",
-  "logradouro": "Rua Martinho Pescador",
-  "bairro": "Bom Jesus do Pará",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus do Pará;",
+    "cep": "35663670",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Martinho Pescador;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36730971",
-  "logradouro": "AGC Valão Quente Avenida José Dias Ferreira s/n",
-  "bairro": "Valão Quente",
-  "cidade": {
-    "nome": "Pirapetinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Valão Quente;",
+    "cep": "36730971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pirapetinga"
+    },
+    "ibge": 3151107,
+    "logradouro": "Avenida José Dias Ferreira, s\/n  AGC Valão Quente;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36037877",
-  "logradouro": "Rua Munhoz (Lot Alphaville)",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "36037877",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Munhoz (Lot Alphaville);"
 }

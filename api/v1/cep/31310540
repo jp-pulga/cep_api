@@ -1,12 +1,12 @@
 {
-  "cep": "31310540",
-  "logradouro": "Praça Mohamed V",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "31310540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Mohamed V;"
 }

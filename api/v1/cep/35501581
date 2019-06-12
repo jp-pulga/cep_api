@@ -1,12 +1,12 @@
 {
-  "cep": "35501581",
-  "logradouro": "Rua Pequi",
-  "bairro": "Jardinópolis",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardinópolis;",
+    "cep": "35501581",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Pequi;"
 }

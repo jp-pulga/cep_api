@@ -1,12 +1,13 @@
 {
-  "cep": "39525972",
-  "logradouro": "AC Nova Porteirinha Avenida Castelo Branco 226",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Porteirinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39525972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova Porteirinha"
+    },
+    "ibge": 3145059,
+    "logradouro": "Avenida Castelo Branco, 226  AC Nova Porteirinha;"
 }

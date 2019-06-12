@@ -1,12 +1,13 @@
 {
-  "cep": "37890971",
-  "logradouro": "AGF João Pinheiro Rua João Pinheiro 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muzambinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37890971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Muzambinho"
+    },
+    "ibge": 3144102,
+    "logradouro": "Rua João Pinheiro, 160  AGF João Pinheiro;"
 }

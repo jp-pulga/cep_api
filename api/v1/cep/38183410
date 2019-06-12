@@ -1,12 +1,12 @@
 {
-  "cep": "38183410",
-  "logradouro": "Rua Célia de Paiva Araújo",
-  "bairro": "Dona Beja",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Beja;",
+    "cep": "38183410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Célia de Paiva Araújo;"
 }

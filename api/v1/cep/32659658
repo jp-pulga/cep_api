@@ -1,12 +1,12 @@
 {
-  "cep": "32659658",
-  "logradouro": "Rua Antônio Vieira da Costa",
-  "bairro": "Jardim Nazareno",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Nazareno;",
+    "cep": "32659658",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Antônio Vieira da Costa;"
 }

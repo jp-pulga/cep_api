@@ -1,12 +1,12 @@
 {
-  "cep": "32060270",
-  "logradouro": "Passagem Pedestre Um",
-  "bairro": "Granja Ouro Branco",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja Ouro Branco;",
+    "cep": "32060270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Passagem Pedestre Um;"
 }

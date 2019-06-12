@@ -1,12 +1,12 @@
 {
-  "cep": "35464975",
-  "logradouro": "AGC Suzana Rua Hum 225",
-  "bairro": "Suzana",
-  "cidade": {
-    "nome": "Piedade do Paraopeba (Brumadinho)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Suzana\/Piedade do Paraopeba",
+    "cep": "35464975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brumadinho"
+    },
+    "logradouro": "Rua Hum 225  AGC Suzana;"
 }

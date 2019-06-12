@@ -1,12 +1,12 @@
 {
-  "cep": "32600478",
-  "logradouro": "Rua Paracatu",
-  "bairro": "Brasiléia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasiléia;",
+    "cep": "32600478",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Paracatu;"
 }

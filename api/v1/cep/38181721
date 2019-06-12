@@ -1,12 +1,12 @@
 {
-  "cep": "38181721",
-  "logradouro": "Rua Vital de Azevedo",
-  "bairro": "Pedra Azul",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Azul;",
+    "cep": "38181721",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Vital de Azevedo;"
 }

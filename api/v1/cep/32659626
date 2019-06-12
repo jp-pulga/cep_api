@@ -1,12 +1,12 @@
 {
-  "cep": "32659626",
-  "logradouro": "Rua Antônio Alves Henrique",
-  "bairro": "Jardim Nazareno",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Nazareno;",
+    "cep": "32659626",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Antônio Alves Henrique;"
 }

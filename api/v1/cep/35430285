@@ -1,12 +1,12 @@
 {
-  "cep": "35430285",
-  "logradouro": "Rua Achiles Monteiro de Resende",
-  "bairro": "Vale Verde",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale Verde;",
+    "cep": "35430285",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua Achiles Monteiro de Resende;"
 }

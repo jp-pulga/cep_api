@@ -1,12 +1,13 @@
 {
-  "cep": "39945972",
-  "logradouro": "AC Palmópolis Rua Sete de Setembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palmópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39945972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Palmópolis"
+    },
+    "ibge": 3146750,
+    "logradouro": "Rua Sete de Setembro, s\/n  AC Palmópolis;"
 }

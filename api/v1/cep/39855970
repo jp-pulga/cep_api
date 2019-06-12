@@ -1,12 +1,13 @@
 {
-  "cep": "39855970",
-  "logradouro": "AC Ouro Verde de Minas Rua Quinze de Janeiro 158",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ouro Verde de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39855970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ouro Verde de Minas"
+    },
+    "ibge": 3146206,
+    "logradouro": "Rua Cícero Xavier de Vasconcelos, 120  AC Ouro Verde de Minas;"
 }

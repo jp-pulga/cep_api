@@ -1,12 +1,12 @@
 {
-  "cep": "35430155",
-  "logradouro": "Rua João Piranga",
-  "bairro": "Triângulo",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Triângulo;",
+    "cep": "35430155",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua João Piranga;"
 }

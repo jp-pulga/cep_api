@@ -1,12 +1,12 @@
 {
-  "cep": "35931180",
-  "logradouro": "Rua Maria da Conceição Carvalho",
-  "bairro": "Paineiras",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paineiras;",
+    "cep": "35931180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Maria da Conceição Carvalho;"
 }

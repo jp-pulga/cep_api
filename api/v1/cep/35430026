@@ -1,12 +1,12 @@
 {
-  "cep": "35430026",
-  "logradouro": "Avenida Custódio Silva",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35430026",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Custódio Silva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38447001",
-  "logradouro": "Rua Nazzareno Sícari",
-  "bairro": "Milenium",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Milenium;",
+    "cep": "38447001",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Nazzareno Sícari;"
 }

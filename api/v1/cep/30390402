@@ -1,12 +1,12 @@
 {
-  "cep": "30390402",
-  "logradouro": "Rua Quatro Mil Cento e Vinte e Um",
-  "bairro": "Olhos D'Água",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Olhos D'Água;",
+    "cep": "30390402",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Quatro Mil Cento e Vinte e Um;"
 }

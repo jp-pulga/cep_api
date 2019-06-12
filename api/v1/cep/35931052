@@ -1,12 +1,12 @@
 {
-  "cep": "35931052",
-  "logradouro": "Rua Passabem",
-  "bairro": "Cruzeiro Celeste",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro Celeste;",
+    "cep": "35931052",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Passabem;"
 }

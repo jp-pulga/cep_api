@@ -1,12 +1,13 @@
 {
-  "cep": "35661335",
-  "logradouro": "Alameda das Roseiras",
-  "bairro": "Jardim das Piteiras",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim das Piteiras;",
+    "cep": "35661335",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "ibge": 3147105,
+    "logradouro": "Alameda das Roseiras;"
 }

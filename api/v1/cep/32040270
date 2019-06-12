@@ -1,12 +1,12 @@
 {
-  "cep": "32040270",
-  "logradouro": "Rua Pará de Minas",
-  "bairro": "Santa Edwiges",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Edwiges;",
+    "cep": "32040270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Pará de Minas;"
 }

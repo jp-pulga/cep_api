@@ -1,12 +1,12 @@
 {
-  "cep": "37503600",
-  "logradouro": "Rodovia Itajubá-Piranguçu",
-  "bairro": "Rebourgeon",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rebourgeon;",
+    "cep": "37503600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rodovia Itajubá-Piranguçu;"
 }

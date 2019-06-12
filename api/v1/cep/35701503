@@ -1,12 +1,12 @@
 {
-  "cep": "35701503",
-  "logradouro": "Rua Ely Pires de Araújo",
-  "bairro": "Ouro Branco",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Branco;",
+    "cep": "35701503",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Ely Pires de Araújo;"
 }

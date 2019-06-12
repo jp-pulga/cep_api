@@ -1,12 +1,12 @@
 {
-  "cep": "32667420",
-  "logradouro": "Rua Rio Paraopeba",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "32667420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Rio Paraopeba;"
 }

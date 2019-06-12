@@ -1,12 +1,13 @@
 {
-  "cep": "35325970",
-  "logradouro": "AC Piedade de Caratinga Rua Isabel Vieira 95",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piedade de Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35325970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piedade de Caratinga"
+    },
+    "ibge": 3150158,
+    "logradouro": "Rua Isabel Vieira, 95  AC Piedade de Caratinga;"
 }

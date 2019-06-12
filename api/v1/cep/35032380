@@ -1,12 +1,12 @@
 {
-  "cep": "35032380",
-  "logradouro": "Rua Piauí",
-  "bairro": "Lourdes",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lourdes;",
+    "cep": "35032380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Piauí;"
 }

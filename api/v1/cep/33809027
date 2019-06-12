@@ -1,12 +1,12 @@
 {
-  "cep": "33809027",
-  "logradouro": "Alameda Perdizes",
-  "bairro": "Jardim Colonial",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Colonial;",
+    "cep": "33809027",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Alameda Perdizes;"
 }

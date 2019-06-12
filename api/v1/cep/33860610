@@ -1,12 +1,12 @@
 {
-  "cep": "33860610",
-  "logradouro": "Rua Paraopeba",
-  "bairro": "Santa Matilde",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Matilde;",
+    "cep": "33860610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Paraopeba;"
 }

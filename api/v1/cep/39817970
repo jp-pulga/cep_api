@@ -1,12 +1,13 @@
 {
-  "cep": "39817970",
-  "logradouro": "AC Novo Oriente de Minas Rua Vitoldo João Krasnowolski 265",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Oriente de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39817970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Novo Oriente de Minas"
+    },
+    "ibge": 3145356,
+    "logradouro": "Rua Vitoldo João Krasnowolski, 265  AC Novo Oriente de Minas;"
 }

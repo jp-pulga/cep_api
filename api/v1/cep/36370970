@@ -1,12 +1,13 @@
 {
-  "cep": "36370970",
-  "logradouro": "AC Nazareno Avenida Padre Francisco Andrade 241",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nazareno",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36370970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nazareno"
+    },
+    "ibge": 3144508,
+    "logradouro": "Avenida Padre Francisco Andrade, 241  AC Nazareno;"
 }

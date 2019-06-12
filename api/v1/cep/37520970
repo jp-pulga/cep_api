@@ -1,12 +1,13 @@
 {
-  "cep": "37520970",
-  "logradouro": "AC Pedralva Rua Pedro Monti 272",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedralva",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37520970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedralva"
+    },
+    "ibge": 3149101,
+    "logradouro": "Rua Pedro Monti, 272  AC Pedralva;"
 }

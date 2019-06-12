@@ -1,12 +1,12 @@
 {
-  "cep": "35162383",
-  "logradouro": "Rua José do Patrocínio",
-  "bairro": "Cidade Nobre",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nobre;",
+    "cep": "35162383",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua José do Patrocínio;"
 }

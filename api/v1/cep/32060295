@@ -1,12 +1,12 @@
 {
-  "cep": "32060295",
-  "logradouro": "Alameda das Acácias",
-  "bairro": "Granja Ouro Branco",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja Ouro Branco;",
+    "cep": "32060295",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Alameda das Acácias;"
 }

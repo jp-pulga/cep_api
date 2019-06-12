@@ -1,12 +1,12 @@
 {
-  "cep": "31170190",
-  "logradouro": "Rua Professor Pimenta da Veiga",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "31170190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor Pimenta da Veiga;"
 }

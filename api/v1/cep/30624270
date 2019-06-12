@@ -1,12 +1,12 @@
 {
-  "cep": "30624270",
-  "logradouro": "Rua Pavão",
-  "bairro": "Vila Cemig",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cemig;",
+    "cep": "30624270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pavão;"
 }

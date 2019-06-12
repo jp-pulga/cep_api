@@ -1,12 +1,13 @@
 {
-  "cep": "37570972",
-  "logradouro": "AGC Peitudos Praça Maria Antônia Roma 61",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ouro Fino",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37570972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ouro Fino"
+    },
+    "ibge": 3146008,
+    "logradouro": "Praça Maria Antônia Roma, 61  AGC Peitudos;"
 }

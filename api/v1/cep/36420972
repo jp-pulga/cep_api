@@ -1,12 +1,13 @@
 {
-  "cep": "36420972",
-  "logradouro": "PC Água Limpa Rua Principal s/n",
-  "bairro": "Água Limpa",
-  "cidade": {
-    "nome": "Ouro Branco",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Água Limpa;",
+    "cep": "36420972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ouro Branco"
+    },
+    "ibge": 3145901,
+    "logradouro": "Rua Principal, s\/n  PC Água Limpa;"
 }

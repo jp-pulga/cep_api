@@ -1,12 +1,12 @@
 {
-  "cep": "35164337",
-  "logradouro": "Rua Santo Antônio",
-  "bairro": "Novo Cruzeiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Cruzeiro;",
+    "cep": "35164337",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Santo Antônio;"
 }

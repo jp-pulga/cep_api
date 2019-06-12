@@ -1,12 +1,13 @@
 {
-  "cep": "36730970",
-  "logradouro": "AC Pirapetinga Rua João Gomes Sobrinho 33",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pirapetinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36730970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pirapetinga"
+    },
+    "ibge": 3151107,
+    "logradouro": "Rua João Gomes Sobrinho, 33  AC Pirapetinga;"
 }

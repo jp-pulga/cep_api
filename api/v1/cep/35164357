@@ -1,12 +1,12 @@
 {
-  "cep": "35164357",
-  "logradouro": "Rua São Rafael",
-  "bairro": "Novo Cruzeiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Cruzeiro;",
+    "cep": "35164357",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua São Rafael;"
 }

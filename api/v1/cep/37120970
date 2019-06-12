@@ -1,12 +1,13 @@
 {
-  "cep": "37120970",
-  "logradouro": "AC Paraguaçu Rua Aureliano Prado 360",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paraguaçu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37120970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Paraguaçu"
+    },
+    "ibge": 3147204,
+    "logradouro": "Rua Aureliano Prado, 360  AC Paraguaçu;"
 }

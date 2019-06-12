@@ -1,12 +1,13 @@
 {
-  "cep": "35382971",
-  "logradouro": "AC Piedade de Ponte Nova Praça Doutor José Pinto Vieira 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piedade de Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35382971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piedade de Ponte Nova"
+    },
+    "ibge": 3150208,
+    "logradouro": "Praça Doutor José Pinto Vieira, 36  AC Piedade de Ponte Nova;"
 }

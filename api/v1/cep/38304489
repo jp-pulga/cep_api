@@ -1,12 +1,12 @@
 {
-  "cep": "38304489",
-  "logradouro": "Avenida Senador Eliseu Rezende",
-  "bairro": "Nova Ituiutaba I",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Ituiutaba I;",
+    "cep": "38304489",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Avenida Senador Eliseu Rezende;"
 }

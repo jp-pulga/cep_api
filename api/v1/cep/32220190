@@ -1,12 +1,12 @@
 {
-  "cep": "32220190",
-  "logradouro": "Rua José do Patrocínio",
-  "bairro": "Jardim Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Industrial;",
+    "cep": "32220190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua José do Patrocínio;"
 }

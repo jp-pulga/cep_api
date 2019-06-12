@@ -1,12 +1,12 @@
 {
-  "cep": "32687370",
-  "logradouro": "Rua Monte Sião",
-  "bairro": "Renascer",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Renascer;",
+    "cep": "32687370",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Monte Sião;"
 }

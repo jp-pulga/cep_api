@@ -1,12 +1,12 @@
 {
-  "cep": "34515120",
-  "logradouro": "Rua Pedro Leopoldo",
-  "bairro": "Vila Santa Cruz",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Cruz;",
+    "cep": "34515120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Pedro Leopoldo;"
 }

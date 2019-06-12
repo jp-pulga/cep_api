@@ -1,12 +1,12 @@
 {
-  "cep": "38180256",
-  "logradouro": "Rua José Montandon de Paiva",
-  "bairro": "Abolição",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Abolição;",
+    "cep": "38180256",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua José Montandon de Paiva;"
 }

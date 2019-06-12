@@ -1,12 +1,12 @@
 {
-  "cep": "30390400",
-  "logradouro": "Rua Visconde do Rio Branco",
-  "bairro": "Olhos D'Água",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Olhos D'Água;",
+    "cep": "30390400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Visconde do Rio Branco;"
 }

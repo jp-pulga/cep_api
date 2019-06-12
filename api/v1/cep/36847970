@@ -1,12 +1,13 @@
 {
-  "cep": "36847970",
-  "logradouro": "AC Pedra Dourada Rua São João 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra Dourada",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36847970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedra Dourada"
+    },
+    "ibge": 3149002,
+    "logradouro": "Rua São João, 12  AC Pedra Dourada;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33833210",
-  "logradouro": "Alameda dos Periquitos",
-  "bairro": "Condomínio Vale do Ouro",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Condomínio Vale do Ouro;",
+    "cep": "33833210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Alameda dos Periquitos;"
 }

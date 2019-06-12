@@ -1,12 +1,12 @@
 {
-  "cep": "36202512",
-  "logradouro": "Rua Aristides Garcia de Paiva",
-  "bairro": "Grogotó",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grogotó;",
+    "cep": "36202512",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Aristides Garcia de Paiva;"
 }

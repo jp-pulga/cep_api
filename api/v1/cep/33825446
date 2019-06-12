@@ -1,12 +1,12 @@
 {
-  "cep": "33825446",
-  "logradouro": "Rua dos Papagaios",
-  "bairro": "San Genaro",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "San Genaro;",
+    "cep": "33825446",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua dos Papagaios;"
 }

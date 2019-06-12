@@ -1,12 +1,12 @@
 {
-  "cep": "35052853",
-  "logradouro": "Rua Paracatu",
-  "bairro": "Turmalina",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Turmalina;",
+    "cep": "35052853",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Paracatu;"
 }

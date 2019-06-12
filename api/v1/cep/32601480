@@ -1,12 +1,12 @@
 {
-  "cep": "32601480",
-  "logradouro": "Rua Cinco",
-  "bairro": "Pingo D'água",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pingo D'água;",
+    "cep": "32601480",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Cinco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35171017",
-  "logradouro": "Rua Olaria",
-  "bairro": "Melo Viana",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Melo Viana;",
+    "cep": "35171017",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Olaria;"
 }

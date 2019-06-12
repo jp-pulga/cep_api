@@ -1,12 +1,12 @@
 {
-  "cep": "36016100",
-  "logradouro": "Rua Doutor Ávila",
-  "bairro": "Paineiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paineiras;",
+    "cep": "36016100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Doutor Ávila;"
 }

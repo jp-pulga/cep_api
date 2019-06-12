@@ -1,12 +1,12 @@
 {
-  "cep": "38304434",
-  "logradouro": "Rua Mozart Rezende",
-  "bairro": "Nova Ituiutaba II",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Ituiutaba II;",
+    "cep": "38304434",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Rua Mozart Rezende;"
 }

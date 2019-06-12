@@ -1,12 +1,12 @@
 {
-  "cep": "36087180",
-  "logradouro": "Rua Jair da Silva Spinelli",
-  "bairro": "Nova Era",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Era;",
+    "cep": "36087180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Jair da Silva Spinelli;"
 }

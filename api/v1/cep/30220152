@@ -1,12 +1,12 @@
 {
-  "cep": "30220152",
-  "logradouro": "Beco Pirapetinga",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "30220152",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Pirapetinga;"
 }

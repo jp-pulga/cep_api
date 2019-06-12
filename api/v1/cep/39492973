@@ -1,12 +1,13 @@
 {
-  "cep": "39492973",
-  "logradouro": "AC Pedras de Maria da Cruz Avenida Montes Claros 360",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedras de Maria da Cruz",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39492973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedras de Maria da Cruz"
+    },
+    "ibge": 3149150,
+    "logradouro": "Avenida Montes Claros, 360  AC Pedras de Maria da Cruz;"
 }

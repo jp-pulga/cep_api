@@ -1,12 +1,13 @@
 {
-  "cep": "38703170",
-  "logradouro": "Alameda Adelino Nunes Domingos",
-  "bairro": "Jardim Floresta",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Floresta;",
+    "cep": "38703170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Alameda Adelino Nunes Domingos;"
 }

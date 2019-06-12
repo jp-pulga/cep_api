@@ -1,12 +1,12 @@
 {
-  "cep": "32667446",
-  "logradouro": "Rua Muriae",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "32667446",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Muriae;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31535060",
-  "logradouro": "Rua Nacip Raydan",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "31535060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Nacip Raydan;"
 }

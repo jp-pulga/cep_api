@@ -1,12 +1,13 @@
 {
-  "cep": "35669970",
-  "logradouro": "AC Papagaios Rua Padre João Cruz 10 Loja 05",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Papagaios",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35669970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Papagaios"
+    },
+    "ibge": 3146909,
+    "logradouro": "Rua Padre João Cruz, 10 Loja 05  AC Papagaios;"
 }

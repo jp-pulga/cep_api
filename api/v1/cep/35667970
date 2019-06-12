@@ -1,12 +1,13 @@
 {
-  "cep": "35667970",
-  "logradouro": "AC Pequi Praça Santo Antônio 82-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pequi",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35667970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pequi"
+    },
+    "ibge": 3149606,
+    "logradouro": "Praça Santo Antônio, 82-B  AC Pequi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38180025",
-  "logradouro": "Rua Josefina de Paiva Abreu",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "38180025",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Josefina de Paiva Abreu;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "34525515",
-  "logradouro": "Rua Periquito",
-  "bairro": "Adelmolândia",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Adelmolândia;",
+    "cep": "34525515",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Periquito;"
 }

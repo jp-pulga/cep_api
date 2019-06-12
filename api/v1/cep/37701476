@@ -1,12 +1,12 @@
 {
-  "cep": "37701476",
-  "logradouro": "Rua Nilo Peçanha",
-  "bairro": "Jardim Cascatinha",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Cascatinha;",
+    "cep": "37701476",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Nilo Peçanha;"
 }

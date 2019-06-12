@@ -1,12 +1,12 @@
 {
-  "cep": "32628318",
-  "logradouro": "Rua Paineiras (Condomínio Ecco Villas)",
-  "bairro": "Vale Verde",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale Verde;",
+    "cep": "32628318",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Paineiras (Condomínio Ecco Villas);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37511970",
-  "logradouro": "AC Piranguçu Rua Caetano Lopes da Silva 115",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piranguçu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37511970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piranguçu"
+    },
+    "ibge": 3150901,
+    "logradouro": "Rua Caetano Lopes da Silva 115  AC Piranguçu;"
 }

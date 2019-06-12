@@ -1,12 +1,12 @@
 {
-  "cep": "30360480",
-  "logradouro": "Rua Palmares",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "30360480",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Palmares;"
 }

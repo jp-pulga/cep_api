@@ -1,12 +1,13 @@
 {
-  "cep": "38701098",
-  "logradouro": "Avenida D",
-  "bairro": "Guanabara",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guanabara;",
+    "cep": "38701098",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida D;"
 }

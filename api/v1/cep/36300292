@@ -1,12 +1,12 @@
 {
-  "cep": "36300292",
-  "logradouro": "Beco Olho D'Água",
-  "bairro": "Senhor dos Montes",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhor dos Montes;",
+    "cep": "36300292",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Beco Olho D'Água;"
 }

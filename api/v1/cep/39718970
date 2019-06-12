@@ -1,12 +1,13 @@
 {
-  "cep": "39718970",
-  "logradouro": "AC Nacip Raydan Avenida Doutor Antônio da Cunha 74",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nacip Raydan",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39718970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nacip Raydan"
+    },
+    "ibge": 3144201,
+    "logradouro": "Avenida Doutor Antônio da Cunha, 74  AC Nacip Raydan;"
 }

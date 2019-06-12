@@ -1,12 +1,12 @@
 {
-  "cep": "30411110",
-  "logradouro": "Rua Pedra Bonita até 349/350",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "30411110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pedra Bonita - até 349\/350;"
 }

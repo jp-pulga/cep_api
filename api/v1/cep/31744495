@@ -1,12 +1,12 @@
 {
-  "cep": "31744495",
-  "logradouro": "Rua Maria Pereira Pavão",
-  "bairro": "Juliana",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Juliana;",
+    "cep": "31744495",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Pereira Pavão;"
 }

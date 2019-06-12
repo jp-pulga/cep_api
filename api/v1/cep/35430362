@@ -1,12 +1,12 @@
 {
-  "cep": "35430362",
-  "logradouro": "Alameda Triângulo Verde",
-  "bairro": "Residencial Triângulo Verde",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Triângulo Verde;",
+    "cep": "35430362",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Alameda Triângulo Verde;"
 }

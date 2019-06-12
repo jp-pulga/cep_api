@@ -1,12 +1,13 @@
 {
-  "cep": "35565970",
-  "logradouro": "AC Pedra do Indaiá Rua Nova 01 Loja A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra do Indaiá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35565970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedra do Indaiá"
+    },
+    "ibge": 3148905,
+    "logradouro": "Rua Nova, 01 Loja A  AC Pedra do Indaiá;"
 }

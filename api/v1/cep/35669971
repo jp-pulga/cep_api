@@ -1,12 +1,13 @@
 {
-  "cep": "35669971",
-  "logradouro": "AGC Vargem Grande (Papagaios) Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Papagaios",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35669971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Papagaios"
+    },
+    "ibge": 3146909,
+    "logradouro": "Rua Principal, s\/n  AGC Vargem Grande (Papagaios);"
 }

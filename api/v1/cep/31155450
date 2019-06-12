@@ -1,12 +1,12 @@
 {
-  "cep": "31155450",
-  "logradouro": "Rua Expedicionário Antônio Nascimento",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "31155450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Expedicionário Antônio Nascimento;"
 }

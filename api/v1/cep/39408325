@@ -1,12 +1,12 @@
 {
-  "cep": "39408325",
-  "logradouro": "Rua Nilo Peçanha",
-  "bairro": "Jardim Parque Morada do Sol",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Parque Morada do Sol;",
+    "cep": "39408325",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Nilo Peçanha;"
 }

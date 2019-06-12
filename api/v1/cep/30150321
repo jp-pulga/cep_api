@@ -1,12 +1,12 @@
 {
-  "cep": "30150321",
-  "logradouro": "Rua Piauí de 551/552 a 1669/1670",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "30150321",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Piauí - de 831\/832 a 1239\/1240;"
 }

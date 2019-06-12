@@ -1,12 +1,12 @@
 {
-  "cep": "32060220",
-  "logradouro": "Praça Dois",
-  "bairro": "Granja Ouro Branco",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja Ouro Branco;",
+    "cep": "32060220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Praça Dois;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35500097",
-  "logradouro": "Rua Pains",
-  "bairro": "Vila Cruzeiro",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cruzeiro;",
+    "cep": "35500097",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Pains;"
 }

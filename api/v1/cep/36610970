@@ -1,12 +1,13 @@
 {
-  "cep": "36610970",
-  "logradouro": "AC Pequeri Rua Marcelino Tostes 75",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pequeri",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36610970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pequeri"
+    },
+    "ibge": 3149507,
+    "logradouro": "Rua Marcelino Tostes, 75  AC Pequeri;"
 }

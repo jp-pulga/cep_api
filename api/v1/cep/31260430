@@ -1,12 +1,12 @@
 {
-  "cep": "31260430",
-  "logradouro": "Rua Piracema",
-  "bairro": "Suzana",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Suzana;",
+    "cep": "31260430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Piracema;"
 }

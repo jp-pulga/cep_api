@@ -1,12 +1,12 @@
 {
-  "cep": "32675806",
-  "logradouro": "Beco Piranga",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675806",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Beco Piranga;"
 }

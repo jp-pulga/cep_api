@@ -1,12 +1,13 @@
 {
-  "cep": "38701136",
-  "logradouro": "Avenida Araguaia",
-  "bairro": "Sobradinho",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sobradinho;",
+    "cep": "38701136",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida Araguaia;"
 }

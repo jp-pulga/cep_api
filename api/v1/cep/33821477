@@ -1,12 +1,12 @@
 {
-  "cep": "33821477",
-  "logradouro": "Avenida Ilka Maria Munhoz Gurgel",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "33821477",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Avenida Ilka Maria Munhoz Gurgel;"
 }

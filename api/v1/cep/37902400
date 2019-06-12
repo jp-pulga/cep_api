@@ -1,12 +1,12 @@
 {
-  "cep": "37902400",
-  "logradouro": "Rua Periquitos",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "37902400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Periquitos;"
 }

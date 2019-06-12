@@ -1,12 +1,13 @@
 {
-  "cep": "35114971",
-  "logradouro": "AC Pescador Rua Osvaldo F Pina 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pescador",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35114971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pescador"
+    },
+    "ibge": 3150000,
+    "logradouro": "Rua Osvaldo F Pina, 68  AC Pescador;"
 }

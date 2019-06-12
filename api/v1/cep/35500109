@@ -1,12 +1,12 @@
 {
-  "cep": "35500109",
-  "logradouro": "Rua Passa Tempo",
-  "bairro": "Afonso Pena",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Afonso Pena;",
+    "cep": "35500109",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Passa Tempo;"
 }

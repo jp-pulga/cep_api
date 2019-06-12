@@ -1,12 +1,12 @@
 {
-  "cep": "32628192",
-  "logradouro": "Rua Pará de Minas",
-  "bairro": "Vianópolis",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vianópolis;",
+    "cep": "32628192",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Pará de Minas;"
 }

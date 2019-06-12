@@ -1,12 +1,12 @@
 {
-  "cep": "32676230",
-  "logradouro": "Rua Pedra Azul",
-  "bairro": "Nova Baden",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Baden;",
+    "cep": "32676230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Pedra Azul;"
 }

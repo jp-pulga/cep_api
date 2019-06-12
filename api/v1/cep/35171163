@@ -1,12 +1,12 @@
 {
-  "cep": "35171163",
-  "logradouro": "Rua Paraopeba",
-  "bairro": "Aparecida do Norte",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aparecida do Norte;",
+    "cep": "35171163",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Paraopeba;"
 }

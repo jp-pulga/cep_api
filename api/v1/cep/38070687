@@ -1,12 +1,12 @@
 {
-  "cep": "38070687",
-  "logradouro": "Alameda Perdiz",
-  "bairro": "Cyrela Landscape",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cyrela Landscape;",
+    "cep": "38070687",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Alameda Perdiz;"
 }

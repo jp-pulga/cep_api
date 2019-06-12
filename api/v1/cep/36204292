@@ -1,12 +1,12 @@
 {
-  "cep": "36204292",
-  "logradouro": "Rua Hermínia Delacio Teixeira",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "36204292",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Hermínia Delacio Teixeira;"
 }

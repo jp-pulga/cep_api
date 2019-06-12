@@ -1,12 +1,12 @@
 {
-  "cep": "31210280",
-  "logradouro": "Rua Quinze de Abril",
-  "bairro": "Senhor dos Passos",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhor dos Passos;",
+    "cep": "31210280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Quinze de Abril;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31310670",
-  "logradouro": "Rua Atílio Grosso",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "31310670",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Atílio Grosso;"
 }

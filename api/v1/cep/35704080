@@ -1,12 +1,12 @@
 {
-  "cep": "35704080",
-  "logradouro": "Rua Geraldo Camilo de Lima",
-  "bairro": "Jardim dos Pequis",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Pequis;",
+    "cep": "35704080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Geraldo Camilo de Lima;"
 }

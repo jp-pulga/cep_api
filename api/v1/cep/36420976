@@ -1,12 +1,13 @@
 {
-  "cep": "36420976",
-  "logradouro": "PC Castigliano Rua Geraldo do Carmo Vieira s/n",
-  "bairro": "Castigliano",
-  "cidade": {
-    "nome": "Ouro Branco",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castigliano;",
+    "cep": "36420976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ouro Branco"
+    },
+    "ibge": 3145901,
+    "logradouro": "Rua Geraldo do Carmo Vieira, s\/n  PC Castigliano;"
 }

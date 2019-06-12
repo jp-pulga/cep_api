@@ -1,12 +1,12 @@
 {
-  "cep": "31320534",
-  "logradouro": "Alameda Ouro Preto",
-  "bairro": "Engenho Nogueira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Engenho Nogueira;",
+    "cep": "31320534",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Alameda Ouro Preto;"
 }

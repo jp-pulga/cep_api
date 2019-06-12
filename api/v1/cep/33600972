@@ -1,12 +1,13 @@
 {
-  "cep": "33600972",
-  "logradouro": "AGF Senador Melo Viana Rua Senador Melo Viana 435",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro Leopoldo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33600972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedro Leopoldo"
+    },
+    "ibge": 3149309,
+    "logradouro": "Rua Senador Melo Viana, 435  AGF Senador Melo Viana;"
 }

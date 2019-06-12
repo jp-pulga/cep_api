@@ -1,12 +1,12 @@
 {
-  "cep": "35170141",
-  "logradouro": "Rua Belo Horizonte",
-  "bairro": "Olaria",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Olaria;",
+    "cep": "35170141",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Belo Horizonte;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35701011",
-  "logradouro": "Rua Pirapora",
-  "bairro": "Braz Filizola",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Braz Filizola;",
+    "cep": "35701011",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Pirapora;"
 }

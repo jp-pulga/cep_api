@@ -1,12 +1,12 @@
 {
-  "cep": "32183205",
-  "logradouro": "Rua Argemiro Mendes Magalhães",
-  "bairro": "Pedra Azul 3ª Seção",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Azul 3ª Seção;",
+    "cep": "32183205",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Argemiro Mendes Magalhães;"
 }

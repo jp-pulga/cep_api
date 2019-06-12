@@ -1,12 +1,12 @@
 {
-  "cep": "35162423",
-  "logradouro": "Rua Ouro Branco",
-  "bairro": "Vila Formosa",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Formosa;",
+    "cep": "35162423",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Ouro Branco;"
 }

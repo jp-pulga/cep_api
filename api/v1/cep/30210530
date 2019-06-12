@@ -1,12 +1,12 @@
 {
-  "cep": "30210530",
-  "logradouro": "Rua Muzambinho de 401/402 ao fim",
-  "bairro": "Serra",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra;",
+    "cep": "30210530",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Muzambinho - de 401\/402 ao fim;"
 }

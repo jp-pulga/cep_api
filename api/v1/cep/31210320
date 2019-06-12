@@ -1,12 +1,12 @@
 {
-  "cep": "31210320",
-  "logradouro": "Rua Fagundes Varela",
-  "bairro": "Senhor dos Passos",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhor dos Passos;",
+    "cep": "31210320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Fagundes Varela;"
 }

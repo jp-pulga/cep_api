@@ -1,12 +1,12 @@
 {
-  "cep": "30575250",
-  "logradouro": "Rua José do Patrocínio Carneiro",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Buritis;",
+    "cep": "30575250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José do Patrocínio Carneiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32621248",
-  "logradouro": "Rua Governador Valadares de 2200/2201 ao fim",
-  "bairro": "Pimentas",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pimentas;",
+    "cep": "32621248",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Governador Valadares - de 2200\/2201 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38446072",
-  "logradouro": "Rua Perdizes",
-  "bairro": "Bosque",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bosque;",
+    "cep": "38446072",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Perdizes;"
 }

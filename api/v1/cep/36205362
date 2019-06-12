@@ -1,12 +1,12 @@
 {
-  "cep": "36205362",
-  "logradouro": "Rua Paraopeba",
-  "bairro": "Caiçaras",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caiçaras;",
+    "cep": "36205362",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Paraopeba;"
 }

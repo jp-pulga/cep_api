@@ -1,12 +1,13 @@
 {
-  "cep": "36148970",
-  "logradouro": "AC Pedro Teixeira Rua Coronel João Jacinto 283",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro Teixeira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36148970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedro Teixeira"
+    },
+    "ibge": 3149408,
+    "logradouro": "Rua Coronel João Jacinto, 283  AC Pedro Teixeira;"
 }

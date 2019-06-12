@@ -1,12 +1,12 @@
 {
-  "cep": "31155440",
-  "logradouro": "Rua Conceição Vidigal Paulucci",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "31155440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Conceição Vidigal Paulucci;"
 }

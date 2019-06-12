@@ -1,12 +1,12 @@
 {
-  "cep": "30570620",
-  "logradouro": "Rua Alberto Nepomuceno",
-  "bairro": "Havaí",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Havaí;",
+    "cep": "30570620",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Alberto Nepomuceno;"
 }

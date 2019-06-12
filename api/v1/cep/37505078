@@ -1,12 +1,12 @@
 {
-  "cep": "37505078",
-  "logradouro": "Rua Piranguinho",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "37505078",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Piranguinho;"
 }

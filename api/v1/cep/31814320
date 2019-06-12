@@ -1,12 +1,12 @@
 {
-  "cep": "31814320",
-  "logradouro": "Rua Oliveira Fortes",
-  "bairro": "Aarão Reis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aarão Reis;",
+    "cep": "31814320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Oliveira Fortes;"
 }

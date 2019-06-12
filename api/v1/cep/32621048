@@ -1,12 +1,12 @@
 {
-  "cep": "32621048",
-  "logradouro": "Rua Antônio Izidoro de Souza de 1500/1501 ao fim",
-  "bairro": "Pimentas",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pimentas;",
+    "cep": "32621048",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Antônio Izidoro de Souza - de 1500\/1501 ao fim;"
 }

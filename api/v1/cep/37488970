@@ -1,12 +1,13 @@
 {
-  "cep": "37488970",
-  "logradouro": "AC Olímpio Noronha Rua Sete de Setembro 609",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Olímpio Noronha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37488970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Olímpio Noronha"
+    },
+    "ibge": 3145505,
+    "logradouro": "Rua Sete de Setembro, 609  AC Olímpio Noronha;"
 }

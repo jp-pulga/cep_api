@@ -1,12 +1,12 @@
 {
-  "cep": "32601400",
-  "logradouro": "Rodovia BR-262 do km 354750 ao km 356608 - lado par",
-  "bairro": "Pingo D'água",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pingo D'água;",
+    "cep": "32601400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rodovia BR-262 - do km 354,750 ao km 356,608 - lado par;"
 }

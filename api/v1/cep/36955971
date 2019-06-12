@@ -1,12 +1,13 @@
 {
-  "cep": "36955971",
-  "logradouro": "AGC Centenário Rua Manuel Mendes 51",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Mutum",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centenário;",
+    "cep": "36955971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Mutum"
+    },
+    "ibge": 3144003,
+    "logradouro": "Rua Manuel Mendes, 51  AGC Centenário;"
 }

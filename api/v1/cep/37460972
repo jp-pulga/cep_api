@@ -1,12 +1,13 @@
 {
-  "cep": "37460972",
-  "logradouro": "AGC Tronqueiras Estrada Velha 10",
-  "bairro": "Tronqueiras",
-  "cidade": {
-    "nome": "Passa Quatro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tronqueiras;",
+    "cep": "37460972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passa Quatro"
+    },
+    "ibge": 3147600,
+    "logradouro": "Estrada Velha, 10  AGC Tronqueiras;"
 }

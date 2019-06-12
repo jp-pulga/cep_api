@@ -1,12 +1,12 @@
 {
-  "cep": "37026340",
-  "logradouro": "Rua Nepomuceno",
-  "bairro": "Jardim Andere",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Andere;",
+    "cep": "37026340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Nepomuceno;"
 }

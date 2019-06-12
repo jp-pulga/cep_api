@@ -1,12 +1,13 @@
 {
-  "cep": "38160971",
-  "logradouro": "AGC Almeida Campos Rua José Alfredo Parreira 199",
-  "bairro": "Almeida Campos",
-  "cidade": {
-    "nome": "Nova Ponte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Almeida Campos;",
+    "cep": "38160971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova Ponte"
+    },
+    "ibge": 3145000,
+    "logradouro": "Rua José Alfredo Parreira, 199  AGC Almeida Campos;"
 }

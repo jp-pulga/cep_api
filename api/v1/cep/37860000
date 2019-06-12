@@ -1,12 +1,11 @@
 {
-  "cep": "37860000",
-  "logradouro": "Nova Resende",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Resende",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37860000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova Resende"
+    },
+    "ibge": 3145109
 }

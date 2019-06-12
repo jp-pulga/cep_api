@@ -1,12 +1,12 @@
 {
-  "cep": "30666535",
-  "logradouro": "Alameda do Pequi",
-  "bairro": "Petrópolis (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrópolis (Barreiro);",
+    "cep": "30666535",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Alameda do Pequi;"
 }

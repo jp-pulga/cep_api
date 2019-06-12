@@ -1,12 +1,12 @@
 {
-  "cep": "35930303",
-  "logradouro": "Rua Ouro Fino",
-  "bairro": "Belmonte",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belmonte;",
+    "cep": "35930303",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Ouro Fino;"
 }

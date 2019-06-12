@@ -1,12 +1,12 @@
 {
-  "cep": "30730440",
-  "logradouro": "Rua Pará de Minas",
-  "bairro": "Padre Eustáquio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Eustáquio;",
+    "cep": "30730440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pará de Minas;"
 }

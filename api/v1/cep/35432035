@@ -1,12 +1,12 @@
 {
-  "cep": "35432035",
-  "logradouro": "Avenida Francisco Pena",
-  "bairro": "Ana Florência",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ana Florência;",
+    "cep": "35432035",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Francisco Pena;"
 }

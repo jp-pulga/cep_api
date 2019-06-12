@@ -1,12 +1,13 @@
 {
-  "cep": "35774970",
-  "logradouro": "AC Paraopeba Avenida Getúlio Vargas 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paraopeba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35774970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Paraopeba"
+    },
+    "ibge": 3147402,
+    "logradouro": "Avenida Getúlio Vargas, 52  AC Paraopeba;"
 }

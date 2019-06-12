@@ -1,12 +1,12 @@
 {
-  "cep": "35041570",
-  "logradouro": "Rua Monte Sião",
-  "bairro": "Vila dos Montes",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila dos Montes;",
+    "cep": "35041570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Monte Sião;"
 }

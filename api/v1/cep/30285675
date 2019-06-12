@@ -1,12 +1,12 @@
 {
-  "cep": "30285675",
-  "logradouro": "Rua Nazareno Altavilla",
-  "bairro": "Cidade Jardim Taquaril",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Jardim Taquaril;",
+    "cep": "30285675",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Nazareno Altavilla;"
 }

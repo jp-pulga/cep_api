@@ -1,12 +1,12 @@
 {
-  "cep": "32044260",
-  "logradouro": "Rua Paineiras",
-  "bairro": "Colonial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colonial;",
+    "cep": "32044260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Paineiras;"
 }

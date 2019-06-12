@@ -1,12 +1,12 @@
 {
-  "cep": "30350390",
-  "logradouro": "Rua Raul Pedreira Passos",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "30350390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Raul Pedreira Passos;"
 }

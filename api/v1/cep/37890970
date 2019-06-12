@@ -1,12 +1,13 @@
 {
-  "cep": "37890970",
-  "logradouro": "AC Muzambinho Rua Doutor Licurto Leite 54",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muzambinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37890970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Muzambinho"
+    },
+    "ibge": 3144102,
+    "logradouro": "Rua Doutor Licurto Leite, 54  AC Muzambinho;"
 }

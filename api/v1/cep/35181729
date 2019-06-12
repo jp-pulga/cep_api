@@ -1,12 +1,12 @@
 {
-  "cep": "35181729",
-  "logradouro": "Rua Papagaio",
-  "bairro": "Macuco",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Macuco;",
+    "cep": "35181729",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Papagaio;"
 }

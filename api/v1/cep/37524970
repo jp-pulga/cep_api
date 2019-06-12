@@ -1,12 +1,13 @@
 {
-  "cep": "37524970",
-  "logradouro": "AC Natércia Rua Prefeito José Goulart Junho 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Natércia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37524970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Natércia"
+    },
+    "ibge": 3144409,
+    "logradouro": "Rua Prefeito José Goulart Junho, 21  AC Natércia;"
 }

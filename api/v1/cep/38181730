@@ -1,12 +1,12 @@
 {
-  "cep": "38181730",
-  "logradouro": "Rua J",
-  "bairro": "Pedra Azul",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Azul;",
+    "cep": "38181730",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua J;"
 }

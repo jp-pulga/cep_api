@@ -1,12 +1,12 @@
 {
-  "cep": "38412236",
-  "logradouro": "Rua dos Periquitos",
-  "bairro": "Jardim das Palmeiras",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim das Palmeiras;",
+    "cep": "38412236",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua dos Periquitos;"
 }

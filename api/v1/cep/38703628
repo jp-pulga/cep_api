@@ -1,12 +1,13 @@
 {
-  "cep": "38703628",
-  "logradouro": "Alameda Vigésima Sétima",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "38703628",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Alameda Vigésima Sétima;"
 }

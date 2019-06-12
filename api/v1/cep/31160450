@@ -1,12 +1,12 @@
 {
-  "cep": "31160450",
-  "logradouro": "Rua David Alves Barreto",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "31160450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua David Alves Barreto;"
 }

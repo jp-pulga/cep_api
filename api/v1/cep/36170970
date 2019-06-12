@@ -1,12 +1,13 @@
 {
-  "cep": "36170970",
-  "logradouro": "AC Piraúba Rua Intendente Amadeu 32",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piraúba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36170970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piraúba"
+    },
+    "ibge": 3151305,
+    "logradouro": "Rua Intendente Amadeu, 32  AC Piraúba;"
 }

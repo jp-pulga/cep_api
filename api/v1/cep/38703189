@@ -1,12 +1,13 @@
 {
-  "cep": "38703189",
-  "logradouro": "Vila Jose Marcelino Filho (Trav da Rua Dona Maria Resende)",
-  "bairro": "Vila Garcia",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Garcia;",
+    "cep": "38703189",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Alameda Antônio Alves Araújo (Trav da Rua Dona Maria Resende);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31030270",
-  "logradouro": "Praça Nilo Peçanha",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sagrada Família;",
+    "cep": "31030270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Nilo Peçanha;"
 }

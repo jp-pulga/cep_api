@@ -1,12 +1,13 @@
 {
-  "cep": "39492972",
-  "logradouro": "AGC Palmeiras (Pedras de Maria da Cruz) Praça Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedras de Maria da Cruz",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39492972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedras de Maria da Cruz"
+    },
+    "ibge": 3149150,
+    "logradouro": "Praça Principal, s\/n  AGC Palmeiras (Pedras de Maria da Cruz);"
 }

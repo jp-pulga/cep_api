@@ -1,12 +1,13 @@
 {
-  "cep": "36585970",
-  "logradouro": "AC Pedra do Anta Rua Major José Luís S. Viana 205",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra do Anta",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36585970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedra do Anta"
+    },
+    "ibge": 3148806,
+    "logradouro": "Rua Major José Luís S. Viana, 205  AC Pedra do Anta;"
 }

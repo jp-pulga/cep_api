@@ -1,12 +1,12 @@
 {
-  "cep": "38180264",
-  "logradouro": "Rua Romes Luis de Paiva",
-  "bairro": "Abolição",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Abolição;",
+    "cep": "38180264",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Romes Luis de Paiva;"
 }

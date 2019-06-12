@@ -1,12 +1,12 @@
 {
-  "cep": "37500404",
-  "logradouro": "Rua Maria Pinto Paulista",
-  "bairro": "Nossa Senhora da Agonia",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora da Agonia;",
+    "cep": "37500404",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Maria Pinto Paulista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35058180",
-  "logradouro": "Rua Peçanha de 1132/1133 ao fim",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "35058180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Peçanha - de 1132\/1133 ao fim;"
 }

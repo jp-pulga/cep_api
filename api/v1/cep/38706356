@@ -1,12 +1,13 @@
 {
-  "cep": "38706356",
-  "logradouro": "Avenida Emília Vieira Pião",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "38706356",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida Emília Vieira Pião;"
 }

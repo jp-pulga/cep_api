@@ -1,12 +1,12 @@
 {
-  "cep": "31741328",
-  "logradouro": "Rua do Olaria",
-  "bairro": "São Bernardo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Bernardo;",
+    "cep": "31741328",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua do Olaria;"
 }

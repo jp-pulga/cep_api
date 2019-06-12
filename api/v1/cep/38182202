@@ -1,12 +1,12 @@
 {
-  "cep": "38182202",
-  "logradouro": "Rua José Veloso de Paiva",
-  "bairro": "Novo Santo Antônio",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Santo Antônio;",
+    "cep": "38182202",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua José Veloso de Paiva;"
 }

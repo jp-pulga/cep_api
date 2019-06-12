@@ -1,12 +1,12 @@
 {
-  "cep": "37704123",
-  "logradouro": "Rua Pirapora",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "37704123",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Pirapora;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35170147",
-  "logradouro": "Rua Ponte Nova",
-  "bairro": "Santo Elói",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Elói;",
+    "cep": "35170147",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Ponte Nova;"
 }

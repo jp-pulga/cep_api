@@ -1,12 +1,12 @@
 {
-  "cep": "36035250",
-  "logradouro": "Rua Muriaé",
-  "bairro": "Democrata",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Democrata;",
+    "cep": "36035250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Muriaé;"
 }

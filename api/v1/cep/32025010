@@ -1,12 +1,12 @@
 {
-  "cep": "32025010",
-  "logradouro": "Rua Olhos D'Água",
-  "bairro": "Chácara Contagem",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Contagem;",
+    "cep": "32025010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Olhos D'Água;"
 }

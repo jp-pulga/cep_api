@@ -1,12 +1,12 @@
 {
-  "cep": "38180424",
-  "logradouro": "Rua Tarcísio Nepomuceno",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "38180424",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Tarcísio Nepomuceno;"
 }

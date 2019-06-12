@@ -1,12 +1,12 @@
 {
-  "cep": "30250445",
-  "logradouro": "Rua das Paineiras",
-  "bairro": "Fazendinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fazendinha;",
+    "cep": "30250445",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua das Paineiras;"
 }

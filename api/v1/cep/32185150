@@ -1,12 +1,12 @@
 {
-  "cep": "32185150",
-  "logradouro": "Rua José do Patrocínio",
-  "bairro": "Nacional",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nacional;",
+    "cep": "32185150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua José do Patrocínio;"
 }

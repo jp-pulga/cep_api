@@ -1,12 +1,12 @@
 {
-  "cep": "36087440",
-  "logradouro": "Rua Álvaro Cruz Lemos",
-  "bairro": "Nova Era",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Era;",
+    "cep": "36087440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Álvaro Cruz Lemos;"
 }

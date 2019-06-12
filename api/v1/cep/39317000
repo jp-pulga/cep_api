@@ -1,12 +1,11 @@
 {
-  "cep": "39317000",
-  "logradouro": "Pintópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pintópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39317000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pintópolis"
+    },
+    "ibge": 3150570
 }

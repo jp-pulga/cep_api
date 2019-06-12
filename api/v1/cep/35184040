@@ -1,12 +1,12 @@
 {
-  "cep": "35184040",
-  "logradouro": "Rua Piauí",
-  "bairro": "Cachoeira do Vale",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeira do Vale;",
+    "cep": "35184040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Piauí;"
 }

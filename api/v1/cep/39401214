@@ -1,12 +1,12 @@
 {
-  "cep": "39401214",
-  "logradouro": "Beco Papagaio",
-  "bairro": "Santos Reis",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Reis;",
+    "cep": "39401214",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Beco Papagaio;"
 }

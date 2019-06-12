@@ -1,12 +1,12 @@
 {
-  "cep": "32073540",
-  "logradouro": "Rua Nova Ponte",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "32073540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Nova Ponte;"
 }

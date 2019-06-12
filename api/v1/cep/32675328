@@ -1,12 +1,12 @@
 {
-  "cep": "32675328",
-  "logradouro": "Rua Francisco João Nepomuceno",
-  "bairro": "Conjunto Habitacional Celso Alves Pedrosa",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Celso Alves Pedrosa;",
+    "cep": "32675328",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Francisco João Nepomuceno;"
 }

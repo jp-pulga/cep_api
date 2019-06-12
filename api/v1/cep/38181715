@@ -1,12 +1,12 @@
 {
-  "cep": "38181715",
-  "logradouro": "Rua Baltazar José Alves",
-  "bairro": "Pedra Azul",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Azul;",
+    "cep": "38181715",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Baltazar José Alves;"
 }

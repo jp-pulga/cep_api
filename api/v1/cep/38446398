@@ -1,12 +1,12 @@
 {
-  "cep": "38446398",
-  "logradouro": "Rua Dois",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "38446398",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Rui de Paiva Lima;"
 }

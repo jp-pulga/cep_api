@@ -1,12 +1,12 @@
 {
-  "cep": "32185090",
-  "logradouro": "Rua Francisco Passos",
-  "bairro": "Pedra Azul",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Azul;",
+    "cep": "32185090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Francisco Passos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39547972",
-  "logradouro": "AC Montezuma Praça José Batista s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Montezuma",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39547972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montezuma"
+    },
+    "ibge": 3143450,
+    "logradouro": "Praça José Batista, s\/n  AC Montezuma;"
 }

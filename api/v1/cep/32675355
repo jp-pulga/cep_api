@@ -1,12 +1,12 @@
 {
-  "cep": "32675355",
-  "logradouro": "Rua Perdões de 601 a 1099 - lado ímpar",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675355",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Perdões - de 601 a 1099 - lado ímpar;"
 }

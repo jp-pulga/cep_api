@@ -1,12 +1,12 @@
 {
-  "cep": "38042304",
-  "logradouro": "Rua Pedra Dourada",
-  "bairro": "Damha Residencial Uberaba I",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Damha Residencial Uberaba I;",
+    "cep": "38042304",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Pedra Dourada;"
 }

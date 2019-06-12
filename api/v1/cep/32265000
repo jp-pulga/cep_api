@@ -1,12 +1,12 @@
 {
-  "cep": "32265000",
-  "logradouro": "Rua Rio Paraopeba",
-  "bairro": "Riacho das Pedras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Riacho das Pedras;",
+    "cep": "32265000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Rio Paraopeba;"
 }

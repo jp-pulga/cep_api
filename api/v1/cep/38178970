@@ -1,12 +1,13 @@
 {
-  "cep": "38178970",
-  "logradouro": "AC Pedrinópolis Rua Abílio Rodrigues 62",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedrinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38178970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedrinópolis"
+    },
+    "ibge": 3149200,
+    "logradouro": "Rua Abílio Rodrigues, 62  AC Pedrinópolis;"
 }

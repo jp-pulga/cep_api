@@ -1,12 +1,12 @@
 {
-  "cep": "36016160",
-  "logradouro": "Rua Érico Veríssimo",
-  "bairro": "Paineiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paineiras;",
+    "cep": "36016160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Érico Veríssimo;"
 }

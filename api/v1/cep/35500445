@@ -1,12 +1,12 @@
 {
-  "cep": "35500445",
-  "logradouro": "Rua Nilo Peçanha",
-  "bairro": "Porto Velho",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Porto Velho;",
+    "cep": "35500445",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Nilo Peçanha;"
 }

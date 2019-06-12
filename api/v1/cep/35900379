@@ -1,12 +1,12 @@
 {
-  "cep": "35900379",
-  "logradouro": "Rua Piauí",
-  "bairro": "Amazonas",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Amazonas;",
+    "cep": "35900379",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Piauí;"
 }

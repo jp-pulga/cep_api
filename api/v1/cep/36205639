@@ -1,12 +1,12 @@
 {
-  "cep": "36205639",
-  "logradouro": "Rua Izabel Antunes Paiva",
-  "bairro": "Nova Suíça",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Suíça;",
+    "cep": "36205639",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Izabel Antunes Paiva;"
 }

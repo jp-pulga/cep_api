@@ -1,12 +1,12 @@
 {
-  "cep": "38184534",
-  "logradouro": "Rua Alto dos Paulistas",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "38184534",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Alto dos Paulistas;"
 }

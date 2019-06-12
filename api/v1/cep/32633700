@@ -1,12 +1,12 @@
 {
-  "cep": "32633700",
-  "logradouro": "Rua Rio Paraopeba",
-  "bairro": "Charneca",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Charneca;",
+    "cep": "32633700",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Rio Paraopeba;"
 }

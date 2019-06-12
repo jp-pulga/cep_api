@@ -1,12 +1,12 @@
 {
-  "cep": "35430024",
-  "logradouro": "Avenida Arthur Bernardes",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35430024",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Arthur Bernardes;"
 }

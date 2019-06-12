@@ -1,12 +1,13 @@
 {
-  "cep": "38705228",
-  "logradouro": "Avenida Enaura José de Sousa",
-  "bairro": "Jardim Recanto",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Recanto;",
+    "cep": "38705228",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida Enaura José de Sousa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37701732",
-  "logradouro": "Rua Piauí de 253/254 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37701732",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Piauí - de 253\/254 ao fim;"
 }

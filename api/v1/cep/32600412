@@ -1,12 +1,12 @@
 {
-  "cep": "32600412",
-  "logradouro": "Rua Pará de Minas de 600/601 a 998/999",
-  "bairro": "Brasiléia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasiléia;",
+    "cep": "32600412",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Pará de Minas - de 600\/601 a 998\/999;"
 }

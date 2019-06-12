@@ -1,12 +1,12 @@
 {
-  "cep": "32639404",
-  "logradouro": "Praça Pavão",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "32639404",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Praça Pavão;"
 }

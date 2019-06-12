@@ -1,12 +1,12 @@
 {
-  "cep": "38181331",
-  "logradouro": "Rua dos Pequis",
-  "bairro": "Residencial Bocaina",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Bocaina;",
+    "cep": "38181331",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua dos Pequis;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39702973",
-  "logradouro": "AGC Sem Barra Rua Florianópolis s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Peçanha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39702973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Peçanha"
+    },
+    "ibge": 3148608,
+    "logradouro": "Rua Florianópolis, s\/n  AGC Sem Barra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32601550",
-  "logradouro": "Rua José Moreira Dos Santos",
-  "bairro": "Pingo D'água",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pingo D'água;",
+    "cep": "32601550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua José Moreira Dos Santos;"
 }

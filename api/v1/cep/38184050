@@ -1,12 +1,12 @@
 {
-  "cep": "38184050",
-  "logradouro": "Rua Patrocínio",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "38184050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Patrocínio;"
 }

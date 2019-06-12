@@ -1,12 +1,12 @@
 {
-  "cep": "38180627",
-  "logradouro": "Avenida Auxiliadora Paiva",
-  "bairro": "Serra Morena",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Morena;",
+    "cep": "38180627",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Avenida Auxiliadora Paiva;"
 }

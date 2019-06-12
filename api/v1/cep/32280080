@@ -1,12 +1,12 @@
 {
-  "cep": "32280080",
-  "logradouro": "Rua Rio Indaiá",
-  "bairro": "Riacho das Pedras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Riacho das Pedras;",
+    "cep": "32280080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Rio Indaiá;"
 }

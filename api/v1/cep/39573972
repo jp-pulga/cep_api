@@ -1,12 +1,13 @@
 {
-  "cep": "39573972",
-  "logradouro": "AC Padre Carvalho Rua São Geraldo 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Padre Carvalho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39573972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Padre Carvalho"
+    },
+    "ibge": 3146255,
+    "logradouro": "Rua São Geraldo, 40  AC Padre Carvalho;"
 }

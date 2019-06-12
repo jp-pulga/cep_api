@@ -1,12 +1,12 @@
 {
-  "cep": "34585640",
-  "logradouro": "Rua Paraopeba",
-  "bairro": "Vila Marzagão",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Marzagão;",
+    "cep": "34585640",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Paraopeba;"
 }

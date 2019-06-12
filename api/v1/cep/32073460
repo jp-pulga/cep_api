@@ -1,12 +1,12 @@
 {
-  "cep": "32073460",
-  "logradouro": "Rua Morro do Pilar",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "32073460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Morro do Pilar;"
 }

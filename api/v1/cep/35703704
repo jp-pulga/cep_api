@@ -1,12 +1,12 @@
 {
-  "cep": "35703704",
-  "logradouro": "Rua José L Tenório de Assis",
-  "bairro": "Nova Serrana",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Serrana;",
+    "cep": "35703704",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua José L Tenório de Assis;"
 }

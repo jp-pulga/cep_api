@@ -1,12 +1,12 @@
 {
-  "cep": "36010081",
-  "logradouro": "Rua Barão de São João Nepomuceno de 151/152 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36010081",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Barão de São João Nepomuceno - de 151\/152 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35502810",
-  "logradouro": "Rua Perdiz",
-  "bairro": "Serra Verde",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Verde;",
+    "cep": "35502810",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Perdiz;"
 }

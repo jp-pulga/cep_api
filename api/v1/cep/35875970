@@ -1,12 +1,13 @@
 {
-  "cep": "35875970",
-  "logradouro": "AC Morro do Pilar Praça Monsenhor Matos 176",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morro do Pilar",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35875970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Morro do Pilar"
+    },
+    "ibge": 3143708,
+    "logradouro": "Praça Monsenhor Matos, 176  AC Morro do Pilar;"
 }

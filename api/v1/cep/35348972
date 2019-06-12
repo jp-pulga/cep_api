@@ -1,12 +1,12 @@
 {
-  "cep": "35348972",
-  "logradouro": "AC Pingo-D'Água Praça Tancredo Neves 390",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pingo-D'Água",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35348972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pingo-D'Água"
+    },
+    "logradouro": "Praça Tancredo Neves, 390  AC Pingo-D'Água;"
 }

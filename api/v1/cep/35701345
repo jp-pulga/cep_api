@@ -1,12 +1,12 @@
 {
-  "cep": "35701345",
-  "logradouro": "Rua Pedralva",
-  "bairro": "Interlagos",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Interlagos I;",
+    "cep": "35701345",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Pedralva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32670514",
-  "logradouro": "Rua Mutum",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "32670514",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Mutum;"
 }

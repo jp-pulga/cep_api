@@ -1,12 +1,13 @@
 {
-  "cep": "35519977",
-  "logradouro": "CDD Nova Serrana Rua Benjamin Martins do Espírito Santo 1811",
-  "bairro": "Park Dona Gumercinda",
-  "cidade": {
-    "nome": "Nova Serrana",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Park Dona Gumercinda;",
+    "cep": "35519977",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova Serrana"
+    },
+    "ibge": 3145208,
+    "logradouro": "Rua Benjamin Martins do Espírito Santo, 1811  CDD Nova Serrana;"
 }

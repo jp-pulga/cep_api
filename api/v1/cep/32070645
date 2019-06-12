@@ -1,12 +1,12 @@
 {
-  "cep": "32070645",
-  "logradouro": "Rua Papagaios",
-  "bairro": "Vila Beija-Flor",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Beija-Flor;",
+    "cep": "32070645",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Papagaios;"
 }

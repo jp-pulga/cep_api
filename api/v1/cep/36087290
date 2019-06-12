@@ -1,12 +1,12 @@
 {
-  "cep": "36087290",
-  "logradouro": "Rua Doutor Carlos Imbassahi",
-  "bairro": "Nova Era",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Era;",
+    "cep": "36087290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Doutor Carlos Imbassahi;"
 }

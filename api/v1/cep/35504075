@@ -1,12 +1,12 @@
 {
-  "cep": "35504075",
-  "logradouro": "Rua Rafael Gimenes",
-  "bairro": "Maria Peçanha",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Peçanha;",
+    "cep": "35504075",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Rafael Gimenes;"
 }

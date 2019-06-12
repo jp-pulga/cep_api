@@ -1,12 +1,12 @@
 {
-  "cep": "36087367",
-  "logradouro": "Rua José Albuquerque de Morais",
-  "bairro": "Nova Era",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Era;",
+    "cep": "36087367",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua José Albuquerque de Morais;"
 }

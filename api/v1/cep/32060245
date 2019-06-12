@@ -1,12 +1,12 @@
 {
-  "cep": "32060245",
-  "logradouro": "Alameda das Orquídeas",
-  "bairro": "Granja Ouro Branco",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja Ouro Branco;",
+    "cep": "32060245",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Alameda das Orquídeas;"
 }

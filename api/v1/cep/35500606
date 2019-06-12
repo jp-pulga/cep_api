@@ -1,12 +1,12 @@
 {
-  "cep": "35500606",
-  "logradouro": "Rua Patos de Minas",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "35500606",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Patos de Minas;"
 }

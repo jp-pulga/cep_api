@@ -1,12 +1,12 @@
 {
-  "cep": "35170156",
-  "logradouro": "Rua João Caetano",
-  "bairro": "Olaria",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Olaria;",
+    "cep": "35170156",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua João Caetano;"
 }

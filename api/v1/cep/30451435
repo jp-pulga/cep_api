@@ -1,12 +1,12 @@
 {
-  "cep": "30451435",
-  "logradouro": "Beco do Perdigão",
-  "bairro": "Santa Sofia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Sofia;",
+    "cep": "30451435",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco do Perdigão;"
 }

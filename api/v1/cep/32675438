@@ -1,12 +1,12 @@
 {
-  "cep": "32675438",
-  "logradouro": "Rua Patrocínio de 700/701 ao fim",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675438",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Patrocínio - de 700\/701 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35702117",
-  "logradouro": "Avenida Josiane Aparecida Carvalho da Silva",
-  "bairro": "Padre Teodoro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Teodoro;",
+    "cep": "35702117",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Avenida Josiane Aparecida Carvalho da Silva;"
 }

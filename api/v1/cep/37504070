@@ -1,12 +1,12 @@
 {
-  "cep": "37504070",
-  "logradouro": "Rua Paraisópolis",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "37504070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Paraisópolis;"
 }

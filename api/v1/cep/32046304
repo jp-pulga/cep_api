@@ -1,12 +1,12 @@
 {
-  "cep": "32046304",
-  "logradouro": "Rua das Paineiras",
-  "bairro": "Chácara São Geraldo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara São Geraldo;",
+    "cep": "32046304",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua das Paineiras;"
 }

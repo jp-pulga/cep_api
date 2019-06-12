@@ -1,12 +1,12 @@
 {
-  "cep": "35704018",
-  "logradouro": "Rua Francisco Fleury Teixeira",
-  "bairro": "Jardim dos Pequis",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Pequis;",
+    "cep": "35704018",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Francisco Fleury Teixeira;"
 }

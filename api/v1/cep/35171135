@@ -1,12 +1,12 @@
 {
-  "cep": "35171135",
-  "logradouro": "Rua Paracatu",
-  "bairro": "Santa Terezinha I",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha I;",
+    "cep": "35171135",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Paracatu;"
 }

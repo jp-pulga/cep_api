@@ -1,12 +1,12 @@
 {
-  "cep": "32016020",
-  "logradouro": "Rua das Paineiras",
-  "bairro": "Lúcio de Abreu",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lúcio de Abreu;",
+    "cep": "32016020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua das Paineiras;"
 }

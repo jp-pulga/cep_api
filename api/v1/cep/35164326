@@ -1,12 +1,12 @@
 {
-  "cep": "35164326",
-  "logradouro": "Travessa Fraternidade",
-  "bairro": "Novo Cruzeiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Cruzeiro;",
+    "cep": "35164326",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Travessa Fraternidade;"
 }

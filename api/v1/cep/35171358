@@ -1,12 +1,12 @@
 {
-  "cep": "35171358",
-  "logradouro": "Rua Ponte Nova",
-  "bairro": "Sylvio Pereira I",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sylvio Pereira I;",
+    "cep": "35171358",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Ponte Nova;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37701024",
-  "logradouro": "Rua Piauí até 251/252",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37701024",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Piauí - até 251\/252;"
 }

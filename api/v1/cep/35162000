@@ -1,12 +1,12 @@
 {
-  "cep": "35162000",
-  "logradouro": "Rua Pedras Bonitas",
-  "bairro": "Iguaçu",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Iguaçu;",
+    "cep": "35162000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Pedras Bonitas;"
 }

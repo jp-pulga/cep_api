@@ -1,12 +1,13 @@
 {
-  "cep": "39317972",
-  "logradouro": "AC Pintópolis Praça Joaquim Marcelino Conceição 335",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pintópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39317972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pintópolis"
+    },
+    "ibge": 3150570,
+    "logradouro": "Praça Joaquim Marcelino Conceição, 335  AC Pintópolis;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37508972",
-  "logradouro": "AGC Santa Bárbara Rua Joaquim Evaristo Mota s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piranguinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37508972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piranguinho"
+    },
+    "ibge": 3151008,
+    "logradouro": "Rua Joaquim Evaristo Mota, s\/n  AGC Santa Bárbara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39700970",
-  "logradouro": "AC Peçanha Rua Senador Simão da Cunha 67",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Peçanha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39700970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Peçanha"
+    },
+    "ibge": 3148608,
+    "logradouro": "Rua Senador Simão da Cunha, 67  AC Peçanha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38706510",
-  "logradouro": "Rua Jefferson Nepomuceno",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipanema;",
+    "cep": "38706510",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Jefferson Nepomuceno;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30315005",
-  "logradouro": "Praça Engenheiro Antônio Pimenta",
-  "bairro": "Sion",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sion;",
+    "cep": "30315005",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Engenheiro Antônio Pimenta;"
 }

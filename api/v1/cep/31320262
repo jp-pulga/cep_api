@@ -1,12 +1,12 @@
 {
-  "cep": "31320262",
-  "logradouro": "Rua Desembargador Paulo Mota de 1291/1292 ao fim",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "31320262",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Desembargador Paulo Mota - de 1400\/1401 ao fim;"
 }

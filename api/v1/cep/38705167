@@ -1,12 +1,13 @@
 {
-  "cep": "38705167",
-  "logradouro": "Avenida Afonso Queiroz até 199/200",
-  "bairro": "Antônio Caixeta",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Antônio Caixeta;",
+    "cep": "38705167",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida Afonso Queiroz - até 199\/200;"
 }

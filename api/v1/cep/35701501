@@ -1,12 +1,12 @@
 {
-  "cep": "35701501",
-  "logradouro": "Rua Francisco Manuel Carvalho",
-  "bairro": "Ouro Branco",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Branco;",
+    "cep": "35701501",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Francisco Manuel Carvalho;"
 }

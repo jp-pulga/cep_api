@@ -1,12 +1,12 @@
 {
-  "cep": "35430970",
-  "logradouro": "AC Ponte Nova Avenida Caetano Marinho 226",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35430970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Caetano Marinho, 226  AC Ponte Nova;"
 }

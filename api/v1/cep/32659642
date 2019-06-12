@@ -1,12 +1,12 @@
 {
-  "cep": "32659642",
-  "logradouro": "Rua Diogenes Gomes",
-  "bairro": "Jardim Nazareno",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Nazareno;",
+    "cep": "32659642",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Diogenes Gomes;"
 }

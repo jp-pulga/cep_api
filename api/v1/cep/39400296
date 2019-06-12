@@ -1,12 +1,12 @@
 {
-  "cep": "39400296",
-  "logradouro": "Rua Ponte Nova",
-  "bairro": "Alto São João",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto São João;",
+    "cep": "39400296",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Ponte Nova;"
 }

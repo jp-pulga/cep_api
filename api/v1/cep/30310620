@@ -1,12 +1,12 @@
 {
-  "cep": "30310620",
-  "logradouro": "Rua Pains",
-  "bairro": "Sion",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sion;",
+    "cep": "30310620",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pains;"
 }

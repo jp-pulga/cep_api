@@ -1,12 +1,13 @@
 {
-  "cep": "35660304",
-  "logradouro": "Rodovia MG-431",
-  "bairro": "Padre Libério",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Libério;",
+    "cep": "35660304",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "ibge": 3147105,
+    "logradouro": "Rodovia MG-431;"
 }

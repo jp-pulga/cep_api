@@ -1,12 +1,12 @@
 {
-  "cep": "35500104",
-  "logradouro": "Rua Monte Sião",
-  "bairro": "Afonso Pena",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Afonso Pena;",
+    "cep": "35500104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Monte Sião;"
 }

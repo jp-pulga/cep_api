@@ -1,12 +1,13 @@
 {
-  "cep": "39270971",
-  "logradouro": "CDD Pirapora Praça Presidente Tancredo Neves 06",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pirapora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39270971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pirapora"
+    },
+    "ibge": 3151206,
+    "logradouro": "Praça Presidente Tancredo Neves, 06  CDD Pirapora;"
 }

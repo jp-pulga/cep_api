@@ -1,12 +1,12 @@
 {
-  "cep": "35500601",
-  "logradouro": "Rua Pedro Leopoldo",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "35500601",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Pedro Leopoldo;"
 }

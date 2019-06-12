@@ -1,12 +1,12 @@
 {
-  "cep": "35063016",
-  "logradouro": "Rua Paineiras",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "35063016",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Paineiras;"
 }

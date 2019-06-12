@@ -1,12 +1,12 @@
 {
-  "cep": "36016260",
-  "logradouro": "Praça do Cruzeiro",
-  "bairro": "Paineiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paineiras;",
+    "cep": "36016260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Praça do Cruzeiro;"
 }

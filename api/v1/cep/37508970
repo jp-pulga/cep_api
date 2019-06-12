@@ -1,12 +1,13 @@
 {
-  "cep": "37508970",
-  "logradouro": "AC Piranguinho Avenida JK 205",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piranguinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37508970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piranguinho"
+    },
+    "ibge": 3151008,
+    "logradouro": "Avenida JK, 205  AC Piranguinho;"
 }

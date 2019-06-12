@@ -1,12 +1,12 @@
 {
-  "cep": "31710540",
-  "logradouro": "Rua Sebastião Nepomuceno",
-  "bairro": "Itapoã",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itapoã;",
+    "cep": "31710540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Sebastião Nepomuceno;"
 }

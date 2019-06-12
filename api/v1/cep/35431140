@@ -1,12 +1,12 @@
 {
-  "cep": "35431140",
-  "logradouro": "Avenida Álvaro Soares",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "35431140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Álvaro Soares;"
 }

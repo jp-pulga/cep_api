@@ -1,12 +1,12 @@
 {
-  "cep": "38412152",
-  "logradouro": "Rua Perdizes",
-  "bairro": "Cidade Jardim",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Jardim;",
+    "cep": "38412152",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Perdizes;"
 }

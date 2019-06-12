@@ -1,12 +1,12 @@
 {
-  "cep": "32675070",
-  "logradouro": "Rua Perdões de 1300/1301 ao fim",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Perdões - de 1300\/1301 ao fim;"
 }

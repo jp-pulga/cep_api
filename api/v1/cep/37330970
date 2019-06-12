@@ -1,12 +1,13 @@
 {
-  "cep": "37330970",
-  "logradouro": "AC Passa Vinte Rua da Liberdade 110",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passa Vinte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37330970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passa Vinte"
+    },
+    "ibge": 3147808,
+    "logradouro": "Rua da Liberdade, 110  AC Passa Vinte;"
 }

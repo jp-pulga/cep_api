@@ -1,12 +1,11 @@
 {
-  "cep": "39492000",
-  "logradouro": "Pedras de Maria da Cruz",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pedras de Maria da Cruz",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39492000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedras de Maria da Cruz"
+    },
+    "ibge": 3149150
 }

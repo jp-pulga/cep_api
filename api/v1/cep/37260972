@@ -1,12 +1,13 @@
 {
-  "cep": "37260972",
-  "logradouro": "AGC Retiro dos Pimentas Rua Romão Fagundes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Perdões",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37260972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Perdões"
+    },
+    "ibge": 3149903,
+    "logradouro": "Rua Romão Fagundes, s\/n  AGC Retiro dos Pimentas;"
 }

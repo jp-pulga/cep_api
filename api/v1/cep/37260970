@@ -1,12 +1,13 @@
 {
-  "cep": "37260970",
-  "logradouro": "AC Perdões Avenida Régis Bitencourt 342",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Perdões",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37260970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Perdões"
+    },
+    "ibge": 3149903,
+    "logradouro": "Avenida Régis Bitencourt, 342  AC Perdões;"
 }

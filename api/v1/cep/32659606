@@ -1,12 +1,12 @@
 {
-  "cep": "32659606",
-  "logradouro": "Rua Maria do Carmo Gomes",
-  "bairro": "Jardim Nazareno",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Nazareno;",
+    "cep": "32659606",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Maria do Carmo Gomes;"
 }

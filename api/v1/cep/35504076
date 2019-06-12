@@ -1,12 +1,12 @@
 {
-  "cep": "35504076",
-  "logradouro": "Rua Primo Bataglini",
-  "bairro": "Maria Peçanha",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Peçanha;",
+    "cep": "35504076",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Primo Bataglini;"
 }

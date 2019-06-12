@@ -1,12 +1,12 @@
 {
-  "cep": "33065020",
-  "logradouro": "Rua Piauí",
-  "bairro": "Bonanza",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bonanza;",
+    "cep": "33065020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Piauí;"
 }

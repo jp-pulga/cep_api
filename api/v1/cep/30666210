@@ -1,12 +1,12 @@
 {
-  "cep": "30666210",
-  "logradouro": "Rua Darcy Máximo Pimenta",
-  "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro);",
+    "cep": "30666210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Darcy Máximo Pimenta;"
 }

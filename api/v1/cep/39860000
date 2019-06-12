@@ -1,12 +1,11 @@
 {
-  "cep": "39860000",
-  "logradouro": "Nanuque",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nanuque",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39860000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nanuque"
+    },
+    "ibge": 3144300
 }

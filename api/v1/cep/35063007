@@ -1,12 +1,12 @@
 {
-  "cep": "35063007",
-  "logradouro": "Rua Doutor Paulo de Sousa Lima",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "35063007",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Doutor Paulo de Sousa Lima;"
 }

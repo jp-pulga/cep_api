@@ -1,12 +1,12 @@
 {
-  "cep": "32601600",
-  "logradouro": "Rua Antônio Nunes",
-  "bairro": "Pingo D'água",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pingo D'água;",
+    "cep": "32601600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Antônio Nunes;"
 }

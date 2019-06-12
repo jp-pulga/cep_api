@@ -1,12 +1,12 @@
 {
-  "cep": "39401447",
-  "logradouro": "Rua Monte Sião",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "39401447",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Monte Sião;"
 }

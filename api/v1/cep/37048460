@@ -1,12 +1,12 @@
 {
-  "cep": "37048460",
-  "logradouro": "Rua Benedito Alves de Carvalho",
-  "bairro": "Padre Vitor",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Vitor;",
+    "cep": "37048460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Benedito Alves de Carvalho;"
 }

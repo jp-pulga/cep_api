@@ -1,12 +1,12 @@
 {
-  "cep": "36026340",
-  "logradouro": "Rua José do Patrocínio",
-  "bairro": "Mundo Novo",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mundo Novo;",
+    "cep": "36026340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua José do Patrocínio;"
 }

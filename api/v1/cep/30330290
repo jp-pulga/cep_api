@@ -1,12 +1,12 @@
 {
-  "cep": "30330290",
-  "logradouro": "Rua São João Nepomuceno",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "30330290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São João Nepomuceno;"
 }

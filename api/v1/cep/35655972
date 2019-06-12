@@ -1,12 +1,13 @@
 {
-  "cep": "35655972",
-  "logradouro": "AC Onça do Pitangui Praça da Matriz 38",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Onça de Pitangui",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35655972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Onça de Pitangui"
+    },
+    "ibge": 3145802,
+    "logradouro": "Praça da Matriz, 38  AC Onça do Pitangui;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32639386",
-  "logradouro": "Rua Ouro Fino",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "32639386",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Ouro Fino;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39517973",
-  "logradouro": "AC Pai Pedro Rua Gorutuba s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pai Pedro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39517973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pai Pedro"
+    },
+    "ibge": 3146552,
+    "logradouro": "Rua Gorutuba, s\/n  AC Pai Pedro;"
 }

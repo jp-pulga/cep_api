@@ -1,12 +1,13 @@
 {
-  "cep": "39860971",
-  "logradouro": "UD Nanuque Rua Geraldo Romano 409",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nanuque",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39860971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nanuque"
+    },
+    "ibge": 3144300,
+    "logradouro": "Avenida Geraldo Romano, 409  CDD Nanuque;"
 }

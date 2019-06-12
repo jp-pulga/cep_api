@@ -1,12 +1,12 @@
 {
-  "cep": "32606476",
-  "logradouro": "Rua Paracatu",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "32606476",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Paracatu;"
 }

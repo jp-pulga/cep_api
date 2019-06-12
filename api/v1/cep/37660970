@@ -1,12 +1,13 @@
 {
-  "cep": "37660970",
-  "logradouro": "AC Paraisópolis Rua Juscelino K. Oliveira 353",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paraisópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37660970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Paraisópolis"
+    },
+    "ibge": 3147303,
+    "logradouro": "Rua Juscelino K. Oliveira, 353  AC Paraisópolis;"
 }

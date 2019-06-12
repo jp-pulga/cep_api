@@ -1,12 +1,12 @@
 {
-  "cep": "36205660",
-  "logradouro": "Rua Maria Aparecida Resende",
-  "bairro": "Nova Suíça",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Suíça;",
+    "cep": "36205660",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Maria Aparecida Resende;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35704100",
-  "logradouro": "Rua Delson Marques Teixeira",
-  "bairro": "Jardim dos Pequis",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Pequis;",
+    "cep": "35704100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Delson Marques Teixeira;"
 }

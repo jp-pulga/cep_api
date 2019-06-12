@@ -1,12 +1,12 @@
 {
-  "cep": "30644340",
-  "logradouro": "Rua Maria Amélia Pimenta",
-  "bairro": "Teixeira Dias (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeira Dias (Barreiro);",
+    "cep": "30644340",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Amélia Pimenta;"
 }

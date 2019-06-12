@@ -1,12 +1,12 @@
 {
-  "cep": "35502807",
-  "logradouro": "Rua Pavão",
-  "bairro": "Serra Verde",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Verde;",
+    "cep": "35502807",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Pavão;"
 }

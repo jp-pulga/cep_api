@@ -1,12 +1,13 @@
 {
-  "cep": "35628971",
-  "logradouro": "AGC Vau das Flores Rua João Francisco da Silva 300",
-  "bairro": "Vau das Flores",
-  "cidade": {
-    "nome": "Morada Nova de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vau das Flores;",
+    "cep": "35628971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Morada Nova de Minas"
+    },
+    "ibge": 3143500,
+    "logradouro": "Rua João Francisco da Silva, 300  AGC Vau das Flores;"
 }

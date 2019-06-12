@@ -1,12 +1,12 @@
 {
-  "cep": "37700480",
-  "logradouro": "Rua Nova Resende",
-  "bairro": "Jardim Esmeralda",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Esmeralda;",
+    "cep": "37700480",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Nova Resende;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35058210",
-  "logradouro": "Rua Pirapora",
-  "bairro": "Maria Eugênia",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Eugênia;",
+    "cep": "35058210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Pirapora;"
 }

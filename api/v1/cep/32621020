@@ -1,12 +1,12 @@
 {
-  "cep": "32621020",
-  "logradouro": "Rua José Moreira",
-  "bairro": "Pimentas",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pimentas;",
+    "cep": "32621020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua José Moreira;"
 }

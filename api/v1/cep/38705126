@@ -1,12 +1,12 @@
 {
-  "cep": "38705126",
-  "logradouro": "Rua Adelino Pains Pamplona",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "38705126",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Adelino Pains Pamplona;"
 }

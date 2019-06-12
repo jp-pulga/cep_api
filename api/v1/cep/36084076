@@ -1,12 +1,12 @@
 {
-  "cep": "36084076",
-  "logradouro": "Rua Pedras Preciosas",
-  "bairro": "Pedra Bonita",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Bonita;",
+    "cep": "36084076",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Pedras Preciosas;"
 }

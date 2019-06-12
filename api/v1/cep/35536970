@@ -1,12 +1,13 @@
 {
-  "cep": "35536970",
-  "logradouro": "AC Piracema Avenida Onofre Pinto Lara 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piracema",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35536970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piracema"
+    },
+    "ibge": 3150604,
+    "logradouro": "Avenida Onofre Pinto Lara, 20  AC Piracema;"
 }

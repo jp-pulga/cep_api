@@ -1,12 +1,13 @@
 {
-  "cep": "35519974",
-  "logradouro": "AGC Ripas Rua Principal s/n",
-  "bairro": "Ripas",
-  "cidade": {
-    "nome": "Nova Serrana",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ripas;",
+    "cep": "35519974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova Serrana"
+    },
+    "ibge": 3145208,
+    "logradouro": "Rua Principal, s\/n  AGC Ripas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39270970",
-  "logradouro": "AC Pirapora Praça Presidente Tancredo Neves 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pirapora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39270970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pirapora"
+    },
+    "ibge": 3151206,
+    "logradouro": "Praça Presidente Tancredo Neves, 6  AC Pirapora;"
 }

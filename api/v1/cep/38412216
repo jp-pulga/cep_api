@@ -1,12 +1,12 @@
 {
-  "cep": "38412216",
-  "logradouro": "Rua Pavão",
-  "bairro": "Jardim das Palmeiras",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim das Palmeiras;",
+    "cep": "38412216",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Pavão;"
 }

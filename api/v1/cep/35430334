@@ -1,12 +1,12 @@
 {
-  "cep": "35430334",
-  "logradouro": "Avenida Central",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "35430334",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Central;"
 }

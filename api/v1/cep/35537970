@@ -1,12 +1,13 @@
 {
-  "cep": "35537970",
-  "logradouro": "AC Passa Tempo Travessa Dadido de Morais 57",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passa Tempo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35537970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passa Tempo"
+    },
+    "ibge": 3147709,
+    "logradouro": "Travessa Dadido de Morais, 57  AC Passa Tempo;"
 }

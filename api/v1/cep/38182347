@@ -1,12 +1,12 @@
 {
-  "cep": "38182347",
-  "logradouro": "Rua Oswaldo de Paiva Borges",
-  "bairro": "Arasol",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Arasol;",
+    "cep": "38182347",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Oswaldo de Paiva Borges;"
 }

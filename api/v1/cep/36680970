@@ -1,12 +1,12 @@
 {
-  "cep": "36680970",
-  "logradouro": "AC São João Nepomuceno Rua Doutor Péricles Vieira de Mendonça 66",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Nepomuceno",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36680970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Nepomuceno"
+    },
+    "logradouro": "Rua Doutor Péricles Vieira de Mendonça, 66  AC São João Nepomuceno;"
 }

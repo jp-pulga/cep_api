@@ -1,12 +1,12 @@
 {
-  "cep": "38184028",
-  "logradouro": "Rua Perdizes de 355/356 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38184028",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Perdizes - de 355\/356 ao fim;"
 }

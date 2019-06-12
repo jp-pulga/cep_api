@@ -1,12 +1,12 @@
 {
-  "cep": "32675452",
-  "logradouro": "Rua Patrocínio de 200/201 a 698/699",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675452",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Patrocínio - de 200\/201 a 698\/699;"
 }

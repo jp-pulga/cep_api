@@ -1,12 +1,13 @@
 {
-  "cep": "39814970",
-  "logradouro": "AC Pavão Rua Olegário Maciel 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pavão",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39814970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pavão"
+    },
+    "ibge": 3148509,
+    "logradouro": "Rua Olegário Maciel, 35  AC Pavão;"
 }

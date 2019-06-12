@@ -1,12 +1,13 @@
 {
-  "cep": "38701213",
-  "logradouro": "Avenida Carlos Nogueira Júnior",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "38701213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Avenida Carlos Nogueira Júnior;"
 }

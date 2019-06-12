@@ -1,12 +1,12 @@
 {
-  "cep": "32025015",
-  "logradouro": "Rua Paineiras",
-  "bairro": "Chácara Contagem",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Contagem;",
+    "cep": "32025015",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Paineiras;"
 }

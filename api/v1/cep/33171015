@@ -1,12 +1,12 @@
 {
-  "cep": "33171015",
-  "logradouro": "Rua Ouro Branco",
-  "bairro": "Luxemburgo",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Luxemburgo;",
+    "cep": "33171015",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Ouro Branco;"
 }

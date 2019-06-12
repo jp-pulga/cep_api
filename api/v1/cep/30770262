@@ -1,12 +1,12 @@
 {
-  "cep": "30770262",
-  "logradouro": "Rua Perdizes de 441/442 a 99997/99998",
-  "bairro": "Caiçara-Adelaide",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caiçara-Adelaide;",
+    "cep": "30770262",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Perdizes - de 441\/442 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35162544",
-  "logradouro": "Rua Periquito",
-  "bairro": "Vila Celeste",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Celeste;",
+    "cep": "35162544",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Periquito;"
 }

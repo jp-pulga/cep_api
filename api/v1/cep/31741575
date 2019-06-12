@@ -1,12 +1,12 @@
 {
-  "cep": "31741575",
-  "logradouro": "Rua José Gonçalves Pimenta",
-  "bairro": "Heliópolis",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Heliópolis;",
+    "cep": "31741575",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Gonçalves Pimenta;"
 }

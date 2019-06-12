@@ -1,12 +1,13 @@
 {
-  "cep": "38709899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Patos de Minas",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Patos de Minas;",
+    "cep": "38709899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Área Rural;"
 }

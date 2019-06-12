@@ -1,12 +1,12 @@
 {
-  "cep": "35430001",
-  "logradouro": "Avenida Caetano Marinho",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35430001",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Caetano Marinho;"
 }

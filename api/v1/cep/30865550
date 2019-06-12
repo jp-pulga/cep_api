@@ -1,12 +1,12 @@
 {
-  "cep": "30865550",
-  "logradouro": "Praça Adalmo Passos Lopes",
-  "bairro": "Pindorama",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pindorama;",
+    "cep": "30865550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Adalmo Passos Lopes;"
 }

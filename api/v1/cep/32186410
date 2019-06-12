@@ -1,12 +1,12 @@
 {
-  "cep": "32186410",
-  "logradouro": "Rua Patrocínio",
-  "bairro": "Vila Boa Vista",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Boa Vista;",
+    "cep": "32186410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Patrocínio;"
 }

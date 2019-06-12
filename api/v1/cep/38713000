@@ -1,12 +1,11 @@
 {
-  "cep": "38713000",
-  "logradouro": "Chumbo (Patos de Minas)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Chumbo (Patos de Minas)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38713000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004
 }

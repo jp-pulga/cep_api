@@ -1,12 +1,12 @@
 {
-  "cep": "35182008",
-  "logradouro": "Rua Ouro Fino",
-  "bairro": "Centro Sul",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro Sul;",
+    "cep": "35182008",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Ouro Fino;"
 }

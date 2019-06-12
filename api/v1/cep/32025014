@@ -1,12 +1,12 @@
 {
-  "cep": "32025014",
-  "logradouro": "Rua Pequi",
-  "bairro": "Chácara Contagem",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Contagem;",
+    "cep": "32025014",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Pequi;"
 }

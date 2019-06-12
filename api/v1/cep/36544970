@@ -1,12 +1,13 @@
 {
-  "cep": "36544970",
-  "logradouro": "AC Paula Cândido Praça do Rosário 25 Loja 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paula Cândido",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36544970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Paula Cândido"
+    },
+    "ibge": 3148301,
+    "logradouro": "Praça do Rosário, 25 Loja 2  AC Paula Cândido;"
 }

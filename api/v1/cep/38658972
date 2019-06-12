@@ -1,12 +1,13 @@
 {
-  "cep": "38658972",
-  "logradouro": "AC Natalândia Avenida Unaí 1474",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Natalândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38658972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Natalândia"
+    },
+    "ibge": 3144375,
+    "logradouro": "Avenida Unaí, 1747  AC Natalândia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35364972",
-  "logradouro": "AC Pedra Bonita Rua Nicolau Viana 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra Bonita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35364972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedra Bonita"
+    },
+    "ibge": 3148756,
+    "logradouro": "Rua Nicolau Viana, 18  AC Pedra Bonita;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "33600000",
-  "logradouro": "Pedro Leopoldo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pedro Leopoldo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "33600000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pedro Leopoldo"
+    },
+    "ibge": 3149309
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35501121",
-  "logradouro": "Avenida Ana Angélica",
-  "bairro": "Maria Peçanha",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Peçanha;",
+    "cep": "35501121",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Avenida Ana Angélica - até 740\/741;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "37460000",
-  "logradouro": "Passa Quatro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Passa Quatro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37460000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passa Quatro"
+    },
+    "ibge": 3147600
 }

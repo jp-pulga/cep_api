@@ -1,12 +1,12 @@
 {
-  "cep": "31652170",
-  "logradouro": "Rua João Nepomuceno da Silva",
-  "bairro": "Jardim dos Comerciários (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Comerciários (Venda Nova);",
+    "cep": "31652170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua João Nepomuceno da Silva;"
 }

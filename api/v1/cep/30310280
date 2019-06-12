@@ -1,12 +1,12 @@
 {
-  "cep": "30310280",
-  "logradouro": "Rua Muzambinho até 399/400",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "30310280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Muzambinho - de 121\/122 a 399\/400;"
 }

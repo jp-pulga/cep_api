@@ -1,12 +1,12 @@
 {
-  "cep": "38183074",
-  "logradouro": "Rua Professor Saturnino Teixeira",
-  "bairro": "Vila São Pedro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila São Pedro;",
+    "cep": "38183074",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Professor Saturnino Teixeira;"
 }

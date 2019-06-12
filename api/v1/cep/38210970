@@ -1,12 +1,13 @@
 {
-  "cep": "38210970",
-  "logradouro": "AC Pirajuba Rua Oscar Prata 62",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pirajuba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38210970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pirajuba"
+    },
+    "ibge": 3150703,
+    "logradouro": "Rua Oscar Prata, 62  AC Pirajuba;"
 }

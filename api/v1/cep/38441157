@@ -1,12 +1,12 @@
 {
-  "cep": "38441157",
-  "logradouro": "Rua Nova Ponte",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "38441157",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Nova Ponte;"
 }

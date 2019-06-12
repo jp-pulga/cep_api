@@ -1,12 +1,12 @@
 {
-  "cep": "35701505",
-  "logradouro": "Rua Hime Franca Silva",
-  "bairro": "Ouro Branco",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Branco;",
+    "cep": "35701505",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Hime Franca Silva;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35661276",
-  "logradouro": "Alameda do Angico até 259/260",
-  "bairro": "Jardim Serra Verde",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Serra Verde;",
+    "cep": "35661276",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "ibge": 3147105,
+    "logradouro": "Alameda do Angico - até 259\/260;"
 }

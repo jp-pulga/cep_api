@@ -1,12 +1,13 @@
 {
-  "cep": "39814971",
-  "logradouro": "AGC Limeira (Pavão) Avenida Jescelina Pinheiro s/n",
-  "bairro": "Limeira",
-  "cidade": {
-    "nome": "Pavão",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limeira;",
+    "cep": "39814971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pavão"
+    },
+    "ibge": 3148509,
+    "logradouro": "Avenida Jescelina Pinheiro, s\/n  AGC Limeira (Pavão);"
 }

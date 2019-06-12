@@ -1,12 +1,12 @@
 {
-  "cep": "35430213",
-  "logradouro": "Avenida Doutor José Grossi",
-  "bairro": "Guarapiranga",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarapiranga;",
+    "cep": "35430213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Avenida Doutor José Grossi;"
 }

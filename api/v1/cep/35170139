@@ -1,12 +1,12 @@
 {
-  "cep": "35170139",
-  "logradouro": "Rua Pará de Minas",
-  "bairro": "Olaria",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Olaria;",
+    "cep": "35170139",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Pará de Minas;"
 }

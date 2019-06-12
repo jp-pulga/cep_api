@@ -1,12 +1,12 @@
 {
-  "cep": "30870330",
-  "logradouro": "Rua Passo Fundo",
-  "bairro": "Novo Glória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Glória;",
+    "cep": "30870330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Passo Fundo;"
 }

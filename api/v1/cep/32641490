@@ -1,12 +1,12 @@
 {
-  "cep": "32641490",
-  "logradouro": "Rua Olaria",
-  "bairro": "Citrolândia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Citrolândia;",
+    "cep": "32641490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Olaria;"
 }

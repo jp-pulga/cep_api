@@ -1,12 +1,12 @@
 {
-  "cep": "35171162",
-  "logradouro": "Rua Pirapora",
-  "bairro": "Aparecida do Norte",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aparecida do Norte;",
+    "cep": "35171162",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Pirapora;"
 }

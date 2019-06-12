@@ -1,12 +1,12 @@
 {
-  "cep": "32310400",
-  "logradouro": "Rua Paineiras",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "32310400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Paineiras;"
 }

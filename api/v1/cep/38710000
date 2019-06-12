@@ -1,12 +1,12 @@
 {
-  "cep": "38710000",
-  "logradouro": "Major Porto (Patos de Minas)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Major Porto (Patos de Minas)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Major Porto",
+    "cep": "38710000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004
 }

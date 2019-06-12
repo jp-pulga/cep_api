@@ -1,12 +1,12 @@
 {
-  "cep": "32060300",
-  "logradouro": "Alameda das Tulipas",
-  "bairro": "Granja Ouro Branco",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granja Ouro Branco;",
+    "cep": "32060300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Alameda das Tulipas;"
 }

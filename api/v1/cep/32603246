@@ -1,12 +1,12 @@
 {
-  "cep": "32603246",
-  "logradouro": "Avenida Gabriel de Rezende Passos de 150/151 a 347/348",
-  "bairro": "Guarujá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarujá;",
+    "cep": "32603246",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Avenida Gabriel de Rezende Passos - de 150\/151 a 347\/348;"
 }

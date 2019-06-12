@@ -1,12 +1,12 @@
 {
-  "cep": "36016060",
-  "logradouro": "Rua Adolpho Chelles",
-  "bairro": "Paineiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paineiras;",
+    "cep": "36016060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Adolpho Chelles;"
 }

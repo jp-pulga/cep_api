@@ -1,12 +1,12 @@
 {
-  "cep": "35170184",
-  "logradouro": "Rua Pirapora",
-  "bairro": "Melo Viana",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Melo Viana;",
+    "cep": "35170184",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Pirapora;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32642462",
-  "logradouro": "Rua Pedra Dourada",
-  "bairro": "Parque Ipiranga",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Ipiranga;",
+    "cep": "32642462",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Pedra Dourada;"
 }

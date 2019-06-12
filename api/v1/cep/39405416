@@ -1,12 +1,12 @@
 {
-  "cep": "39405416",
-  "logradouro": "Rua Quatro",
-  "bairro": "Residencial Monte Sião",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Monte Sião;",
+    "cep": "39405416",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Quatro;"
 }

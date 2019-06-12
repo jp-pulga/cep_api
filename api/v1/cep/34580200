@@ -1,12 +1,12 @@
 {
-  "cep": "34580200",
-  "logradouro": "Rua Peçanha",
-  "bairro": "Itacolomi",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itacolomi;",
+    "cep": "34580200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Peçanha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35300098",
-  "logradouro": "Vila Pedro Rodrigues Teixeira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35300098",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Vila Pedro Rodrigues Teixeira;"
 }

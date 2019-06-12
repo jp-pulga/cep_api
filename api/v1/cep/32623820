@@ -1,12 +1,12 @@
 {
-  "cep": "32623820",
-  "logradouro": "Rua Piauí",
-  "bairro": "Santo Afonso",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Afonso;",
+    "cep": "32623820",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Piauí;"
 }

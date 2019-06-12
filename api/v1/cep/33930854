@@ -1,12 +1,12 @@
 {
-  "cep": "33930854",
-  "logradouro": "Avenida Pedro Leopoldo",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "33930854",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Avenida Pedro Leopoldo;"
 }

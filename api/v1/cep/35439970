@@ -1,12 +1,13 @@
 {
-  "cep": "35439970",
-  "logradouro": "AC Oratórios Rua São Geraldo 239",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Oratórios",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35439970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Oratórios"
+    },
+    "ibge": 3145851,
+    "logradouro": "Rua São Geraldo, 239  AC Oratórios;"
 }

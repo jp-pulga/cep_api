@@ -1,12 +1,13 @@
 {
-  "cep": "35661449",
-  "logradouro": "Alameda das Mangabeiras até 206/207",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "35661449",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "ibge": 3147105,
+    "logradouro": "Alameda das Mangabeiras - até 206\/207;"
 }

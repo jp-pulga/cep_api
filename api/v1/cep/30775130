@@ -1,12 +1,12 @@
 {
-  "cep": "30775130",
-  "logradouro": "Rua Nazareno",
-  "bairro": "Caiçaras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caiçaras;",
+    "cep": "30775130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Nazareno;"
 }

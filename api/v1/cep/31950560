@@ -1,12 +1,12 @@
 {
-  "cep": "31950560",
-  "logradouro": "Rua Papagaio",
-  "bairro": "Goiânia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Goiânia;",
+    "cep": "31950560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Papagaio;"
 }

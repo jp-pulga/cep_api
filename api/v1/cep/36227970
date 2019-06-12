@@ -1,12 +1,13 @@
 {
-  "cep": "36227970",
-  "logradouro": "AC Piedade do Rio Grande Rua do Rosário 159-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piedade do Rio Grande",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36227970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piedade do Rio Grande"
+    },
+    "ibge": 3150307,
+    "logradouro": "Rua do Rosário, 159-A  AC Piedade do Rio Grande;"
 }

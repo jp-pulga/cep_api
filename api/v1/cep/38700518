@@ -1,12 +1,13 @@
 {
-  "cep": "38700518",
-  "logradouro": "Alameda Fábio Araújo Pereira",
-  "bairro": "Várzea",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Várzea;",
+    "cep": "38700518",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "ibge": 3148004,
+    "logradouro": "Alameda Fábio Araújo Pereira;"
 }

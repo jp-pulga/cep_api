@@ -1,12 +1,13 @@
 {
-  "cep": "35519970",
-  "logradouro": "AC Nova Serrana Rua Antônio Martins 140",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Serrana",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35519970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Nova Serrana"
+    },
+    "ibge": 3145208,
+    "logradouro": "Rua Antônio Martins, 140  AC Nova Serrana;"
 }

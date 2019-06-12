@@ -1,12 +1,12 @@
 {
-  "cep": "38022220",
-  "logradouro": "Rua Passa Quatro",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "38022220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Passa Quatro;"
 }

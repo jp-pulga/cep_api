@@ -1,12 +1,12 @@
 {
-  "cep": "31255610",
-  "logradouro": "Rua Munhoz",
-  "bairro": "Santa Rosa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rosa;",
+    "cep": "31255610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Munhoz;"
 }

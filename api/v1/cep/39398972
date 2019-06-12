@@ -1,12 +1,12 @@
 {
-  "cep": "39398972",
-  "logradouro": "AC Olhos D'Água Praça Dona Guitá 78",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Olhos D'Água",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39398972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Olhos D'Água"
+    },
+    "logradouro": "Praça Dona Guitá, 78  AC Olhos D'Água;"
 }

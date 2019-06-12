@@ -1,12 +1,13 @@
 {
-  "cep": "35661285",
-  "logradouro": "Alameda do Angelim até 174/175",
-  "bairro": "Jardim Serra Verde",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Serra Verde;",
+    "cep": "35661285",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "ibge": 3147105,
+    "logradouro": "Alameda do Angelim - até 174\/175;"
 }

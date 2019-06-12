@@ -1,12 +1,12 @@
 {
-  "cep": "35501068",
-  "logradouro": "Rua Nanuque",
-  "bairro": "Cidade Jardim",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Jardim;",
+    "cep": "35501068",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Nanuque;"
 }

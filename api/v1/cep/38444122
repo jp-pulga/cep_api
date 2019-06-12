@@ -1,12 +1,12 @@
 {
-  "cep": "38444122",
-  "logradouro": "Rua Piauí",
-  "bairro": "Miranda",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Miranda;",
+    "cep": "38444122",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Piauí;"
 }

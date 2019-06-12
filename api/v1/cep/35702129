@@ -1,12 +1,12 @@
 {
-  "cep": "35702129",
-  "logradouro": "Rua São João Nepomuceno",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "35702129",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua São João Nepomuceno;"
 }

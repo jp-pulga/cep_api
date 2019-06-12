@@ -1,12 +1,12 @@
 {
-  "cep": "31275010",
-  "logradouro": "Rua Leopoldino dos Passos",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "31275010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Leopoldino dos Passos;"
 }

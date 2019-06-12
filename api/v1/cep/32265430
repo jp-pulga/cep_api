@@ -1,12 +1,12 @@
 {
-  "cep": "32265430",
-  "logradouro": "Rua Joaquim Nepomuceno Pimenta",
-  "bairro": "Jardim Califórnia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Califórnia;",
+    "cep": "32265430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Joaquim Nepomuceno Pimenta;"
 }
