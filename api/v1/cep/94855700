@@ -1,12 +1,12 @@
 {
-  "cep": "94855700",
-  "logradouro": "Rua São Francisco de Assis",
-  "bairro": "Stella Maris",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Stella Maris;",
+    "cep": "94855700",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua São Francisco de Assis;"
 }

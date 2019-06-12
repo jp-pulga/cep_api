@@ -1,12 +1,13 @@
 {
-  "cep": "99735970",
-  "logradouro": "AGC Ponte Preta Avenida Antônio Paris 512",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponte Preta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99735970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ponte Preta"
+    },
+    "ibge": 4314787,
+    "logradouro": "Avenida Antônio Paris, 512  AGC Ponte Preta;"
 }

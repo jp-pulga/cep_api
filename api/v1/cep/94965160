@@ -1,12 +1,12 @@
 {
-  "cep": "94965160",
-  "logradouro": "Rua Pinhal",
-  "bairro": "Nova Cachoeirinha",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nova Cachoeirinha;",
+    "cep": "94965160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Pinhal;"
 }

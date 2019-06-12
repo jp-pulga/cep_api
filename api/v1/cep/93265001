@@ -1,12 +1,12 @@
 {
-  "cep": "93265001",
-  "logradouro": "Rua Rio Grande de 1684/1685 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93265001",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Rio Grande - de 1684\/1685 ao fim;"
 }

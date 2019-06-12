@@ -1,12 +1,12 @@
 {
-  "cep": "96217180",
-  "logradouro": "Rua João Augusto dos Santos (Vl Minuano)",
-  "bairro": "Bolaxa",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bolaxa;",
+    "cep": "96217180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua João Augusto dos Santos (Vl Minuano);"
 }

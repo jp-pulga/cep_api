@@ -1,12 +1,13 @@
 {
-  "cep": "97670974",
-  "logradouro": "AGF Mercosul Rua dos Andradas 2492",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Borja",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97670974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Borja"
+    },
+    "ibge": 4318002,
+    "logradouro": "Rua dos Andradas, 2492  AGF Mercosul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "97095695",
-  "logradouro": "Rua São João do Polesine",
-  "bairro": "Km 3",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Km 3;",
+    "cep": "97095695",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua São João do Polesine;"
 }

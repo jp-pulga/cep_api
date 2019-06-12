@@ -1,12 +1,12 @@
 {
-  "cep": "91430699",
-  "logradouro": "Passagem Vinte e Sete (Cefer Dois)",
-  "bairro": "Jardim Carvalho",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Carvalho;",
+    "cep": "91430699",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Passagem Vinte e Sete (Cefer Dois);"
 }

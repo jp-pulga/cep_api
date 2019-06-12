@@ -1,12 +1,12 @@
 {
-  "cep": "96408840",
-  "logradouro": "Rua Brigadeiro Mércio de 200/201 ao fim",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "96408840",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Brigadeiro Mércio - de 200\/201 ao fim;"
 }

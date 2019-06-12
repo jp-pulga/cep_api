@@ -1,12 +1,12 @@
 {
-  "cep": "96503492",
-  "logradouro": "Rua Aparício Borges de 450/451 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "96503492",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Aparício Borges - de 450\/451 ao fim;"
 }

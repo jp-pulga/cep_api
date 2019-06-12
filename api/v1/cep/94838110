@@ -1,12 +1,12 @@
 {
-  "cep": "94838110",
-  "logradouro": "Rua Doutor Flores",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini;",
+    "cep": "94838110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Doutor Flores;"
 }

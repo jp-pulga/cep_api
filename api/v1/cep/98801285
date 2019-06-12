@@ -1,12 +1,13 @@
 {
-  "cep": "98801285",
-  "logradouro": "Rodovia RS-344 do km 95100 ao km 98000",
-  "bairro": "Ortis",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ortis;",
+    "cep": "98801285",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "ibge": 4317509,
+    "logradouro": "Rodovia RS-344 - do km 95,100 ao km 98,000;"
 }

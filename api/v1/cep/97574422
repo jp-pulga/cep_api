@@ -1,12 +1,12 @@
 {
-  "cep": "97574422",
-  "logradouro": "Rua Quinze de Novembro de 241/242 ao fim",
-  "bairro": "Fluminense",
-  "cidade": {
-    "nome": "Santana do Livramento",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fluminense;",
+    "cep": "97574422",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana do Livramento"
+    },
+    "logradouro": "Rua Quinze de Novembro - de 241\/242 ao fim;"
 }

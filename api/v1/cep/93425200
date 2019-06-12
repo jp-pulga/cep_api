@@ -1,12 +1,12 @@
 {
-  "cep": "93425200",
-  "logradouro": "Rua Santa Clara do Sul",
-  "bairro": "Santo Afonso",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Afonso;",
+    "cep": "93425200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Santa Clara do Sul;"
 }

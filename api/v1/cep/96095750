@@ -1,12 +1,13 @@
 {
-  "cep": "96095750",
-  "logradouro": "Avenida Adolfo Fetter de 4600/4601 a 7098/7099",
-  "bairro": "Laranjal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjal;",
+    "cep": "96095750",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida Adolfo Fetter - de 4600\/4601 a 7098\/7099;"
 }

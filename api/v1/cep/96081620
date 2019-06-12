@@ -1,12 +1,12 @@
 {
-  "cep": "96081620",
-  "logradouro": "Rua Ilma Araújo Chagas (Lot Sananduva)",
-  "bairro": "Areal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Areal;",
+    "cep": "96081620",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Ilma Araújo Chagas (Lot Sananduva);"
 }

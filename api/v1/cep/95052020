@@ -1,12 +1,12 @@
 {
-  "cep": "95052020",
-  "logradouro": "Rua Adelino Roldo",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sagrada Família;",
+    "cep": "95052020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Adelino Roldo;"
 }

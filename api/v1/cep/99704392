@@ -1,12 +1,12 @@
 {
-  "cep": "99704392",
-  "logradouro": "Rua Engenheiro Parobé",
-  "bairro": "Linho",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Linho;",
+    "cep": "99704392",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Engenheiro Parobé;"
 }

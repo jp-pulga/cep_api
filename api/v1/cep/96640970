@@ -1,12 +1,13 @@
 {
-  "cep": "96640970",
-  "logradouro": "AC Rio Pardo Rua Andrade Neves 841",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Pardo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96640970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Pardo"
+    },
+    "ibge": 4315701,
+    "logradouro": "Rua Andrade Neves, 841  AC Rio Pardo;"
 }

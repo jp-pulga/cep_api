@@ -1,12 +1,13 @@
 {
-  "cep": "96685971",
-  "logradouro": "AC Passo do Sobrado Rua Rodolfo Bruckner 186",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passo do Sobrado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96685971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo do Sobrado"
+    },
+    "ibge": 4314076,
+    "logradouro": "Rua Rodolfo Bruckner, 186  AC Passo do Sobrado;"
 }

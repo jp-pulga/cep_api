@@ -1,12 +1,12 @@
 {
-  "cep": "92330180",
-  "logradouro": "Rua Santiago",
-  "bairro": "Mathias Velho",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mathias Velho;",
+    "cep": "92330180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Santiago;"
 }

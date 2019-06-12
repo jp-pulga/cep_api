@@ -1,12 +1,12 @@
 {
-  "cep": "96825060",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Higienópolis",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Higienópolis;",
+    "cep": "96825060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Santa Bárbara;"
 }

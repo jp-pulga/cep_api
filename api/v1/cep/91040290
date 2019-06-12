@@ -1,12 +1,12 @@
 {
-  "cep": "91040290",
-  "logradouro": "Praça Vereador Osório da Rosa",
-  "bairro": "Jardim São Pedro",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim São Pedro;",
+    "cep": "91040290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Vereador Osório da Rosa;"
 }

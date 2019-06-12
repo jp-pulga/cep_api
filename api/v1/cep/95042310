@@ -1,12 +1,12 @@
 {
-  "cep": "95042310",
-  "logradouro": "Rua Giácomo Salvador",
-  "bairro": "Pioneiro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pioneiro;",
+    "cep": "95042310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Giácomo Salvador;"
 }

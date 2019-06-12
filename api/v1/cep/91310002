@@ -1,12 +1,12 @@
 {
-  "cep": "91310002",
-  "logradouro": "Avenida Protásio Alves de 3701 a 5685 - lado ímpar",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "91310002",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Protásio Alves - de 3701 a 5685 - lado ímpar;"
 }

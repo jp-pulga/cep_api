@@ -1,12 +1,11 @@
 {
-  "cep": "97940000",
-  "logradouro": "Salvador das Missões",
-  "bairro": "",
-  "cidade": {
-    "nome": "Salvador das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "97940000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Salvador das Missões"
+    },
+    "ibge": 4316477
 }

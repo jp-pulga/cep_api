@@ -1,12 +1,13 @@
 {
-  "cep": "96095126",
-  "logradouro": "Avenida Adolfo Fetter de 7100/7101 ao fim",
-  "bairro": "Laranjal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjal;",
+    "cep": "96095126",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida Adolfo Fetter - de 7100\/7101 ao fim;"
 }

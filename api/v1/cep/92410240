@@ -1,12 +1,12 @@
 {
-  "cep": "92410240",
-  "logradouro": "Rua Pirapo",
-  "bairro": "Igara",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Igara;",
+    "cep": "92410240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Pirapo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94055380",
-  "logradouro": "Rua Olívia F. Fonseca",
-  "bairro": "São Jerônimo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jerônimo;",
+    "cep": "94055380",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Olívia F. Fonseca;"
 }

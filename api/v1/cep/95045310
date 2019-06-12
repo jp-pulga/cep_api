@@ -1,12 +1,12 @@
 {
-  "cep": "95045310",
-  "logradouro": "Rua Orlando Brunetta",
-  "bairro": "Nossa Senhora do Rosário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora do Rosário;",
+    "cep": "95045310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Orlando Brunetta;"
 }

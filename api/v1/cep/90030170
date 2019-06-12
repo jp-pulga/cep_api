@@ -1,12 +1,12 @@
 {
-  "cep": "90030170",
-  "logradouro": "Praça Pereira Parobé",
-  "bairro": "Centro Histórico",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro Histórico;",
+    "cep": "90030170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Pereira Parobé;"
 }

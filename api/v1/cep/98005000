@@ -1,12 +1,12 @@
 {
-  "cep": "98005000",
-  "logradouro": "Rua Pinheiro Machado até 1054/1055",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98005000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Pinheiro Machado - até 1054\/1055;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95010050",
-  "logradouro": "Rua Doutor Protásio Alves",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "95010050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Doutor Protásio Alves;"
 }

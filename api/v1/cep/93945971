@@ -1,12 +1,13 @@
 {
-  "cep": "93945971",
-  "logradouro": "AC Presidente Lucena Avenida Presidente Lucena 3595 Loja 105",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Lucena",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93945971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Presidente Lucena"
+    },
+    "ibge": 4315149,
+    "logradouro": "Avenida Presidente Lucena, 3595 Loja 105  AC Presidente Lucena;"
 }

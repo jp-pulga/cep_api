@@ -1,12 +1,13 @@
 {
-  "cep": "95345970",
-  "logradouro": "AC Protásio Alves Rua do Poço 300 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Protásio Alves",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95345970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Protásio Alves"
+    },
+    "ibge": 4315172,
+    "logradouro": "Rua do Poço, 300 Sala 02  AC Protásio Alves;"
 }

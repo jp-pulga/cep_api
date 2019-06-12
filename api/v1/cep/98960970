@@ -1,12 +1,13 @@
 {
-  "cep": "98960970",
-  "logradouro": "AC Santo Cristo Avenida Dom Pedro II 2417",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Cristo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98960970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Cristo"
+    },
+    "ibge": 4317905,
+    "logradouro": "Avenida Dom Pedro II, 2417  AC Santo Cristo;"
 }

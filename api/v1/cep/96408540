@@ -1,12 +1,12 @@
 {
-  "cep": "96408540",
-  "logradouro": "Rua Roberval Trindade de Carvalho",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "96408540",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Roberval Trindade de Carvalho;"
 }

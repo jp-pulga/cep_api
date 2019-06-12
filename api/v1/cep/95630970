@@ -1,12 +1,13 @@
 {
-  "cep": "95630970",
-  "logradouro": "AC Parobé Rua João Mosmann 243 Loja 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parobé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95630970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Parobé"
+    },
+    "ibge": 4314050,
+    "logradouro": "Rua João Mosmann, 243 Loja 01  AC Parobé;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94920110",
-  "logradouro": "Rua Delfim Moreira",
-  "bairro": "Vila Santo Ângelo",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Santo Ângelo;",
+    "cep": "94920110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Delfim Moreira;"
 }

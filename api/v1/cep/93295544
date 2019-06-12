@@ -1,12 +1,12 @@
 {
-  "cep": "93295544",
-  "logradouro": "Rua Vilmo João Santiago",
-  "bairro": "Três Marias",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Marias;",
+    "cep": "93295544",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Vilmo João Santiago;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98255000",
-  "logradouro": "Campinas (Saldanha Marinho)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Campinas (Saldanha Marinho)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Campinas",
+    "cep": "98255000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Saldanha Marinho"
+    },
+    "ibge": 4316436
 }

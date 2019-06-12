@@ -1,12 +1,12 @@
 {
-  "cep": "96825454",
-  "logradouro": "Rua Gaspar Silveira Martins de 2640 ao fim - lado par",
-  "bairro": "Margarida",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Margarida;",
+    "cep": "96825454",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Gaspar Silveira Martins - de 2640 ao fim - lado par;"
 }

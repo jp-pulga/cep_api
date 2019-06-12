@@ -1,12 +1,12 @@
 {
-  "cep": "99054490",
-  "logradouro": "Rua Doutor Décio Martins Costa",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "99054490",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Doutor Décio Martins Costa;"
 }

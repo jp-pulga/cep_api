@@ -1,12 +1,12 @@
 {
-  "cep": "99708416",
-  "logradouro": "Rua Santo André",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "99708416",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Santo André;"
 }

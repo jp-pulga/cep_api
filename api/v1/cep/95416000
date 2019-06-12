@@ -1,12 +1,12 @@
 {
-  "cep": "95416000",
-  "logradouro": "",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lajeado Grande (São Francisco de Paula)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Lajeado Grande",
+    "cep": "95416000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Francisco de Paula"
+    },
+    "ibge": 4318200
 }

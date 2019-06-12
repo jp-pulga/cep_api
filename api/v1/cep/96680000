@@ -1,12 +1,11 @@
 {
-  "cep": "96680000",
-  "logradouro": "Bexiga (Rio Pardo)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bexiga (Rio Pardo)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "96680000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Pardo"
+    },
+    "ibge": 4315701
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91040070",
-  "logradouro": "Rua Irene Capponi Santiago",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Redentor;",
+    "cep": "91040070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Irene Capponi Santiago;"
 }

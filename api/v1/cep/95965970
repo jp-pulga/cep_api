@@ -1,12 +1,13 @@
 {
-  "cep": "95965970",
-  "logradouro": "AC Relvado Rua República 345",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Relvado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95965970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Relvado"
+    },
+    "ibge": 4315453,
+    "logradouro": "Rua República, 345  AC Relvado;"
 }

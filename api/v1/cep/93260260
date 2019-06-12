@@ -1,12 +1,12 @@
 {
-  "cep": "93260260",
-  "logradouro": "Rua São Gabriel",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93260260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua São Gabriel;"
 }

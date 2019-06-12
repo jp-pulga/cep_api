@@ -1,12 +1,13 @@
 {
-  "cep": "99190971",
-  "logradouro": "AC Pontão Avenida Júlio Malhos 1701",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pontão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99190971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pontão"
+    },
+    "ibge": 4314779,
+    "logradouro": "Avenida Júlio Malhos, 1701  AC Pontão;"
 }

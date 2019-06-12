@@ -1,12 +1,12 @@
 {
-  "cep": "93032560",
-  "logradouro": "Avenida Indústrias",
-  "bairro": "Fazenda São Borja",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fazenda São Borja;",
+    "cep": "93032560",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Avenida Indústrias;"
 }

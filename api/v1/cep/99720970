@@ -1,12 +1,13 @@
 {
-  "cep": "99720970",
-  "logradouro": "AGC Quatro Irmãos Rua Bagé 136",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quatro Irmãos",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99720970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Quatro Irmãos"
+    },
+    "ibge": 4315313,
+    "logradouro": "Rua Bagé, 136  AGC Quatro Irmãos;"
 }

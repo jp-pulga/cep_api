@@ -1,12 +1,12 @@
 {
-  "cep": "95096440",
-  "logradouro": "Rua São Francisco de Paula",
-  "bairro": "Kayser",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Kayser;",
+    "cep": "95096440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua São Francisco de Paula;"
 }

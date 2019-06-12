@@ -1,12 +1,12 @@
 {
-  "cep": "96825520",
-  "logradouro": "Rua André Beck",
-  "bairro": "Margarida",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Margarida;",
+    "cep": "96825520",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua André Beck;"
 }

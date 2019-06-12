@@ -1,12 +1,13 @@
 {
-  "cep": "96225970",
-  "logradouro": "AC São José do Norte Rua Marechal Floriano 148-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Norte",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96225970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José do Norte"
+    },
+    "ibge": 4318507,
+    "logradouro": "Rua Marechal Floriano, 148-A  AC São José do Norte;"
 }

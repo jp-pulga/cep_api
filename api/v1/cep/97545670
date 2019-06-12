@@ -1,12 +1,12 @@
 {
-  "cep": "97545670",
-  "logradouro": "Rua Rivadávia Joaquim Rodrigues",
-  "bairro": "Jardim Planalto",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Planalto;",
+    "cep": "97545670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Rivadávia Joaquim Rodrigues;"
 }

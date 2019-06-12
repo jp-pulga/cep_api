@@ -1,12 +1,12 @@
 {
-  "cep": "91310971",
-  "logradouro": "AGF Bairro Três Figueiras Avenida Protásio Alves 4276",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "91310971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Protásio Alves, 4276  AGF Bairro Três Figueiras;"
 }

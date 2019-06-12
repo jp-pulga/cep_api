@@ -1,12 +1,13 @@
 {
-  "cep": "96015210",
-  "logradouro": "Avenida Bento Gonçalves de 4592 ao fim - lado par",
-  "bairro": "Fragata",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fragata;",
+    "cep": "96015210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida Bento Gonçalves - de 4592 ao fim - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94828610",
-  "logradouro": "Rua Pinto Bandeira",
-  "bairro": "Maria Regina",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Maria Regina;",
+    "cep": "94828610",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Pinto Bandeira;"
 }

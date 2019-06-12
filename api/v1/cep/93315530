@@ -1,12 +1,12 @@
 {
-  "cep": "93315530",
-  "logradouro": "Rua Quinze de Novembro",
-  "bairro": "Operário",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Operário;",
+    "cep": "93315530",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Quinze de Novembro;"
 }

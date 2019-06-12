@@ -1,12 +1,12 @@
 {
-  "cep": "96080530",
-  "logradouro": "Rua Doutor Protásio Alves",
-  "bairro": "Areal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Areal;",
+    "cep": "96080530",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Doutor Protásio Alves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98803460",
-  "logradouro": "Rua Gabriel Rodrigues de Almeida",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "98803460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Gabriel Rodrigues de Almeida;"
 }

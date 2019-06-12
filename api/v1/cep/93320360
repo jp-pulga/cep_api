@@ -1,12 +1,12 @@
 {
-  "cep": "93320360",
-  "logradouro": "Rua Roca Sales",
-  "bairro": "Rondônia",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rondônia;",
+    "cep": "93320360",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Roca Sales;"
 }

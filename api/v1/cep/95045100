@@ -1,12 +1,12 @@
 {
-  "cep": "95045100",
-  "logradouro": "Rua Carlos Bonatto",
-  "bairro": "Nossa Senhora do Rosário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora do Rosário;",
+    "cep": "95045100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Carlos Bonatto;"
 }

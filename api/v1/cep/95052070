@@ -1,12 +1,12 @@
 {
-  "cep": "95052070",
-  "logradouro": "Rua Atílio Andreazza",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sagrada Família;",
+    "cep": "95052070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Atílio Andreazza;"
 }

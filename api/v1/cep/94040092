@@ -1,12 +1,12 @@
 {
-  "cep": "94040092",
-  "logradouro": "Travessa Esportiva",
-  "bairro": "São Jerônimo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jerônimo;",
+    "cep": "94040092",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Travessa Esportiva;"
 }

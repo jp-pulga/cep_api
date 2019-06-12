@@ -1,12 +1,13 @@
 {
-  "cep": "99265971",
-  "logradouro": "AC Santo Antônio do Palma Rua Jacó Chiodelli 379",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Palma",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99265971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Antônio do Palma"
+    },
+    "ibge": 4317558,
+    "logradouro": "Rua Jacó Chiodelli, 379  AC Santo Antônio do Palma;"
 }

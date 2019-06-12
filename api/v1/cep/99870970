@@ -1,12 +1,13 @@
 {
-  "cep": "99870970",
-  "logradouro": "AC São José do Ouro Rua Dez de Setembro 525",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Ouro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99870970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José do Ouro"
+    },
+    "ibge": 4318606,
+    "logradouro": "Rua Dez de Setembro, 525  AC São José do Ouro;"
 }

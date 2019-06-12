@@ -1,12 +1,12 @@
 {
-  "cep": "94150230",
-  "logradouro": "Rua Quinze de Novembro",
-  "bairro": "Barnabé",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Barnabé;",
+    "cep": "94150230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Quinze de Novembro;"
 }

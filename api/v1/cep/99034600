@@ -1,12 +1,13 @@
 {
-  "cep": "99034600",
-  "logradouro": "Rodovia RS-153",
-  "bairro": "Santa Marta",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Marta;",
+    "cep": "99034600",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "ibge": 4314100,
+    "logradouro": "Rodovia RS-153;"
 }

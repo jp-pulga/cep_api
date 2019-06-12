@@ -1,12 +1,13 @@
 {
-  "cep": "95915971",
-  "logradouro": "AC Santa Clara do Sul Avenida Vinte e Oito de Maio 714",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Clara do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95915971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Clara do Sul"
+    },
+    "ibge": 4316758,
+    "logradouro": "Avenida Vinte e Oito de Maio, 714  AC Santa Clara do Sul;"
 }

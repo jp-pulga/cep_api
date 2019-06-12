@@ -1,12 +1,12 @@
 {
-  "cep": "90110900",
-  "logradouro": "Instituto Previdência do Estado do Rio Grande do Sul Avenida Borges de Medeiros 1945",
-  "bairro": "Praia de Belas",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Praia de Belas;",
+    "cep": "90110900",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Borges de Medeiros, 1945  Instituto Previdência do Estado do Rio Grande do Sul;"
 }

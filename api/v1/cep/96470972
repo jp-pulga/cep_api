@@ -1,12 +1,13 @@
 {
-  "cep": "96470972",
-  "logradouro": "AGC Umbu Rodovia BR 293 s/n",
-  "bairro": "Vila Umbu",
-  "cidade": {
-    "nome": "Pinheiro Machado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Umbu;",
+    "cep": "96470972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pinheiro Machado"
+    },
+    "ibge": 4314506,
+    "logradouro": "Rodovia BR 293, s\/n  AGC Umbu;"
 }

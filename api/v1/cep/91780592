@@ -1,12 +1,12 @@
 {
-  "cep": "91780592",
-  "logradouro": "Rua Chico Xavier",
-  "bairro": "Ponta Grossa",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ponta Grossa;",
+    "cep": "91780592",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Chico Xavier;"
 }

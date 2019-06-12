@@ -1,12 +1,12 @@
 {
-  "cep": "96825630",
-  "logradouro": "Rua Luiza Geiss",
-  "bairro": "Margarida",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Margarida;",
+    "cep": "96825630",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Luiza Geiss;"
 }

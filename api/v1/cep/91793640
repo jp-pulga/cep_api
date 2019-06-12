@@ -1,12 +1,13 @@
 {
-  "cep": "91793640",
-  "logradouro": "Acesso C (SQ 1 2ª Unidade Vicinal)",
-  "bairro": "Restinga",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Restinga;",
+    "cep": "91793640",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "ibge": 4314902,
+    "logradouro": "Acesso C (SQ 1 - 2ª Unidade Vicinal);"
 }

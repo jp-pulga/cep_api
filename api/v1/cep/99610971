@@ -1,12 +1,13 @@
 {
-  "cep": "99610971",
-  "logradouro": "AC Rio dos Índios Rua Romano Padoan 514",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio dos Índios",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99610971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio dos Índios"
+    },
+    "ibge": 4315552,
+    "logradouro": "Rua Romano Padoan, 514  AC Rio dos Índios;"
 }

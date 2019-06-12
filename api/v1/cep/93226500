@@ -1,12 +1,12 @@
 {
-  "cep": "93226500",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Walderez",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Walderez;",
+    "cep": "93226500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Santa Bárbara;"
 }

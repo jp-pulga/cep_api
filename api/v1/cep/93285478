@@ -1,12 +1,12 @@
 {
-  "cep": "93285478",
-  "logradouro": "Rua Hortêncio Guilhermino",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "93285478",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Hortêncio Guilhermino;"
 }

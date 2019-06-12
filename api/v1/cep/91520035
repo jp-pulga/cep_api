@@ -1,12 +1,12 @@
 {
-  "cep": "91520035",
-  "logradouro": "Rua Giovana Xavier",
-  "bairro": "Vila João Pessoa",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila João Pessoa;",
+    "cep": "91520035",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Giovana Xavier;"
 }

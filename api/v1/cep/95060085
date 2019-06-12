@@ -1,12 +1,12 @@
 {
-  "cep": "95060085",
-  "logradouro": "Rua Geraldo José Basso",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "95060085",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Geraldo José Basso;"
 }

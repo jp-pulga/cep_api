@@ -1,12 +1,13 @@
 {
-  "cep": "98985970",
-  "logradouro": "AGC Porto Vera Cruz Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Vera Cruz",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98985970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Vera Cruz"
+    },
+    "ibge": 4315073,
+    "logradouro": "Rua Principal, s\/n  AGC Porto Vera Cruz;"
 }

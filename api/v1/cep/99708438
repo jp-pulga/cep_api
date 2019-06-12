@@ -1,12 +1,12 @@
 {
-  "cep": "99708438",
-  "logradouro": "Rua Santo Onofre",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "99708438",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Santo Onofre;"
 }

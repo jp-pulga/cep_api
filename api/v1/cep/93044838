@@ -1,12 +1,12 @@
 {
-  "cep": "93044838",
-  "logradouro": "Rua Alumínio Econômico",
-  "bairro": "Fazenda São Borja",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fazenda São Borja;",
+    "cep": "93044838",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Alumínio Econômico;"
 }

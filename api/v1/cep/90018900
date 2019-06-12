@@ -1,12 +1,12 @@
 {
-  "cep": "90018900",
-  "logradouro": "Edifício Banco do Estado do Rio Grande do Sul Rua Caldas Júnior 120",
-  "bairro": "Centro Histórico",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro Histórico;",
+    "cep": "90018900",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Caldas Júnior, 120  Edifício Banco do Estado do Rio Grande do Sul;"
 }

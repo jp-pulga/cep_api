@@ -1,12 +1,13 @@
 {
-  "cep": "95740970",
-  "logradouro": "AC Poço das Antas Avenida São Pedro 1213",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poço das Antas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95740970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Poço das Antas"
+    },
+    "ibge": 4314753,
+    "logradouro": "Avenida Poço das Antas, 80 Sala 02  AC Poço das Antas;"
 }

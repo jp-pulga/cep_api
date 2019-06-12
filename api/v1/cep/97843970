@@ -1,12 +1,13 @@
 {
-  "cep": "97843970",
-  "logradouro": "AGC Rolador Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rolador",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97843970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rolador"
+    },
+    "ibge": 4315958,
+    "logradouro": "Rua Principal, s\/n  AGC Rolador;"
 }

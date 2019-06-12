@@ -1,12 +1,12 @@
 {
-  "cep": "99010091",
-  "logradouro": "Rua Quinze de Novembro de 1201/1202 ao fim",
-  "bairro": "Vila Luiza",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Luiza;",
+    "cep": "99010091",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Quinze de Novembro - de 1201\/1202 ao fim;"
 }

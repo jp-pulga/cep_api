@@ -1,12 +1,13 @@
 {
-  "cep": "98590970",
-  "logradouro": "AC Santo Augusto Avenida do Comércio 244",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Augusto",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98590970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Augusto"
+    },
+    "ibge": 4317806,
+    "logradouro": "Avenida do Comércio, 244  AC Santo Augusto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "97543270",
-  "logradouro": "Rua Fidêncio Caiboaté",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "97543270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Fidêncio Caiboaté;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95630974",
-  "logradouro": "AGC Fazenda Pires Estrada Fazenda Pires s/nº",
-  "bairro": "Fazenda Pires",
-  "cidade": {
-    "nome": "Parobé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fazenda Pires;",
+    "cep": "95630974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Parobé"
+    },
+    "ibge": 4314050,
+    "logradouro": "Estrada Fazenda Pires, s\/nº  AGC Fazenda Pires;"
 }

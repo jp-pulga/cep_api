@@ -1,12 +1,12 @@
 {
-  "cep": "95088472",
-  "logradouro": "Rua Arthur José Magnus",
-  "bairro": "São Victor COHAB",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Victor COHAB;",
+    "cep": "95088472",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Arthur José Magnus;"
 }

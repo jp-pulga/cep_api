@@ -1,12 +1,12 @@
 {
-  "cep": "93135054",
-  "logradouro": "Rua Pinhal Alto",
-  "bairro": "Campina",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Campina;",
+    "cep": "93135054",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Pinhal Alto;"
 }

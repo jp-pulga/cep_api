@@ -1,12 +1,12 @@
 {
-  "cep": "97545010",
-  "logradouro": "Rua Adolfho Kurtz",
-  "bairro": "Jardim Planalto",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Planalto;",
+    "cep": "97545010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Adolfho Kurtz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95753000",
-  "logradouro": "Linha São João (Salvador do Sul)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Linha São João (Salvador do Sul)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Linha São João",
+    "cep": "95753000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Salvador do Sul"
+    },
+    "ibge": 4316501
 }

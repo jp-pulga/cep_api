@@ -1,12 +1,12 @@
 {
-  "cep": "97545760",
-  "logradouro": "Rua Bernardo Mem de Sá",
-  "bairro": "Jardim Planalto",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Planalto;",
+    "cep": "97545760",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Bernardo Mem de Sá;"
 }

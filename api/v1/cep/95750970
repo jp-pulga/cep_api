@@ -1,12 +1,13 @@
 {
-  "cep": "95750970",
-  "logradouro": "AC Salvador do Sul Avenida Duque de Caxias 483 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salvador do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95750970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Salvador do Sul"
+    },
+    "ibge": 4316501,
+    "logradouro": "Avenida Duque de Caxias, 483 Sala 01  AC Salvador do Sul;"
 }

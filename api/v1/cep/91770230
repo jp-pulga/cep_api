@@ -1,12 +1,12 @@
 {
-  "cep": "91770230",
-  "logradouro": "Avenida Coronel Pedro Augusto Bittencourt",
-  "bairro": "Espírito Santo",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Espírito Santo;",
+    "cep": "91770230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Coronel Pedro Augusto Bittencourt;"
 }

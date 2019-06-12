@@ -1,12 +1,12 @@
 {
-  "cep": "95064700",
-  "logradouro": "Estrada Municipal Cento e Quarenta e Seis",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "95064700",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Estrada Municipal dos Pinhais;"
 }

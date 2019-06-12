@@ -1,12 +1,12 @@
 {
-  "cep": "94824120",
-  "logradouro": "Rua Santa Maria",
-  "bairro": "Sumaré",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sumaré;",
+    "cep": "94824120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Santa Maria;"
 }

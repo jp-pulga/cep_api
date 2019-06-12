@@ -1,12 +1,12 @@
 {
-  "cep": "93295650",
-  "logradouro": "Rua Santa Fé",
-  "bairro": "Três Marias",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Marias;",
+    "cep": "93295650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Santa Fé;"
 }

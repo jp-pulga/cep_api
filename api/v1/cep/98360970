@@ -1,12 +1,13 @@
 {
-  "cep": "98360970",
-  "logradouro": "AC Rodeio Bonito Avenida do Comércio 804",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rodeio Bonito",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98360970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rodeio Bonito"
+    },
+    "ibge": 4315909,
+    "logradouro": "Avenida do Comércio, 804  AC Rodeio Bonito;"
 }

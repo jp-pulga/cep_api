@@ -1,12 +1,12 @@
 {
-  "cep": "96835636",
-  "logradouro": "Rua Roca Sales",
-  "bairro": "Esmeralda",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Esmeralda;",
+    "cep": "96835636",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Roca Sales;"
 }

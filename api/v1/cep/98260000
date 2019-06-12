@@ -1,12 +1,12 @@
 {
-  "cep": "98260000",
-  "logradouro": "",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nossa Senhora Aparecida (Saldanha Marinho)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida",
+    "cep": "98260000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Saldanha Marinho"
+    },
+    "ibge": 4316436
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93219060",
-  "logradouro": "Rua Porto Mauá",
-  "bairro": "Vargas",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vargas;",
+    "cep": "93219060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Porto Mauá;"
 }

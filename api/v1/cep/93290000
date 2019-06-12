@@ -1,12 +1,12 @@
 {
-  "cep": "93290000",
-  "logradouro": "Rua Roque Gonzales",
-  "bairro": "Santo Inácio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Inácio;",
+    "cep": "93290000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Roque Gonzales;"
 }

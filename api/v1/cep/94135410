@@ -1,12 +1,12 @@
 {
-  "cep": "94135410",
-  "logradouro": "Rua Ponte Preta",
-  "bairro": "Bom Sucesso",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bom Sucesso;",
+    "cep": "94135410",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Ponte Preta;"
 }

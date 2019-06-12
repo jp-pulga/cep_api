@@ -1,12 +1,12 @@
 {
-  "cep": "94150210",
-  "logradouro": "Rua São Borja",
-  "bairro": "Barnabé",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Barnabé;",
+    "cep": "94150210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua São Borja;"
 }

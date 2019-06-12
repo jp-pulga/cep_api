@@ -1,12 +1,12 @@
 {
-  "cep": "97745000",
-  "logradouro": "Nazaré (Santiago)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nazaré (Santiago)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nazaré",
+    "cep": "97745000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santiago"
+    },
+    "ibge": 4317400
 }

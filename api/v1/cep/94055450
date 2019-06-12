@@ -1,12 +1,12 @@
 {
-  "cep": "94055450",
-  "logradouro": "Rua Nestor Jardim",
-  "bairro": "São Jerônimo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jerônimo;",
+    "cep": "94055450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Nestor Jardim;"
 }

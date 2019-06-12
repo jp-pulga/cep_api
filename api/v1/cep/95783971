@@ -1,12 +1,13 @@
 {
-  "cep": "95783971",
-  "logradouro": "AC Pareci Novo Rua Alonso Remi Dietrich 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pareci Novo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95783971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pareci Novo"
+    },
+    "ibge": 4314035,
+    "logradouro": "Rua Alonso Remi Dietrich, 21  AC Pareci Novo;"
 }

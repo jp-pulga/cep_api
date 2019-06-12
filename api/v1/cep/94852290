@@ -1,12 +1,12 @@
 {
-  "cep": "94852290",
-  "logradouro": "Rua C (Res Vale Verde)",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini;",
+    "cep": "94852290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua C (Res Vale Verde);"
 }

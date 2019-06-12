@@ -1,12 +1,12 @@
 {
-  "cep": "92200510",
-  "logradouro": "Rua São Gabriel",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "92200510",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua São Gabriel;"
 }

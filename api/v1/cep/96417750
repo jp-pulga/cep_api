@@ -1,12 +1,12 @@
 {
-  "cep": "96417750",
-  "logradouro": "Rua Davi Mazini",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "96417750",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Davi Mazini;"
 }

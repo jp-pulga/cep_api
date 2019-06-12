@@ -1,12 +1,12 @@
 {
-  "cep": "94075320",
-  "logradouro": "Rua Piraporã",
-  "bairro": "Parque Florido",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Florido;",
+    "cep": "94075320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Piraporã;"
 }

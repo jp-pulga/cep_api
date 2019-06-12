@@ -1,12 +1,12 @@
 {
-  "cep": "95110157",
-  "logradouro": "Rua Vilmar Luiz Paniz (Lot Santiago)",
-  "bairro": "Charqueadas",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Charqueadas;",
+    "cep": "95110157",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Vilmar Luiz Paniz (Lot Santiago);"
 }

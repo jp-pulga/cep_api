@@ -1,12 +1,12 @@
 {
-  "cep": "94955472",
-  "logradouro": "Rua São Gabriel",
-  "bairro": "Vila Anair",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Anair;",
+    "cep": "94955472",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua São Gabriel;"
 }

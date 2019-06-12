@@ -1,12 +1,12 @@
 {
-  "cep": "96207160",
-  "logradouro": "Rua Santiago (ABC X)",
-  "bairro": "Cassino",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cassino;",
+    "cep": "96207160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Santiago (ABC X);"
 }

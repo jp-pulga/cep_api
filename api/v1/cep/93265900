@@ -1,12 +1,12 @@
 {
-  "cep": "93265900",
-  "logradouro": "Condomínio Morada de Esteio Rua Rio Grande 2255",
-  "bairro": "Cristi",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristi;",
+    "cep": "93265900",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Rio Grande, 2255  Condomínio Morada de Esteio;"
 }

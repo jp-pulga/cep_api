@@ -1,12 +1,12 @@
 {
-  "cep": "98801706",
-  "logradouro": "Rua Quinze de Novembro de 556/557 a 1122/1123",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98801706",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Quinze de Novembro - de 556\/557 a 1122\/1123;"
 }

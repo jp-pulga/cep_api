@@ -1,12 +1,12 @@
 {
-  "cep": "97543350",
-  "logradouro": "Rua Juca Ruivo",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "97543350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Juca Ruivo;"
 }

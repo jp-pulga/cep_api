@@ -1,12 +1,11 @@
 {
-  "cep": "98960000",
-  "logradouro": "Santo Cristo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santo Cristo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98960000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Cristo"
+    },
+    "ibge": 4317905
 }

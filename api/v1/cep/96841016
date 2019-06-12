@@ -1,12 +1,12 @@
 {
-  "cep": "96841016",
-  "logradouro": "Rua Santa Clara",
-  "bairro": "Santa Vitória",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Vitória;",
+    "cep": "96841016",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Santa Clara;"
 }

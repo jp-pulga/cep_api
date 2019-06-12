@@ -1,12 +1,13 @@
 {
-  "cep": "97940975",
-  "logradouro": "AC Salvador das Missões Avenida Independencia 931",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salvador das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97940975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Salvador das Missões"
+    },
+    "ibge": 4316477,
+    "logradouro": "Avenida Independencia, 931  AC Salvador das Missões;"
 }

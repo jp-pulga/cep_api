@@ -1,12 +1,12 @@
 {
-  "cep": "94965500",
-  "logradouro": "Travessa Rio Grande do Sul",
-  "bairro": "Parque Espírito Santo",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Espírito Santo;",
+    "cep": "94965500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Travessa Rio Grande do Sul;"
 }

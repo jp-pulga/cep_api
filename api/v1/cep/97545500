@@ -1,12 +1,12 @@
 {
-  "cep": "97545500",
-  "logradouro": "Rua Odorico Gonçalves Ramos",
-  "bairro": "Jardim Planalto",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Planalto;",
+    "cep": "97545500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Odorico Gonçalves Ramos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94040120",
-  "logradouro": "Rua Imbuia",
-  "bairro": "São Jerônimo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jerônimo;",
+    "cep": "94040120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Imbuia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95045246",
-  "logradouro": "Rua Reinaldo Zuffo",
-  "bairro": "Nossa Senhora do Rosário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora do Rosário;",
+    "cep": "95045246",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Reinaldo Zuffo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94198100",
-  "logradouro": "Rua Pinto Bandeira",
-  "bairro": "Vila Cledi",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Cledi;",
+    "cep": "94198100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Pinto Bandeira;"
 }

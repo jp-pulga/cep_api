@@ -1,12 +1,12 @@
 {
-  "cep": "93520670",
-  "logradouro": "Praça Quinze de Novembro",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Guarani;",
+    "cep": "93520670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Praça Quinze de Novembro;"
 }

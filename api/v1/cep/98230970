@@ -1,12 +1,13 @@
 {
-  "cep": "98230970",
-  "logradouro": "AC Quinze de Novembro Rua Dona Etelvina 549",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quinze de Novembro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98230970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Quinze de Novembro"
+    },
+    "ibge": 4315354,
+    "logradouro": "Rua Dona Etelvina, 549  AC Quinze de Novembro;"
 }

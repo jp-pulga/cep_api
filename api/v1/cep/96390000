@@ -1,12 +1,11 @@
 {
-  "cep": "96390000",
-  "logradouro": "Freire (Pedro Osório)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Freire (Pedro Osório)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "96390000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pedro Osório"
+    },
+    "ibge": 4314209
 }

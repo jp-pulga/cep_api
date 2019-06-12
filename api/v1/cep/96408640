@@ -1,12 +1,12 @@
 {
-  "cep": "96408640",
-  "logradouro": "Rua Valdomiro Domingues",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "96408640",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Valdomiro Domingues;"
 }

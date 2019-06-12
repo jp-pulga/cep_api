@@ -1,12 +1,12 @@
 {
-  "cep": "95086380",
-  "logradouro": "Praça José Alves da Silva",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "95086380",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Praça José Alves da Silva;"
 }

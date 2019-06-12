@@ -1,12 +1,12 @@
 {
-  "cep": "96020690",
-  "logradouro": "Rua Rafael Pinto Bandeira de 1424/1425 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96020690",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Rafael Pinto Bandeira - de 1424\/1425 ao fim;"
 }

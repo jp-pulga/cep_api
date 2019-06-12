@@ -1,12 +1,12 @@
 {
-  "cep": "97105330",
-  "logradouro": "Rua Restinga Seca",
-  "bairro": "Camobi",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Camobi;",
+    "cep": "97105330",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Restinga Seca;"
 }

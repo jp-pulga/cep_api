@@ -1,12 +1,12 @@
 {
-  "cep": "90850222",
-  "logradouro": "Acesso D (Vl Correa Lima I)",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "90850222",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso D (Vl Correa Lima I);"
 }

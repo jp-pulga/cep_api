@@ -1,12 +1,12 @@
 {
-  "cep": "97200971",
-  "logradouro": "AGC São Miguel Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Restinga Seca",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97200971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Restinga Seca"
+    },
+    "logradouro": "Rua Principal, s\/n  AGC São Miguel;"
 }

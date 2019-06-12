@@ -1,12 +1,13 @@
 {
-  "cep": "95945970",
-  "logradouro": "AC Pouso Novo Avenida Brasil 494 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pouso Novo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95945970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pouso Novo"
+    },
+    "ibge": 4315131,
+    "logradouro": "Avenida Brasil, 494 Sala 01  AC Pouso Novo;"
 }

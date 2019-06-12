@@ -1,12 +1,12 @@
 {
-  "cep": "99709416",
-  "logradouro": "Rua Vilson Peres dos Santos",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "99709416",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Vilson Peres dos Santos;"
 }

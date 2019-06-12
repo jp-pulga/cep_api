@@ -1,12 +1,12 @@
 {
-  "cep": "93410330",
-  "logradouro": "Rua São Francisco de Paula",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "93410330",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua São Francisco de Paula;"
 }

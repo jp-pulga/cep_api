@@ -1,12 +1,12 @@
 {
-  "cep": "96090660",
-  "logradouro": "Rua São Borja",
-  "bairro": "Laranjal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjal;",
+    "cep": "96090660",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua São Borja;"
 }

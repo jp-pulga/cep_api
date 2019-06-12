@@ -1,12 +1,12 @@
 {
-  "cep": "98150971",
-  "logradouro": "AC Pinhal Grande Rua Quinze de Novembro 926",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pinhal Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98150971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pinhal Grande"
+    },
+    "logradouro": "Rua Quinze de Novembro, 926  AC Pinhal Grande;"
 }

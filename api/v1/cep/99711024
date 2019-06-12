@@ -1,12 +1,12 @@
 {
-  "cep": "99711024",
-  "logradouro": "Rua Angelo José Tonin",
-  "bairro": "Espírito Santo",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Espírito Santo;",
+    "cep": "99711024",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Angelo José Tonin;"
 }

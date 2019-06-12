@@ -1,12 +1,11 @@
 {
-  "cep": "98150000",
-  "logradouro": "Pinhal Grande",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pinhal Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98150000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pinhal Grande"
+    },
+    "ibge": 4314472
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93340480",
-  "logradouro": "Estrada Presidente Lucena de 3001/3002 a 3230/3231",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "93340480",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Estrada Presidente Lucena - de 3001\/3002 a 3230\/3231;"
 }

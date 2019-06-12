@@ -1,12 +1,13 @@
 {
-  "cep": "95755970",
-  "logradouro": "AC São José do Hortêncio Avenida Mathias Steffens 3684",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Hortêncio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95755970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José do Hortêncio"
+    },
+    "ibge": 4318481,
+    "logradouro": "Avenida Mathias Steffens, 3684 Sala 02  AC São José do Hortêncio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94955350",
-  "logradouro": "Rua Rio Grande do Norte",
-  "bairro": "Vila Fátima",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Fátima;",
+    "cep": "94955350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Rio Grande do Norte;"
 }

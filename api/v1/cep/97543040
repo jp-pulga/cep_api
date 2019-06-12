@@ -1,12 +1,12 @@
 {
-  "cep": "97543040",
-  "logradouro": "Rua Antônio Brasil Milano",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "97543040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Antônio Brasil Milano;"
 }

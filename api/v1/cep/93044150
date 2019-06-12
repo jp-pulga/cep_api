@@ -1,12 +1,12 @@
 {
-  "cep": "93044150",
-  "logradouro": "Rua Alberto Augusto Born",
-  "bairro": "Santo André",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo André;",
+    "cep": "93044150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Alberto Augusto Born;"
 }

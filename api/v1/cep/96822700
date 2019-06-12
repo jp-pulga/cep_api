@@ -1,12 +1,13 @@
 {
-  "cep": "96822700",
-  "logradouro": "Rodovia RST-287 até km 102999",
-  "bairro": "Linha Santa Cruz",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Linha Santa Cruz;",
+    "cep": "96822700",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "ibge": 4316808,
+    "logradouro": "Rodovia RSC-287 - até km 102,999;"
 }

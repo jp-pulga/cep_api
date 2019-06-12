@@ -1,12 +1,12 @@
 {
-  "cep": "95500994",
-  "logradouro": "Vila Palmeira RS-10 km 50 nº 4355",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santo Antônio da Patrulha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95500994",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Antônio da Patrulha"
+    },
+    "ibge": 4317608,
+    "logradouro": "RS-10, km 50, nº 4355  CPC Vila Palmeira;"
 }

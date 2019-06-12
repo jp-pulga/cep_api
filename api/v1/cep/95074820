@@ -1,12 +1,12 @@
 {
-  "cep": "95074820",
-  "logradouro": "Rua Padre Sady Domingos Covolan (Lot Res Mônaco II)",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "95074820",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Padre Sady Domingos Covolan (Lot Res Mônaco II);"
 }

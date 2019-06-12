@@ -1,12 +1,12 @@
 {
-  "cep": "96030020",
-  "logradouro": "Rua Professor Francisco de Paula Alves da Fonseca (Lot São Jorge)",
-  "bairro": "Fragata",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fragata;",
+    "cep": "96030020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Professor Francisco de Paula Alves da Fonseca (Lot São Jorge);"
 }

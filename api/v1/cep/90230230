@@ -1,12 +1,12 @@
 {
-  "cep": "90230230",
-  "logradouro": "Avenida Rio Grande",
-  "bairro": "Navegantes",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Navegantes;",
+    "cep": "90230230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Rio Grande;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90230080",
-  "logradouro": "Praça Pinheiro Machado",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "90230080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Pinheiro Machado;"
 }

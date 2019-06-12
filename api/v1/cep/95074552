@@ -1,12 +1,12 @@
 {
-  "cep": "95074552",
-  "logradouro": "Rua Domingos Bonatto",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "95074552",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Domingos Bonatto;"
 }

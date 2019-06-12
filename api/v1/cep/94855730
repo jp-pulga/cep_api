@@ -1,12 +1,12 @@
 {
-  "cep": "94855730",
-  "logradouro": "Rua Santa Rosa",
-  "bairro": "Stella Maris",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Stella Maris;",
+    "cep": "94855730",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Santa Rosa;"
 }

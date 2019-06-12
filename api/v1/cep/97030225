@@ -1,12 +1,12 @@
 {
-  "cep": "97030225",
-  "logradouro": "Rua Antonio Rossi (Vl Rossi)",
-  "bairro": "Pinheiro Machado",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pinheiro Machado;",
+    "cep": "97030225",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Antonio Rossi (Vl Rossi);"
 }

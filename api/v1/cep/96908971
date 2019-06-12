@@ -1,12 +1,13 @@
 {
-  "cep": "96908971",
-  "logradouro": "AC Passa Sete Rua Tarumã 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passa Sete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96908971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passa Sete"
+    },
+    "ibge": 4314068,
+    "logradouro": "Rua Tarumã, 25  AC Passa Sete;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94935620",
-  "logradouro": "Rua Santiago (Vl City Nova)",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "94935620",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Santiago (Vl City Nova);"
 }

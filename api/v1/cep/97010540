@@ -1,12 +1,12 @@
 {
-  "cep": "97010540",
-  "logradouro": "Praça Saldanha Marinho",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97010540",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Praça Saldanha Marinho;"
 }

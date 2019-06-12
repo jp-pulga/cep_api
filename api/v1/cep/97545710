@@ -1,12 +1,12 @@
 {
-  "cep": "97545710",
-  "logradouro": "Rua Sílvio Danton Brunet Rodrigues",
-  "bairro": "Jardim Planalto",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Planalto;",
+    "cep": "97545710",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Sílvio Danton Brunet Rodrigues;"
 }

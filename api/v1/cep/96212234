@@ -1,12 +1,12 @@
 {
-  "cep": "96212234",
-  "logradouro": "Rua Pinto Bandeira de 400/401 ao fim",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "América;",
+    "cep": "96212234",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Pinto Bandeira - de 400\/401 ao fim;"
 }

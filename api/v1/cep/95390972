@@ -1,12 +1,13 @@
 {
-  "cep": "95390972",
-  "logradouro": "AC Pinhal da Serra Avenida Luís Pessoa da Silva Neto 1376",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pinhal da Serra",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95390972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pinhal da Serra"
+    },
+    "ibge": 4314464,
+    "logradouro": "Avenida Luís Pessoa da Silva Neto, 1376  AC Pinhal da Serra;"
 }

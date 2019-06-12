@@ -1,12 +1,12 @@
 {
-  "cep": "93336180",
-  "logradouro": "Rua Santa Maria",
-  "bairro": "Ideal",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ideal;",
+    "cep": "93336180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Santa Maria;"
 }

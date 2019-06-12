@@ -1,12 +1,13 @@
 {
-  "cep": "96170970",
-  "logradouro": "AC São Lourenço do Sul Rua Senador Pinheiro Machado 124",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Lourenço do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96170970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Lourenço do Sul"
+    },
+    "ibge": 4318804,
+    "logradouro": "Rua Senador Pinheiro Machado, 124  AC São Lourenço do Sul;"
 }

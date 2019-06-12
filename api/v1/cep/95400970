@@ -1,12 +1,13 @@
 {
-  "cep": "95400970",
-  "logradouro": "AC São Francisco de Paula Avenida Júlio de Castilhos 422",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Francisco de Paula",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95400970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Francisco de Paula"
+    },
+    "ibge": 4318200,
+    "logradouro": "Avenida Júlio de Castilhos, 422  AC São Francisco de Paula;"
 }

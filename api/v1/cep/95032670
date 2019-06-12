@@ -1,12 +1,12 @@
 {
-  "cep": "95032670",
-  "logradouro": "Rua Beethoven de 2633/2634 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "95032670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Beethoven - de 2633\/2634 ao fim;"
 }

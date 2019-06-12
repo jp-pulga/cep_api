@@ -1,12 +1,12 @@
 {
-  "cep": "98045049",
-  "logradouro": "Rua Tereza Marques Otharan",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "98045049",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Tereza Marques Otharan;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98947971",
-  "logradouro": "AC Porto Mauá Rua Uruguai 252",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Mauá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98947971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Mauá"
+    },
+    "ibge": 4315057,
+    "logradouro": "Rua Uruguai, 252  AC Porto Mauá;"
 }

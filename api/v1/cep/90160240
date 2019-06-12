@@ -1,12 +1,12 @@
 {
-  "cep": "90160240",
-  "logradouro": "Rua Saldanha Marinho",
-  "bairro": "Menino Deus",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Menino Deus;",
+    "cep": "90160240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Saldanha Marinho;"
 }

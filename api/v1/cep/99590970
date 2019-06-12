@@ -1,12 +1,13 @@
 {
-  "cep": "99590970",
-  "logradouro": "AC Rondinha Rua Sete de Setembro 482",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rondinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99590970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rondinha"
+    },
+    "ibge": 4316204,
+    "logradouro": "Rua Sete de Setembro, 482  AC Rondinha;"
 }

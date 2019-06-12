@@ -1,12 +1,13 @@
 {
-  "cep": "96590970",
-  "logradouro": "AC Santana da Boa Vista Rua Coronel Coriolano Castro 304",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana da Boa Vista",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96590970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana da Boa Vista"
+    },
+    "ibge": 4317004,
+    "logradouro": "Rua Coronel Coriolano Castro, 304  AC Santana da Boa Vista;"
 }

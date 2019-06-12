@@ -1,12 +1,12 @@
 {
-  "cep": "97543190",
-  "logradouro": "Rua Coronel Antônio Freitas Valle",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "97543190",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Coronel Antônio Freitas Valle;"
 }

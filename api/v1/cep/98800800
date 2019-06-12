@@ -1,12 +1,13 @@
 {
-  "cep": "98800800",
-  "logradouro": "Rodovia RS-344 até km 95000",
-  "bairro": "Moscom",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Moscom;",
+    "cep": "98800800",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "ibge": 4317509,
+    "logradouro": "Rodovia RS-344 - até km 95,000;"
 }

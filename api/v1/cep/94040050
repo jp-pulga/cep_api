@@ -1,12 +1,12 @@
 {
-  "cep": "94040050",
-  "logradouro": "Rua Maricá",
-  "bairro": "São Jerônimo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jerônimo;",
+    "cep": "94040050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Maricá;"
 }

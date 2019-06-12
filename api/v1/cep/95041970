@@ -1,12 +1,12 @@
 {
-  "cep": "95041970",
-  "logradouro": "CDD São José Rua Alaor Irani Rocha 30",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "95041970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Alaor Irani Rocha, 30  CDD São José;"
 }

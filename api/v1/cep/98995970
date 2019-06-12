@@ -1,12 +1,13 @@
 {
-  "cep": "98995970",
-  "logradouro": "AC Porto Xavier Rua Felipe Camarão 641",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Xavier",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98995970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Xavier"
+    },
+    "ibge": 4315107,
+    "logradouro": "Rua Felipe Camarão, 641  AC Porto Xavier;"
 }

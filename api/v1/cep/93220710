@@ -1,12 +1,12 @@
 {
-  "cep": "93220710",
-  "logradouro": "Travessa São Francisco de Assis",
-  "bairro": "Primor",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Primor;",
+    "cep": "93220710",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Travessa São Francisco de Assis;"
 }

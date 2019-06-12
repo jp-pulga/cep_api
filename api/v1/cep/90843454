@@ -1,12 +1,12 @@
 {
-  "cep": "90843454",
-  "logradouro": "Acesso A (R Neves)",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "90843454",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso A (R Neves);"
 }

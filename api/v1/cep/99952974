@@ -1,12 +1,13 @@
 {
-  "cep": "99952974",
-  "logradouro": "AGC Santa Cecília do Sul Rua Porto Alegre s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cecília do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99952974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cecília do Sul"
+    },
+    "ibge": 4316733,
+    "logradouro": "Rua Porto Alegre, s\/n  AGC Santa Cecília do Sul;"
 }

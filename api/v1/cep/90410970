@@ -1,12 +1,12 @@
 {
-  "cep": "90410970",
-  "logradouro": "AC Avenida Protásio Alves Avenida Protásio Alves 2715 Loja 01",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "90410970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Protásio Alves, 2715 Loja 01  AC Avenida Protásio Alves;"
 }

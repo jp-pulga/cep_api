@@ -1,12 +1,12 @@
 {
-  "cep": "96408630",
-  "logradouro": "Rua Darci Rodrigues Bello",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "96408630",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Darci Rodrigues Bello;"
 }

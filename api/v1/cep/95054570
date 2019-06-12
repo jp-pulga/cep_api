@@ -1,12 +1,12 @@
 {
-  "cep": "95054570",
-  "logradouro": "Rua Ione Randazzo",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sagrada Família;",
+    "cep": "95054570",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Ione Randazzo;"
 }

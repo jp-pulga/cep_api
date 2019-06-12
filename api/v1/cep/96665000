@@ -1,12 +1,12 @@
 {
-  "cep": "96665000",
-  "logradouro": "João Rodrigues (Rio Pardo)",
-  "bairro": "",
-  "cidade": {
-    "nome": "João Rodrigues (Rio Pardo)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "João Rodrigues",
+    "cep": "96665000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Pardo"
+    },
+    "ibge": 4315701
 }

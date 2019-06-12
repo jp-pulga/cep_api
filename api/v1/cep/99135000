@@ -1,12 +1,12 @@
 {
-  "cep": "99135000",
-  "logradouro": "Bela Vista (Passo Fundo)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bela Vista (Passo Fundo)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "99135000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "ibge": 4314100
 }

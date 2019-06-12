@@ -1,12 +1,12 @@
 {
-  "cep": "90410000",
-  "logradouro": "Avenida Protásio Alves até 1077 - lado ímpar",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "90410000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Protásio Alves - até 1077 - lado ímpar;"
 }

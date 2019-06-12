@@ -1,12 +1,13 @@
 {
-  "cep": "95690970",
-  "logradouro": "AC Rolante Rua Pedro Schneider 367",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rolante",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95690970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rolante"
+    },
+    "ibge": 4316006,
+    "logradouro": "Rua Pedro Schneider, 367  AC Rolante;"
 }

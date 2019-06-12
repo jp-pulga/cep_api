@@ -1,12 +1,12 @@
 {
-  "cep": "93224654",
-  "logradouro": "Rua Santa Cecília",
-  "bairro": "Pasqualini",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pasqualini;",
+    "cep": "93224654",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Santa Cecília;"
 }

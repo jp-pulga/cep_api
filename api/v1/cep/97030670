@@ -1,12 +1,12 @@
 {
-  "cep": "97030670",
-  "logradouro": "Rua Bela Vista",
-  "bairro": "Pinheiro Machado",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pinheiro Machado;",
+    "cep": "97030670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Bela Vista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95097465",
-  "logradouro": "Rua Antônio Cavalcanti",
-  "bairro": "São Leopoldo",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Leopoldo;",
+    "cep": "95097465",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Antônio Cavalcanti;"
 }

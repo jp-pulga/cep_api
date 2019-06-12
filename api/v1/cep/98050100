@@ -1,12 +1,12 @@
 {
-  "cep": "98050100",
-  "logradouro": "Rua Santiago J. Pereira",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "98050100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Santiago J. Pereira;"
 }

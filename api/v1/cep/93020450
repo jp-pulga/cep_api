@@ -1,12 +1,12 @@
 {
-  "cep": "93020450",
-  "logradouro": "Rua Santo Inácio",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "93020450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Santo Inácio;"
 }

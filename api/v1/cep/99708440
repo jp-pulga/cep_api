@@ -1,12 +1,12 @@
 {
-  "cep": "99708440",
-  "logradouro": "Rua Santo Anacleto",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "99708440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Santo Anacleto;"
 }

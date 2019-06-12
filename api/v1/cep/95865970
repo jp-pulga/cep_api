@@ -1,12 +1,13 @@
 {
-  "cep": "95865970",
-  "logradouro": "AC Paverama Rua Quatro de Julho 7522",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paverama",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95865970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Paverama"
+    },
+    "ibge": 4314159,
+    "logradouro": "Rua Quatro de Julho, 7522  AC Paverama;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "97730000",
-  "logradouro": "Monte Alegre (Santiago)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Monte Alegre (Santiago)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Monte Alegre",
+    "cep": "97730000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santiago"
+    },
+    "ibge": 4317400
 }

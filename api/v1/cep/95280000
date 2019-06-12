@@ -1,12 +1,11 @@
 {
-  "cep": "95280000",
-  "logradouro": "São José dos Ausentes",
-  "bairro": "",
-  "cidade": {
-    "nome": "São José dos Ausentes",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95280000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José dos Ausentes"
+    },
+    "ibge": 4318622
 }

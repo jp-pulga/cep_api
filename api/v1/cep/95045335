@@ -1,12 +1,12 @@
 {
-  "cep": "95045335",
-  "logradouro": "Rua 10 de Maio",
-  "bairro": "Nossa Senhora do Rosário",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora do Rosário;",
+    "cep": "95045335",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua 10 de Maio;"
 }

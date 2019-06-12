@@ -1,12 +1,13 @@
 {
-  "cep": "99670970",
-  "logradouro": "AC Ronda Alta Avenida Presidente Vargas 1361",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ronda Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99670970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ronda Alta"
+    },
+    "ibge": 4316105,
+    "logradouro": "Avenida Presidente Vargas, 1361 Sala 01  AC Ronda Alta;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95098700",
-  "logradouro": "Travessa Santa Maria",
-  "bairro": "Kayser",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Kayser;",
+    "cep": "95098700",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Travessa Santa Maria;"
 }

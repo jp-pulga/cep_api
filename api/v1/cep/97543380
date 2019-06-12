@@ -1,12 +1,12 @@
 {
-  "cep": "97543380",
-  "logradouro": "Rua Machado de Assis",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "97543380",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Machado de Assis;"
 }

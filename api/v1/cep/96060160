@@ -1,12 +1,13 @@
 {
-  "cep": "96060160",
-  "logradouro": "Avenida Coronel Thomas Flores",
-  "bairro": "Três Vendas",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Vendas;",
+    "cep": "96060160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida Coronel Thomas Flores;"
 }

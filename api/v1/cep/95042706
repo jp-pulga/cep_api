@@ -1,12 +1,12 @@
 {
-  "cep": "95042706",
-  "logradouro": "Rua Guido Oscar Horn",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "95042706",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Guido Oscar Horn;"
 }

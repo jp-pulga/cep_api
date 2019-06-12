@@ -1,12 +1,12 @@
 {
-  "cep": "94100110",
-  "logradouro": "Rua Rio Grande do Norte",
-  "bairro": "Neópolis",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Neópolis;",
+    "cep": "94100110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Rio Grande do Norte;"
 }

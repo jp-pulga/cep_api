@@ -1,12 +1,13 @@
 {
-  "cep": "96817000",
-  "logradouro": "Acesso Rubem Guilherme Kaempf",
-  "bairro": "Germânia",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Germânia;",
+    "cep": "96817000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "ibge": 4316808,
+    "logradouro": "Acesso Rubem Guilherme Kaempf;"
 }

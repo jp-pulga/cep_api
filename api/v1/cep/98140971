@@ -1,12 +1,13 @@
 {
-  "cep": "98140971",
-  "logradouro": "AC Quevedos Rua Iguapei 84",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quevedos",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98140971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Quevedos"
+    },
+    "ibge": 4315321,
+    "logradouro": "Rua Iguapei, 84  AC Quevedos;"
 }

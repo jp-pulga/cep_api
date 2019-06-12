@@ -1,12 +1,12 @@
 {
-  "cep": "91750560",
-  "logradouro": "Rua Jandira Pereira Santos (Vl Monte Cristo)",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "91750560",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Jandira Pereira Santos (Vl Monte Cristo);"
 }

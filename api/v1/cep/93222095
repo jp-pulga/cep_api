@@ -1,12 +1,12 @@
 {
-  "cep": "93222095",
-  "logradouro": "Rua Porto Lucena",
-  "bairro": "Vargas",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vargas;",
+    "cep": "93222095",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Porto Lucena;"
 }

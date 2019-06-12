@@ -1,12 +1,12 @@
 {
-  "cep": "93330010",
-  "logradouro": "Rua Santa Tereza",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "93330010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Santa Tereza;"
 }

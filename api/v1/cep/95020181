@@ -1,12 +1,12 @@
 {
-  "cep": "95020181",
-  "logradouro": "Rua Visconde de Pelotas de 0766/767 a 808/0809",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95020181",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Visconde de Pelotas - de 0766\/767 a 808\/0809;"
 }

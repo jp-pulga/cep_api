@@ -1,12 +1,12 @@
 {
-  "cep": "99070230",
-  "logradouro": "Rua Parobe",
-  "bairro": "Vila Cruzeiro",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Cruzeiro;",
+    "cep": "99070230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Parobe;"
 }

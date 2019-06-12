@@ -1,12 +1,12 @@
 {
-  "cep": "95050430",
-  "logradouro": "Rua Salvador",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "95050430",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Salvador;"
 }

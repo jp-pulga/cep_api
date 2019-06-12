@@ -1,12 +1,13 @@
 {
-  "cep": "99855970",
-  "logradouro": "AC São João da Urtiga Avenida Professor Zeferino 1469",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João da Urtiga",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99855970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São João da Urtiga"
+    },
+    "ibge": 4318424,
+    "logradouro": "Avenida Professor Zeferino, 1469  AC São João da Urtiga;"
 }

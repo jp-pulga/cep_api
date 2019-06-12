@@ -1,12 +1,13 @@
 {
-  "cep": "96083094",
-  "logradouro": "Avenida Adolfo Fetter de 150/151 a 1488/1489",
-  "bairro": "Laranjal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjal;",
+    "cep": "96083094",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida Adolfo Fetter - de 150\/151 a 1488\/1489;"
 }

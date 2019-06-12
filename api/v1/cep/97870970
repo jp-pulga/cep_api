@@ -1,12 +1,13 @@
 {
-  "cep": "97870970",
-  "logradouro": "AC Santo Antônio das Missões Rua José Nunes de Abreu 6055",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97870970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Antônio das Missões"
+    },
+    "ibge": 4317707,
+    "logradouro": "Avenida José Nunes de Abreu, 6055  AC Santo Antônio das Missões;"
 }

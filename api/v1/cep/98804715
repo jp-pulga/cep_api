@@ -1,12 +1,12 @@
 {
-  "cep": "98804715",
-  "logradouro": "Rua Augusto Haller",
-  "bairro": "Haller",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Haller;",
+    "cep": "98804715",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Augusto Haller;"
 }

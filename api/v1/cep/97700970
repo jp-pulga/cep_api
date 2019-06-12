@@ -1,12 +1,13 @@
 {
-  "cep": "97700970",
-  "logradouro": "AC Santiago Avenida Getúlio Vargas 1705",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santiago",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97700970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santiago"
+    },
+    "ibge": 4317400,
+    "logradouro": "Avenida Getúlio Vargas, 1705  AC Santiago;"
 }

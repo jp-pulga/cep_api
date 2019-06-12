@@ -1,12 +1,13 @@
 {
-  "cep": "96050510",
-  "logradouro": "Avenida Cidade de Lisboa",
-  "bairro": "Fragata",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fragata;",
+    "cep": "96050510",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida Cidade de Lisboa;"
 }

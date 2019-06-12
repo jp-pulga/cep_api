@@ -1,12 +1,11 @@
 {
-  "cep": "98230000",
-  "logradouro": "Quinze de Novembro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Quinze de Novembro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98230000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Quinze de Novembro"
+    },
+    "ibge": 4315354
 }

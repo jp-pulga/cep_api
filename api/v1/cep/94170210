@@ -1,12 +1,12 @@
 {
-  "cep": "94170210",
-  "logradouro": "Rua Santa Rosa de Lima",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "94170210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Santa Rosa de Lima;"
 }

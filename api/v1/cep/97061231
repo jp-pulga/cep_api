@@ -1,12 +1,12 @@
 {
-  "cep": "97061231",
-  "logradouro": "Rua Santo Cristo",
-  "bairro": "Diácono João Luiz Pozzobon",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Diácono João Luiz Pozzobon;",
+    "cep": "97061231",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Santo Cristo;"
 }

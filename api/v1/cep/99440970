@@ -1,12 +1,13 @@
 {
-  "cep": "99440970",
-  "logradouro": "AC Salto do Jacuí Avenida Arancilvio Flores 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salto do Jacuí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99440970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Salto do Jacuí"
+    },
+    "ibge": 4316451,
+    "logradouro": "Avenida Arancilvio Flores, 35 Térreo .  AC Salto do Jacuí;"
 }

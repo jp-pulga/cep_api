@@ -1,12 +1,13 @@
 {
-  "cep": "98806800",
-  "logradouro": "Rodovia RS-218 de 1/2 ao fim",
-  "bairro": "Cristina Vontobel",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristina Vontobel;",
+    "cep": "98806800",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "ibge": 4317509,
+    "logradouro": "Rodovia RS-218 - de 1\/2 ao fim;"
 }

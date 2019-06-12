@@ -1,12 +1,12 @@
 {
-  "cep": "94435580",
-  "logradouro": "Rua Salto do Jacui",
-  "bairro": "Querência",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Querência;",
+    "cep": "94435580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Salto do Jacui;"
 }

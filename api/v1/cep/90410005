@@ -1,12 +1,12 @@
 {
-  "cep": "90410005",
-  "logradouro": "Avenida Protásio Alves de 1080 a 1738 - lado par",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "90410005",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Protásio Alves - de 1080 a 1738 - lado par;"
 }

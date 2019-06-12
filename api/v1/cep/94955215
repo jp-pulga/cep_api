@@ -1,12 +1,12 @@
 {
-  "cep": "94955215",
-  "logradouro": "Rua Quaraí",
-  "bairro": "Vila Anair",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Anair;",
+    "cep": "94955215",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Quaraí;"
 }

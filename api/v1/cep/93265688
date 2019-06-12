@@ -1,12 +1,12 @@
 {
-  "cep": "93265688",
-  "logradouro": "Rua Pelotas",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "93265688",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Pelotas;"
 }

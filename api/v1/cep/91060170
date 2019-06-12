@@ -1,12 +1,12 @@
 {
-  "cep": "91060170",
-  "logradouro": "Rua Rolante",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "91060170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Rolante;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91430403",
-  "logradouro": "Passagem Sete (Cefer Dois)",
-  "bairro": "Jardim Carvalho",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Carvalho;",
+    "cep": "91430403",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Passagem Sete (Cefer Dois);"
 }

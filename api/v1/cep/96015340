@@ -1,12 +1,13 @@
 {
-  "cep": "96015340",
-  "logradouro": "Avenida Doutor Albuquerque Barros",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96015340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida Doutor Albuquerque Barros;"
 }

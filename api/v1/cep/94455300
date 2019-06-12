@@ -1,12 +1,12 @@
 {
-  "cep": "94455300",
-  "logradouro": "Rua Cristo Rei",
-  "bairro": "Santo Onofre",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Onofre;",
+    "cep": "94455300",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Cristo Rei;"
 }

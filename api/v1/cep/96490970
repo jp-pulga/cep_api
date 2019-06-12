@@ -1,12 +1,12 @@
 {
-  "cep": "96490970",
-  "logradouro": "AC Piratini Rua Quinze de Novembro 117",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piratini",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96490970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Piratini"
+    },
+    "logradouro": "Rua Quinze de Novembro, 117  AC Piratini;"
 }

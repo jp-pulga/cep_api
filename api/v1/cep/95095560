@@ -1,12 +1,12 @@
 {
-  "cep": "95095560",
-  "logradouro": "Rua Santa Tereza",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "95095560",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Santa Tereza;"
 }

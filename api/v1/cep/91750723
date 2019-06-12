@@ -1,12 +1,13 @@
 {
-  "cep": "91750723",
-  "logradouro": "Acesso A (Cond Vl Nova)",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "91750723",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "ibge": 4314902,
+    "logradouro": "Acesso A (Cond Vl Nova);"
 }

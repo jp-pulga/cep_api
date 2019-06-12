@@ -1,12 +1,13 @@
 {
-  "cep": "97700971",
-  "logradouro": "CDD Santiago Rua Independência 2101",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santiago",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97700971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santiago"
+    },
+    "ibge": 4317400,
+    "logradouro": "Rua Independência, 2101  CDD Santiago;"
 }

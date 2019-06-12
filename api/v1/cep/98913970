@@ -1,12 +1,12 @@
 {
-  "cep": "98913970",
-  "logradouro": "AGC Quaraim Rua Monsenhor Testani 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quaraim (Três de Maio)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro\/Quaraim",
+    "cep": "98913970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três de Maio"
+    },
+    "logradouro": "Rua Monsenhor Testani, 34  AGC Quaraim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98270970",
-  "logradouro": "AC Pejuçara Rua Antonio Alves Ramos 1689",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pejuçara",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98270970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pejuçara"
+    },
+    "ibge": 4314308,
+    "logradouro": "Rua Antonio Alves Ramos, 1689  AC Pejuçara;"
 }

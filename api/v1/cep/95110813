@@ -1,12 +1,12 @@
 {
-  "cep": "95110813",
-  "logradouro": "Rua Mário Domingos Mezzomo (Lot Santiago)",
-  "bairro": "Charqueadas",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Charqueadas;",
+    "cep": "95110813",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Mário Domingos Mezzomo (Lot Santiago);"
 }

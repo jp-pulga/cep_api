@@ -1,12 +1,13 @@
 {
-  "cep": "96823046",
-  "logradouro": "Alameda dos Aracuãs (Lot. Res. Pássaros)",
-  "bairro": "Jardim Europa",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Europa;",
+    "cep": "96823046",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "ibge": 4316808,
+    "logradouro": "Alameda dos Aracuãs (Lot. Res. Pássaros);"
 }

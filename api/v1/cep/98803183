@@ -1,12 +1,12 @@
 {
-  "cep": "98803183",
-  "logradouro": "Rua Quinze de Novembro de 3840/3841 ao fim",
-  "bairro": "Pascotini",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pascotini;",
+    "cep": "98803183",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Quinze de Novembro - de 3840\/3841 ao fim;"
 }

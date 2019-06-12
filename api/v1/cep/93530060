@@ -1,12 +1,12 @@
 {
-  "cep": "93530060",
-  "logradouro": "Rua Rui Inácio Simon (Lot Vl Redentora)",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "93530060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Rui Inácio Simon (Lot Vl Redentora);"
 }

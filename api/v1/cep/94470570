@@ -1,12 +1,12 @@
 {
-  "cep": "94470570",
-  "logradouro": "Rua Rolante",
-  "bairro": "Viamópolis",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Viamópolis;",
+    "cep": "94470570",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Rolante;"
 }

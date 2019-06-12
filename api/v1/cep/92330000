@@ -1,12 +1,12 @@
 {
-  "cep": "92330000",
-  "logradouro": "Avenida Rio Grande do Sul até 2499/2500",
-  "bairro": "Mathias Velho",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mathias Velho;",
+    "cep": "92330000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Avenida Rio Grande do Sul - até 2499\/2500;"
 }

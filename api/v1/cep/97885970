@@ -1,12 +1,13 @@
 {
-  "cep": "97885970",
-  "logradouro": "AC Pirapó Rua Henrique Sommer 643",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pirapó",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97885970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pirapó"
+    },
+    "ibge": 4314555,
+    "logradouro": "Rua Henrique Sommer, 643  AC Pirapó;"
 }

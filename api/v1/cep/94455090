@@ -1,12 +1,12 @@
 {
-  "cep": "94455090",
-  "logradouro": "Rua Santo Augusto",
-  "bairro": "Martinica",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Martinica;",
+    "cep": "94455090",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Santo Augusto;"
 }

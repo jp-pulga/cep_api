@@ -1,12 +1,13 @@
 {
-  "cep": "96083389",
-  "logradouro": "Avenida dos Plátanos (Lot Marina Ilha Verde)",
-  "bairro": "São Gonçalo",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Gonçalo;",
+    "cep": "96083389",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "ibge": 4314407,
+    "logradouro": "Avenida dos Plátanos (Lot Marina Ilha Verde);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96840670",
-  "logradouro": "Rua Sananduva",
-  "bairro": "Santa Vitória",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Vitória;",
+    "cep": "96840670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Sananduva;"
 }

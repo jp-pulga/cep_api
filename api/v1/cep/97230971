@@ -1,12 +1,13 @@
 {
-  "cep": "97230971",
-  "logradouro": "AC São João do Polêsine Avenida São João 1229",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Polêsine",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97230971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São João do Polêsine"
+    },
+    "ibge": 4318432,
+    "logradouro": "Avenida São João, 1229  AC São João do Polêsine;"
 }

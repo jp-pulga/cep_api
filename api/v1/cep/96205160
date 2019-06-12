@@ -1,12 +1,12 @@
 {
-  "cep": "96205160",
-  "logradouro": "Rua São Borja",
-  "bairro": "Cassino",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cassino;",
+    "cep": "96205160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua São Borja;"
 }

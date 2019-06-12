@@ -1,12 +1,12 @@
 {
-  "cep": "99845000",
-  "logradouro": "Rio Tigre (Sananduva)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Tigre (Sananduva)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Tigre",
+    "cep": "99845000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sananduva"
+    },
+    "ibge": 4316600
 }

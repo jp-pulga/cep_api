@@ -1,12 +1,12 @@
 {
-  "cep": "93270130",
-  "logradouro": "Rua Pinto Bandeira",
-  "bairro": "Três Portos",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Portos;",
+    "cep": "93270130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Pinto Bandeira;"
 }

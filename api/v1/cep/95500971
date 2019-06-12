@@ -1,12 +1,13 @@
 {
-  "cep": "95500971",
-  "logradouro": "UD Santo Antônio da Patrulha Rua Capitão Antônio Nunes Benfica 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio da Patrulha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95500971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Antônio da Patrulha"
+    },
+    "ibge": 4317608,
+    "logradouro": "Rua Capitão Antônio Nunes Benfica, 29  UD Santo Antônio da Patrulha;"
 }

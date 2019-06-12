@@ -1,12 +1,12 @@
 {
-  "cep": "96820710",
-  "logradouro": "Travessa Quinze de Novembro",
-  "bairro": "Santo Inácio",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Inácio;",
+    "cep": "96820710",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Travessa Quinze de Novembro;"
 }

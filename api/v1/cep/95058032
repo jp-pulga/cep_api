@@ -1,12 +1,12 @@
 {
-  "cep": "95058032",
-  "logradouro": "Rua Domingos Rech",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "95058032",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Domingos Rech;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96660000",
-  "logradouro": "Rincão Del Rei (Rio Pardo)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rincão Del Rei (Rio Pardo)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rincão Del Rei",
+    "cep": "96660000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Pardo"
+    },
+    "ibge": 4315701
 }

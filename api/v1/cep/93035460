@@ -1,12 +1,12 @@
 {
-  "cep": "93035460",
-  "logradouro": "Rua Armando Carlo Stumpf",
-  "bairro": "Fazenda São Borja",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fazenda São Borja;",
+    "cep": "93035460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Armando Carlo Stumpf;"
 }

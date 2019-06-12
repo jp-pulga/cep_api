@@ -1,12 +1,12 @@
 {
-  "cep": "93218660",
-  "logradouro": "Rua Chuva de Ouro (Lot Jd Anchieta)",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "93218660",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Chuva de Ouro (Lot Jd Anchieta);"
 }

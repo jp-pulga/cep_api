@@ -1,12 +1,11 @@
 {
-  "cep": "98962000",
-  "logradouro": "Sírio (Santo Cristo)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Sírio (Santo Cristo)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98962000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Cristo"
+    },
+    "ibge": 4317905
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98250970",
-  "logradouro": "AC Saldanha Marinho Avenida Silva Tavares 1634",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Saldanha Marinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98250970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Saldanha Marinho"
+    },
+    "ibge": 4316436,
+    "logradouro": "Avenida Silva Tavares, 1634  AC Saldanha Marinho;"
 }

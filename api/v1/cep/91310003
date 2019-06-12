@@ -1,12 +1,12 @@
 {
-  "cep": "91310003",
-  "logradouro": "Avenida Protásio Alves de 5687 a 7999 - lado ímpar",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "91310003",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Protásio Alves - de 5687 a 7999 - lado ímpar;"
 }

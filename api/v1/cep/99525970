@@ -1,12 +1,13 @@
 {
-  "cep": "99525970",
-  "logradouro": "AGC Santo Antônio do Planalto Avenida Jorge Muller 1075",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Planalto",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99525970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Antônio do Planalto"
+    },
+    "ibge": 4317756,
+    "logradouro": "Avenida Jorge Muller, 1075  AGC Santo Antônio do Planalto;"
 }
