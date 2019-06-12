@@ -1,12 +1,13 @@
 {
-  "cep": "68555370",
-  "logradouro": "Rua Palmeiras",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68555370",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Palmeiras;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68015030",
-  "logradouro": "Rua São Paulo de 251/252 ao fim",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "68015030",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua São Paulo - de 251\/252 ao fim;"
 }

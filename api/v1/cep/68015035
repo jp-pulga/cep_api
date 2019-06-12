@@ -1,12 +1,13 @@
 {
-  "cep": "68015035",
-  "logradouro": "Passagem Santa Inês",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "68015035",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Passagem Santa Inês;"
 }

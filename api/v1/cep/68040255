@@ -1,12 +1,13 @@
 {
-  "cep": "68040255",
-  "logradouro": "Rua Vera Paz",
-  "bairro": "Salé",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Salé;",
+    "cep": "68040255",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua Vera Paz;"
 }

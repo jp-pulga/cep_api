@@ -1,12 +1,13 @@
 {
-  "cep": "68038010",
-  "logradouro": "Rua Vera Paz",
-  "bairro": "Nova Vitória",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Vitória;",
+    "cep": "68038010",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua Vera Paz;"
 }

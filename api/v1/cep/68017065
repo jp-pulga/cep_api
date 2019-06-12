@@ -1,12 +1,13 @@
 {
-  "cep": "68017065",
-  "logradouro": "Rua Bom Pastor",
-  "bairro": "Área Verde",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Área Verde;",
+    "cep": "68017065",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua Bom Pastor;"
 }

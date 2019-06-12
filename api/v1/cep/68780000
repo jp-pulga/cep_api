@@ -1,12 +1,11 @@
 {
-  "cep": "68780000",
-  "logradouro": "Vigia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Vigia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68780000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Vigia"
+    },
+    "ibge": 1508209
 }

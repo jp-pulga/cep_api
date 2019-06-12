@@ -1,12 +1,13 @@
 {
-  "cep": "68555006",
-  "logradouro": "Avenida Lauro Sodré até 444/445",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68555006",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Avenida Lauro Sodré - até 444\/445;"
 }

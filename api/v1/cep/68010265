@@ -1,12 +1,13 @@
 {
-  "cep": "68010265",
-  "logradouro": "Beco da Paz",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "68010265",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Beco da Paz;"
 }

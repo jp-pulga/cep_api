@@ -1,12 +1,13 @@
 {
-  "cep": "68020118",
-  "logradouro": "Travessa José do Patrocínio até 162/163",
-  "bairro": "Diamantino",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Diamantino;",
+    "cep": "68020118",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Travessa José do Patrocínio - até 162\/163;"
 }

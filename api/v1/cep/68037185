@@ -1,12 +1,13 @@
 {
-  "cep": "68037185",
-  "logradouro": "Avenida D lado par",
-  "bairro": "Salvação",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Salvação;",
+    "cep": "68037185",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Gavião-real (Res Salvação) - lado par;"
 }

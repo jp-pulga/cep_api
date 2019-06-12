@@ -1,12 +1,13 @@
 {
-  "cep": "68557768",
-  "logradouro": "Alameda Zurique",
-  "bairro": "Condomínio Nova Suíça Residence",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Condomínio Nova Suíça Residence;",
+    "cep": "68557768",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Alameda Zurique;"
 }

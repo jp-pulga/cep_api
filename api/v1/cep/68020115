@@ -1,12 +1,13 @@
 {
-  "cep": "68020115",
-  "logradouro": "Rua da Paz",
-  "bairro": "Diamantino",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Diamantino;",
+    "cep": "68020115",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua da Paz;"
 }

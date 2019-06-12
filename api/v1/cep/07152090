@@ -1,12 +1,12 @@
 {
-  "cep": "07152090",
-  "logradouro": "Rua Vigia",
-  "bairro": "Parque Santos Dumont",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Santos Dumont;",
+    "cep": "07152090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Vigia;"
 }

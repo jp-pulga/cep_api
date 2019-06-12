@@ -1,12 +1,13 @@
 {
-  "cep": "68557692",
-  "logradouro": "Rua Alemanha",
-  "bairro": "Park das Nações",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Park das Nações;",
+    "cep": "68557692",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Alemanha;"
 }

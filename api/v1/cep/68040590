@@ -1,12 +1,13 @@
 {
-  "cep": "68040590",
-  "logradouro": "Passagem Nossa Senhora das Graças",
-  "bairro": "Santa Clara",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Clara;",
+    "cep": "68040590",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Passagem Nossa Senhora das Graças;"
 }

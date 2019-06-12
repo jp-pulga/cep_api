@@ -1,12 +1,13 @@
 {
-  "cep": "68037170",
-  "logradouro": "Avenida A (Res Salvação) lado par",
-  "bairro": "Salvação",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Salvação;",
+    "cep": "68037170",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Pirelli (Res Salvação) - lado par;"
 }

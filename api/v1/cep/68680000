@@ -1,12 +1,11 @@
 {
-  "cep": "68680000",
-  "logradouro": "Tomé-Açú",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tomé-Açú",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68680000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tomé-Açu"
+    },
+    "ibge": 1508001
 }

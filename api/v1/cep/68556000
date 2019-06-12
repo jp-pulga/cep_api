@@ -1,12 +1,13 @@
 {
-  "cep": "68556000",
-  "logradouro": "Avenida Lauro Sodré",
-  "bairro": "Tanaka",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Tanaka;",
+    "cep": "68556000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Avenida Lauro Sodré;"
 }

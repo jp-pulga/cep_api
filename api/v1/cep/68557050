@@ -1,12 +1,13 @@
 {
-  "cep": "68557050",
-  "logradouro": "Rua Paraná",
-  "bairro": "Marajoara",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marajoara;",
+    "cep": "68557050",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Paraná;"
 }

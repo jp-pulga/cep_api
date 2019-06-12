@@ -1,12 +1,13 @@
 {
-  "cep": "68037150",
-  "logradouro": "Rua O (Res Salvação)",
-  "bairro": "Salvação",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Salvação;",
+    "cep": "68037150",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua Papagaio Moleiro (Res Salvação);"
 }

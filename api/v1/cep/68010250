@@ -1,12 +1,13 @@
 {
-  "cep": "68010250",
-  "logradouro": "Avenida Rosa Passos de 446/447 a 1973/1974",
-  "bairro": "Santíssimo",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santíssimo;",
+    "cep": "68010250",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Rosa Passos - de 446\/447 a 1973\/1974;"
 }

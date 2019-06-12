@@ -1,12 +1,12 @@
 {
-  "cep": "68049040",
-  "logradouro": "Rua São Cristóvão",
-  "bairro": "Vigia",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vigia;",
+    "cep": "68049040",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua São Cristóvão;"
 }

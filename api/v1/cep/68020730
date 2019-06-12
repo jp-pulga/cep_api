@@ -1,12 +1,13 @@
 {
-  "cep": "68020730",
-  "logradouro": "Avenida Rosa Passos de 1975/1976 ao fim",
-  "bairro": "Livramento",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Livramento;",
+    "cep": "68020730",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Rosa Passos - de 1975\/1976 ao fim;"
 }

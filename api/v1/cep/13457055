@@ -1,12 +1,12 @@
 {
-  "cep": "13457055",
-  "logradouro": "Rua Coelho Neto",
-  "bairro": "Jardim Paraíso",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paraíso;",
+    "cep": "13457055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Coelho Neto;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68015460",
-  "logradouro": "Avenida Palhão até 974/975",
-  "bairro": "São José Operário",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São José Operário;",
+    "cep": "68015460",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Palhão - até 974\/975;"
 }

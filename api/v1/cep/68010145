@@ -1,12 +1,13 @@
 {
-  "cep": "68010145",
-  "logradouro": "Avenida Palhão",
-  "bairro": "Aeroporto Velho",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Aeroporto Velho;",
+    "cep": "68010145",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Palhão;"
 }

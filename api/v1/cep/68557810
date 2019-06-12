@@ -1,12 +1,13 @@
 {
-  "cep": "68557810",
-  "logradouro": "Avenida B",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "68557810",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Avenida B;"
 }

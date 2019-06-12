@@ -1,12 +1,11 @@
 {
-  "cep": "68660000",
-  "logradouro": "São Miguel do Guamá",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Miguel do Guamá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68660000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Miguel do Guamá"
+    },
+    "ibge": 1507607
 }

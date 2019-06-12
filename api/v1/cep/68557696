@@ -1,12 +1,13 @@
 {
-  "cep": "68557696",
-  "logradouro": "Rua Holanda",
-  "bairro": "Park das Nações",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Park das Nações;",
+    "cep": "68557696",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Holanda;"
 }

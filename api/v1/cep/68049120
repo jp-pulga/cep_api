@@ -1,12 +1,12 @@
 {
-  "cep": "68049120",
-  "logradouro": "Rua Nova União",
-  "bairro": "Vigia",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vigia;",
+    "cep": "68049120",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua Nova União;"
 }

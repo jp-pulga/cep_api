@@ -1,12 +1,13 @@
 {
-  "cep": "68037100",
-  "logradouro": "Avenida C (Res Salvação) lado ímpar",
-  "bairro": "Salvação",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Salvação;",
+    "cep": "68037100",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Avenida Pardal (Res Salvação) - lado ímpar;"
 }

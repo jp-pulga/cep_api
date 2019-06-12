@@ -1,12 +1,13 @@
 {
-  "cep": "68030041",
-  "logradouro": "Travessa Paraíba",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "68030041",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Travessa Paraíba;"
 }

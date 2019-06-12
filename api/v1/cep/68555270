@@ -1,12 +1,13 @@
 {
-  "cep": "68555270",
-  "logradouro": "Rua Paraná",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68555270",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Paraná;"
 }

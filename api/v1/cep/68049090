@@ -1,12 +1,12 @@
 {
-  "cep": "68049090",
-  "logradouro": "Rua das Seringueiras",
-  "bairro": "Vigia",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vigia;",
+    "cep": "68049090",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua das Seringueiras;"
 }

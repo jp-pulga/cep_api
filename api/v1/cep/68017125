@@ -1,12 +1,13 @@
 {
-  "cep": "68017125",
-  "logradouro": "Rua Pastor Daniel Braz",
-  "bairro": "Área Verde",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Área Verde;",
+    "cep": "68017125",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua Pastor Daniel Braz;"
 }

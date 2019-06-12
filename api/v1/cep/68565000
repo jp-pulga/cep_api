@@ -1,12 +1,11 @@
 {
-  "cep": "68565000",
-  "logradouro": "Santa Maria das Barreiras",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Maria das Barreiras",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68565000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santa Maria das Barreiras"
+    },
+    "ibge": 1506583
 }

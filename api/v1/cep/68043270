@@ -1,12 +1,12 @@
 {
-  "cep": "68043270",
-  "logradouro": "Travessa Novo Horizonte",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Ipanema;",
+    "cep": "68043270",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Travessa Novo Horizonte;"
 }

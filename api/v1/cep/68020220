@@ -1,12 +1,13 @@
 {
-  "cep": "68020220",
-  "logradouro": "Travessa Papoula de 817/818 ao fim",
-  "bairro": "Aeroporto Velho",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Aeroporto Velho;",
+    "cep": "68020220",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Travessa Papoula - de 817\/818 ao fim;"
 }

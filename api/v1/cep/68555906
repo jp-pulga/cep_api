@@ -1,12 +1,13 @@
 {
-  "cep": "68555906",
-  "logradouro": "Madeirera Karson do Pará S/A Rua Amazonas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68555906",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Amazonas, s\/n  Madeirera Karson do Pará S\/A;"
 }

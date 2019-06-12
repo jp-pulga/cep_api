@@ -1,12 +1,11 @@
 {
-  "cep": "68620000",
-  "logradouro": "Viseu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Viseu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68620000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Viseu"
+    },
+    "ibge": 1508308
 }

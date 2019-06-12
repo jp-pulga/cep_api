@@ -1,12 +1,13 @@
 {
-  "cep": "68557125",
-  "logradouro": "Rua Padre Antônio Vieira",
-  "bairro": "Selectas",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Selectas;",
+    "cep": "68557125",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Padre Antônio Vieira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68558899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Xinguara",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Área Rural de Xinguara;",
+    "cep": "68558899",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Área Rural;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68557694",
-  "logradouro": "Rua Inglaterra",
-  "bairro": "Park das Nações",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Park das Nações;",
+    "cep": "68557694",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Rua Inglaterra;"
 }

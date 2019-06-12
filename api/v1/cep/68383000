@@ -1,12 +1,11 @@
 {
-  "cep": "68383000",
-  "logradouro": "Vitória do Xingu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Vitória do Xingu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68383000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Vitória do Xingu"
+    },
+    "ibge": 1508357
 }

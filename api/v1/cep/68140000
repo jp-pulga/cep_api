@@ -1,12 +1,11 @@
 {
-  "cep": "68140000",
-  "logradouro": "Uruará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Uruará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68140000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Uruará"
+    },
+    "ibge": 1508159
 }

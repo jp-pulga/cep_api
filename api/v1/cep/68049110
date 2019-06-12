@@ -1,12 +1,12 @@
 {
-  "cep": "68049110",
-  "logradouro": "Travessa São Cristóvão",
-  "bairro": "Vigia",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vigia;",
+    "cep": "68049110",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Travessa São Cristóvão;"
 }

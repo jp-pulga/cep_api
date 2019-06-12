@@ -1,12 +1,13 @@
 {
-  "cep": "68043160",
-  "logradouro": "Rua Francisco Parente",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Ipanema;",
+    "cep": "68043160",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Rua Francisco Parente;"
 }

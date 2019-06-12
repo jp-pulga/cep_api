@@ -1,12 +1,13 @@
 {
-  "cep": "68557784",
-  "logradouro": "Alameda St. Montreux",
-  "bairro": "Condomínio Nova Suíça Residence",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Condomínio Nova Suíça Residence;",
+    "cep": "68557784",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Alameda St. Montreux;"
 }

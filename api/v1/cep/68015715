@@ -1,12 +1,12 @@
 {
-  "cep": "68015715",
-  "logradouro": "Rua Uruará",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "68015715",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua Uruará;"
 }

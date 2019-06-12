@@ -1,12 +1,12 @@
 {
-  "cep": "68025545",
-  "logradouro": "Rua Brasil Novo",
-  "bairro": "Nova República",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova República;",
+    "cep": "68025545",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua Brasil Novo;"
 }

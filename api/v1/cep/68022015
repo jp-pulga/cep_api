@@ -1,12 +1,13 @@
 {
-  "cep": "68022015",
-  "logradouro": "Travessa José do Patrocínio de 503/504 ao fim",
-  "bairro": "Santo André",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santo André;",
+    "cep": "68022015",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "ibge": 1506807,
+    "logradouro": "Travessa José do Patrocínio - de 503\/504 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68557660",
-  "logradouro": "Avenida Cristal",
-  "bairro": "Jardim Goiás",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Goiás;",
+    "cep": "68557660",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Avenida Cristal;"
 }

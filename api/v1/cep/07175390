@@ -1,12 +1,12 @@
 {
-  "cep": "07175390",
-  "logradouro": "Rua Santa Izabel do Pará",
-  "bairro": "Jardim do Triunfo",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim do Triunfo;",
+    "cep": "07175390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Santa Izabel do Pará;"
 }

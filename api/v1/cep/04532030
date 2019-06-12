@@ -1,12 +1,12 @@
 {
-  "cep": "04532030",
-  "logradouro": "Rua Cônego Roque Viggiano",
-  "bairro": "Itaim Bibi",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Itaim Bibi;",
+    "cep": "04532030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Cônego Roque Viggiano;"
 }

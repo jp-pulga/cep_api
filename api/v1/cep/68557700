@@ -1,12 +1,13 @@
 {
-  "cep": "68557700",
-  "logradouro": "Avenida Corinto",
-  "bairro": "Condomínio Residencial Maranata",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Condomínio Residencial Maranata;",
+    "cep": "68557700",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "ibge": 1508407,
+    "logradouro": "Avenida Corinto;"
 }

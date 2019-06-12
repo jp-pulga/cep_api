@@ -1,12 +1,13 @@
 {
-  "cep": "68383900",
-  "logradouro": "Vila Residencial de Belo Monte Rodovia BR-230 s/n Quilômetro 55",
-  "bairro": "Belo Monte",
-  "cidade": {
-    "nome": "Vitória do Xingu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Belo Monte;",
+    "cep": "68383900",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Vitória do Xingu"
+    },
+    "ibge": 1508357,
+    "logradouro": "Rodovia BR-230 s\/n Quilômetro 55  Vila Residencial de Belo Monte;"
 }

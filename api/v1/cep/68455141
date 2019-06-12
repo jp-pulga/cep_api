@@ -1,12 +1,12 @@
 {
-  "cep": "68455141",
-  "logradouro": "Rua Pedro Vigia",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "68455141",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "logradouro": "Rua Pedro Vigia;"
 }

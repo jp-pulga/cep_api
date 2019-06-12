@@ -1,12 +1,11 @@
 {
-  "cep": "68798000",
-  "logradouro": "Santa Bárbara do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Bárbara do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68798000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santa Bárbara do Pará"
+    },
+    "ibge": 1506351
 }

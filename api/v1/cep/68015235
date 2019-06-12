@@ -1,12 +1,12 @@
 {
-  "cep": "68015235",
-  "logradouro": "Rua Uruará",
-  "bairro": "Uruará",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Uruará;",
+    "cep": "68015235",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua Uruará;"
 }

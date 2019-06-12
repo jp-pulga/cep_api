@@ -1,12 +1,12 @@
 {
-  "cep": "94460070",
-  "logradouro": "Rua Pão de Açúcar",
-  "bairro": "São Tomé",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Tomé;",
+    "cep": "94460070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Pão de Açúcar;"
 }
