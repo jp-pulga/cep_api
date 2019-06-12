@@ -1,12 +1,12 @@
 {
-  "cep": "89227150",
-  "logradouro": "Rua Palma Sola",
-  "bairro": "Iririú",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Iririú;",
+    "cep": "89227150",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Palma Sola;"
 }

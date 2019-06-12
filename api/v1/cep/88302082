@@ -1,12 +1,12 @@
 {
-  "cep": "88302082",
-  "logradouro": "Travessa Nossa Senhora da Penha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88302082",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Travessa Nossa Senhora da Penha;"
 }

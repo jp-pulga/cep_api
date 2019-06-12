@@ -1,12 +1,13 @@
 {
-  "cep": "88132160",
-  "logradouro": "Rua Lidia Bach Scheidt",
-  "bairro": "Passa Vinte",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passa Vinte;",
+    "cep": "88132160",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Lidia Bach Scheidt;"
 }

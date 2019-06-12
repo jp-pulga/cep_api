@@ -1,12 +1,13 @@
 {
-  "cep": "88135675",
-  "logradouro": "Rua Rafael Schreiber",
-  "bairro": "Alto Aririú",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Alto Aririú;",
+    "cep": "88135675",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Rafael Schreiber;"
 }

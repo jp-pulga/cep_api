@@ -1,12 +1,13 @@
 {
-  "cep": "88135155",
-  "logradouro": "Rua Arno Frederico Schlemper",
-  "bairro": "Aririú",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Aririú;",
+    "cep": "88135155",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Arno Frederico Schlemper;"
 }

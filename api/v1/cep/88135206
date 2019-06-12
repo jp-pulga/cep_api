@@ -1,12 +1,13 @@
 {
-  "cep": "88135206",
-  "logradouro": "Rua Paulina Schlosser Passig",
-  "bairro": "Aririú",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Aririú;",
+    "cep": "88135206",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Paulina Schlosser Passig;"
 }

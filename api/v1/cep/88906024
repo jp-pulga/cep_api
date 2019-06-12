@@ -1,12 +1,12 @@
 {
-  "cep": "88906024",
-  "logradouro": "Rua das Palmeiras",
-  "bairro": "Jardim das Avenidas",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim das Avenidas;",
+    "cep": "88906024",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Rua das Palmeiras;"
 }

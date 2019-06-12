@@ -1,12 +1,12 @@
 {
-  "cep": "88525405",
-  "logradouro": "Rua Bruno Luersen até 9999 - lado direito",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Penha;",
+    "cep": "88525405",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Bruno Luersen;"
 }

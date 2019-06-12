@@ -1,12 +1,11 @@
 {
-  "cep": "88490000",
-  "logradouro": "Paulo Lopes",
-  "bairro": "",
-  "cidade": {
-    "nome": "Paulo Lopes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88490000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Paulo Lopes"
+    },
+    "ibge": 4212304
 }

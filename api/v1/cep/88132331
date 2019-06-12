@@ -1,12 +1,13 @@
 {
-  "cep": "88132331",
-  "logradouro": "Rua Paulo Schlosser",
-  "bairro": "Caminho Novo",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Caminho Novo;",
+    "cep": "88132331",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Paulo Schlosser;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89226560",
-  "logradouro": "Rua Sculptor",
-  "bairro": "Jardim Paraíso",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Paraíso;",
+    "cep": "89226560",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Sculptor;"
 }

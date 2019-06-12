@@ -1,12 +1,13 @@
 {
-  "cep": "88131510",
-  "logradouro": "Rua Vereador João Schlichting",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88131510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Vereador João Schlichting;"
 }

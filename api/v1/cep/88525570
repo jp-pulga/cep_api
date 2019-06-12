@@ -1,12 +1,12 @@
 {
-  "cep": "88525570",
-  "logradouro": "Rua Nossa Senhora Penha",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Penha;",
+    "cep": "88525570",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Nossa Senhora da Penha;"
 }

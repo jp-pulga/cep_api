@@ -1,12 +1,13 @@
 {
-  "cep": "88720970",
-  "logradouro": "AC Pedras Grandes Rua Ida Zaneta 27",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedras Grandes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88720970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Pedras Grandes"
+    },
+    "ibge": 4212403,
+    "logradouro": "Rua Ida Zaneta, 27  AC Pedras Grandes;"
 }

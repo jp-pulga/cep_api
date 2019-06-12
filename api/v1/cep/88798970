@@ -1,12 +1,13 @@
 {
-  "cep": "88798970",
-  "logradouro": "AGC Pescaria Brava Estrada Geral de Pescaria Brava s/n",
-  "bairro": "Pescaria Brava",
-  "cidade": {
-    "nome": "Pescaria Brava",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pescaria Brava;",
+    "cep": "88798970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Pescaria Brava"
+    },
+    "ibge": 4212650,
+    "logradouro": "Rodovia SC-437, s\/n Quilômetro 08  AGC Pescaria Brava;"
 }

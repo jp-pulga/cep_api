@@ -1,12 +1,13 @@
 {
-  "cep": "89687971",
-  "logradouro": "AC Passos Maia Avenida Padre João Botero 657",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passos Maia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89687971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Passos Maia"
+    },
+    "ibge": 4212270,
+    "logradouro": "Avenida Padre João Botero, 657  AC Passos Maia;"
 }

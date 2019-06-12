@@ -1,12 +1,13 @@
 {
-  "cep": "88138760",
-  "logradouro": "Rua Comandante Osni Schuttel Furtado",
-  "bairro": "Praia de Fora",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia de Fora;",
+    "cep": "88138760",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Comandante Osni Schuttel Furtado;"
 }

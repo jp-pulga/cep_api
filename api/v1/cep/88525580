@@ -1,12 +1,12 @@
 {
-  "cep": "88525580",
-  "logradouro": "Rua Borges de Medeiros",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Penha;",
+    "cep": "88525580",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Borges de Medeiros;"
 }

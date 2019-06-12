@@ -1,12 +1,12 @@
 {
-  "cep": "29157278",
-  "logradouro": "Avenida A",
-  "bairro": "Nova Rosa da Penha",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Rosa da Penha;",
+    "cep": "29157278",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Afonso Schwab;"
 }

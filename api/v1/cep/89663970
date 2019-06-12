@@ -1,12 +1,13 @@
 {
-  "cep": "89663970",
-  "logradouro": "AC Ouro Rua Felipe Schmidt 1565",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ouro",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89663970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ouro"
+    },
+    "ibge": 4211801,
+    "logradouro": "Rua Governador Jorge Lacerda, s\/n  AC Ouro;"
 }

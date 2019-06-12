@@ -1,12 +1,13 @@
 {
-  "cep": "88135383",
-  "logradouro": "Rua Natalino Campos Schaimann",
-  "bairro": "Guarda do Cubatão",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pachecos;",
+    "cep": "88135383",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Natalino Campos Schaimann;"
 }

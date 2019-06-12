@@ -1,12 +1,12 @@
 {
-  "cep": "88525711",
-  "logradouro": "Rua Giuliano Schoenardie Matos",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Penha;",
+    "cep": "88525711",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Giuliano Schoenardie Matos;"
 }

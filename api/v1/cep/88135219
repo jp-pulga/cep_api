@@ -1,12 +1,13 @@
 {
-  "cep": "88135219",
-  "logradouro": "Rua Teresa Luchtenberg Schütz",
-  "bairro": "Aririú",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Aririú;",
+    "cep": "88135219",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Teresa Luchtenberg Schütz;"
 }

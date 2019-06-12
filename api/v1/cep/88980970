@@ -1,12 +1,13 @@
 {
-  "cep": "88980970",
-  "logradouro": "AC Passo de Torres Rua Antonio Teixeira de Farias 427",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passo de Torres",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88980970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Passo de Torres"
+    },
+    "ibge": 4212254,
+    "logradouro": "Rua Antonio Teixeira de Farias, 427  AC Passo de Torres;"
 }

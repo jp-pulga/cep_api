@@ -1,12 +1,12 @@
 {
-  "cep": "89021138",
-  "logradouro": "Rua Piratuba",
-  "bairro": "Garcia",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Garcia;",
+    "cep": "89021138",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Piratuba;"
 }

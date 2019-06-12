@@ -1,12 +1,12 @@
 {
-  "cep": "88331040",
-  "logradouro": "Travessa Jardim das Palmeiras",
-  "bairro": "Pioneiros",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pioneiros;",
+    "cep": "88331040",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Travessa Jardim das Palmeiras;"
 }

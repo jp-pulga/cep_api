@@ -1,12 +1,12 @@
 {
-  "cep": "88047630",
-  "logradouro": "Rua Saul Silveira Penha",
-  "bairro": "Carianos",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Carianos;",
+    "cep": "88047630",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Saul Silveira Penha;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89765970",
-  "logradouro": "AGC Paial Avenida Júlio Bender",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paial",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89765970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Paial"
+    },
+    "ibge": 4211876,
+    "logradouro": "Avenida Júlio Bender  AGC Paial;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89065900",
-  "logradouro": "Via Blu Indústria e Comércio Ltda Rua Pomerode 2001",
-  "bairro": "Salto do Norte",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Salto do Norte;",
+    "cep": "89065900",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Pomerode, 2001  Via Blu Indústria e Comércio Ltda;"
 }

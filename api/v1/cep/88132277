@@ -1,12 +1,13 @@
 {
-  "cep": "88132277",
-  "logradouro": "Rua Carlos Schutz",
-  "bairro": "Pagani",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pagani;",
+    "cep": "88132277",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Carlos Schutz;"
 }

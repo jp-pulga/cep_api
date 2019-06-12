@@ -1,12 +1,13 @@
 {
-  "cep": "89107970",
-  "logradouro": "AC Pomerode Rua Luiz Abry 595",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pomerode",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89107970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Pomerode"
+    },
+    "ibge": 4213203,
+    "logradouro": "Rua Luiz Abry, 595  AC Pomerode;"
 }

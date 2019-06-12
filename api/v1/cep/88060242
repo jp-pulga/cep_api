@@ -1,12 +1,12 @@
 {
-  "cep": "88060242",
-  "logradouro": "Servidão Pinheiro Preto",
-  "bairro": "São João do Rio Vermelho",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São João do Rio Vermelho;",
+    "cep": "88060242",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Pinheiro Preto;"
 }

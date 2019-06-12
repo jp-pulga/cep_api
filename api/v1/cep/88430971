@@ -1,12 +1,13 @@
 {
-  "cep": "88430971",
-  "logradouro": "AGC Rio Antinha Rua Prefeito Frederico Probst 67",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Petrolândia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88430971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Petrolândia"
+    },
+    "ibge": 4212700,
+    "logradouro": "Rua Prefeito Frederico Probst, 67  AGC Rio Antinha;"
 }

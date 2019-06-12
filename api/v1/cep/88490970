@@ -1,12 +1,13 @@
 {
-  "cep": "88490970",
-  "logradouro": "AC Paulo Lopes Rua Santa Catarina 126",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulo Lopes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88490970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Paulo Lopes"
+    },
+    "ibge": 4212304,
+    "logradouro": "Rua Santa Catarina, 126  AC Paulo Lopes;"
 }

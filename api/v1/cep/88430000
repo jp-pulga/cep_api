@@ -1,12 +1,11 @@
 {
-  "cep": "88430000",
-  "logradouro": "Petrolândia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Petrolândia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88430000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Petrolândia"
+    },
+    "ibge": 4212700
 }

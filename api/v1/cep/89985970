@@ -1,12 +1,13 @@
 {
-  "cep": "89985970",
-  "logradouro": "AC Palma Sola Avenida Crestani 744",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palma Sola",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89985970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palma Sola"
+    },
+    "ibge": 4212007,
+    "logradouro": "Avenida Crestani, 744  AC Palma Sola;"
 }

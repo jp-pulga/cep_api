@@ -1,12 +1,12 @@
 {
-  "cep": "89205425",
-  "logradouro": "Rua Pinhalzinho",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "89205425",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Pinhalzinho;"
 }

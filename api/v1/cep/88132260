@@ -1,12 +1,13 @@
 {
-  "cep": "88132260",
-  "logradouro": "Rua Carlos Henrique Schmidt",
-  "bairro": "Passa Vinte",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pagani;",
+    "cep": "88132260",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Carlos Henrique Schmidt;"
 }

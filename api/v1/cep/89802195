@@ -1,12 +1,12 @@
 {
-  "cep": "89802195",
-  "logradouro": "Rua Coronel Manoel dos Passos Maia de 386/387 ao fim",
-  "bairro": "SAIC",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "SAIC;",
+    "cep": "89802195",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Coronel Manoel dos Passos Maia - de 386\/387 ao fim;"
 }

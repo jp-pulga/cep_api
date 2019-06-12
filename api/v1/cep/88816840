@@ -1,12 +1,12 @@
 {
-  "cep": "88816840",
-  "logradouro": "Rua Pingo D'Ouro",
-  "bairro": "Morro Estevão",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morro Estevão;",
+    "cep": "88816840",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Pingo D'Ouro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88030357",
-  "logradouro": "Rua Doutor Celso Nicodemus Lopes",
-  "bairro": "João Paulo",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "João Paulo;",
+    "cep": "88030357",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Doutor Celso Nicodemus Lopes;"
 }

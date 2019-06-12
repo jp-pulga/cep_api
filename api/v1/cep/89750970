@@ -1,12 +1,13 @@
 {
-  "cep": "89750970",
-  "logradouro": "AC Peritiba Rua Lotar Finher 8",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Peritiba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89750970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Peritiba"
+    },
+    "ibge": 4212601,
+    "logradouro": "Rua Lotar Finger, 08 Sala 02  AC Peritiba;"
 }

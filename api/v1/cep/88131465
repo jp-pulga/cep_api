@@ -1,12 +1,13 @@
 {
-  "cep": "88131465",
-  "logradouro": "Rua Verônica Beppler Schutz",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88131465",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Verônica Beppler Schutz;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88138165",
-  "logradouro": "Avenida Beira Mar",
-  "bairro": "Praia de Fora",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia de Fora;",
+    "cep": "88138165",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Avenida Beira Mar;"
 }

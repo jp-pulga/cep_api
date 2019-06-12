@@ -1,12 +1,13 @@
 {
-  "cep": "89570970",
-  "logradouro": "AC Pinheiro Preto Avenida Marechal Castelo Branco 838",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pinheiro Preto",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89570970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Pinheiro Preto"
+    },
+    "ibge": 4213005,
+    "logradouro": "Avenida Marechal Castelo Branco, 838  AC Pinheiro Preto;"
 }

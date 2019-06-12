@@ -1,12 +1,13 @@
 {
-  "cep": "89834971",
-  "logradouro": "AC Ouro Verde Rua João Maria Conrado 87 Sala 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ouro Verde",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89834971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ouro Verde"
+    },
+    "ibge": 4211850,
+    "logradouro": "Rua João Maria Conrado, 87 Sala 1  AC Ouro Verde;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88371102",
-  "logradouro": "Rua Divo Caetano Lopes",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Paulo;",
+    "cep": "88371102",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Divo Caetano Lopes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88132149",
-  "logradouro": "Avenida Atílio Pedro Pagani",
-  "bairro": "Passa Vinte",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pagani;",
+    "cep": "88132149",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Avenida Atílio Pedro Pagani;"
 }

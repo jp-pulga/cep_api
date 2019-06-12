@@ -1,12 +1,13 @@
 {
-  "cep": "88138751",
-  "logradouro": "Rua Walmor Schütz",
-  "bairro": "Praia de Fora",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia de Fora;",
+    "cep": "88138751",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Walmor Schütz;"
 }

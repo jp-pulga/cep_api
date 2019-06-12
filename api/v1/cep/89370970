@@ -1,12 +1,13 @@
 {
-  "cep": "89370970",
-  "logradouro": "AC Papanduva Rua John Kennedy 145 Sala 7 e 8",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Papanduva",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89370970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Papanduva"
+    },
+    "ibge": 4212205,
+    "logradouro": "Rua John Kennedy, 145 Sala 7 e 8  AC Papanduva;"
 }

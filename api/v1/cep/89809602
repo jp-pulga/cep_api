@@ -1,12 +1,12 @@
 {
-  "cep": "89809602",
-  "logradouro": "Rua Palmitos de 676/677 a 99998/99999",
-  "bairro": "Efapi",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Efapi;",
+    "cep": "89809602",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Palmitos - de 676\/677 ao fim;"
 }

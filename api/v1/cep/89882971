@@ -1,12 +1,13 @@
 {
-  "cep": "89882971",
-  "logradouro": "AC Planalto Alegre Avenida Júlio Chiarello 233",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Planalto Alegre",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89882971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Planalto Alegre"
+    },
+    "ibge": 4213153,
+    "logradouro": "Avenida Júlio Chiarello, 233  AC Planalto Alegre;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89208530",
-  "logradouro": "Rua Pinheiro Preto",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "89208530",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Pinheiro Preto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89020420",
-  "logradouro": "Rua Palmitos",
-  "bairro": "Garcia",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Garcia;",
+    "cep": "89020420",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Palmitos;"
 }

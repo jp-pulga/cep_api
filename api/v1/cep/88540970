@@ -1,12 +1,13 @@
 {
-  "cep": "88540970",
-  "logradouro": "AC Otacílio Costa Avenida Olinkraft 2575",
-  "bairro": "Pinheiros",
-  "cidade": {
-    "nome": "Otacílio Costa",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pinheiros;",
+    "cep": "88540970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Otacílio Costa"
+    },
+    "ibge": 4211751,
+    "logradouro": "Rua Theodora Cavalheiro Duarte, 68  AC Otacílio Costa;"
 }

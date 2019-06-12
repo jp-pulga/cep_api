@@ -1,12 +1,13 @@
 {
-  "cep": "89667970",
-  "logradouro": "AC Piratuba Avenida Dezoito de Fevereiro 1205",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piratuba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89667970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Piratuba"
+    },
+    "ibge": 4213104,
+    "logradouro": "Avenida Dezoito de Fevereiro, 1205  AC Piratuba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88980971",
-  "logradouro": "AGC Rosa do Mar Rua das Margaridas 203",
-  "bairro": "Balneário Rosa do Mar",
-  "cidade": {
-    "nome": "Passo de Torres",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Balneário Rosa do Mar;",
+    "cep": "88980971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Passo de Torres"
+    },
+    "ibge": 4212254,
+    "logradouro": "Rua das Margaridas, 203  AGC Rosa do Mar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88911100",
-  "logradouro": "Rua Ouro Verde",
-  "bairro": "Morro dos Conventos",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morro dos Conventos;",
+    "cep": "88911100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Rua Ouro Verde;"
 }

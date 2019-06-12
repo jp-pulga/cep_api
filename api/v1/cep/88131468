@@ -1,12 +1,13 @@
 {
-  "cep": "88131468",
-  "logradouro": "Rua Arthur Schutz",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88131468",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Arthur Schutz;"
 }

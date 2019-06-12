@@ -1,12 +1,13 @@
 {
-  "cep": "88132702",
-  "logradouro": "Rua Neli Schaidt Schutz",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "88132702",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Neli Schaidt Schutz;"
 }

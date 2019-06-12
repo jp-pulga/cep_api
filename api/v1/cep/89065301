@@ -1,12 +1,12 @@
 {
-  "cep": "89065301",
-  "logradouro": "Rua Pomerode de 1417/1418 ao fim",
-  "bairro": "Salto do Norte",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Salto do Norte;",
+    "cep": "89065301",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Pomerode - de 1417\/1418 ao fim;"
 }

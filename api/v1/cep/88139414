@@ -1,12 +1,13 @@
 {
-  "cep": "88139414",
-  "logradouro": "Rua Neuza Vidal Schimitz",
-  "bairro": "Pinheira (Ens Brito)",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pinheira (Ens Brito);",
+    "cep": "88139414",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "ibge": 4211900,
+    "logradouro": "Rua Neuza Vidal Schimitz;"
 }

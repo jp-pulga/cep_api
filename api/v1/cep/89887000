@@ -1,12 +1,11 @@
 {
-  "cep": "89887000",
-  "logradouro": "Palmitos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Palmitos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89887000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palmitos"
+    },
+    "ibge": 4212106
 }
