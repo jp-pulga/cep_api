@@ -1,12 +1,13 @@
 {
-  "cep": "98580970",
-  "logradouro": "AC Coronel Bicaco Rua Severino Dias 248",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel Bicaco",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98580970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Coronel Bicaco"
+    },
+    "ibge": 4305900,
+    "logradouro": "Rua Severino Dias, 248  AC Coronel Bicaco;"
 }

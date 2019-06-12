@@ -1,12 +1,12 @@
 {
-  "cep": "95084901",
-  "logradouro": "Edifício Pasteur Rua Garibaldi 476",
-  "bairro": "Exposição",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Exposição;",
+    "cep": "95084901",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Garibaldi, 476  Edifício Pasteur;"
 }

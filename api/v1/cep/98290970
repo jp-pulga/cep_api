@@ -1,12 +1,13 @@
 {
-  "cep": "98290970",
-  "logradouro": "AC Condor Rua Comércio 625",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Condor",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98290970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Condor"
+    },
+    "ibge": 4305702,
+    "logradouro": "Rua Comércio, 625  AC Condor;"
 }

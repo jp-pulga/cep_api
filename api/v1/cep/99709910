@@ -1,12 +1,13 @@
 {
-  "cep": "99709910",
-  "logradouro": "URI Campos Erechim Avenida Sete de Setembro 1621",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "99709910",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Sete de Setembro, 1621  URI Campos Erechim;"
 }

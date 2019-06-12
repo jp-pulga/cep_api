@@ -1,12 +1,13 @@
 {
-  "cep": "95670975",
-  "logradouro": "AGC Serra Grande Italiana Rua Principal s/n",
-  "bairro": "Serra Grande Italiana",
-  "cidade": {
-    "nome": "Gramado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Serra Grande Italiana;",
+    "cep": "95670975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gramado"
+    },
+    "ibge": 4309100,
+    "logradouro": "Rua Principal, s\/n  AGC Serra Grande Italiana;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "92990970",
-  "logradouro": "AC Eldorado do Sul Avenida Emancipação 129",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eldorado do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "92990970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Eldorado do Sul"
+    },
+    "ibge": 4306767,
+    "logradouro": "Avenida Emancipação, 129  AC Eldorado do Sul;"
 }

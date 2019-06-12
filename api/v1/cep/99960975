@@ -1,12 +1,13 @@
 {
-  "cep": "99960975",
-  "logradouro": "AC Charrua Rua Luis Caus 33 Sala 101",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Charrua",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99960975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Charrua"
+    },
+    "ibge": 4305371,
+    "logradouro": "Rua Luis Caus, 33 Sala 101  AC Charrua;"
 }

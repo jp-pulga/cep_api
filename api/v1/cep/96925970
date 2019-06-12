@@ -1,12 +1,13 @@
 {
-  "cep": "96925970",
-  "logradouro": "AC Ibarama Rua Achyles Lazzaratto 45",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibarama",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96925970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ibarama"
+    },
+    "ibge": 4309753,
+    "logradouro": "Rua Achyles Lazzaratto, 45  AC Ibarama;"
 }

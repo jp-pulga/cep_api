@@ -1,12 +1,13 @@
 {
-  "cep": "99910975",
-  "logradouro": "AC Floriano Peixoto Rua Luiz Caramori 1480 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Floriano Peixoto",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99910975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Floriano Peixoto"
+    },
+    "ibge": 4308250,
+    "logradouro": "Rua Luiz Caramori, 1480 Sala 01  AC Floriano Peixoto;"
 }

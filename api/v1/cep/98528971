@@ -1,12 +1,13 @@
 {
-  "cep": "98528971",
-  "logradouro": "AC Derrubadas Rua Ijuí 482",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Derrubadas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98528971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Derrubadas"
+    },
+    "ibge": 4306320,
+    "logradouro": "Rua Ijuí, 482  AC Derrubadas;"
 }

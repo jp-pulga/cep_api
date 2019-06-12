@@ -1,12 +1,13 @@
 {
-  "cep": "96255970",
-  "logradouro": "AC Chuí Avenida Uruguai 1534",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chuí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96255970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Chuí"
+    },
+    "ibge": 4305439,
+    "logradouro": "Avenida Uruguai, 1534  AC Chuí;"
 }

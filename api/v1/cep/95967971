@@ -1,12 +1,13 @@
 {
-  "cep": "95967971",
-  "logradouro": "AC Doutor Ricardo Rodovia RS-332 3961 Quilômetro 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Doutor Ricardo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95967971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Doutor Ricardo"
+    },
+    "ibge": 4306759,
+    "logradouro": "Rodovia RS-332, 3961 Quilômetro 21  AC Doutor Ricardo;"
 }

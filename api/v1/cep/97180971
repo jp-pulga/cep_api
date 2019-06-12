@@ -1,12 +1,13 @@
 {
-  "cep": "97180971",
-  "logradouro": "AC Dilermando de Aguiar Avenida Rocha Vieira 598",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dilermando de Aguiar",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97180971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dilermando de Aguiar"
+    },
+    "ibge": 4306379,
+    "logradouro": "Avenida Rocha Vieira, 598  AC Dilermando de Aguiar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90010970",
-  "logradouro": "AGF Rua Marechal Floriano Rua Marechal Floriano Peixoto 415",
-  "bairro": "Centro Histórico",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro Histórico;",
+    "cep": "90010970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Marechal Floriano Peixoto, 415  AGF Rua Marechal Floriano;"
 }

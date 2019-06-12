@@ -1,12 +1,12 @@
 {
-  "cep": "99380971",
-  "logradouro": "AC São José do Herval Rua do Comércio 800",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Herval",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99380971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José do Herval"
+    },
+    "logradouro": "Rua do Comércio, 800  AC São José do Herval;"
 }

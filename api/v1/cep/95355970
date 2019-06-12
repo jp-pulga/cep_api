@@ -1,12 +1,13 @@
 {
-  "cep": "95355970",
-  "logradouro": "AC Guabiju Rua José Bonifácio 347",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guabiju",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95355970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Guabiju"
+    },
+    "ibge": 4309258,
+    "logradouro": "Rua José Prada, 174 Sala 01  AC Guabiju;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94910970",
-  "logradouro": "AGF Avenida Flores da Cunha Avenida General Flores da Cunha 733 Loja 01",
-  "bairro": "Vila Santo Ângelo",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Santo Ângelo;",
+    "cep": "94910970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Avenida General Flores da Cunha, 733 Loja 01  AGF Avenida Flores da Cunha;"
 }

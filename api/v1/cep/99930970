@@ -1,12 +1,13 @@
 {
-  "cep": "99930970",
-  "logradouro": "AC Estação Avenida Lido Tagliari 780",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Estação",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99930970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Estação"
+    },
+    "ibge": 4307559,
+    "logradouro": "Avenida Lido Tagliari, 780  AC Estação;"
 }

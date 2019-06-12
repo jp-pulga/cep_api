@@ -1,12 +1,12 @@
 {
-  "cep": "98005973",
-  "logradouro": "CDD Cruz Alta Avenida General Câmara 1276",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98005973",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Avenida General Câmara, 1276  CDD Cruz Alta;"
 }

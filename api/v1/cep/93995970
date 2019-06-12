@@ -1,12 +1,12 @@
 {
-  "cep": "93995970",
-  "logradouro": "AC Santa Maria do Herval Rua Cônego Wiest 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria do Herval",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93995970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria do Herval"
+    },
+    "logradouro": "Rua Cônego Wiest, 36  AC Santa Maria do Herval;"
 }

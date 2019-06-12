@@ -1,12 +1,13 @@
 {
-  "cep": "99530970",
-  "logradouro": "AC Chapada Rua da República 210",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chapada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99530970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Chapada"
+    },
+    "ibge": 4305306,
+    "logradouro": "Rua da República, 210  AC Chapada;"
 }

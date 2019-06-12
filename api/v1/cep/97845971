@@ -1,12 +1,13 @@
 {
-  "cep": "97845971",
-  "logradouro": "AC Dezesseis de Novembro Rua Sete de Março 96",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dezesseis de Novembro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97845971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dezesseis de Novembro"
+    },
+    "ibge": 4306353,
+    "logradouro": "Rua Sete de Março, 96  AC Dezesseis de Novembro;"
 }

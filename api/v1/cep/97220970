@@ -1,12 +1,13 @@
 {
-  "cep": "97220970",
-  "logradouro": "AC Faxinal do Soturno Avenida Júlio de Castilhos 838",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Faxinal do Soturno",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97220970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Faxinal do Soturno"
+    },
+    "ibge": 4308003,
+    "logradouro": "Avenida Júlio de Castilhos, 838  AC Faxinal do Soturno;"
 }

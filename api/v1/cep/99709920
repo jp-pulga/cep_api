@@ -1,12 +1,13 @@
 {
-  "cep": "99709920",
-  "logradouro": "Master Sonda Shoping Avenida Sete de Setembro 1200",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "99709920",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "ibge": 4307005,
+    "logradouro": "Avenida Sete de Setembro, 1200  Master Sonda Shoping;"
 }

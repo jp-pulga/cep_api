@@ -1,12 +1,13 @@
 {
-  "cep": "96990971",
-  "logradouro": "AC Estrela Velha Rua Lauro Billig Castilhos 242",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Estrela Velha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96990971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Estrela Velha"
+    },
+    "ibge": 4307815,
+    "logradouro": "Rua Lauro Billig Castilhos, 242  AC Estrela Velha;"
 }

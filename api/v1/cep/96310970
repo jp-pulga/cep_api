@@ -1,12 +1,13 @@
 {
-  "cep": "96310970",
-  "logradouro": "AC Herval Avenida Borges de Medeiros 978",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Herval",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96310970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Herval"
+    },
+    "ibge": 4307104,
+    "logradouro": "Avenida Borges de Medeiros, 978  AC Herval;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98400970",
-  "logradouro": "AC Frederico Westphalen Rua do Comércio 302",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frederico Westphalen",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98400970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Frederico Westphalen"
+    },
+    "ibge": 4308508,
+    "logradouro": "Rua do Comércio, 302  AC Frederico Westphalen;"
 }

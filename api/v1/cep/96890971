@@ -1,12 +1,12 @@
 {
-  "cep": "96890971",
-  "logradouro": "AC Sinimbu Avenida General Flores da Cunha 545",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sinimbu",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96890971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sinimbu"
+    },
+    "logradouro": "Avenida General Flores da Cunha, 545  AC Sinimbu;"
 }

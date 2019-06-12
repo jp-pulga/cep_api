@@ -1,12 +1,12 @@
 {
-  "cep": "96200970",
-  "logradouro": "AC Rio Grande Rua Marechal Floriano Peixoto 379",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96200970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Marechal Floriano Peixoto, 379  AC Rio Grande;"
 }

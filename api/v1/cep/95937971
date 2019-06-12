@@ -1,12 +1,13 @@
 {
-  "cep": "95937971",
-  "logradouro": "AC Forquetinha Rua Phillip Müller 510",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Forquetinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95937971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Forquetinha"
+    },
+    "ibge": 4308433,
+    "logradouro": "Rua Phillip Müller, 510  AC Forquetinha;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "95320991",
-  "logradouro": "Linha Gramado Linha Gramado",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Prata",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95320991",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Prata"
+    },
+    "logradouro": "Linha Gramado  CPC Linha Gramado;"
 }

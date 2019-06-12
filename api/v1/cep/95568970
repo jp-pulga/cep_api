@@ -1,12 +1,13 @@
 {
-  "cep": "95568970",
-  "logradouro": "AC Dom Pedro de Alcântara Avenida Central 259",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Pedro de Alcântara",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95568970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dom Pedro de Alcântara"
+    },
+    "ibge": 4306551,
+    "logradouro": "Avenida Central, 259  AC Dom Pedro de Alcântara;"
 }

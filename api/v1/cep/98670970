@@ -1,12 +1,13 @@
 {
-  "cep": "98670970",
-  "logradouro": "AC Humaitá Rua Conde de Porto Alegre 490",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Humaitá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98670970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Humaitá"
+    },
+    "ibge": 4309704,
+    "logradouro": "Rua Conde de Porto Alegre, 490  AC Humaitá;"
 }

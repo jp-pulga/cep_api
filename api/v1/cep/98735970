@@ -1,12 +1,13 @@
 {
-  "cep": "98735970",
-  "logradouro": "AC Coronel Barros Rua da Imigração 341",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel Barros",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98735970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Coronel Barros"
+    },
+    "ibge": 4305871,
+    "logradouro": "Rua da Imigração, 341  AC Coronel Barros;"
 }

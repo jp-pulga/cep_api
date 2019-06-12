@@ -1,12 +1,13 @@
 {
-  "cep": "95720971",
-  "logradouro": "UD Garibaldi Avenida Presidente Vargas 235",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Garibaldi",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95720971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Garibaldi"
+    },
+    "ibge": 4308607,
+    "logradouro": "Avenida Presidente Vargas, 235  UD Garibaldi;"
 }

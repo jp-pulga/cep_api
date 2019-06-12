@@ -1,12 +1,13 @@
 {
-  "cep": "95820970",
-  "logradouro": "AC General Câmara Rua General David Canabarro 141",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "General Câmara",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95820970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "General Câmara"
+    },
+    "ibge": 4308805,
+    "logradouro": "Rua General David Canabarro, 141  AC General Câmara;"
 }

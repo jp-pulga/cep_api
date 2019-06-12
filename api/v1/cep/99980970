@@ -1,12 +1,13 @@
 {
-  "cep": "99980970",
-  "logradouro": "AC David Canabarro Rua Adelino Gazzoni 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "David Canabarro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99980970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "David Canabarro"
+    },
+    "ibge": 4306304,
+    "logradouro": "Rua Adelino Gazzoni, 160  AC David Canabarro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "99645970",
-  "logradouro": "AC Entre Rios do Sul Avenida Danilo Lorenzi 527",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Entre Rios do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99645970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Entre Rios do Sul"
+    },
+    "ibge": 4306957,
+    "logradouro": "Avenida Danilo Lorenzi, 527  AC Entre Rios do Sul;"
 }

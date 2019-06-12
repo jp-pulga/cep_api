@@ -1,12 +1,13 @@
 {
-  "cep": "96193975",
-  "logradouro": "AC Chuvisca Avenida Vinte e Oito de Dezembro 3117",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chuvisca",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96193975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Chuvisca"
+    },
+    "ibge": 4305447,
+    "logradouro": "Avenida Vinte e Oito de Dezembro, 3117  AC Chuvisca;"
 }

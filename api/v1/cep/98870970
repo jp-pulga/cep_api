@@ -1,12 +1,13 @@
 {
-  "cep": "98870970",
-  "logradouro": "AC Giruá Avenida Santo Ângelo 354",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Giruá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98870970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Giruá"
+    },
+    "ibge": 4309001,
+    "logradouro": "Avenida Santo Ângelo, 354  AC Giruá;"
 }

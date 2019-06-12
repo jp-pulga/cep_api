@@ -1,12 +1,13 @@
 {
-  "cep": "99665971",
-  "logradouro": "AC Cruzaltense Rua Pedro Álvares Cabral 499",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cruzaltense",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99665971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruzaltense"
+    },
+    "ibge": 4306130,
+    "logradouro": "Rua Pedro Álvares Cabral, 499  AC Cruzaltense;"
 }

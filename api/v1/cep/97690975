@@ -1,12 +1,13 @@
 {
-  "cep": "97690975",
-  "logradouro": "AC Garruchos Rua Libanio Sasso 760",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Garruchos",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97690975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Garruchos"
+    },
+    "ibge": 4308656,
+    "logradouro": "Rua Libano Sasso, 1370  AC Garruchos;"
 }

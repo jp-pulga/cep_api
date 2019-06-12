@@ -1,12 +1,13 @@
 {
-  "cep": "98860970",
-  "logradouro": "AC Eugênio de Castro Rua Maria Canova 98",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eugênio de Castro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98860970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Eugênio de Castro"
+    },
+    "ibge": 4307831,
+    "logradouro": "Rua Maria Canova, 98  AC Eugênio de Castro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "99655971",
-  "logradouro": "AC Faxinalzinho Avenida Lido Oltramani 995 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Faxinalzinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99655971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Faxinalzinho"
+    },
+    "ibge": 4308052,
+    "logradouro": "Avenida Lido Oltramani, 995 Sala 01  AC Faxinalzinho;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "99528970",
-  "logradouro": "AC Coqueiros do Sul Rua Carlos Sterlig 455",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coqueiros do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99528970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Coqueiros do Sul"
+    },
+    "ibge": 4305850,
+    "logradouro": "Rua Carlos Sterlig, 455  AC Coqueiros do Sul;"
 }

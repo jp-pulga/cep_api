@@ -1,12 +1,13 @@
 {
-  "cep": "98920970",
-  "logradouro": "AC Horizontina Avenida Tucunduva 291",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Horizontina",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98920970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Horizontina"
+    },
+    "ibge": 4309605,
+    "logradouro": "Avenida Tucunduva, 291  AC Horizontina;"
 }

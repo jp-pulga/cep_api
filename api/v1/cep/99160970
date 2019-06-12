@@ -1,12 +1,13 @@
 {
-  "cep": "99160970",
-  "logradouro": "AC Gentil Avenida Vinte de Março 1268",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gentil",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99160970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gentil"
+    },
+    "ibge": 4308854,
+    "logradouro": "Avenida Vinte de Março, 1268  AC Gentil;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95270970",
-  "logradouro": "AC Flores da Cunha Rua John Kennedy 2474",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Flores da Cunha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95270970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Flores da Cunha"
+    },
+    "ibge": 4308201,
+    "logradouro": "Rua John Kennedy, 2474  AC Flores da Cunha;"
 }

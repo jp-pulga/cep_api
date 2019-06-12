@@ -1,12 +1,13 @@
 {
-  "cep": "99320971",
-  "logradouro": "AC Ibirapuitã Avenida Borges do Canto 678",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibirapuitã",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99320971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ibirapuitã"
+    },
+    "ibge": 4309951,
+    "logradouro": "Avenida Borges do Canto, 678  AC Ibirapuitã;"
 }

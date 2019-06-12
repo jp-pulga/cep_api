@@ -1,12 +1,13 @@
 {
-  "cep": "99970970",
-  "logradouro": "AC Ciríaco Avenida Dezenove de Maio 743",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ciríaco",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99970970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ciríaco"
+    },
+    "ibge": 4305504,
+    "logradouro": "Avenida Dezenove de Maio, 743  AC Ciríaco;"
 }

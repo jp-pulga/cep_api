@@ -1,12 +1,13 @@
 {
-  "cep": "97210970",
-  "logradouro": "AC Formigueiro Rua Sete de Setembro 609",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Formigueiro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97210970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Formigueiro"
+    },
+    "ibge": 4308409,
+    "logradouro": "Rua Sete de Setembro, 609  AC Formigueiro;"
 }

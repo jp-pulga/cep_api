@@ -1,12 +1,13 @@
 {
-  "cep": "99140970",
-  "logradouro": "AC Ernestina Rua João Gonçalves da Silva 198",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ernestina",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99140970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ernestina"
+    },
+    "ibge": 4307054,
+    "logradouro": "Rua João Gonçalves da Silva, 198  AC Ernestina;"
 }

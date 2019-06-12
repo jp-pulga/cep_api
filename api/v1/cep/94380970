@@ -1,12 +1,13 @@
 {
-  "cep": "94380970",
-  "logradouro": "AC Glorinha Avenida Pompílio Gomes Sobrinho 23943",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Glorinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "94380970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Glorinha"
+    },
+    "ibge": 4309050,
+    "logradouro": "Avenida Pompílio Gomes Sobrinho, 23943  AC Glorinha;"
 }

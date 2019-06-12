@@ -1,12 +1,13 @@
 {
-  "cep": "96190970",
-  "logradouro": "AC Dom Feliciano Rua Benjamin Constant 350",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Feliciano",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96190970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dom Feliciano"
+    },
+    "ibge": 4306502,
+    "logradouro": "Rua Benjamin Constant, 350  AC Dom Feliciano;"
 }

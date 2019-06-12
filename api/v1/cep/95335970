@@ -1,12 +1,13 @@
 {
-  "cep": "95335970",
-  "logradouro": "AC Cotiporã Rua Silveira Martins 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cotiporã",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95335970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cotiporã"
+    },
+    "ibge": 4305959,
+    "logradouro": "Rua Silveira Martins, 11 Sala 01  AC Cotiporã;"
 }

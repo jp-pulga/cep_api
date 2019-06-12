@@ -1,12 +1,13 @@
 {
-  "cep": "93950970",
-  "logradouro": "AC Dois Irmãos Avenida Vinte e Cinco de Julho 515",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dois Irmãos",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93950970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dois Irmãos"
+    },
+    "ibge": 4306403,
+    "logradouro": "Avenida Vinte e Cinco de Julho, 515  AC Dois Irmãos;"
 }

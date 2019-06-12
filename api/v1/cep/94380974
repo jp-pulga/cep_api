@@ -1,12 +1,13 @@
 {
-  "cep": "94380974",
-  "logradouro": "AGC Maracanã Rua José Constante 12670",
-  "bairro": "Maracanã",
-  "cidade": {
-    "nome": "Glorinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Maracanã;",
+    "cep": "94380974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Glorinha"
+    },
+    "ibge": 4309050,
+    "logradouro": "Rua José Constante, 12670  AGC Maracanã;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95425970",
-  "logradouro": "AGC Chapada Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chapada (Jaquirana)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro\/Chapada",
+    "cep": "95425970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jaquirana"
+    },
+    "logradouro": "Rua Principal, s\/n  AGC Chapada;"
 }

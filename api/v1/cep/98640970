@@ -1,12 +1,13 @@
 {
-  "cep": "98640970",
-  "logradouro": "AC Crissiumal Avenida Presidente Castelo Branco 575",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Crissiumal",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98640970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Crissiumal"
+    },
+    "ibge": 4306007,
+    "logradouro": "Avenida Presidente Castelo Branco, 575  AC Crissiumal;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "97280970",
-  "logradouro": "AC Dona Francisca Rua Borges de Medeiros 737",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dona Francisca",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97280970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dona Francisca"
+    },
+    "ibge": 4306700,
+    "logradouro": "Rua Borges de Medeiros, 737  AC Dona Francisca;"
 }

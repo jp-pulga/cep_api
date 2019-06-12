@@ -1,12 +1,13 @@
 {
-  "cep": "95880970",
-  "logradouro": "AC Estrela Rua Coronel Flores 365",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Estrela",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95880970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Estrela"
+    },
+    "ibge": 4307807,
+    "logradouro": "Rua Coronel Flores, 365  AC Estrela;"
 }

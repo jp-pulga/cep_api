@@ -1,12 +1,13 @@
 {
-  "cep": "98390970",
-  "logradouro": "AC Erval Seco Rua Hermann Meyer 260",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Erval Seco",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98390970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erval Seco"
+    },
+    "ibge": 4307302,
+    "logradouro": "Rua Hermann Meyer, 260 Sala 02  AC Erval Seco;"
 }

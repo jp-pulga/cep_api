@@ -1,12 +1,12 @@
 {
-  "cep": "92425900",
-  "logradouro": "Universidade Luterana do Brasil - ULBRA Avenida Farroupilha 8001",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "92425900",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Avenida Farroupilha, 8001  Universidade Luterana do Brasil - ULBRA;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98385971",
-  "logradouro": "AC Dois Irmãos das Missões Rua Amantino José Schiavo 153",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dois Irmãos das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98385971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Dois Irmãos das Missões"
+    },
+    "ibge": 4306429,
+    "logradouro": "Rua Amantino José Schiavo, 153  AC Dois Irmãos das Missões;"
 }

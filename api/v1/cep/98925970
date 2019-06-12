@@ -1,12 +1,13 @@
 {
-  "cep": "98925970",
-  "logradouro": "AC Doutor Maurício Cardoso Avenida Getúlio Vargas 1250",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Doutor Maurício Cardoso",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98925970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Doutor Maurício Cardoso"
+    },
+    "ibge": 4306734,
+    "logradouro": "Avenida Getúlio Vargas, 1250  AC Doutor Maurício Cardoso;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "99980974",
-  "logradouro": "AGC São José do Capingui Distrito Capela São José do Capingui s/n",
-  "bairro": "Capela São José do Capingui (Distrito)",
-  "cidade": {
-    "nome": "David Canabarro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Capela São José do Capingui (Distrito);",
+    "cep": "99980974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "David Canabarro"
+    },
+    "ibge": 4306304,
+    "logradouro": "Distrito Capela São José do Capingui, s\/n  AGC São José do Capingui;"
 }

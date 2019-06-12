@@ -1,12 +1,13 @@
 {
-  "cep": "95380970",
-  "logradouro": "AC Esmeralda Avenida Castelo Branco 898",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esmeralda",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95380970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esmeralda"
+    },
+    "ibge": 4307401,
+    "logradouro": "Avenida Castelo Branco, 898  AC Esmeralda;"
 }

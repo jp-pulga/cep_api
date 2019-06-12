@@ -1,12 +1,13 @@
 {
-  "cep": "99145971",
-  "logradouro": "AC Coxilha Rua Darci Antônio Vicente 111",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coxilha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99145971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Coxilha"
+    },
+    "ibge": 4305975,
+    "logradouro": "Rua Darci Antônio Vicente, 111  AC Coxilha;"
 }

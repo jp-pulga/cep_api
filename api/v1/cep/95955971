@@ -1,12 +1,13 @@
 {
-  "cep": "95955971",
-  "logradouro": "AC Coqueiro Baixo Avenida Itália s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coqueiro Baixo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95955971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Coqueiro Baixo"
+    },
+    "ibge": 4305835,
+    "logradouro": "Avenida Itália, s\/n  AC Coqueiro Baixo;"
 }
