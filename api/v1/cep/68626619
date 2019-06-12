@@ -1,12 +1,13 @@
 {
-  "cep": "68626619",
-  "logradouro": "Rua Marajó",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "68626619",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Rua Marajó;"
 }

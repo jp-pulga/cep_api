@@ -1,12 +1,12 @@
 {
-  "cep": "31060435",
-  "logradouro": "Rua Itaituba de 407/408 ao fim",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "31060435",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Itaituba - de 482 ao fim - lado par;"
 }

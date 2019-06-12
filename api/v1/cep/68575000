@@ -1,12 +1,11 @@
 {
-  "cep": "68575000",
-  "logradouro": "Piçarra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Piçarra",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68575000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Piçarra"
+    },
+    "ibge": 1505635
 }

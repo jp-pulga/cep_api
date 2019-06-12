@@ -1,12 +1,12 @@
 {
-  "cep": "45603196",
-  "logradouro": "Travessa Paulo Portela",
-  "bairro": "Castália",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Castália;",
+    "cep": "45603196",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Travessa Paulo Portela;"
 }

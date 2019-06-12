@@ -1,12 +1,11 @@
 {
-  "cep": "68618000",
-  "logradouro": "Nova Esperança do Piriá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Esperança do Piriá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68618000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Nova Esperança do Piriá"
+    },
+    "ibge": 1504950
 }

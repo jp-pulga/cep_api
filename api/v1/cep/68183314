@@ -1,12 +1,13 @@
 {
-  "cep": "68183314",
-  "logradouro": "Travessa Paraíso",
-  "bairro": "Maria Magdalena",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Maria Magdalena;",
+    "cep": "68183314",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Travessa Paraíso;"
 }

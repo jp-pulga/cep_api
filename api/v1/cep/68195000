@@ -1,12 +1,11 @@
 {
-  "cep": "68195000",
-  "logradouro": "Jacareacanga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jacareacanga",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68195000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Jacareacanga"
+    },
+    "ibge": 1503754
 }

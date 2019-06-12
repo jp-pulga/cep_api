@@ -1,12 +1,12 @@
 {
-  "cep": "04850150",
-  "logradouro": "Rua Portela da Cerdeira",
-  "bairro": "Parque Cocaia",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Cocaia;",
+    "cep": "04850150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Portela da Cerdeira;"
 }

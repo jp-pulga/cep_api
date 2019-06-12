@@ -1,12 +1,12 @@
 {
-  "cep": "05379060",
-  "logradouro": "Rua Maestro Sisto Mechetti",
-  "bairro": "Rio Pequeno",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Rio Pequeno;",
+    "cep": "05379060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Maestro Sisto Mechetti;"
 }

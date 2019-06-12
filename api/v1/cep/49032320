@@ -1,12 +1,12 @@
 {
-  "cep": "49032320",
-  "logradouro": "Rua Paris",
-  "bairro": "Farolândia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Farolândia;",
+    "cep": "49032320",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Paris;"
 }

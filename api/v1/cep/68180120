@@ -1,12 +1,13 @@
 {
-  "cep": "68180120",
-  "logradouro": "Rua Antônio de Pádua Gomes",
-  "bairro": "Comércio",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Comércio;",
+    "cep": "68180120",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Rua Antônio de Pádua Gomes;"
 }

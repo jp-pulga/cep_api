@@ -1,12 +1,12 @@
 {
-  "cep": "57304180",
-  "logradouro": "Rua Paulo VI",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "57304180",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Paulo VI;"
 }

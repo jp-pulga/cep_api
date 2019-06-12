@@ -1,12 +1,11 @@
 {
-  "cep": "68330000",
-  "logradouro": "Porto de Moz",
-  "bairro": "",
-  "cidade": {
-    "nome": "Porto de Moz",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68330000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Porto de Moz"
+    },
+    "ibge": 1505908
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68503420",
-  "logradouro": "Rua Paraná",
-  "bairro": "Belo Horizonte",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Belo Horizonte;",
+    "cep": "68503420",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua Paraná;"
 }

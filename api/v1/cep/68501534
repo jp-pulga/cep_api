@@ -1,12 +1,13 @@
 {
-  "cep": "68501534",
-  "logradouro": "Rua Paraíba",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "68501534",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua Paraíba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68628515",
-  "logradouro": "Rua Joaquim Paixão (Cj Olga Moreira)",
-  "bairro": "Promissão III",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Promissão;",
+    "cep": "68628515",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Rua Joaquim Paixão (Prq da Promissão III);"
 }

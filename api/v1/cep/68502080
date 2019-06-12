@@ -1,12 +1,13 @@
 {
-  "cep": "68502080",
-  "logradouro": "Rua das Palmeiras",
-  "bairro": "Amapá",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Amapá;",
+    "cep": "68502080",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua das Palmeiras;"
 }

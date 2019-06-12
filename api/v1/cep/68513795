@@ -1,12 +1,13 @@
 {
-  "cep": "68513795",
-  "logradouro": "Rua São Paulo (Loteamento Imperial)",
-  "bairro": "São Félix II",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São Félix II;",
+    "cep": "68513795",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua São Paulo (Loteamento Imperial);"
 }

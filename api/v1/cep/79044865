@@ -1,12 +1,12 @@
 {
-  "cep": "79044865",
-  "logradouro": "Rua Medicilândia",
-  "bairro": "Parque Atlântico",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Parque Atlântico;",
+    "cep": "79044865",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Medicilândia;"
 }

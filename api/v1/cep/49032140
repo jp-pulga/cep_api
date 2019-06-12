@@ -1,12 +1,12 @@
 {
-  "cep": "49032140",
-  "logradouro": "Rua Paulo Afonso",
-  "bairro": "Farolândia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Farolândia;",
+    "cep": "49032140",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Paulo Afonso;"
 }

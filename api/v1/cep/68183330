@@ -1,12 +1,13 @@
 {
-  "cep": "68183330",
-  "logradouro": "Rua da Paz",
-  "bairro": "Maria Magdalena",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Maria Magdalena;",
+    "cep": "68183330",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Rua da Paz;"
 }

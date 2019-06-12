@@ -1,12 +1,13 @@
 {
-  "cep": "68181260",
-  "logradouro": "Rua São Paulo",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "68181260",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Rua São Paulo;"
 }

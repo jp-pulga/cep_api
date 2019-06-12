@@ -1,12 +1,12 @@
 {
-  "cep": "03873010",
-  "logradouro": "Rua Quatipurus",
-  "bairro": "Vila Rio Branco",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Rio Branco;",
+    "cep": "03873010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Quatipurus;"
 }

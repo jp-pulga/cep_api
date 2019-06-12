@@ -1,12 +1,11 @@
 {
-  "cep": "68430000",
-  "logradouro": "Igarapé-Miri",
-  "bairro": "",
-  "cidade": {
-    "nome": "Igarapé-Miri",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68430000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Igarapé-Miri"
+    },
+    "ibge": 1503309
 }

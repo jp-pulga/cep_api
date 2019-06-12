@@ -1,12 +1,11 @@
 {
-  "cep": "68543000",
-  "logradouro": "Floresta do Araguaia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Floresta do Araguaia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68543000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Floresta do Araguaia"
+    },
+    "ibge": 1503044
 }

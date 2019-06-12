@@ -1,12 +1,11 @@
 {
-  "cep": "68675000",
-  "logradouro": "Mãe do Rio",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mãe do Rio",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68675000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Mãe do Rio"
+    },
+    "ibge": 1504059
 }

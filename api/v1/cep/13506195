@@ -1,12 +1,12 @@
 {
-  "cep": "13506195",
-  "logradouro": "Rua 25 MP",
-  "bairro": "Parque Mãe Preta",
-  "cidade": {
-    "nome": "Rio Claro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Mãe Preta;",
+    "cep": "13506195",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Rio Claro"
+    },
+    "logradouro": "Rua 25 MP;"
 }

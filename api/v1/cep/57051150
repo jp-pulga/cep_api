@@ -1,12 +1,12 @@
 {
-  "cep": "57051150",
-  "logradouro": "Rua Comendador Palmeira",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol;",
+    "cep": "57051150",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Comendador Palmeira;"
 }

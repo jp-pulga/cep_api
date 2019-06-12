@@ -1,12 +1,13 @@
 {
-  "cep": "68502830",
-  "logradouro": "Rua da Paz",
-  "bairro": "Jardim União",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim União;",
+    "cep": "68502830",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua da Paz;"
 }

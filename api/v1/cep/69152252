@@ -1,12 +1,12 @@
 {
-  "cep": "69152252",
-  "logradouro": "Travessa Um",
-  "bairro": "Jacareacanga",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jacareacanga;",
+    "cep": "69152252",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Travessa Um;"
 }

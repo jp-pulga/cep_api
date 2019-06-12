@@ -1,12 +1,11 @@
 {
-  "cep": "68637000",
-  "logradouro": "Ipixuna do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ipixuna do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68637000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ipixuna do Pará"
+    },
+    "ibge": 1503457
 }

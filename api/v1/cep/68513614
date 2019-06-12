@@ -1,12 +1,13 @@
 {
-  "cep": "68513614",
-  "logradouro": "Rua Jarbas Passarinho",
-  "bairro": "São Félix Pioneiro",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São Félix Pioneiro;",
+    "cep": "68513614",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua Jarbas Passarinho;"
 }

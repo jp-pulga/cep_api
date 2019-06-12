@@ -1,12 +1,12 @@
 {
-  "cep": "49032000",
-  "logradouro": "Avenida Beira-mar de 2 ao fim - lado par",
-  "bairro": "Farolândia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Farolândia;",
+    "cep": "49032000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Avenida Governador Paulo Barreto de Menezes - de 2 ao fim - lado par;"
 }

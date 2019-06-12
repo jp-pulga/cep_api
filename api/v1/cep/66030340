@@ -1,12 +1,12 @@
 {
-  "cep": "66030340",
-  "logradouro": "Passagem Marabá",
-  "bairro": "Jurunas",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jurunas;",
+    "cep": "66030340",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Marabá;"
 }

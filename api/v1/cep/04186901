@@ -1,12 +1,12 @@
 {
-  "cep": "04186901",
-  "logradouro": "Metalfrio S.A. Rua Tocantínia 412",
-  "bairro": "Vila Liviero",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Liviero;",
+    "cep": "04186901",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Tocantínia, 412  Metalfrio S.A.;"
 }

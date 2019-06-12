@@ -1,12 +1,12 @@
 {
-  "cep": "03267110",
-  "logradouro": "Rua Nova Timboteua",
-  "bairro": "Vila Nova Pauliceia",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Pauliceia;",
+    "cep": "03267110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Nova Timboteua;"
 }

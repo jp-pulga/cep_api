@@ -1,12 +1,11 @@
 {
-  "cep": "68450000",
-  "logradouro": "Moju",
-  "bairro": "",
-  "cidade": {
-    "nome": "Moju",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68450000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Moju"
+    },
+    "ibge": 1504703
 }

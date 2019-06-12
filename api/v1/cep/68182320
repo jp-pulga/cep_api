@@ -1,12 +1,13 @@
 {
-  "cep": "68182320",
-  "logradouro": "Passagem Clodson Borges do Vale",
-  "bairro": "Nossa Senhora do Perpétuo Socorro",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nossa Senhora do Perpétuo Socorro;",
+    "cep": "68182320",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Passagem Clodson Borges do Vale;"
 }

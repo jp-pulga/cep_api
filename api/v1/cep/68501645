@@ -1,12 +1,13 @@
 {
-  "cep": "68501645",
-  "logradouro": "Rua Paraiso",
-  "bairro": "Bom Planalto",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bom Planalto;",
+    "cep": "68501645",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua Paraiso;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69152263",
-  "logradouro": "Rua Itaúba",
-  "bairro": "Jacareacanga",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jacareacanga;",
+    "cep": "69152263",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Itaúba;"
 }

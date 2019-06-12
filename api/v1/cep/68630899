@@ -1,12 +1,13 @@
 {
-  "cep": "68630899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Paragominas",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Área Rural de Paragominas;",
+    "cep": "68630899",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Área Rural;"
 }

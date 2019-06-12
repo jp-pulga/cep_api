@@ -1,12 +1,12 @@
 {
-  "cep": "57050000",
-  "logradouro": "Avenida Fernandes Lima até 812 - lado par",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol;",
+    "cep": "57050000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Fernandes Lima - até 812 - lado par;"
 }

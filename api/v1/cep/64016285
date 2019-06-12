@@ -1,12 +1,12 @@
 {
-  "cep": "64016285",
-  "logradouro": "Rua Padre Cícero Romão",
-  "bairro": "Piçarra",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piçarra;",
+    "cep": "64016285",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Padre Cícero Romão;"
 }

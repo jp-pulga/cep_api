@@ -1,12 +1,12 @@
 {
-  "cep": "02758060",
-  "logradouro": "Rua Marabá Paulista",
-  "bairro": "Vila Bancária Munhoz",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Bancária Munhoz;",
+    "cep": "02758060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Marabá Paulista;"
 }

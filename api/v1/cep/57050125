@@ -1,12 +1,12 @@
 {
-  "cep": "57050125",
-  "logradouro": "Rua Antônio Guedes Nogueira lado par",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol;",
+    "cep": "57050125",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Antônio Guedes Nogueira - lado par;"
 }

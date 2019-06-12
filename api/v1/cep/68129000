@@ -1,12 +1,11 @@
 {
-  "cep": "68129000",
-  "logradouro": "Mojuí dos Campos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mojuí dos Campos",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68129000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Mojuí dos Campos"
+    },
+    "ibge": 1504752
 }

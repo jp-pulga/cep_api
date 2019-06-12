@@ -1,12 +1,13 @@
 {
-  "cep": "68502834",
-  "logradouro": "Rua São Vicente de Paula",
-  "bairro": "Jardim União",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim União;",
+    "cep": "68502834",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua São Vicente de Paula;"
 }

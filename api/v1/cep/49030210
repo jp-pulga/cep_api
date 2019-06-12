@@ -1,12 +1,12 @@
 {
-  "cep": "49030210",
-  "logradouro": "Avenida Maria Pastora",
-  "bairro": "Farolândia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Farolândia;",
+    "cep": "49030210",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Avenida Maria Pastora;"
 }

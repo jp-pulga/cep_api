@@ -1,12 +1,12 @@
 {
-  "cep": "69152244",
-  "logradouro": "Rua Agropecuarista Osmar Novo",
-  "bairro": "Jacareacanga",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jacareacanga;",
+    "cep": "69152244",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Agropecuarista Osmar Novo;"
 }

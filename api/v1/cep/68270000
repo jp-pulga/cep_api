@@ -1,12 +1,11 @@
 {
-  "cep": "68270000",
-  "logradouro": "Oriximiná",
-  "bairro": "",
-  "cidade": {
-    "nome": "Oriximiná",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68270000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Oriximiná"
+    },
+    "ibge": 1505304
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68515000",
-  "logradouro": "Parauapebas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Parauapebas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68515000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Parauapebas"
+    },
+    "ibge": 1505536
 }

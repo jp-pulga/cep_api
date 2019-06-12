@@ -1,12 +1,13 @@
 {
-  "cep": "68627451",
-  "logradouro": "Rodovia PA-256",
-  "bairro": "Nova Conquista",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Conquista;",
+    "cep": "68627451",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Rodovia PA-256;"
 }

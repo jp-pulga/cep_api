@@ -1,12 +1,13 @@
 {
-  "cep": "68627456",
-  "logradouro": "Rua João Pastor Pereira",
-  "bairro": "Nova Conquista",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Conquista;",
+    "cep": "68627456",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Rua João Pastor Pereira;"
 }

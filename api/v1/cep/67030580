@@ -1,12 +1,12 @@
 {
-  "cep": "67030580",
-  "logradouro": "Passagem Itaituba",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "67030580",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "logradouro": "Passagem Itaituba;"
 }

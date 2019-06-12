@@ -1,12 +1,13 @@
 {
-  "cep": "68180090",
-  "logradouro": "Avenida Belém",
-  "bairro": "Comércio",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Comércio;",
+    "cep": "68180090",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Avenida Belém;"
 }

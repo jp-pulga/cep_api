@@ -1,12 +1,13 @@
 {
-  "cep": "68626350",
-  "logradouro": "Rua do Parque",
-  "bairro": "Angelim",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Angelim;",
+    "cep": "68626350",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Rua do Parque;"
 }

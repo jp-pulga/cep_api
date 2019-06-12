@@ -1,12 +1,12 @@
 {
-  "cep": "03525090",
-  "logradouro": "Rua Muaná",
-  "bairro": "Jardim Maringá",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Maringá;",
+    "cep": "03525090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Muaná;"
 }

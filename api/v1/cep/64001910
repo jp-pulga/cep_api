@@ -1,12 +1,12 @@
 {
-  "cep": "64001910",
-  "logradouro": "Condomínio Moreal Rua Tersandro Paz 2660",
-  "bairro": "Piçarra",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piçarra;",
+    "cep": "64001910",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Tersandro Paz, 2660  Condomínio Moreal;"
 }

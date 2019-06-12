@@ -1,12 +1,12 @@
 {
-  "cep": "29135237",
-  "logradouro": "Rua Ana Paula",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "29135237",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Ana Paula;"
 }

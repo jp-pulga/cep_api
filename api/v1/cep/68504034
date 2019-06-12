@@ -1,12 +1,13 @@
 {
-  "cep": "68504034",
-  "logradouro": "Rodovia PA-150",
-  "bairro": "Nova Marabá",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Marabá;",
+    "cep": "68504034",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rodovia PA-150;"
 }

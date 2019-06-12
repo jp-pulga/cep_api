@@ -1,12 +1,12 @@
 {
-  "cep": "07767430",
-  "logradouro": "Rua Lençóis Paulista (Rec Primaveras)",
-  "bairro": "Ponunduva",
-  "cidade": {
-    "nome": "Cajamar",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ponunduva;",
+    "cep": "07767430",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cajamar"
+    },
+    "logradouro": "Rua Lençóis Paulista (Rec Primaveras);"
 }

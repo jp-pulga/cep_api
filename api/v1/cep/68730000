@@ -1,12 +1,11 @@
 {
-  "cep": "68730000",
-  "logradouro": "Nova Timboteua",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Timboteua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68730000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Nova Timboteua"
+    },
+    "ibge": 1505007
 }

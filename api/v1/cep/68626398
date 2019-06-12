@@ -1,12 +1,13 @@
 {
-  "cep": "68626398",
-  "logradouro": "Rua da Paz",
-  "bairro": "Uraim II",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Uraim;",
+    "cep": "68626398",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Rua da Paz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64002040",
-  "logradouro": "Rua Padre Acelino Portela",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "64002040",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Padre Acelino Portela;"
 }

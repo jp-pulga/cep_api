@@ -1,12 +1,13 @@
 {
-  "cep": "68506793",
-  "logradouro": "Rua João Paulo II (Jardim Coelhão)",
-  "bairro": "Morada Nova",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Morada Nova;",
+    "cep": "68506793",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua João Paulo II (Jardim Coelhão);"
 }

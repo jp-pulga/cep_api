@@ -1,12 +1,11 @@
 {
-  "cep": "68420000",
-  "logradouro": "Mocajuba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mocajuba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68420000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Mocajuba"
+    },
+    "ibge": 1504604
 }

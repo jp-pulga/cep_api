@@ -1,12 +1,13 @@
 {
-  "cep": "68513845",
-  "logradouro": "Rua Pará",
-  "bairro": "São Félix III",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São Félix III;",
+    "cep": "68513845",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Rua Pará;"
 }

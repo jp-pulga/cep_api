@@ -1,12 +1,12 @@
 {
-  "cep": "08310690",
-  "logradouro": "Rua Inácio da Mota Portela",
-  "bairro": "Parque São Rafael",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Rafael;",
+    "cep": "08310690",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Inácio da Mota Portela;"
 }

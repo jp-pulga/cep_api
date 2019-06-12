@@ -1,12 +1,13 @@
 {
-  "cep": "68180200",
-  "logradouro": "Avenida João Lourenço Paxiuba",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "68180200",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Avenida João Lourenço Paxiuba;"
 }

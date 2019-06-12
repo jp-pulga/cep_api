@@ -1,12 +1,12 @@
 {
-  "cep": "08235300",
-  "logradouro": "Rua Paola Vasto Faro",
-  "bairro": "Parque Guarani",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Guarani;",
+    "cep": "08235300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Paola Vasto Faro;"
 }

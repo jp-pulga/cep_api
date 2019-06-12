@@ -1,12 +1,11 @@
 {
-  "cep": "68709000",
-  "logradouro": "Quatipuru",
-  "bairro": "",
-  "cidade": {
-    "nome": "Quatipuru",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68709000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Quatipuru"
+    },
+    "ibge": 1506112
 }

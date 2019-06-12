@@ -1,12 +1,13 @@
 {
-  "cep": "68628050",
-  "logradouro": "Rua Padre Vieira",
-  "bairro": "Promissão I",
-  "cidade": {
-    "nome": "Paragominas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Promissão;",
+    "cep": "68628050",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Paragominas"
+    },
+    "ibge": 1505502,
+    "logradouro": "Rua Padre Vieira;"
 }

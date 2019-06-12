@@ -1,12 +1,12 @@
 {
-  "cep": "03224090",
-  "logradouro": "Rua Paragominas",
-  "bairro": "Jardim Independência",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Independência;",
+    "cep": "03224090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Paragominas;"
 }

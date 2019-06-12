@@ -1,12 +1,12 @@
 {
-  "cep": "13506177",
-  "logradouro": "Rua 7 MP",
-  "bairro": "Parque Mãe Preta",
-  "cidade": {
-    "nome": "Rio Claro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Mãe Preta;",
+    "cep": "13506177",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Rio Claro"
+    },
+    "logradouro": "Rua 7 MP;"
 }

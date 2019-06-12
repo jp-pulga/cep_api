@@ -1,12 +1,12 @@
 {
-  "cep": "79044873",
-  "logradouro": "Rua Paragominas",
-  "bairro": "Parque Atlântico",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Parque Atlântico;",
+    "cep": "79044873",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Paragominas;"
 }

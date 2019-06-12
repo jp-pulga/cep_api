@@ -1,12 +1,10 @@
 {
-  "cep": "19430000",
-  "logradouro": "Marabá Paulista",
-  "bairro": "",
-  "cidade": {
-    "nome": "Marabá Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
+    "cep": "19430000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Marabá Paulista"
     }
-  }
 }

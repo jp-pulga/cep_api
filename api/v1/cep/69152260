@@ -1,12 +1,12 @@
 {
-  "cep": "69152260",
-  "logradouro": "Rua Massaranduba",
-  "bairro": "Jacareacanga",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jacareacanga;",
+    "cep": "69152260",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Massaranduba;"
 }

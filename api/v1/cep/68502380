@@ -1,12 +1,13 @@
 {
-  "cep": "68502380",
-  "logradouro": "Avenida São Paulo de 142/143 ao fim",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "68502380",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "ibge": 1504208,
+    "logradouro": "Avenida São Paulo - de 142\/143 ao fim;"
 }

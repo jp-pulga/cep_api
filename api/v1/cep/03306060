@@ -1,12 +1,12 @@
 {
-  "cep": "03306060",
-  "logradouro": "Rua Oriximiná",
-  "bairro": "Cidade Mãe do Céu",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Mãe do Céu;",
+    "cep": "03306060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Oriximiná;"
 }

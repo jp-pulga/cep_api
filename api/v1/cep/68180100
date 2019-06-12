@@ -1,12 +1,13 @@
 {
-  "cep": "68180100",
-  "logradouro": "Passagem Gledson Borges do Vale",
-  "bairro": "Comércio",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Comércio;",
+    "cep": "68180100",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Passagem Gledson Borges do Vale;"
 }

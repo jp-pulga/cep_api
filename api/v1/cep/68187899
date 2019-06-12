@@ -1,12 +1,13 @@
 {
-  "cep": "68187899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Itaituba",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Área Rural de Itaituba;",
+    "cep": "68187899",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Área Rural;"
 }

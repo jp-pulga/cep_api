@@ -1,12 +1,12 @@
 {
-  "cep": "64001909",
-  "logradouro": "Condomínio Julian Martinez Rua Tersandro Paz 2618",
-  "bairro": "Piçarra",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piçarra;",
+    "cep": "64001909",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Tersandro Paz, 2618  Condomínio Julian Martinez;"
 }

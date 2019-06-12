@@ -1,12 +1,13 @@
 {
-  "cep": "68181486",
-  "logradouro": "Travessa São Paulo",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bom Jardim;",
+    "cep": "68181486",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Travessa São Paulo;"
 }

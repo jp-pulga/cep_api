@@ -1,12 +1,12 @@
 {
-  "cep": "02443080",
-  "logradouro": "Rua Portela do Vade",
-  "bairro": "Lauzane Paulista",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Lauzane Paulista;",
+    "cep": "02443080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Portela do Vade;"
 }

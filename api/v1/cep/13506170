@@ -1,12 +1,12 @@
 {
-  "cep": "13506170",
-  "logradouro": "Avenida 2 MP",
-  "bairro": "Parque Mãe Preta",
-  "cidade": {
-    "nome": "Rio Claro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Mãe Preta;",
+    "cep": "13506170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Rio Claro"
+    },
+    "logradouro": "Avenida 2 MP;"
 }

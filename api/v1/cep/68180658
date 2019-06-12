@@ -1,12 +1,13 @@
 {
-  "cep": "68180658",
-  "logradouro": "Avenida Bruno Juarez",
-  "bairro": "Do Bom Remédio",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Do Bom Remédio;",
+    "cep": "68180658",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "ibge": 1503606,
+    "logradouro": "Avenida Bruno Juarez;"
 }
