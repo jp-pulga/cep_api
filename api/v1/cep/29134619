@@ -1,12 +1,12 @@
 {
-  "cep": "29134619",
-  "logradouro": "Rua Goiânia",
-  "bairro": "Universal",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Universal;",
+    "cep": "29134619",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Goiânia;"
 }

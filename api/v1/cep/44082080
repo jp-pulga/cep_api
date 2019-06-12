@@ -1,12 +1,12 @@
 {
-  "cep": "44082080",
-  "logradouro": "Rua Bela Vista de Goiás",
-  "bairro": "Lagoa Salgada",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lagoa Salgada;",
+    "cep": "44082080",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Bela Vista de Goiás;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "02566090",
-  "logradouro": "Travessa Corumbá de Goiás",
-  "bairro": "Vila Espanhola",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Espanhola;",
+    "cep": "02566090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Corumbá de Goiás;"
 }

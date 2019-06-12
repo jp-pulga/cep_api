@@ -1,12 +1,12 @@
 {
-  "cep": "31744695",
-  "logradouro": "Rua Goiatuba",
-  "bairro": "Juliana",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Juliana;",
+    "cep": "31744695",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Goiatuba;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29166089",
-  "logradouro": "Avenida Goiatuba",
-  "bairro": "Barcelona",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barcelona;",
+    "cep": "29166089",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Goiatuba;"
 }

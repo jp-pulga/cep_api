@@ -1,12 +1,12 @@
 {
-  "cep": "05272040",
-  "logradouro": "Rua Água Fria de Goiás",
-  "bairro": "Jardim Monte Belo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Monte Belo;",
+    "cep": "05272040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Água Fria de Goiás;"
 }

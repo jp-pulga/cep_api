@@ -1,12 +1,12 @@
 {
-  "cep": "68501256",
-  "logradouro": "Rua Goiás III",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "68501256",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "logradouro": "Rua Goiás III;"
 }

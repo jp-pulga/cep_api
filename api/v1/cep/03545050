@@ -1,12 +1,12 @@
 {
-  "cep": "03545050",
-  "logradouro": "Rua Goiandira",
-  "bairro": "Vila Guilhermina",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Guilhermina;",
+    "cep": "03545050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Goiandira;"
 }

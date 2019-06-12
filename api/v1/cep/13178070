@@ -1,12 +1,12 @@
 {
-  "cep": "13178070",
-  "logradouro": "Rua Goiatuba",
-  "bairro": "Jardim Dall'Orto",
-  "cidade": {
-    "nome": "Sumaré",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Dall'Orto;",
+    "cep": "13178070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sumaré"
+    },
+    "logradouro": "Rua Goiatuba;"
 }

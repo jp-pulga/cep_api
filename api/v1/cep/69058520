@@ -1,12 +1,12 @@
 {
-  "cep": "69058520",
-  "logradouro": "Rua Goiânia",
-  "bairro": "Flores",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Flores;",
+    "cep": "69058520",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Goiânia;"
 }

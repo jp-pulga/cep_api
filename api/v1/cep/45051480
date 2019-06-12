@@ -1,12 +1,12 @@
 {
-  "cep": "45051480",
-  "logradouro": "Avenida Goiânia",
-  "bairro": "Brasil",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brasil;",
+    "cep": "45051480",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Goiânia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "08140125",
-  "logradouro": "Travessa Bom Jesus de Goiás",
-  "bairro": "Jardim Tuã",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Tuã;",
+    "cep": "08140125",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Bom Jesus de Goiás;"
 }

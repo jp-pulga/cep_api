@@ -1,12 +1,12 @@
 {
-  "cep": "47813238",
-  "logradouro": "Rua Goiânia",
-  "bairro": "Barreiras I",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiras I;",
+    "cep": "47813238",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Goiânia;"
 }

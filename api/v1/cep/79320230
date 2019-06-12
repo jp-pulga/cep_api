@@ -1,12 +1,12 @@
 {
-  "cep": "79320230",
-  "logradouro": "Rua Goiás de 0823/824 a 1527/1528",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "79320230",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Goiás - de 0823\/824 a 1527\/1528;"
 }

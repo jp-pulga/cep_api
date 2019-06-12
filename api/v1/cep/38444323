@@ -1,12 +1,12 @@
 {
-  "cep": "38444323",
-  "logradouro": "Rua Goiandira",
-  "bairro": "Santiago",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santiago;",
+    "cep": "38444323",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Goiandira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57303104",
-  "logradouro": "Rua Ermiro Trajano de Góes",
-  "bairro": "Verdes Campos",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Verdes Campos;",
+    "cep": "57303104",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Ermiro Trajano de Góes;"
 }

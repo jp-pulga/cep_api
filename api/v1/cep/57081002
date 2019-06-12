@@ -1,12 +1,12 @@
 {
-  "cep": "57081002",
-  "logradouro": "Travessa Governador Luiz Cavalcante",
-  "bairro": "Tabuleiro do Martins",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Tabuleiro do Martins;",
+    "cep": "57081002",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Governador Luiz Cavalcante;"
 }

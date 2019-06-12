@@ -1,12 +1,12 @@
 {
-  "cep": "35502453",
-  "logradouro": "Rua Goiás de 3079/3080 ao fim",
-  "bairro": "Orion",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Orion;",
+    "cep": "35502453",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Goiás - de 3079\/3080 ao fim;"
 }

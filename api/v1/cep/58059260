@@ -1,12 +1,12 @@
 {
-  "cep": "58059260",
-  "logradouro": "Rua Governador Clóvis Bezerra Cavalcanti",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "58059260",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Governador Clóvis Bezerra Cavalcanti;"
 }

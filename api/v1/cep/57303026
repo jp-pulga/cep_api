@@ -1,12 +1,12 @@
 {
-  "cep": "57303026",
-  "logradouro": "Rua Antônio Gomes Reinaldo",
-  "bairro": "Verdes Campos",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Verdes Campos;",
+    "cep": "57303026",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Antônio Gomes Reinaldo;"
 }

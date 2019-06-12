@@ -1,12 +1,12 @@
 {
-  "cep": "29127037",
-  "logradouro": "Rua Goiás",
-  "bairro": "João Goulart",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "João Goulart;",
+    "cep": "29127037",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Goiás;"
 }

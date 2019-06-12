@@ -1,12 +1,12 @@
 {
-  "cep": "29161574",
-  "logradouro": "Rua Goiânia",
-  "bairro": "Central Carapina",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Central Carapina;",
+    "cep": "29161574",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Goiânia;"
 }

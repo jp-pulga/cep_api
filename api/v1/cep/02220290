@@ -1,12 +1,12 @@
 {
-  "cep": "02220290",
-  "logradouro": "Rua Goianésia",
-  "bairro": "Vila Medeiros",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Medeiros;",
+    "cep": "02220290",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Goianésia;"
 }

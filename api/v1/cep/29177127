@@ -1,12 +1,12 @@
 {
-  "cep": "29177127",
-  "logradouro": "Rua Goiânia",
-  "bairro": "São Marcos II",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Marcos II;",
+    "cep": "29177127",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Goiânia;"
 }

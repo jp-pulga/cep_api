@@ -1,12 +1,12 @@
 {
-  "cep": "45206599",
-  "logradouro": "Rua Cidade de Goiânia",
-  "bairro": "Água Branca",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Água Branca;",
+    "cep": "45206599",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Cidade de Goiânia;"
 }

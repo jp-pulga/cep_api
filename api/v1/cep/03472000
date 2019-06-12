@@ -1,12 +1,12 @@
 {
-  "cep": "03472000",
-  "logradouro": "Rua Domingos dos Santos Gomes",
-  "bairro": "Jardim Vila Formosa",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Vila Formosa;",
+    "cep": "03472000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Domingos dos Santos Gomes;"
 }

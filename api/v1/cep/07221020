@@ -1,12 +1,12 @@
 {
-  "cep": "07221020",
-  "logradouro": "Rua Corumbá de Goiás",
-  "bairro": "Cidade Industrial Satélite de São Paulo",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Industrial Satélite de São Paulo;",
+    "cep": "07221020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Corumbá de Goiás;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57312270",
-  "logradouro": "Rua Governador Luiz Cavalcante",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro;",
+    "cep": "57312270",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Governador Luiz Cavalcante;"
 }

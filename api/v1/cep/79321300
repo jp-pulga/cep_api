@@ -1,12 +1,12 @@
 {
-  "cep": "79321300",
-  "logradouro": "Rua Goiás de 1529/1530 ao fim",
-  "bairro": "Popular Nova",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Popular Nova;",
+    "cep": "79321300",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Goiás - de 1529\/1530 ao fim;"
 }

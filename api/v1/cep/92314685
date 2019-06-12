@@ -1,12 +1,12 @@
 {
-  "cep": "92314685",
-  "logradouro": "Rua Dias Gomes (verdes Campos)",
-  "bairro": "Harmonia",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Harmonia;",
+    "cep": "92314685",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Dias Gomes (verdes Campos);"
 }

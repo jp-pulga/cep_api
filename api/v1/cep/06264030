@@ -1,12 +1,12 @@
 {
-  "cep": "06264030",
-  "logradouro": "Rua Nova Goiânia",
-  "bairro": "Portal D'Oeste",
-  "cidade": {
-    "nome": "Osasco",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Portal D'Oeste;",
+    "cep": "06264030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Osasco"
+    },
+    "logradouro": "Rua Nova Goiânia;"
 }

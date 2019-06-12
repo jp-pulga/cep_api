@@ -1,12 +1,12 @@
 {
-  "cep": "29171201",
-  "logradouro": "Avenida Goiânia",
-  "bairro": "Serra Dourada II",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Serra Dourada II;",
+    "cep": "29171201",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Avenida Goiânia;"
 }

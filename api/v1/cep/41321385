@@ -1,12 +1,12 @@
 {
-  "cep": "41321385",
-  "logradouro": "Rua Goiânia",
-  "bairro": "Castelo Branco",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Castelo Branco;",
+    "cep": "41321385",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Goiânia;"
 }

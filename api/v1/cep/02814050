@@ -1,12 +1,12 @@
 {
-  "cep": "02814050",
-  "logradouro": "Rua Flores de Goiás",
-  "bairro": "Jardim Paulistano (Zona Norte)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paulistano (Zona Norte);",
+    "cep": "02814050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Flores de Goiás;"
 }

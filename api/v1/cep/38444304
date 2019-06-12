@@ -1,12 +1,12 @@
 {
-  "cep": "38444304",
-  "logradouro": "Rua Goiandira",
-  "bairro": "Jóquei Clube",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jóquei Clube;",
+    "cep": "38444304",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Goiandira;"
 }

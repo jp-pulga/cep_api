@@ -1,12 +1,12 @@
 {
-  "cep": "07124275",
-  "logradouro": "Rua Sítio Novo de Goiás",
-  "bairro": "Vila Imaculada",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Imaculada;",
+    "cep": "07124275",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Sítio Novo de Goiás;"
 }

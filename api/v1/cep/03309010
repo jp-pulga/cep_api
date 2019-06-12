@@ -1,12 +1,12 @@
 {
-  "cep": "03309010",
-  "logradouro": "Rua Barro Alto",
-  "bairro": "Vila Gomes Cardim",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Gomes Cardim;",
+    "cep": "03309010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barro Alto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "08285240",
-  "logradouro": "Rua Goianira",
-  "bairro": "Cidade Líder",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Líder;",
+    "cep": "08285240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Goianira;"
 }

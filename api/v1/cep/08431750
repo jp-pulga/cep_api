@@ -1,12 +1,12 @@
 {
-  "cep": "08431750",
-  "logradouro": "Rua Alto Paraíso de Goiás",
-  "bairro": "Jardim Irene",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Irene;",
+    "cep": "08431750",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Alto Paraíso de Goiás;"
 }

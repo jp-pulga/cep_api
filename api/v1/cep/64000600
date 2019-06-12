@@ -1,12 +1,12 @@
 {
-  "cep": "64000600",
-  "logradouro": "Rua Gonçalo Cavalcante",
-  "bairro": "Cabral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Cabral;",
+    "cep": "64000600",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Gonçalo Cavalcante;"
 }

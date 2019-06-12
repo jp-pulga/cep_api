@@ -1,12 +1,12 @@
 {
-  "cep": "79321784",
-  "logradouro": "Rua Goiás",
-  "bairro": "Jardim dos Estados",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim dos Estados;",
+    "cep": "79321784",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Rua Goiás;"
 }

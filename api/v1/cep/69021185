@@ -1,12 +1,12 @@
 {
-  "cep": "69021185",
-  "logradouro": "Rua Goiânia (Com S Pedro)",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã;",
+    "cep": "69021185",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Goiânia;"
 }

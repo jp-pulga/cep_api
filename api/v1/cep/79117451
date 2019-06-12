@@ -1,12 +1,12 @@
 {
-  "cep": "79117451",
-  "logradouro": "Rua Goiandira",
-  "bairro": "Vila Nasser",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Nasser;",
+    "cep": "79117451",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Goiandira;"
 }

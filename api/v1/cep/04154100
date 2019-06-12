@@ -1,12 +1,12 @@
 {
-  "cep": "04154100",
-  "logradouro": "Travessa Bom Jardim de Goiás",
-  "bairro": "Vila Santo Estéfano",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santo Estéfano;",
+    "cep": "04154100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Bom Jardim de Goiás;"
 }
