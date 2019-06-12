@@ -1,12 +1,11 @@
 {
-  "cep": "89620000",
-  "logradouro": "Campos Novos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Campos Novos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89620000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Campos Novos"
+    },
+    "ibge": 4203600
 }

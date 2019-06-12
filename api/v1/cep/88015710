@@ -1,12 +1,13 @@
 {
-  "cep": "88015710",
-  "logradouro": "Avenida Osvaldo Rodrigues Cabral",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88015710",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Osvaldo Rodrigues Cabral;"
 }

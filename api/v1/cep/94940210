@@ -1,12 +1,12 @@
 {
-  "cep": "94940210",
-  "logradouro": "Rua Osvaldo Cruz",
-  "bairro": "Vila Silveira Martins",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Silveira Martins;",
+    "cep": "94940210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Osvaldo Cruz;"
 }

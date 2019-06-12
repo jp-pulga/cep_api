@@ -1,12 +1,13 @@
 {
-  "cep": "88750971",
-  "logradouro": "ACC Demay Avenida Felipe Schmidt 1370",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Braço do Norte",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88750971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Braço do Norte"
+    },
+    "ibge": 4202800,
+    "logradouro": "Avenida Felipe Schmidt, 1370  ACC Demay;"
 }

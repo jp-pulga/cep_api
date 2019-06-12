@@ -1,12 +1,12 @@
 {
-  "cep": "89216410",
-  "logradouro": "Rua Agrolândia",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "89216410",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Agrolândia;"
 }

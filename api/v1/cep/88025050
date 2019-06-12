@@ -1,12 +1,12 @@
 {
-  "cep": "88025050",
-  "logradouro": "Rua Embaixador Edmundo da Luz Pinto",
-  "bairro": "Agronômica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Agronômica;",
+    "cep": "88025050",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Embaixador Edmundo da Luz Pinto;"
 }

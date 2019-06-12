@@ -1,12 +1,13 @@
 {
-  "cep": "88164098",
-  "logradouro": "Rua Maria Salomé Schmitt",
-  "bairro": "Vendaval",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vendaval;",
+    "cep": "88164098",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Rua Maria Salomé Schmitt;"
 }

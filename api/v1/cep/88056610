@@ -1,12 +1,13 @@
 {
-  "cep": "88056610",
-  "logradouro": "Condomínio Recanto da Cachoeira",
-  "bairro": "Vargem do Bom Jesus",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem do Bom Jesus;",
+    "cep": "88056610",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Condomínio Recanto da Cachoeira;"
 }

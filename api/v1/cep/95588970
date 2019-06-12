@@ -1,12 +1,12 @@
 {
-  "cep": "95588970",
-  "logradouro": "AC Xangri-Lá Avenida Paraguassu 993",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xangri-Lá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95588970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Xangri-Lá"
+    },
+    "logradouro": "Avenida Paraguassu, 993  AC Xangri-Lá;"
 }

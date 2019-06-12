@@ -1,12 +1,12 @@
 {
-  "cep": "88817051",
-  "logradouro": "Rua Governador Celso Ramos",
-  "bairro": "Vila Floresta II",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Floresta II;",
+    "cep": "88817051",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Governador Celso Ramos;"
 }

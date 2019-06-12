@@ -1,12 +1,13 @@
 {
-  "cep": "94465050",
-  "logradouro": "Avenida Juazeiro",
-  "bairro": "São Tomé",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Tomé;",
+    "cep": "94465050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Juazeiro;"
 }

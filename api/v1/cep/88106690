@@ -1,12 +1,12 @@
 {
-  "cep": "88106690",
-  "logradouro": "Rua Francolino José Leite",
-  "bairro": "Forquilhinha",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Forquilhinha;",
+    "cep": "88106690",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Francolino José Leite;"
 }

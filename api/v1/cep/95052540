@@ -1,12 +1,12 @@
 {
-  "cep": "95052540",
-  "logradouro": "Rua Raposo Tavares",
-  "bairro": "Jardelino Ramos",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardelino Ramos;",
+    "cep": "95052540",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Raposo Tavares;"
 }

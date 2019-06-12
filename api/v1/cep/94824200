@@ -1,12 +1,12 @@
 {
-  "cep": "94824200",
-  "logradouro": "Travessa Uruguaiana",
-  "bairro": "Sumaré",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sumaré;",
+    "cep": "94824200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Travessa Uruguaiana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88337470",
-  "logradouro": "Rua Angelina",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "88337470",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Rua Angelina;"
 }

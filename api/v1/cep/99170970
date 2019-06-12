@@ -1,12 +1,13 @@
 {
-  "cep": "99170970",
-  "logradouro": "AC Sertão Rua Capitão Marciano 350 Sala 07",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sertão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99170970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sertão"
+    },
+    "ibge": 4320503,
+    "logradouro": "Rua Capitão Marciano, 350 Sala 07  AC Sertão;"
 }

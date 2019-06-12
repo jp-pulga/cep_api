@@ -1,12 +1,12 @@
 {
-  "cep": "96825002",
-  "logradouro": "Rua Gaspar Silveira Martins de 952 a 2638 - lado par",
-  "bairro": "Higienópolis",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Higienópolis;",
+    "cep": "96825002",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Gaspar Silveira Martins - de 952 a 2638 - lado par;"
 }

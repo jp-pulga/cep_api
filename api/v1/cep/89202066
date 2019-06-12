@@ -1,12 +1,12 @@
 {
-  "cep": "89202066",
-  "logradouro": "Rua Ary Schossland",
-  "bairro": "Anita Garibaldi",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Anita Garibaldi;",
+    "cep": "89202066",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Ary Schossland;"
 }

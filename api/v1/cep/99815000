@@ -1,12 +1,11 @@
 {
-  "cep": "99815000",
-  "logradouro": "Mirim (Severiano de Almeida)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mirim (Severiano de Almeida)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99815000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Severiano de Almeida"
+    },
+    "ibge": 4320602
 }

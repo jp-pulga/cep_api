@@ -1,12 +1,13 @@
 {
-  "cep": "88905104",
-  "logradouro": "Avenida Capitão Pedro Fernandes",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro Cívico;",
+    "cep": "88905104",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Avenida Capitão Pedro Fernandes;"
 }

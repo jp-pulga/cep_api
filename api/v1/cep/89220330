@@ -1,12 +1,12 @@
 {
-  "cep": "89220330",
-  "logradouro": "Rua Correia Pinto",
-  "bairro": "Costa e Silva",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Costa e Silva;",
+    "cep": "89220330",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Correia Pinto;"
 }

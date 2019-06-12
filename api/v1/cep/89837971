@@ -1,12 +1,13 @@
 {
-  "cep": "89837971",
-  "logradouro": "AC Coronel Martins Avenida Getúlio Vargas 09 Quadra 09",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel Martins",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89837971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Coronel Martins"
+    },
+    "ibge": 4204459,
+    "logradouro": "Avenida Getúlio Vargas, 09 Quadra 09  AC Coronel Martins;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89804000",
-  "logradouro": "Avenida Fernando Machado D - de 3007 ao fim - lado ímpar",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "89804000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Avenida Fernando Machado - D - de 3007 ao fim - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89634971",
-  "logradouro": "AC Brunópolis Rua Joaquim Rosa 603",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brunópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89634971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brunópolis"
+    },
+    "ibge": 4202875,
+    "logradouro": "Rua Joaquim Rosa, 603  AC Brunópolis;"
 }

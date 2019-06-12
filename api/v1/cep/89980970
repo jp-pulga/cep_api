@@ -1,12 +1,13 @@
 {
-  "cep": "89980970",
-  "logradouro": "AC Campo Erê Avenida Getúlio Vargas 494",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Erê",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89980970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Campo Erê"
+    },
+    "ibge": 4203501,
+    "logradouro": "Avenida Getúlio Vargas, 494  AC Campo Erê;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88817330",
-  "logradouro": "Rua Aurora Pizoni Pirola",
-  "bairro": "Vila Floresta",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Floresta;",
+    "cep": "88817330",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Aurora Pizoni Pirola;"
 }

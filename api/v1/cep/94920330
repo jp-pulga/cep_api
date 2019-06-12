@@ -1,12 +1,12 @@
 {
-  "cep": "94920330",
-  "logradouro": "Rua João Pedro Alcântara",
-  "bairro": "Vila Veranópolis",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Veranópolis;",
+    "cep": "94920330",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua João Pedro Alcântara;"
 }

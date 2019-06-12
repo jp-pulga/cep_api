@@ -1,12 +1,13 @@
 {
-  "cep": "98690970",
-  "logradouro": "AC São Martinho Rua Getulio Vargas 1156",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Martinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98690970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Martinho"
+    },
+    "ibge": 4319109,
+    "logradouro": "Rua Getulio Vargas, 1156  AC São Martinho;"
 }

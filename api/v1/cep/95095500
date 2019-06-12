@@ -1,12 +1,12 @@
 {
-  "cep": "95095500",
-  "logradouro": "Rua Rosângela Rosa Torres",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "95095500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Rosângela Rosa Torres;"
 }

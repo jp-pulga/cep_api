@@ -1,12 +1,13 @@
 {
-  "cep": "88900005",
-  "logradouro": "Avenida Coronel João Fernandes até 500 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88900005",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Avenida Coronel João Fernandes - até 500 - lado par;"
 }

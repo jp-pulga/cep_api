@@ -1,12 +1,12 @@
 {
-  "cep": "91030490",
-  "logradouro": "Rua Silva Tavares",
-  "bairro": "Passo da Areia",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo da Areia;",
+    "cep": "91030490",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Silva Tavares;"
 }

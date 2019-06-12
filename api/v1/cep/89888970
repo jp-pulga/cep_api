@@ -1,12 +1,13 @@
 {
-  "cep": "89888970",
-  "logradouro": "AC Caibi Avenida da Pátria 570",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caibi",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89888970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Caibi"
+    },
+    "ibge": 4203105,
+    "logradouro": "Avenida da Pátria, 570  AC Caibi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "99072460",
-  "logradouro": "Rua Santa Maria",
-  "bairro": "Vila Luiza",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Luiza;",
+    "cep": "99072460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Santa Maria;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88330030",
-  "logradouro": "Avenida Atlântica de 4541/4542 a 5019/5020",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88330030",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Avenida Atlântica - de 4541\/4542 a 5019\/5020;"
 }

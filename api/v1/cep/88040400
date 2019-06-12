@@ -1,12 +1,13 @@
 {
-  "cep": "88040400",
-  "logradouro": "Avenida Desembargador Vítor Lima até 398/399",
-  "bairro": "Trindade",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Trindade;",
+    "cep": "88040400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Desembargador Vítor Lima - até 398\/399;"
 }

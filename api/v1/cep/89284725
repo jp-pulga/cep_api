@@ -1,12 +1,12 @@
 {
-  "cep": "89284725",
-  "logradouro": "Rua Gertrudes Ema Mareth",
-  "bairro": "Dona Francisca",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Dona Francisca;",
+    "cep": "89284725",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Gertrudes Ema Mareth;"
 }

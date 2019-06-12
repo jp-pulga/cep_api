@@ -1,12 +1,13 @@
 {
-  "cep": "89500972",
-  "logradouro": "CDD Caçador Avenida Barão do Rio Branco 765",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caçador",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89500972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Caçador"
+    },
+    "ibge": 4203006,
+    "logradouro": "Avenida Barão do Rio Branco, 765  CDD Caçador;"
 }

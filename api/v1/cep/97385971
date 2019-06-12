@@ -1,12 +1,13 @@
 {
-  "cep": "97385971",
-  "logradouro": "AC Vila Nova do Sul Rua João Batista Becker 376",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vila Nova do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97385971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Vila Nova do Sul"
+    },
+    "ibge": 4323457,
+    "logradouro": "Rua João Batista Becker, 376  AC Vila Nova do Sul;"
 }

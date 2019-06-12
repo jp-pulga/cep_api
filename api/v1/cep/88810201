@@ -1,12 +1,13 @@
 {
-  "cep": "88810201",
-  "logradouro": "Rua Aristides Bolan",
-  "bairro": "Mina Brasil",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Mina Brasil;",
+    "cep": "88810201",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Aristides Bolan;"
 }

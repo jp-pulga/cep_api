@@ -1,12 +1,12 @@
 {
-  "cep": "94180200",
-  "logradouro": "Travessa Sobradinho",
-  "bairro": "Dona Mercedes",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Dona Mercedes;",
+    "cep": "94180200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Travessa Sobradinho;"
 }

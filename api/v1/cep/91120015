@@ -1,12 +1,12 @@
 {
-  "cep": "91120015",
-  "logradouro": "Acesso Dois J (Vl N Brasília)",
-  "bairro": "Sarandi",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sarandi;",
+    "cep": "91120015",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso Dois J (Vl N Brasília);"
 }

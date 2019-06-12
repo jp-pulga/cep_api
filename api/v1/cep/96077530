@@ -1,12 +1,12 @@
 {
-  "cep": "96077530",
-  "logradouro": "Rua Alcides Torres Diniz",
-  "bairro": "Areal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Areal;",
+    "cep": "96077530",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Alcides Torres Diniz;"
 }

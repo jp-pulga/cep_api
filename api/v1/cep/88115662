@@ -1,12 +1,12 @@
 {
-  "cep": "88115662",
-  "logradouro": "Travessa Celso Ramos",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "88115662",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Travessa Celso Ramos;"
 }

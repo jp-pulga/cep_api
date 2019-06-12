@@ -1,12 +1,13 @@
 {
-  "cep": "88810350",
-  "logradouro": "Avenida Luiz Lazzarin lado par",
-  "bairro": "Maria Céu",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Maria Céu;",
+    "cep": "88810350",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Luiz Lazzarin - lado ímpar;"
 }

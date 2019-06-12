@@ -1,12 +1,12 @@
 {
-  "cep": "95020901",
-  "logradouro": "Edifício Vêneto Rua Sinimbu 2019",
-  "bairro": "De Lazzer",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "De Lazzer;",
+    "cep": "95020901",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Sinimbu, 2019  Edifício Vêneto;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88354685",
-  "logradouro": "Rua SC 028",
-  "bairro": "Souza Cruz",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Souza Cruz;",
+    "cep": "88354685",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua SC - 028;"
 }

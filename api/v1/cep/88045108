@@ -1,12 +1,12 @@
 {
-  "cep": "88045108",
-  "logradouro": "Rua Abdon Batista",
-  "bairro": "Saco dos Limões",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Saco dos Limões;",
+    "cep": "88045108",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Abdon Batista;"
 }

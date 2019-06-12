@@ -1,12 +1,13 @@
 {
-  "cep": "89027515",
-  "logradouro": "Rua Henrique Schreiber",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89027515",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Henrique Schreiber;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89613970",
-  "logradouro": "AC Erval Velho Rua Quinze de Novembro 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Erval Velho",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89613970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Erval Velho"
+    },
+    "ibge": 4205209,
+    "logradouro": "Rua Quinze de Novembro, 10  AC Erval Velho;"
 }

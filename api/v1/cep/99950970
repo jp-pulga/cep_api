@@ -1,12 +1,13 @@
 {
-  "cep": "99950970",
-  "logradouro": "AC Tapejara Rua Angelo Dalzotto 343",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tapejara",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99950970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tapejara"
+    },
+    "ibge": 4320909,
+    "logradouro": "Rua Angelo Dalzotto, 343  AC Tapejara;"
 }

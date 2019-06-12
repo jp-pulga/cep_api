@@ -1,12 +1,13 @@
 {
-  "cep": "88230970",
-  "logradouro": "AC Canelinha Rua Joaquim José Santana 2215",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canelinha",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88230970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Canelinha"
+    },
+    "ibge": 4203709,
+    "logradouro": "Rua Joaquim José Santana, 2215  AC Canelinha;"
 }

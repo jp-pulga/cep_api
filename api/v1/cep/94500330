@@ -1,12 +1,13 @@
 {
-  "cep": "94500330",
-  "logradouro": "Avenida Universitária",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "94500330",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Universitária;"
 }

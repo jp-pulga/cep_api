@@ -1,12 +1,13 @@
 {
-  "cep": "88020000",
-  "logradouro": "Avenida Hercílio Luz até 759/760",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88020000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Hercílio Luz - até 759\/760;"
 }

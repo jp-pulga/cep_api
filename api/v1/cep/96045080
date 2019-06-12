@@ -1,12 +1,12 @@
 {
-  "cep": "96045080",
-  "logradouro": "Rua General João Nunes da Silva Tavares",
-  "bairro": "Fragata",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fragata;",
+    "cep": "96045080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua General João Nunes da Silva Tavares;"
 }

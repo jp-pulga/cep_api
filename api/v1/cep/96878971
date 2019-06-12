@@ -1,12 +1,13 @@
 {
-  "cep": "96878971",
-  "logradouro": "AC Vale do Sol Avenida Quinze de Setembro 1244",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vale do Sol",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96878971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Vale do Sol"
+    },
+    "ibge": 4322533,
+    "logradouro": "Avenida Quinze de Setembro, 1244  AC Vale do Sol;"
 }

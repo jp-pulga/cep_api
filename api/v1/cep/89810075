@@ -1,12 +1,13 @@
 {
-  "cep": "89810075",
-  "logradouro": "Acesso Plínio Arlindo de Nes até 769 - lado ímpar",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "89810075",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Acesso Plínio Arlindo de Nes - até 769 - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88356030",
-  "logradouro": "Rua Ernesto Schroeder",
-  "bairro": "Limeira",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Limeira Baixa;",
+    "cep": "88356030",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Ernesto Schroeder;"
 }

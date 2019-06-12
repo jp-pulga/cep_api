@@ -1,12 +1,13 @@
 {
-  "cep": "89843971",
-  "logradouro": "AC Águas Frias Rua João Pessoa 364",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Águas Frias",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89843971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Águas Frias"
+    },
+    "ibge": 4200556,
+    "logradouro": "Rua João Pessoa, 364  AC Águas Frias;"
 }

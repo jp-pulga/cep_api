@@ -1,12 +1,12 @@
 {
-  "cep": "88309661",
-  "logradouro": "Avenida Campos Novos de 420/421 a 888/889",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "88309661",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Avenida Campos Novos - de 420\/421 a 888\/889;"
 }

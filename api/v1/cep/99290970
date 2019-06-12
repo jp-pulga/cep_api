@@ -1,12 +1,13 @@
 {
-  "cep": "99290970",
-  "logradouro": "AC Vanini Rua Duque de Caxias 61",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vanini",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99290970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Vanini"
+    },
+    "ibge": 4322558,
+    "logradouro": "Rua Duque de Caxias, 61  AC Vanini;"
 }

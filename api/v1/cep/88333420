@@ -1,12 +1,12 @@
 {
-  "cep": "88333420",
-  "logradouro": "Calçadão de Laranjeiras",
-  "bairro": "Praia das Laranjeiras",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia das Laranjeiras;",
+    "cep": "88333420",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Calçadão de Laranjeiras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98807186",
-  "logradouro": "Rua São Nicolau",
-  "bairro": "Missões",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Missões;",
+    "cep": "98807186",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua São Nicolau;"
 }

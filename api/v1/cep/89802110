@@ -1,12 +1,13 @@
 {
-  "cep": "89802110",
-  "logradouro": "Avenida Fernando Machado D - até 619/620",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89802110",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Avenida Fernando Machado - D - até 619\/620;"
 }

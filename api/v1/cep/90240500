@@ -1,12 +1,12 @@
 {
-  "cep": "90240500",
-  "logradouro": "Rua Vilela Tavares",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "90240500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Vilela Tavares;"
 }

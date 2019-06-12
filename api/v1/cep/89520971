@@ -1,12 +1,13 @@
 {
-  "cep": "89520971",
-  "logradouro": "TECA Curitibanos Avenida Pedro David Fernandes de Souza s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curitibanos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89520971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Curitibanos"
+    },
+    "ibge": 4204806,
+    "logradouro": "Avenida Pedro David Fernandes de Souza, s\/n  TECA Curitibanos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98600970",
-  "logradouro": "AC Três Passos Avenida Santos Dumont 72",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Passos",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98600970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Passos"
+    },
+    "ibge": 4321907,
+    "logradouro": "Avenida Santos Dumont, 72  AC Três Passos;"
 }

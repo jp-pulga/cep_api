@@ -1,12 +1,13 @@
 {
-  "cep": "88070121",
-  "logradouro": "Avenida Juscelino Kubitschek de Oliveira de 0601/602 a 3798/3799",
-  "bairro": "Estreito",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Estreito;",
+    "cep": "88070121",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Juscelino Kubitschek de Oliveira - de 0601\/602 a 3798\/3799;"
 }

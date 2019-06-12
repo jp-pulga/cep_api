@@ -1,12 +1,13 @@
 {
-  "cep": "88815400",
-  "logradouro": "Alameda das Araras",
-  "bairro": "Bosque do Repouso",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bosque do Repouso;",
+    "cep": "88815400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Alameda das Araras;"
 }

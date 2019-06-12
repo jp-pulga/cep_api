@@ -1,12 +1,12 @@
 {
-  "cep": "95124000",
-  "logradouro": "Rua Principal",
-  "bairro": "São Pedro da Terceira Légua",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Pedro da Terceira Légua;",
+    "cep": "95124000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Principal;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88075542",
-  "logradouro": "Rua Abelardo Luz",
-  "bairro": "Balneário",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Balneário;",
+    "cep": "88075542",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Abelardo Luz;"
 }

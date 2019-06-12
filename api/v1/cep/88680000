@@ -1,12 +1,11 @@
 {
-  "cep": "88680000",
-  "logradouro": "Bom Retiro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bom Retiro",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88680000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bom Retiro"
+    },
+    "ibge": 4202602
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88805400",
-  "logradouro": "Avenida dos Italianos",
-  "bairro": "Santa Augusta",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Augusta;",
+    "cep": "88805400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida dos Italianos;"
 }

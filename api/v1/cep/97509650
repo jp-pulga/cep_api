@@ -1,12 +1,13 @@
 {
-  "cep": "97509650",
-  "logradouro": "Avenida Marechal Setembrino de Carvalho lado par",
-  "bairro": "União das Vilas",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "União das Vilas;",
+    "cep": "97509650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Marechal Setembrino de Carvalho - lado par;"
 }

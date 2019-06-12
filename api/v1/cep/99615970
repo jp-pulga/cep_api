@@ -1,12 +1,13 @@
 {
-  "cep": "99615970",
-  "logradouro": "AC Trindade do Sul Rua Umbu 155",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Trindade do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99615970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Trindade do Sul"
+    },
+    "ibge": 4321956,
+    "logradouro": "Rua Umbu, 155  AC Trindade do Sul;"
 }

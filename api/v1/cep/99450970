@@ -1,12 +1,13 @@
 {
-  "cep": "99450970",
-  "logradouro": "AC Selbach Avenida Vinte e Cinco de Julho 812",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Selbach",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99450970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Selbach"
+    },
+    "ibge": 4320305,
+    "logradouro": "Avenida Vinte e Cinco de Julho, 812  AC Selbach;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89237256",
-  "logradouro": "Rua Aurora da Rocha Corrêa",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "89237256",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Aurora da Rocha Corrêa;"
 }

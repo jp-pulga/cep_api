@@ -1,12 +1,12 @@
 {
-  "cep": "96212350",
-  "logradouro": "Rua Antônio Maria da Costa Freitas",
-  "bairro": "Vila Rural",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Rural;",
+    "cep": "96212350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Antônio Maria da Costa Freitas;"
 }

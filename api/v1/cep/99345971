@@ -1,12 +1,13 @@
 {
-  "cep": "99345971",
-  "logradouro": "AC Tio Hugo Rua Ceará 04",
-  "bairro": "Rabello",
-  "cidade": {
-    "nome": "Tio Hugo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rabello;",
+    "cep": "99345971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tio Hugo"
+    },
+    "ibge": 4321469,
+    "logradouro": "Rua Ceará, 04  AC Tio Hugo;"
 }

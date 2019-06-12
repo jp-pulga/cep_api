@@ -1,12 +1,13 @@
 {
-  "cep": "89812160",
-  "logradouro": "Rua Ponoe Scheffer até 339/340",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89812160",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Rua Ponoe Scheffer - até 339\/340;"
 }

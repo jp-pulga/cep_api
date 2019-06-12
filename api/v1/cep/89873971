@@ -1,12 +1,13 @@
 {
-  "cep": "89873971",
-  "logradouro": "AC Bom Jesus do Oeste Avenida Planalto 318",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus do Oeste",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89873971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bom Jesus do Oeste"
+    },
+    "ibge": 4202578,
+    "logradouro": "Avenida Planalto, 318  AC Bom Jesus do Oeste;"
 }

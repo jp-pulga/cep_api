@@ -1,12 +1,13 @@
 {
-  "cep": "93220544",
-  "logradouro": "Rodovia RS-118",
-  "bairro": "Primor",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Primor;",
+    "cep": "93220544",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "ibge": 4320008,
+    "logradouro": "Rodovia RS-118;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89212600",
-  "logradouro": "Rua Águas de Chapecó",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "89212600",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Águas de Chapecó;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98675970",
-  "logradouro": "AC Sede Nova Rua João Dahne 443",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sede Nova",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98675970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sede Nova"
+    },
+    "ibge": 4320230,
+    "logradouro": "Rua João Dahne, 443  AC Sede Nova;"
 }

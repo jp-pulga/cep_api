@@ -1,12 +1,12 @@
 {
-  "cep": "88805230",
-  "logradouro": "Rua Bom Jardim da Serra",
-  "bairro": "Santa Augusta",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Augusta;",
+    "cep": "88805230",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Bom Jardim da Serra;"
 }

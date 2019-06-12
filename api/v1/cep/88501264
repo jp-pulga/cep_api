@@ -1,12 +1,12 @@
 {
-  "cep": "88501264",
-  "logradouro": "Praça dos Bandeirantes",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88501264",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Praça dos Bandeirantes;"
 }

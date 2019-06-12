@@ -1,12 +1,12 @@
 {
-  "cep": "94400990",
-  "logradouro": "Morro Grande RS-040 Parada 95",
-  "bairro": "",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "94400990",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "RS-040, Parada 95  CPC Morro Grande;"
 }

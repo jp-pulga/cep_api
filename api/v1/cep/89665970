@@ -1,12 +1,13 @@
 {
-  "cep": "89665970",
-  "logradouro": "AC Capinzal Rua Wanda Meyer 25 Sala 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capinzal",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89665970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Capinzal"
+    },
+    "ibge": 4203907,
+    "logradouro": "Rua Wanda Meyer, 25 Sala 1  AC Capinzal;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88806730",
-  "logradouro": "Avenida Progresso lado ímpar",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "88806730",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Progresso - lado ímpar;"
 }

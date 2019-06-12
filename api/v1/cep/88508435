@@ -1,12 +1,12 @@
 {
-  "cep": "88508435",
-  "logradouro": "Rua Peru",
-  "bairro": "Frei Rogério",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Frei Rogério;",
+    "cep": "88508435",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Peru;"
 }

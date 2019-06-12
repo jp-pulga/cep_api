@@ -1,12 +1,13 @@
 {
-  "cep": "89530972",
-  "logradouro": "AGC Núcleo Triticula Rua São Francisco s/n",
-  "bairro": "Núcleo Triticula",
-  "cidade": {
-    "nome": "Frei Rogério",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Núcleo Triticula;",
+    "cep": "89530972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Frei Rogério"
+    },
+    "ibge": 4205555,
+    "logradouro": "Rua São Francisco, s\/n  AGC Núcleo Triticula;"
 }

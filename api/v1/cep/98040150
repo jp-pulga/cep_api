@@ -1,12 +1,12 @@
 {
-  "cep": "98040150",
-  "logradouro": "Rua Taquari",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "98040150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Taquari;"
 }

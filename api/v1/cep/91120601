@@ -1,12 +1,12 @@
 {
-  "cep": "91120601",
-  "logradouro": "Acesso Dezesseis A (Vl N Brasília)",
-  "bairro": "Sarandi",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sarandi;",
+    "cep": "91120601",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso Dezesseis A (Vl N Brasília);"
 }

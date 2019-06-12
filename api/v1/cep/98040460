@@ -1,12 +1,12 @@
 {
-  "cep": "98040460",
-  "logradouro": "Rua Silveira Martins",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "98040460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Silveira Martins;"
 }

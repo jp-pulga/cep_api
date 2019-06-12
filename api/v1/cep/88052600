@@ -1,12 +1,13 @@
 {
-  "cep": "88052600",
-  "logradouro": "Estrada Cristóvão Machado de Campos até 4999/5000",
-  "bairro": "Vargem Grande",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vargem Grande;",
+    "cep": "88052600",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Estrada Cristóvão Machado de Campos - até 4999\/5000;"
 }

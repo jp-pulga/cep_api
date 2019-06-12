@@ -1,12 +1,12 @@
 {
-  "cep": "93344170",
-  "logradouro": "Rua São Nicolau",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "93344170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua São Nicolau;"
 }

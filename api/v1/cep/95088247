@@ -1,12 +1,12 @@
 {
-  "cep": "95088247",
-  "logradouro": "Rua 27 de Setembro (Lot Conquista)",
-  "bairro": "Santa Corona",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Corona;",
+    "cep": "95088247",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua 27 de Setembro (Lot Conquista);"
 }

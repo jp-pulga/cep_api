@@ -1,12 +1,12 @@
 {
-  "cep": "99040670",
-  "logradouro": "Rua das Torres",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "99040670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua das Torres;"
 }

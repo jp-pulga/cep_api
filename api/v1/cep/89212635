@@ -1,12 +1,12 @@
 {
-  "cep": "89212635",
-  "logradouro": "Rua Água Doce",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "89212635",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Água Doce;"
 }

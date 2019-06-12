@@ -1,12 +1,13 @@
 {
-  "cep": "96148971",
-  "logradouro": "AC Turuçu Rua Teodoro Bartz 17",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Turuçu",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96148971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Turuçu"
+    },
+    "ibge": 4322327,
+    "logradouro": "Rua Teodoro Bartz, 17  AC Turuçu;"
 }

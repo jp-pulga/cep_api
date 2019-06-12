@@ -1,12 +1,13 @@
 {
-  "cep": "89890970",
-  "logradouro": "AC Cunha Porã Rua Moura Brasil 1169",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cunha Porã",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89890970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Cunha Porã"
+    },
+    "ibge": 4204707,
+    "logradouro": "Rua Sete de Setembro, 1039  AC Cunha Porã;"
 }

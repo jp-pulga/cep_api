@@ -1,12 +1,12 @@
 {
-  "cep": "88303020",
-  "logradouro": "Rua Anita Garibaldi",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88303020",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Anita Garibaldi;"
 }

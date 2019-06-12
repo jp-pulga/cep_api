@@ -1,12 +1,13 @@
 {
-  "cep": "89740970",
-  "logradouro": "AC Arabutã Avenida Lauro Muller 249",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arabutã",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89740970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Arabutã"
+    },
+    "ibge": 4201273,
+    "logradouro": "Avenida Lauro Muller, 249  AC Arabutã;"
 }

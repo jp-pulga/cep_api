@@ -1,12 +1,12 @@
 {
-  "cep": "89203030",
-  "logradouro": "Rua Braço do Norte",
-  "bairro": "Atiradores",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Atiradores;",
+    "cep": "89203030",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Braço do Norte;"
 }

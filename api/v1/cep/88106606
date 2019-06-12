@@ -1,12 +1,12 @@
 {
-  "cep": "88106606",
-  "logradouro": "Rua Cristina Martendal Farias",
-  "bairro": "Forquilhinha",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Forquilhinha;",
+    "cep": "88106606",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Cristina Martendal Farias;"
 }

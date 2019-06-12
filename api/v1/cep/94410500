@@ -1,12 +1,13 @@
 {
-  "cep": "94410500",
-  "logradouro": "Avenida Mendanha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "94410500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Mendanha;"
 }

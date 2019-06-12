@@ -1,12 +1,13 @@
 {
-  "cep": "89810470",
-  "logradouro": "Rua João Francisco Schneider",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "89810470",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Rua João Francisco Schneider;"
 }

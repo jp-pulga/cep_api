@@ -1,12 +1,12 @@
 {
-  "cep": "94155090",
-  "logradouro": "Rua Cruzeiro do Sul",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "94155090",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Cruzeiro do Sul;"
 }

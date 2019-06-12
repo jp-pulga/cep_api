@@ -1,12 +1,12 @@
 {
-  "cep": "89805276",
-  "logradouro": "Rua Campo Erê",
-  "bairro": "Líder",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Líder;",
+    "cep": "89805276",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Campo Erê;"
 }

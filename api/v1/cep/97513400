@@ -1,12 +1,13 @@
 {
-  "cep": "97513400",
-  "logradouro": "Avenida Perimetral Sul",
-  "bairro": "Distrito Rodoviário",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Distrito Rodoviário;",
+    "cep": "97513400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Perimetral Sul;"
 }

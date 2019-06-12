@@ -1,12 +1,12 @@
 {
-  "cep": "89165149",
-  "logradouro": "Rua Fraiburgo",
-  "bairro": "Barragem",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barragem;",
+    "cep": "89165149",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Fraiburgo;"
 }

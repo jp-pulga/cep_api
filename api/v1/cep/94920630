@@ -1,12 +1,12 @@
 {
-  "cep": "94920630",
-  "logradouro": "Rua Sete de Setembro",
-  "bairro": "Vila Jardim América",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Jardim América;",
+    "cep": "94920630",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Sete de Setembro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94130050",
-  "logradouro": "Rua Sinimbu",
-  "bairro": "Bom Sucesso",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bom Sucesso;",
+    "cep": "94130050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Sinimbu;"
 }

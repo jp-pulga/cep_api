@@ -1,12 +1,12 @@
 {
-  "cep": "99010700",
-  "logradouro": "Rua Mariano Ayala (Vl Popular)",
-  "bairro": "Vila Rodrigues",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Rodrigues;",
+    "cep": "99010700",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Mariano Ayala (Vl Popular);"
 }

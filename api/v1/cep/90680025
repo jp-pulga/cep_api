@@ -1,12 +1,12 @@
 {
-  "cep": "90680025",
-  "logradouro": "Travessa Soledade",
-  "bairro": "Partenon",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Partenon;",
+    "cep": "90680025",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Travessa Soledade;"
 }

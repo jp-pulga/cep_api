@@ -1,12 +1,13 @@
 {
-  "cep": "88750972",
-  "logradouro": "CDD Braço do Norte Avenida Felipe Schmidt 1949",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Braço do Norte",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88750972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Braço do Norte"
+    },
+    "ibge": 4202800,
+    "logradouro": "Avenida Felipe Schmidt, 1949  CDD Braço do Norte;"
 }

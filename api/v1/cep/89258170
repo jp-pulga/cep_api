@@ -1,12 +1,12 @@
 {
-  "cep": "89258170",
-  "logradouro": "Rua Araquari",
-  "bairro": "Ilha da Figueira",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ilha da Figueira;",
+    "cep": "89258170",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua Araquari;"
 }

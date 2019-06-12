@@ -1,12 +1,12 @@
 {
-  "cep": "88110580",
-  "logradouro": "Rua Canelinha",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "88110580",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Canelinha;"
 }

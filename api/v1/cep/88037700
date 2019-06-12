@@ -1,12 +1,13 @@
 {
-  "cep": "88037700",
-  "logradouro": "Avenida Carlos Gonzaga",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Córrego Grande;",
+    "cep": "88037700",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Carlos Gonzaga;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88113740",
-  "logradouro": "Rua José de Anchieta",
-  "bairro": "Areias",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Areias;",
+    "cep": "88113740",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua José de Anchieta;"
 }

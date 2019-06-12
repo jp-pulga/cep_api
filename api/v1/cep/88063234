@@ -1,12 +1,12 @@
 {
-  "cep": "88063234",
-  "logradouro": "Servidão Antonio Carlos Rodrigues",
-  "bairro": "Campeche",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campeche;",
+    "cep": "88063234",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Antonio Carlos Rodrigues;"
 }

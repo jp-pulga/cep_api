@@ -1,12 +1,12 @@
 {
-  "cep": "97541501",
-  "logradouro": "Rua Venâncio Aires lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97541501",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Venâncio Aires - lado ímpar;"
 }

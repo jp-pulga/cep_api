@@ -1,12 +1,12 @@
 {
-  "cep": "93110350",
-  "logradouro": "Avenida Senador Salgado Filho até 1899 - lado ímpar",
-  "bairro": "Rio dos Sinos",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio dos Sinos;",
+    "cep": "93110350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Avenida Senador Salgado Filho - até 1899 - lado ímpar;"
 }

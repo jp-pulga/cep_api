@@ -1,12 +1,13 @@
 {
-  "cep": "94420650",
-  "logradouro": "Avenida Vida Nova",
-  "bairro": "Elsa",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Elsa;",
+    "cep": "94420650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Vida Nova;"
 }

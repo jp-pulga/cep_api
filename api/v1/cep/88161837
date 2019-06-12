@@ -1,12 +1,13 @@
 {
-  "cep": "88161837",
-  "logradouro": "Rua Wilson Laus Schmitt",
-  "bairro": "Rio Caveiras",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Caveiras;",
+    "cep": "88161837",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Rua Wilson Laus Schmitt;"
 }

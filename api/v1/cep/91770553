@@ -1,12 +1,12 @@
 {
-  "cep": "91770553",
-  "logradouro": "Rua Waldemar da Silva Tavares",
-  "bairro": "Guarujá",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Guarujá;",
+    "cep": "91770553",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Waldemar da Silva Tavares;"
 }

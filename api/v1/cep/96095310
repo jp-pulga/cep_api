@@ -1,12 +1,12 @@
 {
-  "cep": "96095310",
-  "logradouro": "Travessa Marino Manoel Torres",
-  "bairro": "Laranjal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjal;",
+    "cep": "96095310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Travessa Marino Manoel Torres;"
 }

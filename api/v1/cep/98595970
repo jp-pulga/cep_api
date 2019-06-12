@@ -1,12 +1,13 @@
 {
-  "cep": "98595970",
-  "logradouro": "AGC São Valério do Sul Rua Balduino Weiller 626",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Valério do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98595970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Valério do Sul"
+    },
+    "ibge": 4319737,
+    "logradouro": "Rua Balduino Weiller, 626  AGC São Valério do Sul;"
 }

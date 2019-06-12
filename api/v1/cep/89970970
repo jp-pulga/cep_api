@@ -1,12 +1,13 @@
 {
-  "cep": "89970970",
-  "logradouro": "AC Anchieta Avenida Anchieta 410",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89970970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Anchieta"
+    },
+    "ibge": 4200804,
+    "logradouro": "Avenida Anchieta, 410  AC Anchieta;"
 }

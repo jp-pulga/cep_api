@@ -1,12 +1,12 @@
 {
-  "cep": "88132738",
-  "logradouro": "Rua Doutor Pedrinho",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "88132738",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Doutor Pedrinho;"
 }

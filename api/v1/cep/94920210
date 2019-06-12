@@ -1,12 +1,12 @@
 {
-  "cep": "94920210",
-  "logradouro": "Rua Doutor Washington Luiz",
-  "bairro": "Vila Veranópolis",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Veranópolis;",
+    "cep": "94920210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Doutor Washington Luiz;"
 }

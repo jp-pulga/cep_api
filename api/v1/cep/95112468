@@ -1,12 +1,12 @@
 {
-  "cep": "95112468",
-  "logradouro": "Rua Lupicínio Rodrigues (Lot Vale Verde)",
-  "bairro": "Marechal Floriano",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marechal Floriano;",
+    "cep": "95112468",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Lupicínio Rodrigues (Lot Vale Verde);"
 }

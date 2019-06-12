@@ -1,12 +1,12 @@
 {
-  "cep": "91510550",
-  "logradouro": "Rua Maria Aparecida",
-  "bairro": "Vila João Pessoa",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila João Pessoa;",
+    "cep": "91510550",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Maria Aparecida;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98025465",
-  "logradouro": "Avenida Venâncio Aires",
-  "bairro": "Schettert",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Schettert;",
+    "cep": "98025465",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Avenida Venâncio Aires;"
 }

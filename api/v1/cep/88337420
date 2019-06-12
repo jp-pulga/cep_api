@@ -1,12 +1,12 @@
 {
-  "cep": "88337420",
-  "logradouro": "Rua Bom Retiro",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "88337420",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Rua Bom Retiro;"
 }

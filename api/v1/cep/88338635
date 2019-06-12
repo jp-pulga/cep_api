@@ -1,12 +1,13 @@
 {
-  "cep": "88338635",
-  "logradouro": "Avenida do Estado Dalmo Vieira até 1204 - lado par",
-  "bairro": "Ariribá",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ariribá;",
+    "cep": "88338635",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "ibge": 4202008,
+    "logradouro": "Avenida do Estado Dalmo Vieira - até 1204 - lado par;"
 }

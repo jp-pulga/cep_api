@@ -1,12 +1,12 @@
 {
-  "cep": "88047615",
-  "logradouro": "Rua Galvão",
-  "bairro": "Carianos",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Carianos;",
+    "cep": "88047615",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Galvão;"
 }

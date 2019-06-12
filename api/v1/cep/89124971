@@ -1,12 +1,13 @@
 {
-  "cep": "89124971",
-  "logradouro": "AGC Barra São João Rua Ministro Luiz Galotti 557",
-  "bairro": "Barra São João",
-  "cidade": {
-    "nome": "Benedito Novo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra São João;",
+    "cep": "89124971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Benedito Novo"
+    },
+    "ibge": 4202206,
+    "logradouro": "Rua Ministro Luiz Galotti, 557  AGC Barra São João;"
 }

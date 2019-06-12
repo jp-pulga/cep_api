@@ -1,12 +1,13 @@
 {
-  "cep": "94515160",
-  "logradouro": "Avenida Central",
-  "bairro": "Augusta",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Augusta;",
+    "cep": "94515160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Central;"
 }

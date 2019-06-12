@@ -1,12 +1,13 @@
 {
-  "cep": "89859971",
-  "logradouro": "AC Formosa do Sul Rua Antônio Cella 288",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Formosa do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89859971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Formosa do Sul"
+    },
+    "ibge": 4205431,
+    "logradouro": "Rua Antônio Cella, 288  AC Formosa do Sul;"
 }

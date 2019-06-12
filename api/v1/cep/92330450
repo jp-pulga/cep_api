@@ -1,12 +1,12 @@
 {
-  "cep": "92330450",
-  "logradouro": "Rua Tapes",
-  "bairro": "Mathias Velho",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mathias Velho;",
+    "cep": "92330450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Tapes;"
 }

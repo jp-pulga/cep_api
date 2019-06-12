@@ -1,12 +1,12 @@
 {
-  "cep": "97419000",
-  "logradouro": "Linha Bonita (Toropi)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Linha Bonita (Toropi)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Linha Bonita",
+    "cep": "97419000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Toropi"
+    },
+    "ibge": 4321493
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95592000",
-  "logradouro": "Estância Velha (Tramandaí)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Estância Velha (Tramandaí)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Estância Velha",
+    "cep": "95592000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tramandaí"
+    },
+    "ibge": 4321600
 }

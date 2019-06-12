@@ -1,12 +1,13 @@
 {
-  "cep": "88015701",
-  "logradouro": "Avenida Jornalista Rubens de Arruda Ramos de 1894/1895 a 2138/2139",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88015701",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Jornalista Rubens de Arruda Ramos - de 1894\/1895 a 2138\/2139;"
 }

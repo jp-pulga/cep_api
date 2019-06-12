@@ -1,12 +1,13 @@
 {
-  "cep": "98323971",
-  "logradouro": "AC São Pedro das Missões Avenida Brasil 5588",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98323971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Pedro das Missões"
+    },
+    "ibge": 4319364,
+    "logradouro": "Avenida Brasil, 5588  AC São Pedro das Missões;"
 }

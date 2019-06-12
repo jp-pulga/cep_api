@@ -1,12 +1,12 @@
 {
-  "cep": "95095384",
-  "logradouro": "Rua Marco Antonio Martta (Lot Vila Margarida)",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "95095384",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Marco Antonio Martta (Lot Vila Margarida);"
 }

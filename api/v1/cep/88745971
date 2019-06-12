@@ -1,12 +1,13 @@
 {
-  "cep": "88745971",
-  "logradouro": "AC Capivari de Baixo Rua Machado de Assis 542 Loja 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capivari de Baixo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88745971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Capivari de Baixo"
+    },
+    "ibge": 4203956,
+    "logradouro": "Rua Machado de Assis, 542 Loja 3  AC Capivari de Baixo;"
 }

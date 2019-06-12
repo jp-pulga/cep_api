@@ -1,12 +1,13 @@
 {
-  "cep": "88935970",
-  "logradouro": "AGC Ermo Avenida Pedro Simon 422",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ermo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88935970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ermo"
+    },
+    "ibge": 4205191,
+    "logradouro": "Avenida Pedro Simon, 422  AGC Ermo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98010377",
-  "logradouro": "Avenida Venâncio Aires",
-  "bairro": "Jung",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jung;",
+    "cep": "98010377",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Avenida Venâncio Aires;"
 }

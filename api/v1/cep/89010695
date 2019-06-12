@@ -1,12 +1,12 @@
 {
-  "cep": "89010695",
-  "logradouro": "Rua Recife",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "89010695",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Recife;"
 }

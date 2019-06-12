@@ -1,12 +1,12 @@
 {
-  "cep": "39800171",
-  "logradouro": "Rua Hermann Schroeder",
-  "bairro": "Grão Pará",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grão Pará;",
+    "cep": "39800171",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Hermann Schroeder;"
 }

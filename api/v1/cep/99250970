@@ -1,12 +1,13 @@
 {
-  "cep": "99250970",
-  "logradouro": "AC Serafina Corrêa Rua Ipiranga 1347 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serafina Corrêa",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99250970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Serafina Corrêa"
+    },
+    "ibge": 4320404,
+    "logradouro": "Rua Ipiranga, 1347 Sala 01  AC Serafina Corrêa;"
 }

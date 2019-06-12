@@ -1,12 +1,12 @@
 {
-  "cep": "88810210",
-  "logradouro": "Rua Anita Garibaldi de 743/744 ao fim",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88810210",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Anita Garibaldi - de 743\/744 ao fim;"
 }

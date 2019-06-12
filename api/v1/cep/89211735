@@ -1,12 +1,12 @@
 {
-  "cep": "89211735",
-  "logradouro": "Rua Cunha Porã",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "89211735",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Cunha Porã;"
 }

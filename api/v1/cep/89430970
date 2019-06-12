@@ -1,12 +1,13 @@
 {
-  "cep": "89430970",
-  "logradouro": "AGC Calmon Rua Theodosio Paulek s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Calmon",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89430970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Calmon"
+    },
+    "ibge": 4203154,
+    "logradouro": "Rua Theodosio Paulek, s\/n  AGC Calmon;"
 }

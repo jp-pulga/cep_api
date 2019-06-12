@@ -1,12 +1,12 @@
 {
-  "cep": "88508460",
-  "logradouro": "Rua Equador",
-  "bairro": "Frei Rogério",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Frei Rogério;",
+    "cep": "88508460",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Equador;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88810162",
-  "logradouro": "Rua Jair Scotti",
-  "bairro": "Lote Seis",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Lote Seis;",
+    "cep": "88810162",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Rua Jair Scotti;"
 }

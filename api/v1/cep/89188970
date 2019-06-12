@@ -1,12 +1,13 @@
 {
-  "cep": "89188970",
-  "logradouro": "AC Agronômica Rua XV de Novembro 681",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Agronômica",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89188970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Agronômica"
+    },
+    "ibge": 4200309,
+    "logradouro": "Rua XV de Novembro, 681  AC Agronômica;"
 }

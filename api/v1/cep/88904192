@@ -1,12 +1,13 @@
 {
-  "cep": "88904192",
-  "logradouro": "Avenida Capitão Pedro Fernandes lado ímpar",
-  "bairro": "Mato Alto",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Mato Alto;",
+    "cep": "88904192",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Avenida Capitão Pedro Fernandes - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94920240",
-  "logradouro": "Rua Eulina Rosa Silveira Martins",
-  "bairro": "Vila Eunice Nova",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Eunice Nova;",
+    "cep": "94920240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Eulina Rosa Silveira Martins;"
 }

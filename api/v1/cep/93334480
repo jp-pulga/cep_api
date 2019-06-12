@@ -1,12 +1,12 @@
 {
-  "cep": "93334480",
-  "logradouro": "Rua Tupanciretã",
-  "bairro": "Ideal",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ideal;",
+    "cep": "93334480",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Tupanciretã;"
 }

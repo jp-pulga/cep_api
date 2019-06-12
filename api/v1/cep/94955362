@@ -1,12 +1,12 @@
 {
-  "cep": "94955362",
-  "logradouro": "Rua Maria Paim",
-  "bairro": "Vila Anair",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Anair;",
+    "cep": "94955362",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Maria Paim;"
 }

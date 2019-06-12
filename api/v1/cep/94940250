@@ -1,12 +1,12 @@
 {
-  "cep": "94940250",
-  "logradouro": "Avenida Telmo Silveira Dorneles",
-  "bairro": "Vila Silveira Martins",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Silveira Martins;",
+    "cep": "94940250",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Avenida Telmo Silveira Dorneles;"
 }

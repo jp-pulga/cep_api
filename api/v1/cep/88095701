@@ -1,12 +1,13 @@
 {
-  "cep": "88095701",
-  "logradouro": "Avenida Atlântica de 651 ao fim - lado ímpar",
-  "bairro": "Jardim Atlântico",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Atlântico;",
+    "cep": "88095701",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Atlântica - de 651 ao fim - lado ímpar;"
 }

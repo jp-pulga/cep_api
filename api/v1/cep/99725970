@@ -1,12 +1,13 @@
 {
-  "cep": "99725970",
-  "logradouro": "AC Três Arroios Rua Max Kammler 33",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Arroios",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99725970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Arroios"
+    },
+    "ibge": 4321634,
+    "logradouro": "Rua Max Kammler, 33  AC Três Arroios;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88904320",
-  "logradouro": "Avenida Bandeira lado ímpar",
-  "bairro": "Lagoão",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Lagoão;",
+    "cep": "88904320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Avenida Bandeira - lado ímpar;"
 }

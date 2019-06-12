@@ -1,12 +1,13 @@
 {
-  "cep": "88338630",
-  "logradouro": "Avenida das Arapongas",
-  "bairro": "Ariribá",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ariribá;",
+    "cep": "88338630",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "ibge": 4202008,
+    "logradouro": "Avenida das Arapongas;"
 }

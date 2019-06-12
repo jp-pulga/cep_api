@@ -1,12 +1,13 @@
 {
-  "cep": "89063151",
-  "logradouro": "Rua Sílvia Schulle",
-  "bairro": "Itoupava Central",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Central;",
+    "cep": "89063151",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Sílvia Schulle;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88337340",
-  "logradouro": "Rua Campo Erê",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "88337340",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Rua Campo Erê;"
 }

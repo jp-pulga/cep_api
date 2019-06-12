@@ -1,12 +1,12 @@
 {
-  "cep": "98683000",
-  "logradouro": "Alto Uruguai (Tiradentes do Sul)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alto Uruguai (Tiradentes do Sul)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Alto Uruguai",
+    "cep": "98683000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tiradentes do Sul"
+    },
+    "ibge": 4321477
 }

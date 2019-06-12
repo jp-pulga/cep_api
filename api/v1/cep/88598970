@@ -1,12 +1,13 @@
 {
-  "cep": "88598970",
-  "logradouro": "AC Celso Ramos Rua Dom Daniel Hostin 960",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Celso Ramos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88598970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Celso Ramos"
+    },
+    "ibge": 4204152,
+    "logradouro": "Rua Dom Daniel Hostin, 960  AC Celso Ramos;"
 }

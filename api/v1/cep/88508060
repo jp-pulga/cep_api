@@ -1,12 +1,12 @@
 {
-  "cep": "88508060",
-  "logradouro": "Rua Modesto Casagrande",
-  "bairro": "Frei Rogério",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Frei Rogério;",
+    "cep": "88508060",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Modesto Casagrande;"
 }

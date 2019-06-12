@@ -1,12 +1,12 @@
 {
-  "cep": "89015154",
-  "logradouro": "Rua Grão-Pará",
-  "bairro": "Ribeirão Fresco",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ribeirão Fresco;",
+    "cep": "89015154",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Grão-Pará;"
 }

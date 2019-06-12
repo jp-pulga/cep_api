@@ -1,12 +1,13 @@
 {
-  "cep": "99878970",
-  "logradouro": "AGC Tupanci do Sul Rua Antônio Zotti 330",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tupanci do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99878970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tupanci do Sul"
+    },
+    "ibge": 4322186,
+    "logradouro": "Rua Antônio Zotti, 330  AGC Tupanci do Sul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96810099",
-  "logradouro": "Rua Gaspar Silveira Martins de 2491 ao fim - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96810099",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Gaspar Silveira Martins - de 2491 ao fim - lado ímpar;"
 }

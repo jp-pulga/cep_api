@@ -1,12 +1,12 @@
 {
-  "cep": "93022175",
-  "logradouro": "Rua Bento Tavares da Silva",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "93022175",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Bento Tavares da Silva;"
 }

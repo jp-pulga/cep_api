@@ -1,12 +1,13 @@
 {
-  "cep": "89074680",
-  "logradouro": "Rua Ribeirão Schelters",
-  "bairro": "Testo Salto",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Testo Salto;",
+    "cep": "89074680",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Ribeirão Schelters;"
 }

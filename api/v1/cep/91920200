@@ -1,12 +1,12 @@
 {
-  "cep": "91920200",
-  "logradouro": "Rua Cônego Vieira da Soledade",
-  "bairro": "Cavalhada",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cavalhada;",
+    "cep": "91920200",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Cônego Vieira da Soledade;"
 }

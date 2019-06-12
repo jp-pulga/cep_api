@@ -1,12 +1,12 @@
 {
-  "cep": "96203016",
-  "logradouro": "Rua D (Vl Trevo)",
-  "bairro": "Vila Maria José",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Maria José;",
+    "cep": "96203016",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua D (Vl Trevo);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91760050",
-  "logradouro": "Avenida Tramandaí",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipanema;",
+    "cep": "91760050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Tramandaí;"
 }

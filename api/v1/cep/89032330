@@ -1,12 +1,13 @@
 {
-  "cep": "89032330",
-  "logradouro": "Rua Albert Schulz",
-  "bairro": "Passo Manso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passo Manso;",
+    "cep": "89032330",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Albert Schulz;"
 }

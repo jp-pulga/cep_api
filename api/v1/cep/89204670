@@ -1,12 +1,12 @@
 {
-  "cep": "89204670",
-  "logradouro": "Rua Araquari",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "América;",
+    "cep": "89204670",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Araquari;"
 }

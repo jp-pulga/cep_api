@@ -1,12 +1,12 @@
 {
-  "cep": "95058370",
-  "logradouro": "Rua Tapejara",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "95058370",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Tapejara;"
 }

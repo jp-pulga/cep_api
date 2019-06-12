@@ -1,12 +1,12 @@
 {
-  "cep": "90200180",
-  "logradouro": "Travessa Padre Pedro Schneider",
-  "bairro": "Anchieta",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Anchieta;",
+    "cep": "90200180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Travessa Padre Pedro Schneider;"
 }

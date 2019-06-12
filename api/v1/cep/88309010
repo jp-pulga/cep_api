@@ -1,12 +1,12 @@
 {
-  "cep": "88309010",
-  "logradouro": "Rua Abelardo Luz",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "88309010",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Abelardo Luz;"
 }

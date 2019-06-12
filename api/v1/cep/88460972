@@ -1,12 +1,13 @@
 {
-  "cep": "88460972",
-  "logradouro": "AGC Betânia Estrada Geral de Betânia s/n",
-  "bairro": "Betania",
-  "cidade": {
-    "nome": "Angelina",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Betania;",
+    "cep": "88460972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Angelina"
+    },
+    "ibge": 4200903,
+    "logradouro": "Estrada Geral de Betânia, s\/n  AGC Betânia;"
 }

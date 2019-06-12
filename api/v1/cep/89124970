@@ -1,12 +1,13 @@
 {
-  "cep": "89124970",
-  "logradouro": "AC Benedito Novo Rua Quirino Longo 150",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Benedito Novo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89124970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Benedito Novo"
+    },
+    "ibge": 4202206,
+    "logradouro": "Rua Quirino Longo, 150  AC Benedito Novo;"
 }

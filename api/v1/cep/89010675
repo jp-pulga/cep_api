@@ -1,12 +1,12 @@
 {
-  "cep": "89010675",
-  "logradouro": "Rua Hermann Hering de 891/892 ao fim",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "89010675",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Hermann Hering - de 891\/892 ao fim;"
 }

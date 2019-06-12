@@ -1,12 +1,13 @@
 {
-  "cep": "88330907",
-  "logradouro": "Edifício Aldebaran Avenida Atlântica 2440",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88330907",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "ibge": 4202008,
+    "logradouro": "Avenida Atlântica, 2440  Edifício Aldebaran;"
 }

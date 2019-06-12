@@ -1,12 +1,12 @@
 {
-  "cep": "88056360",
-  "logradouro": "Avenida dos Jerivás",
-  "bairro": "Cachoeira do Bom Jesus",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cachoeira do Bom Jesus;",
+    "cep": "88056360",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Avenida dos Jerivás;"
 }

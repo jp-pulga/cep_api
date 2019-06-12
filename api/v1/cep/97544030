@@ -1,12 +1,12 @@
 {
-  "cep": "97544030",
-  "logradouro": "Rua das Américas",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "97544030",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua das Américas;"
 }

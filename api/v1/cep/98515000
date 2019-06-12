@@ -1,12 +1,12 @@
 {
-  "cep": "98515000",
-  "logradouro": "Daltro Filho (Tenente Portela)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Daltro Filho (Tenente Portela)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Daltro Filho",
+    "cep": "98515000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tenente Portela"
+    },
+    "ibge": 4321402
 }

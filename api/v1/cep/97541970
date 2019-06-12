@@ -1,12 +1,12 @@
 {
-  "cep": "97541970",
-  "logradouro": "AC Alegrete Rua Venâncio Aires 539",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97541970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Venâncio Aires, 539  AC Alegrete;"
 }

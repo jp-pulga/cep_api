@@ -1,12 +1,12 @@
 {
-  "cep": "89031350",
-  "logradouro": "Rua Dionísio Cerqueira",
-  "bairro": "Escola Agrícola",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Escola Agrícola;",
+    "cep": "89031350",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Dionísio Cerqueira;"
 }

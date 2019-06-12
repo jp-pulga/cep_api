@@ -1,12 +1,12 @@
 {
-  "cep": "97095430",
-  "logradouro": "Rua Dom Marcos Teixeira",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "97095430",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Dom Marcos Teixeira;"
 }

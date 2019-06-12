@@ -1,12 +1,12 @@
 {
-  "cep": "97020620",
-  "logradouro": "Rua Venâncio Aires",
-  "bairro": "Passo D'Areia",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo D'Areia;",
+    "cep": "97020620",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Venâncio Aires;"
 }

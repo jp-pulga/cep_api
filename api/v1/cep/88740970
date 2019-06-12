@@ -1,12 +1,13 @@
 {
-  "cep": "88740970",
-  "logradouro": "AC Armazém Rua Antônio Diomário da Rosa 155 Bloco B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Armazém",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88740970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Armazém"
+    },
+    "ibge": 4201505,
+    "logradouro": "Rua Antônio Diomário da Rosa, 155 Bloco B  AC Armazém;"
 }

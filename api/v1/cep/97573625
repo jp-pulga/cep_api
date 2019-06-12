@@ -1,12 +1,12 @@
 {
-  "cep": "97573625",
-  "logradouro": "Rua Silveira Martins de 851 ao fim - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Livramento",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97573625",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana do Livramento"
+    },
+    "logradouro": "Rua Silveira Martins - de 851 ao fim - lado ímpar;"
 }

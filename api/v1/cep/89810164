@@ -1,12 +1,12 @@
 {
-  "cep": "89810164",
-  "logradouro": "Rua Campos Novos de 331/332 ao fim",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "89810164",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Campos Novos - de 331\/332 ao fim;"
 }

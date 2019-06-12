@@ -1,12 +1,12 @@
 {
-  "cep": "89015158",
-  "logradouro": "Rua Concórdia",
-  "bairro": "Ribeirão Fresco",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ribeirão Fresco;",
+    "cep": "89015158",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Concórdia;"
 }

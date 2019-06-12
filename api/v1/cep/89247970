@@ -1,12 +1,13 @@
 {
-  "cep": "89247970",
-  "logradouro": "AC Balneário Barra do Sul Rua Amandio Cabral 889",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Barra do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89247970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Barra do Sul"
+    },
+    "ibge": 4202057,
+    "logradouro": "Rua Amandio Cabral, 889  AC Balneário Barra do Sul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88505316",
-  "logradouro": "Rua Alfredo Wagner",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "88505316",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Alfredo Wagner;"
 }

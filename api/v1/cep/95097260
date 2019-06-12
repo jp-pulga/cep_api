@@ -1,12 +1,12 @@
 {
-  "cep": "95097260",
-  "logradouro": "Rua Sapucaia",
-  "bairro": "São Leopoldo",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Leopoldo;",
+    "cep": "95097260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Sapucaia;"
 }

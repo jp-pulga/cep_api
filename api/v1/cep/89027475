@@ -1,12 +1,13 @@
 {
-  "cep": "89027475",
-  "logradouro": "Rua Helmuth Schwabe",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89027475",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Helmuth Schwabe;"
 }

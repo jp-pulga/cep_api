@@ -1,12 +1,13 @@
 {
-  "cep": "88331490",
-  "logradouro": "Avenida do Estado Dalmo Vieira até 1231 - lado ímpar",
-  "bairro": "Praia dos Amores",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia dos Amores;",
+    "cep": "88331490",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "ibge": 4202008,
+    "logradouro": "Avenida do Estado Dalmo Vieira - até 1231 - lado ímpar;"
 }

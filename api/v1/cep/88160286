@@ -1,12 +1,13 @@
 {
-  "cep": "88160286",
-  "logradouro": "Avenida Francisco Roberto da Silva até 280 - lado par",
-  "bairro": "Praia João Rosa",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia João Rosa;",
+    "cep": "88160286",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Avenida Francisco Roberto da Silva - até 280 - lado par;"
 }

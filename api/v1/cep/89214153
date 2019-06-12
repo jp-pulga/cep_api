@@ -1,12 +1,12 @@
 {
-  "cep": "89214153",
-  "logradouro": "Rua Caxambú do Sul",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "89214153",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Caxambú do Sul;"
 }

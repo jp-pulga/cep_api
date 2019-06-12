@@ -1,12 +1,13 @@
 {
-  "cep": "88190970",
-  "logradouro": "AC Governador Celso Ramos Praça Seis de Novembro 32",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Governador Celso Ramos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88190970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Governador Celso Ramos"
+    },
+    "ibge": 4206009,
+    "logradouro": "Praça Seis de Novembro, 32  AC Governador Celso Ramos;"
 }

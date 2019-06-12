@@ -1,12 +1,12 @@
 {
-  "cep": "88025345",
-  "logradouro": "Rua Doutor Albert Sabin",
-  "bairro": "Agronômica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Agronômica;",
+    "cep": "88025345",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Doutor Albert Sabin;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88168229",
-  "logradouro": "Rua Neusa Prazeres Scheidt",
-  "bairro": "São Miguel (Guaporanga)",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Miguel (Guaporanga);",
+    "cep": "88168229",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Rua Neusa Prazeres Scheidt;"
 }

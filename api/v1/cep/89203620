@@ -1,12 +1,12 @@
 {
-  "cep": "89203620",
-  "logradouro": "Rua Corupá",
-  "bairro": "Anita Garibaldi",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Anita Garibaldi;",
+    "cep": "89203620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Corupá;"
 }

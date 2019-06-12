@@ -1,12 +1,12 @@
 {
-  "cep": "88805764",
-  "logradouro": "Rua Bom Jardim da Serra",
-  "bairro": "Tereza Cristina",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tereza Cristina;",
+    "cep": "88805764",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Bom Jardim da Serra;"
 }

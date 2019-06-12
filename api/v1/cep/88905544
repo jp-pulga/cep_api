@@ -1,12 +1,13 @@
 {
-  "cep": "88905544",
-  "logradouro": "Rodovia SC-447 lado par",
-  "bairro": "Urussanguinha",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Urussanguinha;",
+    "cep": "88905544",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Rodovia SC-447 - lado par;"
 }

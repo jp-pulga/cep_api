@@ -1,12 +1,12 @@
 {
-  "cep": "88025540",
-  "logradouro": "Rua Dialtino Antônio Cabral",
-  "bairro": "Agronômica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Agronômica;",
+    "cep": "88025540",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Dialtino Antônio Cabral;"
 }

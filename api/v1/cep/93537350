@@ -1,12 +1,12 @@
 {
-  "cep": "93537350",
-  "logradouro": "Rua Triunfo",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "93537350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Triunfo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88420970",
-  "logradouro": "AC Agrolândia Rua Oscar Zwicker 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Agrolândia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88420970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Agrolândia"
+    },
+    "ibge": 4200200,
+    "logradouro": "Rua Oscar Zwicker, 35  AC Agrolândia;"
 }

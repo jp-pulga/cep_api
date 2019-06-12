@@ -1,12 +1,13 @@
 {
-  "cep": "88955971",
-  "logradouro": "AC Balneário Gaivota Rua Xavantes 188",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Gaivota",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88955971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Gaivota"
+    },
+    "ibge": 4202073,
+    "logradouro": "Rua Xavantes, 188  AC Balneário Gaivota;"
 }

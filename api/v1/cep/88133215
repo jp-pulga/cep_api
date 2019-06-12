@@ -1,12 +1,12 @@
 {
-  "cep": "88133215",
-  "logradouro": "Rua Anitápolis",
-  "bairro": "Passa Vinte",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passa Vinte;",
+    "cep": "88133215",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Anitápolis;"
 }

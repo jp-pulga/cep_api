@@ -1,12 +1,13 @@
 {
-  "cep": "88805505",
-  "logradouro": "Avenida dos Italianos",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "88805505",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida dos Italianos;"
 }

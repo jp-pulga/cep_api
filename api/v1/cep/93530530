@@ -1,12 +1,12 @@
 {
-  "cep": "93530530",
-  "logradouro": "Rua Taquari de 386/387 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "93530530",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Taquari - de 386\/387 ao fim;"
 }

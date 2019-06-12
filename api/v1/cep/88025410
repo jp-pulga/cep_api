@@ -1,12 +1,12 @@
 {
-  "cep": "88025410",
-  "logradouro": "Rua Firmino João Raffs",
-  "bairro": "Agronômica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Agronômica;",
+    "cep": "88025410",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Firmino João Raffs;"
 }

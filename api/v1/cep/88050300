@@ -1,12 +1,13 @@
 {
-  "cep": "88050300",
-  "logradouro": "Estrada Caminho dos Açores",
-  "bairro": "Santo Antônio de Lisboa",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santo Antônio de Lisboa;",
+    "cep": "88050300",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Estrada Caminho dos Açores;"
 }

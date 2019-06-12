@@ -1,12 +1,12 @@
 {
-  "cep": "89256240",
-  "logradouro": "Rua Primeiro Braço do Norte",
-  "bairro": "Vila Lalau",
-  "cidade": {
-    "nome": "Jaraguá do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Lalau;",
+    "cep": "89256240",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Jaraguá do Sul"
+    },
+    "logradouro": "Rua Primeiro Braço do Norte;"
 }

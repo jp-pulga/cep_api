@@ -1,12 +1,12 @@
 {
-  "cep": "94150130",
-  "logradouro": "Rua Taquaras",
-  "bairro": "Barnabé",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Barnabé;",
+    "cep": "94150130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Taquaras;"
 }

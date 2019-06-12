@@ -1,12 +1,12 @@
 {
-  "cep": "88337350",
-  "logradouro": "Rua Campos Novos",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "88337350",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Rua Campos Novos;"
 }

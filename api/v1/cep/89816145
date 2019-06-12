@@ -1,12 +1,13 @@
 {
-  "cep": "89816145",
-  "logradouro": "Rua Miguel Pedro Schmitz",
-  "bairro": "Centro (Marechal Bormann)",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro (Marechal Bormann);",
+    "cep": "89816145",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Rua Miguel Pedro Schmitz;"
 }

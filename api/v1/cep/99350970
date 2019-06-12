@@ -1,12 +1,13 @@
 {
-  "cep": "99350970",
-  "logradouro": "AC Victor Graeff Avenida Vinte e Cinco de Julho 578",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Victor Graeff",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99350970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Victor Graeff"
+    },
+    "ibge": 4323200,
+    "logradouro": "Avenida Vinte e Cinco de Julho, 578  AC Victor Graeff;"
 }

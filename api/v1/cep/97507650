@@ -1,12 +1,13 @@
 {
-  "cep": "97507650",
-  "logradouro": "Avenida Marechal Setembrino de Carvalho lado par",
-  "bairro": "Vila Júlia",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Júlia;",
+    "cep": "97507650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Marechal Setembrino de Carvalho - lado par;"
 }

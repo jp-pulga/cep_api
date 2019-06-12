@@ -1,12 +1,13 @@
 {
-  "cep": "88040401",
-  "logradouro": "Avenida Desembargador Vítor Lima de 400/401 ao fim",
-  "bairro": "Carvoeira",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Carvoeira;",
+    "cep": "88040401",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Desembargador Vítor Lima - de 400\/401 ao fim;"
 }

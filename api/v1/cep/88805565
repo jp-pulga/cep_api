@@ -1,12 +1,12 @@
 {
-  "cep": "88805565",
-  "logradouro": "Rua Erval Velho",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "88805565",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Erval Velho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "99709298",
-  "logradouro": "Avenida Sete de Setembro de 1031 a 1679 - lado ímpar",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "99709298",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Avenida Sete de Setembro - de 1031 a 1679 - lado ímpar;"
 }

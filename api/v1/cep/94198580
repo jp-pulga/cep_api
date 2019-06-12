@@ -1,12 +1,12 @@
 {
-  "cep": "94198580",
-  "logradouro": "Rua Silva Tavares",
-  "bairro": "Padre Réus",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Padre Réus;",
+    "cep": "94198580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Silva Tavares;"
 }

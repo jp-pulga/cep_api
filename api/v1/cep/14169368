@@ -1,12 +1,12 @@
 {
-  "cep": "14169368",
-  "logradouro": "Rua Laureano Scaranello",
-  "bairro": "Jardim Florenzza",
-  "cidade": {
-    "nome": "Sertãozinho",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Florenzza;",
+    "cep": "14169368",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sertãozinho"
+    },
+    "logradouro": "Rua Laureano Scaranello;"
 }

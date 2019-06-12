@@ -1,12 +1,12 @@
 {
-  "cep": "89010900",
-  "logradouro": "Companhia Hering S/A Rua Hermann Hering 1790",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "89010900",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Hermann Hering, 1790  Companhia Hering S\/A;"
 }

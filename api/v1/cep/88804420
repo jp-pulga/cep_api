@@ -1,12 +1,13 @@
 {
-  "cep": "88804420",
-  "logradouro": "Rua Afonso Scavone",
-  "bairro": "Pinheirinho",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pinheirinho;",
+    "cep": "88804420",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Rua Afonso Scavone;"
 }

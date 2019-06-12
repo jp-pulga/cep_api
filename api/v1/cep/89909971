@@ -1,12 +1,13 @@
 {
-  "cep": "89909971",
-  "logradouro": "AC Barra Bonita Rua do Ouvidor 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra Bonita",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89909971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Barra Bonita"
+    },
+    "ibge": 4202099,
+    "logradouro": "Rua do Ouvidor, 310  AC Barra Bonita;"
 }

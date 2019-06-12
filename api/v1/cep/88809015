@@ -1,12 +1,13 @@
 {
-  "cep": "88809015",
-  "logradouro": "Avenida Luiz Lazzarin lado ímpar",
-  "bairro": "Operária Nova",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Operária Nova;",
+    "cep": "88809015",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Luiz Lazzarin - lado par;"
 }

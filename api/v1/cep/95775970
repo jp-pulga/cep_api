@@ -1,12 +1,13 @@
 {
-  "cep": "95775970",
-  "logradouro": "AC Tupandi Avenida Salvador 1828 Sala 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tupandi",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95775970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tupandi"
+    },
+    "ibge": 4322251,
+    "logradouro": "Avenida Salvador, 1828 Sala 03  AC Tupandi;"
 }

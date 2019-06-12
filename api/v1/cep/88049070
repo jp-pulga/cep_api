@@ -1,12 +1,13 @@
 {
-  "cep": "88049070",
-  "logradouro": "Avenida Coronel Alamiro",
-  "bairro": "Tapera",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tapera;",
+    "cep": "88049070",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Coronel Alamiro;"
 }

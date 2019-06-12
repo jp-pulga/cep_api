@@ -1,12 +1,13 @@
 {
-  "cep": "88410970",
-  "logradouro": "AC Atalanta Rua Quinze de Novembro 723",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Atalanta",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88410970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Atalanta"
+    },
+    "ibge": 4201802,
+    "logradouro": "Rua Quinze de Novembro, 723  AC Atalanta;"
 }

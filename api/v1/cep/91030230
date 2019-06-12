@@ -1,12 +1,12 @@
 {
-  "cep": "91030230",
-  "logradouro": "Rua São Nicolau",
-  "bairro": "Santa Maria Goretti",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Maria Goretti;",
+    "cep": "91030230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua São Nicolau;"
 }

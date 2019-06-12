@@ -1,12 +1,12 @@
 {
-  "cep": "89052250",
-  "logradouro": "Rua Aurora",
-  "bairro": "Itoupava Norte",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Norte;",
+    "cep": "89052250",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Aurora;"
 }

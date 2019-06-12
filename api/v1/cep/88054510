@@ -1,12 +1,12 @@
 {
-  "cep": "88054510",
-  "logradouro": "Rua Doutor Antônio Carlos da Nova",
-  "bairro": "Canasvieiras",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Canasvieiras;",
+    "cep": "88054510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Doutor Antônio Carlos da Nova;"
 }

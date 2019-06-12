@@ -1,12 +1,13 @@
 {
-  "cep": "88063000",
-  "logradouro": "Avenida Pequeno Príncipe",
-  "bairro": "Campeche",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Campeche;",
+    "cep": "88063000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Pequeno Príncipe;"
 }

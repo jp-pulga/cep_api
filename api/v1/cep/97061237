@@ -1,12 +1,12 @@
 {
-  "cep": "97061237",
-  "logradouro": "Rua São Vicente do Sul",
-  "bairro": "Diácono João Luiz Pozzobon",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Diácono João Luiz Pozzobon;",
+    "cep": "97061237",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua São Vicente do Sul;"
 }

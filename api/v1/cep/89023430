@@ -1,12 +1,12 @@
 {
-  "cep": "89023430",
-  "logradouro": "Rua Agronômica",
-  "bairro": "Valparaiso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Valparaiso;",
+    "cep": "89023430",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Agronômica;"
 }

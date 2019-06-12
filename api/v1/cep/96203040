@@ -1,12 +1,12 @@
 {
-  "cep": "96203040",
-  "logradouro": "Alameda Uruguay",
-  "bairro": "Vila Maria José",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Maria José;",
+    "cep": "96203040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Alameda Uruguay;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "97511800",
-  "logradouro": "Avenida Ministro Assis Brasil",
-  "bairro": "Jóquei Clube",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jóquei Clube;",
+    "cep": "97511800",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Ministro Assis Brasil;"
 }

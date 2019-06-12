@@ -1,12 +1,12 @@
 {
-  "cep": "89222515",
-  "logradouro": "Rua Pastor Schliper",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "89222515",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Pastor Schliper;"
 }

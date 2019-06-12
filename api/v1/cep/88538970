@@ -1,12 +1,12 @@
 {
-  "cep": "88538970",
-  "logradouro": "AC Bocaina do Sul Avenida Henrique Assink 141",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bocaína do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88538970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bocaína do Sul"
+    },
+    "logradouro": "Avenida Henrique Assink, 141  AC Bocaina do Sul;"
 }

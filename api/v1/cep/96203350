@@ -1,12 +1,12 @@
 {
-  "cep": "96203350",
-  "logradouro": "Rua Advogado Victor Sacaven",
-  "bairro": "Vila Maria",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Maria;",
+    "cep": "96203350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Advogado Victor Sacaven;"
 }

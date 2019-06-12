@@ -1,12 +1,13 @@
 {
-  "cep": "97507325",
-  "logradouro": "Avenida Deputado Fernando Ferrari de 601 a 1199 - lado ímpar",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "97507325",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Deputado Fernando Ferrari - de 601 a 1199 - lado ímpar;"
 }

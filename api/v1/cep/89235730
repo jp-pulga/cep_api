@@ -1,12 +1,12 @@
 {
-  "cep": "89235730",
-  "logradouro": "Rua Cidade de Guabiruba",
-  "bairro": "Parque Guarani",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Parque Guarani;",
+    "cep": "89235730",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Cidade de Guabiruba;"
 }

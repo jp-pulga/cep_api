@@ -1,12 +1,13 @@
 {
-  "cep": "88350730",
-  "logradouro": "Rua Adão Schwartz",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "88350730",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Adão Schwartz;"
 }

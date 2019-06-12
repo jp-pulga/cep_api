@@ -1,12 +1,12 @@
 {
-  "cep": "89015152",
-  "logradouro": "Rua Caçador",
-  "bairro": "Ribeirão Fresco",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ribeirão Fresco;",
+    "cep": "89015152",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Caçador;"
 }

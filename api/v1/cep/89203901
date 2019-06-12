@@ -1,12 +1,12 @@
 {
-  "cep": "89203901",
-  "logradouro": "Metalúrgica Schulz S/A Rua Paraíba 225",
-  "bairro": "Anita Garibaldi",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Anita Garibaldi;",
+    "cep": "89203901",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Paraíba, 225  Metalúrgica Schulz S\/A;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93035270",
-  "logradouro": "Rua Marcos Cidade",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "93035270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Marcos Cidade;"
 }

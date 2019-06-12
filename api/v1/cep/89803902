@@ -1,12 +1,12 @@
 {
-  "cep": "89803902",
-  "logradouro": "CASAN - Companhia Catarinense de Águas e Saneamento Rua Cristo Redentor 600",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "89803902",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Cristo Redentor, 600  CASAN - Companhia Catarinense de Águas e Saneamento;"
 }

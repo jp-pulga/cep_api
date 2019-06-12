@@ -1,12 +1,13 @@
 {
-  "cep": "88580970",
-  "logradouro": "AC Campo Belo do Sul Rua Quinze de Novembro 122",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Belo do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88580970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Campo Belo do Sul"
+    },
+    "ibge": 4203402,
+    "logradouro": "Rua Quinze de Novembro, 122  AC Campo Belo do Sul;"
 }

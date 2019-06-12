@@ -1,12 +1,12 @@
 {
-  "cep": "88351410",
-  "logradouro": "Rua Anita Garibaldi",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "88351410",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "logradouro": "Rua Anita Garibaldi;"
 }

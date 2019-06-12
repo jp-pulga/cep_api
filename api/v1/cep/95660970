@@ -1,12 +1,13 @@
 {
-  "cep": "95660970",
-  "logradouro": "AC Três Coroas Rua Felipe Bender 120",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Coroas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95660970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Coroas"
+    },
+    "ibge": 4321709,
+    "logradouro": "Rua Felipe Bender, 120  AC Três Coroas;"
 }

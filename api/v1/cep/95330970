@@ -1,12 +1,13 @@
 {
-  "cep": "95330970",
-  "logradouro": "AC Veranópolis Avenida Júlio de Castilhos 734",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Veranópolis",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95330970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Veranópolis"
+    },
+    "ibge": 4322806,
+    "logradouro": "Avenida Júlio de Castilhos, 734  AC Veranópolis;"
 }

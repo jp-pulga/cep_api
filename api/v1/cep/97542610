@@ -1,12 +1,12 @@
 {
-  "cep": "97542610",
-  "logradouro": "Rua Dorvalino Vargas",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "97542610",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Dorvalino Vargas;"
 }

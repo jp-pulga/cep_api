@@ -1,12 +1,12 @@
 {
-  "cep": "95582000",
-  "logradouro": "Rio do Terra (Três Cachoeiras)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio do Terra (Três Cachoeiras)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio do Terra",
+    "cep": "95582000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Cachoeiras"
+    },
+    "ibge": 4321667
 }

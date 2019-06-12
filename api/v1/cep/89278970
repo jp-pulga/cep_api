@@ -1,12 +1,13 @@
 {
-  "cep": "89278970",
-  "logradouro": "AC Corupá Rua Jaraguá 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corupá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89278970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Corupá"
+    },
+    "ibge": 4204509,
+    "logradouro": "Rua Jaraguá, 35  AC Corupá;"
 }

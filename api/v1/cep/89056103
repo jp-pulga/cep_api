@@ -1,12 +1,13 @@
 {
-  "cep": "89056103",
-  "logradouro": "Rua Renilde Schmitt Zimmermann",
-  "bairro": "Fortaleza",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fortaleza;",
+    "cep": "89056103",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Renilde Schmitt Zimmermann;"
 }

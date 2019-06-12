@@ -1,12 +1,13 @@
 {
-  "cep": "89027401",
-  "logradouro": "Rua Bruno Schreiber até 1531 - lado ímpar",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89027401",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Bruno Schreiber - até 1531 - lado ímpar;"
 }

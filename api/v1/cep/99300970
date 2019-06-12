@@ -1,12 +1,13 @@
 {
-  "cep": "99300970",
-  "logradouro": "AC Soledade Rua Maurício Cardoso 943",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Soledade",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99300970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Soledade"
+    },
+    "ibge": 4320800,
+    "logradouro": "Rua Maurício Cardoso, 943  AC Soledade;"
 }

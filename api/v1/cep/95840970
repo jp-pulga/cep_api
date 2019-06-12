@@ -1,12 +1,13 @@
 {
-  "cep": "95840970",
-  "logradouro": "AC Triunfo Rua Marechal Deodoro 66 Sala 101",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Triunfo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95840970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Triunfo"
+    },
+    "ibge": 4322004,
+    "logradouro": "Rua Marechal Deodoro, 66 Sala 101  AC Triunfo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95020902",
-  "logradouro": "Edifício Aplub Rua Sinimbu 2475",
-  "bairro": "São Pelegrino",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Pelegrino;",
+    "cep": "95020902",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Sinimbu, 2475  Edifício Aplub;"
 }

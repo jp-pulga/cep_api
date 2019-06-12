@@ -1,12 +1,12 @@
 {
-  "cep": "89040001",
-  "logradouro": "Rua dos Caçadores até 970 - lado par",
-  "bairro": "Velha",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Velha;",
+    "cep": "89040001",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua dos Caçadores - até 970 - lado par;"
 }

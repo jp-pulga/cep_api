@@ -1,12 +1,13 @@
 {
-  "cep": "97513450",
-  "logradouro": "Avenida Perimetral Oeste (T Aduaneiro)",
-  "bairro": "Distrito Rodoviário",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Distrito Rodoviário;",
+    "cep": "97513450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida General José de San Martín;"
 }

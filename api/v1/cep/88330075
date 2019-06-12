@@ -1,12 +1,12 @@
 {
-  "cep": "88330075",
-  "logradouro": "Avenida do Estado Dalmo Vieira de 1839 a 2995 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88330075",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Avenida do Estado Dalmo Vieira - de 1839 a 2995 - lado ímpar;"
 }

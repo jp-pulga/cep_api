@@ -1,12 +1,13 @@
 {
-  "cep": "98410970",
-  "logradouro": "AC Taquaruçu do Sul Rua do Comércio 1077",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taquaruçu do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98410970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Taquaruçu do Sul"
+    },
+    "ibge": 4321329,
+    "logradouro": "Rua do Comércio, 1077  AC Taquaruçu do Sul;"
 }

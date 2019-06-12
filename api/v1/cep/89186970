@@ -1,12 +1,13 @@
 {
-  "cep": "89186970",
-  "logradouro": "AC Aurora Rua Quinze de Novembro 416",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aurora",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89186970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Aurora"
+    },
+    "ibge": 4201901,
+    "logradouro": "Rua Quinze de Novembro, 416  AC Aurora;"
 }

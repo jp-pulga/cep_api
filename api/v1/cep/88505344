@@ -1,12 +1,12 @@
 {
-  "cep": "88505344",
-  "logradouro": "Rua Campo Belo do Sul",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "88505344",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Campo Belo do Sul;"
 }

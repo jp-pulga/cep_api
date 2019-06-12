@@ -1,12 +1,13 @@
 {
-  "cep": "89248970",
-  "logradouro": "AC Garuva Avenida Celso Ramos 1111 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Garuva",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89248970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Garuva"
+    },
+    "ibge": 4205803,
+    "logradouro": "Avenida Celso Ramos, 1098 Sala 01  AC Garuva;"
 }

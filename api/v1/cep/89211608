@@ -1,12 +1,12 @@
 {
-  "cep": "89211608",
-  "logradouro": "Rua Gravatal",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "89211608",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Gravatal;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "92025420",
-  "logradouro": "Rua Sete de Setembro",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "92025420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Sete de Setembro;"
 }

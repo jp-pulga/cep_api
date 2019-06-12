@@ -1,12 +1,12 @@
 {
-  "cep": "88508015",
-  "logradouro": "Rua Alci Alves da Silva",
-  "bairro": "Frei Rogério",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Frei Rogério;",
+    "cep": "88508015",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Alci Alves da Silva;"
 }

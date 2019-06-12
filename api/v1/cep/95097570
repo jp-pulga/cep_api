@@ -1,12 +1,12 @@
 {
-  "cep": "95097570",
-  "logradouro": "Rua Pedro Reimondi",
-  "bairro": "São Leopoldo",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Leopoldo;",
+    "cep": "95097570",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Pedro Reimondi;"
 }

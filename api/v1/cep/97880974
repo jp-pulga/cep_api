@@ -1,12 +1,13 @@
 {
-  "cep": "97880974",
-  "logradouro": "AGC Santo Izidoro Rua Principal s/n",
-  "bairro": "Santo Izidoro",
-  "cidade": {
-    "nome": "São Nicolau",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Izidoro;",
+    "cep": "97880974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Nicolau"
+    },
+    "ibge": 4319208,
+    "logradouro": "Rua Principal, s\/n  AGC Santo Izidoro;"
 }

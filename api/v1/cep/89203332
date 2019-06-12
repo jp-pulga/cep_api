@@ -1,12 +1,12 @@
 {
-  "cep": "89203332",
-  "logradouro": "Rua Anita Garibaldi de 1295/1296 ao fim",
-  "bairro": "Anita Garibaldi",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Anita Garibaldi;",
+    "cep": "89203332",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Anita Garibaldi - de 1295\/1296 ao fim;"
 }

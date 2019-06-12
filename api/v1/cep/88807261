@@ -1,12 +1,13 @@
 {
-  "cep": "88807261",
-  "logradouro": "Avenida Universitária lado ímpar",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "88807261",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Universitária - lado ímpar;"
 }

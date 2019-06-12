@@ -1,12 +1,12 @@
 {
-  "cep": "90040191",
-  "logradouro": "Avenida Venâncio Aires até 355 - lado ímpar",
-  "bairro": "Azenha",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Azenha;",
+    "cep": "90040191",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Venâncio Aires - até 355 - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88330911",
-  "logradouro": "Edifício Real Park Avenida Atlântica 640",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88330911",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "ibge": 4202008,
+    "logradouro": "Avenida Atlântica, 640  Edifício Real Park;"
 }

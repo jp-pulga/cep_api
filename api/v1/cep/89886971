@@ -1,12 +1,13 @@
 {
-  "cep": "89886971",
-  "logradouro": "AC Cunhataí Avenida Vinte e Nove de Setembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cunhataí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89886971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Cunhataí"
+    },
+    "ibge": 4204756,
+    "logradouro": "Avenida Vinte e Nove de Setembro, s\/n  AC Cunhataí;"
 }

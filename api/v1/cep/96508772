@@ -1,12 +1,12 @@
 {
-  "cep": "96508772",
-  "logradouro": "Rua Tiradentes de 470/471 a 1048/1049",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96508772",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Tiradentes - de 470\/471 a 1048\/1049;"
 }

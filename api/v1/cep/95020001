@@ -1,12 +1,12 @@
 {
-  "cep": "95020001",
-  "logradouro": "Rua Sinimbu de 1022/1023 a 1823/1824",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95020001",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Sinimbu - de 1022\/1023 a 1823\/1824;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88137030",
-  "logradouro": "Rua Maria Aurora",
-  "bairro": "Pedra Branca",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pedra Branca;",
+    "cep": "88137030",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua Maria Aurora;"
 }

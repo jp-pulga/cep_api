@@ -1,12 +1,13 @@
 {
-  "cep": "99640970",
-  "logradouro": "AC São Valentim Avenida Castelo Branco 689",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Valentim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99640970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Valentim"
+    },
+    "ibge": 4319703,
+    "logradouro": "Avenida Castelo Branco, 689  AC São Valentim;"
 }

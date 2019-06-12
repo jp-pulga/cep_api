@@ -1,12 +1,11 @@
 {
-  "cep": "89969000",
-  "logradouro": "Idamar (Dionísio Cerqueira)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Idamar (Dionísio Cerqueira)",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89969000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Dionísio Cerqueira"
+    },
+    "ibge": 4205001
 }

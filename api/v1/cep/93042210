@@ -1,12 +1,12 @@
 {
-  "cep": "93042210",
-  "logradouro": "Rua Tapes",
-  "bairro": "Pinheiro",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pinheiro;",
+    "cep": "93042210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Tapes;"
 }

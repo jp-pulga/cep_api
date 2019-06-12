@@ -1,12 +1,12 @@
 {
-  "cep": "94780000",
-  "logradouro": "Passo da Areia (Viamão)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Passo da Areia (Viamão)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo da Areia",
+    "cep": "94780000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002
 }

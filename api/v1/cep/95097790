@@ -1,12 +1,12 @@
 {
-  "cep": "95097790",
-  "logradouro": "Rua Sete de Setembro",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "95097790",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Sete de Setembro;"
 }

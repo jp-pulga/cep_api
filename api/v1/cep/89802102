@@ -1,12 +1,13 @@
 {
-  "cep": "89802102",
-  "logradouro": "Servidão Neli Pereira Schaidt",
-  "bairro": "Jardim Itália",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Itália;",
+    "cep": "89802102",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Servidão Neli Pereira Schaidt;"
 }

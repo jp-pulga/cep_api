@@ -1,12 +1,13 @@
 {
-  "cep": "88475970",
-  "logradouro": "AC Anitápolis Rua Ivo Silveira 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anitápolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88475970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Anitápolis"
+    },
+    "ibge": 4201109,
+    "logradouro": "Rua Ivo Silveira, 36  AC Anitápolis;"
 }

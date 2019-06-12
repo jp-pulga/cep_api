@@ -1,12 +1,12 @@
 {
-  "cep": "95074553",
-  "logradouro": "Rua Marlene Pedrollo Behrend",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "95074553",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Marlene Pedrollo Behrend;"
 }

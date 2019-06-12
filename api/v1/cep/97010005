@@ -1,12 +1,12 @@
 {
-  "cep": "97010005",
-  "logradouro": "Rua Venâncio Aires de 1901 ao fim - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97010005",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Venâncio Aires - de 1901 ao fim - lado ímpar;"
 }

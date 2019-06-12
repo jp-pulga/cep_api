@@ -1,12 +1,12 @@
 {
-  "cep": "95057500",
-  "logradouro": "Rua Odila Clara Pedrotti Fabro",
-  "bairro": "São Ciro",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Ciro;",
+    "cep": "95057500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Odila Clara Pedrotti Fabro;"
 }

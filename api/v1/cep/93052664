@@ -1,12 +1,12 @@
 {
-  "cep": "93052664",
-  "logradouro": "Rua Jardim Vale Verde",
-  "bairro": "Feitoria",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Feitoria;",
+    "cep": "93052664",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Jardim Vale Verde;"
 }

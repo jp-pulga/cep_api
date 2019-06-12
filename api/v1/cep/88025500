@@ -1,12 +1,12 @@
 {
-  "cep": "88025500",
-  "logradouro": "Rua Delminda Silveira",
-  "bairro": "Agronômica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Agronômica;",
+    "cep": "88025500",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Delminda Silveira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88354689",
-  "logradouro": "Rua SC 037",
-  "bairro": "Souza Cruz",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Paquetá;",
+    "cep": "88354689",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua SC - 037;"
 }

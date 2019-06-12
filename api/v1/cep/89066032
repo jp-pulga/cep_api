@@ -1,12 +1,13 @@
 {
-  "cep": "89066032",
-  "logradouro": "Rua Guilherme Scharf até 139/140",
-  "bairro": "Itoupavazinha",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupavazinha;",
+    "cep": "89066032",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Guilherme Scharf - até 139\/140;"
 }

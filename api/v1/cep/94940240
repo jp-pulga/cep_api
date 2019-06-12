@@ -1,12 +1,12 @@
 {
-  "cep": "94940240",
-  "logradouro": "Rua Taquari",
-  "bairro": "Vila Princesa Izabel",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Princesa Izabel;",
+    "cep": "94940240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Taquari;"
 }

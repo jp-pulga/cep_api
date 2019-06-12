@@ -1,12 +1,13 @@
 {
-  "cep": "95334970",
-  "logradouro": "AC Vila Flores Avenida das Flores 816",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vila Flores",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95334970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Vila Flores"
+    },
+    "ibge": 4323309,
+    "logradouro": "Avenida das Flores, 816  AC Vila Flores;"
 }

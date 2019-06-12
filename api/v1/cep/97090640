@@ -1,12 +1,12 @@
 {
-  "cep": "97090640",
-  "logradouro": "Rua Tapes",
-  "bairro": "Itararé",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Itararé;",
+    "cep": "97090640",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Tapes;"
 }

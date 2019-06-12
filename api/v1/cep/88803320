@@ -1,12 +1,12 @@
 {
-  "cep": "88803320",
-  "logradouro": "Rua Campos Novos",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "88803320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Campos Novos;"
 }

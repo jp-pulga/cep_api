@@ -1,12 +1,12 @@
 {
-  "cep": "89062213",
-  "logradouro": "Rua Doutor Pedrinho",
-  "bairro": "Itoupava Central",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Central;",
+    "cep": "89062213",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Doutor Pedrinho;"
 }

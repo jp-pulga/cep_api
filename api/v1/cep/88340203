@@ -1,12 +1,12 @@
 {
-  "cep": "88340203",
-  "logradouro": "Rua Florianópolis",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88340203",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Camboriú"
+    },
+    "logradouro": "Rua Florianópolis;"
 }

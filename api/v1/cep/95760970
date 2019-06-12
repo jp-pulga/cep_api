@@ -1,12 +1,13 @@
 {
-  "cep": "95760970",
-  "logradouro": "AC São Sebastião do Caí Rua Tiradentes 843 Loja 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sebastião do Caí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95760970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Sebastião do Caí"
+    },
+    "ibge": 4319505,
+    "logradouro": "Rua Tiradentes, 843 Loja 02  AC São Sebastião do Caí;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88351000",
-  "logradouro": "Rua Felipe Schmidt de 078/79 a 260/261",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "88351000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Felipe Schmidt - de 078\/79 a 260\/261;"
 }

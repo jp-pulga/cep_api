@@ -1,12 +1,12 @@
 {
-  "cep": "95590991",
-  "logradouro": "Parque Emboaba Rua 02 nº 184",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tramandaí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95590991",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tramandaí"
+    },
+    "ibge": 4321600,
+    "logradouro": "Rua 02 nº 184  CPC Parque Emboaba;"
 }

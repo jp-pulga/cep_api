@@ -1,12 +1,13 @@
 {
-  "cep": "89925971",
-  "logradouro": "AC Belmonte Rua Presidente Venceslau Bráz 60",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belmonte",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89925971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Belmonte"
+    },
+    "ibge": 4202156,
+    "logradouro": "Rua Presidente Venceslau Bráz, 60  AC Belmonte;"
 }

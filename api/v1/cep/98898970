@@ -1,12 +1,13 @@
 {
-  "cep": "98898970",
-  "logradouro": "AGC Ubiretama Rua São Luíz 125",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ubiretama",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98898970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ubiretama"
+    },
+    "ibge": 4322343,
+    "logradouro": "Rua São Luíz, 125  AGC Ubiretama;"
 }

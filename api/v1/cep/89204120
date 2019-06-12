@@ -1,12 +1,12 @@
 {
-  "cep": "89204120",
-  "logradouro": "Rua Capinzal de 274/275 ao fim",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "América;",
+    "cep": "89204120",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Capinzal - de 274\/275 ao fim;"
 }

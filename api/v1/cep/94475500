@@ -1,12 +1,13 @@
 {
-  "cep": "94475500",
-  "logradouro": "Avenida Plácido Mottin",
-  "bairro": "Cecília",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cecília;",
+    "cep": "94475500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Plácido Mottin;"
 }

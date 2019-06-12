@@ -1,12 +1,12 @@
 {
-  "cep": "94824170",
-  "logradouro": "Rua Soledade",
-  "bairro": "Sumaré",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sumaré;",
+    "cep": "94824170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Soledade;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89135970",
-  "logradouro": "AC Apiúna Rua Quintino Bocaiuva 230",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Apiúna",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89135970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Apiúna"
+    },
+    "ibge": 4201257,
+    "logradouro": "Rua Quintino Bocaiuva, 230  AC Apiúna;"
 }

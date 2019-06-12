@@ -1,12 +1,12 @@
 {
-  "cep": "88025211",
-  "logradouro": "Rua Antônio Carlos Ferreira de 577/578 ao fim",
-  "bairro": "Agronômica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Agronômica;",
+    "cep": "88025211",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Antônio Carlos Ferreira - de 577\/578 ao fim;"
 }

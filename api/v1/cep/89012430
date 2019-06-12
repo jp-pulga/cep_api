@@ -1,12 +1,12 @@
 {
-  "cep": "89012430",
-  "logradouro": "Rua Conselheiro Galvão",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89012430",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Conselheiro Galvão;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90041970",
-  "logradouro": "AC Bom Fim Avenida Venâncio Aires 1096",
-  "bairro": "Farroupilha",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Farroupilha;",
+    "cep": "90041970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Venâncio Aires, 1096  AC Bom Fim;"
 }

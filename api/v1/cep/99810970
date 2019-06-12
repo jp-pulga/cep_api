@@ -1,12 +1,13 @@
 {
-  "cep": "99810970",
-  "logradouro": "AC Severiano de Almeida Avenida Getúlio Vargas 300",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Severiano de Almeida",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99810970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Severiano de Almeida"
+    },
+    "ibge": 4320602,
+    "logradouro": "Avenida Getúlio Vargas, 300  AC Severiano de Almeida;"
 }

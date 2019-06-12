@@ -1,12 +1,13 @@
 {
-  "cep": "93216310",
-  "logradouro": "Avenida José Joaquim de 371/372 ao fim",
-  "bairro": "Piratini",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Piratini;",
+    "cep": "93216310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "ibge": 4320008,
+    "logradouro": "Avenida José Joaquim - de 371\/372 ao fim;"
 }

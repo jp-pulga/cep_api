@@ -1,12 +1,12 @@
 {
-  "cep": "97544100",
-  "logradouro": "Praça Borges de Medeiros",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "97544100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Praça Borges de Medeiros;"
 }

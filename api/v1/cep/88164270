@@ -1,12 +1,13 @@
 {
-  "cep": "88164270",
-  "logradouro": "Avenida Principal (Lot. Cicobi)",
-  "bairro": "Beira Rio",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Beira Rio;",
+    "cep": "88164270",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Avenida Principal (Loteamento Cicob);"
 }

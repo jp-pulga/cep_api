@@ -1,12 +1,13 @@
 {
-  "cep": "99330970",
-  "logradouro": "AC Tunas Rua Arthur Simões Pires 246",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tunas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99330970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tunas"
+    },
+    "ibge": 4322152,
+    "logradouro": "Rua Arthur Simões Pires, 246  AC Tunas;"
 }

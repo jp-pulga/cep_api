@@ -1,12 +1,12 @@
 {
-  "cep": "94475220",
-  "logradouro": "Rua Veranópolis",
-  "bairro": "Cecília",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cecília;",
+    "cep": "94475220",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Veranópolis;"
 }

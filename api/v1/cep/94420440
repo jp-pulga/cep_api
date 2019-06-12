@@ -1,12 +1,13 @@
 {
-  "cep": "94420440",
-  "logradouro": "Avenida A (Prq S Cristóvão)",
-  "bairro": "Elsa",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Elsa;",
+    "cep": "94420440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida A (Prq S Cristóvão);"
 }

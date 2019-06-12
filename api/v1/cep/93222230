@@ -1,12 +1,12 @@
 {
-  "cep": "93222230",
-  "logradouro": "Rua São Vendelino",
-  "bairro": "Vargas",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vargas;",
+    "cep": "93222230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua São Vendelino;"
 }

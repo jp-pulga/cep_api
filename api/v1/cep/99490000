@@ -1,12 +1,11 @@
 {
-  "cep": "99490000",
-  "logradouro": "Tapera",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tapera",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99490000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tapera"
+    },
+    "ibge": 4321006
 }

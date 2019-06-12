@@ -1,12 +1,12 @@
 {
-  "cep": "88337202",
-  "logradouro": "Rua Abelardo Luz",
-  "bairro": "Jardim Iate Clube",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Iate Clube;",
+    "cep": "88337202",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Rua Abelardo Luz;"
 }

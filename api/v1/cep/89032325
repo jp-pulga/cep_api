@@ -1,12 +1,13 @@
 {
-  "cep": "89032325",
-  "logradouro": "Loteamento Água Verde",
-  "bairro": "Velha",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Velha;",
+    "cep": "89032325",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Loteamento Água Verde;"
 }

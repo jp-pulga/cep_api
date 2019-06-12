@@ -1,12 +1,12 @@
 {
-  "cep": "93037250",
-  "logradouro": "Rua São Sepé",
-  "bairro": "Santa Teresa",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Teresa;",
+    "cep": "93037250",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua São Sepé;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "95862000",
-  "logradouro": "Amoras (Taquari)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Amoras (Taquari)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95862000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Taquari"
+    },
+    "ibge": 4321303
 }

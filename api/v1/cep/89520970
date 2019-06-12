@@ -1,12 +1,13 @@
 {
-  "cep": "89520970",
-  "logradouro": "AC Curitibanos Rua Máximo de Moraes 396",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curitibanos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89520970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Curitibanos"
+    },
+    "ibge": 4204806,
+    "logradouro": "Rua Coronel Maximino Moraes, 396  AC Curitibanos;"
 }

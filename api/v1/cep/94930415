@@ -1,12 +1,12 @@
 {
-  "cep": "94930415",
-  "logradouro": "Rua das Flores",
-  "bairro": "Vila da Paz",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila da Paz;",
+    "cep": "94930415",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua das Flores;"
 }

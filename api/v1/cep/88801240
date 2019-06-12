@@ -1,12 +1,13 @@
 {
-  "cep": "88801240",
-  "logradouro": "Rua Felipe Schmidt lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88801240",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Rua Felipe Schmidt - lado par;"
 }

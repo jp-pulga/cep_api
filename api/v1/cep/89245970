@@ -1,12 +1,13 @@
 {
-  "cep": "89245970",
-  "logradouro": "AC Araquari Avenida Getúlio Vargas 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araquari",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89245970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araquari"
+    },
+    "ibge": 4201307,
+    "logradouro": "Avenida Getúlio Vargas, 44  AC Araquari;"
 }

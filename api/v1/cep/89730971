@@ -1,12 +1,13 @@
 {
-  "cep": "89730971",
-  "logradouro": "AC Alto Bela Vista Rua do Comércio 917 Loja 4",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Bela Vista",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89730971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Alto Bela Vista"
+    },
+    "ibge": 4200754,
+    "logradouro": "Rua do Comércio, 917 Loja 4  AC Alto Bela Vista;"
 }

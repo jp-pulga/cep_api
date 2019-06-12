@@ -1,12 +1,12 @@
 {
-  "cep": "94945120",
-  "logradouro": "Rua Caruaru",
-  "bairro": "Vila Vista Alegre",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Vista Alegre;",
+    "cep": "94945120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Caruaru;"
 }

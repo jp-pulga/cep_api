@@ -1,12 +1,13 @@
 {
-  "cep": "89037595",
-  "logradouro": "Praça Arnaldo Machado da Veiga",
-  "bairro": "Escola Agrícola",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Escola Agrícola;",
+    "cep": "89037595",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Praça Arnaldo Machado da Veiga;"
 }

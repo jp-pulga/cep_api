@@ -1,12 +1,13 @@
 {
-  "cep": "88161336",
-  "logradouro": "Rua José Vitor Schmitz",
-  "bairro": "Fundos",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fundos;",
+    "cep": "88161336",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Rua José Vitor Schmitz;"
 }

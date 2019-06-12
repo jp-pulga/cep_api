@@ -1,12 +1,13 @@
 {
-  "cep": "89056016",
-  "logradouro": "Rua Herondina Schimilla",
-  "bairro": "Fortaleza Alta",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fortaleza Alta;",
+    "cep": "89056016",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Herondina Schimilla;"
 }

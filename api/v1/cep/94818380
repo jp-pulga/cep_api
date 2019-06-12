@@ -1,12 +1,12 @@
 {
-  "cep": "94818380",
-  "logradouro": "Rua Tapejara",
-  "bairro": "Formoza",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Formoza;",
+    "cep": "94818380",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Tapejara;"
 }

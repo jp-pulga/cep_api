@@ -1,12 +1,12 @@
 {
-  "cep": "98612000",
-  "logradouro": "Santo Antônio (Três Passos)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santo Antônio (Três Passos)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Antônio",
+    "cep": "98612000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Passos"
+    },
+    "ibge": 4321907
 }

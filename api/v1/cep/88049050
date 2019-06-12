@@ -1,12 +1,13 @@
 {
-  "cep": "88049050",
-  "logradouro": "Avenida Camboriú",
-  "bairro": "Tapera",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tapera;",
+    "cep": "88049050",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Camboriú;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88330043",
-  "logradouro": "Avenida Brasil de 342/343 a 830/831",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88330043",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Avenida Brasil - de 342\/343 a 830\/831;"
 }

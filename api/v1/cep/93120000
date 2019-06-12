@@ -1,12 +1,12 @@
 {
-  "cep": "93120000",
-  "logradouro": "Avenida Senador Salgado Filho de 1124 a 3030 - lado par",
-  "bairro": "Scharlau",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Scharlau;",
+    "cep": "93120000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Avenida Senador Salgado Filho - de 1124 a 3030 - lado par;"
 }

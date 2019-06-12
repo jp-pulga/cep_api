@@ -1,12 +1,13 @@
 {
-  "cep": "99240971",
-  "logradouro": "AC São Valentim do Sul Rua Bento Gonçalves 220",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Valentim do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99240971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Valentim do Sul"
+    },
+    "ibge": 4319711,
+    "logradouro": "Rua Bento Gonçalves, 220  AC São Valentim do Sul;"
 }

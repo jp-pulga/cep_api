@@ -1,12 +1,13 @@
 {
-  "cep": "95863971",
-  "logradouro": "AC Tabaí Rodovia RST-287 572 Quilômetro 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tabaí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95863971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tabaí"
+    },
+    "ibge": 4320859,
+    "logradouro": "Rodovia RST-287, 572 Quilômetro 29  AC Tabaí;"
 }

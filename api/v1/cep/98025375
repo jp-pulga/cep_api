@@ -1,12 +1,12 @@
 {
-  "cep": "98025375",
-  "logradouro": "Avenida Venâncio Aires",
-  "bairro": "Rocha",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rocha;",
+    "cep": "98025375",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Avenida Venâncio Aires;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88357328",
-  "logradouro": "Rua Lindorio Scalvim",
-  "bairro": "Zantão",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Zantão;",
+    "cep": "88357328",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Lindorio Scalvim;"
 }

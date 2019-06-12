@@ -1,12 +1,13 @@
 {
-  "cep": "88164220",
-  "logradouro": "Avenida Wilson Castelo Branco",
-  "bairro": "Beira Rio",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Beira Rio;",
+    "cep": "88164220",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Avenida Wilson Castelo Branco;"
 }

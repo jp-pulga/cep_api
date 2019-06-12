@@ -1,12 +1,13 @@
 {
-  "cep": "88911322",
-  "logradouro": "Avenida Atlântica",
-  "bairro": "Morro dos Conventos",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Morro dos Conventos;",
+    "cep": "88911322",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Avenida Atlântica;"
 }

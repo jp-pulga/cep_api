@@ -1,12 +1,13 @@
 {
-  "cep": "94425000",
-  "logradouro": "Rua José Garibaldi de 1500/1501 ao fim",
-  "bairro": "Passo do Vigário",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo do Vigário;",
+    "cep": "94425000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida José Garibaldi - de 551\/552 a 1249\/1250;"
 }

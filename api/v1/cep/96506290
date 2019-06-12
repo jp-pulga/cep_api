@@ -1,12 +1,12 @@
 {
-  "cep": "96506290",
-  "logradouro": "Rua Venâncio Trindade",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "96506290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Venâncio Trindade;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88106787",
-  "logradouro": "Rua Aldo da Silva",
-  "bairro": "Forquilhinha",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Forquilhinha;",
+    "cep": "88106787",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Aldo da Silva;"
 }

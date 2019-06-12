@@ -1,12 +1,13 @@
 {
-  "cep": "96900970",
-  "logradouro": "AC Sobradinho Avenida João Antônio 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sobradinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96900970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sobradinho"
+    },
+    "ibge": 4320701,
+    "logradouro": "Avenida João Antônio, 68  AC Sobradinho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "97511021",
-  "logradouro": "Avenida Senador Silveira Martins lado ímpar",
-  "bairro": "Cidade Alegria",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cidade Alegria;",
+    "cep": "97511021",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "logradouro": "Avenida Senador Silveira Martins - lado ímpar;"
 }

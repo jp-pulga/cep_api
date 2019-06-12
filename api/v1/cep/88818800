@@ -1,12 +1,13 @@
 {
-  "cep": "88818800",
-  "logradouro": "Acesso Estadual Rio Maina",
-  "bairro": "Vila Macarini",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Macarini;",
+    "cep": "88818800",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Acesso Estadual Rio Maina;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "99070180",
-  "logradouro": "Rua Engenheiro Leopoldo Vila Nova",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "99070180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Engenheiro Leopoldo Vila Nova;"
 }

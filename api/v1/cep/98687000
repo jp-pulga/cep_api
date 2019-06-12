@@ -1,12 +1,12 @@
 {
-  "cep": "98687000",
-  "logradouro": "Porto Soberbo (Tiradentes do Sul)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Porto Soberbo (Tiradentes do Sul)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Porto Soberbo",
+    "cep": "98687000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tiradentes do Sul"
+    },
+    "ibge": 4321477
 }

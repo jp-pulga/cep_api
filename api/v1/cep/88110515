@@ -1,12 +1,12 @@
 {
-  "cep": "88110515",
-  "logradouro": "Rua Águas de Chapecó",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "88110515",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Águas de Chapecó;"
 }

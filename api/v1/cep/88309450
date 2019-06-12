@@ -1,12 +1,12 @@
 {
-  "cep": "88309450",
-  "logradouro": "Rua Antônio Carlos Pereira Leão Filho",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "88309450",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Antônio Carlos Pereira Leão Filho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96508185",
-  "logradouro": "Rua Miguel Cândido Trindade",
-  "bairro": "Marques Ribeiro",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marques Ribeiro;",
+    "cep": "96508185",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Miguel Cândido Trindade;"
 }

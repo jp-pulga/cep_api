@@ -1,12 +1,13 @@
 {
-  "cep": "89809090",
-  "logradouro": "Rua Antônio Caleff Impar",
-  "bairro": "Engenho Braun",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Engenho Braun;",
+    "cep": "89809090",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Avenida Deputado Federal Ernesto de Marco - D - lado ímpar;"
 }

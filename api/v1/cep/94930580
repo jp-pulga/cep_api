@@ -1,12 +1,12 @@
 {
-  "cep": "94930580",
-  "logradouro": "Travessa Vera Cruz",
-  "bairro": "Vila Regina",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Regina;",
+    "cep": "94930580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Travessa Vera Cruz;"
 }

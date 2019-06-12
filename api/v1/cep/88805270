@@ -1,12 +1,12 @@
 {
-  "cep": "88805270",
-  "logradouro": "Rua Dionísio Cerqueira",
-  "bairro": "Santa Augusta",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Augusta;",
+    "cep": "88805270",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Dionísio Cerqueira;"
 }

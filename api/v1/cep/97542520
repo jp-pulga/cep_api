@@ -1,12 +1,12 @@
 {
-  "cep": "97542520",
-  "logradouro": "Rua Pedro Souza Bisch",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "97542520",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Pedro Souza Bisch;"
 }

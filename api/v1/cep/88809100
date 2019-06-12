@@ -1,12 +1,13 @@
 {
-  "cep": "88809100",
-  "logradouro": "Rua José Scotti",
-  "bairro": "Operária Nova",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Operária Nova;",
+    "cep": "88809100",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Rua José Scotti;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "97514899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Uruguaiana",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Área Rural de Uruguaiana;",
+    "cep": "97514899",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Área Rural;"
 }

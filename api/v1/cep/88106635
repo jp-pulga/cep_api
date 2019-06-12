@@ -1,12 +1,12 @@
 {
-  "cep": "88106635",
-  "logradouro": "Rua Arnaldo João do Amorim",
-  "bairro": "Forquilhinha",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Forquilhinha;",
+    "cep": "88106635",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Arnaldo João do Amorim;"
 }

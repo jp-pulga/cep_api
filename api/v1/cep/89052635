@@ -1,12 +1,13 @@
 {
-  "cep": "89052635",
-  "logradouro": "Largo Mônaco",
-  "bairro": "Itoupava Norte",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Norte;",
+    "cep": "89052635",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Largo Mônaco;"
 }

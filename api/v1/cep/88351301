@@ -1,12 +1,13 @@
 {
-  "cep": "88351301",
-  "logradouro": "Avenida Otto Renaux de 255/256 a 483/484",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "88351301",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Avenida Otto Renaux - de 255\/256 a 483\/484;"
 }

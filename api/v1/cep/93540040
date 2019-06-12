@@ -1,12 +1,12 @@
 {
-  "cep": "93540040",
-  "logradouro": "Rua Barão de Tramandai",
-  "bairro": "Hamburgo Velho",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Hamburgo Velho;",
+    "cep": "93540040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Barão de Tramandai;"
 }

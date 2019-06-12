@@ -1,12 +1,12 @@
 {
-  "cep": "89208323",
-  "logradouro": "Rua Armazém",
-  "bairro": "Itaum",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itaum;",
+    "cep": "89208323",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Armazém;"
 }

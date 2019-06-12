@@ -1,12 +1,12 @@
 {
-  "cep": "93332250",
-  "logradouro": "Rua Rio Taquari",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "93332250",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Rio Taquari;"
 }

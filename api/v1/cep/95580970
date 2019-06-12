@@ -1,12 +1,13 @@
 {
-  "cep": "95580970",
-  "logradouro": "AC Três Cachoeiras Rua José Rolim de Matos 59 Loja 5",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Cachoeiras",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95580970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Cachoeiras"
+    },
+    "ibge": 4321667,
+    "logradouro": "Rua José Rolim de Matos, 59 Loja 5  AC Três Cachoeiras;"
 }

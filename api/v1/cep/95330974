@@ -1,12 +1,13 @@
 {
-  "cep": "95330974",
-  "logradouro": "AGC Monte Berico Estrada Buarque de Macedo s/n",
-  "bairro": "Monte Berico",
-  "cidade": {
-    "nome": "Veranópolis",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Monte Berico;",
+    "cep": "95330974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Veranópolis"
+    },
+    "ibge": 4322806,
+    "logradouro": "Estrada Buarque de Macedo, s\/n  AGC Monte Berico;"
 }

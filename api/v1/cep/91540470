@@ -1,12 +1,12 @@
 {
-  "cep": "91540470",
-  "logradouro": "Alameda Zaida Machado Torres",
-  "bairro": "Agronomia",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Agronomia;",
+    "cep": "91540470",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Alameda Zaida Machado Torres;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89287410",
-  "logradouro": "Servidão Antonio Carlos Beil",
-  "bairro": "Rio Negro",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Rio Negro;",
+    "cep": "89287410",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Servidão Antonio Carlos Beil;"
 }

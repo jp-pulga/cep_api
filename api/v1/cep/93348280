@@ -1,12 +1,12 @@
 {
-  "cep": "93348280",
-  "logradouro": "Rua Sertão",
-  "bairro": "Rincão",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rincão;",
+    "cep": "93348280",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Sertão;"
 }

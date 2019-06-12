@@ -1,12 +1,12 @@
 {
-  "cep": "91350900",
-  "logradouro": "Condomínio Residencial Ville de France Rua Carlos Silveira Martins Pacheco 55",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Redentor;",
+    "cep": "91350900",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Carlos Silveira Martins Pacheco, 55  Condomínio Residencial Ville de France;"
 }

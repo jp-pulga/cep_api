@@ -1,12 +1,13 @@
 {
-  "cep": "98850970",
-  "logradouro": "AC Vitória das Missões Rua dos Imigrantes 1984",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98850970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Vitória das Missões"
+    },
+    "ibge": 4323754,
+    "logradouro": "Rua dos Imigrantes, 1984  AC Vitória das Missões;"
 }

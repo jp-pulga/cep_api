@@ -1,12 +1,13 @@
 {
-  "cep": "99955971",
-  "logradouro": "AC Vila Lângaro Rua Quatro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vila Lângaro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99955971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Vila Lângaro"
+    },
+    "ibge": 4323358,
+    "logradouro": "Rua Quatro, s\/n  AC Vila Lângaro;"
 }

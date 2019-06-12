@@ -1,12 +1,12 @@
 {
-  "cep": "89066360",
-  "logradouro": "Rua Botuverá",
-  "bairro": "Itoupavazinha",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupavazinha;",
+    "cep": "89066360",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Botuverá;"
 }

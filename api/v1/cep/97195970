@@ -1,12 +1,13 @@
 {
-  "cep": "97195970",
-  "logradouro": "AC Silveira Martins Rua Francisco Guerino 230",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Silveira Martins",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97195970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Silveira Martins"
+    },
+    "ibge": 4320651,
+    "logradouro": "Rua Francisco Guerino, 230  AC Silveira Martins;"
 }

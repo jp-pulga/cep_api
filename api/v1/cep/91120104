@@ -1,12 +1,12 @@
 {
-  "cep": "91120104",
-  "logradouro": "Acesso Onze C (Vl N Brasília)",
-  "bairro": "Sarandi",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sarandi;",
+    "cep": "91120104",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso Onze C (Vl N Brasília);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93410160",
-  "logradouro": "Rua Alberto Torres",
-  "bairro": "Pátria Nova",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pátria Nova;",
+    "cep": "93410160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Alberto Torres;"
 }

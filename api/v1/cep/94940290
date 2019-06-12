@@ -1,12 +1,12 @@
 {
-  "cep": "94940290",
-  "logradouro": "Rua Dalcira Francisca da Silva",
-  "bairro": "Vila Silveira Martins",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Silveira Martins;",
+    "cep": "94940290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Dalcira Francisca da Silva;"
 }

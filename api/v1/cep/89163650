@@ -1,12 +1,12 @@
 {
-  "cep": "89163650",
-  "logradouro": "Rua Benedito Novo",
-  "bairro": "Progresso",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Progresso;",
+    "cep": "89163650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Benedito Novo;"
 }

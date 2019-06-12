@@ -1,12 +1,13 @@
 {
-  "cep": "88061233",
-  "logradouro": "Caminho da Praia",
-  "bairro": "Barra da Lagoa",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra da Lagoa;",
+    "cep": "88061233",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Caminho da Praia;"
 }

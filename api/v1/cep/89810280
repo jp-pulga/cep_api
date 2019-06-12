@@ -1,12 +1,12 @@
 {
-  "cep": "89810280",
-  "logradouro": "Rua Águas de Chapecó",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "89810280",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Águas de Chapecó;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90520510",
-  "logradouro": "Rua Triunfo",
-  "bairro": "Passo da Areia",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo da Areia;",
+    "cep": "90520510",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Triunfo;"
 }

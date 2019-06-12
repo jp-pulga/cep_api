@@ -1,12 +1,13 @@
 {
-  "cep": "89878971",
-  "logradouro": "AC Flor do Sertão Rua da Barra 440",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Flor do Sertão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89878971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Flor do Sertão"
+    },
+    "ibge": 4205357,
+    "logradouro": "Rua da Barra, 440  AC Flor do Sertão;"
 }

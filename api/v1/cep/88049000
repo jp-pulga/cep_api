@@ -1,12 +1,13 @@
 {
-  "cep": "88049000",
-  "logradouro": "Avenida Santos Dumont",
-  "bairro": "Tapera",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tapera;",
+    "cep": "88049000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Santos Dumont;"
 }

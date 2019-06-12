@@ -1,12 +1,12 @@
 {
-  "cep": "89804512",
-  "logradouro": "Rua Campos Novos de 273 a 329 - lado ímpar",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "89804512",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Campos Novos - de 273 a 329 - lado ímpar;"
 }

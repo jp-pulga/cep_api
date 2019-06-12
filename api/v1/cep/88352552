@@ -1,12 +1,13 @@
 {
-  "cep": "88352552",
-  "logradouro": "Rua Martin Schmidt",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "88352552",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Martin Schmidt;"
 }

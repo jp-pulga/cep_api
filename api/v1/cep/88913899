@@ -1,12 +1,13 @@
 {
-  "cep": "88913899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Araranguá",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Área Rural de Araranguá;",
+    "cep": "88913899",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Área Rural;"
 }

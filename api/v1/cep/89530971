@@ -1,12 +1,13 @@
 {
-  "cep": "89530971",
-  "logradouro": "AC Frei Rogério Rua João Batista Pilon s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Frei Rogério",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89530971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Frei Rogério"
+    },
+    "ibge": 4205555,
+    "logradouro": "Rua João Batista Pilon, s\/n  AC Frei Rogério;"
 }

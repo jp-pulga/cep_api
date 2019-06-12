@@ -1,12 +1,13 @@
 {
-  "cep": "98170970",
-  "logradouro": "AC Tupanciretã Rua Capitão Amorim 74",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tupanciretã",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98170970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tupanciretã"
+    },
+    "ibge": 4322202,
+    "logradouro": "Rua Capitão Amorim, 74  AC Tupanciretã;"
 }

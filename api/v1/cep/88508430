@@ -1,12 +1,12 @@
 {
-  "cep": "88508430",
-  "logradouro": "Rua Colômbia",
-  "bairro": "Frei Rogério",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Frei Rogério;",
+    "cep": "88508430",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Colômbia;"
 }

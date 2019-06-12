@@ -1,12 +1,12 @@
 {
-  "cep": "88061293",
-  "logradouro": "Servidão Carlos Antônio Martins",
-  "bairro": "Barra da Lagoa",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barra da Lagoa;",
+    "cep": "88061293",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Carlos Antônio Martins;"
 }

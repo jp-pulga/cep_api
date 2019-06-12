@@ -1,12 +1,13 @@
 {
-  "cep": "89178970",
-  "logradouro": "AGC Braço do Trombudo Praça da Independência 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Braço do Trombudo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89178970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Braço do Trombudo"
+    },
+    "ibge": 4202859,
+    "logradouro": "Praça da Independência, 25  AGC Braço do Trombudo;"
 }

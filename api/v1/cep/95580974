@@ -1,12 +1,13 @@
 {
-  "cep": "95580974",
-  "logradouro": "PC Três Cachoeiras Rua Principal s/n",
-  "bairro": "Santo Anjo da Guarda",
-  "cidade": {
-    "nome": "Três Cachoeiras",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Anjo da Guarda;",
+    "cep": "95580974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Cachoeiras"
+    },
+    "ibge": 4321667,
+    "logradouro": "Rodovia BR-101, s\/n  AGC Santo Anjo da Guarda;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89126970",
-  "logradouro": "AC Doutor Pedrinho Rua Aderbal Ramos da Silva 134",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Doutor Pedrinho",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89126970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Doutor Pedrinho"
+    },
+    "ibge": 4205159,
+    "logradouro": "Rua Aderbal Ramos da Silva, 134  AC Doutor Pedrinho;"
 }

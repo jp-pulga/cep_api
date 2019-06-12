@@ -1,12 +1,12 @@
 {
-  "cep": "90245190",
-  "logradouro": "Rua Doutor Vespasiano Faustino Corrêa",
-  "bairro": "Farrapos",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Farrapos;",
+    "cep": "90245190",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Doutor Vespasiano Faustino Corrêa;"
 }

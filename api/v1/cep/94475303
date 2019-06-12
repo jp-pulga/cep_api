@@ -1,12 +1,12 @@
 {
-  "cep": "94475303",
-  "logradouro": "Travessa Xangri-Lá",
-  "bairro": "Cecília",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cecília;",
+    "cep": "94475303",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Travessa Xangri-Lá;"
 }

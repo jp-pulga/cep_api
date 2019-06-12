@@ -1,12 +1,12 @@
 {
-  "cep": "88505248",
-  "logradouro": "Rua Bom Jardim da Serra",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "88505248",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Bom Jardim da Serra;"
 }

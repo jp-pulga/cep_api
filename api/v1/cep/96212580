@@ -1,12 +1,12 @@
 {
-  "cep": "96212580",
-  "logradouro": "Rua dos Tapes",
-  "bairro": "Vila São Miguel",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila São Miguel;",
+    "cep": "96212580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua dos Tapes;"
 }

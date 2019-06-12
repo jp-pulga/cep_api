@@ -1,12 +1,13 @@
 {
-  "cep": "89838970",
-  "logradouro": "AC Galvão Rua Sete de Setembro 760 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Galvão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89838970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Galvão"
+    },
+    "ibge": 4205605,
+    "logradouro": "Rua Sete de Setembro, 760 Sala 02  AC Galvão;"
 }

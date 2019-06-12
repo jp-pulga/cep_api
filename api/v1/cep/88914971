@@ -1,12 +1,13 @@
 {
-  "cep": "88914971",
-  "logradouro": "AC Balneário Arroio do Silva Avenida Barriga Verde 627 Loja 4",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Arroio do Silva",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88914971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Arroio do Silva"
+    },
+    "ibge": 4201950,
+    "logradouro": "Avenida Barriga Verde, 627 Loja 4  AC Balneário Arroio do Silva;"
 }

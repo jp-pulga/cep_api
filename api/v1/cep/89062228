@@ -1,12 +1,12 @@
 {
-  "cep": "89062228",
-  "logradouro": "Rua Descanso",
-  "bairro": "Itoupava Central",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Central;",
+    "cep": "89062228",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Descanso;"
 }

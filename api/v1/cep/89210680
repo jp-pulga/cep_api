@@ -1,12 +1,12 @@
 {
-  "cep": "89210680",
-  "logradouro": "Rua Anitápolis",
-  "bairro": "Itaum",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itaum;",
+    "cep": "89210680",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Anitápolis;"
 }

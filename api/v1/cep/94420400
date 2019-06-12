@@ -1,12 +1,13 @@
 {
-  "cep": "94420400",
-  "logradouro": "Rodovia RS-118 de 3001/3002 a 4999/5000",
-  "bairro": "Elsa",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Elsa;",
+    "cep": "94420400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Rodovia RS-118 - de 3001\/3002 a 9999\/10000;"
 }

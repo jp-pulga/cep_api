@@ -1,12 +1,12 @@
 {
-  "cep": "89805857",
-  "logradouro": "Rua Angelina Baldissera",
-  "bairro": "Vila Real",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Real;",
+    "cep": "89805857",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Angelina Baldissera;"
 }

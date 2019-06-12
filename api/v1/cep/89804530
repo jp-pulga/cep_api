@@ -1,12 +1,12 @@
 {
-  "cep": "89804530",
-  "logradouro": "Rua Araquari",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "89804530",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Araquari;"
 }

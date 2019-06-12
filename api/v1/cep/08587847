@@ -1,12 +1,12 @@
 {
-  "cep": "08587847",
-  "logradouro": "Rua Alfredo Wagner",
-  "bairro": "Parque Residencial Scaffid",
-  "cidade": {
-    "nome": "Itaquaquecetuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Residencial Scaffid;",
+    "cep": "08587847",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itaquaquecetuba"
+    },
+    "logradouro": "Rua Alfredo Wagner;"
 }

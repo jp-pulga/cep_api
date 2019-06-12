@@ -1,12 +1,13 @@
 {
-  "cep": "88339899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Balneário Camboriú",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Área Rural de Balneário Camboriú;",
+    "cep": "88339899",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "ibge": 4202008,
+    "logradouro": "Área Rural;"
 }

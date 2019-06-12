@@ -1,12 +1,12 @@
 {
-  "cep": "95535990",
-  "logradouro": "Olaria Rua Osmani Veras 2438",
-  "bairro": "",
-  "cidade": {
-    "nome": "Terra de Areia",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95535990",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Terra de Areia"
+    },
+    "ibge": 4321436,
+    "logradouro": "Rua Osmani Veras, 2438  CPC Olaria;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95778970",
-  "logradouro": "AC Vale Real Rua Emancipação 183",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vale Real",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95778970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Vale Real"
+    },
+    "ibge": 4322541,
+    "logradouro": "Rua Emancipação, 183  AC Vale Real;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88180970",
-  "logradouro": "AC Antônio Carlos Rua Daniel Petry 309 Sala 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antônio Carlos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88180970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Antônio Carlos"
+    },
+    "ibge": 4201208,
+    "logradouro": "Rua Daniel Petry, 309 Sala 2  AC Antônio Carlos;"
 }

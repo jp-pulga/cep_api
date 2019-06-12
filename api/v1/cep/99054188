@@ -1,12 +1,12 @@
 {
-  "cep": "99054188",
-  "logradouro": "Rua D (Lot M Corralo)",
-  "bairro": "São Luiz Gonzaga",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luiz Gonzaga;",
+    "cep": "99054188",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua D (Lot M Corralo);"
 }

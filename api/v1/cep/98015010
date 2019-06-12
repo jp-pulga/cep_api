@@ -1,12 +1,12 @@
 {
-  "cep": "98015010",
-  "logradouro": "Rua Sepé Tiaraju",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "98015010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Sepé Tiaraju;"
 }

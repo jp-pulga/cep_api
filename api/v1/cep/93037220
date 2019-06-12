@@ -1,12 +1,12 @@
 {
-  "cep": "93037220",
-  "logradouro": "Rua Viamão",
-  "bairro": "Santa Teresa",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Teresa;",
+    "cep": "93037220",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Viamão;"
 }

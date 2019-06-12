@@ -1,12 +1,12 @@
 {
-  "cep": "94415750",
-  "logradouro": "Rua Carlos Codevilla Tavares",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tarumã;",
+    "cep": "94415750",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Carlos Codevilla Tavares;"
 }

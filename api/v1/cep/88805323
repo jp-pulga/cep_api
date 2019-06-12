@@ -1,12 +1,13 @@
 {
-  "cep": "88805323",
-  "logradouro": "Avenida dos Italianos",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "88805323",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida dos Italianos;"
 }

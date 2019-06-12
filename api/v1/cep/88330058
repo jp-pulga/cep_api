@@ -1,12 +1,12 @@
 {
-  "cep": "88330058",
-  "logradouro": "Avenida Brasil de 2501/2502 a 2939/2940",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88330058",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Avenida Brasil - de 2501\/2502 a 2939\/2940;"
 }

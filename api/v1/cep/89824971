@@ -1,12 +1,13 @@
 {
-  "cep": "89824971",
-  "logradouro": "AC Bom Jesus Rua Manoel Narciso 133 Lote 10 Quadra 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89824971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bom Jesus"
+    },
+    "ibge": 4202537,
+    "logradouro": "Rua Manoel Narciso, 133 Lote 10 Quadra 6  AC Bom Jesus;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "88450000",
-  "logradouro": "Alfredo Wagner",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alfredo Wagner",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "88450000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Alfredo Wagner"
+    },
+    "ibge": 4200705
 }

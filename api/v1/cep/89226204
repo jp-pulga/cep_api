@@ -1,12 +1,12 @@
 {
-  "cep": "89226204",
-  "logradouro": "Rua Antônio Carlos Müller Maes",
-  "bairro": "Aventureiro",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Aventureiro;",
+    "cep": "89226204",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Antônio Carlos Müller Maes;"
 }

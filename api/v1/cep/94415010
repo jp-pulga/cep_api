@@ -1,12 +1,13 @@
 {
-  "cep": "94415010",
-  "logradouro": "Avenida João Carlos Viale Dias",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tarumã;",
+    "cep": "94415010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida João Carlos Viale Dias;"
 }

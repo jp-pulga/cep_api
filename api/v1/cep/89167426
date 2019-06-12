@@ -1,12 +1,12 @@
 {
-  "cep": "89167426",
-  "logradouro": "Rua Anitápolis",
-  "bairro": "Laranjeiras",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Laranjeiras;",
+    "cep": "89167426",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Anitápolis;"
 }

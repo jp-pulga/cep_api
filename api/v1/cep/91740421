@@ -1,12 +1,12 @@
 {
-  "cep": "91740421",
-  "logradouro": "Praça Três (Jd das Palmeiras)",
-  "bairro": "Cavalhada",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cavalhada;",
+    "cep": "91740421",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Três (Jd das Palmeiras);"
 }

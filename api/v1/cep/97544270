@@ -1,12 +1,12 @@
 {
-  "cep": "97544270",
-  "logradouro": "Rua João da Cunha Vargas",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "97544270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua João da Cunha Vargas;"
 }

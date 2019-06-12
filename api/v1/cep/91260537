@@ -1,12 +1,12 @@
 {
-  "cep": "91260537",
-  "logradouro": "Rua Seberi",
-  "bairro": "Mário Quintana",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mário Quintana;",
+    "cep": "91260537",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Seberi;"
 }

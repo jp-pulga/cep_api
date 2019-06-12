@@ -1,12 +1,12 @@
 {
-  "cep": "91120060",
-  "logradouro": "Acesso D (Vl N Brasília)",
-  "bairro": "Sarandi",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sarandi;",
+    "cep": "91120060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso D (Vl N Brasília);"
 }

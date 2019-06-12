@@ -1,12 +1,12 @@
 {
-  "cep": "88095045",
-  "logradouro": "Travessa Bandeirantes",
-  "bairro": "Jardim Atlântico",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim Atlântico;",
+    "cep": "88095045",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Travessa Bandeirantes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93042120",
-  "logradouro": "Rua São Sebastião do Cai",
-  "bairro": "Pinheiro",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pinheiro;",
+    "cep": "93042120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua São Sebastião do Cai;"
 }

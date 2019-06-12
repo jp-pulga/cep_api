@@ -1,12 +1,13 @@
 {
-  "cep": "93226210",
-  "logradouro": "Rodovia RS-118",
-  "bairro": "Capão da Cruz",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Capão da Cruz;",
+    "cep": "93226210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "ibge": 4320008,
+    "logradouro": "Rodovia RS-118;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88110175",
-  "logradouro": "Rua Braço do Norte",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "88110175",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Braço do Norte;"
 }

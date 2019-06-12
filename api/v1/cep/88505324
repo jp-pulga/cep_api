@@ -1,12 +1,12 @@
 {
-  "cep": "88505324",
-  "logradouro": "Rua Benedito Novo",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "88505324",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Benedito Novo;"
 }

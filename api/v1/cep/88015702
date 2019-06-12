@@ -1,12 +1,13 @@
 {
-  "cep": "88015702",
-  "logradouro": "Avenida Jornalista Rubens de Arruda Ramos de 2140/2141 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88015702",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Jornalista Rubens de Arruda Ramos - de 2140\/2141 ao fim;"
 }

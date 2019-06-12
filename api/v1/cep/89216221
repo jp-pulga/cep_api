@@ -1,12 +1,12 @@
 {
-  "cep": "89216221",
-  "logradouro": "Rua Campos Novos",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "89216221",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Campos Novos;"
 }

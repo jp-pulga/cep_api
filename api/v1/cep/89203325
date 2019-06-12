@@ -1,12 +1,12 @@
 {
-  "cep": "89203325",
-  "logradouro": "Rua Bruno Blohn",
-  "bairro": "Anita Garibaldi",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Anita Garibaldi;",
+    "cep": "89203325",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Bruno Blohn;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "97501825",
-  "logradouro": "Avenida Presidente Getúlio Vargas de 1771 a 2239 - lado ímpar",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "97501825",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Presidente Getúlio Vargas - de 1771 a 2239 - lado ímpar;"
 }

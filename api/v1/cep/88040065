@@ -1,12 +1,13 @@
 {
-  "cep": "88040065",
-  "logradouro": "Beco da Leontina",
-  "bairro": "Pantanal",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pantanal;",
+    "cep": "88040065",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Beco da Leontina;"
 }

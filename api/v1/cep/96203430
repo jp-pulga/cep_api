@@ -1,12 +1,12 @@
 {
-  "cep": "96203430",
-  "logradouro": "Rua Cento e Cinquenta (Prq Res Mar-Luz)",
-  "bairro": "Vila Maria",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Maria;",
+    "cep": "96203430",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Cento e Cinquenta (Prq Res Mar-Luz);"
 }

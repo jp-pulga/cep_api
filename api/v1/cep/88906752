@@ -1,12 +1,13 @@
 {
-  "cep": "88906752",
-  "logradouro": "Avenida Capitão Pedro Fernandes",
-  "bairro": "Coloninha",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Coloninha;",
+    "cep": "88906752",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Avenida Capitão Pedro Fernandes;"
 }

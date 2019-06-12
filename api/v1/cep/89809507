@@ -1,12 +1,12 @@
 {
-  "cep": "89809507",
-  "logradouro": "Rua Cunha Pora D",
-  "bairro": "Efapi",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Efapi;",
+    "cep": "89809507",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Cunha Pora - D;"
 }

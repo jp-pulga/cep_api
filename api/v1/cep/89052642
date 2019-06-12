@@ -1,12 +1,13 @@
 {
-  "cep": "89052642",
-  "logradouro": "Largo Vienna",
-  "bairro": "Itoupava Norte",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Norte;",
+    "cep": "89052642",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Largo Vienna;"
 }

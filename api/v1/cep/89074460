@@ -1,12 +1,12 @@
 {
-  "cep": "89074460",
-  "logradouro": "Rua Bandeirantes",
-  "bairro": "Testo Salto",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Testo Salto;",
+    "cep": "89074460",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Bandeirantes;"
 }

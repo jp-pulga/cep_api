@@ -1,12 +1,12 @@
 {
-  "cep": "14090470",
-  "logradouro": "Rua Afonso Schimidt",
-  "bairro": "Parque dos Bandeirantes",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque dos Bandeirantes;",
+    "cep": "14090470",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Afonso Schimidt;"
 }

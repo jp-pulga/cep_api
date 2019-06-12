@@ -1,12 +1,13 @@
 {
-  "cep": "89138970",
-  "logradouro": "AC Ascurra Rua Benjamin Constant 174/1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ascurra",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89138970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Ascurra"
+    },
+    "ibge": 4201703,
+    "logradouro": "Rua Benjamin Constant, 174\/1  AC Ascurra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88025202",
-  "logradouro": "Avenida Governador Irineu Bornhausen de 4101/4102 ao fim",
-  "bairro": "Agronômica",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Agronômica;",
+    "cep": "88025202",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Avenida Governador Irineu Bornhausen - de 4101\/4102 ao fim;"
 }

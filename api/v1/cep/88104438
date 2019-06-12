@@ -1,12 +1,12 @@
 {
-  "cep": "88104438",
-  "logradouro": "Rua Aurora Feldberg Auras",
-  "bairro": "Fazenda Santo Antônio",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fazenda Santo Antônio;",
+    "cep": "88104438",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Aurora Feldberg Auras;"
 }

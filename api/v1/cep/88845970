@@ -1,12 +1,13 @@
 {
-  "cep": "88845970",
-  "logradouro": "AC Cocal do Sul Rua Adão Bosa 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cocal do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88845970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Cocal do Sul"
+    },
+    "ibge": 4204251,
+    "logradouro": "Rua Adão Bosa, 20  AC Cocal do Sul;"
 }

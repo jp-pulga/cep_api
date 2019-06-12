@@ -1,12 +1,13 @@
 {
-  "cep": "88813030",
-  "logradouro": "Avenida do Mineiro",
-  "bairro": "Próspera",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Próspera;",
+    "cep": "88813030",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida do Mineiro;"
 }

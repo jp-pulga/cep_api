@@ -1,12 +1,13 @@
 {
-  "cep": "88535970",
-  "logradouro": "AC Correia Pinto Rua Getúlio Vargas 292",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Correia Pinto",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88535970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Correia Pinto"
+    },
+    "ibge": 4204558,
+    "logradouro": "Rua Getúlio Vargas, 292  AC Correia Pinto;"
 }

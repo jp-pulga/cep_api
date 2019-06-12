@@ -1,12 +1,12 @@
 {
-  "cep": "99678000",
-  "logradouro": "Progresso (Três Palmeiras)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Progresso (Três Palmeiras)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Progresso",
+    "cep": "99678000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Palmeiras"
+    },
+    "ibge": 4321857
 }

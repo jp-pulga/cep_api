@@ -1,12 +1,13 @@
 {
-  "cep": "88902490",
-  "logradouro": "Alameda Ascendino Moraes de Sá lado ímpar",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88902490",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Alameda Ascendino Moraes de Sá - lado ímpar;"
 }

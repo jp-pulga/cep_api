@@ -1,12 +1,12 @@
 {
-  "cep": "94090970",
-  "logradouro": "CEE Gravataí Rodovia RS-020 2415",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "94090970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rodovia RS-020, 2415  CEE Gravataí;"
 }

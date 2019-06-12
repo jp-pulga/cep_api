@@ -1,12 +1,13 @@
 {
-  "cep": "89905972",
-  "logradouro": "PC Linha Prata Estrada Geral s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bandeirante",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89905972",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bandeirante"
+    },
+    "ibge": 4202081,
+    "logradouro": "Estrada Geral, s\/n  PC Linha Prata;"
 }

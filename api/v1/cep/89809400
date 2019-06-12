@@ -1,12 +1,12 @@
 {
-  "cep": "89809400",
-  "logradouro": "Rua Caxambu do Sul",
-  "bairro": "Engenho Braun",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Engenho Braun;",
+    "cep": "89809400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Caxambu do Sul;"
 }

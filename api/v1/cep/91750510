@@ -1,12 +1,12 @@
 {
-  "cep": "91750510",
-  "logradouro": "Praça José Mariano de Freitas Beck",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "91750510",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça José Mariano de Freitas Beck;"
 }

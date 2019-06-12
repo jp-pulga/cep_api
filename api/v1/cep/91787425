@@ -1,12 +1,12 @@
 {
-  "cep": "91787425",
-  "logradouro": "Rua Florestan Fernandes",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "91787425",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Florestan Fernandes;"
 }

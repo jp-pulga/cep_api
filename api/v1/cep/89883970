@@ -1,12 +1,13 @@
 {
-  "cep": "89883970",
-  "logradouro": "AC Águas de Chapecó Avenida Joinville 625 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Águas de Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89883970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Águas de Chapecó"
+    },
+    "ibge": 4200507,
+    "logradouro": "Avenida Joinville, 625 Sala 02  AC Águas de Chapecó;"
 }

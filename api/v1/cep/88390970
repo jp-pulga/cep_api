@@ -1,12 +1,13 @@
 {
-  "cep": "88390970",
-  "logradouro": "AC Barra Velha Rua Paraná 428",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra Velha",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88390970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Barra Velha"
+    },
+    "ibge": 4202107,
+    "logradouro": "Avenida Thiago Aguiar, 348 Sala 01  AC Barra Velha;"
 }

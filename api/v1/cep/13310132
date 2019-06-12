@@ -1,12 +1,12 @@
 {
-  "cep": "13310132",
-  "logradouro": "Rua Alice Teresa Gasparazzo Scalet",
-  "bairro": "Parque Residencial Presidente Médici",
-  "cidade": {
-    "nome": "Itu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Residencial Presidente Médici;",
+    "cep": "13310132",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itu"
+    },
+    "logradouro": "Rua Alice Teresa Gasparazzo Scalet;"
 }

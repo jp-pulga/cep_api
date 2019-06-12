@@ -1,12 +1,13 @@
 {
-  "cep": "88460970",
-  "logradouro": "AC Angelina Rua Leoberto Leal 115 Sala 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Angelina",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88460970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Angelina"
+    },
+    "ibge": 4200903,
+    "logradouro": "Rua Leoberto Leal, 115 Sala 1  AC Angelina;"
 }

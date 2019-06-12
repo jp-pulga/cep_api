@@ -1,12 +1,12 @@
 {
-  "cep": "88309052",
-  "logradouro": "Rua Botuverá",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "88309052",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Botuverá;"
 }

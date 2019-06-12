@@ -1,12 +1,12 @@
 {
-  "cep": "88115663",
-  "logradouro": "Travessa Garuva",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "88115663",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Travessa Garuva;"
 }

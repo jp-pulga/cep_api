@@ -1,12 +1,12 @@
 {
-  "cep": "93295468",
-  "logradouro": "Rua Moacir Pereira Tavares",
-  "bairro": "Parque Primavera",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Primavera;",
+    "cep": "93295468",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Moacir Pereira Tavares;"
 }

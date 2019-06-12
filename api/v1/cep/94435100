@@ -1,12 +1,13 @@
 {
-  "cep": "94435100",
-  "logradouro": "Avenida Jardim Lisboa de 1100/1101 ao fim",
-  "bairro": "Krahe",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Krahe;",
+    "cep": "94435100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Jardim Lisboa - de 1100\/1101 ao fim;"
 }

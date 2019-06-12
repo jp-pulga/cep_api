@@ -1,12 +1,12 @@
 {
-  "cep": "88813195",
-  "logradouro": "Rua Florianópolis",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "88813195",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Florianópolis;"
 }

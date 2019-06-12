@@ -1,12 +1,12 @@
 {
-  "cep": "88115661",
-  "logradouro": "Travessa Belmonte",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "88115661",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Travessa Belmonte;"
 }

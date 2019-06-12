@@ -1,12 +1,13 @@
 {
-  "cep": "98865970",
-  "logradouro": "AC São Miguel das Missões Rua Antunes Ribas 1525",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98865970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Miguel das Missões"
+    },
+    "ibge": 4319158,
+    "logradouro": "Rua Antunes Ribas, 1515  AC São Miguel das Missões;"
 }

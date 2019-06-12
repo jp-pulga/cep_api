@@ -1,12 +1,13 @@
 {
-  "cep": "89744970",
-  "logradouro": "AGC Nova Estrela Rua do Saber s/n",
-  "bairro": "Nova Estrela",
-  "cidade": {
-    "nome": "Arabutã",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Nova Estrela;",
+    "cep": "89744970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Arabutã"
+    },
+    "ibge": 4201273,
+    "logradouro": "Rua do Saber, s\/n  AGC Nova Estrela;"
 }

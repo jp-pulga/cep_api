@@ -1,12 +1,13 @@
 {
-  "cep": "97755971",
-  "logradouro": "AC Unistalda Rua Amelio Ribeiro 531",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Unistalda",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97755971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Unistalda"
+    },
+    "ibge": 4322376,
+    "logradouro": "Rua Amelio Ribeiro, 531  AC Unistalda;"
 }

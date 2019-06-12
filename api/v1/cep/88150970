@@ -1,12 +1,13 @@
 {
-  "cep": "88150970",
-  "logradouro": "AC Águas Mornas Avenida Coronel Antônio Lehmkuhl 584",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Águas Mornas",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88150970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Águas Mornas"
+    },
+    "ibge": 4200606,
+    "logradouro": "Avenida Coronel Antônio Lehmkuhl, 584  AC Águas Mornas;"
 }

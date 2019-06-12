@@ -1,12 +1,12 @@
 {
-  "cep": "98802310",
-  "logradouro": "Rua Acílio da Silva Tavares",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "98802310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Acílio da Silva Tavares;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93218420",
-  "logradouro": "Rua São Vicente de Paula",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "93218420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua São Vicente de Paula;"
 }

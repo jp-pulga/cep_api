@@ -1,12 +1,12 @@
 {
-  "cep": "88334090",
-  "logradouro": "Estrada Antônio Torquato",
-  "bairro": "Praia do Estaleiro",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Praia do Estaleiro;",
+    "cep": "88334090",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Estrada Antônio Torquato;"
 }

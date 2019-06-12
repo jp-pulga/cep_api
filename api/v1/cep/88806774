@@ -1,12 +1,13 @@
 {
-  "cep": "88806774",
-  "logradouro": "Avenida Boa Vista",
-  "bairro": "Vila Manaus",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Manaus;",
+    "cep": "88806774",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Boa Vista;"
 }

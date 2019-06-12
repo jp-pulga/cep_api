@@ -1,12 +1,11 @@
 {
-  "cep": "89520000",
-  "logradouro": "Curitibanos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Curitibanos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89520000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Curitibanos"
+    },
+    "ibge": 4204806
 }

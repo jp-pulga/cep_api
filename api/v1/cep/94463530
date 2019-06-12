@@ -1,12 +1,13 @@
 {
-  "cep": "94463530",
-  "logradouro": "Avenida Cristo Rei",
-  "bairro": "Branquinha",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Branquinha;",
+    "cep": "94463530",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Cristo Rei;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "19068250",
-  "logradouro": "Rua Pioneira Aurora Stocco Scalon",
-  "bairro": "Residencial Green Ville",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Green Ville;",
+    "cep": "19068250",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Pioneira Aurora Stocco Scalon;"
 }

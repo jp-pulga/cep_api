@@ -1,12 +1,12 @@
 {
-  "cep": "96830830",
-  "logradouro": "Rua Tapes",
-  "bairro": "Aliança",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aliança;",
+    "cep": "96830830",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Tapes;"
 }

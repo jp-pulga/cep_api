@@ -1,12 +1,12 @@
 {
-  "cep": "99034289",
-  "logradouro": "Rua Antônio Carlos Scheffer",
-  "bairro": "Integração",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Integração;",
+    "cep": "99034289",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Antônio Carlos Scheffer;"
 }

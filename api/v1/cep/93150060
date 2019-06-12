@@ -1,12 +1,12 @@
 {
-  "cep": "93150060",
-  "logradouro": "Praça Quatro de Março",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "93150060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Praça Quatro de Março;"
 }

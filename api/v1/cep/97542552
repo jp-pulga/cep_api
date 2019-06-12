@@ -1,12 +1,12 @@
 {
-  "cep": "97542552",
-  "logradouro": "Praça José Pedroso de Albuquerque",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "97542552",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Praça José Pedroso de Albuquerque;"
 }

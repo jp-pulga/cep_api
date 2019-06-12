@@ -1,12 +1,12 @@
 {
-  "cep": "88337000",
-  "logradouro": "Avenida Marginal Oeste",
-  "bairro": "Vila Real",
-  "cidade": {
-    "nome": "Balneário Camboriú",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Real;",
+    "cep": "88337000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Balneário Camboriú"
+    },
+    "logradouro": "Avenida Marginal Oeste;"
 }

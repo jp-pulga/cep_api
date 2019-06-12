@@ -1,12 +1,13 @@
 {
-  "cep": "94430000",
-  "logradouro": "Avenida Senador Salgado Filho de 10178/10179 ao fim",
-  "bairro": "Fiuza",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fiuza;",
+    "cep": "94430000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Senador Salgado Filho - de 10178\/10179 ao fim;"
 }

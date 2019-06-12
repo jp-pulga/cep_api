@@ -1,12 +1,12 @@
 {
-  "cep": "99709314",
-  "logradouro": "Rua Silveira Martins de 1020/1021 ao fim",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "99709314",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Silveira Martins - de 1020\/1021 ao fim;"
 }

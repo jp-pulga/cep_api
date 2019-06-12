@@ -1,12 +1,13 @@
 {
-  "cep": "89905971",
-  "logradouro": "PC Novo Encantado Rua Geral s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bandeirante",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89905971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bandeirante"
+    },
+    "ibge": 4202081,
+    "logradouro": "Rua Geral, s\/n  PC Novo Encantado;"
 }

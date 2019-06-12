@@ -1,12 +1,12 @@
 {
-  "cep": "89058170",
-  "logradouro": "Rua Cordilheira dos Andes",
-  "bairro": "Fortaleza Alta",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fortaleza Alta;",
+    "cep": "89058170",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Cordilheira dos Andes;"
 }

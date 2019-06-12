@@ -1,12 +1,13 @@
 {
-  "cep": "89830970",
-  "logradouro": "AC Abelardo Luz Avenida Getúlio Vargas 678 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Abelardo Luz",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89830970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Abelardo Luz"
+    },
+    "ibge": 4200101,
+    "logradouro": "Avenida Getúlio Vargas, 678 Sala 01  AC Abelardo Luz;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88150971",
-  "logradouro": "AGC Santa Cruz da Figueira Rua Adelir Kirchner 32",
-  "bairro": "Santa Cruz da Figueira",
-  "cidade": {
-    "nome": "Águas Mornas",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Cruz da Figueira;",
+    "cep": "88150971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Águas Mornas"
+    },
+    "ibge": 4200606,
+    "logradouro": "Rua Adelir Kirchner, 32  AGC Santa Cruz da Figueira;"
 }

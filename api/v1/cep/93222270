@@ -1,12 +1,13 @@
 {
-  "cep": "93222270",
-  "logradouro": "Avenida Américo Vespúcio de 2001/2002 ao fim",
-  "bairro": "Vargas",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vargas;",
+    "cep": "93222270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "ibge": 4320008,
+    "logradouro": "Avenida Américo Vespúcio - de 2001\/2002 ao fim;"
 }

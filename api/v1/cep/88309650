@@ -1,12 +1,12 @@
 {
-  "cep": "88309650",
-  "logradouro": "Avenida Campos Novos - de 890/891 ao fim",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "88309650",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Avenida Campos Novos - de 890\/891 ao fim;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "89654000",
-  "logradouro": "Água Doce",
-  "bairro": "",
-  "cidade": {
-    "nome": "Água Doce",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89654000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Água Doce"
+    },
+    "ibge": 4200408
 }

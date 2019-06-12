@@ -1,12 +1,12 @@
 {
-  "cep": "89053136",
-  "logradouro": "Rua Cunha Porã",
-  "bairro": "Itoupava Norte",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Norte;",
+    "cep": "89053136",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Cunha Porã;"
 }

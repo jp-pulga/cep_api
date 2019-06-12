@@ -1,12 +1,12 @@
 {
-  "cep": "91360080",
-  "logradouro": "Avenida Engenheiro José Maria de Carvalho",
-  "bairro": "Vila Ipiranga",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Ipiranga;",
+    "cep": "91360080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Engenheiro José Maria de Carvalho;"
 }

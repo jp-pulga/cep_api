@@ -1,12 +1,12 @@
 {
-  "cep": "89628000",
-  "logradouro": "Bela Vista (Campos Novos)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bela Vista (Campos Novos)",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bela Vista",
+    "cep": "89628000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Campos Novos"
+    },
+    "ibge": 4203600
 }

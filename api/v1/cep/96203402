@@ -1,12 +1,12 @@
 {
-  "cep": "96203402",
-  "logradouro": "Rua A (Cibrazem)",
-  "bairro": "Vila Maria",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Maria;",
+    "cep": "96203402",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua A (Cibrazem);"
 }

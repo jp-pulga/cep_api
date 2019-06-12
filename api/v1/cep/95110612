@@ -1,12 +1,12 @@
 {
-  "cep": "95110612",
-  "logradouro": "Rua Presidente Hermes da Fonseca (Lot São Pedro)",
-  "bairro": "Charqueadas",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Charqueadas;",
+    "cep": "95110612",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Presidente Hermes da Fonseca (Lot São Pedro);"
 }

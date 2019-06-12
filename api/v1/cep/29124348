@@ -1,12 +1,12 @@
 {
-  "cep": "29124348",
-  "logradouro": "Rua Antônio Marcos Scheidegger",
-  "bairro": "Barramares",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barramares;",
+    "cep": "29124348",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Antônio Marcos Scheidegger;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89636970",
-  "logradouro": "AC Abdon Batista Avenida Vinte e Seis de Abril 707 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Abdon Batista",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89636970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Abdon Batista"
+    },
+    "ibge": 4200051,
+    "logradouro": "Avenida Vinte e Seis de Abril, 707 Sala 02  AC Abdon Batista;"
 }

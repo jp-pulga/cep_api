@@ -1,12 +1,13 @@
 {
-  "cep": "88805804",
-  "logradouro": "Avenida Assembléia de Deus lado par",
-  "bairro": "Imperatriz",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Imperatriz;",
+    "cep": "88805804",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Assembléia de Deus - lado par;"
 }

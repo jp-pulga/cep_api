@@ -1,12 +1,12 @@
 {
-  "cep": "98685000",
-  "logradouro": "Lajeado Bonito (Tiradentes do Sul)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lajeado Bonito (Tiradentes do Sul)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Lajeado Bonito",
+    "cep": "98685000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tiradentes do Sul"
+    },
+    "ibge": 4321477
 }

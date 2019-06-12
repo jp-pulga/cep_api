@@ -1,12 +1,13 @@
 {
-  "cep": "94450600",
-  "logradouro": "Avenida Tapes",
-  "bairro": "Esmeralda",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Esmeralda;",
+    "cep": "94450600",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Tapes;"
 }

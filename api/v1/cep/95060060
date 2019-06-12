@@ -1,12 +1,12 @@
 {
-  "cep": "95060060",
-  "logradouro": "Rua Ângelo Torresini",
-  "bairro": "Ana Rech",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ana Rech;",
+    "cep": "95060060",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Ângelo Torresini;"
 }

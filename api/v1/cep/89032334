@@ -1,12 +1,12 @@
 {
-  "cep": "89032334",
-  "logradouro": "Rua Angelina de 526/527 ao fim",
-  "bairro": "Passo Manso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Passo Manso;",
+    "cep": "89032334",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Angelina - de 526\/527 ao fim;"
 }

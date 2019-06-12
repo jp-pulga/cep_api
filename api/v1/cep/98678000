@@ -1,12 +1,12 @@
 {
-  "cep": "98678000",
-  "logradouro": "Monte Belo (Sede Nova)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Monte Belo (Sede Nova)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Monte Belo",
+    "cep": "98678000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sede Nova"
+    },
+    "ibge": 4320230
 }

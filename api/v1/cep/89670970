@@ -1,12 +1,13 @@
 {
-  "cep": "89670970",
-  "logradouro": "AC Catanduvas Rua Severiano Guerreiro 2618",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Catanduvas",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89670970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Catanduvas"
+    },
+    "ibge": 4204004,
+    "logradouro": "Rua Severiano Guerreiro, 847  AC Catanduvas;"
 }

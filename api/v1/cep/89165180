@@ -1,12 +1,12 @@
 {
-  "cep": "89165180",
-  "logradouro": "Beco Capinzal",
-  "bairro": "Barragem",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barragem;",
+    "cep": "89165180",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Beco Capinzal;"
 }

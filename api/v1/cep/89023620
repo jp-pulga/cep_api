@@ -1,12 +1,13 @@
 {
-  "cep": "89023620",
-  "logradouro": "Rua Adriano Schaefer",
-  "bairro": "Valparaiso",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Valparaiso;",
+    "cep": "89023620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Adriano Schaefer;"
 }

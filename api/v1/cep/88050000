@@ -1,12 +1,12 @@
 {
-  "cep": "88050000",
-  "logradouro": "Rodovia José Carlos Daux de 6007/6008 a 8998/8999",
-  "bairro": "Santo Antônio de Lisboa",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santo Antônio de Lisboa;",
+    "cep": "88050000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rodovia José Carlos Daux - de 6007\/6008 a 8998\/8999;"
 }

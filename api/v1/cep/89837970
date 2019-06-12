@@ -1,12 +1,13 @@
 {
-  "cep": "89837970",
-  "logradouro": "AGC Coronel Martins Avenida Getúlio Vargas 221",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel Martins",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89837970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Coronel Martins"
+    },
+    "ibge": 4204459,
+    "logradouro": "Avenida Getúlio Vargas, 221  AGC Coronel Martins;"
 }

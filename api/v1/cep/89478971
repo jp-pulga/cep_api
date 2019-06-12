@@ -1,12 +1,13 @@
 {
-  "cep": "89478971",
-  "logradouro": "AGC Bela Vista do Toldo Rua Estanislau Schumann s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bela Vista do Toldo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89478971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bela Vista do Toldo"
+    },
+    "ibge": 4202131,
+    "logradouro": "Rua Estanislau Schumann, s\/n  AGC Bela Vista do Toldo;"
 }

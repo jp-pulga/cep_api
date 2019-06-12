@@ -1,12 +1,13 @@
 {
-  "cep": "88810547",
-  "logradouro": "Avenida Aristides Bolan",
-  "bairro": "Mina do Mato",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Mina do Mato;",
+    "cep": "88810547",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Aristides Bolan;"
 }

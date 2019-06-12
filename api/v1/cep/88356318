@@ -1,12 +1,13 @@
 {
-  "cep": "88356318",
-  "logradouro": "Rua Sergio Roberto Schlindwein",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "88356318",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Sergio Roberto Schlindwein;"
 }

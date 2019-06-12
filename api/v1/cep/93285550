@@ -1,12 +1,12 @@
 {
-  "cep": "93285550",
-  "logradouro": "Rua Taquari",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "93285550",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Taquari;"
 }

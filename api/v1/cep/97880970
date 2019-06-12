@@ -1,12 +1,13 @@
 {
-  "cep": "97880970",
-  "logradouro": "AC São Nicolau Rua Júlio de Castilho 1308",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Nicolau",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97880970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Nicolau"
+    },
+    "ibge": 4319208,
+    "logradouro": "Rua Júlio de Castilho, 1308  AC São Nicolau;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88372008",
-  "logradouro": "Rua Senador Antonio Carlos Konder Reis",
-  "bairro": "Meia Praia",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Meia Praia;",
+    "cep": "88372008",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Rua Senador Antonio Carlos Konder Reis;"
 }

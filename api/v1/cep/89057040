@@ -1,12 +1,12 @@
 {
-  "cep": "89057040",
-  "logradouro": "Rua Fraiburgo",
-  "bairro": "Fortaleza",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fortaleza;",
+    "cep": "89057040",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Fraiburgo;"
 }

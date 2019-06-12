@@ -1,12 +1,12 @@
 {
-  "cep": "91750450",
-  "logradouro": "Rua Maria José de Souza e Cunha",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "91750450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Maria José de Souza e Cunha;"
 }

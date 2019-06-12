@@ -1,12 +1,13 @@
 {
-  "cep": "94435050",
-  "logradouro": "Avenida João Fernandes Krahe",
-  "bairro": "Krahe",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Krahe;",
+    "cep": "94435050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida João Fernandes Krahe;"
 }

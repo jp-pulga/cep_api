@@ -1,12 +1,13 @@
 {
-  "cep": "97501710",
-  "logradouro": "Avenida Presidente Getúlio Vargas de 2552 a 2884 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97501710",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Presidente Getúlio Vargas - de 2552 a 2884 - lado par;"
 }

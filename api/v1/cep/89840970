@@ -1,12 +1,13 @@
 {
-  "cep": "89840970",
-  "logradouro": "AC Coronel Freitas Avenida Santa Catarina 828",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel Freitas",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89840970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Coronel Freitas"
+    },
+    "ibge": 4204400,
+    "logradouro": "Avenida Santa Catarina, 800  AC Coronel Freitas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89167196",
-  "logradouro": "Rua Atalanta",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "89167196",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Atalanta;"
 }

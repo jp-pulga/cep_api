@@ -1,12 +1,13 @@
 {
-  "cep": "92850971",
-  "logradouro": "AC Sertão Santana Rua Vinte e Quatro de Março 1380",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sertão Santana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "92850971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sertão Santana"
+    },
+    "ibge": 4320552,
+    "logradouro": "Rua Vinte e Quatro de Março, 1380  AC Sertão Santana;"
 }

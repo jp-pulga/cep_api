@@ -1,12 +1,12 @@
 {
-  "cep": "89809838",
-  "logradouro": "Rua Aurora",
-  "bairro": "Efapi",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Efapi;",
+    "cep": "89809838",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Aurora;"
 }

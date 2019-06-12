@@ -1,12 +1,12 @@
 {
-  "cep": "98040080",
-  "logradouro": "Rua Soledade",
-  "bairro": "Hilda",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Hilda;",
+    "cep": "98040080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Soledade;"
 }

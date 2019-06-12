@@ -1,12 +1,12 @@
 {
-  "cep": "90520610",
-  "logradouro": "Rua Tupanciretã",
-  "bairro": "Passo da Areia",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo da Areia;",
+    "cep": "90520610",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Tupanciretã;"
 }

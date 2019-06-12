@@ -1,12 +1,13 @@
 {
-  "cep": "89654970",
-  "logradouro": "AC Água Doce Praça João Macagnan 320",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Água Doce",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89654970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Água Doce"
+    },
+    "ibge": 4200408,
+    "logradouro": "Praça João Macagnan, 320  AC Água Doce;"
 }

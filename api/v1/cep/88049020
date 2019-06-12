@@ -1,12 +1,13 @@
 {
-  "cep": "88049020",
-  "logradouro": "Avenida Joinville",
-  "bairro": "Tapera",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tapera;",
+    "cep": "88049020",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Avenida Joinville;"
 }

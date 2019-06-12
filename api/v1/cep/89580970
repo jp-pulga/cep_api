@@ -1,12 +1,13 @@
 {
-  "cep": "89580970",
-  "logradouro": "AC Fraiburgo Rua Marly 304",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fraiburgo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89580970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Fraiburgo"
+    },
+    "ibge": 4205506,
+    "logradouro": "Rua Marly, 304  AC Fraiburgo;"
 }

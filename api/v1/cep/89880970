@@ -1,12 +1,13 @@
 {
-  "cep": "89880970",
-  "logradouro": "AC Caxambu do Sul Rua Cristiano Perozza 149",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caxambu do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89880970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Caxambu do Sul"
+    },
+    "ibge": 4204103,
+    "logradouro": "Rua Cristiano Perozza, 149  AC Caxambu do Sul;"
 }

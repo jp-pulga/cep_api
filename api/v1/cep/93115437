@@ -1,12 +1,12 @@
 {
-  "cep": "93115437",
-  "logradouro": "Rua Tupandi",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "93115437",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Tupandi;"
 }

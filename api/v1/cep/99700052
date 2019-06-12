@@ -1,12 +1,12 @@
 {
-  "cep": "99700052",
-  "logradouro": "Rua Vinte de Setembro de 300/301 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99700052",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Vinte de Setembro - de 300\/301 ao fim;"
 }

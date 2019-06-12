@@ -1,12 +1,13 @@
 {
-  "cep": "88353010",
-  "logradouro": "Rua Germano Schaefer de 212/213 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro II;",
+    "cep": "88353010",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Germano Schaefer - de 212\/213 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88680970",
-  "logradouro": "AC Bom Retiro Rua Major Generoso 182",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Retiro",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88680970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bom Retiro"
+    },
+    "ibge": 4202602,
+    "logradouro": "Rua Major Generoso, 182  AC Bom Retiro;"
 }

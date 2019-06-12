@@ -1,12 +1,12 @@
 {
-  "cep": "89015620",
-  "logradouro": "Rua Campo Erê",
-  "bairro": "Vorstadt",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vorstadt;",
+    "cep": "89015620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Campo Erê;"
 }

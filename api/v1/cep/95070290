@@ -1,12 +1,12 @@
 {
-  "cep": "95070290",
-  "logradouro": "Rua São Pedro",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "95070290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua São Pedro;"
 }

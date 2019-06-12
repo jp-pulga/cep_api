@@ -1,12 +1,12 @@
 {
-  "cep": "98605970",
-  "logradouro": "AGC Bela Vista Rua Sete de Setembro 1171",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bela Vista (Três Passos)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro\/Bela Vista",
+    "cep": "98605970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Três Passos"
+    },
+    "logradouro": "Rua Sete de Setembro, 1171  AGC Bela Vista;"
 }

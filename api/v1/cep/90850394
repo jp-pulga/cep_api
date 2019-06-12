@@ -1,12 +1,12 @@
 {
-  "cep": "90850394",
-  "logradouro": "Rua Simão Frutuoso Tavares",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "90850394",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Simão Frutuoso Tavares;"
 }

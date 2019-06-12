@@ -1,12 +1,12 @@
 {
-  "cep": "88037255",
-  "logradouro": "Praça Padre José de Anchieta",
-  "bairro": "Córrego Grande",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Córrego Grande;",
+    "cep": "88037255",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Praça Padre José de Anchieta;"
 }

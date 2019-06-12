@@ -1,12 +1,12 @@
 {
-  "cep": "89809563",
-  "logradouro": "Rua Carlos Antonio de Mello",
-  "bairro": "Efapi",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Efapi;",
+    "cep": "89809563",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Carlos Antonio de Mello;"
 }

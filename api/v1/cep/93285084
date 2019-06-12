@@ -1,12 +1,12 @@
 {
-  "cep": "93285084",
-  "logradouro": "Rua Taquara",
-  "bairro": "Olímpica",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Olímpica;",
+    "cep": "93285084",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Taquara;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96085270",
-  "logradouro": "Rua Raposo Tavares",
-  "bairro": "Areal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Areal;",
+    "cep": "96085270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Raposo Tavares;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89062214",
-  "logradouro": "Rua Apiúna",
-  "bairro": "Itoupava Central",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Central;",
+    "cep": "89062214",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Apiúna;"
 }

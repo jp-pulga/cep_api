@@ -1,12 +1,12 @@
 {
-  "cep": "96203046",
-  "logradouro": "Rua C (Vl Aeroporto)",
-  "bairro": "Vila Maria José",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Maria José;",
+    "cep": "96203046",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua C (Vl Aeroporto);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90240670",
-  "logradouro": "Rua Três de Maio",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "90240670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Três de Maio;"
 }

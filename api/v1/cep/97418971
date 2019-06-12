@@ -1,12 +1,13 @@
 {
-  "cep": "97418971",
-  "logradouro": "AC Toropi Rua Vinte e Dois de Outubro 504",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Toropi",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97418971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Toropi"
+    },
+    "ibge": 4321493,
+    "logradouro": "Rua Vinte e Dois de Outubro, 504  AC Toropi;"
 }

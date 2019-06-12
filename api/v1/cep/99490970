@@ -1,12 +1,13 @@
 {
-  "cep": "99490970",
-  "logradouro": "AC Tapera Avenida José Baggio 109",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tapera",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99490970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tapera"
+    },
+    "ibge": 4321006,
+    "logradouro": "Avenida José Baggio, 109  AC Tapera;"
 }

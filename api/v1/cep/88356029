@@ -1,12 +1,13 @@
 {
-  "cep": "88356029",
-  "logradouro": "Rua Bertha Schroeder",
-  "bairro": "Limeira",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Limeira Baixa;",
+    "cep": "88356029",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Bertha Schroeder;"
 }

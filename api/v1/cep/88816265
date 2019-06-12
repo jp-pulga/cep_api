@@ -1,12 +1,13 @@
 {
-  "cep": "88816265",
-  "logradouro": "Avenida Mário Búrigo",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cristo Redentor;",
+    "cep": "88816265",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Mário Búrigo;"
 }

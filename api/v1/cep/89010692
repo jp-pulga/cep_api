@@ -1,12 +1,12 @@
 {
-  "cep": "89010692",
-  "logradouro": "Rua Carijós",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "89010692",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Carijós;"
 }

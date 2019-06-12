@@ -1,12 +1,12 @@
 {
-  "cep": "96508011",
-  "logradouro": "Rua Sete de Setembro lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96508011",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Sete de Setembro - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "97340970",
-  "logradouro": "AC São Sepé Rua Percival Brenner 1519",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sepé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97340970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Sepé"
+    },
+    "ibge": 4319604,
+    "logradouro": "Rua Percival Brenner, 1519  AC São Sepé;"
 }

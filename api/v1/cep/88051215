@@ -1,12 +1,13 @@
 {
-  "cep": "88051215",
-  "logradouro": "Condomínio Sambaqui",
-  "bairro": "Sambaqui",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sambaqui;",
+    "cep": "88051215",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Condomínio Sambaqui;"
 }

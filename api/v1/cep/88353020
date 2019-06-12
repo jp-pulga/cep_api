@@ -1,12 +1,13 @@
 {
-  "cep": "88353020",
-  "logradouro": "Rua Gustavo Schlosser",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brusque",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro II;",
+    "cep": "88353020",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Brusque"
+    },
+    "ibge": 4202909,
+    "logradouro": "Rua Gustavo Schlosser;"
 }

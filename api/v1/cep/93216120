@@ -1,12 +1,13 @@
 {
-  "cep": "93216120",
-  "logradouro": "Avenida Copacabana",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "93216120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "ibge": 4320008,
+    "logradouro": "Avenida Copacabana;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "89819970",
-  "logradouro": "AC Cordilheira Alta Rua Patrocínio Dal 244 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cordilheira Alta",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89819970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Cordilheira Alta"
+    },
+    "ibge": 4204350,
+    "logradouro": "Rua Patrocínio Dal, 244 Sala 02  AC Cordilheira Alta;"
 }

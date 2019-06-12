@@ -1,12 +1,12 @@
 {
-  "cep": "88502202",
-  "logradouro": "Rua Correia Pinto de 292 ao fim - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88502202",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Correia Pinto - de 292 ao fim - lado par;"
 }

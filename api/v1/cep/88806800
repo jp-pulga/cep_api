@@ -1,12 +1,13 @@
 {
-  "cep": "88806800",
-  "logradouro": "Avenida Catarinense",
-  "bairro": "Vila Manaus",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Manaus;",
+    "cep": "88806800",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Catarinense;"
 }

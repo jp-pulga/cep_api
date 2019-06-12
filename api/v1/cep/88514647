@@ -1,12 +1,12 @@
 {
-  "cep": "88514647",
-  "logradouro": "Rua Antônio Carlos de Souza Becker",
-  "bairro": "Área Industrial",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Área Industrial;",
+    "cep": "88514647",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Antônio Carlos de Souza Becker;"
 }

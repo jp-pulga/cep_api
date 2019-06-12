@@ -1,12 +1,12 @@
 {
-  "cep": "90470480",
-  "logradouro": "Avenida Toropi",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "90470480",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Toropi;"
 }

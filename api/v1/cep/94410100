@@ -1,12 +1,13 @@
 {
-  "cep": "94410100",
-  "logradouro": "Rua José Garibaldi até 1498/1499",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "94410100",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida José Garibaldi - até 549\/550;"
 }

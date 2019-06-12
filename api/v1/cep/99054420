@@ -1,12 +1,12 @@
 {
-  "cep": "99054420",
-  "logradouro": "Rua Adrianópolis",
-  "bairro": "São Luiz Gonzaga",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Luiz Gonzaga;",
+    "cep": "99054420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Adrianópolis;"
 }

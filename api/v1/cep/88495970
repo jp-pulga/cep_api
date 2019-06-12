@@ -1,12 +1,13 @@
 {
-  "cep": "88495970",
-  "logradouro": "AC Garopaba Rua Trinta de Dezembro 300 Loja 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Garopaba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88495970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Garopaba"
+    },
+    "ibge": 4205704,
+    "logradouro": "Rua Trinta de Dezembro, 300 Loja 1  AC Garopaba;"
 }

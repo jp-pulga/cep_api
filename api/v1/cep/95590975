@@ -1,12 +1,13 @@
 {
-  "cep": "95590975",
-  "logradouro": "CDD Tramandaí Rua Militão de Almeida 1409",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tramandaí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95590975",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tramandaí"
+    },
+    "ibge": 4321600,
+    "logradouro": "Rua Militão de Almeida, 1409  CDD Tramandaí;"
 }

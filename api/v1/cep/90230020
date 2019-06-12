@@ -1,12 +1,12 @@
 {
-  "cep": "90230020",
-  "logradouro": "Rua Comendador Tavares",
-  "bairro": "Navegantes",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Navegantes;",
+    "cep": "90230020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Comendador Tavares;"
 }

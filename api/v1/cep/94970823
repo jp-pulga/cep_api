@@ -1,12 +1,12 @@
 {
-  "cep": "94970823",
-  "logradouro": "Rua João Tavares",
-  "bairro": "Jardim Betânia",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Betânia;",
+    "cep": "94970823",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua João Tavares;"
 }

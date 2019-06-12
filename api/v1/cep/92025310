@@ -1,12 +1,12 @@
 {
-  "cep": "92025310",
-  "logradouro": "Rua Doutor Selbach",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "92025310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Doutor Selbach;"
 }

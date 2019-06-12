@@ -1,12 +1,11 @@
 {
-  "cep": "89124000",
-  "logradouro": "Benedito Novo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Benedito Novo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "cep": "89124000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Benedito Novo"
+    },
+    "ibge": 4202206
 }

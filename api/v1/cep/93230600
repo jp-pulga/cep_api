@@ -1,12 +1,13 @@
 {
-  "cep": "93230600",
-  "logradouro": "Avenida Juventino Machado até 429/430",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "93230600",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "ibge": 4320008,
+    "logradouro": "Avenida Juventino Machado - até 429\/430;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "97573508",
-  "logradouro": "Rua Silveira Martins até 850 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Livramento",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97573508",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana do Livramento"
+    },
+    "logradouro": "Rua Silveira Martins - até 850 - lado par;"
 }

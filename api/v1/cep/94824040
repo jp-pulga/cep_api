@@ -1,12 +1,12 @@
 {
-  "cep": "94824040",
-  "logradouro": "Rua Taquari",
-  "bairro": "Maria Regina",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Maria Regina;",
+    "cep": "94824040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Taquari;"
 }

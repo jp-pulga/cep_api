@@ -1,12 +1,12 @@
 {
-  "cep": "98040170",
-  "logradouro": "Rua Tupanciretã",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "98040170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Tupanciretã;"
 }

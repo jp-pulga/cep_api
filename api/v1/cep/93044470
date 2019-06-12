@@ -1,12 +1,12 @@
 {
-  "cep": "93044470",
-  "logradouro": "Rua Sapucáia do Sul",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "93044470",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Sapucáia do Sul;"
 }

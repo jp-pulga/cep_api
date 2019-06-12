@@ -1,12 +1,12 @@
 {
-  "cep": "93347260",
-  "logradouro": "Rua Ildefonso Torres Garcia",
-  "bairro": "Boa Saúde",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Saúde;",
+    "cep": "93347260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Ildefonso Torres Garcia;"
 }

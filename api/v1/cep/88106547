@@ -1,12 +1,12 @@
 {
-  "cep": "88106547",
-  "logradouro": "Rua Domingas Serafim Machado",
-  "bairro": "Forquilhinha",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Forquilhinha;",
+    "cep": "88106547",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Domingas Serafim Machado;"
 }

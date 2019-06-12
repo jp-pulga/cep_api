@@ -1,12 +1,13 @@
 {
-  "cep": "88062620",
-  "logradouro": "Beco dos Surfistas",
-  "bairro": "Lagoa da Conceição",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Lagoa da Conceição;",
+    "cep": "88062620",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "ibge": 4205407,
+    "logradouro": "Beco dos Surfistas;"
 }

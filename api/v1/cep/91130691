@@ -1,12 +1,12 @@
 {
-  "cep": "91130691",
-  "logradouro": "Acesso A Um (Conjunto Res Dom Pedro I)",
-  "bairro": "Sarandi",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sarandi;",
+    "cep": "91130691",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso A Um (Conjunto Res Dom Pedro I);"
 }

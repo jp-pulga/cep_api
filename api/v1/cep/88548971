@@ -1,12 +1,13 @@
 {
-  "cep": "88548971",
-  "logradouro": "AC Capão Alto Rua Euclides Vargas 149",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capão Alto",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88548971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Capão Alto"
+    },
+    "ibge": 4203253,
+    "logradouro": "Rua Euclides Vargas, 149  AC Capão Alto;"
 }

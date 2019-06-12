@@ -1,12 +1,13 @@
 {
-  "cep": "96910970",
-  "logradouro": "AC Segredo Rua dos Imigrantes 1010",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Segredo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96910970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Segredo"
+    },
+    "ibge": 4320263,
+    "logradouro": "Rua dos Imigrantes, 1010  AC Segredo;"
 }

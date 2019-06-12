@@ -1,12 +1,13 @@
 {
-  "cep": "94450000",
-  "logradouro": "Avenida Senador Salgado Filho de 4980/4981 a 6863/6864",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Lucas;",
+    "cep": "94450000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002,
+    "logradouro": "Avenida Senador Salgado Filho - de 4980\/4981 a 6863\/6864;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89810170",
-  "logradouro": "Rua Descanso",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "89810170",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Descanso;"
 }

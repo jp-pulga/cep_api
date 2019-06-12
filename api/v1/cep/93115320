@@ -1,12 +1,12 @@
 {
-  "cep": "93115320",
-  "logradouro": "Rua Gaspar Silveira Martins",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "93115320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Gaspar Silveira Martins;"
 }

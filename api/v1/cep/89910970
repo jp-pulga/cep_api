@@ -1,12 +1,13 @@
 {
-  "cep": "89910970",
-  "logradouro": "AC Descanso Rua José Bonifácio 19",
-  "bairro": "Cento",
-  "cidade": {
-    "nome": "Descanso",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cento;",
+    "cep": "89910970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Descanso"
+    },
+    "ibge": 4204905,
+    "logradouro": "Rua José Bonifácio, 19  AC Descanso;"
 }

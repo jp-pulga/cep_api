@@ -1,12 +1,12 @@
 {
-  "cep": "93425265",
-  "logradouro": "Rua Arlindo Silveira Martins",
-  "bairro": "Santo Afonso",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Afonso;",
+    "cep": "93425265",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Arlindo Silveira Martins;"
 }

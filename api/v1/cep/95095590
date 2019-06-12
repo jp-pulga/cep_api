@@ -1,12 +1,12 @@
 {
-  "cep": "95095590",
-  "logradouro": "Rua Sabina Pedroni Boff",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "95095590",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Sabina Pedroni Boff;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89022080",
-  "logradouro": "Rua Campos Novos",
-  "bairro": "Garcia",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Garcia;",
+    "cep": "89022080",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Campos Novos;"
 }

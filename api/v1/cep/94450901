@@ -1,12 +1,12 @@
 {
-  "cep": "94450901",
-  "logradouro": "Condomínio Cantegril - Fase 1 Avenida Senador Salgado Filho 6614",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Lucas;",
+    "cep": "94450901",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Avenida Senador Salgado Filho, 6614  Condomínio Cantegril - Fase 1;"
 }

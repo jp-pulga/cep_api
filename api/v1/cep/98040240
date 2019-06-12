@@ -1,12 +1,12 @@
 {
-  "cep": "98040240",
-  "logradouro": "Rua Tapera",
-  "bairro": "Marcelo",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marcelo;",
+    "cep": "98040240",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Tapera;"
 }

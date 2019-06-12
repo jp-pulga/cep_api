@@ -1,12 +1,12 @@
 {
-  "cep": "99700404",
-  "logradouro": "Rua Torres Gonçalves de 350/351 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99700404",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Torres Gonçalves - de 350\/351 ao fim;"
 }

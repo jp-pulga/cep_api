@@ -1,12 +1,13 @@
 {
-  "cep": "89478970",
-  "logradouro": "AC Bela Vista do Toldo Rua Professor Alfredo Ludka s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bela Vista do Toldo",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89478970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bela Vista do Toldo"
+    },
+    "ibge": 4202131,
+    "logradouro": "Rua Professor Alfredo Ludka, s\/n  AC Bela Vista do Toldo;"
 }

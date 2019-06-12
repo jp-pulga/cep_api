@@ -1,12 +1,12 @@
 {
-  "cep": "94760000",
-  "logradouro": "Águas Claras (Viamão)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Águas Claras (Viamão)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Águas Claras",
+    "cep": "94760000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "ibge": 4323002
 }

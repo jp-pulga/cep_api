@@ -1,12 +1,12 @@
 {
-  "cep": "99708480",
-  "logradouro": "Rua São Martinho",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "99708480",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua São Martinho;"
 }

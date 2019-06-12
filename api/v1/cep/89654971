@@ -1,12 +1,13 @@
 {
-  "cep": "89654971",
-  "logradouro": "AGC Três Pinheiros Rodovia Margens BR-153 s/n",
-  "bairro": "Três Pinheiros",
-  "cidade": {
-    "nome": "Água Doce",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Três Pinheiros;",
+    "cep": "89654971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Água Doce"
+    },
+    "ibge": 4200408,
+    "logradouro": "Rodovia Margens BR-153, s\/n  AGC Três Pinheiros;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88819899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Criciúma",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Área Rural de Criciúma;",
+    "cep": "88819899",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Área Rural;"
 }

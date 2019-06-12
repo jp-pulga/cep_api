@@ -1,12 +1,13 @@
 {
-  "cep": "88215971",
-  "logradouro": "AGC Canto Grande Rua Jequitibá s/n",
-  "bairro": "Distrito de Canto Grande",
-  "cidade": {
-    "nome": "Bombinhas",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Distrito de Canto Grande;",
+    "cep": "88215971",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Bombinhas"
+    },
+    "ibge": 4202453,
+    "logradouro": "Rua Jequitibá, s\/n  AGC Canto Grande;"
 }

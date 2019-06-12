@@ -1,12 +1,12 @@
 {
-  "cep": "94170120",
-  "logradouro": "Rua Taquara Salazar",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "94170120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Taquara Salazar;"
 }

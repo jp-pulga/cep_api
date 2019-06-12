@@ -1,12 +1,13 @@
 {
-  "cep": "88890970",
-  "logradouro": "AC Grão Pará Rua Nereu Ramos 144 Sala 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Grão Pará",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88890970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Grão Pará"
+    },
+    "ibge": 4206108,
+    "logradouro": "Rua Nereu Ramos, 144 Sala 1  AC Grão Pará;"
 }

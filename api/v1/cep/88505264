@@ -1,12 +1,12 @@
 {
-  "cep": "88505264",
-  "logradouro": "Rua Abelardo Luz",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "88505264",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Abelardo Luz;"
 }

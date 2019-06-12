@@ -1,12 +1,13 @@
 {
-  "cep": "88360970",
-  "logradouro": "AC Guabiruba Rua José Fischer 77",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guabiruba",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88360970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Guabiruba"
+    },
+    "ibge": 4206306,
+    "logradouro": "Rua Brusque, 819  AC Guabiruba;"
 }

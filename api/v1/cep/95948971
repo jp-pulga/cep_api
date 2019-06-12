@@ -1,12 +1,13 @@
 {
-  "cep": "95948971",
-  "logradouro": "AC Travesseiro Avenida Dez de Novembro 1268",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Travesseiro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95948971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Travesseiro"
+    },
+    "ibge": 4321626,
+    "logradouro": "Avenida Dez de Novembro, 1268  AC Travesseiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93025573",
-  "logradouro": "Rua Segundo-Tenente Arthur Otaviano Tavares Alves",
-  "bairro": "São Miguel",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Miguel;",
+    "cep": "93025573",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Segundo-Tenente Arthur Otaviano Tavares Alves;"
 }

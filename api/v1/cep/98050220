@@ -1,12 +1,12 @@
 {
-  "cep": "98050220",
-  "logradouro": "Rua Vinte de Setembro",
-  "bairro": "Perpétuo Socorro",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Perpétuo Socorro;",
+    "cep": "98050220",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Vinte de Setembro;"
 }

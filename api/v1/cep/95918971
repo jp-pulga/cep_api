@@ -1,12 +1,13 @@
 {
-  "cep": "95918971",
-  "logradouro": "AC Sério Rua Santa Clara 763",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sério",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95918971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sério"
+    },
+    "ibge": 4320453,
+    "logradouro": "Rua Santa Clara, 763  AC Sério;"
 }

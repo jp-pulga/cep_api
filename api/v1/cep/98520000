@@ -1,12 +1,12 @@
 {
-  "cep": "98520000",
-  "logradouro": "Cedro Marcado (Tenente Portela)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cedro Marcado (Tenente Portela)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cedro Marcado",
+    "cep": "98520000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tenente Portela"
+    },
+    "ibge": 4321402
 }

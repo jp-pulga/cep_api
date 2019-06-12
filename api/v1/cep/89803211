@@ -1,12 +1,13 @@
 {
-  "cep": "89803211",
-  "logradouro": "Avenida Coronel Licínio de Córdova de 658/659 ao fim",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "89803211",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "ibge": 4204202,
+    "logradouro": "Avenida Coronel Licínio de Córdova - de 658\/659 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89041400",
-  "logradouro": "Rua Benedito Novo",
-  "bairro": "Água Verde",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Água Verde;",
+    "cep": "89041400",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua Benedito Novo;"
 }

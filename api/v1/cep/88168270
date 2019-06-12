@@ -1,12 +1,13 @@
 {
-  "cep": "88168270",
-  "logradouro": "Rodovia BR-101 lado ímpar",
-  "bairro": "Tijuquinhas (Guaporanga)",
-  "cidade": {
-    "nome": "Biguaçu",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Tijuquinhas (Guaporanga);",
+    "cep": "88168270",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Biguaçu"
+    },
+    "ibge": 4202305,
+    "logradouro": "Rodovia BR-101 - lado ímpar;"
 }

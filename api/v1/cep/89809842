@@ -1,12 +1,12 @@
 {
-  "cep": "89809842",
-  "logradouro": "Rua Bandeirantes",
-  "bairro": "Efapi",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Efapi;",
+    "cep": "89809842",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Bandeirantes;"
 }

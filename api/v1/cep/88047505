@@ -1,12 +1,12 @@
 {
-  "cep": "88047505",
-  "logradouro": "Servidão Araquari",
-  "bairro": "Carianos",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Carianos;",
+    "cep": "88047505",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Araquari;"
 }

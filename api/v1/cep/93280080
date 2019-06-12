@@ -1,12 +1,12 @@
 {
-  "cep": "93280080",
-  "logradouro": "Rua Venâncio Aires",
-  "bairro": "Parque Amador",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Amador;",
+    "cep": "93280080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Venâncio Aires;"
 }

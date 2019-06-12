@@ -1,12 +1,12 @@
 {
-  "cep": "93520460",
-  "logradouro": "Rua São Luiz Gonzaga de 500/501 ao fim",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Guarani;",
+    "cep": "93520460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua São Luiz Gonzaga - de 500\/501 ao fim;"
 }

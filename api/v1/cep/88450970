@@ -1,12 +1,12 @@
 {
-  "cep": "88450970",
-  "logradouro": "AC Alfredo Wagner Rua Anitápolis 283",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alfredo Wagner",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88450970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Alfredo Wagner"
+    },
+    "logradouro": "Rua Anitápolis, 283  AC Alfredo Wagner;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "88900904",
-  "logradouro": "FORUM Avenida Coronel João Fernandes 195",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88900904",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "ibge": 4201406,
+    "logradouro": "Avenida Coronel João Fernandes, 195  Fórum de Araraguá;"
 }

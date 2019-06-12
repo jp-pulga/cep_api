@@ -1,12 +1,13 @@
 {
-  "cep": "89620970",
-  "logradouro": "AC Campos Novos Rua Marechal Floriano Peixoto 237",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campos Novos",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89620970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Campos Novos"
+    },
+    "ibge": 4203600,
+    "logradouro": "Rua Marechal Floriano Peixoto, 237  AC Campos Novos;"
 }

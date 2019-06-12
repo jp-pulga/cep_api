@@ -1,12 +1,12 @@
 {
-  "cep": "89021320",
-  "logradouro": "Rua dos Bandeirantes",
-  "bairro": "Garcia",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Garcia;",
+    "cep": "89021320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "logradouro": "Rua dos Bandeirantes;"
 }

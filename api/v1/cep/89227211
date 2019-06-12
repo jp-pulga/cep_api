@@ -1,12 +1,12 @@
 {
-  "cep": "89227211",
-  "logradouro": "Rua Fraiburgo de 400/401 ao fim",
-  "bairro": "Iririú",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Iririú;",
+    "cep": "89227211",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Fraiburgo - de 400\/401 ao fim;"
 }

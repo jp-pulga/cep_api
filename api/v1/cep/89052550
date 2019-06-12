@@ -1,12 +1,13 @@
 {
-  "cep": "89052550",
-  "logradouro": "Rua Frederico Schlei",
-  "bairro": "Itoupava Norte",
-  "cidade": {
-    "nome": "Blumenau",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itoupava Norte;",
+    "cep": "89052550",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Blumenau"
+    },
+    "ibge": 4202404,
+    "logradouro": "Rua Frederico Schlei;"
 }

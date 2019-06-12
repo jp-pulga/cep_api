@@ -1,12 +1,12 @@
 {
-  "cep": "88132450",
-  "logradouro": "Rua José de Anchieta",
-  "bairro": "Caminho Novo",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Caminho Novo;",
+    "cep": "88132450",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua José de Anchieta;"
 }

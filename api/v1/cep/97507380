@@ -1,12 +1,13 @@
 {
-  "cep": "97507380",
-  "logradouro": "Avenida Marechal Setembrino de Carvalho lado par",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "97507380",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "ibge": 4322400,
+    "logradouro": "Avenida Marechal Setembrino de Carvalho - lado par;"
 }

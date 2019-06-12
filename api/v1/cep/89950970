@@ -1,12 +1,13 @@
 {
-  "cep": "89950970",
-  "logradouro": "AC Dionísio Cerqueira Rua Presidente Vargas 619",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dionísio Cerqueira",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "89950970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Dionísio Cerqueira"
+    },
+    "ibge": 4205001,
+    "logradouro": "Rua Presidente Vargas, 619  AC Dionísio Cerqueira;"
 }

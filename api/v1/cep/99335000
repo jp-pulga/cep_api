@@ -1,12 +1,12 @@
 {
-  "cep": "99335000",
-  "logradouro": "",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nossa Senhora Aparecida (Tunas)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida",
+    "cep": "99335000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Tunas"
+    },
+    "ibge": 4322152
 }

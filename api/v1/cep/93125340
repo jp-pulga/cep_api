@@ -1,12 +1,12 @@
 {
-  "cep": "93125340",
-  "logradouro": "Avenida Senador Salgado Filho de 3031/3032 ao fim",
-  "bairro": "Scharlau",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Scharlau;",
+    "cep": "93125340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Avenida Senador Salgado Filho - de 3031\/3032 ao fim;"
 }

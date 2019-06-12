@@ -1,12 +1,12 @@
 {
-  "cep": "89804470",
-  "logradouro": "Rua Fraiburgo",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "89804470",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Rua Fraiburgo;"
 }

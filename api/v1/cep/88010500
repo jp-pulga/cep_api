@@ -1,12 +1,12 @@
 {
-  "cep": "88010500",
-  "logradouro": "Rua Anita Garibaldi até 194/195",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88010500",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Anita Garibaldi - até 194\/195;"
 }

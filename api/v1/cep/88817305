@@ -1,12 +1,12 @@
 {
-  "cep": "88817305",
-  "logradouro": "Rua Angelina Scotti",
-  "bairro": "Vila Floresta",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Vila Floresta;",
+    "cep": "88817305",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Angelina Scotti;"
 }

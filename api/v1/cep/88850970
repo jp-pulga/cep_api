@@ -1,12 +1,13 @@
 {
-  "cep": "88850970",
-  "logradouro": "AC Forquilhinha Avenida 25 de Julho 2725",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Forquilhinha",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88850970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Forquilhinha"
+    },
+    "ibge": 4205456,
+    "logradouro": "Avenida 25 de Julho, 2725  AC Forquilhinha;"
 }

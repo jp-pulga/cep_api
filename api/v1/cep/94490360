@@ -1,12 +1,12 @@
 {
-  "cep": "94490360",
-  "logradouro": "Rua Vale Real",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "94490360",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Vale Real;"
 }

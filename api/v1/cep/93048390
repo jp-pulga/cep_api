@@ -1,12 +1,12 @@
 {
-  "cep": "93048390",
-  "logradouro": "Rua Dario Nicolau Sturmer",
-  "bairro": "Feitoria",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Feitoria;",
+    "cep": "93048390",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Dario Nicolau Sturmer;"
 }

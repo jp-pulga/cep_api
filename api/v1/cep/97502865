@@ -1,12 +1,12 @@
 {
-  "cep": "97502865",
-  "logradouro": "Rua Senador Salgado Filho de 2601 ao fim - lado ímpar",
-  "bairro": "São Miguel",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Miguel;",
+    "cep": "97502865",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "logradouro": "Rua Senador Salgado Filho - de 2601 ao fim - lado ímpar;"
 }

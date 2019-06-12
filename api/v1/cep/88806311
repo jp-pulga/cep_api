@@ -1,12 +1,13 @@
 {
-  "cep": "88806311",
-  "logradouro": "Avenida Catarinense",
-  "bairro": "Cidade Mineira Velha",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cidade Mineira Velha;",
+    "cep": "88806311",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "ibge": 4204608,
+    "logradouro": "Avenida Catarinense;"
 }

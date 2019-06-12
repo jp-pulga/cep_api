@@ -1,12 +1,13 @@
 {
-  "cep": "95535970",
-  "logradouro": "AC Terra de Areia Rua Teotônio Vilela 3713 Sala 01/02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Terra de Areia",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95535970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Terra de Areia"
+    },
+    "ibge": 4321436,
+    "logradouro": "Rua Teotônio Vilela, 3713 Sala 01\/02  AC Terra de Areia;"
 }
