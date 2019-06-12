@@ -1,12 +1,12 @@
 {
-  "cep": "58423323",
-  "logradouro": "Rua Maria Carolina de Amorim Pereira Zilli",
-  "bairro": "Três Irmãs",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Três Irmãs;",
+    "cep": "58423323",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Maria Carolina de Amorim Pereira Zilli;"
 }

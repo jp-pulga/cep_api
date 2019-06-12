@@ -1,12 +1,13 @@
 {
-  "cep": "64285971",
-  "logradouro": "AC Sigefredo Pachêco Rua Joaquim da Mata 584",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sigefredo Pacheco",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64285971",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Sigefredo Pacheco"
+    },
+    "ibge": 2210656,
+    "logradouro": "Rua Joaquim da Mata, s\/n  AC Sigefredo Pachêco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30431189",
-  "logradouro": "Rua Marechal Foch",
-  "bairro": "Grajaú",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grajaú;",
+    "cep": "30431189",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Marechal Foch;"
 }

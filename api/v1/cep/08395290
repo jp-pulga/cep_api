@@ -1,12 +1,12 @@
 {
-  "cep": "08395290",
-  "logradouro": "Travessa Fortunato Magi",
-  "bairro": "Conjunto Promorar Rio Claro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Promorar Rio Claro;",
+    "cep": "08395290",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Fortunato Magi;"
 }

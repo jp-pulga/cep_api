@@ -1,12 +1,12 @@
 {
-  "cep": "19067345",
-  "logradouro": "Avenida Antônio Moreno Manzano",
-  "bairro": "Parque Cedral",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Cedral;",
+    "cep": "19067345",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Avenida Antônio Moreno Manzano;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64022005",
-  "logradouro": "Avenida Prefeito Wall Ferraz lado par",
-  "bairro": "Triunfo",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Triunfo;",
+    "cep": "64022005",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Avenida Prefeito Wall Ferraz - lado par;"
 }

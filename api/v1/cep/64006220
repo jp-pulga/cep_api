@@ -1,12 +1,13 @@
 {
-  "cep": "64006220",
-  "logradouro": "Avenida Duque de Caxias lado par",
-  "bairro": "Real Copagri",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Real Copagri;",
+    "cep": "64006220",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Duque de Caxias - lado par;"
 }

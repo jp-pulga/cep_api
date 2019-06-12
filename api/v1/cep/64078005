@@ -1,12 +1,13 @@
 {
-  "cep": "64078005",
-  "logradouro": "Avenida Deputado Paulo Ferraz de 2 a 99998 - lado par",
-  "bairro": "Itararé",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Itararé;",
+    "cep": "64078005",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Deputado Paulo Ferraz - de 2 a 99998 - lado par;"
 }

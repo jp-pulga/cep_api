@@ -1,12 +1,12 @@
 {
-  "cep": "18210415",
-  "logradouro": "Rua Ernesto Simões Rosinha",
-  "bairro": "Vila Piedade",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Piedade;",
+    "cep": "18210415",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Ernesto Simões Rosinha;"
 }

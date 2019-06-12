@@ -1,12 +1,13 @@
 {
-  "cep": "64019025",
-  "logradouro": "Avenida Joaquim Ribeiro lado par",
-  "bairro": "Vermelha",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vermelha;",
+    "cep": "64019025",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Joaquim Ribeiro - lado par;"
 }

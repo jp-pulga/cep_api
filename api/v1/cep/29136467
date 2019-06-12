@@ -1,12 +1,12 @@
 {
-  "cep": "29136467",
-  "logradouro": "Rua Maranhão",
-  "bairro": "Caxias do Sul",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Caxias do Sul;",
+    "cep": "29136467",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Maranhão;"
 }

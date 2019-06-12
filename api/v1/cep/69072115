@@ -1,12 +1,12 @@
 {
-  "cep": "69072115",
-  "logradouro": "Rua Mariz e Barros",
-  "bairro": "Vila Buriti",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vila Buriti;",
+    "cep": "69072115",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Mariz e Barros;"
 }

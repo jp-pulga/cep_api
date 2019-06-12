@@ -1,12 +1,12 @@
 {
-  "cep": "64009400",
-  "logradouro": "Rua São Miguel do Tapuio",
-  "bairro": "Alto Alegre",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Alegre;",
+    "cep": "64009400",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua São Miguel do Tapuio;"
 }

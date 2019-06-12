@@ -1,12 +1,13 @@
 {
-  "cep": "64000512",
-  "logradouro": "Avenida Miguel Rosa (Zona Norte) de 2167 a 3017 - lado ímpar",
-  "bairro": "Cabral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Cabral;",
+    "cep": "64000512",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Miguel Rosa - de 2167 a 3017 - lado ímpar;"
 }

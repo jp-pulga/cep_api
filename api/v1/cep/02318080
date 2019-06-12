@@ -1,12 +1,12 @@
 {
-  "cep": "02318080",
-  "logradouro": "Rua Matias Guimarães",
-  "bairro": "Jardim Jaçanã",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Jaçanã;",
+    "cep": "02318080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Matias Guimarães;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29700837",
-  "logradouro": "Rua Fortunato Machado Ribeiro",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29700837",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Fortunato Machado Ribeiro;"
 }

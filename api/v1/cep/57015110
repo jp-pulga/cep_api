@@ -1,12 +1,12 @@
 {
-  "cep": "57015110",
-  "logradouro": "Rua Marcelo dos Santos Guimarães",
-  "bairro": "Vergel do Lago",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Vergel do Lago;",
+    "cep": "57015110",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Marcelo dos Santos Guimarães;"
 }

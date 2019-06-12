@@ -1,12 +1,12 @@
 {
-  "cep": "64600342",
-  "logradouro": "Rua Raimundo Barros de Araújo",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "64600342",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Raimundo Barros de Araújo;"
 }

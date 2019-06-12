@@ -1,12 +1,12 @@
 {
-  "cep": "02913050",
-  "logradouro": "Rua Luiz Simões",
-  "bairro": "Piqueri",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Piqueri;",
+    "cep": "02913050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Luiz Simões;"
 }

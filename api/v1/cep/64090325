@@ -1,12 +1,13 @@
 {
-  "cep": "64090325",
-  "logradouro": "Avenida Jehu Sérvio",
-  "bairro": "Gurupi",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Gurupi;",
+    "cep": "64090325",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Jehu Sérvio;"
 }

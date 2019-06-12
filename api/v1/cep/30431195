@@ -1,12 +1,12 @@
 {
-  "cep": "30431195",
-  "logradouro": "Rua Arivaldo Martins Ferreira",
-  "bairro": "Grajaú",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grajaú;",
+    "cep": "30431195",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Arivaldo Martins Ferreira;"
 }

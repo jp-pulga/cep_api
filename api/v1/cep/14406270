@@ -1,12 +1,12 @@
 {
-  "cep": "14406270",
-  "logradouro": "Avenida Madalena Piacezzi Simões",
-  "bairro": "Jardim Simões",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Simões;",
+    "cep": "14406270",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Avenida Madalena Piacezzi Simões;"
 }

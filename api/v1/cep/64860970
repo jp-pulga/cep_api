@@ -1,12 +1,13 @@
 {
-  "cep": "64860970",
-  "logradouro": "AC Uruçui Rua Tomaz Pearce s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uruçuí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64860970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Uruçuí"
+    },
+    "ibge": 2211209,
+    "logradouro": "Rua Tomaz Pearce, s\/n  AC Uruçui;"
 }

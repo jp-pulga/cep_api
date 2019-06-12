@@ -1,12 +1,12 @@
 {
-  "cep": "64045290",
-  "logradouro": "Rua Barão de Uruçuí",
-  "bairro": "Noivos",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Noivos;",
+    "cep": "64045290",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Barão de Uruçuí;"
 }

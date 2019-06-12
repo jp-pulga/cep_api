@@ -1,12 +1,13 @@
 {
-  "cep": "64019354",
-  "logradouro": "Rua Firmino Pires (Zona Sul)",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "64019354",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Rua Firmino Pires (Zona Sul);"
 }

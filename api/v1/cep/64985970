@@ -1,12 +1,13 @@
 {
-  "cep": "64985970",
-  "logradouro": "AC Sebastião Barros Avenida André Pereira Lobato s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sebastião Barros",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64985970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Sebastião Barros"
+    },
+    "ibge": 2210623,
+    "logradouro": "Avenida André Pereira Lobato, s\/n  AC Sebastião Barros;"
 }

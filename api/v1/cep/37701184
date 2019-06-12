@@ -1,12 +1,12 @@
 {
-  "cep": "37701184",
-  "logradouro": "Rua Maestro Benedito Luisi",
-  "bairro": "Parque Vivaldi Leite Ribeiro",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Vivaldi Leite Ribeiro;",
+    "cep": "37701184",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Maestro Benedito Luisi;"
 }

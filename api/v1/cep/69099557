@@ -1,12 +1,12 @@
 {
-  "cep": "69099557",
-  "logradouro": "Rua Brejo Velho (A Nascimento)",
-  "bairro": "Cidade de Deus",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade de Deus;",
+    "cep": "69099557",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Brejo Velho;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64019352",
-  "logradouro": "Avenida Barão de Gurguéia de 2258 ao fim - lado par",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "64019352",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Barão de Gurguéia - de 2258 ao fim - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58068453",
-  "logradouro": "Rua Rosa Ângela Marta Cagliani (Cj Habitacional Colinas do Sul II)",
-  "bairro": "Gramame",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Gramame;",
+    "cep": "58068453",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Rosa Ângela Marta Cagliani (Cj Habitacional Colinas do Sul II);"
 }

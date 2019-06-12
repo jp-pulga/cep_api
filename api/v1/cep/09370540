@@ -1,12 +1,12 @@
 {
-  "cep": "09370540",
-  "logradouro": "Rua Cedral",
-  "bairro": "Jardim Pedroso",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pedroso;",
+    "cep": "09370540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Rua Cedral;"
 }

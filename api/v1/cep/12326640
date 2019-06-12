@@ -1,12 +1,12 @@
 {
-  "cep": "12326640",
-  "logradouro": "Rua Henrique Maximiano Coelho Neto",
-  "bairro": "Veraneio Ijal",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Veraneio Ijal;",
+    "cep": "12326640",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Rua Henrique Maximiano Coelho Neto;"
 }

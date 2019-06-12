@@ -1,12 +1,12 @@
 {
-  "cep": "18206768",
-  "logradouro": "Rua Capitão Manoel Camarão de Camargo",
-  "bairro": "Chapadinha",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chapadinha;",
+    "cep": "18206768",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Capitão Manoel Camarão de Camargo;"
 }

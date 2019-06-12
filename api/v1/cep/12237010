@@ -1,12 +1,12 @@
 {
-  "cep": "12237010",
-  "logradouro": "Rua Icatu",
-  "bairro": "Conjunto Residencial Trinta e Um de Março",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Residencial Trinta e Um de Março;",
+    "cep": "12237010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Icatu - de 703\/704 a 1409\/1410;"
 }

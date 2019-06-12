@@ -1,12 +1,13 @@
 {
-  "cep": "64078293",
-  "logradouro": "Rua Matheus Pires Modesto",
-  "bairro": "Itararé",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Itararé;",
+    "cep": "64078293",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Rua Matheus Pires Modesto;"
 }

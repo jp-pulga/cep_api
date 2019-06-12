@@ -1,12 +1,12 @@
 {
-  "cep": "69096190",
-  "logradouro": "Rua Brejolândia (Núcleo 11)",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "69096190",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Brejolândia;"
 }

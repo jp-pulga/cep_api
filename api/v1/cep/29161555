@@ -1,12 +1,12 @@
 {
-  "cep": "29161555",
-  "logradouro": "Rua Maranhão",
-  "bairro": "Central Carapina",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Central Carapina;",
+    "cep": "29161555",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Maranhão;"
 }

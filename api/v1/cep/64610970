@@ -1,12 +1,13 @@
 {
-  "cep": "64610970",
-  "logradouro": "AGC Sussuapara Avenida Central s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sussuapara",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64610970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Sussuapara"
+    },
+    "ibge": 2210938,
+    "logradouro": "Avenida Central, s\/n  AGC Sussuapara;"
 }

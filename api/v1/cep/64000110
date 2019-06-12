@@ -1,12 +1,12 @@
 {
-  "cep": "64000110",
-  "logradouro": "Rua Simplício Mendes (Zona Norte)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64000110",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Simplício Mendes (Zona Norte);"
 }

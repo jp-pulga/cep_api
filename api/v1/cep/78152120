@@ -1,12 +1,12 @@
 {
-  "cep": "78152120",
-  "logradouro": "Rua Ilza Terezinha Picoli Pagot (Lot S Mateus)",
-  "bairro": "São Matheus",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Matheus;",
+    "cep": "78152120",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Ilza Terezinha Picoli Pagot (Lot S Mateus);"
 }

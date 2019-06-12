@@ -1,12 +1,12 @@
 {
-  "cep": "35700148",
-  "logradouro": "Rua Manoel Abreu Guimarães",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "35700148",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Manoel Abreu Guimarães;"
 }

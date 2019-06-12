@@ -1,12 +1,12 @@
 {
-  "cep": "69035276",
-  "logradouro": "Beco Araripe Júnior",
-  "bairro": "Compensa",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Compensa;",
+    "cep": "69035276",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Araripe Júnior;"
 }

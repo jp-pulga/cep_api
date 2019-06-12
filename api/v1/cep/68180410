@@ -1,12 +1,12 @@
 {
-  "cep": "68180410",
-  "logradouro": "Avenida Maranhão",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "68180410",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "logradouro": "Avenida Maranhão;"
 }

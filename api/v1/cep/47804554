@@ -1,12 +1,12 @@
 {
-  "cep": "47804554",
-  "logradouro": "Rua Marco Zero",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Buritis;",
+    "cep": "47804554",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Marco Zero;"
 }

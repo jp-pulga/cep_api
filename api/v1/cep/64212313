@@ -1,12 +1,12 @@
 {
-  "cep": "64212313",
-  "logradouro": "Rua Henrique Pereira Fontenele",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212313",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Henrique Pereira Fontenele;"
 }

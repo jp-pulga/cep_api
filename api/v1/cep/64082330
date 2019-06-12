@@ -1,12 +1,13 @@
 {
-  "cep": "64082330",
-  "logradouro": "Rua Deputado Pinheiro Machado",
-  "bairro": "Renascença",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Renascença;",
+    "cep": "64082330",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Rua Deputado Pinheiro Machado;"
 }

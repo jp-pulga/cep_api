@@ -1,12 +1,12 @@
 {
-  "cep": "35701841",
-  "logradouro": "Rua Alcides Martins Fonseca",
-  "bairro": "Pedras",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedras;",
+    "cep": "35701841",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Alcides Martins Fonseca;"
 }

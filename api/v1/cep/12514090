@@ -1,12 +1,12 @@
 {
-  "cep": "12514090",
-  "logradouro": "Rua Doutor Manoel Eduardo Pereira",
-  "bairro": "Jardim Coelho Neto",
-  "cidade": {
-    "nome": "Guaratinguetá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Coelho Neto;",
+    "cep": "12514090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guaratinguetá"
+    },
+    "logradouro": "Rua Doutor Manoel Eduardo Pereira;"
 }

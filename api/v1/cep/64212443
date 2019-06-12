@@ -1,12 +1,12 @@
 {
-  "cep": "64212443",
-  "logradouro": "Rua Maria Angélica da Silva Ribeiro",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212443",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Maria Angélica da Silva Ribeiro;"
 }

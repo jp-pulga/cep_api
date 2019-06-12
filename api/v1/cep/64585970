@@ -1,12 +1,13 @@
 {
-  "cep": "64585970",
-  "logradouro": "AC Simões Rua João Raimundo de Oliveira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Simões",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64585970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Simões"
+    },
+    "ibge": 2210706,
+    "logradouro": "Rua João Raimundo de Oliveira, s\/n  AC Simões;"
 }

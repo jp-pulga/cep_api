@@ -1,12 +1,12 @@
 {
-  "cep": "64212463",
-  "logradouro": "Rua Bernarda de Carvalho Nascimento",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212463",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Bernarda de Carvalho Nascimento;"
 }

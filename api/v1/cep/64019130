@@ -1,12 +1,13 @@
 {
-  "cep": "64019130",
-  "logradouro": "Rua Pires Rebelo",
-  "bairro": "Vermelha",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vermelha;",
+    "cep": "64019130",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Rua Pires Rebelo;"
 }

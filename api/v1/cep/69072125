@@ -1,12 +1,12 @@
 {
-  "cep": "69072125",
-  "logradouro": "Rua Guarda-Marinha Jansen",
-  "bairro": "Vila Buriti",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vila Buriti;",
+    "cep": "69072125",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Guarda-Marinha Jansen;"
 }

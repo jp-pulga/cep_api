@@ -1,12 +1,12 @@
 {
-  "cep": "69072075",
-  "logradouro": "Avenida Ministro Mário Andreazza",
-  "bairro": "Vila Buriti",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vila Buriti;",
+    "cep": "69072075",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Ministro Mário Andreazza;"
 }

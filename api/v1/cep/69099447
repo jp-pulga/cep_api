@@ -1,12 +1,12 @@
 {
-  "cep": "69099447",
-  "logradouro": "Rua Açucena do Brejo (A Nascimento)",
-  "bairro": "Cidade de Deus",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade de Deus;",
+    "cep": "69099447",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Açucena do Brejo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "17063180",
-  "logradouro": "Rua Salvador Piragini",
-  "bairro": "Parque União",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque União;",
+    "cep": "17063180",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Salvador Piragini;"
 }

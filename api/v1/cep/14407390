@@ -1,12 +1,12 @@
 {
-  "cep": "14407390",
-  "logradouro": "Rua Benedito Simões Neto",
-  "bairro": "Jardim Pinheiros I",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pinheiros I;",
+    "cep": "14407390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Rua Benedito Simões Neto;"
 }

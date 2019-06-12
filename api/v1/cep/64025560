@@ -1,12 +1,12 @@
 {
-  "cep": "64025560",
-  "logradouro": "Vila Nova",
-  "bairro": "Parque Piauí",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Parque Piauí;",
+    "cep": "64025560",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Vila Nova;"
 }

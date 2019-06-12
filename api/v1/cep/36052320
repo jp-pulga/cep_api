@@ -1,12 +1,12 @@
 {
-  "cep": "36052320",
-  "logradouro": "Rua Professor Gerardo Marini",
-  "bairro": "Grajaú",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Grajaú;",
+    "cep": "36052320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Professor Gerardo Marini;"
 }

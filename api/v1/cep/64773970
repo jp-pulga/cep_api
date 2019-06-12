@@ -1,12 +1,13 @@
 {
-  "cep": "64773970",
-  "logradouro": "AGC Varzea Branca Praça Santa Teresinha s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Várzea Branca",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64773970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Várzea Branca"
+    },
+    "ibge": 2211357,
+    "logradouro": "Praça Santa Teresinha, s\/n  AGC Varzea Branca;"
 }

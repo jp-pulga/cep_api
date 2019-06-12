@@ -1,12 +1,12 @@
 {
-  "cep": "78132185",
-  "logradouro": "Rua Apolônio Ezequiel (Lot C Piçarrão)",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "78132185",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Apolônio Ezequiel (Lot C Piçarrão);"
 }

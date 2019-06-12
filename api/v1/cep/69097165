@@ -1,12 +1,12 @@
 {
-  "cep": "69097165",
-  "logradouro": "Rua Lagoa da Pedra (V Real)",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "69097165",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Lagoa da Pedra (V Real);"
 }

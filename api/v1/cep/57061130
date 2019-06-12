@@ -1,12 +1,12 @@
 {
-  "cep": "57061130",
-  "logradouro": "Rua João Lisboa Calheiros",
-  "bairro": "Tabuleiro do Martins",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Tabuleiro do Martins;",
+    "cep": "57061130",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua João Lisboa Calheiros;"
 }

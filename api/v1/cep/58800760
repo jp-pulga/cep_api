@@ -1,12 +1,12 @@
 {
-  "cep": "58800760",
-  "logradouro": "Rua Ines Mariz",
-  "bairro": "Estreito",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Estreito;",
+    "cep": "58800760",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Ines Mariz;"
 }

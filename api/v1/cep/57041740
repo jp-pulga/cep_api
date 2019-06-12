@@ -1,12 +1,12 @@
 {
-  "cep": "57041740",
-  "logradouro": "Rua Manoel Coelho Neto",
-  "bairro": "Jacintinho",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jacintinho;",
+    "cep": "57041740",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Manoel Coelho Neto;"
 }

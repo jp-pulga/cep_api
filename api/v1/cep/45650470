@@ -1,12 +1,12 @@
 {
-  "cep": "45650470",
-  "logradouro": "Rua Manoel Nogueira Jatobá",
-  "bairro": "Conquista",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conquista;",
+    "cep": "45650470",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Manoel Nogueira Jatobá;"
 }

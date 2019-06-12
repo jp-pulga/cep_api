@@ -1,12 +1,12 @@
 {
-  "cep": "69033310",
-  "logradouro": "Travessa Humberto de Campos",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "69033310",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Humberto de Campos;"
 }

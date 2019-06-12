@@ -1,12 +1,12 @@
 {
-  "cep": "97572570",
-  "logradouro": "Rua Pedro Simões Pires",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Santana do Livramento",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "97572570",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana do Livramento"
+    },
+    "logradouro": "Rua Pedro Simões Pires;"
 }

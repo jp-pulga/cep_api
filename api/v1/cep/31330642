@@ -1,12 +1,12 @@
 {
-  "cep": "31330642",
-  "logradouro": "Rua Maria Fortunata Rothéia",
-  "bairro": "Paquetá",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paquetá;",
+    "cep": "31330642",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Fortunata Rothéia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57071075",
-  "logradouro": "Travessa Jardim São Lucas",
-  "bairro": "Clima Bom",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Clima Bom;",
+    "cep": "57071075",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Jardim São Lucas;"
 }

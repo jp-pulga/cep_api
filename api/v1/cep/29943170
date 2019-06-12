@@ -1,12 +1,12 @@
 {
-  "cep": "29943170",
-  "logradouro": "Rua Gonçalves Dias",
-  "bairro": "Ayrton Senna",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ayrton Senna;",
+    "cep": "29943170",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Gonçalves Dias;"
 }

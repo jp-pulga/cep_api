@@ -1,12 +1,12 @@
 {
-  "cep": "69039341",
-  "logradouro": "Beco Bom Jardim",
-  "bairro": "Novo Israel",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Novo Israel;",
+    "cep": "69039341",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Bom Jardim;"
 }

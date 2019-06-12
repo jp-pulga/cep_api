@@ -1,12 +1,13 @@
 {
-  "cep": "64019230",
-  "logradouro": "Avenida Nações Unidas",
-  "bairro": "Vermelha",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vermelha;",
+    "cep": "64019230",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Nações Unidas;"
 }

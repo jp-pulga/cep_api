@@ -1,12 +1,12 @@
 {
-  "cep": "38056380",
-  "logradouro": "Rua Marcelino de Assis Guimarães",
-  "bairro": "Conjunto Alfredo Freire",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Alfredo Freire;",
+    "cep": "38056380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Marcelino de Assis Guimarães;"
 }

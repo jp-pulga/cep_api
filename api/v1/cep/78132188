@@ -1,12 +1,12 @@
 {
-  "cep": "78132188",
-  "logradouro": "Rua José Maria (Lot C Piçarrão)",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "78132188",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua José Maria (Lot C Piçarrão);"
 }

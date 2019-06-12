@@ -1,12 +1,12 @@
 {
-  "cep": "29930050",
-  "logradouro": "Rua Doutor Raimundo Guilherme Sobrinho",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29930050",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Doutor Raimundo Guilherme Sobrinho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69088679",
-  "logradouro": "Rua Canário do Brejo",
-  "bairro": "Jorge Teixeira",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jorge Teixeira;",
+    "cep": "69088679",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Canário do Brejo;"
 }

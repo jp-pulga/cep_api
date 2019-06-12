@@ -1,12 +1,12 @@
 {
-  "cep": "57301730",
-  "logradouro": "Rua Maria Carolina Donato",
-  "bairro": "São Luiz II",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "São Luiz II;",
+    "cep": "57301730",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Maria Carolina Donato;"
 }

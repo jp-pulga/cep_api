@@ -1,12 +1,12 @@
 {
-  "cep": "64069050",
-  "logradouro": "Rua Juiz Virgilio Madeira (Res Sigefredo Pacheco I)",
-  "bairro": "Vale do Gavião",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vale do Gavião;",
+    "cep": "64069050",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Juiz Virgilio Madeira (Res Sigefredo Pacheco I);"
 }

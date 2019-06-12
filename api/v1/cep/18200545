@@ -1,12 +1,12 @@
 {
-  "cep": "18200545",
-  "logradouro": "Rua Fortunato Mazzei",
-  "bairro": "Vila Rosa",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Rosa;",
+    "cep": "18200545",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Fortunato Mazzei;"
 }

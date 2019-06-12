@@ -1,12 +1,12 @@
 {
-  "cep": "69098355",
-  "logradouro": "Rua Lírio-do-Brejo (Prq Garças)",
-  "bairro": "Novo Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Novo Aleixo;",
+    "cep": "69098355",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Lírio-do-Brejo;"
 }

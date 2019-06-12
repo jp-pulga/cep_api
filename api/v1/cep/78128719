@@ -1,12 +1,12 @@
 {
-  "cep": "78128719",
-  "logradouro": "Avenida Pixinguinha (Lot P Ipiranga II)",
-  "bairro": "Costa Verde",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Costa Verde;",
+    "cep": "78128719",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Avenida Pixinguinha (Lot P Ipiranga II);"
 }

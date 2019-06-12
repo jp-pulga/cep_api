@@ -1,12 +1,12 @@
 {
-  "cep": "09411010",
-  "logradouro": "Rua Manoel Simões",
-  "bairro": "Roncon",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Roncon;",
+    "cep": "09411010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Manoel Simões;"
 }

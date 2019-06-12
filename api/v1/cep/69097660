@@ -1,12 +1,12 @@
 {
-  "cep": "69097660",
-  "logradouro": "Rua Coroata (Núcleo 23)",
-  "bairro": "Novo Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Novo Aleixo;",
+    "cep": "69097660",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Coroata;"
 }

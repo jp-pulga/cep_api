@@ -1,12 +1,12 @@
 {
-  "cep": "64016550",
-  "logradouro": "Rua Uruçuí",
-  "bairro": "Três Andares",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Três Andares;",
+    "cep": "64016550",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Uruçuí;"
 }

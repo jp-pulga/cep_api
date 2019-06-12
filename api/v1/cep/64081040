@@ -1,12 +1,13 @@
 {
-  "cep": "64081040",
-  "logradouro": "Avenida São Francisco de 1/2 ao fim",
-  "bairro": "Parque Poti",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Parque Poti;",
+    "cep": "64081040",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida São Francisco - de 1\/2 ao fim;"
 }

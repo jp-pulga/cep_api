@@ -1,12 +1,12 @@
 {
-  "cep": "97095230",
-  "logradouro": "Rua Humberto de Campos",
-  "bairro": "Nossa Senhora das Dores",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora das Dores;",
+    "cep": "97095230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Humberto de Campos;"
 }

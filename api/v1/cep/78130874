@@ -1,12 +1,12 @@
 {
-  "cep": "78130874",
-  "logradouro": "Rua Eugênio Pinto (Res A Monteiro)",
-  "bairro": "Ikaray",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Ikaray;",
+    "cep": "78130874",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Eugênio Pinto (Res A Monteiro);"
 }

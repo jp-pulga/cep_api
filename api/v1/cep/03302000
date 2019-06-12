@@ -1,12 +1,12 @@
 {
-  "cep": "03302000",
-  "logradouro": "Avenida Alcântara Machado de 3455/3456 ao fim",
-  "bairro": "Quarta Parada",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Quarta Parada;",
+    "cep": "03302000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Alcântara Machado - de 3455\/3456 ao fim;"
 }

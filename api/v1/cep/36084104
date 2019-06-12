@@ -1,12 +1,12 @@
 {
-  "cep": "36084104",
-  "logradouro": "Rua Doutor Mauro Marsicano Ribeiro (Colina das Fontes)",
-  "bairro": "Francisco Bernardino",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Francisco Bernardino;",
+    "cep": "36084104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Doutor Mauro Marsicano Ribeiro (Colina das Fontes);"
 }

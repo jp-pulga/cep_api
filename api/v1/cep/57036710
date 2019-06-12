@@ -1,12 +1,12 @@
 {
-  "cep": "57036710",
-  "logradouro": "Rua Professor Manoel Coelho Neto",
-  "bairro": "Jatiúca",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jatiúca;",
+    "cep": "57036710",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Professor Manoel Coelho Neto;"
 }

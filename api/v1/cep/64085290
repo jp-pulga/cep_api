@@ -1,12 +1,12 @@
 {
-  "cep": "64085290",
-  "logradouro": "Rua Médico Odimar Barros Teixeira",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "64085290",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Médico Odimar Barros Teixeira;"
 }

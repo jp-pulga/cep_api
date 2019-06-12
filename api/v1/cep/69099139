@@ -1,12 +1,12 @@
 {
-  "cep": "69099139",
-  "logradouro": "Travessa Antônio de Alcântara Machado (V Nova)",
-  "bairro": "Cidade de Deus",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade de Deus;",
+    "cep": "69099139",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Antônio de Alcântara Machado;"
 }

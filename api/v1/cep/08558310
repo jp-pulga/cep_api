@@ -1,12 +1,12 @@
 {
-  "cep": "08558310",
-  "logradouro": "Rua Alcântara Machado",
-  "bairro": "Vila Varela",
-  "cidade": {
-    "nome": "Poá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Varela;",
+    "cep": "08558310",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Poá"
+    },
+    "logradouro": "Rua Alcântara Machado;"
 }

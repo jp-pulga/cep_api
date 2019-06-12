@@ -1,12 +1,12 @@
 {
-  "cep": "64053500",
-  "logradouro": "Avenida Doutor Aquiles Wall Ferraz lado ímpar",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "64053500",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Avenida Doutor Aquiles Wall Ferraz - lado ímpar;"
 }

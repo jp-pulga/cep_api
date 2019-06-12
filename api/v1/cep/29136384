@@ -1,12 +1,12 @@
 {
-  "cep": "29136384",
-  "logradouro": "Rua Maria Joana Correa",
-  "bairro": "Caxias do Sul",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Caxias do Sul;",
+    "cep": "29136384",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Maria Joana Correa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35181742",
-  "logradouro": "Rua Arariramba",
-  "bairro": "Macuco",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Macuco;",
+    "cep": "35181742",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Arariramba;"
 }

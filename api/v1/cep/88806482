@@ -1,12 +1,12 @@
 {
-  "cep": "88806482",
-  "logradouro": "Rua Maria Moreira Fortuna",
-  "bairro": "Cidade Mineira Nova",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Cidade Mineira Nova;",
+    "cep": "88806482",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Rua Maria Moreira Fortuna;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69039340",
-  "logradouro": "Rua Dom Pedro Massa",
-  "bairro": "Novo Israel",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Novo Israel;",
+    "cep": "69039340",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Dom Pedro Massa;"
 }

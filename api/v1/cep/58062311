@@ -1,12 +1,12 @@
 {
-  "cep": "58062311",
-  "logradouro": "Rua Manoel da Silva Lisboa",
-  "bairro": "Paratibe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Paratibe;",
+    "cep": "58062311",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Manoel da Silva Lisboa;"
 }

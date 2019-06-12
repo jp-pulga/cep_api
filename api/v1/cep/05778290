@@ -1,12 +1,12 @@
 {
-  "cep": "05778290",
-  "logradouro": "Rua Eurico de Azevedo Marques",
-  "bairro": "Parque Arariba",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Arariba;",
+    "cep": "05778290",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Eurico de Azevedo Marques;"
 }

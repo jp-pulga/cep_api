@@ -1,12 +1,13 @@
 {
-  "cep": "64000590",
-  "logradouro": "Avenida Frei Serafim",
-  "bairro": "Cabral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Cabral;",
+    "cep": "64000590",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Frei Serafim;"
 }

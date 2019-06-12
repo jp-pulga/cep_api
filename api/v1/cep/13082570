@@ -1,12 +1,12 @@
 {
-  "cep": "13082570",
-  "logradouro": "Rua Maria de Lourdes Pinto dos Santos",
-  "bairro": "Recanto Fortuna",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto Fortuna;",
+    "cep": "13082570",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Maria de Lourdes Pinto dos Santos;"
 }

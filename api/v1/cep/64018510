@@ -1,12 +1,12 @@
 {
-  "cep": "64018510",
-  "logradouro": "Rua Simplício Mendes (Zona Sul) de 923/924 ao fim",
-  "bairro": "Vermelha",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vermelha;",
+    "cep": "64018510",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Simplício Mendes (Zona Sul) - de 923\/924 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64000480",
-  "logradouro": "Avenida Miguel Rosa (Zona Norte) até 3002 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64000480",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Miguel Rosa - até 3002 - lado par;"
 }

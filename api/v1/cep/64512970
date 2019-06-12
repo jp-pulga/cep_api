@@ -1,12 +1,13 @@
 {
-  "cep": "64512970",
-  "logradouro": "AGC Tanque do Piauí Rua Sete de Setembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tanque do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64512970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Tanque do Piauí"
+    },
+    "ibge": 2210979,
+    "logradouro": "Rua Sete de Setembro, s\/n  AGC Tanque do Piauí;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40436530",
-  "logradouro": "Rua Anajatuba",
-  "bairro": "Massaranduba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Massaranduba;",
+    "cep": "40436530",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Anajatuba;"
 }

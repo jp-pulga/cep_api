@@ -1,12 +1,12 @@
 {
-  "cep": "35681295",
-  "logradouro": "Rua Maria Carolina Alves",
-  "bairro": "João Paulo II",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Paulo II;",
+    "cep": "35681295",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Maria Carolina Alves;"
 }

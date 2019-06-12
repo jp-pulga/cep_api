@@ -1,12 +1,12 @@
 {
-  "cep": "64212405",
-  "logradouro": "Avenida Armando Cajubá",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212405",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Avenida Armando Cajubá;"
 }

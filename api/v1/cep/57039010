@@ -1,12 +1,12 @@
 {
-  "cep": "57039010",
-  "logradouro": "Rua Doutor Mário Guimarães lado par",
-  "bairro": "Garça Torta",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Garça Torta;",
+    "cep": "57039010",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Doutor Mário Guimarães - lado par;"
 }

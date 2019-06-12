@@ -1,12 +1,12 @@
 {
-  "cep": "64212385",
-  "logradouro": "Rua Vinte Dois de Março (Prq José Estevão)",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212385",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Vinte Dois de Março (Prq José Estevão);"
 }

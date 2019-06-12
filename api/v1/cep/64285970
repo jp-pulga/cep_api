@@ -1,12 +1,13 @@
 {
-  "cep": "64285970",
-  "logradouro": "AGC Sigefredo Pachêco Rua Major Benedito Machado 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sigefredo Pacheco",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64285970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Sigefredo Pacheco"
+    },
+    "ibge": 2210656,
+    "logradouro": "Rua Major Benedito Machado, 10  AGC Sigefredo Pachêco;"
 }

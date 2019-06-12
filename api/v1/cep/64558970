@@ -1,12 +1,13 @@
 {
-  "cep": "64558970",
-  "logradouro": "AC São Miguel do Fidalgo Rua Joaquim Dias de Oliveira 801",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel do Fidalgo",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64558970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Miguel do Fidalgo"
+    },
+    "ibge": 2210391,
+    "logradouro": "Rua Joaquim Dias de Oliveira, 801  AC São Miguel do Fidalgo;"
 }

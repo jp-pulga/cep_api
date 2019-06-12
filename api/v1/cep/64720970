@@ -1,12 +1,13 @@
 {
-  "cep": "64720970",
-  "logradouro": "AC Socorro do Piauí Avenida Petronio Portela s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Socorro do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64720970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Socorro do Piauí"
+    },
+    "ibge": 2210904,
+    "logradouro": "Avenida Petronio Portela, s\/n  AC Socorro do Piauí;"
 }

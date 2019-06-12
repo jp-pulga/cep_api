@@ -1,12 +1,12 @@
 {
-  "cep": "07910160",
-  "logradouro": "Rua Alcântara Machado",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Francisco Morato",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "07910160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Francisco Morato"
+    },
+    "logradouro": "Rua Alcântara Machado;"
 }

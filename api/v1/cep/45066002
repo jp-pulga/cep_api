@@ -1,12 +1,12 @@
 {
-  "cep": "45066002",
-  "logradouro": "Avenida Doutor Jadiel Vieira Matos",
-  "bairro": "Jatobá",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jatobá;",
+    "cep": "45066002",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Doutor Jadiel Vieira Matos;"
 }

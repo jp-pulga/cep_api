@@ -1,12 +1,11 @@
 {
-  "cep": "64688000",
-  "logradouro": "Vila Nova do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Vila Nova do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64688000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Vila Nova do Piauí"
+    },
+    "ibge": 2211605
 }

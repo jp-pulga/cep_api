@@ -1,12 +1,13 @@
 {
-  "cep": "64080190",
-  "logradouro": "Avenida Doralice Evangelista de Sousa (Lot M Evangelista)",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "64080190",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Doralice Evangelista de Sousa (Lot M Evangelista);"
 }

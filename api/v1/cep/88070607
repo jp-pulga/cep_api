@@ -1,12 +1,12 @@
 {
-  "cep": "88070607",
-  "logradouro": "Travessa Maria do Carmo Souza",
-  "bairro": "Estreito",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Estreito;",
+    "cep": "88070607",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Travessa Maria do Carmo Souza;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78128247",
-  "logradouro": "Rua Escolástica Pinto (Jd C Verde)",
-  "bairro": "Costa Verde",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Costa Verde;",
+    "cep": "78128247",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Escolástica Pinto (Jd C Verde);"
 }

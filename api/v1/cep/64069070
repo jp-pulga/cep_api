@@ -1,12 +1,12 @@
 {
-  "cep": "64069070",
-  "logradouro": "Rua Médico Artur Assunção (Res Sigefredo Pacheco I)",
-  "bairro": "Vale do Gavião",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vale do Gavião;",
+    "cep": "64069070",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Médico Artur Assunção (Res Sigefredo Pacheco I);"
 }

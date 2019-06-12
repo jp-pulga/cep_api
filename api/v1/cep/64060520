@@ -1,12 +1,13 @@
 {
-  "cep": "64060520",
-  "logradouro": "Avenida Presidente Kennedy lado par",
-  "bairro": "Porto do Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Porto do Centro;",
+    "cep": "64060520",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Presidente Kennedy - lado par;"
 }

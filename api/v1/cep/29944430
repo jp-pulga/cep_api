@@ -1,12 +1,12 @@
 {
-  "cep": "29944430",
-  "logradouro": "Estrada Brejo Velho",
-  "bairro": "Barra Nova",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra Nova;",
+    "cep": "29944430",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Estrada Brejo Velho;"
 }

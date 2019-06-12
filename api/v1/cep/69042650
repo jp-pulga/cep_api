@@ -1,12 +1,12 @@
 {
-  "cep": "69042650",
-  "logradouro": "Beco Maria de Lourdes",
-  "bairro": "Dom Pedro I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Dom Pedro I;",
+    "cep": "69042650",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Maria de Lourdes;"
 }

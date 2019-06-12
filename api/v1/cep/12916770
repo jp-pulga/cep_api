@@ -1,12 +1,12 @@
 {
-  "cep": "12916770",
-  "logradouro": "Rua Professor Marcos Antônio Silva Guimarães",
-  "bairro": "Bosques da Pedra",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bosques da Pedra;",
+    "cep": "12916770",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Rua Professor Marcos Antônio Silva Guimarães;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64638970",
-  "logradouro": "AC São Luís do Piauí Avenida Luis Borges de Sousa 811",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Luís do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64638970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Luís do Piauí"
+    },
+    "logradouro": "Avenida Luis Borges de Sousa, 811  AC São Luís do Piauí;"
 }

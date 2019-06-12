@@ -1,12 +1,13 @@
 {
-  "cep": "64085338",
-  "logradouro": "Avenida Professor Camilo Filho de 2 a 99998 - lado par",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "64085338",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Professor Camilo Filho - de 2 a 99998 - lado par;"
 }

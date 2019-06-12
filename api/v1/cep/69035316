@@ -1,12 +1,12 @@
 {
-  "cep": "69035316",
-  "logradouro": "Beco Graça Aranha",
-  "bairro": "Compensa",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Compensa;",
+    "cep": "69035316",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Graça Aranha;"
 }

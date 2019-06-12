@@ -1,12 +1,12 @@
 {
-  "cep": "12415060",
-  "logradouro": "Rua Francisco Simões Machado",
-  "bairro": "Campinas",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Campinas;",
+    "cep": "12415060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Rua Francisco Simões Machado;"
 }

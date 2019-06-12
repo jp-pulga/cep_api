@@ -1,12 +1,12 @@
 {
-  "cep": "29305480",
-  "logradouro": "Rua Manoel Cardoso da Silva",
-  "bairro": "Arariguaba",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Arariguaba;",
+    "cep": "29305480",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Manoel Cardoso da Silva;"
 }

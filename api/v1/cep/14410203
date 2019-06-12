@@ -1,12 +1,12 @@
 {
-  "cep": "14410203",
-  "logradouro": "Rua Cyrillo Maniglia",
-  "bairro": "Recanto Fortuna",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto Fortuna;",
+    "cep": "14410203",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Rua Cyrillo Maniglia;"
 }

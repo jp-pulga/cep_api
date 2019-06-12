@@ -1,12 +1,12 @@
 {
-  "cep": "64069060",
-  "logradouro": "Rua Desembargador Cícero Ferraz (Res Sigefredo Pacheco I)",
-  "bairro": "Vale do Gavião",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vale do Gavião;",
+    "cep": "64069060",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Desembargador Cícero Ferraz (Res Sigefredo Pacheco I);"
 }

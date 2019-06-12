@@ -1,12 +1,12 @@
 {
-  "cep": "64059300",
-  "logradouro": "Avenida Deputado Sebastião Leal lado par",
-  "bairro": "Satélite",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Satélite;",
+    "cep": "64059300",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Avenida Deputado Sebastião Leal - lado par;"
 }

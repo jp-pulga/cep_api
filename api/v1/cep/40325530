@@ -1,12 +1,12 @@
 {
-  "cep": "40325530",
-  "logradouro": "Rua Major Araripe Júnior",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "40325530",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Major Araripe Júnior;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13424587",
-  "logradouro": "Rua Alcântara Machado",
-  "bairro": "Jardim Pacaembu",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pacaembu;",
+    "cep": "13424587",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Alcântara Machado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "49065373",
-  "logradouro": "Rua Manoel Pereira (Cj Dq de Caxias)",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "49065373",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Manoel Pereira (Cj Dq de Caxias);"
 }

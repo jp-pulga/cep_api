@@ -1,12 +1,12 @@
 {
-  "cep": "29306795",
-  "logradouro": "Rua Fortunata Maria Jerônimo",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "29306795",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Fortunata Maria Jerônimo;"
 }

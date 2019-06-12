@@ -1,12 +1,12 @@
 {
-  "cep": "69040690",
-  "logradouro": "Rua Martim Afonso de Souza (Cj D Pedro I)",
-  "bairro": "Dom Pedro I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Dom Pedro I;",
+    "cep": "69040690",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Martim Afonso de Souza;"
 }

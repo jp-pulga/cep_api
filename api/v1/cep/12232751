@@ -1,12 +1,12 @@
 {
-  "cep": "12232751",
-  "logradouro": "Rua Maria Cristina Machado Guimarães",
-  "bairro": "Conjunto Residencial Dom Pedro I",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Residencial Dom Pedro I;",
+    "cep": "12232751",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Maria Cristina Machado Guimarães;"
 }

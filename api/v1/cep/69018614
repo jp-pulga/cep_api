@@ -1,12 +1,12 @@
 {
-  "cep": "69018614",
-  "logradouro": "Rua Pedra da Estrela (Res V Melhor)",
-  "bairro": "Lago Azul",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Lago Azul;",
+    "cep": "69018614",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Pedra da Estrela (Res V Melhor);"
 }

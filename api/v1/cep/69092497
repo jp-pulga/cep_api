@@ -1,12 +1,12 @@
 {
-  "cep": "69092497",
-  "logradouro": "Rua Arariba",
-  "bairro": "Monte das Oliveiras",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Monte das Oliveiras;",
+    "cep": "69092497",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Arariba;"
 }

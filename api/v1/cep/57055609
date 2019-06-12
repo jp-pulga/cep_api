@@ -1,12 +1,12 @@
 {
-  "cep": "57055609",
-  "logradouro": "Rua do Arame",
-  "bairro": "Pinheiro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pinheiro;",
+    "cep": "57055609",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua do Arame;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64071640",
-  "logradouro": "Avenida Senador Sigefredo Pacheco (Vl Sta Bárbara)",
-  "bairro": "Verde Lar",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Verde Lar;",
+    "cep": "64071640",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Avenida Senador Sigefredo Pacheco (Vl Sta Bárbara);"
 }

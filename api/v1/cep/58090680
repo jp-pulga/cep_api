@@ -1,12 +1,12 @@
 {
-  "cep": "58090680",
-  "logradouro": "Rua Índio Araribóia",
-  "bairro": "Alto do Mateus",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Mateus;",
+    "cep": "58090680",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Índio Araribóia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64006287",
-  "logradouro": "Rua Pixote",
-  "bairro": "Água Mineral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Água Mineral;",
+    "cep": "64006287",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Rua Pixote;"
 }

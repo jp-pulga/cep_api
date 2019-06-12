@@ -1,12 +1,12 @@
 {
-  "cep": "64212455",
-  "logradouro": "Rua Jornalista Raimundo Sousa Lima",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212455",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Jornalista Raimundo Sousa Lima;"
 }

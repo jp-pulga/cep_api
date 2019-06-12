@@ -1,12 +1,13 @@
 {
-  "cep": "64873970",
-  "logradouro": "AC Sebastião Leal Rua São José s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sebastião Leal",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64873970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Sebastião Leal"
+    },
+    "ibge": 2210631,
+    "logradouro": "Rua São José, s\/n  AC Sebastião Leal;"
 }

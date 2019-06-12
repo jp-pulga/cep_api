@@ -1,12 +1,13 @@
 {
-  "cep": "64053010",
-  "logradouro": "Avenida João XXIII lado ímpar",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "64053010",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida João XXIII - lado ímpar;"
 }

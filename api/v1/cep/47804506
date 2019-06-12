@@ -1,12 +1,12 @@
 {
-  "cep": "47804506",
-  "logradouro": "Avenida Maria Lourdes dos Santos",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Buritis;",
+    "cep": "47804506",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Avenida Maria Lourdes dos Santos;"
 }

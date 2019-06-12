@@ -1,12 +1,13 @@
 {
-  "cep": "64770970",
-  "logradouro": "AC São Raimundo Nonato Rua Capitão Newton Rubem 1051",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Raimundo Nonato",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64770970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Raimundo Nonato"
+    },
+    "ibge": 2210607,
+    "logradouro": "Rua Capitão Newton Rubem, 1051  AC São Raimundo Nonato;"
 }

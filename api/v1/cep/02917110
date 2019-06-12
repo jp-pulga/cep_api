@@ -1,12 +1,12 @@
 {
-  "cep": "02917110",
-  "logradouro": "Rua Arnaldo Simões Pinto",
-  "bairro": "Vila Bonilha",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Bonilha;",
+    "cep": "02917110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Arnaldo Simões Pinto;"
 }

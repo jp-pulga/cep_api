@@ -1,12 +1,12 @@
 {
-  "cep": "64005050",
-  "logradouro": "Rua Balsas",
-  "bairro": "Matadouro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Matadouro;",
+    "cep": "64005050",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Balsas;"
 }

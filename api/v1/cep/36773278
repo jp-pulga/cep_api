@@ -1,12 +1,12 @@
 {
-  "cep": "36773278",
-  "logradouro": "Rua José Maria Manso",
-  "bairro": "Colinas",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colinas;",
+    "cep": "36773278",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua José Maria Manso;"
 }

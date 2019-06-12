@@ -1,12 +1,13 @@
 {
-  "cep": "64006245",
-  "logradouro": "Avenida Duque de Caxias",
-  "bairro": "Água Mineral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Água Mineral;",
+    "cep": "64006245",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Duque de Caxias;"
 }

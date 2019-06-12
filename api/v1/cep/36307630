@@ -1,12 +1,12 @@
 {
-  "cep": "36307630",
-  "logradouro": "Avenida Prefeito Mário Lombardi",
-  "bairro": "Colinas Del Rey",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colinas Del Rey;",
+    "cep": "36307630",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida Prefeito Mário Lombardi;"
 }

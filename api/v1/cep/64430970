@@ -1,12 +1,13 @@
 {
-  "cep": "64430970",
-  "logradouro": "AC Sao Pedro do Piauí Avenida Presidente Getúlio Vargas 510",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64430970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Pedro do Piauí"
+    },
+    "ibge": 2210508,
+    "logradouro": "Avenida Presidente Getúlio Vargas, 510  AC Sao Pedro do Piauí;"
 }

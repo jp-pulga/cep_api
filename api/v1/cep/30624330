@@ -1,12 +1,12 @@
 {
-  "cep": "30624330",
-  "logradouro": "Praça João Francisco Xavier",
-  "bairro": "Flávio Marques Lisboa (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Flávio Marques Lisboa (Barreiro);",
+    "cep": "30624330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça João Francisco Xavier;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29703451",
-  "logradouro": "Rua Maria Carolina Martins",
-  "bairro": "San Diego",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "San Diego;",
+    "cep": "29703451",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Maria Carolina Martins;"
 }

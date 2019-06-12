@@ -1,12 +1,12 @@
 {
-  "cep": "12237690",
-  "logradouro": "Rua Bacabal de 3550/3551 ao fim",
-  "bairro": "Conjunto Residencial Trinta e Um de Março",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Residencial Trinta e Um de Março;",
+    "cep": "12237690",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Bacabal - de 3550\/3551 ao fim;"
 }

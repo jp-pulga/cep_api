@@ -1,12 +1,13 @@
 {
-  "cep": "64700970",
-  "logradouro": "AC Simplício Mendes Rua Sérgio Ferreira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Simplício Mendes",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64700970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Simplício Mendes"
+    },
+    "ibge": 2210805,
+    "logradouro": "Rua Sérgio Ferreira, s\/n  AC Simplício Mendes;"
 }

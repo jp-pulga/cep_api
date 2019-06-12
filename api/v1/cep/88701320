@@ -1,12 +1,12 @@
 {
-  "cep": "88701320",
-  "logradouro": "Rua Maria Fortunato",
-  "bairro": "Santo Antônio de Pádua",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santo Antônio de Pádua;",
+    "cep": "88701320",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua Maria Fortunato;"
 }

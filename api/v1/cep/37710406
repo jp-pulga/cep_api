@@ -1,12 +1,12 @@
 {
-  "cep": "37710406",
-  "logradouro": "Rua Professora Maria Diva de Paiva Imperatriz",
-  "bairro": "Residencial Santa Clara",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Santa Clara;",
+    "cep": "37710406",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Professora Maria Diva de Paiva Imperatriz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57025080",
-  "logradouro": "Avenida Desembargador Mário Guimarães",
-  "bairro": "Poço",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Poço;",
+    "cep": "57025080",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Desembargador Mário Guimarães;"
 }

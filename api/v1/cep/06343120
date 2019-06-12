@@ -1,12 +1,12 @@
 {
-  "cep": "06343120",
-  "logradouro": "Rua Codó",
-  "bairro": "Jardim Marilu",
-  "cidade": {
-    "nome": "Carapicuíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Marilu;",
+    "cep": "06343120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Carapicuíba"
+    },
+    "logradouro": "Rua Codó;"
 }

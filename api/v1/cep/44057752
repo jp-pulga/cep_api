@@ -1,12 +1,12 @@
 {
-  "cep": "44057752",
-  "logradouro": "Rua Joselândia",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "44057752",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Joselândia;"
 }

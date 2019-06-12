@@ -1,12 +1,12 @@
 {
-  "cep": "06236395",
-  "logradouro": "Rua Pedro Martins Simões",
-  "bairro": "Piratininga",
-  "cidade": {
-    "nome": "Osasco",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Piratininga;",
+    "cep": "06236395",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Osasco"
+    },
+    "logradouro": "Rua Pedro Martins Simões;"
 }

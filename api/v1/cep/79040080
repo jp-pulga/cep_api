@@ -1,12 +1,12 @@
 {
-  "cep": "79040080",
-  "logradouro": "Rua Mar Cáspio",
-  "bairro": "Chácara Cachoeira",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Chácara Cachoeira;",
+    "cep": "79040080",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Mar Cáspio;"
 }

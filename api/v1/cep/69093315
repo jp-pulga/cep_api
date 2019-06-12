@@ -1,12 +1,12 @@
 {
-  "cep": "69093315",
-  "logradouro": "Beco Bom Jardim",
-  "bairro": "Colônia Santo Antônio",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Colônia Santo Antônio;",
+    "cep": "69093315",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Bom Jardim;"
 }

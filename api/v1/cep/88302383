@@ -1,12 +1,12 @@
 {
-  "cep": "88302383",
-  "logradouro": "Rua Maria Fortunata da Silva",
-  "bairro": "Fazenda",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Fazenda;",
+    "cep": "88302383",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Maria Fortunata da Silva;"
 }

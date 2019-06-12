@@ -1,12 +1,12 @@
 {
-  "cep": "58059384",
-  "logradouro": "Rua Stephenson Araripe Pita",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "58059384",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Stephenson Araripe Pita;"
 }

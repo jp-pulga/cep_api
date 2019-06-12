@@ -1,12 +1,13 @@
 {
-  "cep": "64091150",
-  "logradouro": "Avenida Rochelane Fortes Said",
-  "bairro": "Gurupi",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Gurupi;",
+    "cep": "64091150",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Rochelane Fortes Said;"
 }

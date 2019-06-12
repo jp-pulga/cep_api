@@ -1,12 +1,12 @@
 {
-  "cep": "11669250",
-  "logradouro": "Rua Henrique Maximiliano Coelho Neto",
-  "bairro": "Travessão",
-  "cidade": {
-    "nome": "Caraguatatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Travessão;",
+    "cep": "11669250",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caraguatatuba"
+    },
+    "logradouro": "Rua Henrique Maximiliano Coelho Neto;"
 }

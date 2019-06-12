@@ -1,12 +1,13 @@
 {
-  "cep": "64076450",
-  "logradouro": "Avenida São Francisco de 1/2 a 99998/99999",
-  "bairro": "Extrema",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Extrema;",
+    "cep": "64076450",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida São Francisco - de 1\/2 a 99998\/99999;"
 }

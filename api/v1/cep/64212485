@@ -1,12 +1,12 @@
 {
-  "cep": "64212485",
-  "logradouro": "Rua João Carlos Guimarães (prq Jose Estevão)",
-  "bairro": "Alto Santa Maria",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Santa Maria;",
+    "cep": "64212485",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua João Carlos Guimarães (prq Jose Estevão);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "09401030",
-  "logradouro": "Rua Pedro Mansueto Bechelli (Vl N Fortuna)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09401030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Pedro Mansueto Bechelli (Vl N Fortuna);"
 }

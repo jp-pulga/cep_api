@@ -1,12 +1,12 @@
 {
-  "cep": "88015000",
-  "logradouro": "Rua Marechal Guilherme",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88015000",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Marechal Guilherme;"
 }

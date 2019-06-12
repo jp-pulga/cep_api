@@ -1,12 +1,12 @@
 {
-  "cep": "05888080",
-  "logradouro": "Rua Fernando Marinho Falcão",
-  "bairro": "Parque Fernanda",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Fernanda;",
+    "cep": "05888080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Fernando Marinho Falcão;"
 }

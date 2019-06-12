@@ -1,12 +1,12 @@
 {
-  "cep": "69030150",
-  "logradouro": "Rua João Lisboa",
-  "bairro": "Compensa",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Compensa;",
+    "cep": "69030150",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua João Lisboa;"
 }

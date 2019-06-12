@@ -1,12 +1,12 @@
 {
-  "cep": "13404764",
-  "logradouro": "Rua Izidio Simões Duarte",
-  "bairro": "Anhumas",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Anhumas;",
+    "cep": "13404764",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Izidio Simões Duarte;"
 }

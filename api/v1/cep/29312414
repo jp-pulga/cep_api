@@ -1,12 +1,12 @@
 {
-  "cep": "29312414",
-  "logradouro": "Rua Maria Fortunato Canholato",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "29312414",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Maria Fortunato Canholato;"
 }

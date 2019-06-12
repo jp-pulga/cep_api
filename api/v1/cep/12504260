@@ -1,12 +1,12 @@
 {
-  "cep": "12504260",
-  "logradouro": "Rua Marques Guimarães",
-  "bairro": "Vila Santa Maria",
-  "cidade": {
-    "nome": "Guaratinguetá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Maria;",
+    "cep": "12504260",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guaratinguetá"
+    },
+    "logradouro": "Rua Marques Guimarães;"
 }

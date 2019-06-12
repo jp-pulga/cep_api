@@ -1,12 +1,12 @@
 {
-  "cep": "13061380",
-  "logradouro": "Rua Codorna",
-  "bairro": "Vila Padre Manoel de Nóbrega",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Padre Manoel de Nóbrega;",
+    "cep": "13061380",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Codorna;"
 }

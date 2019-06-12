@@ -1,12 +1,12 @@
 {
-  "cep": "04847040",
-  "logradouro": "Rua Gabriel Mattel",
-  "bairro": "Parque Novo Grajaú",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Novo Grajaú;",
+    "cep": "04847040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Gabriel Mattel;"
 }

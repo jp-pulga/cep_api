@@ -1,12 +1,12 @@
 {
-  "cep": "09840680",
-  "logradouro": "Rua Alcântara Machado (Jd do Lago)",
-  "bairro": "Dos Casa",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Dos Casa;",
+    "cep": "09840680",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Alcântara Machado (Jd do Lago);"
 }

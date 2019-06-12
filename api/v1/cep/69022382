@@ -1,12 +1,12 @@
 {
-  "cep": "69022382",
-  "logradouro": "Rua das Codornas",
-  "bairro": "Tarumã-Açu",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã-Açu;",
+    "cep": "69022382",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua das Codornas;"
 }

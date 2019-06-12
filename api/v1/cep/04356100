@@ -1,12 +1,12 @@
 {
-  "cep": "04356100",
-  "logradouro": "Rua Simões Pinto",
-  "bairro": "Parque Jabaquara",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Jabaquara;",
+    "cep": "04356100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Simões Pinto;"
 }

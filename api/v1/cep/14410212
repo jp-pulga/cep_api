@@ -1,12 +1,12 @@
 {
-  "cep": "14410212",
-  "logradouro": "Rua Arderramos Martins Tristão",
-  "bairro": "Recanto Fortuna",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto Fortuna;",
+    "cep": "14410212",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Rua Arderramos Martins Tristão;"
 }

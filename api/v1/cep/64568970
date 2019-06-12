@@ -1,12 +1,13 @@
 {
-  "cep": "64568970",
-  "logradouro": "AGC Vera Mendes Praça Doutor Raimundo Maia s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vera Mendes",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64568970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Vera Mendes"
+    },
+    "ibge": 2211506,
+    "logradouro": "Praça Doutor Raimundo Maia, s\/n  AGC Vera Mendes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96845130",
-  "logradouro": "Rua Conselheiro Simões Pires",
-  "bairro": "Senai",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Senai;",
+    "cep": "96845130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Conselheiro Simões Pires;"
 }

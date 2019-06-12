@@ -1,12 +1,12 @@
 {
-  "cep": "39802049",
-  "logradouro": "Rua Celestino Simões Oliveira",
-  "bairro": "Manoel Pimenta",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Manoel Pimenta;",
+    "cep": "39802049",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Celestino Simões Oliveira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64085200",
-  "logradouro": "Rua Lenir Medeiros de Barros",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "64085200",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Lenir Medeiros de Barros;"
 }

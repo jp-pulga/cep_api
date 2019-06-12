@@ -1,12 +1,12 @@
 {
-  "cep": "69096175",
-  "logradouro": "Rua Grajaú (N S P Socorro)",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "69096175",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Grajaú;"
 }

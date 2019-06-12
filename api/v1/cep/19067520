@@ -1,12 +1,12 @@
 {
-  "cep": "19067520",
-  "logradouro": "Rua Pioneiro José Martins",
-  "bairro": "Parque Cedral",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Cedral;",
+    "cep": "19067520",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Pioneiro José Martins;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "19013190",
-  "logradouro": "Rua Maestro Francisco Fortunato",
-  "bairro": "Jardim Bela Daria",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bela Daria;",
+    "cep": "19013190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Maestro Francisco Fortunato;"
 }

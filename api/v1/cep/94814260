@@ -1,12 +1,12 @@
 {
-  "cep": "94814260",
-  "logradouro": "Rua Humberto de Campos",
-  "bairro": "Maringá",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Maringá;",
+    "cep": "94814260",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Humberto de Campos;"
 }

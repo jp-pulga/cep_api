@@ -1,12 +1,13 @@
 {
-  "cep": "64077185",
-  "logradouro": "Avenida José Francisco de Almeida Neto lado ímpar",
-  "bairro": "Itararé",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Itararé;",
+    "cep": "64077185",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida José Francisco de Almeida Neto - lado ímpar;"
 }

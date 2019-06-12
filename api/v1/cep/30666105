@@ -1,12 +1,12 @@
 {
-  "cep": "30666105",
-  "logradouro": "Rua Maria Geralda Paulino",
-  "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro);",
+    "cep": "30666105",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Geralda Paulino;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18061509",
-  "logradouro": "Rua Humberto Machado",
-  "bairro": "Jardim Humberto de Campos",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Humberto de Campos;",
+    "cep": "18061509",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Humberto Machado;"
 }

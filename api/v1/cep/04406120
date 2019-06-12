@@ -1,12 +1,12 @@
 {
-  "cep": "04406120",
-  "logradouro": "Rua Professor Pedro de Alcântara Machado",
-  "bairro": "Vila Império",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Império;",
+    "cep": "04406120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Pedro de Alcântara Machado;"
 }

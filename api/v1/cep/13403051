@@ -1,12 +1,12 @@
 {
-  "cep": "13403051",
-  "logradouro": "Rua Doutor Paulo Simões",
-  "bairro": "Castelinho",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Castelinho;",
+    "cep": "13403051",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Doutor Paulo Simões;"
 }

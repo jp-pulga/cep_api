@@ -1,12 +1,12 @@
 {
-  "cep": "78735743",
-  "logradouro": "Rua Alcantara Machado",
-  "bairro": "Jardim Atlântico",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Atlântico;",
+    "cep": "78735743",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Alcantara Machado;"
 }

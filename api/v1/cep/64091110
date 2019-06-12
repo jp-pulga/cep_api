@@ -1,12 +1,13 @@
 {
-  "cep": "64091110",
-  "logradouro": "Avenida Deputado Newton Macedo (Lot Prq Caneleiros)",
-  "bairro": "Gurupi",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Gurupi;",
+    "cep": "64091110",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "Avenida Deputado Newton Macedo (Lot Prq Caneleiros);"
 }

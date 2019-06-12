@@ -1,12 +1,12 @@
 {
-  "cep": "64074990",
-  "logradouro": "Povoado Santa Rita PI 113 km 04 - Zona Rural",
-  "bairro": "",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64074990",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "ibge": 2211001,
+    "logradouro": "PI 113 km 04 - Zona Rural  CPC Povoado Santa Rita;"
 }
