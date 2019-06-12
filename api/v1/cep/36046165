@@ -1,12 +1,12 @@
 {
-  "cep": "36046165",
-  "logradouro": "Travessa Pitangui",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "36046165",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Travessa Pitangui;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31980650",
-  "logradouro": "Rua Potengi",
-  "bairro": "São Gabriel",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Gabriel;",
+    "cep": "31980650",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Potengi;"
 }

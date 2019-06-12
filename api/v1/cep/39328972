@@ -1,12 +1,13 @@
 {
-  "cep": "39328972",
-  "logradouro": "AC Ponto Chique Rua João Ramos 700",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponto Chique",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39328972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponto Chique"
+    },
+    "ibge": 3152131,
+    "logradouro": "Rua João Ramos, 700  AC Ponto Chique;"
 }

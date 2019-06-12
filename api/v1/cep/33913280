@@ -1,12 +1,13 @@
 {
-  "cep": "33913280",
-  "logradouro": "Avenida Castelo Branco",
-  "bairro": "Menezes (Justinópolis)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Menezes (Justinópolis);",
+    "cep": "33913280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Castelo Branco;"
 }

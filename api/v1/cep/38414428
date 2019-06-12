@@ -1,12 +1,12 @@
 {
-  "cep": "38414428",
-  "logradouro": "Rua Rio Reno",
-  "bairro": "Mansour",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mansour;",
+    "cep": "38414428",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Rio Reno;"
 }

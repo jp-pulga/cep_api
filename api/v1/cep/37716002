@@ -1,12 +1,13 @@
 {
-  "cep": "37716002",
-  "logradouro": "Alameda do Manacá",
-  "bairro": "Condomínio Pitangueiras",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Condomínio Pitangueiras;",
+    "cep": "37716002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda do Manacá;"
 }

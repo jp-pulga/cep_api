@@ -1,12 +1,12 @@
 {
-  "cep": "37704072",
-  "logradouro": "Praça Presidente Bernardes",
-  "bairro": "Bem Bastos",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bem Bastos;",
+    "cep": "37704072",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Praça Presidente Bernardes;"
 }

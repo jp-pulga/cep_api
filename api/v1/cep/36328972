@@ -1,12 +1,13 @@
 {
-  "cep": "36328972",
-  "logradouro": "AC Santa Cruz de Minas Rua Getúlio Vargas 69",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36328972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Cruz de Minas"
+    },
+    "ibge": 3157336,
+    "logradouro": "Rua Getúlio Vargas, 69  AC Santa Cruz de Minas;"
 }

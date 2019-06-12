@@ -1,12 +1,13 @@
 {
-  "cep": "36335973",
-  "logradouro": "AGC Penedo Rua Principal s/n",
-  "bairro": "Penedo",
-  "cidade": {
-    "nome": "Ritápolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Penedo;",
+    "cep": "36335973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ritápolis"
+    },
+    "ibge": 3156106,
+    "logradouro": "Rua Principal, s\/n  AGC Penedo;"
 }

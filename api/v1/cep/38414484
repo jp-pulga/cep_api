@@ -1,12 +1,12 @@
 {
-  "cep": "38414484",
-  "logradouro": "Rua Rio Claro",
-  "bairro": "Mansour",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mansour;",
+    "cep": "38414484",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Rio Claro;"
 }

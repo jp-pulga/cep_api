@@ -1,12 +1,13 @@
 {
-  "cep": "37970970",
-  "logradouro": "AC Pratápolis Rua Artur Bernardes 323",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pratápolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37970970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pratápolis"
+    },
+    "ibge": 3152907,
+    "logradouro": "Rua Artur Bernardes, 323  AC Pratápolis;"
 }

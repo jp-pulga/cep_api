@@ -1,12 +1,13 @@
 {
-  "cep": "34505867",
-  "logradouro": "Beco Dois-d",
-  "bairro": "Morro São Francisco",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morro São Francisco;",
+    "cep": "34505867",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Beco Vila Verde;"
 }

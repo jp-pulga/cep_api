@@ -1,12 +1,12 @@
 {
-  "cep": "38408388",
-  "logradouro": "Rua Rio Preto de 274/275 ao fim",
-  "bairro": "Vigilato Pereira",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vigilato Pereira;",
+    "cep": "38408388",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Rio Preto - de 274\/275 ao fim;"
 }

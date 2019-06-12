@@ -1,12 +1,13 @@
 {
-  "cep": "37716350",
-  "logradouro": "Alameda Gênova",
-  "bairro": "Loteamento Jardim Nova Europa",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loteamento Jardim Nova Europa;",
+    "cep": "37716350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda Gênova;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36340970",
-  "logradouro": "AC Resende Costa Praça Mendes Resende 60",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Resende Costa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36340970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Resende Costa"
+    },
+    "ibge": 3154200,
+    "logradouro": "Praça Mendes Resende, 60  AC Resende Costa;"
 }

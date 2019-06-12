@@ -1,12 +1,11 @@
 {
-  "cep": "37775000",
-  "logradouro": "Santa Rita de Caldas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Rita de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37775000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita de Caldas"
+    },
+    "ibge": 3159209
 }

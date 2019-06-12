@@ -1,12 +1,12 @@
 {
-  "cep": "38414510",
-  "logradouro": "Rua Rio Paranapanema",
-  "bairro": "Mansour",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mansour;",
+    "cep": "38414510",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Rio Paranapanema;"
 }

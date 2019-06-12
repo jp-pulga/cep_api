@@ -1,12 +1,11 @@
 {
-  "cep": "37468000",
-  "logradouro": "Pouso Alto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pouso Alto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "37468000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pouso Alto"
+    },
+    "ibge": 3152600
 }

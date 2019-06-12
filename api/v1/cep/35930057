@@ -1,12 +1,12 @@
 {
-  "cep": "35930057",
-  "logradouro": "Rua Raposos",
-  "bairro": "Lourdes",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lourdes;",
+    "cep": "35930057",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Raposos;"
 }

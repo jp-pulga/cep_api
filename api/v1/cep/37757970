@@ -1,12 +1,13 @@
 {
-  "cep": "37757970",
-  "logradouro": "AC Poço Fundo Rua Doutor Lélio de Almeida 47",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poço Fundo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37757970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poço Fundo"
+    },
+    "ibge": 3151701,
+    "logradouro": "Rua Doutor Lélio de Almeida, 47  AC Poço Fundo;"
 }

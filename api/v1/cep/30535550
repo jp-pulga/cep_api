@@ -1,12 +1,12 @@
 {
-  "cep": "30535550",
-  "logradouro": "Avenida Presidente Juscelino Kubitschek de 1671 ao fim - lado ímpar",
-  "bairro": "Vila Oeste",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Oeste;",
+    "cep": "30535550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitschek - de 1671 ao fim - lado ímpar;"
 }

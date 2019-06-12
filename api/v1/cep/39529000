@@ -1,12 +1,11 @@
 {
-  "cep": "39529000",
-  "logradouro": "Riacho dos Machados",
-  "bairro": "",
-  "cidade": {
-    "nome": "Riacho dos Machados",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39529000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Riacho dos Machados"
+    },
+    "ibge": 3154507
 }

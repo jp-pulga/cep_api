@@ -1,12 +1,13 @@
 {
-  "cep": "38190974",
-  "logradouro": "UD Sacramento Rua Benedito Valadares 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sacramento",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38190974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sacramento"
+    },
+    "ibge": 3156908,
+    "logradouro": "Rua Benedito Valadares, 63  UD Sacramento;"
 }

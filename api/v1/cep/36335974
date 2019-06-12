@@ -1,12 +1,13 @@
 {
-  "cep": "36335974",
-  "logradouro": "AGC Prainha Rua Principal s/n",
-  "bairro": "Prainha",
-  "cidade": {
-    "nome": "Ritápolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Prainha;",
+    "cep": "36335974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ritápolis"
+    },
+    "ibge": 3156106,
+    "logradouro": "Rua Principal, s\/n  AGC Prainha;"
 }

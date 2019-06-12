@@ -1,12 +1,13 @@
 {
-  "cep": "33082270",
-  "logradouro": "Avenida Belo Horizonte",
-  "bairro": "Padre Miguel",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Miguel;",
+    "cep": "33082270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Avenida Belo Horizonte;"
 }

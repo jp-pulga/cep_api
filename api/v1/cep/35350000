@@ -1,12 +1,11 @@
 {
-  "cep": "35350000",
-  "logradouro": "Raul Soares",
-  "bairro": "",
-  "cidade": {
-    "nome": "Raul Soares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35350000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Raul Soares"
+    },
+    "ibge": 3154002
 }

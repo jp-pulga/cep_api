@@ -1,12 +1,12 @@
 {
-  "cep": "34518092",
-  "logradouro": "Rua Manoel Fernandes de Souza",
-  "bairro": "Pompeu",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pompeu;",
+    "cep": "34518092",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Manoel Fernandes de Souza;"
 }

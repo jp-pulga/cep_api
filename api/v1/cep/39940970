@@ -1,12 +1,13 @@
 {
-  "cep": "39940970",
-  "logradouro": "AC Rio do Prado Praça Antônio Martins 137",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio do Prado",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39940970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio do Prado"
+    },
+    "ibge": 3155108,
+    "logradouro": "Praça Antônio Martins, 137  AC Rio do Prado;"
 }

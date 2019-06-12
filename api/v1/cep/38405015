@@ -1,12 +1,12 @@
 {
-  "cep": "38405015",
-  "logradouro": "Rua Antônio Rezende Costa",
-  "bairro": "Tibery",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tibery;",
+    "cep": "38405015",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Antônio Rezende Costa;"
 }

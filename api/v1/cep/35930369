@@ -1,12 +1,12 @@
 {
-  "cep": "35930369",
-  "logradouro": "Rua Rio Espera",
-  "bairro": "Metalúrgico",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Metalúrgico;",
+    "cep": "35930369",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Rio Espera;"
 }

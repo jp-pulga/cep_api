@@ -1,12 +1,13 @@
 {
-  "cep": "33082104",
-  "logradouro": "Avenida A",
-  "bairro": "Padre Miguel",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Padre Miguel;",
+    "cep": "33082104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Avenida A;"
 }

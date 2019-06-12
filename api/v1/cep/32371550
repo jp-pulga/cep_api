@@ -1,12 +1,12 @@
 {
-  "cep": "32371550",
-  "logradouro": "Rua Rio Potengi",
-  "bairro": "Eldoradinho",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldoradinho;",
+    "cep": "32371550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Rio Potengi;"
 }

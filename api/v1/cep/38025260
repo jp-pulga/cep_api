@@ -1,12 +1,12 @@
 {
-  "cep": "38025260",
-  "logradouro": "Rua Conde de Prados",
-  "bairro": "Nossa Senhora da Abadia",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora da Abadia;",
+    "cep": "38025260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Conde de Prados;"
 }

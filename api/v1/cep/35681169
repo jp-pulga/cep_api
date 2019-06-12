@@ -1,12 +1,12 @@
 {
-  "cep": "35681169",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Vila Augusto Chaves",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Augusto Chaves;",
+    "cep": "35681169",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Santa Bárbara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "33820574",
-  "logradouro": "Alameda das Corujas",
-  "bairro": "Vale Verde",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale Verde;",
+    "cep": "33820574",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Alameda das Corujas;"
 }

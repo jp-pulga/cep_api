@@ -1,12 +1,13 @@
 {
-  "cep": "33915005",
-  "logradouro": "Avenida Doutor Aristóteles Bethônico",
-  "bairro": "Girassol",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Girassol;",
+    "cep": "33915005",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Doutor Aristóteles Bethônico;"
 }

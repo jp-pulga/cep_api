@@ -1,12 +1,12 @@
 {
-  "cep": "35700265",
-  "logradouro": "Rua Sabinópolis",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "35700265",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Sabinópolis;"
 }

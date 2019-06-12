@@ -1,12 +1,13 @@
 {
-  "cep": "35650976",
-  "logradouro": "AGC Brumado de Pitangui Praça José Lima Guimarães 196",
-  "bairro": "Brumado de Pitangui",
-  "cidade": {
-    "nome": "Pitangui",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brumado de Pitangui;",
+    "cep": "35650976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pitangui"
+    },
+    "ibge": 3151404,
+    "logradouro": "Praça José Lima Guimarães, 196  AGC Brumado de Pitangui;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "38819000",
-  "logradouro": "Chaves (Rio Paranaíba)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Chaves (Rio Paranaíba)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38819000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Paranaíba"
+    },
+    "ibge": 3155504
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38020350",
-  "logradouro": "Rua Presidente Artur Bernardes",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "38020350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Presidente Artur Bernardes;"
 }

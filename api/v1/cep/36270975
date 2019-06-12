@@ -1,12 +1,13 @@
 {
-  "cep": "36270975",
-  "logradouro": "AGC Vargem do Amargoso Rua Sebastião Rodolfo de Oliveira s/n",
-  "bairro": "Vargem do Amargoso",
-  "cidade": {
-    "nome": "Ressaquinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vargem do Amargoso;",
+    "cep": "36270975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ressaquinha"
+    },
+    "ibge": 3154408,
+    "logradouro": "Rua Sebastião Rodolfo de Oliveira, s\/n  AGC Vargem do Amargoso;"
 }

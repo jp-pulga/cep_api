@@ -1,12 +1,12 @@
 {
-  "cep": "39400232",
-  "logradouro": "Rua Joel Santana",
-  "bairro": "Alice Maia",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alice Maia;",
+    "cep": "39400232",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Joel Santana;"
 }

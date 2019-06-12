@@ -1,12 +1,12 @@
 {
-  "cep": "30750250",
-  "logradouro": "Rua Pratinha",
-  "bairro": "Alto Caiçaras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto Caiçaras;",
+    "cep": "30750250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pratinha;"
 }

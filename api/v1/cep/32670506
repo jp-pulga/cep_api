@@ -1,12 +1,12 @@
 {
-  "cep": "32670506",
-  "logradouro": "Rua Pitangui",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "32670506",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Pitangui;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35660192",
-  "logradouro": "Travessa Santa Cruz",
-  "bairro": "JK",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "JK;",
+    "cep": "35660192",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Travessa Santa Cruz;"
 }

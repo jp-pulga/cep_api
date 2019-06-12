@@ -1,12 +1,12 @@
 {
-  "cep": "35501814",
-  "logradouro": "Rua Alameda Rio Preto",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "35501814",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Alameda Rio Preto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37502270",
-  "logradouro": "Rua Marcelo Pompeu de Lorenzo",
-  "bairro": "Medicina",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Medicina;",
+    "cep": "37502270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Marcelo Pompeu de Lorenzo;"
 }

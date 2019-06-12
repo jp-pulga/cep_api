@@ -1,12 +1,13 @@
 {
-  "cep": "34535230",
-  "logradouro": "Avenida Doutor Henrique de Melo",
-  "bairro": "Santo Antônio (Roça Grande)",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio (Roça Grande);",
+    "cep": "34535230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Doutor Henrique de Melo;"
 }

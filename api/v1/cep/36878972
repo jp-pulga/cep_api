@@ -1,12 +1,13 @@
 {
-  "cep": "36878972",
-  "logradouro": "AC Rosário da Limeira Praça Carlos Bertoni s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rosário da Limeira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36878972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rosário da Limeira"
+    },
+    "ibge": 3156452,
+    "logradouro": "Praça Nossa Senhora de Fátima, 298 Loja 04  AC Rosário da Limeira;"
 }

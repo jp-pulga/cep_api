@@ -1,12 +1,13 @@
 {
-  "cep": "36475970",
-  "logradouro": "AC Presidente Bernardes Rua Siqueira Afonso 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Bernardes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36475970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Presidente Bernardes"
+    },
+    "ibge": 3153103,
+    "logradouro": "Rua Siqueira Afonso, 02  AC Presidente Bernardes;"
 }

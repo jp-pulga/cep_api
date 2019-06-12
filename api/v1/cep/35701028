@@ -1,12 +1,12 @@
 {
-  "cep": "35701028",
-  "logradouro": "Rua Rio Casca",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jardim;",
+    "cep": "35701028",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Rio Casca;"
 }

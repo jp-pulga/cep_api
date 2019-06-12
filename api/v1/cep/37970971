@@ -1,12 +1,13 @@
 {
-  "cep": "37970971",
-  "logradouro": "AGC Vila Três Fontes Rua Benedito M. Prado s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pratápolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37970971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pratápolis"
+    },
+    "ibge": 3152907,
+    "logradouro": "Rua Benedito M. Prado, s\/n  AGC Vila Três Fontes;"
 }

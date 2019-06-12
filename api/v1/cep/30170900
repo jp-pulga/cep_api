@@ -1,12 +1,12 @@
 {
-  "cep": "30170900",
-  "logradouro": "Companhia Vale do Rio Doce Rua São Paulo 351",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30170900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Paulo, 351  Companhia Vale do Rio Doce;"
 }

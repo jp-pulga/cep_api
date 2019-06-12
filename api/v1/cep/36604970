@@ -1,12 +1,13 @@
 {
-  "cep": "36604970",
-  "logradouro": "AC Rochedo de Minas Rua Domingos Soares Henriques 51 Loja 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rochedo de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36604970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rochedo de Minas"
+    },
+    "ibge": 3156205,
+    "logradouro": "Rua Domingos Soares Henriques, 51 Loja 1  AC Rochedo de Minas;"
 }

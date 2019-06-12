@@ -1,12 +1,13 @@
 {
-  "cep": "37540971",
-  "logradouro": "UD Santa Rita do Sapucaí Rua Barão do Rio Branco 243 2º andar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita do Sapucaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37540971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita do Sapucaí"
+    },
+    "ibge": 3159605,
+    "logradouro": "Rua Barão do Rio Branco, 243 2º andar  UD Santa Rita do Sapucaí;"
 }

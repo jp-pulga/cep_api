@@ -1,12 +1,12 @@
 {
-  "cep": "35060420",
-  "logradouro": "Travessa Poté",
-  "bairro": "Carapina",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carapina;",
+    "cep": "35060420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Travessa Poté;"
 }

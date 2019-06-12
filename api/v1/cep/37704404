@@ -1,12 +1,13 @@
 {
-  "cep": "37704404",
-  "logradouro": "Alameda Flamingo",
-  "bairro": "Chácara Praia do Sol",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Praia do Sol;",
+    "cep": "37704404",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda Flamingo;"
 }

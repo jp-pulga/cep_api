@@ -1,12 +1,12 @@
 {
-  "cep": "38400274",
-  "logradouro": "Rua Santa Vitória",
-  "bairro": "Tabajaras",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tabajaras;",
+    "cep": "38400274",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Santa Vitória;"
 }

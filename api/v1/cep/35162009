@@ -1,12 +1,12 @@
 {
-  "cep": "35162009",
-  "logradouro": "Rua Rio Piracicaba",
-  "bairro": "Ferroviários",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ferroviários;",
+    "cep": "35162009",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Rio Piracicaba;"
 }

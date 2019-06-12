@@ -1,12 +1,12 @@
 {
-  "cep": "34518020",
-  "logradouro": "Rua L",
-  "bairro": "Pompeu",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pompeu;",
+    "cep": "34518020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua L;"
 }

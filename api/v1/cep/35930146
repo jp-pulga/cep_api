@@ -1,12 +1,12 @@
 {
-  "cep": "35930146",
-  "logradouro": "Rua Quatro",
-  "bairro": "Santa Bárbara",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Bárbara;",
+    "cep": "35930146",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Quatro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37540900",
-  "logradouro": "DL Eletrônicos Avenida Embaixador Bilac Pinto 1005",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Santa Rita do Sapucaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "37540900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita do Sapucaí"
+    },
+    "ibge": 3159605,
+    "logradouro": "Avenida Embaixador Bilac Pinto 1005  DL Eletrônicos Consumidor;"
 }

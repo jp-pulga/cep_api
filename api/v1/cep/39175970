@@ -1,12 +1,13 @@
 {
-  "cep": "39175970",
-  "logradouro": "AGC Pedra Menina (Rio Vermelho) Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra Menina (Rio Vermelho)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Menina\/Pedra Menina",
+    "cep": "39175970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Vermelho"
+    },
+    "ibge": 3156007,
+    "logradouro": "Rua Principal, s\/n  AGC Pedra Menina (Rio Vermelho);"
 }

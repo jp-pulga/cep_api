@@ -1,12 +1,12 @@
 {
-  "cep": "35661312",
-  "logradouro": "Rua Sabará",
-  "bairro": "Vila Maria",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Maria;",
+    "cep": "35661312",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Sabará;"
 }

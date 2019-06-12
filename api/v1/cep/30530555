@@ -1,12 +1,12 @@
 {
-  "cep": "30530555",
-  "logradouro": "Avenida Presidente Juscelino Kubitschek de 3002 a 4498 - lado par",
-  "bairro": "Alto dos Pinheiros",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto dos Pinheiros;",
+    "cep": "30530555",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitschek - de 3002 a 4498 - lado par;"
 }

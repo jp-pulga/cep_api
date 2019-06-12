@@ -1,12 +1,12 @@
 {
-  "cep": "31030150",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Sagrada Família",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sagrada Família;",
+    "cep": "31030150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Santa Bárbara;"
 }

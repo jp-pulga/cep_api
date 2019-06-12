@@ -1,12 +1,12 @@
 {
-  "cep": "35171113",
-  "logradouro": "Rua Prata",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "35171113",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Prata;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30850517",
-  "logradouro": "Beco Santa Bárbara",
-  "bairro": "Califórnia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Califórnia;",
+    "cep": "30850517",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Santa Bárbara;"
 }

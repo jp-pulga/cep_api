@@ -1,12 +1,13 @@
 {
-  "cep": "37701064",
-  "logradouro": "Alameda Edson",
-  "bairro": "Vila Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Nossa Senhora de Fátima;",
+    "cep": "37701064",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda Edson;"
 }

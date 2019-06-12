@@ -1,12 +1,13 @@
 {
-  "cep": "36430972",
-  "logradouro": "AC Santana dos Montes Ladeira Américo Leão 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana dos Montes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36430972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santana dos Montes"
+    },
+    "ibge": 3159100,
+    "logradouro": "Ladeira Américo Leão, 36  AC Santana dos Montes;"
 }

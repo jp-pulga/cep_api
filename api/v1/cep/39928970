@@ -1,12 +1,13 @@
 {
-  "cep": "39928970",
-  "logradouro": "AC Santa Maria do Salto Praça Ladislau Alves Souza 74",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria do Salto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39928970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Maria do Salto"
+    },
+    "ibge": 3158102,
+    "logradouro": "Praça Ladislau Alves Souza, 74  AC Santa Maria do Salto;"
 }

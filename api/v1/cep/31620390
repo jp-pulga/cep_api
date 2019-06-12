@@ -1,12 +1,12 @@
 {
-  "cep": "31620390",
-  "logradouro": "Rua Lucas Evangelista Prata",
-  "bairro": "Europa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Europa;",
+    "cep": "31620390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Lucas Evangelista Prata;"
 }

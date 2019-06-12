@@ -1,12 +1,11 @@
 {
-  "cep": "39615000",
-  "logradouro": "Ponto dos Volantes",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ponto dos Volantes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39615000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponto dos Volantes"
+    },
+    "ibge": 3152170
 }

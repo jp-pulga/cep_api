@@ -1,12 +1,13 @@
 {
-  "cep": "38320970",
-  "logradouro": "AC Santa Vitória Avenida Acre 1251",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Vitória",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38320970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Vitória"
+    },
+    "ibge": 3159803,
+    "logradouro": "Avenida Acre, 1251  AC Santa Vitória;"
 }

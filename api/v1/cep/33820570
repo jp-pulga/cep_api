@@ -1,12 +1,13 @@
 {
-  "cep": "33820570",
-  "logradouro": "Alameda dos Tico-Ticos",
-  "bairro": "Vale Verde",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale Verde;",
+    "cep": "33820570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Alameda dos Tico-Ticos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35702646",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "São João II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João II;",
+    "cep": "35702646",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35930151",
-  "logradouro": "Rua Olinda Dias Fernandes",
-  "bairro": "Santa Bárbara",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Bárbara;",
+    "cep": "35930151",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Olinda Dias Fernandes;"
 }

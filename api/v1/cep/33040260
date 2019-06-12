@@ -1,12 +1,13 @@
 {
-  "cep": "33040260",
-  "logradouro": "Avenida Beira-Rio",
-  "bairro": "Distrito Industrial Simão da Cunha",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial Deputado Simão da Cunha;",
+    "cep": "33040260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Avenida Beira-Rio;"
 }

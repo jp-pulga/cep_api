@@ -1,12 +1,12 @@
 {
-  "cep": "39401745",
-  "logradouro": "Rua Joaquim Gonçalves Santana",
-  "bairro": "Nova Morada",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Morada;",
+    "cep": "39401745",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Joaquim Gonçalves Santana;"
 }

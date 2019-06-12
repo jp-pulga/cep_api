@@ -1,12 +1,13 @@
 {
-  "cep": "38640975",
-  "logradouro": "AC Riachinho Avenida JK 432",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riachinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38640975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Riachinho"
+    },
+    "ibge": 3154457,
+    "logradouro": "Avenida JK, 432  AC Riachinho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35180478",
-  "logradouro": "Rua Rio Casca",
-  "bairro": "Timotinho",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Timotinho;",
+    "cep": "35180478",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Rio Casca;"
 }

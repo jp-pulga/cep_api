@@ -1,12 +1,13 @@
 {
-  "cep": "35225971",
-  "logradouro": "PC Aldeamento Rua Principal s/n",
-  "bairro": "Aldeamento",
-  "cidade": {
-    "nome": "Santa Rita do Itueto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aldeamento;",
+    "cep": "35225971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita do Itueto"
+    },
+    "ibge": 3159506,
+    "logradouro": "Rua Principal, s\/n  PC Aldeamento;"
 }

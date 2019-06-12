@@ -1,12 +1,13 @@
 {
-  "cep": "35650972",
-  "logradouro": "UD Pitangui Rua Coronel José Saldanha 50",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pitangui",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35650972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pitangui"
+    },
+    "ibge": 3151404,
+    "logradouro": "Rua Coronel José Saldanha, 50  UD Pitangui;"
 }

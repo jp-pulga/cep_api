@@ -1,12 +1,13 @@
 {
-  "cep": "36510970",
-  "logradouro": "AC Rodeiro Avenida Prefeito Adolfo Nicolato 28",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rodeiro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36510970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rodeiro"
+    },
+    "ibge": 3156304,
+    "logradouro": "Avenida Prefeito Adolfo Nicolato, 28  AC Rodeiro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39295970",
-  "logradouro": "AC Santa Fé de Minas Rua Rio de Janeiro 321",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Fé de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39295970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Fé de Minas"
+    },
+    "ibge": 3157609,
+    "logradouro": "Rua Rio de Janeiro, 321  AC Santa Fé de Minas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37701307",
-  "logradouro": "Alameda dos Capuchinhos",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "37701307",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda dos Capuchinhos;"
 }

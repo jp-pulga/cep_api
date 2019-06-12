@@ -1,12 +1,12 @@
 {
-  "cep": "38400466",
-  "logradouro": "Avenida Sacramento",
-  "bairro": "Martins",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Martins;",
+    "cep": "38400466",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida Sacramento;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36307533",
-  "logradouro": "Rua Vicente C. Silva",
-  "bairro": "Rio Acima",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio Acima;",
+    "cep": "36307533",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Vicente C. Silva;"
 }

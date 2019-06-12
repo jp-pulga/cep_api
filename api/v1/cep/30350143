@@ -1,12 +1,12 @@
 {
-  "cep": "30350143",
-  "logradouro": "Avenida Prudente de Morais de 479 a 1133 - lado ímpar",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "30350143",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Prudente de Morais - de 479 a 1133 - lado ímpar;"
 }

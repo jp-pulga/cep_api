@@ -1,12 +1,12 @@
 {
-  "cep": "37904082",
-  "logradouro": "Rua Vitória-Regia",
-  "bairro": "Santa Casa",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Casa;",
+    "cep": "37904082",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Vitória-Regia;"
 }

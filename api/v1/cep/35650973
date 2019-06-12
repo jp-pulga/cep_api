@@ -1,12 +1,13 @@
 {
-  "cep": "35650973",
-  "logradouro": "AGF Lima Guimarães Avenida Lima Guimarães 125",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pitangui",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35650973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pitangui"
+    },
+    "ibge": 3151404,
+    "logradouro": "Avenida Lima Guimarães, 125  AGF Lima Guimarães;"
 }

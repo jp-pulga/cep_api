@@ -1,12 +1,11 @@
 {
-  "cep": "36670000",
-  "logradouro": "Santo Antônio do Aventureiro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santo Antônio do Aventureiro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36670000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Antônio do Aventureiro"
+    },
+    "ibge": 3160009
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "34575530",
-  "logradouro": "Rua Pratinha",
-  "bairro": "Rosário",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rosário;",
+    "cep": "34575530",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Pratinha;"
 }

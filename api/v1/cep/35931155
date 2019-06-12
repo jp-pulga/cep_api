@@ -1,12 +1,12 @@
 {
-  "cep": "35931155",
-  "logradouro": "Avenida Resplendor",
-  "bairro": "Teresópolis",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teresópolis;",
+    "cep": "35931155",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Avenida Resplendor;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35162638",
-  "logradouro": "Rua Flor Chuva de Prata",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jardim;",
+    "cep": "35162638",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Flor Chuva de Prata;"
 }

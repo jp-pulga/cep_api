@@ -1,12 +1,12 @@
 {
-  "cep": "36200484",
-  "logradouro": "Rua Prudente de Morais",
-  "bairro": "Campo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campo;",
+    "cep": "36200484",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Prudente de Morais;"
 }

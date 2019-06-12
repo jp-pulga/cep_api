@@ -1,12 +1,13 @@
 {
-  "cep": "33120180",
-  "logradouro": "Alameda Ibirapuera",
-  "bairro": "Asteca (São Benedito)",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Asteca (São Benedito);",
+    "cep": "33120180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Alameda Ibirapuera;"
 }

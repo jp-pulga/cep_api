@@ -1,12 +1,13 @@
 {
-  "cep": "37704407",
-  "logradouro": "Alameda Ibis",
-  "bairro": "Chácara Poços de Caldas",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Poços de Caldas;",
+    "cep": "37704407",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda Ibis;"
 }

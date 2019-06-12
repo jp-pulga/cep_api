@@ -1,12 +1,11 @@
 {
-  "cep": "36130000",
-  "logradouro": "Rio Preto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Preto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36130000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Preto"
+    },
+    "ibge": 3155900
 }

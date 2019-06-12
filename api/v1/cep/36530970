@@ -1,12 +1,12 @@
 {
-  "cep": "36530970",
-  "logradouro": "AC São Geraldo Praça Raul Soares 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Geraldo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36530970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Geraldo"
+    },
+    "logradouro": "Praça Raul Soares, 11  AC São Geraldo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35845970",
-  "logradouro": "AC Santana do Riacho Praça Santana 114",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Riacho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35845970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santana do Riacho"
+    },
+    "ibge": 3159001,
+    "logradouro": "Praça Santana, 114  AC Santana do Riacho;"
 }

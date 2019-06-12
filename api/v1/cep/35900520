@@ -1,12 +1,12 @@
 {
-  "cep": "35900520",
-  "logradouro": "Travessa Santa Maria",
-  "bairro": "Vila Bethânia",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Bethânia;",
+    "cep": "35900520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Travessa Santa Maria;"
 }

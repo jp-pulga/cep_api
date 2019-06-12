@@ -1,12 +1,13 @@
 {
-  "cep": "39725972",
-  "logradouro": "AC Santa Efigênia de Minas Rua Primeiro de Setembro 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Efigênia de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39725972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Efigênia de Minas"
+    },
+    "ibge": 3157500,
+    "logradouro": "Rua Primeiro de Setembro, 29  AC Santa Efigênia de Minas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30720290",
-  "logradouro": "Rua Rio Pomba de 341/342 ao fim",
-  "bairro": "Carlos Prates",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carlos Prates;",
+    "cep": "30720290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Rio Pomba - de 341\/342 ao fim;"
 }

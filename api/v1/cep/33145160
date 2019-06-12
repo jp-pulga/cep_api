@@ -1,12 +1,13 @@
 {
-  "cep": "33145160",
-  "logradouro": "Avenida Antônio de Pinho Tavares de 145/146 ao fim",
-  "bairro": "Conjunto Cristina (São Benedito)",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Cristina (São Benedito);",
+    "cep": "33145160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Avenida Antônio de Pinho Tavares - de 145\/146 ao fim;"
 }

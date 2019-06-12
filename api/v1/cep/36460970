@@ -1,12 +1,13 @@
 {
-  "cep": "36460970",
-  "logradouro": "AC Rio Espera Praça da Piedade 113",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Espera",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36460970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Espera"
+    },
+    "ibge": 3155207,
+    "logradouro": "Praça da Piedade, 113  AC Rio Espera;"
 }

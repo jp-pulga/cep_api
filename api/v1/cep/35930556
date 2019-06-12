@@ -1,12 +1,12 @@
 {
-  "cep": "35930556",
-  "logradouro": "Rua Orgel Vieira Nunes (Loteamento Vale da Serra)",
-  "bairro": "Santa Bárbara",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Bárbara;",
+    "cep": "35930556",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Orgel Vieira Nunes (Loteamento Vale da Serra);"
 }

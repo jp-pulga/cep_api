@@ -1,12 +1,12 @@
 {
-  "cep": "31330570",
-  "logradouro": "Rua Antenor Prata",
-  "bairro": "Paquetá",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paquetá;",
+    "cep": "31330570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antenor Prata;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38750970",
-  "logradouro": "AC Presidente Olegário Rua Felisberto Fonseca 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Olegário",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38750970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Presidente Olegário"
+    },
+    "ibge": 3153400,
+    "logradouro": "Rua Felisberto Fonseca, 68  AC Presidente Olegário;"
 }

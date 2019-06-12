@@ -1,12 +1,12 @@
 {
-  "cep": "37701157",
-  "logradouro": "Rua Cruzeiro do Sul",
-  "bairro": "Jardim Santa Rita",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Santa Rita;",
+    "cep": "37701157",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Cruzeiro do Sul;"
 }

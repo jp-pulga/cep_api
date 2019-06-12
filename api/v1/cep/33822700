@@ -1,12 +1,13 @@
 {
-  "cep": "33822700",
-  "logradouro": "Avenida A",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "33822700",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida A;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32240192",
-  "logradouro": "Rua Maria Margarida",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "32240192",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Maria Margarida;"
 }

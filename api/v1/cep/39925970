@@ -1,12 +1,13 @@
 {
-  "cep": "39925970",
-  "logradouro": "AC Salto da Divisa Rua da Bahia 339",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salto da Divisa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39925970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Salto da Divisa"
+    },
+    "ibge": 3157104,
+    "logradouro": "Rua da Bahia, 339  AC Salto da Divisa;"
 }

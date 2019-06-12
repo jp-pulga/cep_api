@@ -1,12 +1,13 @@
 {
-  "cep": "35910970",
-  "logradouro": "AC Santa Maria do Itabira Rua Israel Pinheiro 1099",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria de Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35910970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Maria de Itabira"
+    },
+    "ibge": 3158003,
+    "logradouro": "Rua Israel Pinheiro, 1099  AC Santa Maria do Itabira;"
 }

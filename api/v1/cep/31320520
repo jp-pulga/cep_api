@@ -1,12 +1,12 @@
 {
-  "cep": "31320520",
-  "logradouro": "Rua Engenho da Prata",
-  "bairro": "Engenho Nogueira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Engenho Nogueira;",
+    "cep": "31320520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Engenho da Prata;"
 }

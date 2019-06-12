@@ -1,12 +1,13 @@
 {
-  "cep": "36270976",
-  "logradouro": "AGC Simão Tann Avenida Nossa Senhora das Graças 13",
-  "bairro": "Simão Tamm",
-  "cidade": {
-    "nome": "Ressaquinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Simão Tamm;",
+    "cep": "36270976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ressaquinha"
+    },
+    "ibge": 3154408,
+    "logradouro": "Avenida Nossa Senhora das Graças, 13  AGC Simão Tann;"
 }

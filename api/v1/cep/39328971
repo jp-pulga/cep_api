@@ -1,12 +1,13 @@
 {
-  "cep": "39328971",
-  "logradouro": "AGC Ponto Chique Praça Santana s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponto Chique",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39328971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponto Chique"
+    },
+    "ibge": 3152131,
+    "logradouro": "Praça Santana, s\/n  AGC Ponto Chique;"
 }

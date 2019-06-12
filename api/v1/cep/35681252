@@ -1,12 +1,12 @@
 {
-  "cep": "35681252",
-  "logradouro": "Rua Rosa do Sacramento Rezende",
-  "bairro": "Itaunense II",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itaunense II;",
+    "cep": "35681252",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Rosa do Sacramento Rezende;"
 }

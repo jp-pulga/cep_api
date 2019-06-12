@@ -1,12 +1,12 @@
 {
-  "cep": "35500415",
-  "logradouro": "Rua Visconde do Rio Branco",
-  "bairro": "Jardim das Mansões",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim das Mansões;",
+    "cep": "35500415",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Visconde do Rio Branco;"
 }

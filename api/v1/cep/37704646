@@ -1,12 +1,13 @@
 {
-  "cep": "37704646",
-  "logradouro": "Alameda Nova Esperança até 278/279",
-  "bairro": "Jardim Nova Aparecida",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Nova Aparecida;",
+    "cep": "37704646",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda Nova Esperança - até 278\/279;"
 }

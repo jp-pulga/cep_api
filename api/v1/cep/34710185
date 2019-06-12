@@ -1,12 +1,13 @@
 {
-  "cep": "34710185",
-  "logradouro": "Avenida A",
-  "bairro": "Ana Lúcia",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ana Lúcia;",
+    "cep": "34710185",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida A;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "36460000",
-  "logradouro": "Rio Espera",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Espera",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "36460000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Espera"
+    },
+    "ibge": 3155207
 }

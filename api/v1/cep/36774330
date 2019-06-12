@@ -1,12 +1,12 @@
 {
-  "cep": "36774330",
-  "logradouro": "Rua São José",
-  "bairro": "Pouso Alegre",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pouso Alegre;",
+    "cep": "36774330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua São José;"
 }

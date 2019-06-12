@@ -1,12 +1,12 @@
 {
-  "cep": "31080100",
-  "logradouro": "Rua Planura",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "31080100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Planura;"
 }

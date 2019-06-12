@@ -1,12 +1,13 @@
 {
-  "cep": "39529970",
-  "logradouro": "AC Riacho dos Machados Rua Augusto Alves 26",
-  "bairro": "Venda Nova",
-  "cidade": {
-    "nome": "Riacho dos Machados",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Venda Nova;",
+    "cep": "39529970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Riacho dos Machados"
+    },
+    "ibge": 3154507,
+    "logradouro": "Rua Augusto Alves, 26  AC Riacho dos Machados;"
 }

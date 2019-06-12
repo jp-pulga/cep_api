@@ -1,12 +1,13 @@
 {
-  "cep": "36335970",
-  "logradouro": "AC Ritápolis Praça Tiradentes 322",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ritápolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36335970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ritápolis"
+    },
+    "ibge": 3156106,
+    "logradouro": "Praça Tiradentes, 322  AC Ritápolis;"
 }

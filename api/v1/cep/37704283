@@ -1,12 +1,13 @@
 {
-  "cep": "37704283",
-  "logradouro": "Avenida Antônio Emídio de Rezende",
-  "bairro": "Jardim Country Club",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Country Club;",
+    "cep": "37704283",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Avenida Antônio Emídio de Rezende;"
 }

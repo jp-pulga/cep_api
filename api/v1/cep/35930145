@@ -1,12 +1,12 @@
 {
-  "cep": "35930145",
-  "logradouro": "Rua Três",
-  "bairro": "Santa Bárbara",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Bárbara;",
+    "cep": "35930145",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Três;"
 }

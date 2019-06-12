@@ -1,12 +1,13 @@
 {
-  "cep": "37706002",
-  "logradouro": "Avenida Alvorada",
-  "bairro": "Chácara Alvorada",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Alvorada;",
+    "cep": "37706002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Avenida Alvorada;"
 }

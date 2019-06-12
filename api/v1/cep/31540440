@@ -1,12 +1,12 @@
 {
-  "cep": "31540440",
-  "logradouro": "Rua Santa Rita do Itueto",
-  "bairro": "Jardim Leblon",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Leblon;",
+    "cep": "31540440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Santa Rita do Itueto;"
 }

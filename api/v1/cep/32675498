@@ -1,12 +1,12 @@
 {
-  "cep": "32675498",
-  "logradouro": "Rua Prados de 400/401 ao fim",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675498",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Prados - de 400\/401 ao fim;"
 }

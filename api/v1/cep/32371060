@@ -1,12 +1,12 @@
 {
-  "cep": "32371060",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Água Branca",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Água Branca;",
+    "cep": "32371060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Santa Bárbara;"
 }

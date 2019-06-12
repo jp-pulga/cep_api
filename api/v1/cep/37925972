@@ -1,12 +1,13 @@
 {
-  "cep": "37925972",
-  "logradouro": "UD Piumhi Rua Padre Abel 451",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piumhi",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37925972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Piumhi"
+    },
+    "ibge": 3151503,
+    "logradouro": "Rua Padre Abel, 451  UD Piumhi;"
 }

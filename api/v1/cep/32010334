@@ -1,12 +1,12 @@
 {
-  "cep": "32010334",
-  "logradouro": "Beco Pitangui",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "32010334",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Beco Pitangui;"
 }

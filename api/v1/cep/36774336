@@ -1,12 +1,12 @@
 {
-  "cep": "36774336",
-  "logradouro": "Rua Maria Novaes",
-  "bairro": "Pouso Alegre",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pouso Alegre;",
+    "cep": "36774336",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua Maria Novaes;"
 }

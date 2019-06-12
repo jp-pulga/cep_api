@@ -1,12 +1,13 @@
 {
-  "cep": "39560970",
-  "logradouro": "AC Salinas Rua Padre Salustiano 119",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salinas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39560970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Salinas"
+    },
+    "ibge": 3157005,
+    "logradouro": "Rua Mendo Correia, 79  AC Salinas;"
 }

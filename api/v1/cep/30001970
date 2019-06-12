@@ -1,12 +1,12 @@
 {
-  "cep": "30001970",
-  "logradouro": "AC Presidente Juscelino Kubitschek Avenida Afonso Pena 1270",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30001970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Afonso Pena, 1270  AC Presidente Juscelino Kubitschek;"
 }

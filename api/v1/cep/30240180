@@ -1,12 +1,12 @@
 {
-  "cep": "30240180",
-  "logradouro": "Rua Pouso Alto",
-  "bairro": "Serra",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra;",
+    "cep": "30240180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pouso Alto;"
 }

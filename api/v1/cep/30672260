@@ -1,12 +1,12 @@
 {
-  "cep": "30672260",
-  "logradouro": "Rua Flor-chuva-de-prata",
-  "bairro": "Mineirão",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mineirão;",
+    "cep": "30672260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Flor-chuva-de-prata;"
 }

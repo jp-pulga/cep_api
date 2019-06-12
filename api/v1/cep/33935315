@@ -1,12 +1,13 @@
 {
-  "cep": "33935315",
-  "logradouro": "Avenida Itaú",
-  "bairro": "Hawaí (Justinópolis)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Hawaí (Justinópolis);",
+    "cep": "33935315",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Itaú;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37504068",
-  "logradouro": "Rua Pouso Alegre",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "37504068",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Pouso Alegre;"
 }

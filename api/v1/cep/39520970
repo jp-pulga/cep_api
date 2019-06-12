@@ -1,12 +1,13 @@
 {
-  "cep": "39520970",
-  "logradouro": "AC Porteirinha Rua Pedro Caires 265",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porteirinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39520970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Porteirinha"
+    },
+    "ibge": 3152204,
+    "logradouro": "Rua Pedro Caires 265  AC Porteirinha;"
 }

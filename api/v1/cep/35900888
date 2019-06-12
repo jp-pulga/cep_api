@@ -1,12 +1,12 @@
 {
-  "cep": "35900888",
-  "logradouro": "Rua Maria Vicença Bragança",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "35900888",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Maria Vicença Bragança;"
 }

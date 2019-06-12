@@ -1,12 +1,11 @@
 {
-  "cep": "39530000",
-  "logradouro": "Rio Pardo de Minas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Pardo de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39530000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Pardo de Minas"
+    },
+    "ibge": 3155603
 }

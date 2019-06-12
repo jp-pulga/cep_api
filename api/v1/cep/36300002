@@ -1,12 +1,12 @@
 {
-  "cep": "36300002",
-  "logradouro": "Praça Raul Soares",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36300002",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Praça Raul Soares;"
 }

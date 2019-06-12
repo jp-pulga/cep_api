@@ -1,12 +1,12 @@
 {
-  "cep": "34518100",
-  "logradouro": "Rua Lúcio Zacarias Pinheiro",
-  "bairro": "Pompeu",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pompeu;",
+    "cep": "34518100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Lúcio Zacarias Pinheiro;"
 }

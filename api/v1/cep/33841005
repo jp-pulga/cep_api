@@ -1,12 +1,13 @@
 {
-  "cep": "33841005",
-  "logradouro": "Avenida do Alemão",
-  "bairro": "Alicante",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alicante;",
+    "cep": "33841005",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida do Alemão;"
 }

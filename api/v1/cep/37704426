@@ -1,12 +1,12 @@
 {
-  "cep": "37704426",
-  "logradouro": "Rua Antônio Inguaggiato",
-  "bairro": "Santa Margarida",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Margarida;",
+    "cep": "37704426",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Antônio Inguaggiato;"
 }

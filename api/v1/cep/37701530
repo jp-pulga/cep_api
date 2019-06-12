@@ -1,12 +1,12 @@
 {
-  "cep": "37701530",
-  "logradouro": "Rua Galileu José Magi",
-  "bairro": "Chácara Santa Bárbara",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Santa Bárbara;",
+    "cep": "37701530",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Galileu José Magi;"
 }

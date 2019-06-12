@@ -1,12 +1,13 @@
 {
-  "cep": "37716008",
-  "logradouro": "Alameda da Grevílea",
-  "bairro": "Condomínio Pitangueiras",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Condomínio Pitangueiras;",
+    "cep": "37716008",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "ibge": 3151800,
+    "logradouro": "Alameda da Grevílea;"
 }

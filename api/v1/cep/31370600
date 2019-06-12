@@ -1,12 +1,12 @@
 {
-  "cep": "31370600",
-  "logradouro": "Rua Rubelita",
-  "bairro": "Itatiaia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itatiaia;",
+    "cep": "31370600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Rubelita;"
 }

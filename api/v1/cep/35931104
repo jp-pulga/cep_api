@@ -1,12 +1,12 @@
 {
-  "cep": "35931104",
-  "logradouro": "Rua Resplendor",
-  "bairro": "Cruzeiro Celeste",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro Celeste;",
+    "cep": "35931104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Resplendor;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38414498",
-  "logradouro": "Rua Rio Parnaiba",
-  "bairro": "Mansour",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mansour;",
+    "cep": "38414498",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Rio Parnaiba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "33925350",
-  "logradouro": "Avenida José Maria da Costa",
-  "bairro": "Pedra Branca (Justinópolis)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Branca (Justinópolis);",
+    "cep": "33925350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida José Maria da Costa;"
 }

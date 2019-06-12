@@ -1,12 +1,13 @@
 {
-  "cep": "33913180",
-  "logradouro": "Avenida Canadá",
-  "bairro": "Esperança (Justinópolis)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esperança (Justinópolis);",
+    "cep": "33913180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Canadá;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36215970",
-  "logradouro": "AC Santa Bárbara do Tugúrio Rua São Vicente de Paula 402",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Bárbara do Tugúrio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36215970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Bárbara do Tugúrio"
+    },
+    "ibge": 3157302,
+    "logradouro": "Praça José Batista Machado, 52  AC Santa Bárbara do Tugúrio;"
 }

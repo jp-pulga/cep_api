@@ -1,12 +1,12 @@
 {
-  "cep": "36204157",
-  "logradouro": "Rua Santa Margarida Maria Alacoque",
-  "bairro": "Caminho Novo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caminho Novo;",
+    "cep": "36204157",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Santa Margarida Maria Alacoque;"
 }

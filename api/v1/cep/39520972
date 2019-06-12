@@ -1,12 +1,13 @@
 {
-  "cep": "39520972",
-  "logradouro": "AGC Mulungu de Minas Praça da Matriz s/n",
-  "bairro": "Mulungu de Minas",
-  "cidade": {
-    "nome": "Porteirinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mulungu de Minas;",
+    "cep": "39520972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Porteirinha"
+    },
+    "ibge": 3152204,
+    "logradouro": "Praça da Matriz, s\/n  AGC Mulungu de Minas;"
 }

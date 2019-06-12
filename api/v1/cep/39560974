@@ -1,12 +1,13 @@
 {
-  "cep": "39560974",
-  "logradouro": "AGC Nova Fátima Avenida Guilhermino Ferreira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salinas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39560974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Salinas"
+    },
+    "ibge": 3157005,
+    "logradouro": "Avenida Guilhermino Ferreira, s\/n  AGC Nova Fátima;"
 }

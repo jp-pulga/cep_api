@@ -1,12 +1,13 @@
 {
-  "cep": "37262972",
-  "logradouro": "AGC São Sebastião da Estrela Rua Orosino Carlos 120",
-  "bairro": "São Sebastião da Estrela",
-  "cidade": {
-    "nome": "Santo Antônio do Amparo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião da Estrela;",
+    "cep": "37262972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Antônio do Amparo"
+    },
+    "ibge": 3159902,
+    "logradouro": "Rua Orosino Carlos, 120  AGC São Sebastião da Estrela;"
 }

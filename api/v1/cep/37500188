@@ -1,12 +1,12 @@
 {
-  "cep": "37500188",
-  "logradouro": "Rua Presidente Juscelino Kubitschek",
-  "bairro": "Pinheirinho",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pinheirinho;",
+    "cep": "37500188",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Presidente Juscelino Kubitschek;"
 }

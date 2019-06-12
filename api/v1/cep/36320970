@@ -1,12 +1,13 @@
 {
-  "cep": "36320970",
-  "logradouro": "AC Prados Rua Magalhães Gomes 24",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Prados",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36320970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Prados"
+    },
+    "ibge": 3152709,
+    "logradouro": "Rua Magalhães Gomes, 24  AC Prados;"
 }

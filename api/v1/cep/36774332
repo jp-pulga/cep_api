@@ -1,12 +1,12 @@
 {
-  "cep": "36774332",
-  "logradouro": "Rua Edson Fabrino",
-  "bairro": "Pouso Alegre",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pouso Alegre;",
+    "cep": "36774332",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua Edson Fabrino;"
 }

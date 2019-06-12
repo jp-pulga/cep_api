@@ -1,12 +1,13 @@
 {
-  "cep": "33863045",
-  "logradouro": "Avenida Dionízia Gomes de Almeida",
-  "bairro": "Porto Seguro",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Porto Seguro;",
+    "cep": "33863045",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Dionízia Gomes de Almeida;"
 }

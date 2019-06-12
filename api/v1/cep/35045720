@@ -1,12 +1,12 @@
 {
-  "cep": "35045720",
-  "logradouro": "Rua Rio Doce",
-  "bairro": "Jardim Alice",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Alice;",
+    "cep": "35045720",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Rio Doce - de 86\/87 ao fim;"
 }

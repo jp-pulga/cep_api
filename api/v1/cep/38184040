@@ -1,12 +1,12 @@
 {
-  "cep": "38184040",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "Vila Jardim",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Jardim;",
+    "cep": "38184040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

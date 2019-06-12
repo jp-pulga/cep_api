@@ -1,12 +1,12 @@
 {
-  "cep": "37504078",
-  "logradouro": "Rua Santa Rita do Sapucaí",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "37504078",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Santa Rita do Sapucaí;"
 }

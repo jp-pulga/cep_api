@@ -1,12 +1,12 @@
 {
-  "cep": "35171748",
-  "logradouro": "Rua Rio Piracicaba",
-  "bairro": "Morada do Vale",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morada do Vale;",
+    "cep": "35171748",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Rio Piracicaba;"
 }

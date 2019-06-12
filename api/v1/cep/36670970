@@ -1,12 +1,13 @@
 {
-  "cep": "36670970",
-  "logradouro": "AC Santo Antônio do Aventureiro Praça Barão da Conceição 92",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Aventureiro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36670970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Antônio do Aventureiro"
+    },
+    "ibge": 3160009,
+    "logradouro": "Praça Barão da Conceição, 92  AC Santo Antônio do Aventureiro;"
 }

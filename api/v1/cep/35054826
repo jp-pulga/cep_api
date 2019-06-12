@@ -1,12 +1,12 @@
 {
-  "cep": "35054826",
-  "logradouro": "Rua D",
-  "bairro": "Figueira do Rio Doce",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Figueira do Rio Doce;",
+    "cep": "35054826",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua D;"
 }

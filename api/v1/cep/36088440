@@ -1,12 +1,12 @@
 {
-  "cep": "36088440",
-  "logradouro": "Rua das Margaridas",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "36088440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua das Margaridas;"
 }

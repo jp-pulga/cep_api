@@ -1,12 +1,12 @@
 {
-  "cep": "35702645",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "35702645",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

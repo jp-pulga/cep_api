@@ -1,12 +1,13 @@
 {
-  "cep": "34650320",
-  "logradouro": "Rua Boa Viagem",
-  "bairro": "Novo Alvorada",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Alvorada;",
+    "cep": "34650320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Boa Viagem;"
 }

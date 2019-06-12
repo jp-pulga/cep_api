@@ -1,12 +1,13 @@
 {
-  "cep": "37540973",
-  "logradouro": "AGF Adelino Carneiro Rua Adelino Carneiro Pinto 80 Loja 05",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita do Sapucaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37540973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita do Sapucaí"
+    },
+    "ibge": 3159605,
+    "logradouro": "Rua Adelino Carneiro Pinto, 80 Loja 01  AGF Adelino Carneiro;"
 }

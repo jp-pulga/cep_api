@@ -1,12 +1,13 @@
 {
-  "cep": "33937000",
-  "logradouro": "Avenida Araguaia",
-  "bairro": "Tancredo Neves (Justinópolis)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tancredo Neves (Justinópolis);",
+    "cep": "33937000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Araguaia;"
 }

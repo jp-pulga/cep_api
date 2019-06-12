@@ -1,12 +1,12 @@
 {
-  "cep": "39802416",
-  "logradouro": "Rua Raposos",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "39802416",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Raposos;"
 }

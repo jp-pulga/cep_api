@@ -1,12 +1,12 @@
 {
-  "cep": "30882745",
-  "logradouro": "Rua Presidente Juscelino",
-  "bairro": "Serrano",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serrano;",
+    "cep": "30882745",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Presidente Juscelino;"
 }

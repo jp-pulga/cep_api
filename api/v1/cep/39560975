@@ -1,12 +1,13 @@
 {
-  "cep": "39560975",
-  "logradouro": "AGC Nova Matrona Avenida Salinas 129",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salinas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39560975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Salinas"
+    },
+    "ibge": 3157005,
+    "logradouro": "Avenida Salinas, 129  AGC Nova Matrona;"
 }

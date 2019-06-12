@@ -1,12 +1,12 @@
 {
-  "cep": "34518030",
-  "logradouro": "Rua Helio Martins Bento",
-  "bairro": "Pompeu",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pompeu;",
+    "cep": "34518030",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Helio Martins Bento;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36130970",
-  "logradouro": "AC Rio Preto Rua Alípio Miranda Ribeiro 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Preto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36130970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Preto"
+    },
+    "ibge": 3155900,
+    "logradouro": "Rua Alípio Miranda Ribeiro, 14  AC Rio Preto;"
 }

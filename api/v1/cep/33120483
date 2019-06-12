@@ -1,12 +1,13 @@
 {
-  "cep": "33120483",
-  "logradouro": "Avenida Brasília até 785 - lado ímpar",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "33120483",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Avenida Brasília - até 785 - lado ímpar;"
 }

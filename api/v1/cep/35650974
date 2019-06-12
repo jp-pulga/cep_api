@@ -1,12 +1,13 @@
 {
-  "cep": "35650974",
-  "logradouro": "AGC Campo Grande Praça Abdon Gonçalves da Costa 180",
-  "bairro": "Campo Grande",
-  "cidade": {
-    "nome": "Pitangui",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campo Grande;",
+    "cep": "35650974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pitangui"
+    },
+    "ibge": 3151404,
+    "logradouro": "Praça Abdon Gonçalves da Costa, 180  AGC Campo Grande;"
 }

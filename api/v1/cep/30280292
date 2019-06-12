@@ -1,12 +1,12 @@
 {
-  "cep": "30280292",
-  "logradouro": "Rua Pitangui de 3932 ao fim - lado par",
-  "bairro": "Pompéia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pompéia;",
+    "cep": "30280292",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pitangui - de 3932 ao fim - lado par;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38960970",
-  "logradouro": "AC Pratinha Rua Sete de Setembro 215",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pratinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38960970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pratinha"
+    },
+    "ibge": 3153004,
+    "logradouro": "Rua Sete de Setembro, 215  AC Pratinha;"
 }

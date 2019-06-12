@@ -1,12 +1,12 @@
 {
-  "cep": "37060050",
-  "logradouro": "Rua Doutor Spártaco Pompeu",
-  "bairro": "Damasco",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Damasco;",
+    "cep": "37060050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Doutor Spártaco Pompeu;"
 }

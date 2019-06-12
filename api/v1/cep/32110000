@@ -1,12 +1,12 @@
 {
-  "cep": "32110000",
-  "logradouro": "Avenida Princesa Isabel",
-  "bairro": "Parque Recreio",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Recreio;",
+    "cep": "32110000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Avenida Princesa Isabel;"
 }

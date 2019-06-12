@@ -1,12 +1,12 @@
 {
-  "cep": "32145649",
-  "logradouro": "Rua Sabará",
-  "bairro": "Arpoador",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Arpoador;",
+    "cep": "32145649",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Sabará;"
 }

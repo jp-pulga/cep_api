@@ -1,12 +1,12 @@
 {
-  "cep": "35661313",
-  "logradouro": "Rua de Recreio",
-  "bairro": "Vila Maria",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Maria;",
+    "cep": "35661313",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua de Recreio;"
 }

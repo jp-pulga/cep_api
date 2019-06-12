@@ -1,12 +1,13 @@
 {
-  "cep": "34515480",
-  "logradouro": "Avenida Evy dos Santos Sena",
-  "bairro": "Vila Santo Antônio de Pádua",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santo Antônio de Pádua;",
+    "cep": "34515480",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Evy dos Santos Sena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31540010",
-  "logradouro": "Rua Ribeirão Vermelho",
-  "bairro": "Piratininga (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Piratininga (Venda Nova);",
+    "cep": "31540010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ribeirão Vermelho;"
 }

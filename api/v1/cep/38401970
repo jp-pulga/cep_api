@@ -1,12 +1,12 @@
 {
-  "cep": "38401970",
-  "logradouro": "AGF João Bernardes de Souza Avenida João Bernardes de Souza 461-B",
-  "bairro": "Presidente Roosevelt",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Presidente Roosevelt;",
+    "cep": "38401970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida João Bernardes de Souza, 461-B  AGF João Bernardes de Souza;"
 }

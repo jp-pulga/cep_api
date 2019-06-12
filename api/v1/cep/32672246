@@ -1,12 +1,12 @@
 {
-  "cep": "32672246",
-  "logradouro": "Rua Rio Vermelho",
-  "bairro": "Senhora de Fátima",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhora de Fátima;",
+    "cep": "32672246",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Rio Vermelho;"
 }

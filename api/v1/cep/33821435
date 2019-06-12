@@ -1,12 +1,13 @@
 {
-  "cep": "33821435",
-  "logradouro": "Avenida Anel",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "33821435",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Anel;"
 }

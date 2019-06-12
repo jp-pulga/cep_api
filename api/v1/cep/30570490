@@ -1,12 +1,12 @@
 {
-  "cep": "30570490",
-  "logradouro": "Rua José Pitangui Ferraz",
-  "bairro": "Havaí",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Havaí;",
+    "cep": "30570490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Pitangui Ferraz;"
 }

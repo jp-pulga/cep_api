@@ -1,12 +1,12 @@
 {
-  "cep": "35052848",
-  "logradouro": "Rua Sacramento",
-  "bairro": "Turmalina",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Turmalina;",
+    "cep": "35052848",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Sacramento;"
 }

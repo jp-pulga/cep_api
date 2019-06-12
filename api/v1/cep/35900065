@@ -1,12 +1,12 @@
 {
-  "cep": "35900065",
-  "logradouro": "Rua Santa Maria",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Penha;",
+    "cep": "35900065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Santa Maria;"
 }

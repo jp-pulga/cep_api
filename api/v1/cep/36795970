@@ -1,12 +1,13 @@
 {
-  "cep": "36795970",
-  "logradouro": "AC Santana de Cataguases Rua Pereira de Amarante 91",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana de Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36795970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santana de Cataguases"
+    },
+    "ibge": 3158409,
+    "logradouro": "Rua Pereira de Amarante, 91  AC Santana de Cataguases;"
 }

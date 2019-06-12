@@ -1,12 +1,13 @@
 {
-  "cep": "39530970",
-  "logradouro": "AC Rio Pardo de Minas Praça Getúlio Vargas 416",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Pardo de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39530970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Pardo de Minas"
+    },
+    "ibge": 3155603,
+    "logradouro": "Praça Getúlio Vargas, 416  AC Rio Pardo de Minas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32110260",
-  "logradouro": "Rua Bruxelas",
-  "bairro": "Parque Recreio",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Recreio;",
+    "cep": "32110260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Bruxelas;"
 }

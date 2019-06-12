@@ -1,12 +1,12 @@
 {
-  "cep": "31015294",
-  "logradouro": "Rua Salinas até 1088 - lado par",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "31015294",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Salinas - até 1088 - lado par;"
 }

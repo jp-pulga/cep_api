@@ -1,12 +1,13 @@
 {
-  "cep": "33903210",
-  "logradouro": "Avenida dos Escritores",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "33903210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida dos Escritores;"
 }

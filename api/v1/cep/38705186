@@ -1,12 +1,12 @@
 {
-  "cep": "38705186",
-  "logradouro": "Rua Santa Rita",
-  "bairro": "Antônio Caixeta",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Antônio Caixeta;",
+    "cep": "38705186",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Santa Rita;"
 }

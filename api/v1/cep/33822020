@@ -1,12 +1,13 @@
 {
-  "cep": "33822020",
-  "logradouro": "Avenida Ágata",
-  "bairro": "Franciscadriângela",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Franciscadriângela;",
+    "cep": "33822020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Ágata;"
 }

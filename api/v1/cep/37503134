@@ -1,12 +1,12 @@
 {
-  "cep": "37503134",
-  "logradouro": "Rua Maria Prata",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "37503134",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Maria Prata;"
 }

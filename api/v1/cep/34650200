@@ -1,12 +1,13 @@
 {
-  "cep": "34650200",
-  "logradouro": "Avenida Aparecida do Norte",
-  "bairro": "Novo Alvorada",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Alvorada;",
+    "cep": "34650200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Aparecida do Norte;"
 }

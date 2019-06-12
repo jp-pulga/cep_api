@@ -1,12 +1,13 @@
 {
-  "cep": "33902550",
-  "logradouro": "Avenida Jacarandá",
-  "bairro": "Tropical (Justinópolis)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tropical (Justinópolis);",
+    "cep": "33902550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Jacarandá;"
 }

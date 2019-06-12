@@ -1,12 +1,13 @@
 {
-  "cep": "34515640",
-  "logradouro": "Avenida Serra da Piedade",
-  "bairro": "Conjunto Morada da Serra",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Morada da Serra;",
+    "cep": "34515640",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Serra da Piedade;"
 }

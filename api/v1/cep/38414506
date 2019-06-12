@@ -1,12 +1,12 @@
 {
-  "cep": "38414506",
-  "logradouro": "Rua Rio Jaguaribe",
-  "bairro": "Mansour",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mansour;",
+    "cep": "38414506",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Rio Jaguaribe;"
 }

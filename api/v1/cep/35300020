@@ -1,12 +1,12 @@
 {
-  "cep": "35300020",
-  "logradouro": "Rua Raul Soares",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35300020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Raul Soares;"
 }

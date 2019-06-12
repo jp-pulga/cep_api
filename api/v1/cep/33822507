@@ -1,12 +1,13 @@
 {
-  "cep": "33822507",
-  "logradouro": "Avenida Elmano Moreira de Carvalho",
-  "bairro": "Vereda",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vereda;",
+    "cep": "33822507",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Elmano Moreira de Carvalho;"
 }

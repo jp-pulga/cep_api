@@ -1,12 +1,12 @@
 {
-  "cep": "30330110",
-  "logradouro": "Rua São Domingos do Prata de 327/328 ao fim",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "30330110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Domingos do Prata - de 327\/328 ao fim;"
 }

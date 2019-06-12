@@ -1,12 +1,12 @@
 {
-  "cep": "30451505",
-  "logradouro": "Beco Raul Soares",
-  "bairro": "Vila Antena",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Antena;",
+    "cep": "30451505",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Raul Soares;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39520973",
-  "logradouro": "AGC Serra Branca de Minas Rua Principal s/n",
-  "bairro": "Serra Branca de Minas",
-  "cidade": {
-    "nome": "Porteirinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra Branca de Minas;",
+    "cep": "39520973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Porteirinha"
+    },
+    "ibge": 3152204,
+    "logradouro": "Rua Principal, s\/n  AGC Serra Branca de Minas;"
 }

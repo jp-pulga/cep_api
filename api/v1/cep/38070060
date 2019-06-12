@@ -1,12 +1,12 @@
 {
-  "cep": "38070060",
-  "logradouro": "Rua Santa Vitória",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "38070060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Santa Vitória;"
 }

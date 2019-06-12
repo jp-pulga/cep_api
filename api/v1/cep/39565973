@@ -1,12 +1,13 @@
 {
-  "cep": "39565973",
-  "logradouro": "AGC Lagoa de Baixo Praça da Matriz 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rubelita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39565973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rubelita"
+    },
+    "ibge": 3156502,
+    "logradouro": "Praça da Matriz, 25  AGC Lagoa de Baixo;"
 }

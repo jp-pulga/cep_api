@@ -1,12 +1,12 @@
 {
-  "cep": "30410620",
-  "logradouro": "Avenida Presidente Juscelino Kubitschek até 1669 - lado ímpar",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "30410620",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitschek - até 1669 - lado ímpar;"
 }

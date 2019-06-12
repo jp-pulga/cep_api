@@ -1,12 +1,13 @@
 {
-  "cep": "39780970",
-  "logradouro": "AC Santa Maria do Suaçuí Rua Nacib Raydan 176",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria do Suaçuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39780970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Maria do Suaçuí"
+    },
+    "ibge": 3158201,
+    "logradouro": "Rua Nacib Raydan, 176  AC Santa Maria do Suaçuí;"
 }

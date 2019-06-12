@@ -1,12 +1,12 @@
 {
-  "cep": "38400090",
-  "logradouro": "Rua Rio Preto até 272/273",
-  "bairro": "Lídice",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lídice;",
+    "cep": "38400090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Rio Preto - até 272\/273;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35225972",
-  "logradouro": "AC Santa Rita do Itueto Rua Hilarino Gomes 70",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita do Itueto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35225972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita do Itueto"
+    },
+    "ibge": 3159506,
+    "logradouro": "Rua Hilarino Gomes, 70  AC Santa Rita do Itueto;"
 }

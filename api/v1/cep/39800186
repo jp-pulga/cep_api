@@ -1,12 +1,12 @@
 {
-  "cep": "39800186",
-  "logradouro": "Travessa Rubim",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "39800186",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Travessa Rubim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "33855700",
-  "logradouro": "Avenida Belo Horizonte",
-  "bairro": "Santinho",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santinho;",
+    "cep": "33855700",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Belo Horizonte;"
 }

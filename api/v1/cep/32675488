@@ -1,12 +1,12 @@
 {
-  "cep": "32675488",
-  "logradouro": "Rua Pouso Alegre de 500/501 ao fim",
-  "bairro": "Vila Cristina",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Cristina;",
+    "cep": "32675488",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Pouso Alegre - de 500\/501 ao fim;"
 }

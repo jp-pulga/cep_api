@@ -1,12 +1,12 @@
 {
-  "cep": "30640310",
-  "logradouro": "Rua Domingos Camilo",
-  "bairro": "Santa Margarida (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Margarida (Barreiro);",
+    "cep": "30640310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Domingos Camilo;"
 }

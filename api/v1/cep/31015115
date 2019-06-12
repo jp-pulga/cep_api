@@ -1,12 +1,12 @@
 {
-  "cep": "31015115",
-  "logradouro": "Rua Salinas de 1103 ao fim - lado ímpar",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "31015115",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Salinas - de 1103 ao fim - lado ímpar;"
 }

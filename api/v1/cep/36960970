@@ -1,12 +1,13 @@
 {
-  "cep": "36960970",
-  "logradouro": "AC Pocrane Avenida Minas Gerais 192 Loja 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pocrane",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36960970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pocrane"
+    },
+    "ibge": 3151909,
+    "logradouro": "Avenida Minas Gerais, 192 Loja 02  AC Pocrane;"
 }

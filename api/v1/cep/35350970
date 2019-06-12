@@ -1,12 +1,13 @@
 {
-  "cep": "35350970",
-  "logradouro": "AC Raul Soares Rua Camilo de Moura 477",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Raul Soares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35350970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Raul Soares"
+    },
+    "ibge": 3154002,
+    "logradouro": "Rua Camilo de Moura, 477  AC Raul Soares;"
 }

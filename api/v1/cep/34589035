@@ -1,12 +1,12 @@
 {
-  "cep": "34589035",
-  "logradouro": "Rua Prudente de Morais",
-  "bairro": "Jardim Castanheiras",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Castanheiras;",
+    "cep": "34589035",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Prudente de Morais;"
 }

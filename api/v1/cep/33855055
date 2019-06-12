@@ -1,12 +1,13 @@
 {
-  "cep": "33855055",
-  "logradouro": "Avenida José Euclides",
-  "bairro": "Sevilha (1ª Seção)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sevilha (1ª Seção);",
+    "cep": "33855055",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida José Euclides;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36200640",
-  "logradouro": "Rua Presidente Raul Soares",
-  "bairro": "Carmo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carmo;",
+    "cep": "36200640",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Presidente Raul Soares;"
 }

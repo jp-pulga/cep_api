@@ -1,12 +1,12 @@
 {
-  "cep": "32110290",
-  "logradouro": "Praça São Pedro",
-  "bairro": "Parque Recreio",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Recreio;",
+    "cep": "32110290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Praça São Pedro;"
 }

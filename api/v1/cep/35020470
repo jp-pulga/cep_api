@@ -1,12 +1,12 @@
 {
-  "cep": "35020470",
-  "logradouro": "Rua Raul Soares",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "35020470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Raul Soares;"
 }

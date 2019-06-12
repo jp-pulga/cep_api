@@ -1,12 +1,13 @@
 {
-  "cep": "39950970",
-  "logradouro": "AC Rubim Praça Ubirajara Coelho 218",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rubim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39950970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rubim"
+    },
+    "ibge": 3156601,
+    "logradouro": "Praça Ubirajara Coelho, 218  AC Rubim;"
 }

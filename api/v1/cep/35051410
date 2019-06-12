@@ -1,12 +1,12 @@
 {
-  "cep": "35051410",
-  "logradouro": "Rua Resplendor",
-  "bairro": "Nova Vila Bretas",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Vila Bretas;",
+    "cep": "35051410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Resplendor;"
 }

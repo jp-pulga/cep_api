@@ -1,12 +1,13 @@
 {
-  "cep": "34515410",
-  "logradouro": "Avenida João Pinheiro da Silva",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "34515410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida João Pinheiro;"
 }

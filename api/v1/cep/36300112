@@ -1,12 +1,12 @@
 {
-  "cep": "36300112",
-  "logradouro": "Rua José Veríssimo do Sacramento",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36300112",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua José Veríssimo do Sacramento;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35645970",
-  "logradouro": "ACS Silva Campos Rua Principal 533",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pompéu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35645970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pompéu"
+    },
+    "ibge": 3152006,
+    "logradouro": "Rua Principal, 533  ACS Silva Campos;"
 }

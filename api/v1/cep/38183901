@@ -1,12 +1,12 @@
 {
-  "cep": "38183901",
-  "logradouro": "Grupo Zema Rua Presidente Olegário Maciel 111",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38183901",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Presidente Olegário Maciel, 111  Grupo Zema;"
 }

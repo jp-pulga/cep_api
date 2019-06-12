@@ -1,12 +1,12 @@
 {
-  "cep": "37903066",
-  "logradouro": "Avenida Poços de Caldas",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "37903066",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Avenida Poços de Caldas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35660294",
-  "logradouro": "Rua Santa Rita",
-  "bairro": "Padre Libério",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Libério;",
+    "cep": "35660294",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Santa Rita;"
 }

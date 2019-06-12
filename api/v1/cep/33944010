@@ -1,12 +1,12 @@
 {
-  "cep": "33944010",
-  "logradouro": "Rua Campo Vermelho",
-  "bairro": "Dona Clarice",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dona Clarice;",
+    "cep": "33944010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Campo Vermelho;"
 }

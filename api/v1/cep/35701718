@@ -1,12 +1,12 @@
 {
-  "cep": "35701718",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "Brejinho",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brejinho;",
+    "cep": "35701718",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

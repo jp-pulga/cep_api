@@ -1,12 +1,12 @@
 {
-  "cep": "31015365",
-  "logradouro": "Rua Salinas até 1101 - lado ímpar",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "31015365",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Salinas - até 1101 - lado ímpar;"
 }

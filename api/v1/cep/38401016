@@ -1,12 +1,12 @@
 {
-  "cep": "38401016",
-  "logradouro": "Avenida João Bernardes de Souza",
-  "bairro": "Presidente Roosevelt",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Presidente Roosevelt;",
+    "cep": "38401016",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida João Bernardes de Souza;"
 }

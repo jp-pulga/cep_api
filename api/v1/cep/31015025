@@ -1,12 +1,12 @@
 {
-  "cep": "31015025",
-  "logradouro": "Rua Pouso Alegre de 2219 ao fim - lado ímpar",
-  "bairro": "Horto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto;",
+    "cep": "31015025",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pouso Alegre - de 2219 ao fim - lado ímpar;"
 }

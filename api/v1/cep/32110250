@@ -1,12 +1,12 @@
 {
-  "cep": "32110250",
-  "logradouro": "Rua Londres",
-  "bairro": "Parque Recreio",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Recreio;",
+    "cep": "32110250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Londres;"
 }

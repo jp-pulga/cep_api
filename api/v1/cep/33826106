@@ -1,12 +1,12 @@
 {
-  "cep": "33826106",
-  "logradouro": "Rua Sabinópolis",
-  "bairro": "Fazenda Castro",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fazenda Castro;",
+    "cep": "33826106",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Sabinópolis;"
 }

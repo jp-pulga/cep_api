@@ -1,12 +1,13 @@
 {
-  "cep": "34505045",
-  "logradouro": "Avenida Expedicionário Romeu Jerônimo Dantas até 999/1000",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "34505045",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Expedicionário Romeu Jerônimo Dantas - até 999\/1000;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39804444",
-  "logradouro": "Rua Pouso Alto",
-  "bairro": "Joaquim Pedrosa",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Joaquim Pedrosa;",
+    "cep": "39804444",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Pouso Alto;"
 }

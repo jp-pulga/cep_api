@@ -1,12 +1,12 @@
 {
-  "cep": "36051310",
-  "logradouro": "Rua Margarida Soares Dias",
-  "bairro": "Santa Rita de Cássia",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita de Cássia;",
+    "cep": "36051310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Margarida Soares Dias;"
 }

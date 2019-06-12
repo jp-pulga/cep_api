@@ -1,12 +1,13 @@
 {
-  "cep": "35370970",
-  "logradouro": "AC Rio Casca Avenida Senador Cupertino 204",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Casca",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35370970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Casca"
+    },
+    "ibge": 3154903,
+    "logradouro": "Avenida Senador Cupertino, 204  AC Rio Casca;"
 }

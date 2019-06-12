@@ -1,12 +1,13 @@
 {
-  "cep": "33825590",
-  "logradouro": "Alameda das Turquezas",
-  "bairro": "Vale da Prata",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale da Prata;",
+    "cep": "33825590",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Alameda das Turquezas;"
 }

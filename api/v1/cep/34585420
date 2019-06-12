@@ -1,12 +1,12 @@
 {
-  "cep": "34585420",
-  "logradouro": "Rua Prados",
-  "bairro": "Vila Santa Rita",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Rita;",
+    "cep": "34585420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Prados;"
 }

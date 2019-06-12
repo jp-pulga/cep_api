@@ -1,12 +1,12 @@
 {
-  "cep": "39401456",
-  "logradouro": "Rua Porteirinha",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "39401456",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Porteirinha;"
 }

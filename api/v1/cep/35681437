@@ -1,12 +1,12 @@
 {
-  "cep": "35681437",
-  "logradouro": "Rua Margarida Oliveira de Andrade",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "35681437",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Margarida Oliveira de Andrade;"
 }

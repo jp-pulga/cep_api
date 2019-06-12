@@ -1,12 +1,12 @@
 {
-  "cep": "38183186",
-  "logradouro": "Rua Presidente Olegário Maciel",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38183186",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Presidente Olegário Maciel;"
 }

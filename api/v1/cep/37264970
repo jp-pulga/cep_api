@@ -1,12 +1,13 @@
 {
-  "cep": "37264970",
-  "logradouro": "AC Ribeirão Vermelho Avenida Vinte e Seis de Novembro 252",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeirão Vermelho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ribeirão Vermelho;",
+    "cep": "37264970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão Vermelho"
+    },
+    "ibge": 3154705,
+    "logradouro": "Avenida Vinte e Seis de Novembro, 252  AC Ribeirão Vermelho;"
 }

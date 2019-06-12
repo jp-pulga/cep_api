@@ -1,12 +1,12 @@
 {
-  "cep": "36307531",
-  "logradouro": "Rua Rio Acima",
-  "bairro": "Rio Acima",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio Acima;",
+    "cep": "36307531",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Rio Acima;"
 }

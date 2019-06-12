@@ -1,12 +1,12 @@
 {
-  "cep": "34518090",
-  "logradouro": "Rua Raimundo Aguido Ferreira",
-  "bairro": "Pompeu",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pompeu;",
+    "cep": "34518090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Raimundo Aguido Ferreira;"
 }

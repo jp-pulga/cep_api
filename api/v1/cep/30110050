@@ -1,12 +1,12 @@
 {
-  "cep": "30110050",
-  "logradouro": "Praça Presidente Arthur Bernardes",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "30110050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Presidente Arthur Bernardes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30270080",
-  "logradouro": "Rua Porteirinha",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "30270080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Porteirinha;"
 }

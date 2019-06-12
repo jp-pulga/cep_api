@@ -1,12 +1,12 @@
 {
-  "cep": "36205352",
-  "logradouro": "Rua Rio Doce",
-  "bairro": "Caiçaras",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caiçaras;",
+    "cep": "36205352",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Rio Doce;"
 }

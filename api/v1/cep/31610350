@@ -1,12 +1,12 @@
 {
-  "cep": "31610350",
-  "logradouro": "Rua Eduardo Barreto Prata",
-  "bairro": "Minascaixa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Minascaixa;",
+    "cep": "31610350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Eduardo Barreto Prata;"
 }

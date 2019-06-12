@@ -1,12 +1,12 @@
 {
-  "cep": "36301227",
-  "logradouro": "Rua Maurício Batista Sacramento",
-  "bairro": "Fábricas",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fábricas;",
+    "cep": "36301227",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Maurício Batista Sacramento;"
 }

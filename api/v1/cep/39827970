@@ -1,12 +1,13 @@
 {
-  "cep": "39827970",
-  "logradouro": "AC Poté Rua Vicente Gonçalves 40 Loja 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poté",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39827970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poté"
+    },
+    "ibge": 3152402,
+    "logradouro": "Rua Vicente Gonçalves, 40 Loja 03  AC Poté;"
 }

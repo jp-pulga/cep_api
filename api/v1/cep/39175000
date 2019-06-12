@@ -1,12 +1,12 @@
 {
-  "cep": "39175000",
-  "logradouro": "Pedra Menina (Rio Vermelho)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pedra Menina (Rio Vermelho)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Menina",
+    "cep": "39175000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Vermelho"
+    },
+    "ibge": 3156007
 }

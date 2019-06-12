@@ -1,12 +1,13 @@
 {
-  "cep": "36320971",
-  "logradouro": "AGC Vitoriano Veloso Rua Tiradentes 41",
-  "bairro": "Vitoriano Veloso",
-  "cidade": {
-    "nome": "Prados",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vitoriano Veloso;",
+    "cep": "36320971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Prados"
+    },
+    "ibge": 3152709,
+    "logradouro": "Rua Tiradentes 41  AGC Vitoriano Veloso;"
 }

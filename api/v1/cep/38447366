@@ -1,12 +1,12 @@
 {
-  "cep": "38447366",
-  "logradouro": "Rua Maria Prata de Oliveira",
-  "bairro": "Milenium",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Milenium;",
+    "cep": "38447366",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Maria Prata de Oliveira;"
 }

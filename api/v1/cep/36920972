@@ -1,12 +1,13 @@
 {
-  "cep": "36920972",
-  "logradouro": "AC Reduto Rua São João Batista 90",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Reduto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36920972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Reduto"
+    },
+    "ibge": 3154150,
+    "logradouro": "Rua São João Batista, 90  AC Reduto;"
 }

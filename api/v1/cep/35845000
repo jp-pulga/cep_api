@@ -1,12 +1,11 @@
 {
-  "cep": "35845000",
-  "logradouro": "Santana do Riacho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santana do Riacho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35845000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santana do Riacho"
+    },
+    "ibge": 3159001
 }

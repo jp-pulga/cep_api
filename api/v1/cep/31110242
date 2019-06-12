@@ -1,12 +1,12 @@
 {
-  "cep": "31110242",
-  "logradouro": "Rua Pitangui de 746 a 1158 - lado par",
-  "bairro": "Colégio Batista",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colégio Batista;",
+    "cep": "31110242",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pitangui - de 746 a 1158 - lado par;"
 }

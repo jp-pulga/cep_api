@@ -1,12 +1,13 @@
 {
-  "cep": "35388972",
-  "logradouro": "AC Santo Antônio do Grama Praça Francisco Luiz Pinto Moreira 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Grama",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35388972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Antônio do Grama"
+    },
+    "ibge": 3160108,
+    "logradouro": "Praça Francisco Luiz Pinto Moreira, 68  AC Santo Antônio do Grama;"
 }

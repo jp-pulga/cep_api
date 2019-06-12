@@ -1,12 +1,12 @@
 {
-  "cep": "35700850",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "35700850",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

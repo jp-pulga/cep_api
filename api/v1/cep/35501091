@@ -1,12 +1,12 @@
 {
-  "cep": "35501091",
-  "logradouro": "Rua Ribeirão Vermelho",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "35501091",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Ribeirão Vermelho;"
 }

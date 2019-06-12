@@ -1,12 +1,12 @@
 {
-  "cep": "35500173",
-  "logradouro": "Rua Sacramento",
-  "bairro": "Bom Pastor",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Pastor;",
+    "cep": "35500173",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Sacramento;"
 }

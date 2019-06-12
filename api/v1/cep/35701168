@@ -1,12 +1,12 @@
 {
-  "cep": "35701168",
-  "logradouro": "Rua Santa Rita do Sapucaí",
-  "bairro": "Vale das Palmeiras",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale das Palmeiras;",
+    "cep": "35701168",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Santa Rita do Sapucaí;"
 }

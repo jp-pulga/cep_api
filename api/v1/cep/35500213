@@ -1,12 +1,12 @@
 {
-  "cep": "35500213",
-  "logradouro": "Rua de Recreio",
-  "bairro": "São Luís",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Luís;",
+    "cep": "35500213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua de Recreio;"
 }

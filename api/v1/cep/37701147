@@ -1,12 +1,12 @@
 {
-  "cep": "37701147",
-  "logradouro": "Rua José Augusto Resende",
-  "bairro": "Jardim Santa Rita",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Santa Rita;",
+    "cep": "37701147",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua José Augusto Resende;"
 }

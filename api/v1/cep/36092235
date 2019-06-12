@@ -1,12 +1,12 @@
 {
-  "cep": "36092235",
-  "logradouro": "Avenida Presidente Juscelino Kubitscheck de 9000/9001 ao fim",
-  "bairro": "Barreira do Triunfo",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barreira do Triunfo;",
+    "cep": "36092235",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitscheck - de 9000\/9001 ao fim;"
 }

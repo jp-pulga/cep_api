@@ -1,12 +1,13 @@
 {
-  "cep": "39529971",
-  "logradouro": "AGC Vila Bem Querer Praça da Matriz 164",
-  "bairro": "Vila Bem Querer",
-  "cidade": {
-    "nome": "Riacho dos Machados",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Bem Querer;",
+    "cep": "39529971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Riacho dos Machados"
+    },
+    "ibge": 3154507,
+    "logradouro": "Praça da Matriz, 164  AGC Vila Bem Querer;"
 }

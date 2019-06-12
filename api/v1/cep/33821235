@@ -1,12 +1,13 @@
 {
-  "cep": "33821235",
-  "logradouro": "Avenida Francisco Bento Rodrigues",
-  "bairro": "Alterosa",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alterosa;",
+    "cep": "33821235",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida Francisco Bento Rodrigues;"
 }

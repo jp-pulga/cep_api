@@ -1,12 +1,12 @@
 {
-  "cep": "37034000",
-  "logradouro": "Rua Haroldo Pompeu",
-  "bairro": "Jardim Áurea",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Áurea;",
+    "cep": "37034000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Haroldo Pompeu;"
 }

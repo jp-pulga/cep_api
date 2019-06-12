@@ -1,12 +1,13 @@
 {
-  "cep": "34710620",
-  "logradouro": "Avenida Amália",
-  "bairro": "Vila Nova Vista",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Nova Vista;",
+    "cep": "34710620",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Amália;"
 }

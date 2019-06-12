@@ -1,12 +1,13 @@
 {
-  "cep": "37195970",
-  "logradouro": "AC Santana da Vargem Avenida Brasil 85",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana da Vargem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37195970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santana da Vargem"
+    },
+    "ibge": 3158300,
+    "logradouro": "Avenida Brasil, 85  AC Santana da Vargem;"
 }

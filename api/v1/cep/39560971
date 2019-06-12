@@ -1,12 +1,13 @@
 {
-  "cep": "39560971",
-  "logradouro": "UD Salinas Rua Mendo Correia 79",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salinas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39560971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Salinas"
+    },
+    "ibge": 3157005,
+    "logradouro": "Avenida João Pena Sobrinho, 290  CDD Salinas;"
 }

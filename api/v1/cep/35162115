@@ -1,12 +1,12 @@
 {
-  "cep": "35162115",
-  "logradouro": "Rua Rubelita",
-  "bairro": "Jardim Panorama",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Panorama;",
+    "cep": "35162115",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Rubelita;"
 }

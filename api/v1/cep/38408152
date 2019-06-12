@@ -1,12 +1,12 @@
 {
-  "cep": "38408152",
-  "logradouro": "Avenida José Rezende Costa de 607/608 ao fim",
-  "bairro": "Saraiva",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Saraiva;",
+    "cep": "38408152",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida José Rezende Costa - de 607\/608 ao fim;"
 }

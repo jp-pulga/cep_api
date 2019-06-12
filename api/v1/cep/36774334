@@ -1,12 +1,12 @@
 {
-  "cep": "36774334",
-  "logradouro": "Rua Aquiles Fialho",
-  "bairro": "Pouso Alegre",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pouso Alegre;",
+    "cep": "36774334",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua Aquiles Fialho;"
 }

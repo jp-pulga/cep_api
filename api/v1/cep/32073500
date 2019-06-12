@@ -1,12 +1,12 @@
 {
-  "cep": "32073500",
-  "logradouro": "Rua Ressaquinha",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "32073500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Ressaquinha;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35230970",
-  "logradouro": "AC Resplendor Rua Ricardino Belarmino de Castro 53",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Resplendor",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35230970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Resplendor"
+    },
+    "ibge": 3154309,
+    "logradouro": "Rua Ricardino Belarmino de Castro, 53  AC Resplendor;"
 }

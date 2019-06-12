@@ -1,12 +1,11 @@
 {
-  "cep": "35225000",
-  "logradouro": "Santa Rita do Itueto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Rita do Itueto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35225000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita do Itueto"
+    },
+    "ibge": 3159506
 }

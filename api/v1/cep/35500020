@@ -1,12 +1,12 @@
 {
-  "cep": "35500020",
-  "logradouro": "Rua Salinas até 1199/1200",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35500020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Salinas - até 1199\/1200;"
 }

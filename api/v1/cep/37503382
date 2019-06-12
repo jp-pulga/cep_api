@@ -1,12 +1,12 @@
 {
-  "cep": "37503382",
-  "logradouro": "Rua Pouso Alto",
-  "bairro": "Rebourgeon",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rebourgeon;",
+    "cep": "37503382",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Pouso Alto;"
 }

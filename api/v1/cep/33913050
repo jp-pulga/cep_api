@@ -1,12 +1,13 @@
 {
-  "cep": "33913050",
-  "logradouro": "Avenida das Acácias",
-  "bairro": "Nossa Senhora da Piedade (Justinópolis)",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora da Piedade (Justinópolis);",
+    "cep": "33913050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "ibge": 3154606,
+    "logradouro": "Avenida das Acácias;"
 }

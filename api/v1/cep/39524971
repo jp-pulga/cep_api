@@ -1,12 +1,13 @@
 {
-  "cep": "39524971",
-  "logradouro": "AGC Mocambinho (Porteirinha) Rua Principal 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mocambinho (Porteirinha)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mocambinho\/Mocambinho",
+    "cep": "39524971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Porteirinha"
+    },
+    "ibge": 3152204,
+    "logradouro": "Rua Principal, 12  AGC Mocambinho (Porteirinha);"
 }

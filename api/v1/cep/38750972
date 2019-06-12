@@ -1,12 +1,13 @@
 {
-  "cep": "38750972",
-  "logradouro": "AGC Santiago de Minas Rodovia Santiago Galena s/n",
-  "bairro": "Santiago de Minas",
-  "cidade": {
-    "nome": "Presidente Olegário",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santiago de Minas;",
+    "cep": "38750972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Presidente Olegário"
+    },
+    "ibge": 3153400,
+    "logradouro": "Rodovia Santiago Galena, s\/n  AGC Santiago de Minas;"
 }

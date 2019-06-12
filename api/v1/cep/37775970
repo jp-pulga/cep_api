@@ -1,12 +1,13 @@
 {
-  "cep": "37775970",
-  "logradouro": "AC Santa Rita de Caldas Rua João Batista Filho 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37775970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Rita de Caldas"
+    },
+    "ibge": 3159209,
+    "logradouro": "Rua João Batista Filho, 52  AC Santa Rita de Caldas;"
 }

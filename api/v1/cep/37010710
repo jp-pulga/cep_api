@@ -1,12 +1,12 @@
 {
-  "cep": "37010710",
-  "logradouro": "Rua Presidente Arthur Bernardes",
-  "bairro": "Vila Pinto",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Pinto;",
+    "cep": "37010710",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Presidente Arthur Bernardes;"
 }

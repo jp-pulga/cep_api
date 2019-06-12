@@ -1,12 +1,12 @@
 {
-  "cep": "35701405",
-  "logradouro": "Rua Cidade Ribeirão Vermelho",
-  "bairro": "Monte Carlo",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Carlo;",
+    "cep": "35701405",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Cidade Ribeirão Vermelho;"
 }

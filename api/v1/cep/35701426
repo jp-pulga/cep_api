@@ -1,12 +1,12 @@
 {
-  "cep": "35701426",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "Emília",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Emília;",
+    "cep": "35701426",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35901072",
-  "logradouro": "Rua Maria Helena Silveira",
-  "bairro": "Santa Ruth",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Ruth;",
+    "cep": "35901072",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Maria Helena Silveira;"
 }

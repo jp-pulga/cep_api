@@ -1,12 +1,12 @@
 {
-  "cep": "30550220",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "Salgado Filho",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Salgado Filho;",
+    "cep": "30550220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

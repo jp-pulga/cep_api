@@ -1,12 +1,13 @@
 {
-  "cep": "35940970",
-  "logradouro": "AC Rio Piracicaba Rua Tiradentes 110",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Piracicaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35940970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Piracicaba"
+    },
+    "ibge": 3155702,
+    "logradouro": "Rua Tiradentes, 110  AC Rio Piracicaba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36335975",
-  "logradouro": "AGC Restinga de Cima Pátio da Escola Municipal Maria Augusta Rodrigues s/n",
-  "bairro": "Restinga de Cima",
-  "cidade": {
-    "nome": "Ritápolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Restinga de Cima;",
+    "cep": "36335975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ritápolis"
+    },
+    "ibge": 3156106,
+    "logradouro": "Pátio da Escola Municipal Maria Augusta Rodrigues, s\/n  AGC Restinga de Cima;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35162111",
-  "logradouro": "Rua Prata",
-  "bairro": "Iguaçu",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Iguaçu;",
+    "cep": "35162111",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Prata;"
 }

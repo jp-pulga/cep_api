@@ -1,12 +1,12 @@
 {
-  "cep": "35701004",
-  "logradouro": "Rua Santa Juliana",
-  "bairro": "Braz Filizola",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Braz Filizola;",
+    "cep": "35701004",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Santa Juliana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36081000",
-  "logradouro": "Avenida Presidente Juscelino Kubitscheck até 2199/2200",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "36081000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitscheck - até 2199\/2200;"
 }

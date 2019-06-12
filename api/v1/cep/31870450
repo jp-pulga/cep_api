@@ -1,12 +1,12 @@
 {
-  "cep": "31870450",
-  "logradouro": "Rua Dom Rezende Costa",
-  "bairro": "Belmonte",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belmonte;",
+    "cep": "31870450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Dom Rezende Costa;"
 }

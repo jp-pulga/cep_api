@@ -1,12 +1,12 @@
 {
-  "cep": "31010074",
-  "logradouro": "Rua Salinas de 1090 ao fim - lado par",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "31010074",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Salinas - de 1090 ao fim - lado par;"
 }

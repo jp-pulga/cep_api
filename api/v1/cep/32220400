@@ -1,12 +1,12 @@
 {
-  "cep": "32220400",
-  "logradouro": "Rua Pompéu",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "32220400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Pompéu;"
 }

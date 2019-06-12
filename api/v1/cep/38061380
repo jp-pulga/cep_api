@@ -1,12 +1,12 @@
 {
-  "cep": "38061380",
-  "logradouro": "Rua Vitória",
-  "bairro": "Santa Marta",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Marta;",
+    "cep": "38061380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Vitória;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36045580",
-  "logradouro": "Rua da Vitória",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "36045580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua da Vitória;"
 }

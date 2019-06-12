@@ -1,12 +1,13 @@
 {
-  "cep": "33031010",
-  "logradouro": "Avenida A",
-  "bairro": "Novo Centro",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Novo Centro;",
+    "cep": "33031010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Avenida A;"
 }

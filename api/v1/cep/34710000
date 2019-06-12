@@ -1,12 +1,13 @@
 {
-  "cep": "34710000",
-  "logradouro": "Avenida Contagem",
-  "bairro": "Vila Nova Vista",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ana Lúcia;",
+    "cep": "34710000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Contagem;"
 }

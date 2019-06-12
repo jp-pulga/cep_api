@@ -1,12 +1,13 @@
 {
-  "cep": "34400971",
-  "logradouro": "AC Raposos Rua Bolivar de Freitas 104",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Raposos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "34400971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Raposos"
+    },
+    "ibge": 3153905,
+    "logradouro": "Rua Bolivar de Freitas, 104  AC Raposos;"
 }

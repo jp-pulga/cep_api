@@ -1,12 +1,13 @@
 {
-  "cep": "39615973",
-  "logradouro": "AC Ponto dos Volantes Praça Sinvaldo Chagas Melo 70",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponto dos Volantes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39615973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponto dos Volantes"
+    },
+    "ibge": 3152170,
+    "logradouro": "Praça Sinvaldo Chagas Melo, 70  AC Ponto dos Volantes;"
 }

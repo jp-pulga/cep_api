@@ -1,12 +1,13 @@
 {
-  "cep": "34700100",
-  "logradouro": "Avenida Cardoso de Menezes",
-  "bairro": "Rio Negro",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio Negro;",
+    "cep": "34700100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "ibge": 3156700,
+    "logradouro": "Avenida Cardoso de Menezes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36202416",
-  "logradouro": "Rua Margarida A. Calmeto",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "36202416",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Margarida A. Calmeto;"
 }

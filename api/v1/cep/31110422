@@ -1,12 +1,12 @@
 {
-  "cep": "31110422",
-  "logradouro": "Rua Pitangui de 426 a 744 - lado par",
-  "bairro": "Lagoinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoinha;",
+    "cep": "31110422",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pitangui - de 426 a 744 - lado par;"
 }

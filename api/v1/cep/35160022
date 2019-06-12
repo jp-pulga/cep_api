@@ -1,12 +1,12 @@
 {
-  "cep": "35160022",
-  "logradouro": "Rua Sabará",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35160022",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Sabará;"
 }

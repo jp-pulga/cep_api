@@ -1,12 +1,13 @@
 {
-  "cep": "33045160",
-  "logradouro": "Avenida Álvaro Sales",
-  "bairro": "Frimisa",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Frimisa;",
+    "cep": "33045160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "ibge": 3157807,
+    "logradouro": "Avenida Álvaro Sales;"
 }

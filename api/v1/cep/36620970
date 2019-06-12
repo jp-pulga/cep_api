@@ -1,12 +1,13 @@
 {
-  "cep": "36620970",
-  "logradouro": "AC Santana do Deserto Praça Mauro Roquete Pinto 157",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Deserto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36620970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santana do Deserto"
+    },
+    "ibge": 3158607,
+    "logradouro": "Praça Mauro Roquete Pinto, 157  AC Santana do Deserto;"
 }

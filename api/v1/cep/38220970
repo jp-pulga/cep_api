@@ -1,12 +1,13 @@
 {
-  "cep": "38220970",
-  "logradouro": "AC Planura Avenida Segismundo Novais 362",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Planura",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38220970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Planura"
+    },
+    "ibge": 3151602,
+    "logradouro": "Avenida Segismundo Novais, 362  AC Planura;"
 }

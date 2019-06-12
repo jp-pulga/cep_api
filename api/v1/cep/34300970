@@ -1,12 +1,13 @@
 {
-  "cep": "34300970",
-  "logradouro": "AC Rio Acima Avenida Governador Israel Pinheiro Silva 99",
-  "bairro": "Jatobá",
-  "cidade": {
-    "nome": "Rio Acima",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jatobá;",
+    "cep": "34300970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Rio Acima"
+    },
+    "ibge": 3154804,
+    "logradouro": "Avenida Governador Israel Pinheiro Silva, 99  AC Rio Acima;"
 }
