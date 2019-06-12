@@ -1,12 +1,12 @@
 {
-  "cep": "35661165",
-  "logradouro": "Rua Frei Junipero",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "35661165",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Frei Junipero;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "09426170",
-  "logradouro": "Praça Nossa Senhora de Fátima",
-  "bairro": "Bocaina",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bocaina;",
+    "cep": "09426170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Praça Nossa Senhora de Fátima;"
 }

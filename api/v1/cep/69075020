@@ -1,12 +1,13 @@
 {
-  "cep": "69075020",
-  "logradouro": "Avenida Açaí",
-  "bairro": "Distrito Industrial I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Distrito Industrial I;",
+    "cep": "69075020",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Açaí;"
 }

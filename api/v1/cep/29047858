@@ -1,12 +1,12 @@
 {
-  "cep": "29047858",
-  "logradouro": "Escadaria Idalina Maria da Penha",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "29047858",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria Idalina Maria da Penha;"
 }

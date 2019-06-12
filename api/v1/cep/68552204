@@ -1,12 +1,13 @@
 {
-  "cep": "68552204",
-  "logradouro": "Viela Doutor Paulo",
-  "bairro": "Jardim Umuarama",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Umuarama;",
+    "cep": "68552204",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Viela Doutor Paulo;"
 }

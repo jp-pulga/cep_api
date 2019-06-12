@@ -1,12 +1,12 @@
 {
-  "cep": "47806118",
-  "logradouro": "Rua Piauí de 230/231 ao fim",
-  "bairro": "Vila Regina",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Regina;",
+    "cep": "47806118",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Piauí - de 230\/231 ao fim;"
 }

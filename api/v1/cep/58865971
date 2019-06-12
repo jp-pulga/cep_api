@@ -1,12 +1,12 @@
 {
-  "cep": "58865971",
-  "logradouro": "AGC São Bentinho Rua Severino Pedro de Almeida s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bento",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58865971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Bento"
+    },
+    "logradouro": "Rua Severino Pedro de Almeida, s\/n  AGC São Bentinho;"
 }

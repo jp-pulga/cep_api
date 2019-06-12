@@ -1,12 +1,11 @@
 {
-  "cep": "57780000",
-  "logradouro": "Capela",
-  "bairro": "",
-  "cidade": {
-    "nome": "Capela",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57780000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Capela"
+    },
+    "ibge": 2701704
 }

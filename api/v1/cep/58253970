@@ -1,12 +1,13 @@
 {
-  "cep": "58253970",
-  "logradouro": "AC Caiçara Rua Francisco Carneiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caiçara",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58253970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Caiçara"
+    },
+    "ibge": 2503605,
+    "logradouro": "Rua Francisco Carneiro, s\/n  AC Caiçara;"
 }

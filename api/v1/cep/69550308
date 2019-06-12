@@ -1,12 +1,13 @@
 {
-  "cep": "69550308",
-  "logradouro": "Avenida Tiradentes de 488 a 756 - lado par",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "69550308",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Avenida Tiradentes - de 488 a 756 - lado par;"
 }

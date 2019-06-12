@@ -1,12 +1,13 @@
 {
-  "cep": "64575970",
-  "logradouro": "AC Jaicós Rua Benedito da Cruz Alencar 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaicós",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64575970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Jaicós"
+    },
+    "ibge": 2205201,
+    "logradouro": "Rua Benedito da Cruz Alencar, 11  AC Jaicós;"
 }

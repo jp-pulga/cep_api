@@ -1,12 +1,11 @@
 {
-  "cep": "69195000",
-  "logradouro": "Boa Vista do Ramos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Boa Vista do Ramos",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69195000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Boa Vista do Ramos"
+    },
+    "ibge": 1300680
 }

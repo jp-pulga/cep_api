@@ -1,12 +1,12 @@
 {
-  "cep": "79103130",
-  "logradouro": "Rua Petrolândia",
-  "bairro": "Vila Sílvia Regina",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Sílvia Regina;",
+    "cep": "79103130",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Petrolândia;"
 }

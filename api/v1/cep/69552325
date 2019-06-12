@@ -1,12 +1,12 @@
 {
-  "cep": "69552325",
-  "logradouro": "Rua 3",
-  "bairro": "Juruá",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Juruá;",
+    "cep": "69552325",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "logradouro": "Rua 3;"
 }

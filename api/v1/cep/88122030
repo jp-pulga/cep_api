@@ -1,12 +1,12 @@
 {
-  "cep": "88122030",
-  "logradouro": "Rua Jorge José Zimmermann",
-  "bairro": "Sertão do Maruim",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sertão do Maruim;",
+    "cep": "88122030",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Jorge José Zimmermann;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69557040",
-  "logradouro": "Beco Tiradentes",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "69557040",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Beco Tiradentes;"
 }

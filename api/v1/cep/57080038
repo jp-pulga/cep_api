@@ -1,12 +1,12 @@
 {
-  "cep": "57080038",
-  "logradouro": "Rua Quebrangulo",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "57080038",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Quebrangulo;"
 }

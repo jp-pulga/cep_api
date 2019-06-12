@@ -1,12 +1,12 @@
 {
-  "cep": "31650070",
-  "logradouro": "Rua Geraldo Pedro dos Santos",
-  "bairro": "Jardim dos Comerciários (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Comerciários (Venda Nova);",
+    "cep": "31650070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Geraldo Pedro dos Santos;"
 }

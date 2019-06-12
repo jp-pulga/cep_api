@@ -1,12 +1,12 @@
 {
-  "cep": "49026180",
-  "logradouro": "Praça Doutor Pedro Garcia Moreno",
-  "bairro": "Grageru",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Grageru;",
+    "cep": "49026180",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Praça Doutor Pedro Garcia Moreno;"
 }

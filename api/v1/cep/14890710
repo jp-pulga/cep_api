@@ -1,12 +1,12 @@
 {
-  "cep": "14890710",
-  "logradouro": "Estrada Antônio Perillo",
-  "bairro": "Vila Buenos Aires",
-  "cidade": {
-    "nome": "Jaboticabal",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Buenos Aires;",
+    "cep": "14890710",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaboticabal"
+    },
+    "logradouro": "Rua Antônio Perillo - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "67030096",
-  "logradouro": "Travessa Cedro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "67030096",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "logradouro": "Travessa Cedro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57039390",
-  "logradouro": "Rua Alto da Boa Vista",
-  "bairro": "Riacho Doce",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Riacho Doce;",
+    "cep": "57039390",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Alto da Boa Vista;"
 }

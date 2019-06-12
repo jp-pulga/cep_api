@@ -1,12 +1,12 @@
 {
-  "cep": "58108535",
-  "logradouro": "Rua das Palmeiras",
-  "bairro": "Parque Esperança",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Parque Esperança;",
+    "cep": "58108535",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua das Palmeiras;"
 }

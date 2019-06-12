@@ -1,12 +1,12 @@
 {
-  "cep": "64218300",
-  "logradouro": "Rua Regeneração",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "64218300",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Regeneração;"
 }

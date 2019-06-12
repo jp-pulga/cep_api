@@ -1,12 +1,13 @@
 {
-  "cep": "64725970",
-  "logradouro": "AGC Ribeira do Piauí Avenida Presidente Médici s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeira do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64725970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Ribeira do Piauí"
+    },
+    "ibge": 2208874,
+    "logradouro": "Avenida Presidente Médici, s\/n  AGC Ribeira do Piauí;"
 }

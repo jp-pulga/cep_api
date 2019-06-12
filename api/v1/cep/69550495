@@ -1,12 +1,13 @@
 {
-  "cep": "69550495",
-  "logradouro": "Beco da Estradinha",
-  "bairro": "Abial",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Abial;",
+    "cep": "69550495",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Beco da Estradinha;"
 }

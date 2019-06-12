@@ -1,12 +1,13 @@
 {
-  "cep": "58401387",
-  "logradouro": "Avenida Janúncio Ferreira",
-  "bairro": "Lauritzen",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Lauritzen;",
+    "cep": "58401387",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Janúncio Ferreira;"
 }

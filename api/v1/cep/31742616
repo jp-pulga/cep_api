@@ -1,12 +1,12 @@
 {
-  "cep": "31742616",
-  "logradouro": "Rua Breno Pereira de Castro",
-  "bairro": "Jardim Felicidade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Felicidade;",
+    "cep": "31742616",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Breno Pereira de Castro;"
 }

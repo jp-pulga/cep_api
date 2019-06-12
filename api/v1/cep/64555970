@@ -1,12 +1,13 @@
 {
-  "cep": "64555970",
-  "logradouro": "AC São José do Peixe Travessa Benedito Mendes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Peixe",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64555970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São José do Peixe"
+    },
+    "ibge": 2210102,
+    "logradouro": "Travessa Benedito Mendes, s\/n  AC São José do Peixe;"
 }

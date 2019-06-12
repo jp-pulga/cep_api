@@ -1,12 +1,12 @@
 {
-  "cep": "69075042",
-  "logradouro": "Travessa Boca do Acre",
-  "bairro": "Distrito Industrial I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Distrito Industrial I;",
+    "cep": "69075042",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Boca do Acre;"
 }

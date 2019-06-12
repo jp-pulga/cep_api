@@ -1,12 +1,12 @@
 {
-  "cep": "03265050",
-  "logradouro": "Rua Sebastião Mena",
-  "bairro": "Vila Divina Pastora",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Divina Pastora;",
+    "cep": "03265050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Sebastião Mena;"
 }

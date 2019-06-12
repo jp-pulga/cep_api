@@ -1,12 +1,13 @@
 {
-  "cep": "57240970",
-  "logradouro": "AC São Miguel dos Campos Praça Padre Júlio de Albuquerque 16",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel dos Campos",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57240970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "São Miguel dos Campos"
+    },
+    "ibge": 2708600,
+    "logradouro": "Praça Padre Júlio de Albuquerque, 16  AC São Miguel dos Campos;"
 }

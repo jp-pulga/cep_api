@@ -1,12 +1,12 @@
 {
-  "cep": "32241350",
-  "logradouro": "Rua Júpiter",
-  "bairro": "Jardim Riacho das Pedras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Riacho das Pedras;",
+    "cep": "32241350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Júpiter;"
 }

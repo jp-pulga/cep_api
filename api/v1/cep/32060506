@@ -1,12 +1,12 @@
 {
-  "cep": "32060506",
-  "logradouro": "Rua Vicente de Paula Belém",
-  "bairro": "Darcy Ribeiro",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Darcy Ribeiro;",
+    "cep": "32060506",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Vicente de Paula Belém;"
 }

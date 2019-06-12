@@ -1,12 +1,12 @@
 {
-  "cep": "58070590",
-  "logradouro": "Travessa Belo Jardim",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cristo Redentor;",
+    "cep": "58070590",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Travessa Belo Jardim;"
 }

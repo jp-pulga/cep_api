@@ -1,12 +1,12 @@
 {
-  "cep": "95577972",
-  "logradouro": "AC Morrinhos do Sul Rua Antônio José Carlos 22",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morrinhos do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95577972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Morrinhos do Sul"
+    },
+    "logradouro": "Rua Antônio José Carlos, 22  AC Morrinhos do Sul;"
 }

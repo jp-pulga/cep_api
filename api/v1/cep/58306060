@@ -1,12 +1,12 @@
 {
-  "cep": "58306060",
-  "logradouro": "Rua Bom Jesus",
-  "bairro": "Sesi",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Sesi;",
+    "cep": "58306060",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Bom Jesus;"
 }

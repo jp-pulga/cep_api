@@ -1,12 +1,12 @@
 {
-  "cep": "30820460",
-  "logradouro": "Rua Padre Tiago Leijen",
-  "bairro": "Jardim São José",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim São José;",
+    "cep": "30820460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Padre Tiago Leijen;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68610000",
-  "logradouro": "Augusto Corrêa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Augusto Corrêa",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68610000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Augusto Corrêa"
+    },
+    "ibge": 1500909
 }

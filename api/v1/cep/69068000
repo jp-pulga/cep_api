@@ -1,12 +1,12 @@
 {
-  "cep": "69068000",
-  "logradouro": "Avenida Tefé",
-  "bairro": "Raiz",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Raiz;",
+    "cep": "69068000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Tefé;"
 }

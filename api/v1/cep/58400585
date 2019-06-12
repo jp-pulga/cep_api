@@ -1,12 +1,12 @@
 {
-  "cep": "58400585",
-  "logradouro": "Avenida Presidente Getúlio Vargas",
-  "bairro": "Prata",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Prata;",
+    "cep": "58400585",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Avenida Presidente Getúlio Vargas;"
 }

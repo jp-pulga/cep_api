@@ -1,12 +1,12 @@
 {
-  "cep": "05059080",
-  "logradouro": "Praça Manoel Aveiro",
-  "bairro": "Alto da Lapa",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alto da Lapa;",
+    "cep": "05059080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Manoel Aveiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35500509",
-  "logradouro": "Rua Tailândia",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "35500509",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Tailândia;"
 }

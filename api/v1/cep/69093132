@@ -1,12 +1,13 @@
 {
-  "cep": "69093132",
-  "logradouro": "Avenida Samaúma",
-  "bairro": "Monte das Oliveiras",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Monte das Oliveiras;",
+    "cep": "69093132",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Samaúma;"
 }

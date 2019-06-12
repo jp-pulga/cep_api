@@ -1,12 +1,12 @@
 {
-  "cep": "58424254",
-  "logradouro": "Rua Severina de Lucena Cirne",
-  "bairro": "Três Irmãs",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Três Irmãs;",
+    "cep": "58424254",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Severina de Lucena Cirne;"
 }

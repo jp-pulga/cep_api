@@ -1,12 +1,12 @@
 {
-  "cep": "36015110",
-  "logradouro": "Travessa Nossa Senhora da Penha",
-  "bairro": "Jardim Glória",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Glória;",
+    "cep": "36015110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Travessa Nossa Senhora da Penha;"
 }

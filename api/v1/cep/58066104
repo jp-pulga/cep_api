@@ -1,12 +1,12 @@
 {
-  "cep": "58066104",
-  "logradouro": "Rua Frei Damião",
-  "bairro": "Muçumagro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Muçumagro;",
+    "cep": "58066104",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Frei Damião;"
 }

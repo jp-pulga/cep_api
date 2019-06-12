@@ -1,12 +1,11 @@
 {
-  "cep": "68385000",
-  "logradouro": "Tucumã",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tucumã",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68385000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucumã"
+    },
+    "ibge": 1508084
 }

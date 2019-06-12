@@ -1,12 +1,12 @@
 {
-  "cep": "35661198",
-  "logradouro": "Rua Francisco de Almeida",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "35661198",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Francisco de Almeida;"
 }

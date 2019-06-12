@@ -1,12 +1,12 @@
 {
-  "cep": "14887232",
-  "logradouro": "Avenida Julio Cesar de Marco",
-  "bairro": "Jardim São Marcos II",
-  "cidade": {
-    "nome": "Jaboticabal",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Marcos II;",
+    "cep": "14887232",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaboticabal"
+    },
+    "logradouro": "Avenida Julio Cesar de Marco;"
 }

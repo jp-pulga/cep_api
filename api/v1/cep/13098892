@@ -1,12 +1,12 @@
 {
-  "cep": "13098892",
-  "logradouro": "Rua Aparecida Maria Alonso Barreto",
-  "bairro": "Jardim Monte Belo",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Monte Belo;",
+    "cep": "13098892",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Aparecida Maria Alonso Barreto;"
 }

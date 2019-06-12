@@ -1,12 +1,12 @@
 {
-  "cep": "13420542",
-  "logradouro": "Rua Pedro Ferraz Pacheco (Cidade Maracanã)",
-  "bairro": "Piracicamirim",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Piracicamirim;",
+    "cep": "13420542",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Pedro Ferraz Pacheco (Cidade Maracanã);"
 }

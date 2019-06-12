@@ -1,12 +1,12 @@
 {
-  "cep": "69065320",
-  "logradouro": "Beco Maués",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cachoeirinha;",
+    "cep": "69065320",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Maués;"
 }

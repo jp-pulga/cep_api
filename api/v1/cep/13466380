@@ -1,12 +1,12 @@
 {
-  "cep": "13466380",
-  "logradouro": "Rua Humaitá",
-  "bairro": "Vila Galo",
-  "cidade": {
-    "nome": "Americana",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Galo;",
+    "cep": "13466380",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Americana"
+    },
+    "logradouro": "Rua Humaitá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69057785",
-  "logradouro": "Beco Tefé",
-  "bairro": "Adrianópolis",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Adrianópolis;",
+    "cep": "69057785",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Tefé;"
 }

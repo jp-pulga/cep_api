@@ -1,12 +1,12 @@
 {
-  "cep": "09390722",
-  "logradouro": "Rua Pedro Dias Moreno",
-  "bairro": "Vila Nova Mauá",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Mauá;",
+    "cep": "09390722",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Rua Pedro Dias Moreno;"
 }

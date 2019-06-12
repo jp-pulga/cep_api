@@ -1,12 +1,12 @@
 {
-  "cep": "58417330",
-  "logradouro": "Rua Felizardo Ribeiro",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "58417330",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Felizardo Ribeiro;"
 }

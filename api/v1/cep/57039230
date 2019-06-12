@@ -1,12 +1,13 @@
 {
-  "cep": "57039230",
-  "logradouro": "Avenida General Luiz de França Albuquerque (Rodovia AL 101 Norte)",
-  "bairro": "Riacho Doce",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Riacho Doce;",
+    "cep": "57039230",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida General Luiz de França Albuquerque (Rodovia AL 101 Norte);"
 }

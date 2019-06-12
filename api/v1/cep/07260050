@@ -1,12 +1,12 @@
 {
-  "cep": "07260050",
-  "logradouro": "Rua Barcarena",
-  "bairro": "Parque São Miguel",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Miguel;",
+    "cep": "07260050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Barcarena;"
 }

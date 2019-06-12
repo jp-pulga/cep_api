@@ -1,12 +1,13 @@
 {
-  "cep": "64455970",
-  "logradouro": "AC Barro Duro Avenida Coronel Benedito da Luz 625",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barro Duro",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64455970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Barro Duro"
+    },
+    "ibge": 2201408,
+    "logradouro": "Avenida Coronel Benedito da Luz, 625  AC Barro Duro;"
 }

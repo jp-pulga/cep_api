@@ -1,12 +1,12 @@
 {
-  "cep": "04823230",
-  "logradouro": "Rua César Evaristo Leite",
-  "bairro": "Parque Alto do Rio Bonito",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Alto do Rio Bonito;",
+    "cep": "04823230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua César Evaristo Leite;"
 }

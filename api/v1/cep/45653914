@@ -1,12 +1,12 @@
 {
-  "cep": "45653914",
-  "logradouro": "Larupe Calçados Rua Dom Pedro II 16",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45653914",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Dom Pedro II, 16  Larupe Calçados;"
 }

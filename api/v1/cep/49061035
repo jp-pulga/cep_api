@@ -1,12 +1,12 @@
 {
-  "cep": "49061035",
-  "logradouro": "Rua Siriri",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "49061035",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Siriri;"
 }

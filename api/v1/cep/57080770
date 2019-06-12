@@ -1,12 +1,13 @@
 {
-  "cep": "57080770",
-  "logradouro": "Rua Doutor Albert Bruce Sabin",
-  "bairro": "Jardim Petrópolis",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jardim Petrópolis;",
+    "cep": "57080770",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Doutor Albert Bruce Sabim;"
 }

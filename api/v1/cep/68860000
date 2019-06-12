@@ -1,12 +1,11 @@
 {
-  "cep": "68860000",
-  "logradouro": "Salvaterra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Salvaterra",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68860000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Salvaterra"
+    },
+    "ibge": 1506302
 }

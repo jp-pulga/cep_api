@@ -1,12 +1,13 @@
 {
-  "cep": "64645970",
-  "logradouro": "AC Francisco Santos Rua Amadeu Rodrigues 118",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Francisco Santos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64645970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Francisco Santos"
+    },
+    "ibge": 2204204,
+    "logradouro": "Rua Amadeu Rodrigues, 118  AC Francisco Santos;"
 }

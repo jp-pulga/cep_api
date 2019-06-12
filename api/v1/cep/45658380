@@ -1,12 +1,12 @@
 {
-  "cep": "45658380",
-  "logradouro": "Rua Nossa Senhora de Lourdes",
-  "bairro": "Iguape",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Iguape;",
+    "cep": "45658380",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Nossa Senhora de Lourdes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69070718",
-  "logradouro": "Beco Almirante Guillen",
-  "bairro": "Colônia Oliveira Machado",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Colônia Oliveira Machado;",
+    "cep": "69070718",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Beco Almirante Guillen;"
 }

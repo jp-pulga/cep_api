@@ -1,12 +1,13 @@
 {
-  "cep": "58297970",
-  "logradouro": "AC Rio Tinto Avenida José Cláudio de Carvalho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Tinto",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58297970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Rio Tinto"
+    },
+    "ibge": 2512903,
+    "logradouro": "Avenida Manoel Gonçalves, s\/n  AC Rio Tinto;"
 }

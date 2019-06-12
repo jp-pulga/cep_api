@@ -1,12 +1,13 @@
 {
-  "cep": "64450970",
-  "logradouro": "AC Monsenhor Gil Praça Doutor Noronha Almeida 69",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monsenhor Gil",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64450970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Monsenhor Gil"
+    },
+    "ibge": 2206407,
+    "logradouro": "Praça Doutor Noronha Almeida, 69  AC Monsenhor Gil;"
 }

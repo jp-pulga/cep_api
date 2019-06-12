@@ -1,12 +1,13 @@
 {
-  "cep": "58458970",
-  "logradouro": "AC Barra de Santana Rua Conselheiro José Brás do Rêgo 108",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra de Santana",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58458970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Barra de Santana"
+    },
+    "ibge": 2501575,
+    "logradouro": "Rua Conselheiro José Brás do Rêgo, 108  AC Barra de Santana;"
 }

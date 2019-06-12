@@ -1,12 +1,12 @@
 {
-  "cep": "93046420",
-  "logradouro": "Rua Alberto Adolpho Fruchtenicht",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "93046420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Alberto Adolpho Fruchtenicht;"
 }

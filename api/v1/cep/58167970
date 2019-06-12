@@ -1,12 +1,13 @@
 {
-  "cep": "58167970",
-  "logradouro": "AC Cubati Rua Manoel de Barros 200",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cubati",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58167970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cubati"
+    },
+    "ibge": 2505006,
+    "logradouro": "Rua Manoel de Barros, 200  AC Cubati;"
 }

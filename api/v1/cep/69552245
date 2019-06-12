@@ -1,12 +1,12 @@
 {
-  "cep": "69552245",
-  "logradouro": "Rua 15 de Junho",
-  "bairro": "Juruá",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Juruá;",
+    "cep": "69552245",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "logradouro": "Rua 15 de Junho;"
 }

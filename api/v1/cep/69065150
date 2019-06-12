@@ -1,12 +1,12 @@
 {
-  "cep": "69065150",
-  "logradouro": "Rua Japurá",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cachoeirinha;",
+    "cep": "69065150",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Japurá;"
 }

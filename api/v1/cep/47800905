@@ -1,12 +1,12 @@
 {
-  "cep": "47800905",
-  "logradouro": "Prefeitura Municipal de Barreiras Avenida Clériston Andrade 229",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47800905",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Avenida Clériston Andrade, 229  Prefeitura Municipal de Barreiras;"
 }

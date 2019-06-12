@@ -1,12 +1,12 @@
 {
-  "cep": "58706590",
-  "logradouro": "Rua Aluízio Lima",
-  "bairro": "Salgadinho",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Salgadinho;",
+    "cep": "58706590",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "logradouro": "Rua Aluízio Lima;"
 }

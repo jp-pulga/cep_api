@@ -1,12 +1,12 @@
 {
-  "cep": "09433130",
-  "logradouro": "Rua Almir Ribeiro",
-  "bairro": "Pilar Velho",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pilar Velho;",
+    "cep": "09433130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Almir Ribeiro;"
 }

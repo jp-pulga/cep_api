@@ -1,12 +1,12 @@
 {
-  "cep": "04423000",
-  "logradouro": "Avenida Senador Vitorino Freire",
-  "bairro": "Jardim Melo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Melo;",
+    "cep": "04423000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Senador Vitorino Freire;"
 }

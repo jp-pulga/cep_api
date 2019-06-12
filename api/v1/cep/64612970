@@ -1,12 +1,13 @@
 {
-  "cep": "64612970",
-  "logradouro": "AC Aroeiras do Itaim Rua Aristarco Pereira 238",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aroeiras do Itaim",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64612970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Aroeiras do Itaim"
+    },
+    "ibge": 2200954,
+    "logradouro": "Rua Aristarco Pereira, 238  AC Aroeiras do Itaim;"
 }

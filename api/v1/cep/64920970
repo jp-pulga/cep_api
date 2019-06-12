@@ -1,12 +1,12 @@
 {
-  "cep": "64920970",
-  "logradouro": "AC Cristino Castro Avenida Marcos Parente s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cristino Castro",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64920970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cristino Castro"
+    },
+    "logradouro": "Avenida Marcos Parente, s\/n  AC Cristino Castro;"
 }

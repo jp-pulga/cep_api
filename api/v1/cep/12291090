@@ -1,12 +1,12 @@
 {
-  "cep": "12291090",
-  "logradouro": "Rua Pintor Pedro Américode Figueiredo e Melo",
-  "bairro": "Chácara Itamarati",
-  "cidade": {
-    "nome": "Caçapava",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Itamarati;",
+    "cep": "12291090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caçapava"
+    },
+    "logradouro": "Rua Pintor Pedro Américode Figueiredo e Melo;"
 }

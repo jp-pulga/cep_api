@@ -1,12 +1,12 @@
 {
-  "cep": "29314781",
-  "logradouro": "Rua Estanislau Almeida de Souza",
-  "bairro": "Monte Belo",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Monte Belo;",
+    "cep": "29314781",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Estanislau Almeida de Souza;"
 }

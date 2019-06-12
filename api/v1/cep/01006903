@@ -1,12 +1,12 @@
 {
-  "cep": "01006903",
-  "logradouro": "Edifício São Francisco Rua Senador Paulo Egídio 15",
-  "bairro": "Sé",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sé;",
+    "cep": "01006903",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Senador Paulo Egídio, 15  Edifício São Francisco;"
 }

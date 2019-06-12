@@ -1,12 +1,12 @@
 {
-  "cep": "35660692",
-  "logradouro": "Rua Edson Mendonça Melgaço",
-  "bairro": "Rodoviário",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rodoviário;",
+    "cep": "35660692",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Edson Mendonça Melgaço;"
 }

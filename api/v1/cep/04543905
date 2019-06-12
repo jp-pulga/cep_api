@@ -1,12 +1,12 @@
 {
-  "cep": "04543905",
-  "logradouro": "Edifício Morada dos Cedros Rua Doutor Eduardo de Souza Aranha 191",
-  "bairro": "Vila Nova Conceição",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Conceição;",
+    "cep": "04543905",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Doutor Eduardo de Souza Aranha, 191  Edifício Morada dos Cedros;"
 }

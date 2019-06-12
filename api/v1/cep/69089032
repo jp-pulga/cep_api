@@ -1,12 +1,12 @@
 {
-  "cep": "69089032",
-  "logradouro": "Rua Rio Preto da Eva",
-  "bairro": "Armando Mendes",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Armando Mendes;",
+    "cep": "69089032",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Rio Preto da Eva;"
 }

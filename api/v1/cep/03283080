@@ -1,12 +1,12 @@
 {
-  "cep": "03283080",
-  "logradouro": "Rua Curuaés",
-  "bairro": "Vila Ema",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Ema;",
+    "cep": "03283080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Curuaés;"
 }

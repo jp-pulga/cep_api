@@ -1,12 +1,12 @@
 {
-  "cep": "08295400",
-  "logradouro": "Rua São Gonçalo do Piauí até 378/379",
-  "bairro": "Itaquera",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Itaquera;",
+    "cep": "08295400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua São Gonçalo do Piauí - até 378\/379;"
 }

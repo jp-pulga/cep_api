@@ -1,12 +1,12 @@
 {
-  "cep": "07177030",
-  "logradouro": "Rua Piripiri",
-  "bairro": "Jardim Fátima",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Fátima;",
+    "cep": "07177030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Piripiri;"
 }

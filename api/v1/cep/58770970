@@ -1,12 +1,13 @@
 {
-  "cep": "58770970",
-  "logradouro": "AC Coremas Avenida Capitão Antonio Leite 261",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coremas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58770970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Coremas"
+    },
+    "ibge": 2504801,
+    "logradouro": "Avenida Capitão Antonio Leite, 261  AC Coremas;"
 }

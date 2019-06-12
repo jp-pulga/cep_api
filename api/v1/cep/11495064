@@ -1,12 +1,12 @@
 {
-  "cep": "11495064",
-  "logradouro": "Travessa Cento e Quarenta e Quatro",
-  "bairro": "Morrinhos",
-  "cidade": {
-    "nome": "Guarujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Morrinhos;",
+    "cep": "11495064",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarujá"
+    },
+    "logradouro": "Travessa Cento e Quarenta e Quatro;"
 }

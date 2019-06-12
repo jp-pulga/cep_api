@@ -1,12 +1,12 @@
 {
-  "cep": "35680314",
-  "logradouro": "Rua Cezário Augusto de Faria",
-  "bairro": "Morada Nova",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morada Nova;",
+    "cep": "35680314",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Cezário Augusto de Faria;"
 }

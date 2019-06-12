@@ -1,12 +1,12 @@
 {
-  "cep": "68181477",
-  "logradouro": "Rua Dom Pedro I",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Itaituba",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bom Jardim;",
+    "cep": "68181477",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Itaituba"
+    },
+    "logradouro": "Rua Dom Pedro I;"
 }

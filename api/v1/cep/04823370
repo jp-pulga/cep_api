@@ -1,12 +1,12 @@
 {
-  "cep": "04823370",
-  "logradouro": "Rua Eduardo Carlos Moldenhauser",
-  "bairro": "Parque Alto do Rio Bonito",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Alto do Rio Bonito;",
+    "cep": "04823370",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Eduardo Carlos Moldenhauser;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57073415",
-  "logradouro": "Avenida Alice Karoline",
-  "bairro": "Cidade Universitária",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cidade Universitária;",
+    "cep": "57073415",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Alice Karoline;"
 }

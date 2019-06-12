@@ -1,12 +1,13 @@
 {
-  "cep": "58400165",
-  "logradouro": "Avenida Marechal Floriano Peixoto lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58400165",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Marechal Floriano Peixoto - lado ímpar;"
 }

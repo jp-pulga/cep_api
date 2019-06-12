@@ -1,12 +1,12 @@
 {
-  "cep": "58417200",
-  "logradouro": "Rua José da Guia Lessa Silveira",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "58417200",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua José da Guia Lessa Silveira;"
 }

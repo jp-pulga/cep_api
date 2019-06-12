@@ -1,12 +1,13 @@
 {
-  "cep": "66070810",
-  "logradouro": "Passagem Belém",
-  "bairro": "Terra Firme",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Firme;",
+    "cep": "66070810",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Passagem Belém;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18087323",
-  "logradouro": "Rua Dolores Moreno Petrungaro",
-  "bairro": "Jardim Nova Aparecidinha",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nova Aparecidinha;",
+    "cep": "18087323",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Dolores Moreno Petrungaro;"
 }

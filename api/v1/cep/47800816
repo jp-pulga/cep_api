@@ -1,12 +1,12 @@
 {
-  "cep": "47800816",
-  "logradouro": "Rua Júlio César",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "47800816",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Júlio César;"
 }

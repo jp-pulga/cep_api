@@ -1,12 +1,13 @@
 {
-  "cep": "64560970",
-  "logradouro": "AC Santo Inácio do Piauí Avenida Getúlio Vargas 173",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Inácio do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64560970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Santo Inácio do Piauí"
+    },
+    "ibge": 2209500,
+    "logradouro": "Avenida Getúlio Vargas, 173  AC Santo Inácio do Piauí;"
 }

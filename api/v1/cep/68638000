@@ -1,12 +1,11 @@
 {
-  "cep": "68638000",
-  "logradouro": "Rondon do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rondon do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68638000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Rondon do Pará"
+    },
+    "ibge": 1506187
 }

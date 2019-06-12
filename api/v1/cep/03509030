@@ -1,12 +1,12 @@
 {
-  "cep": "03509030",
-  "logradouro": "Rua Marina Freire",
-  "bairro": "Chácara Seis de Outubro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Seis de Outubro;",
+    "cep": "03509030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Marina Freire;"
 }

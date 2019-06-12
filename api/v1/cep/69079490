@@ -1,12 +1,12 @@
 {
-  "cep": "69079490",
-  "logradouro": "Praça Coari",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69079490",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Praça Coari;"
 }

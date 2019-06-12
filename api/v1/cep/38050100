@@ -1,12 +1,12 @@
 {
-  "cep": "38050100",
-  "logradouro": "Avenida Pará",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "38050100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Avenida Pará;"
 }

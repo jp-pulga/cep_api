@@ -1,12 +1,12 @@
 {
-  "cep": "12410580",
-  "logradouro": "Rua São José",
-  "bairro": "Jardim Rosely",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Rosely;",
+    "cep": "12410580",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Rua São José (Bairro do Campo Alegre);"
 }

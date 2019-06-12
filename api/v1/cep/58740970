@@ -1,12 +1,12 @@
 {
-  "cep": "58740970",
-  "logradouro": "AC Mãe D'Água Rua Luiz Furtado de Figueiredo 30",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mãe D'Água",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58740970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Mãe D'Água"
+    },
+    "logradouro": "Rua Luiz Furtado de Figueiredo, 30  AC Mãe D'Água;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64175970",
-  "logradouro": "AGC Murici dos Portelas Praça da Igreja Matriz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Murici dos Portelas",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64175970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Murici dos Portelas"
+    },
+    "ibge": 2206696,
+    "logradouro": "Praça da Igreja Matriz, s\/n  AGC Murici dos Portelas;"
 }

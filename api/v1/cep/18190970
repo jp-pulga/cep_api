@@ -1,12 +1,12 @@
 {
-  "cep": "18190970",
-  "logradouro": "AC Araçoiaba da Serra Rua 21 de Abril 507",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araçoiaba da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18190970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçoiaba da Serra"
+    },
+    "logradouro": "Rua 21 de Abril, 507  AC Araçoiaba da Serra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69101621",
-  "logradouro": "Rua Urucurituba",
-  "bairro": "Jardim Florestal",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jardim Florestal;",
+    "cep": "69101621",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "logradouro": "Rua Urucurituba;"
 }

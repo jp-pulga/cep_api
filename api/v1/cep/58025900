@@ -1,12 +1,12 @@
 {
-  "cep": "58025900",
-  "logradouro": "Instituto de Previdência do Estado da Paraíba Rua Eugênio Lucena Neiva s/n",
-  "bairro": "Treze de Maio",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Treze de Maio;",
+    "cep": "58025900",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Eugênio Lucena Neiva, s\/n  Instituto de Previdência do Estado da Paraíba;"
 }

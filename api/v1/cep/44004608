@@ -1,12 +1,12 @@
 {
-  "cep": "44004608",
-  "logradouro": "Rua Petrolândia",
-  "bairro": "Jardim Acácia",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Acácia;",
+    "cep": "44004608",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Petrolândia;"
 }

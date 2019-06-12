@@ -1,12 +1,13 @@
 {
-  "cep": "57062752",
-  "logradouro": "Condomínio Lúcio Costa (Cj Monte Alegre)",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "57062752",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Condomínio Lúcio Costa (Cj Monte Alegre);"
 }

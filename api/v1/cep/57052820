@@ -1,12 +1,12 @@
 {
-  "cep": "57052820",
-  "logradouro": "Rua Cedro",
-  "bairro": "Gruta de Lourdes",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Gruta de Lourdes;",
+    "cep": "57052820",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Cedro;"
 }

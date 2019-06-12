@@ -1,12 +1,12 @@
 {
-  "cep": "12412290",
-  "logradouro": "Rua Capitão Luiz Francisco Corrêa Guimarães",
-  "bairro": "Residencial Ouro Verde",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Ouro Verde;",
+    "cep": "12412290",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Rua Capitão Luiz Francisco Corrêa Guimarães;"
 }

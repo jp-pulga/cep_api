@@ -1,12 +1,11 @@
 {
-  "cep": "68285000",
-  "logradouro": "Terra Santa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Terra Santa",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68285000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Terra Santa"
+    },
+    "ibge": 1507979
 }

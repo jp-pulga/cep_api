@@ -1,12 +1,12 @@
 {
-  "cep": "64052772",
-  "logradouro": "Rua José Newton Freitas",
-  "bairro": "Horto",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Horto;",
+    "cep": "64052772",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua José Newton Freitas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58443970",
-  "logradouro": "AGC Lagoa de Dentro Rua São Geraldo s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa de Dentro (Campina Grande)",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro\/Lagoa de Dentro",
+    "cep": "58443970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua São Geraldo, s\/n  AGC Lagoa de Dentro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64052415",
-  "logradouro": "Rua Esperantina",
-  "bairro": "Horto",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Horto;",
+    "cep": "64052415",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Esperantina;"
 }

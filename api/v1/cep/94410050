@@ -1,12 +1,12 @@
 {
-  "cep": "94410050",
-  "logradouro": "Avenida Coronel Marcos de Andrade",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "94410050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Avenida Coronel Marcos de Andrade;"
 }

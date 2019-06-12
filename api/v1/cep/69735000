@@ -1,12 +1,11 @@
 {
-  "cep": "69735000",
-  "logradouro": "Presidente Figueiredo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Presidente Figueiredo",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69735000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Presidente Figueiredo"
+    },
+    "ibge": 1303536
 }

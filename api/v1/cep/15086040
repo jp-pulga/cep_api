@@ -1,12 +1,12 @@
 {
-  "cep": "15086040",
-  "logradouro": "Rua José Secco",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "15086040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua José Secco;"
 }

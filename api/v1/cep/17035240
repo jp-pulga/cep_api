@@ -1,12 +1,12 @@
 {
-  "cep": "17035240",
-  "logradouro": "Rua Pedro Paulo Chaves",
-  "bairro": "Tangarás",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Tangarás;",
+    "cep": "17035240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Pedro Paulo Chaves;"
 }

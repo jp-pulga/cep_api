@@ -1,12 +1,12 @@
 {
-  "cep": "64007645",
-  "logradouro": "Rua Batalha",
-  "bairro": "Real Copagri",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Real Copagri;",
+    "cep": "64007645",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Batalha;"
 }

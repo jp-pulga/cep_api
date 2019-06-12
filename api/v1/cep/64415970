@@ -1,12 +1,13 @@
 {
-  "cep": "64415970",
-  "logradouro": "AC Nazária Rodovia PI 130 km 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nazária",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64415970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Nazária"
+    },
+    "ibge": 2206720,
+    "logradouro": "Rodovia PI 130, km 26  AC Nazária;"
 }

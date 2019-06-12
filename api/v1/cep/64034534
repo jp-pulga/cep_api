@@ -1,12 +1,12 @@
 {
-  "cep": "64034534",
-  "logradouro": "Rua Padre Carvalho",
-  "bairro": "Angelim",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Angelim;",
+    "cep": "64034534",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Padre Carvalho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64022020",
-  "logradouro": "Rua Afonso Pena",
-  "bairro": "Triunfo",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Triunfo;",
+    "cep": "64022020",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Afonso Pena;"
 }

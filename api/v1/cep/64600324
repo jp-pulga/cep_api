@@ -1,12 +1,12 @@
 {
-  "cep": "64600324",
-  "logradouro": "Rua Marcos Parente",
-  "bairro": "Malva",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Malva;",
+    "cep": "64600324",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Marcos Parente;"
 }

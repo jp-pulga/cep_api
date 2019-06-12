@@ -1,12 +1,12 @@
 {
-  "cep": "31970625",
-  "logradouro": "Rua Soldado Valter Pereira",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "31970625",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Soldado Valter Pereira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64000905",
-  "logradouro": "Edifício Raimundo Portela Rua Eliseu Martins 2074",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64000905",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Eliseu Martins, 2074  Edifício Raimundo Portela;"
 }

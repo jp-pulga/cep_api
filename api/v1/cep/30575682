@@ -1,12 +1,12 @@
 {
-  "cep": "30575682",
-  "logradouro": "Rua Padre Orlando Machado",
-  "bairro": "Palmeiras",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmeiras;",
+    "cep": "30575682",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Padre Orlando Machado;"
 }

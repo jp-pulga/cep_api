@@ -1,12 +1,12 @@
 {
-  "cep": "58804025",
-  "logradouro": "Rua Joaquim Andrade Lacerda",
-  "bairro": "Frei Damião",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Frei Damião;",
+    "cep": "58804025",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Joaquim Andrade Lacerda;"
 }

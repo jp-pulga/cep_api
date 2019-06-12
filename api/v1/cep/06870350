@@ -1,12 +1,12 @@
 {
-  "cep": "06870350",
-  "logradouro": "Rua Amâncio Rodrigues Borba",
-  "bairro": "Potuverá",
-  "cidade": {
-    "nome": "Itapecerica da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Potuverá;",
+    "cep": "06870350",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapecerica da Serra"
+    },
+    "logradouro": "Rua Amâncio Rodrigues Borba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58515970",
-  "logradouro": "AGC Zabelê Rua Quitéria Vaz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Zabelê",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58515970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Zabelê"
+    },
+    "ibge": 2517407,
+    "logradouro": "Rua Quitéria Vaz, s\/n  AGC Zabelê;"
 }

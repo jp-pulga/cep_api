@@ -1,12 +1,12 @@
 {
-  "cep": "58020560",
-  "logradouro": "Praça Caldas Brandão",
-  "bairro": "Tambiá",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Tambiá;",
+    "cep": "58020560",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Praça Caldas Brandão;"
 }

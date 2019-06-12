@@ -1,12 +1,12 @@
 {
-  "cep": "68501390",
-  "logradouro": "Rua Piauí",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Marabá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "68501390",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marabá"
+    },
+    "logradouro": "Rua Piauí;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58706532",
-  "logradouro": "Rua Rebeca Furtado Costa Souza",
-  "bairro": "Salgadinho",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Salgadinho;",
+    "cep": "58706532",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "logradouro": "Rua Rebeca Furtado Costa Souza;"
 }

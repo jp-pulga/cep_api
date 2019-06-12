@@ -1,12 +1,13 @@
 {
-  "cep": "58830970",
-  "logradouro": "AC Jericó Rua Bernadino de Freitas 157",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jericó",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58830970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Jericó"
+    },
+    "ibge": 2507408,
+    "logradouro": "Rua Bernadino de Freitas, 157  AC Jericó;"
 }

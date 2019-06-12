@@ -1,12 +1,12 @@
 {
-  "cep": "05180240",
-  "logradouro": "Rua Igarapé-Açu",
-  "bairro": "Jaraguá",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jaraguá;",
+    "cep": "05180240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Igarapé-Açu;"
 }

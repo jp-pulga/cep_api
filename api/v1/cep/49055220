@@ -1,12 +1,12 @@
 {
-  "cep": "49055220",
-  "logradouro": "Rua Divina Pastora de 901/902 ao fim",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Getúlio Vargas;",
+    "cep": "49055220",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Divina Pastora - de 901\/902 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30260448",
-  "logradouro": "Beco Monte Alegre",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Lucas;",
+    "cep": "30260448",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Monte Alegre;"
 }

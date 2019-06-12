@@ -1,12 +1,13 @@
 {
-  "cep": "64793970",
-  "logradouro": "AC Coronel José Dias Avenida Juscelino Kubitschek s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coronel José Dias",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64793970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Coronel José Dias"
+    },
+    "ibge": 2202851,
+    "logradouro": "Avenida Juscelino Kubitschek, s\/n  AC Coronel José Dias;"
 }

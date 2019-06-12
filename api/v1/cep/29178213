@@ -1,12 +1,12 @@
 {
-  "cep": "29178213",
-  "logradouro": "Rua Laranjeiras",
-  "bairro": "Planalto Serrano Bloco A",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Planalto Serrano;",
+    "cep": "29178213",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Laranjeiras (Bloco A);"
 }

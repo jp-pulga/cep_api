@@ -1,12 +1,12 @@
 {
-  "cep": "58417270",
-  "logradouro": "Rua Engenheiro Luís Carlos Virgulino",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "58417270",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Engenheiro Luís Carlos Virgulino;"
 }

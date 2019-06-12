@@ -1,12 +1,12 @@
 {
-  "cep": "47801081",
-  "logradouro": "Rua Coronel Virgílio",
-  "bairro": "Vila Brasil",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Brasil;",
+    "cep": "47801081",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Coronel Virgílio;"
 }

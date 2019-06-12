@@ -1,12 +1,13 @@
 {
-  "cep": "58102655",
-  "logradouro": "Avenida Ananias Paulino",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "58102655",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "ibge": 2503209,
+    "logradouro": "Avenida Ananias Paulino;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35663496",
-  "logradouro": "Rua Maria Moreira Rios",
-  "bairro": "Residencial Capanema",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Capanema;",
+    "cep": "35663496",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Maria Moreira Rios;"
 }

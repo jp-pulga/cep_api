@@ -1,12 +1,12 @@
 {
-  "cep": "58300780",
-  "logradouro": "Rua Alcides Carneiro",
-  "bairro": "Vila Tibiri",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Vila Tibiri;",
+    "cep": "58300780",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "logradouro": "Rua Alcides Carneiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "16058703",
-  "logradouro": "Rua A",
-  "bairro": "Residencial Jardim Atlântico",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Jardim Atlântico;",
+    "cep": "16058703",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Pedro Flores;"
 }

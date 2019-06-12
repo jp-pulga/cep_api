@@ -1,12 +1,12 @@
 {
-  "cep": "58404796",
-  "logradouro": "Rua Joana Nogueira Barbosa",
-  "bairro": "Cuités",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cuités;",
+    "cep": "58404796",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Joana Nogueira Barbosa;"
 }

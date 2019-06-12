@@ -1,12 +1,12 @@
 {
-  "cep": "04856700",
-  "logradouro": "Rua Pedra Mineira",
-  "bairro": "Jardim das Pedras(Zona Sul)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim das Pedras(Zona Sul);",
+    "cep": "04856700",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pedra Mineira;"
 }

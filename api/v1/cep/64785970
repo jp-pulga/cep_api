@@ -1,12 +1,13 @@
 {
-  "cep": "64785970",
-  "logradouro": "AC Dirceu Arcoverde Praça Antonio Amancio Ribeiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dirceu Arcoverde",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64785970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Dirceu Arcoverde"
+    },
+    "ibge": 2203354,
+    "logradouro": "Praça Antonio Amancio Ribeiro, s\/n  AC Dirceu Arcoverde;"
 }

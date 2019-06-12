@@ -1,12 +1,13 @@
 {
-  "cep": "58238970",
-  "logradouro": "AGC Casserengue Rua Durval Costa Lira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Casserengue",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58238970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Casserengue"
+    },
+    "ibge": 2504157,
+    "logradouro": "Rua Durval Costa Lira, s\/n  AGC Casserengue;"
 }

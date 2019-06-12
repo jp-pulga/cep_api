@@ -1,12 +1,12 @@
 {
-  "cep": "64014528",
-  "logradouro": "Rua Desembargador Antonio Ribeiro de Almeida (Cj C Rei)",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "64014528",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Desembargador Antonio Ribeiro de Almeida (Cj C Rei);"
 }

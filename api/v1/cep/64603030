@@ -1,12 +1,13 @@
 {
-  "cep": "64603030",
-  "logradouro": "Avenida Frei Damião",
-  "bairro": "Belo Norte",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Belo Norte;",
+    "cep": "64603030",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Frei Damião;"
 }

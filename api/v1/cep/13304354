@@ -1,12 +1,12 @@
 {
-  "cep": "13304354",
-  "logradouro": "Alameda dos Cajueiros",
-  "bairro": "Jardim Paraíso II",
-  "cidade": {
-    "nome": "Itu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paraíso II;",
+    "cep": "13304354",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itu"
+    },
+    "logradouro": "Alameda dos Cajueiros;"
 }

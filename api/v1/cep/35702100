@@ -1,12 +1,12 @@
 {
-  "cep": "35702100",
-  "logradouro": "Rua Alfredo Carneiro Santiago",
-  "bairro": "Esmeraldas II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esmeraldas II;",
+    "cep": "35702100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Alfredo Carneiro Santiago;"
 }

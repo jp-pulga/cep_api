@@ -1,12 +1,12 @@
 {
-  "cep": "69035700",
-  "logradouro": "Rua Manicoré",
-  "bairro": "Compensa",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Compensa;",
+    "cep": "69035700",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Manicoré;"
 }

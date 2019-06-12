@@ -1,12 +1,12 @@
 {
-  "cep": "44052562",
-  "logradouro": "Rua Barra do Piraí",
-  "bairro": "Lagoa Grande",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lagoa Grande;",
+    "cep": "44052562",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Barra do Piraí;"
 }

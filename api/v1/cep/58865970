@@ -1,12 +1,13 @@
 {
-  "cep": "58865970",
-  "logradouro": "AC São Bento Rua Ana Maria Ribeiro 212",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Bento",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58865970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Bento"
+    },
+    "ibge": 2513901,
+    "logradouro": "Rua Ana Maria Ribeiro, 212  AC São Bento;"
 }

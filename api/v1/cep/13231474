@@ -1,12 +1,12 @@
 {
-  "cep": "13231474",
-  "logradouro": "Rua Amélia Maria de Jesus Panizza",
-  "bairro": "Residencial Monte Alegre",
-  "cidade": {
-    "nome": "Campo Limpo Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Monte Alegre;",
+    "cep": "13231474",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campo Limpo Paulista"
+    },
+    "logradouro": "Rua Amélia Maria de Jesus Panizza;"
 }

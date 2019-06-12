@@ -1,12 +1,12 @@
 {
-  "cep": "79321532",
-  "logradouro": "Alameda Carneiro",
-  "bairro": "Popular Nova",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Popular Nova;",
+    "cep": "79321532",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Alameda Carneiro;"
 }

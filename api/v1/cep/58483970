@@ -1,12 +1,13 @@
 {
-  "cep": "58483970",
-  "logradouro": "AC Barra de São Miguel Rua João Pinto da Silva 109",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra de São Miguel",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58483970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Barra de São Miguel"
+    },
+    "ibge": 2501708,
+    "logradouro": "Rua João Pinto da Silva, 109  AC Barra de São Miguel;"
 }

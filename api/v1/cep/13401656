@@ -1,12 +1,12 @@
 {
-  "cep": "13401656",
-  "logradouro": "Rua João Pessoa (Jardim Costa Rica)",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "13401656",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua João Pessoa (Jardim Costa Rica);"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "69230000",
-  "logradouro": "Nova Olinda do Norte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Olinda do Norte",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69230000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Nova Olinda do Norte"
+    },
+    "ibge": 1303106
 }

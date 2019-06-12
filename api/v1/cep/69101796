@@ -1,12 +1,13 @@
 {
-  "cep": "69101796",
-  "logradouro": "Avenida Liberdade de 4511/4512 ao fim",
-  "bairro": "Mamoud Amed",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Mamoud Amed;",
+    "cep": "69101796",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "ibge": 1301902,
+    "logradouro": "Avenida Liberdade - de 4511\/4512 ao fim;"
 }

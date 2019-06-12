@@ -1,12 +1,12 @@
 {
-  "cep": "57080470",
-  "logradouro": "Rua Coruripe",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "57080470",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Coruripe;"
 }

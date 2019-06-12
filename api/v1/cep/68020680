@@ -1,12 +1,12 @@
 {
-  "cep": "68020680",
-  "logradouro": "Rua Tucumã",
-  "bairro": "São José Operário",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São José Operário;",
+    "cep": "68020680",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua Tucumã;"
 }

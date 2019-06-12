@@ -1,12 +1,12 @@
 {
-  "cep": "64058760",
-  "logradouro": "Rua Barra do Corda",
-  "bairro": "Santa Lia",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Santa Lia;",
+    "cep": "64058760",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Barra do Corda;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68695000",
-  "logradouro": "Tailândia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Tailândia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68695000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tailândia"
+    },
+    "ibge": 1507953
 }

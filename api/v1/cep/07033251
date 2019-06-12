@@ -1,12 +1,12 @@
 {
-  "cep": "07033251",
-  "logradouro": "Rua São João do Piauí",
-  "bairro": "Jardim Munhoz",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Munhoz;",
+    "cep": "07033251",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua São João do Piauí;"
 }

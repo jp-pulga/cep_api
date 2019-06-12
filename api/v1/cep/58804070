@@ -1,12 +1,12 @@
 {
-  "cep": "58804070",
-  "logradouro": "Avenida José Gadelha de Oliveira",
-  "bairro": "Frei Damião",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Frei Damião;",
+    "cep": "58804070",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Avenida José Gadelha de Oliveira;"
 }

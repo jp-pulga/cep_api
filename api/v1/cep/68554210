@@ -1,12 +1,13 @@
 {
-  "cep": "68554210",
-  "logradouro": "Rua São Paulo",
-  "bairro": "Aripuana",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Aripuana;",
+    "cep": "68554210",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua São Paulo;"
 }

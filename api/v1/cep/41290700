@@ -1,12 +1,12 @@
 {
-  "cep": "41290700",
-  "logradouro": "Rua VL-3",
-  "bairro": "Pirajá",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pirajá;",
+    "cep": "41290700",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Porto Alegre;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44083660",
-  "logradouro": "Rua Pimenteiras",
-  "bairro": "Lagoa Salgada",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lagoa Salgada;",
+    "cep": "44083660",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Pimenteiras;"
 }

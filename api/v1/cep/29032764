@@ -1,12 +1,12 @@
 {
-  "cep": "29032764",
-  "logradouro": "Rua Pastor Daniel Felipe",
-  "bairro": "Redenção",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Redenção;",
+    "cep": "29032764",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Pastor Daniel Felipe;"
 }

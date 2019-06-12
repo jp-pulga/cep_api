@@ -1,12 +1,13 @@
 {
-  "cep": "68458580",
-  "logradouro": "Passagem Água Doce",
-  "bairro": "Matinha",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Matinha;",
+    "cep": "68458580",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Passagem Água Doce;"
 }

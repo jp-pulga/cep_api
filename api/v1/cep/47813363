@@ -1,12 +1,12 @@
 {
-  "cep": "47813363",
-  "logradouro": "Rua São Domingos",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "47813363",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua São Domingos;"
 }

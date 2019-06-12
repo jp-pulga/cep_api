@@ -1,12 +1,12 @@
 {
-  "cep": "64006275",
-  "logradouro": "Rua Batalha",
-  "bairro": "Água Mineral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Água Mineral;",
+    "cep": "64006275",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Batalha;"
 }

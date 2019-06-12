@@ -1,12 +1,12 @@
 {
-  "cep": "69046120",
-  "logradouro": "Rua Inhapi (Cj Ajuricaba)",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "69046120",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Inhapi;"
 }

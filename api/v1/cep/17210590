@@ -1,12 +1,12 @@
 {
-  "cep": "17210590",
-  "logradouro": "Rua Paulo Francisco Monte Alegre",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Jaú",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "17210590",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaú"
+    },
+    "logradouro": "Rua Paulo Francisco Monte Alegre;"
 }

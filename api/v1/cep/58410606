@@ -1,12 +1,12 @@
 {
-  "cep": "58410606",
-  "logradouro": "Rua Barão da Passagem",
-  "bairro": "Sandra Cavalcante",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Sandra Cavalcante;",
+    "cep": "58410606",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Barão da Passagem;"
 }

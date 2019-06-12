@@ -1,12 +1,12 @@
 {
-  "cep": "96720970",
-  "logradouro": "AGC Morrinhos Avenida Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morrinhos (São Jerônimo)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro\/Morrinhos",
+    "cep": "96720970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Jerônimo"
+    },
+    "logradouro": "Avenida Principal, s\/n  AGC Morrinhos;"
 }

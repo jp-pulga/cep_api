@@ -1,12 +1,11 @@
 {
-  "cep": "68820000",
-  "logradouro": "São Sebastião da Boa Vista",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Sebastião da Boa Vista",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68820000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Sebastião da Boa Vista"
+    },
+    "ibge": 1507706
 }

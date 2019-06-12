@@ -1,12 +1,12 @@
 {
-  "cep": "44571015",
-  "logradouro": "Travessa Independência",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44571015",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "logradouro": "Travessa Independência;"
 }

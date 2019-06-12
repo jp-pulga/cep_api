@@ -1,12 +1,12 @@
 {
-  "cep": "08081150",
-  "logradouro": "Rua Bonito de Santa Fé",
-  "bairro": "Parque Paulistano",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Paulistano;",
+    "cep": "08081150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Bonito de Santa Fé;"
 }

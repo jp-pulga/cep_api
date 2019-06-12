@@ -1,12 +1,13 @@
 {
-  "cep": "57062730",
-  "logradouro": "Rua Djalma Fragoso de Alencar",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "57062730",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Djalma Fragoso de Alencar;"
 }

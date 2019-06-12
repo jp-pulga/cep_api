@@ -1,12 +1,12 @@
 {
-  "cep": "69059590",
-  "logradouro": "Rua Angelim-Pedra",
-  "bairro": "Santa Etelvina",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santa Etelvina;",
+    "cep": "69059590",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Angelim-Pedra;"
 }

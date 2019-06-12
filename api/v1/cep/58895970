@@ -1,12 +1,12 @@
 {
-  "cep": "58895970",
-  "logradouro": "AC Belém do Brejo do Cruz Rua Cônego José Viana 139",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belém do Brejo do Cruz",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58895970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Belém do Brejo do Cruz"
+    },
+    "logradouro": "Rua Cônego José Viana, 139  AC Belém do Brejo do Cruz;"
 }

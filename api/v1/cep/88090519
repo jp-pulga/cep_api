@@ -1,12 +1,12 @@
 {
-  "cep": "88090519",
-  "logradouro": "Servidão Cedro Central",
-  "bairro": "Monte Cristo",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Monte Cristo;",
+    "cep": "88090519",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Servidão Cedro Central;"
 }

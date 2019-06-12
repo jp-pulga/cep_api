@@ -1,12 +1,11 @@
 {
-  "cep": "57955000",
-  "logradouro": "Maragogi",
-  "bairro": "",
-  "cidade": {
-    "nome": "Maragogi",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57955000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maragogi"
+    },
+    "ibge": 2704500
 }

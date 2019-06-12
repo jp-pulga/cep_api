@@ -1,12 +1,12 @@
 {
-  "cep": "32073560",
-  "logradouro": "Rua Araguaia",
-  "bairro": "Petrolândia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrolândia;",
+    "cep": "32073560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Araguaia;"
 }

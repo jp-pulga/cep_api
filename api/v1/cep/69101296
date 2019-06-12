@@ -1,12 +1,12 @@
 {
-  "cep": "69101296",
-  "logradouro": "Rua Álvaro Maia de 2964 a 3470 - lado par",
-  "bairro": "Prainha",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Prainha;",
+    "cep": "69101296",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "logradouro": "Rua Álvaro Maia - de 2964 a 3470 - lado par;"
 }

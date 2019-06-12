@@ -1,12 +1,12 @@
 {
-  "cep": "29052078",
-  "logradouro": "Escadaria Pedro Rodrigues Barbosa",
-  "bairro": "Jesus de Nazareth",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jesus de Nazareth;",
+    "cep": "29052078",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria Pedro Rodrigues Barbosa;"
 }

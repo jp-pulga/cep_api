@@ -1,12 +1,12 @@
 {
-  "cep": "35661758",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Tavares de Minas",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tavares de Minas;",
+    "cep": "35661758",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

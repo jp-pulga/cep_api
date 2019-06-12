@@ -1,12 +1,12 @@
 {
-  "cep": "44050440",
-  "logradouro": "Rua Picos",
-  "bairro": "Queimadinha",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Queimadinha;",
+    "cep": "44050440",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Picos;"
 }

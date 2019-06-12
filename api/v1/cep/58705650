@@ -1,12 +1,13 @@
 {
-  "cep": "58705650",
-  "logradouro": "Avenida das Laranjeiras",
-  "bairro": "Jardim Magnólia",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Magnólia;",
+    "cep": "58705650",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida das Laranjeiras;"
 }

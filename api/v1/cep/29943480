@@ -1,12 +1,12 @@
 {
-  "cep": "29943480",
-  "logradouro": "Rua São Domingos do Norte",
-  "bairro": "Ayrton Senna",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ayrton Senna;",
+    "cep": "29943480",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São Domingos do Norte;"
 }

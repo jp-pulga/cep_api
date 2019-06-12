@@ -1,12 +1,12 @@
 {
-  "cep": "78720265",
-  "logradouro": "Avenida Paraíba",
-  "bairro": "Jardim Marialva",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Marialva;",
+    "cep": "78720265",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Paraíba;"
 }

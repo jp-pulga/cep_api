@@ -1,12 +1,12 @@
 {
-  "cep": "18212201",
-  "logradouro": "Rua Capela do Alto",
-  "bairro": "Vila Arruda",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Arruda;",
+    "cep": "18212201",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Capela do Alto;"
 }

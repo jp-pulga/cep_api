@@ -1,12 +1,13 @@
 {
-  "cep": "57062744",
-  "logradouro": "Condomínio Dom Elder (Cj Monte Alegre)",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "57062744",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Condomínio Dom Elder (Cj Monte Alegre);"
 }

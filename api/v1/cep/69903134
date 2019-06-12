@@ -1,12 +1,12 @@
 {
-  "cep": "69903134",
-  "logradouro": "Rua Cedro",
-  "bairro": "Parque dos Sabiás",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Parque dos Sabiás;",
+    "cep": "69903134",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Cedro;"
 }

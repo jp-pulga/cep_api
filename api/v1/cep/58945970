@@ -1,12 +1,13 @@
 {
-  "cep": "58945970",
-  "logradouro": "AC Carrapateira Rua Pedro França 69",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carrapateira",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58945970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Carrapateira"
+    },
+    "ibge": 2504108,
+    "logradouro": "Rua Pedro França, 69  AC Carrapateira;"
 }

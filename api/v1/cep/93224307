@@ -1,12 +1,12 @@
 {
-  "cep": "93224307",
-  "logradouro": "Rua da Paz",
-  "bairro": "Sete",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Sete;",
+    "cep": "93224307",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua da Paz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91030320",
-  "logradouro": "Rua Piauí",
-  "bairro": "Santa Maria Goretti",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Maria Goretti;",
+    "cep": "91030320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Piauí;"
 }

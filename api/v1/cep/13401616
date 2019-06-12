@@ -1,12 +1,12 @@
 {
-  "cep": "13401616",
-  "logradouro": "Rua Cleusa Alves Raimundo (Jardim Paraíso)",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "13401616",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Cleusa Alves Raimundo (Jardim Paraíso);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31872610",
-  "logradouro": "Rua Professor Carlos de Almeida",
-  "bairro": "Monte Azul",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Azul;",
+    "cep": "31872610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor Carlos de Almeida;"
 }

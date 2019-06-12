@@ -1,12 +1,12 @@
 {
-  "cep": "58419210",
-  "logradouro": "Rua Joari Costa Júnior (Condominio Serra da Borborema)",
-  "bairro": "Velame",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Velame;",
+    "cep": "58419210",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Joari Costa Júnior (Condominio Serra da Borborema);"
 }

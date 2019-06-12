@@ -1,12 +1,11 @@
 {
-  "cep": "49490000",
-  "logradouro": "Poço Verde",
-  "bairro": "",
-  "cidade": {
-    "nome": "Poço Verde",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49490000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Poço Verde"
+    },
+    "ibge": 2805505
 }

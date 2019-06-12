@@ -1,12 +1,12 @@
 {
-  "cep": "88902544",
-  "logradouro": "Travessa Paulo César de Bitencourt",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88902544",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Travessa Paulo César de Bitencourt;"
 }

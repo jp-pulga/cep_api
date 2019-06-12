@@ -1,12 +1,12 @@
 {
-  "cep": "04018901",
-  "logradouro": "Colgate Palmolive Ltda Rua Rio Grande 752",
-  "bairro": "Vila Mariana",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Mariana;",
+    "cep": "04018901",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Rio Grande, 752  Colgate Palmolive Ltda;"
 }

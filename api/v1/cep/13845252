@@ -1,12 +1,12 @@
 {
-  "cep": "13845252",
-  "logradouro": "Rua Belém do Pará",
-  "bairro": "Jardim Centenário",
-  "cidade": {
-    "nome": "Mogi Guaçu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Centenário;",
+    "cep": "13845252",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Guaçu"
+    },
+    "logradouro": "Rua Belém do Pará;"
 }

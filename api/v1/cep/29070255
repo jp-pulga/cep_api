@@ -1,12 +1,12 @@
 {
-  "cep": "29070255",
-  "logradouro": "Rua Nossa Senhora Aparecida",
-  "bairro": "Maria Ortiz",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Maria Ortiz;",
+    "cep": "29070255",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Nossa Senhora Aparecida;"
 }

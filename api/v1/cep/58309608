@@ -1,12 +1,12 @@
 {
-  "cep": "58309608",
-  "logradouro": "Rua das Palmeiras",
-  "bairro": "Mário Andreazza",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mário Andreazza;",
+    "cep": "58309608",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua das Palmeiras;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58640970",
-  "logradouro": "AC Junco do Seridó Praça Coronel José Ferreira 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Junco do Seridó",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58640970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Junco do Seridó"
+    },
+    "ibge": 2507804,
+    "logradouro": "Praça Coronel José Ferreira, 40  AC Junco do Seridó;"
 }

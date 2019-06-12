@@ -1,12 +1,12 @@
 {
-  "cep": "35628970",
-  "logradouro": "AC Morada Nova de Minas Rua Coronel Arnaldo Xavier Cordeiro 246",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morada Nova de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35628970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Morada Nova de Minas"
+    },
+    "logradouro": "Rua Coronel Arnaldo Xavier Cordeiro, 246  AC Morada Nova de Minas;"
 }

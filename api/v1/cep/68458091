@@ -1,12 +1,13 @@
 {
-  "cep": "68458091",
-  "logradouro": "Rua Paulo Ronaldo",
-  "bairro": "Jardim Paraíso",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Paraíso;",
+    "cep": "68458091",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Paulo Ronaldo;"
 }

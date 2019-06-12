@@ -1,12 +1,12 @@
 {
-  "cep": "32215153",
-  "logradouro": "Rua Sapucaia (Res. Parque Arrudas)",
-  "bairro": "Jardim Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Industrial;",
+    "cep": "32215153",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Sapucaia (Res. Parque Arrudas);"
 }

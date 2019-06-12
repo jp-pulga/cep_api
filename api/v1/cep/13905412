@@ -1,12 +1,12 @@
 {
-  "cep": "13905412",
-  "logradouro": "Rodovia João Beira do km 45000 ao km 45999",
-  "bairro": "Jardim Silvestre I",
-  "cidade": {
-    "nome": "Amparo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Silvestre I;",
+    "cep": "13905412",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Amparo"
+    },
+    "logradouro": "Rodovia João Beira - do km 45,000 ao km 45,999;"
 }

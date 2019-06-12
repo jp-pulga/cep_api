@@ -1,12 +1,12 @@
 {
-  "cep": "94960470",
-  "logradouro": "Rua Pedro da Silva Bernardes",
-  "bairro": "Parque Granja Esperança",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Granja Esperança;",
+    "cep": "94960470",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Pedro da Silva Bernardes;"
 }

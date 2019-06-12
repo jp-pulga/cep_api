@@ -1,12 +1,12 @@
 {
-  "cep": "13303540",
-  "logradouro": "Rua Pastor Benevides dos Santos",
-  "bairro": "Itu Novo Centro",
-  "cidade": {
-    "nome": "Itu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Itu Novo Centro;",
+    "cep": "13303540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itu"
+    },
+    "logradouro": "Rua Pastor Benevides dos Santos;"
 }

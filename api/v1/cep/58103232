@@ -1,12 +1,12 @@
 {
-  "cep": "58103232",
-  "logradouro": "Travessa Monsenhor José da Silva Coutinho",
-  "bairro": "Camalaú",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Camalaú;",
+    "cep": "58103232",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Travessa Monsenhor José da Silva Coutinho;"
 }

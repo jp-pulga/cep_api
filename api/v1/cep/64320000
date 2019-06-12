@@ -1,12 +1,11 @@
 {
-  "cep": "64320000",
-  "logradouro": "Pimenteiras",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pimenteiras",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64320000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Pimenteiras"
+    },
+    "ibge": 2208106
 }

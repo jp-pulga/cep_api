@@ -1,12 +1,13 @@
 {
-  "cep": "64606405",
-  "logradouro": "Avenida Doroteu Neres",
-  "bairro": "Paraibinha",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Paraibinha;",
+    "cep": "64606405",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Doroteu Neres;"
 }

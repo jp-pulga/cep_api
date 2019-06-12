@@ -1,12 +1,11 @@
 {
-  "cep": "68632000",
-  "logradouro": "Ulianópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ulianópolis",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68632000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ulianópolis"
+    },
+    "ibge": 1508126
 }

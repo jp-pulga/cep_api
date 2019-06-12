@@ -1,12 +1,12 @@
 {
-  "cep": "04412000",
-  "logradouro": "Rua Belém do Pará",
-  "bairro": "Americanópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Americanópolis;",
+    "cep": "04412000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Belém do Pará;"
 }

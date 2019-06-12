@@ -1,12 +1,12 @@
 {
-  "cep": "31130160",
-  "logradouro": "Rua Pedro Moura",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeirinha;",
+    "cep": "31130160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pedro Moura;"
 }

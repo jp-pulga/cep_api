@@ -1,12 +1,13 @@
 {
-  "cep": "58135970",
-  "logradouro": "AC Esperança Praça Getúlio Vargas 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esperança",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58135970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Esperança"
+    },
+    "ibge": 2506004,
+    "logradouro": "Praça Getúlio Vargas, 20  AC Esperança;"
 }

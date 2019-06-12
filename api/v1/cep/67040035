@@ -1,12 +1,13 @@
 {
-  "cep": "67040035",
-  "logradouro": "Conjunto Quilombo dos Palmares",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "67040035",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Conjunto Quilombo dos Palmares;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "66070440",
-  "logradouro": "Vila Santa Inês",
-  "bairro": "Terra Firme",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Firme;",
+    "cep": "66070440",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Vila Santa Inês;"
 }

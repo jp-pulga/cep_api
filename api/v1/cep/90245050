@@ -1,12 +1,12 @@
 {
-  "cep": "90245050",
-  "logradouro": "Avenida Amynthas Jacques de Moraes",
-  "bairro": "Humaitá",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Humaitá;",
+    "cep": "90245050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Amynthas Jacques de Moraes;"
 }

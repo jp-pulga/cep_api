@@ -1,12 +1,12 @@
 {
-  "cep": "37505164",
-  "logradouro": "Rua Célio de Campos Sales",
-  "bairro": "Vila Rubens",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Rubens;",
+    "cep": "37505164",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Célio de Campos Sales;"
 }

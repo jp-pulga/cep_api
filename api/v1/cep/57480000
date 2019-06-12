@@ -1,12 +1,11 @@
 {
-  "cep": "57480000",
-  "logradouro": "Delmiro Gouveia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Delmiro Gouveia",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57480000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Delmiro Gouveia"
+    },
+    "ibge": 2702405
 }

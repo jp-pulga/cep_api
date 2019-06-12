@@ -1,12 +1,12 @@
 {
-  "cep": "58081360",
-  "logradouro": "Rua Professora Alexandrina Pinto Cavalcanti",
-  "bairro": "Costa e Silva",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Costa e Silva;",
+    "cep": "58081360",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Professora Alexandrina Pinto Cavalcanti;"
 }

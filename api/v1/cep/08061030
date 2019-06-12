@@ -1,12 +1,12 @@
 {
-  "cep": "08061030",
-  "logradouro": "Rua Pau-D'Arco-Roxo",
-  "bairro": "Jardim Pedro José Nunes",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pedro José Nunes;",
+    "cep": "08061030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pau-D'Arco-Roxo;"
 }

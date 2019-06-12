@@ -1,12 +1,13 @@
 {
-  "cep": "64683970",
-  "logradouro": "AGC Francisco Macedo Rua Francisca Maria de Carvalho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Francisco Macedo",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64683970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Francisco Macedo"
+    },
+    "ibge": 2204154,
+    "logradouro": "Rua Francisca Maria de Carvalho, s\/n  AGC Francisco Macedo;"
 }

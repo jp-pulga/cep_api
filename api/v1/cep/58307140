@@ -1,12 +1,12 @@
 {
-  "cep": "58307140",
-  "logradouro": "Rua Marcionila Maria da Conceição",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58307140",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Marcionila Maria da Conceição;"
 }

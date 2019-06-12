@@ -1,12 +1,13 @@
 {
-  "cep": "69080030",
-  "logradouro": "Avenida Beira Mar",
-  "bairro": "Coroado",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Coroado;",
+    "cep": "69080030",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Beira Mar;"
 }

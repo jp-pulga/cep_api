@@ -1,12 +1,12 @@
 {
-  "cep": "64008320",
-  "logradouro": "Rua Bertolínia",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "64008320",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Bertolínia;"
 }

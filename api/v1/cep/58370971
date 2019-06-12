@@ -1,12 +1,13 @@
 {
-  "cep": "58370971",
-  "logradouro": "AGC Alagamar Rua Principal s/n",
-  "bairro": "Povoado",
-  "cidade": {
-    "nome": "Salgado de São Félix",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Povoado;",
+    "cep": "58370971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Salgado de São Félix"
+    },
+    "ibge": 2513109,
+    "logradouro": "Rua Principal, s\/n  AGC Alagamar;"
 }

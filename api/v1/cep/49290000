@@ -1,12 +1,11 @@
 {
-  "cep": "49290000",
-  "logradouro": "Itabaianinha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itabaianinha",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49290000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Itabaianinha"
+    },
+    "ibge": 2803005
 }

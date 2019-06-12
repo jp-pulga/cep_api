@@ -1,12 +1,12 @@
 {
-  "cep": "58309636",
-  "logradouro": "Rua Francisco de Assis",
-  "bairro": "Mário Andreazza",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mário Andreazza;",
+    "cep": "58309636",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Francisco de Assis;"
 }

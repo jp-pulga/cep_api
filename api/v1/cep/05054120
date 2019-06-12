@@ -1,12 +1,12 @@
 {
-  "cep": "05054120",
-  "logradouro": "Travessa Padre Walter Schewiora",
-  "bairro": "Vila Ipojuca",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Ipojuca;",
+    "cep": "05054120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Padre Walter Schewiora;"
 }

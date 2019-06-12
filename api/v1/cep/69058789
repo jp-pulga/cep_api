@@ -1,12 +1,13 @@
 {
-  "cep": "69058789",
-  "logradouro": "Avenida Desembargador João Machado",
-  "bairro": "Flores",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Flores;",
+    "cep": "69058789",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Desembargador João Machado;"
 }

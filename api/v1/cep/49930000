@@ -1,12 +1,11 @@
 {
-  "cep": "49930000",
-  "logradouro": "Cedro de São João",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cedro de São João",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49930000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Cedro de São João"
+    },
+    "ibge": 2801603
 }

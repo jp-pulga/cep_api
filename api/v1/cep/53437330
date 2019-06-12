@@ -1,12 +1,12 @@
 {
-  "cep": "53437330",
-  "logradouro": "Rua Lagoa do Itaenga",
-  "bairro": "Janga",
-  "cidade": {
-    "nome": "Paulista",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Janga;",
+    "cep": "53437330",
+    "cidade": {
+        "estado": {
+            "nome": "Pernambuco",
+            "sigla": "PE"
+        },
+        "nome": "Paulista"
+    },
+    "logradouro": "Rua Lagoa do Itaenga;"
 }

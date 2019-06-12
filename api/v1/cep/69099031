@@ -1,12 +1,13 @@
 {
-  "cep": "69099031",
-  "logradouro": "Avenida Camapuã lado ímpar",
-  "bairro": "Cidade de Deus",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade de Deus;",
+    "cep": "69099031",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Camapuã - de 639 ao fim - lado ímpar;"
 }

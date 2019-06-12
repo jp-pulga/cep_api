@@ -1,12 +1,12 @@
 {
-  "cep": "58404765",
-  "logradouro": "Rua Manoel José Bezerra",
-  "bairro": "Cuités",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cuités;",
+    "cep": "58404765",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Manoel José Bezerra;"
 }

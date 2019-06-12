@@ -1,12 +1,13 @@
 {
-  "cep": "64620970",
-  "logradouro": "AC Dom Expedito Lopes Praça Francisco Belo s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Dom Expedito Lopes",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64620970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Dom Expedito Lopes"
+    },
+    "ibge": 2203404,
+    "logradouro": "Praça Francisco Belo, s\/n  AC Dom Expedito Lopes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58028270",
-  "logradouro": "Rua Major Álvaro Monteiro",
-  "bairro": "Ipês",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ipês;",
+    "cep": "58028270",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Major Álvaro Monteiro;"
 }

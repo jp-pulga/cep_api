@@ -1,12 +1,12 @@
 {
-  "cep": "58062131",
-  "logradouro": "Rua Custódia Nóbrega",
-  "bairro": "Paratibe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Paratibe;",
+    "cep": "58062131",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Custódia Nóbrega;"
 }

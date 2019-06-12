@@ -1,12 +1,12 @@
 {
-  "cep": "29032556",
-  "logradouro": "Escadaria Pescador",
-  "bairro": "Resistência",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Resistência;",
+    "cep": "29032556",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria Pescador;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07242190",
-  "logradouro": "Avenida Santana do Mundau",
-  "bairro": "Cidade Parque Alvorada",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Parque Alvorada;",
+    "cep": "07242190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Avenida Santana do Mundau;"
 }

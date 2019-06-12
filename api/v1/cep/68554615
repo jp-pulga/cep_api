@@ -1,12 +1,13 @@
 {
-  "cep": "68554615",
-  "logradouro": "Avenida Pará",
-  "bairro": "Átila Douglas",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Átila Douglas;",
+    "cep": "68554615",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Avenida Pará;"
 }

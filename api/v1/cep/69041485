@@ -1,12 +1,12 @@
 {
-  "cep": "69041485",
-  "logradouro": "Rua 2 (Cj Cidadão X)",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã;",
+    "cep": "69041485",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Paraná do Manaquiri;"
 }

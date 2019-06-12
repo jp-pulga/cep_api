@@ -1,12 +1,13 @@
 {
-  "cep": "57084330",
-  "logradouro": "Rua Doutor Aloísio do Couto Malta",
-  "bairro": "Benedito Bentes",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Benedito Bentes;",
+    "cep": "57084330",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Doutor Aloísio do Couto Malta;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30750000",
-  "logradouro": "Avenida Dom Pedro II de 4202 ao fim - lado par",
-  "bairro": "Jardim Montanhês",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Montanhês;",
+    "cep": "30750000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Dom Pedro II - de 4202 ao fim - lado par;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "67035165",
-  "logradouro": "Alameda Passarinho",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "67035165",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Alameda Passarinho;"
 }

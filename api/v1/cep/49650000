@@ -1,12 +1,11 @@
 {
-  "cep": "49650000",
-  "logradouro": "Divina Pastora",
-  "bairro": "",
-  "cidade": {
-    "nome": "Divina Pastora",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49650000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Divina Pastora"
+    },
+    "ibge": 2802007
 }

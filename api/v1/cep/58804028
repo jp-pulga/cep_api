@@ -1,12 +1,12 @@
 {
-  "cep": "58804028",
-  "logradouro": "Rua Raimundo Irineu",
-  "bairro": "Frei Damião",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Frei Damião;",
+    "cep": "58804028",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Raimundo Irineu;"
 }

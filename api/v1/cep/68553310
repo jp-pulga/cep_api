@@ -1,12 +1,13 @@
 {
-  "cep": "68553310",
-  "logradouro": "Rua Walcimar Panasollo",
-  "bairro": "Vale da Serra",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vale da Serra;",
+    "cep": "68553310",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua Walcimar Panasollo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58046745",
-  "logradouro": "Rua Farmacêutico Severino Cabral de Lucena",
-  "bairro": "Portal do Sol",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Portal do Sol;",
+    "cep": "58046745",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Farmacêutico Severino Cabral de Lucena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "02635000",
-  "logradouro": "Rua Pedra Bonita",
-  "bairro": "Vila Pedra Branca",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Pedra Branca;",
+    "cep": "02635000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pedra Bonita;"
 }

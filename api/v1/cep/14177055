@@ -1,12 +1,12 @@
 {
-  "cep": "14177055",
-  "logradouro": "Avenida Nossa Senhora Aparecida de 642 a 1360 - lado par",
-  "bairro": "Vila Industrial",
-  "cidade": {
-    "nome": "Sertãozinho",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Industrial;",
+    "cep": "14177055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sertãozinho"
+    },
+    "logradouro": "Avenida Nossa Senhora Aparecida - de 642 a 1360 - lado par;"
 }

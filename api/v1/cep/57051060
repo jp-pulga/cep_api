@@ -1,12 +1,13 @@
 {
-  "cep": "57051060",
-  "logradouro": "Rua Alexandre Nobre",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol;",
+    "cep": "57051060",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Alexandre Nobre;"
 }

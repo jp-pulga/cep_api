@@ -1,12 +1,12 @@
 {
-  "cep": "89160264",
-  "logradouro": "Rua Petrolândia",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Rio do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "89160264",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Rio do Sul"
+    },
+    "logradouro": "Rua Petrolândia;"
 }

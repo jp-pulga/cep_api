@@ -1,12 +1,11 @@
 {
-  "cep": "69520000",
-  "logradouro": "Juruá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Juruá",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69520000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Juruá"
+    },
+    "ibge": 1302207
 }

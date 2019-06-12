@@ -1,12 +1,12 @@
 {
-  "cep": "33025480",
-  "logradouro": "Rua Paraibuna",
-  "bairro": "Santa Matilde",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Matilde;",
+    "cep": "33025480",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Paraibuna;"
 }

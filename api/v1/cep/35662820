@@ -1,12 +1,12 @@
 {
-  "cep": "35662820",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Carioca",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carioca;",
+    "cep": "35662820",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua São Francisco;"
 }

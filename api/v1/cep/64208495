@@ -1,12 +1,12 @@
 {
-  "cep": "64208495",
-  "logradouro": "Rua Empresário Pedro Machado Moraes",
-  "bairro": "Piauí",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piauí;",
+    "cep": "64208495",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Empresário Pedro Machado Moraes;"
 }

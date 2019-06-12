@@ -1,12 +1,12 @@
 {
-  "cep": "58430065",
-  "logradouro": "Rua Maria de Lourdes Pereira Pinto",
-  "bairro": "Bodocongó",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Bodocongó;",
+    "cep": "58430065",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Maria de Lourdes Pereira Pinto;"
 }

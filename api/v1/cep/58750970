@@ -1,12 +1,13 @@
 {
-  "cep": "58750970",
-  "logradouro": "AC Juru Rua Manoel Carneiro Silva 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Juru",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58750970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Juru"
+    },
+    "ibge": 2508000,
+    "logradouro": "Rua Manoel Carneiro Silva, 160  AC Juru;"
 }

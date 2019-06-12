@@ -1,12 +1,11 @@
 {
-  "cep": "68650000",
-  "logradouro": "Capitão Poço",
-  "bairro": "",
-  "cidade": {
-    "nome": "Capitão Poço",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68650000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capitão Poço"
+    },
+    "ibge": 1502301
 }

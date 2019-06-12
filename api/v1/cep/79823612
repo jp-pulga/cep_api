@@ -1,12 +1,12 @@
 {
-  "cep": "79823612",
-  "logradouro": "Rua Ranulpho Pires Garcia",
-  "bairro": "Altos do Indaiá",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Altos do Indaiá;",
+    "cep": "79823612",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Ranulpho Pires Garcia;"
 }

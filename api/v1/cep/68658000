@@ -1,12 +1,11 @@
 {
-  "cep": "68658000",
-  "logradouro": "Aurora do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Aurora do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68658000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Aurora do Pará"
+    },
+    "ibge": 1500958
 }

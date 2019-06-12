@@ -1,12 +1,11 @@
 {
-  "cep": "68165000",
-  "logradouro": "Rurópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rurópolis",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68165000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Rurópolis"
+    },
+    "ibge": 1506195
 }

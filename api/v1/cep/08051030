@@ -1,12 +1,12 @@
 {
-  "cep": "08051030",
-  "logradouro": "Rua Curuá-Açu",
-  "bairro": "Vila Suiça",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Suiça;",
+    "cep": "08051030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Curuá-Açu;"
 }

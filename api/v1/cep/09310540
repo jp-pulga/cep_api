@@ -1,12 +1,12 @@
 {
-  "cep": "09310540",
-  "logradouro": "Rua Pimenta Bueno",
-  "bairro": "Vila Bocaina",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Bocaina;",
+    "cep": "09310540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Rua Pimenta Bueno;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "49160000",
-  "logradouro": "Nossa Senhora do Socorro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nossa Senhora do Socorro",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49160000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora do Socorro"
+    },
+    "ibge": 2804805
 }

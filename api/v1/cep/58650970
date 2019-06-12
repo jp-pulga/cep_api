@@ -1,12 +1,13 @@
 {
-  "cep": "58650970",
-  "logradouro": "AC Salgadinho Rua José Maciel de Sousa 171",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salgadinho",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58650970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Salgadinho"
+    },
+    "ibge": 2513000,
+    "logradouro": "Rua José Maciel de Sousa, 171  AC Salgadinho;"
 }

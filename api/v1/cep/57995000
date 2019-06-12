@@ -1,12 +1,11 @@
 {
-  "cep": "57995000",
-  "logradouro": "Flexeiras",
-  "bairro": "",
-  "cidade": {
-    "nome": "Flexeiras",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57995000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Flexeiras"
+    },
+    "ibge": 2702801
 }

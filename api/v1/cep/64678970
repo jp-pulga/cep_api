@@ -1,12 +1,13 @@
 {
-  "cep": "64678970",
-  "logradouro": "AGC Belém do Piauí Avenida José Virgílio Ribeiro 292",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belém do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64678970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Belém do Piauí"
+    },
+    "ibge": 2201572,
+    "logradouro": "Avenida José Virgílio Ribeiro, 292  AGC Belém do Piauí;"
 }

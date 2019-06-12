@@ -1,12 +1,12 @@
 {
-  "cep": "03687070",
-  "logradouro": "Rua Penedo",
-  "bairro": "Jardim Artur Alvim",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Artur Alvim;",
+    "cep": "03687070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Penedo;"
 }

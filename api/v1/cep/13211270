@@ -1,12 +1,12 @@
 {
-  "cep": "13211270",
-  "logradouro": "Alameda das Palmeiras",
-  "bairro": "Vila Alvorada",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Alvorada;",
+    "cep": "13211270",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Alameda das Palmeiras;"
 }

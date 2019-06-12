@@ -1,12 +1,11 @@
 {
-  "cep": "58884000",
-  "logradouro": "Catolé do Rocha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Catolé do Rocha",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "cep": "58884000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Catolé do Rocha"
+    },
+    "ibge": 2504306
 }

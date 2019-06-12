@@ -1,12 +1,13 @@
 {
-  "cep": "57038270",
-  "logradouro": "Rua Doutor Henrique Equelman",
-  "bairro": "Cruz das Almas",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cruz das Almas;",
+    "cep": "57038270",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Doutor Henrique Equelman;"
 }

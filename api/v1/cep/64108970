@@ -1,12 +1,13 @@
 {
-  "cep": "64108970",
-  "logradouro": "AGC Boa Hora Avenida Antonio Coelho Rodrigues 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Hora",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64108970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Boa Hora"
+    },
+    "ibge": 2201770,
+    "logradouro": "Avenida Antonio Coelho Rodrigues, 18  AGC Boa Hora;"
 }

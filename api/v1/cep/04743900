@@ -1,12 +1,12 @@
 {
-  "cep": "04743900",
-  "logradouro": "Centro Comercial Santo Amaro Rua Manuel Borba 257",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "04743900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Manuel Borba, 257  Centro Comercial Santo Amaro;"
 }

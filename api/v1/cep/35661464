@@ -1,12 +1,12 @@
 {
-  "cep": "35661464",
-  "logradouro": "Rua Raimundo Mariano da Silva",
-  "bairro": "Santa Edwirges",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Edwirges;",
+    "cep": "35661464",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Raimundo Mariano da Silva;"
 }

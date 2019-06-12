@@ -1,12 +1,11 @@
 {
-  "cep": "49512000",
-  "logradouro": "Pedra Mole",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pedra Mole",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49512000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Pedra Mole"
+    },
+    "ibge": 2805000
 }

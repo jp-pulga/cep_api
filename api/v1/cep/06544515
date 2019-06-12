@@ -1,12 +1,12 @@
 {
-  "cep": "06544515",
-  "logradouro": "Alameda Terras Altas",
-  "bairro": "Tamboré",
-  "cidade": {
-    "nome": "Santana de Parnaíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Tamboré;",
+    "cep": "06544515",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santana de Parnaíba"
+    },
+    "logradouro": "Alameda Terras Altas;"
 }

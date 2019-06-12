@@ -1,12 +1,13 @@
 {
-  "cep": "58935970",
-  "logradouro": "AC Cachoeira dos Índios Avenida Governador João Agripino 403",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira dos Índios",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58935970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cachoeira dos Índios"
+    },
+    "ibge": 2503308,
+    "logradouro": "Avenida Governador João Agripino, 403  AC Cachoeira dos Índios;"
 }

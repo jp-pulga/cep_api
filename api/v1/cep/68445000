@@ -1,12 +1,11 @@
 {
-  "cep": "68445000",
-  "logradouro": "Barcarena",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barcarena",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68445000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Barcarena"
+    },
+    "ibge": 1501303
 }

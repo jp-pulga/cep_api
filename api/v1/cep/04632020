@@ -1,12 +1,12 @@
 {
-  "cep": "04632020",
-  "logradouro": "Rua Visconde de Ourem",
-  "bairro": "Jardim Aeroporto",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Aeroporto;",
+    "cep": "04632020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Visconde de Ourem;"
 }

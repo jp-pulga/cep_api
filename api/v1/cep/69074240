@@ -1,12 +1,12 @@
 {
-  "cep": "69074240",
-  "logradouro": "Rua Coari (Vl M Pnt Pelada)",
-  "bairro": "São Lázaro",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Lázaro;",
+    "cep": "69074240",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Coari (Vl M Pnt Pelada);"
 }

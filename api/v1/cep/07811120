@@ -1,12 +1,12 @@
 {
-  "cep": "07811120",
-  "logradouro": "Rua dos Picos",
-  "bairro": "Jardim das Colinas",
-  "cidade": {
-    "nome": "Franco da Rocha",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim das Colinas;",
+    "cep": "07811120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franco da Rocha"
+    },
+    "logradouro": "Rua dos Picos;"
 }

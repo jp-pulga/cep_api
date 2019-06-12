@@ -1,12 +1,13 @@
 {
-  "cep": "58475970",
-  "logradouro": "AC Queimadas Rua Eunice Ribeiro de Araújo 526",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Queimadas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58475970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Queimadas"
+    },
+    "ibge": 2512507,
+    "logradouro": "Rua Eunice Ribeiro de Araújo 526  AC Queimadas;"
 }

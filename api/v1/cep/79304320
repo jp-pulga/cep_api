@@ -1,12 +1,12 @@
 {
-  "cep": "79304320",
-  "logradouro": "Alameda Carneiro",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "79304320",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Alameda Carneiro;"
 }

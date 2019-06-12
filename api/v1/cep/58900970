@@ -1,12 +1,13 @@
 {
-  "cep": "58900970",
-  "logradouro": "AC Cajazeiras Rua Coronel Juvêncio Carneiro 489",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cajazeiras",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58900970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cajazeiras"
+    },
+    "ibge": 2503704,
+    "logradouro": "Rua Coronel Juvêncio Carneiro, 489  AC Cajazeiras;"
 }

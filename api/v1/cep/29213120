@@ -1,12 +1,12 @@
 {
-  "cep": "29213120",
-  "logradouro": "Rua Pedro Machado",
-  "bairro": "Nossa Senhora da Conceição",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nossa Senhora da Conceição;",
+    "cep": "29213120",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Pedro Machado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38443020",
-  "logradouro": "Rua Floriano Peixoto de 706/707 ao fim",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "38443020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Floriano Peixoto - de 706\/707 ao fim;"
 }

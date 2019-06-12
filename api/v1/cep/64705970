@@ -1,12 +1,13 @@
 {
-  "cep": "64705970",
-  "logradouro": "AGC Bela Vista do Piauí Praça Hezron Pereira Coelho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bela Vista do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64705970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Bela Vista do Piauí"
+    },
+    "ibge": 2201556,
+    "logradouro": "Rua Tiago Marques Barbosa, 384 Quadra 24 Lote 384  AGC Bela Vista do Piauí;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13403320",
-  "logradouro": "Avenida dos Peixes",
-  "bairro": "Jardim Parque Jupiá",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Parque Jupiá;",
+    "cep": "13403320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Avenida dos Peixes;"
 }

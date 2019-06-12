@@ -1,12 +1,12 @@
 {
-  "cep": "13466323",
-  "logradouro": "Rua Antônio Galvão Cezarino Leite",
-  "bairro": "Vila Santa Catarina",
-  "cidade": {
-    "nome": "Americana",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Catarina;",
+    "cep": "13466323",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Americana"
+    },
+    "logradouro": "Rua Antônio Galvão Cezarino Leite;"
 }

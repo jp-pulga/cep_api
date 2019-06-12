@@ -1,12 +1,12 @@
 {
-  "cep": "30670310",
-  "logradouro": "Rua José Francisco Pereira",
-  "bairro": "Vila Pinho Vale do Jatobá (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Pinho Vale do Jatobá (Barreiro);",
+    "cep": "30670310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Francisco Pereira;"
 }

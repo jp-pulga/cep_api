@@ -1,12 +1,12 @@
 {
-  "cep": "58417185",
-  "logradouro": "Avenida Canal",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "58417185",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Avenida Canal;"
 }

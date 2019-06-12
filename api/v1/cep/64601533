@@ -1,12 +1,13 @@
 {
-  "cep": "64601533",
-  "logradouro": "Avenida Deputada Francisca Trindade",
-  "bairro": "Morada do Sol",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Morada do Sol;",
+    "cep": "64601533",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Deputada Francisca Trindade;"
 }

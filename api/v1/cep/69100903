@@ -1,12 +1,13 @@
 {
-  "cep": "69100903",
-  "logradouro": "Banco da Amazônia S/A Rua Casseano Secundo 235",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69100903",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "ibge": 1301902,
+    "logradouro": "Rua Casseano Secundo, 235  Banco da Amazônia S\/A;"
 }

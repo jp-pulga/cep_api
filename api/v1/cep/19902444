@@ -1,12 +1,12 @@
 {
-  "cep": "19902444",
-  "logradouro": "Rua Amélia de Jesus Madeira",
-  "bairro": "Vila São Silvestre",
-  "cidade": {
-    "nome": "Ourinhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila São Silvestre;",
+    "cep": "19902444",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ourinhos"
+    },
+    "logradouro": "Rua Amélia de Jesus Madeira;"
 }

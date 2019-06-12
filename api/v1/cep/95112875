@@ -1,12 +1,12 @@
 {
-  "cep": "95112875",
-  "logradouro": "Rua Luiz Triches dos Reis",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "95112875",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Quatro (Lot Centro Indus Caxias);"
 }

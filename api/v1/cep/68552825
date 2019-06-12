@@ -1,12 +1,13 @@
 {
-  "cep": "68552825",
-  "logradouro": "Rua Pitágoras Leonel de Paula",
-  "bairro": "Park dos Buritis",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Park dos Buritis;",
+    "cep": "68552825",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua Pitágoras Leonel de Paula;"
 }

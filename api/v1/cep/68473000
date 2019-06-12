@@ -1,12 +1,11 @@
 {
-  "cep": "68473000",
-  "logradouro": "Novo Repartimento",
-  "bairro": "",
-  "cidade": {
-    "nome": "Novo Repartimento",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68473000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Novo Repartimento"
+    },
+    "ibge": 1505064
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58308332",
-  "logradouro": "Avenida Marechal Rondon de 369 ao fim - lado ímpar",
-  "bairro": "Jardim Aeroporto",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Aeroporto;",
+    "cep": "58308332",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "ibge": 2501807,
+    "logradouro": "Avenida Marechal Rondon - de 369 ao fim - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36301028",
-  "logradouro": "Rua Padre Machado",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "36301028",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Padre Machado;"
 }

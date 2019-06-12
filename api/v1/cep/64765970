@@ -1,12 +1,13 @@
 {
-  "cep": "64765970",
-  "logradouro": "AGC João Costa Avenida Central s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "João Costa",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64765970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "João Costa"
+    },
+    "ibge": 2205359,
+    "logradouro": "Avenida Central, s\/n  AGC João Costa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57045290",
-  "logradouro": "Rua Marne Lopes Pimentel",
-  "bairro": "Barro Duro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Barro Duro;",
+    "cep": "57045290",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Marne Lopes Pimentel;"
 }

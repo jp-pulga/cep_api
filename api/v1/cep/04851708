@@ -1,12 +1,12 @@
 {
-  "cep": "04851708",
-  "logradouro": "Rua das Palmeiras",
-  "bairro": "Jardim Prainha",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Prainha;",
+    "cep": "04851708",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua das Palmeiras;"
 }

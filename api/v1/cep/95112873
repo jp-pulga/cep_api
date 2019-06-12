@@ -1,12 +1,12 @@
 {
-  "cep": "95112873",
-  "logradouro": "Avenida Professor Evilasio Machado dos Reis",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "95112873",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Dois (Lot Centro Indus Caxias);"
 }

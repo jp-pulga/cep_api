@@ -1,12 +1,13 @@
 {
-  "cep": "58925972",
-  "logradouro": "AGC Várzea de Ema Rua Central s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Helena",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58925972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Helena"
+    },
+    "ibge": 2513307,
+    "logradouro": "Rua Central, s\/n  AGC Várzea de Ema;"
 }

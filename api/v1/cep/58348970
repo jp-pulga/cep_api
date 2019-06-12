@@ -1,12 +1,13 @@
 {
-  "cep": "58348970",
-  "logradouro": "AGC Riachão do Poço Rua Joao Ferreira Alves 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riachão do Poço",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58348970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Riachão do Poço"
+    },
+    "ibge": 2512762,
+    "logradouro": "Rua Joao Ferreira Alves, 44  AGC Riachão do Poço;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58309708",
-  "logradouro": "Rua Irmã Sarah",
-  "bairro": "Mário Andreazza",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mário Andreazza;",
+    "cep": "58309708",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Irmã Sarah;"
 }

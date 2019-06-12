@@ -1,12 +1,12 @@
 {
-  "cep": "44023005",
-  "logradouro": "Avenida do Canal",
-  "bairro": "Rua Nova",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rua Nova;",
+    "cep": "44023005",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Padre José de Anchieta;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58305115",
-  "logradouro": "Rua José Ferreira da Silva",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "58305115",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua José Ferreira da Silva;"
 }

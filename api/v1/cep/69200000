@@ -1,12 +1,11 @@
 {
-  "cep": "69200000",
-  "logradouro": "Borba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Borba",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69200000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Borba"
+    },
+    "ibge": 1300805
 }

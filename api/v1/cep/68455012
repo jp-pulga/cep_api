@@ -1,12 +1,13 @@
 {
-  "cep": "68455012",
-  "logradouro": "Passagem Soares",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "68455012",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Passagem Soares;"
 }

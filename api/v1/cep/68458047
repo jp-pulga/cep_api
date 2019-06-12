@@ -1,12 +1,13 @@
 {
-  "cep": "68458047",
-  "logradouro": "Passagem Pescador (Loteamento Vila Nova)",
-  "bairro": "Mangal",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Mangal;",
+    "cep": "68458047",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Passagem Pescador (Loteamento Vila Nova);"
 }

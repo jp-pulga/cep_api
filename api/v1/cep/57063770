@@ -1,12 +1,13 @@
 {
-  "cep": "57063770",
-  "logradouro": "Rua Arestides Alves Cordeiro (Lot Portal da Lagoa)",
-  "bairro": "Santa Amélia",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santa Amélia;",
+    "cep": "57063770",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Arestides Alves Cordeiro (Lot Portal da Lagoa);"
 }

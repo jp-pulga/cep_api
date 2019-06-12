@@ -1,12 +1,12 @@
 {
-  "cep": "32041140",
-  "logradouro": "Rua Manoel Pinheiro Diniz",
-  "bairro": "Três Barras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Barras;",
+    "cep": "32041140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Manoel Pinheiro Diniz;"
 }

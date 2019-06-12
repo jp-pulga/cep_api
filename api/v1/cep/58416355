@@ -1,12 +1,12 @@
 {
-  "cep": "58416355",
-  "logradouro": "Rua Helena Esmeraldina de Barros",
-  "bairro": "Santa Rosa",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Rosa;",
+    "cep": "58416355",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Helena Esmeraldina de Barros;"
 }

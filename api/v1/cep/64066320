@@ -1,12 +1,12 @@
 {
-  "cep": "64066320",
-  "logradouro": "Rua Barra Funda lado ímpar",
-  "bairro": "Pedra Mole",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Pedra Mole;",
+    "cep": "64066320",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Barra Funda - lado ímpar;"
 }

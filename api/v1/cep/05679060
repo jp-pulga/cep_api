@@ -1,12 +1,12 @@
 {
-  "cep": "05679060",
-  "logradouro": "Rua Jacunda",
-  "bairro": "Jardim Panorama",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Panorama;",
+    "cep": "05679060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Jacunda;"
 }

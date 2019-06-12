@@ -1,12 +1,12 @@
 {
-  "cep": "12031550",
-  "logradouro": "Rua Professor Cesídio Ambrogi",
-  "bairro": "Jardim Independência",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Independência;",
+    "cep": "12031550",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Professor Cesídio Ambrogi;"
 }

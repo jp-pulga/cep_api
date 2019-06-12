@@ -1,12 +1,12 @@
 {
-  "cep": "88117215",
-  "logradouro": "Rua Peru",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88117215",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Peru;"
 }

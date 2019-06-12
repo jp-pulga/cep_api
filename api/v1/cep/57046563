@@ -1,12 +1,12 @@
 {
-  "cep": "57046563",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "57046563",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua São Francisco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "16010230",
-  "logradouro": "Rua Campos Sales",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "16010230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Campos Sales;"
 }

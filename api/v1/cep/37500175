@@ -1,12 +1,12 @@
 {
-  "cep": "37500175",
-  "logradouro": "Rua Doutor Sebastião Pereira Machado",
-  "bairro": "Pinheirinho",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pinheirinho;",
+    "cep": "37500175",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Doutor Sebastião Pereira Machado;"
 }

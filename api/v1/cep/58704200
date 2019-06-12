@@ -1,12 +1,13 @@
 {
-  "cep": "58704200",
-  "logradouro": "Praça Nossa Senhora de Fátima",
-  "bairro": "Belo Horizonte",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Belo Horizonte;",
+    "cep": "58704200",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Praça Nossa Senhora de Fátima;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35680495",
-  "logradouro": "Vila Ceci Gomide",
-  "bairro": "Graças",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Graças;",
+    "cep": "35680495",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Vila Ceci Gomide;"
 }

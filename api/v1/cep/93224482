@@ -1,12 +1,12 @@
 {
-  "cep": "93224482",
-  "logradouro": "Rua Anjo Mikael (Parada dos Anjos)",
-  "bairro": "Pasqualini",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pasqualini;",
+    "cep": "93224482",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Anjo Mikael (Parada dos Anjos);"
 }

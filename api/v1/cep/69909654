@@ -1,12 +1,12 @@
 {
-  "cep": "69909654",
-  "logradouro": "Travessa Jutaí",
-  "bairro": "Vila da Amizade",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Vila da Amizade;",
+    "cep": "69909654",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Travessa Jutaí;"
 }

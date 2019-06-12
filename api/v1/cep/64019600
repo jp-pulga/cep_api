@@ -1,12 +1,12 @@
 {
-  "cep": "64019600",
-  "logradouro": "Rua Piripiri",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "64019600",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Piripiri;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "69190000",
-  "logradouro": "Maués",
-  "bairro": "",
-  "cidade": {
-    "nome": "Maués",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69190000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Maués"
+    },
+    "ibge": 1302900
 }

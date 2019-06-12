@@ -1,12 +1,12 @@
 {
-  "cep": "58103222",
-  "logradouro": "Rua Gonçalo Francisco Crispim de Oliveira",
-  "bairro": "Camalaú",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Camalaú;",
+    "cep": "58103222",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Gonçalo Francisco Crispim de Oliveira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69557035",
-  "logradouro": "Avenida Tiradentes de 122 a 486 - lado par",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "69557035",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Avenida Tiradentes - de 122 a 486 - lado par;"
 }

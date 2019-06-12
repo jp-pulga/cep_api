@@ -1,12 +1,13 @@
 {
-  "cep": "64845970",
-  "logradouro": "AC Marcos Parente Praça Dirno Pires Ferreira 261",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marcos Parente",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64845970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Marcos Parente"
+    },
+    "ibge": 2206001,
+    "logradouro": "Praça Pedrosa de Luna, 44  AC Marcos Parente;"
 }

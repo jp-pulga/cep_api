@@ -1,12 +1,12 @@
 {
-  "cep": "64009530",
-  "logradouro": "Rua Castelo do Piauí",
-  "bairro": "Alto Alegre",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Alegre;",
+    "cep": "64009530",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Castelo do Piauí;"
 }

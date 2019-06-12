@@ -1,12 +1,13 @@
 {
-  "cep": "64490970",
-  "logradouro": "AC Regeneração Rua Rosa do Rego 384",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Regeneração",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64490970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Regeneração"
+    },
+    "ibge": 2208809,
+    "logradouro": "Rua Rosa do Rego, 384  AC Regeneração;"
 }

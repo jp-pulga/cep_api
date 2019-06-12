@@ -1,12 +1,12 @@
 {
-  "cep": "57055120",
-  "logradouro": "Rua Nossa Senhora de Lourdes",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol;",
+    "cep": "57055120",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Nossa Senhora de Lourdes;"
 }

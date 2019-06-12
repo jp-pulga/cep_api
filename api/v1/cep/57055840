@@ -1,12 +1,12 @@
 {
-  "cep": "57055840",
-  "logradouro": "Rua Penedo",
-  "bairro": "Pinheiro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pinheiro;",
+    "cep": "57055840",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Penedo;"
 }

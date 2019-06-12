@@ -1,12 +1,13 @@
 {
-  "cep": "58155970",
-  "logradouro": "AC Soledade Rua Doutor Gouveia Nóbrega 67",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Soledade",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58155970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Soledade"
+    },
+    "ibge": 2516102,
+    "logradouro": "Rua Doutor Gouveia Nóbrega, 67  AC Soledade;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35661169",
-  "logradouro": "Rua Frei Orlando",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "35661169",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Frei Orlando;"
 }

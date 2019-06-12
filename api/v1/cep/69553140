@@ -1,12 +1,12 @@
 {
-  "cep": "69553140",
-  "logradouro": "Rua Jaçanã",
-  "bairro": "Fonte Boa",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Fonte Boa;",
+    "cep": "69553140",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "logradouro": "Rua Jaçanã;"
 }

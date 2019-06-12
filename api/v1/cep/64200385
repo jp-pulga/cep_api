@@ -1,12 +1,12 @@
 {
-  "cep": "64200385",
-  "logradouro": "Rua Luiz Correia",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64200385",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Luiz Correia;"
 }

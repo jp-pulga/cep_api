@@ -1,12 +1,12 @@
 {
-  "cep": "08031361",
-  "logradouro": "Rua Paulo Allen (Vila Curuça Velha)",
-  "bairro": "Vila Nova Curuçá",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Curuçá;",
+    "cep": "08031361",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Paulo Allen (Vila Curuça Velha);"
 }

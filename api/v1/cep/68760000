@@ -1,12 +1,11 @@
 {
-  "cep": "68760000",
-  "logradouro": "Marapanim",
-  "bairro": "",
-  "cidade": {
-    "nome": "Marapanim",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68760000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Marapanim"
+    },
+    "ibge": 1504406
 }

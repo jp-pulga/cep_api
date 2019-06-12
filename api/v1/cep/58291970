@@ -1,12 +1,13 @@
 {
-  "cep": "58291970",
-  "logradouro": "AC Curral de Cima Rua Olegário Fernandes 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curral de Cima",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58291970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Curral de Cima"
+    },
+    "ibge": 2505279,
+    "logradouro": "Rua Olegário Fernandes, 26  AC Curral de Cima;"
 }

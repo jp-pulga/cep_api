@@ -1,12 +1,12 @@
 {
-  "cep": "64768970",
-  "logradouro": "AC Lagoa do Barro do Piauí Avenida Vinte e Nove de Abril 17",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa do Barro do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64768970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Lagoa do Barro do Piauí"
+    },
+    "logradouro": "Avenida Vinte e Nove de Abril, 17  AC Lagoa do Barro do Piauí;"
 }

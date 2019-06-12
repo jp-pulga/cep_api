@@ -1,12 +1,12 @@
 {
-  "cep": "13632069",
-  "logradouro": "Rua General Paiva Chaves",
-  "bairro": "Vila Militar",
-  "cidade": {
-    "nome": "Pirassununga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Militar;",
+    "cep": "13632069",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pirassununga"
+    },
+    "logradouro": "Rua General Paiva Chaves;"
 }

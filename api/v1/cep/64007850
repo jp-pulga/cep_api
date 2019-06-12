@@ -1,12 +1,12 @@
 {
-  "cep": "64007850",
-  "logradouro": "Rua Castelo do Piauí - até 99997/99998",
-  "bairro": "Itaperu",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Itaperu;",
+    "cep": "64007850",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Castelo do Piauí - até 99997\/99998;"
 }

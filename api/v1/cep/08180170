@@ -1,12 +1,12 @@
 {
-  "cep": "08180170",
-  "logradouro": "Rua Curuamanema",
-  "bairro": "Vila Seabra",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Seabra;",
+    "cep": "08180170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Curuamanema;"
 }

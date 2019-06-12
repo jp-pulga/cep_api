@@ -1,12 +1,12 @@
 {
-  "cep": "58804050",
-  "logradouro": "Rua Pedro Aniceto Alves",
-  "bairro": "Frei Damião",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Frei Damião;",
+    "cep": "58804050",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Pedro Aniceto Alves;"
 }

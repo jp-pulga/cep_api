@@ -1,12 +1,12 @@
 {
-  "cep": "06851140",
-  "logradouro": "Rua Telha",
-  "bairro": "Jardim Paraíso",
-  "cidade": {
-    "nome": "Itapecerica da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paraíso;",
+    "cep": "06851140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapecerica da Serra"
+    },
+    "logradouro": "Rua Telha;"
 }

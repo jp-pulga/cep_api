@@ -1,12 +1,12 @@
 {
-  "cep": "68038105",
-  "logradouro": "Rua da Ponta de Pedra",
-  "bairro": "Nova Vitória",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Vitória;",
+    "cep": "68038105",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua da Ponta de Pedra;"
 }

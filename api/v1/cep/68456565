@@ -1,12 +1,12 @@
 {
-  "cep": "68456565",
-  "logradouro": "Rua Cametá",
-  "bairro": "Goes Calmont",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Goes Calmont;",
+    "cep": "68456565",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "logradouro": "Rua Cametá;"
 }

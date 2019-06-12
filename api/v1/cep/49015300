@@ -1,12 +1,12 @@
 {
-  "cep": "49015300",
-  "logradouro": "Rua Nossa Senhora do Socorro",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "49015300",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Nossa Senhora do Socorro;"
 }

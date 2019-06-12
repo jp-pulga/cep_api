@@ -1,12 +1,12 @@
 {
-  "cep": "69401122",
-  "logradouro": "Beco Urucará",
-  "bairro": "União",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "União;",
+    "cep": "69401122",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Beco Urucará;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31015400",
-  "logradouro": "Rua Monte Alverne",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "31015400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Monte Alverne;"
 }

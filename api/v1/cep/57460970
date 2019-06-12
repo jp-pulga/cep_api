@@ -1,12 +1,13 @@
 {
-  "cep": "57460970",
-  "logradouro": "AC Piranhas Praça Tenente Vasco 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piranhas",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57460970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Piranhas"
+    },
+    "ibge": 2707107,
+    "logradouro": "Praça Tenente Vasco, 80  AC Piranhas;"
 }

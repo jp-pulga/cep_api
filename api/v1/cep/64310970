@@ -1,12 +1,13 @@
 {
-  "cep": "64310970",
-  "logradouro": "AC Aroazes Avenida dos Jesuítas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aroazes",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64310970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Aroazes"
+    },
+    "ibge": 2200905,
+    "logradouro": "Avenida dos Jesuítas, s\/n  AC Aroazes;"
 }

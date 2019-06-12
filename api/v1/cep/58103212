@@ -1,12 +1,12 @@
 {
-  "cep": "58103212",
-  "logradouro": "Rua São Miguel",
-  "bairro": "Camalaú",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Camalaú;",
+    "cep": "58103212",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua São Miguel;"
 }

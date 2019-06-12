@@ -1,12 +1,12 @@
 {
-  "cep": "69401155",
-  "logradouro": "Beco Silves II",
-  "bairro": "União",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "União;",
+    "cep": "69401155",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Beco Silves II;"
 }

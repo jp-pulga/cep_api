@@ -1,12 +1,12 @@
 {
-  "cep": "64008363",
-  "logradouro": "Rua Castelo do Piauí",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "64008363",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Castelo do Piauí;"
 }

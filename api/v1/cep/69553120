@@ -1,12 +1,12 @@
 {
-  "cep": "69553120",
-  "logradouro": "Travessa Arimatéia",
-  "bairro": "Fonte Boa",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Fonte Boa;",
+    "cep": "69553120",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "logradouro": "Travessa Arimatéia;"
 }

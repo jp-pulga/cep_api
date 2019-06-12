@@ -1,12 +1,13 @@
 {
-  "cep": "57062758",
-  "logradouro": "Escadaria São Luiz (Monte Alegre)",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "57062758",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Escadaria São Luiz (Monte Alegre);"
 }

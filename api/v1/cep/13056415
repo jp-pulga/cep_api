@@ -1,12 +1,12 @@
 {
-  "cep": "13056415",
-  "logradouro": "Rua Ipojucã",
-  "bairro": "Parque Dom Pedro II",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Dom Pedro II;",
+    "cep": "13056415",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Ipojucã;"
 }

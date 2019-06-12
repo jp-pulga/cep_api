@@ -1,12 +1,12 @@
 {
-  "cep": "58406480",
-  "logradouro": "Rua Walniza Borborema Cunha Lima",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "58406480",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Walniza Borborema Cunha Lima;"
 }

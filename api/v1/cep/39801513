@@ -1,12 +1,12 @@
 {
-  "cep": "39801513",
-  "logradouro": "Rua Marizete Dantas Melgaço",
-  "bairro": "Pampulhinha",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pampulhinha;",
+    "cep": "39801513",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Marizete Dantas Melgaço;"
 }

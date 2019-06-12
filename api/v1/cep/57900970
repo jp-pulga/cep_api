@@ -1,12 +1,13 @@
 {
-  "cep": "57900970",
-  "logradouro": "AC Porto Calvo Rua Doutor Antonio Dorta 16",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Calvo",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57900970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Porto Calvo"
+    },
+    "ibge": 2707305,
+    "logradouro": "Rua Doutor Antonio Dorta, 16  AC Porto Calvo;"
 }

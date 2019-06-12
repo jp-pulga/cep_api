@@ -1,12 +1,13 @@
 {
-  "cep": "69101739",
-  "logradouro": "Rua da Amizade",
-  "bairro": "Mamoud Amed",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Mamoud Amed;",
+    "cep": "69101739",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "ibge": 1301902,
+    "logradouro": "Rua da Amizade;"
 }

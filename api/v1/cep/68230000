@@ -1,12 +1,11 @@
 {
-  "cep": "68230000",
-  "logradouro": "Almeirim",
-  "bairro": "",
-  "cidade": {
-    "nome": "Almeirim",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68230000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Almeirim"
+    },
+    "ibge": 1500503
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93220440",
-  "logradouro": "Passeio Vista Alegre",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93220440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Passeio Vista Alegre;"
 }

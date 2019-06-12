@@ -1,12 +1,12 @@
 {
-  "cep": "58417268",
-  "logradouro": "Rua Joaquim Firmino de Almeida",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "58417268",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Joaquim Firmino de Almeida;"
 }

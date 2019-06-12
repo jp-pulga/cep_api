@@ -1,12 +1,12 @@
 {
-  "cep": "05027100",
-  "logradouro": "Rua Pitaguares",
-  "bairro": "Vila Anglo Brasileira",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Anglo Brasileira;",
+    "cep": "05027100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pitaguares;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57601190",
-  "logradouro": "Rua Ary Alves dos Santos",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "57601190",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rua Ary Alves dos Santos;"
 }

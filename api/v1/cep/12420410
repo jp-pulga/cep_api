@@ -1,12 +1,12 @@
 {
-  "cep": "12420410",
-  "logradouro": "Rua Ruth Francisco dos Santos",
-  "bairro": "Vila Nehemia",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nehemia;",
+    "cep": "12420410",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Rua Ruth Francisco dos Santos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "66020320",
-  "logradouro": "Travessa Gurupá",
-  "bairro": "Cidade Velha",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Velha;",
+    "cep": "66020320",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Travessa Gurupá;"
 }

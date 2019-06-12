@@ -1,12 +1,12 @@
 {
-  "cep": "58067240",
-  "logradouro": "Rua Monte Horebe",
-  "bairro": "Gramame",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Gramame;",
+    "cep": "58067240",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Monte Horebe;"
 }

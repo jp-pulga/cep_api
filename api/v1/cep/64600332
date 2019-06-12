@@ -1,12 +1,13 @@
 {
-  "cep": "64600332",
-  "logradouro": "Avenida Beira Rio",
-  "bairro": "Malva",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Malva;",
+    "cep": "64600332",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida José de Moura Monteiro;"
 }

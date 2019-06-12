@@ -1,12 +1,13 @@
 {
-  "cep": "64775970",
-  "logradouro": "AC Bonfim do Piauí Avenida Maria José Ribeiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bonfim do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64775970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Bonfim do Piauí"
+    },
+    "ibge": 2201929,
+    "logradouro": "Avenida Maria José Ribeiro, s\/n  AC Bonfim do Piauí;"
 }

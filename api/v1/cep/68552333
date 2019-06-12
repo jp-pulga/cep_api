@@ -1,12 +1,13 @@
 {
-  "cep": "68552333",
-  "logradouro": "Rua Paracatu",
-  "bairro": "Setor Oeste",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Setor Oeste;",
+    "cep": "68552333",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua Paracatu;"
 }

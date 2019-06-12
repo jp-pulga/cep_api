@@ -1,12 +1,13 @@
 {
-  "cep": "68460153",
-  "logradouro": "Travessa João Paulo II",
-  "bairro": "Palmares 2",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Palmares 2;",
+    "cep": "68460153",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Travessa João Paulo II;"
 }

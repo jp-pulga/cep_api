@@ -1,12 +1,12 @@
 {
-  "cep": "58013912",
-  "logradouro": "Tribunal Regional do Trabalho do Estado da Paraíba Avenida Coremas 66",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58013912",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida Coremas, 66  Tribunal Regional do Trabalho do Estado da Paraíba;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12914580",
-  "logradouro": "Alameda dos Manacás",
-  "bairro": "Parque das Faculdades",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Faculdades;",
+    "cep": "12914580",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Alameda dos Manacás;"
 }

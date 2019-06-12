@@ -1,12 +1,11 @@
 {
-  "cep": "69460000",
-  "logradouro": "Coari",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coari",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69460000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Coari"
+    },
+    "ibge": 1301209
 }

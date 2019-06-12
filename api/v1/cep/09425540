@@ -1,12 +1,12 @@
 {
-  "cep": "09425540",
-  "logradouro": "Rua Baturi",
-  "bairro": "Bocaina",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bocaina;",
+    "cep": "09425540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Baturi;"
 }

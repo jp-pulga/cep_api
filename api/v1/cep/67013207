@@ -1,12 +1,13 @@
 {
-  "cep": "67013207",
-  "logradouro": "Passagem Boa Vista",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Atalaia;",
+    "cep": "67013207",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Passagem Boa Vista;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58775970",
-  "logradouro": "AC Igaracy Rua Salustiano Miguel de Sousa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Igaracy",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58775970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Igaracy"
+    },
+    "ibge": 2502607,
+    "logradouro": "Rua Salustiano Miguel de Sousa, s\/n  AC Igaracy;"
 }

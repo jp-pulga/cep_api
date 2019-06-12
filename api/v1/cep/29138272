@@ -1,12 +1,12 @@
 {
-  "cep": "29138272",
-  "logradouro": "Avenida Nossa Senhora Aparecida",
-  "bairro": "Nova Bethânia",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Bethânia;",
+    "cep": "29138272",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Avenida Nossa Senhora Aparecida;"
 }

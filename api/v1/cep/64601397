@@ -1,12 +1,12 @@
 {
-  "cep": "64601397",
-  "logradouro": "Rua Dom Expedito Lopes",
-  "bairro": "Bomba",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bomba;",
+    "cep": "64601397",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Dom Expedito Lopes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64016852",
-  "logradouro": "Rua Anísio de Abreu (Zona Sul) de 1001/1002 ao fim",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "64016852",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Anísio de Abreu (Zona Sul) - de 1001\/1002 ao fim;"
 }

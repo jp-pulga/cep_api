@@ -1,12 +1,12 @@
 {
-  "cep": "13479753",
-  "logradouro": "Rua José Silvestre Gomes Coelho Filho",
-  "bairro": "Portal dos Nobres",
-  "cidade": {
-    "nome": "Americana",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Portal dos Nobres;",
+    "cep": "13479753",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Americana"
+    },
+    "logradouro": "Rua José Silvestre Gomes Coelho Filho;"
 }

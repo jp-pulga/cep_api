@@ -1,12 +1,12 @@
 {
-  "cep": "07241060",
-  "logradouro": "Rua Petrolândia",
-  "bairro": "Parque Industrial Cumbica",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Industrial Cumbica;",
+    "cep": "07241060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Petrolândia;"
 }

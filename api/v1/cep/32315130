@@ -1,12 +1,12 @@
 {
-  "cep": "32315130",
-  "logradouro": "Praça Nossa Senhora da Glória",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "32315130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Praça Nossa Senhora da Glória;"
 }

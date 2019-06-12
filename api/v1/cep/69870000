@@ -1,12 +1,11 @@
 {
-  "cep": "69870000",
-  "logradouro": "Envira",
-  "bairro": "",
-  "cidade": {
-    "nome": "Envira",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69870000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Envira"
+    },
+    "ibge": 1301506
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "67010300",
-  "logradouro": "Passagem Alcides Pantoja",
-  "bairro": "Guanabara",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Guanabara;",
+    "cep": "67010300",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Passagem Alcides Pantoja;"
 }

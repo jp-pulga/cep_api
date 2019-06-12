@@ -1,12 +1,12 @@
 {
-  "cep": "64218855",
-  "logradouro": "Rua Picos",
-  "bairro": "Bebedouro",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bebedouro;",
+    "cep": "64218855",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Picos;"
 }

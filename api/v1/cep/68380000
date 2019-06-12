@@ -1,12 +1,11 @@
 {
-  "cep": "68380000",
-  "logradouro": "São Félix do Xingu",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Félix do Xingu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68380000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Félix do Xingu"
+    },
+    "ibge": 1507300
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64580970",
-  "logradouro": "AC Patos do Piauí Rua Luiz Lelis de Carvalho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Patos do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64580970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Patos do Piauí"
+    },
+    "ibge": 2207777,
+    "logradouro": "Rua Luiz Lelis de Carvalho, s\/n  AC Patos do Piauí;"
 }

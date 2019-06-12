@@ -1,12 +1,13 @@
 {
-  "cep": "68552700",
-  "logradouro": "Rua Doutor Pedro Paulo Barcauí",
-  "bairro": "Vila Paulista",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila Paulista;",
+    "cep": "68552700",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua Doutor Pedro Paulo Barcauí;"
 }

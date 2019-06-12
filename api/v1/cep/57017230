@@ -1,12 +1,12 @@
 {
-  "cep": "57017230",
-  "logradouro": "Avenida Senador Rui Palmeira",
-  "bairro": "Bom Parto",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Bom Parto;",
+    "cep": "57017230",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Senador Rui Palmeira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "08295295",
-  "logradouro": "Rua São Gonçalo do Piauí de 380/381 ao fim",
-  "bairro": "Itaquera",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Itaquera;",
+    "cep": "08295295",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua São Gonçalo do Piauí - de 380\/381 ao fim;"
 }

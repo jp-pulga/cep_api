@@ -1,12 +1,12 @@
 {
-  "cep": "58407098",
-  "logradouro": "Rua Zumba Monteiro",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "58407098",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Zumba Monteiro;"
 }

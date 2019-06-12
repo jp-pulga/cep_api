@@ -1,12 +1,12 @@
 {
-  "cep": "88110057",
-  "logradouro": "Rua Pedro José da Silva",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88110057",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Pedro José da Silva;"
 }

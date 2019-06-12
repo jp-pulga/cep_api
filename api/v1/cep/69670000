@@ -1,12 +1,11 @@
 {
-  "cep": "69670000",
-  "logradouro": "Fonte Boa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Fonte Boa",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69670000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Fonte Boa"
+    },
+    "ibge": 1301605
 }

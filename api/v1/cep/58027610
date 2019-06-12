@@ -1,12 +1,12 @@
 {
-  "cep": "58027610",
-  "logradouro": "Rua São Bento",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "58027610",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua São Bento;"
 }

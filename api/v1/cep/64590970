@@ -1,12 +1,12 @@
 {
-  "cep": "64590970",
-  "logradouro": "AC Caridade do Piauí Avenida Capitão Zuca Santos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caridade do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64590970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Caridade do Piauí"
+    },
+    "logradouro": "Avenida Capitão Zuca Santos, s\/n  AC Caridade do Piauí;"
 }

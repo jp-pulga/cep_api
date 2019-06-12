@@ -1,12 +1,11 @@
 {
-  "cep": "69120000",
-  "logradouro": "Itapiranga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itapiranga",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69120000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itapiranga"
+    },
+    "ibge": 1302009
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31970404",
-  "logradouro": "Rua Pedro Mansur Kfuri",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "31970404",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pedro Mansur Kfuri;"
 }

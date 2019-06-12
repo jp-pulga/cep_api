@@ -1,12 +1,11 @@
 {
-  "cep": "68635000",
-  "logradouro": "São Domingos do Capim",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Domingos do Capim",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68635000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Domingos do Capim"
+    },
+    "ibge": 1507201
 }

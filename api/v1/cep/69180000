@@ -1,12 +1,11 @@
 {
-  "cep": "69180000",
-  "logradouro": "Urucurituba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Urucurituba",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69180000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Urucurituba"
+    },
+    "ibge": 1304401
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58306050",
-  "logradouro": "Avenida José Lira",
-  "bairro": "Sesi",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Sesi;",
+    "cep": "58306050",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "ibge": 2501807,
+    "logradouro": "Avenida José Lira;"
 }

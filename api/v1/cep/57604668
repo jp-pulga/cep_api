@@ -1,12 +1,13 @@
 {
-  "cep": "57604668",
-  "logradouro": "Rua Alfredo Antônio dos Santos (Lot Recanto do Sabiá)",
-  "bairro": "Graciliano Ramos",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Graciliano Ramos;",
+    "cep": "57604668",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rua Alfredo Antônio dos Santos (Lot Recanto do Sabiá);"
 }

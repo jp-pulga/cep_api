@@ -1,12 +1,12 @@
 {
-  "cep": "07121100",
-  "logradouro": "Rua Castelo do Piauí",
-  "bairro": "Jardim São Roberto",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Roberto;",
+    "cep": "07121100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Castelo do Piauí;"
 }

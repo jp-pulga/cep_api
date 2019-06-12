@@ -1,12 +1,12 @@
 {
-  "cep": "15803403",
-  "logradouro": "Travessa Penedo",
-  "bairro": "Jardim Alvorada",
-  "cidade": {
-    "nome": "Catanduva",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Alvorada;",
+    "cep": "15803403",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Catanduva"
+    },
+    "logradouro": "Travessa Penedo;"
 }

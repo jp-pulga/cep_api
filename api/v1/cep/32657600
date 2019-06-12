@@ -1,12 +1,12 @@
 {
-  "cep": "32657600",
-  "logradouro": "Alameda dos Coqueiros",
-  "bairro": "Estância do Sereno Sede",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estância do Sereno Sede;",
+    "cep": "32657600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Alameda dos Coqueiros;"
 }

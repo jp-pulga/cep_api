@@ -1,12 +1,12 @@
 {
-  "cep": "12914475",
-  "logradouro": "Rua Madre Paulina",
-  "bairro": "Jardim Nova Bragança",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nova Bragança;",
+    "cep": "12914475",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Rua Madre Paulina;"
 }

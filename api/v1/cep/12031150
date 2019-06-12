@@ -1,12 +1,12 @@
 {
-  "cep": "12031150",
-  "logradouro": "Rua Madre Eulália Perrotin",
-  "bairro": "Parque Residencial Bom Conselho",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Residencial Bom Conselho;",
+    "cep": "12031150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Madre Eulália Perrotin;"
 }

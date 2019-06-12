@@ -1,12 +1,12 @@
 {
-  "cep": "64014205",
-  "logradouro": "Rua Jaicós",
-  "bairro": "Cristo Rei",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Cristo Rei;",
+    "cep": "64014205",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Jaicós;"
 }

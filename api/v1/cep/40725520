@@ -1,12 +1,12 @@
 {
-  "cep": "40725520",
-  "logradouro": "Travessa Nossa Senhora de Lourdes",
-  "bairro": "Praia Grande",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Praia Grande;",
+    "cep": "40725520",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Nossa Senhora de Lourdes;"
 }

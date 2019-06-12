@@ -1,12 +1,11 @@
 {
-  "cep": "57100000",
-  "logradouro": "Rio Largo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Largo",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57100000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Rio Largo"
+    },
+    "ibge": 2707701
 }

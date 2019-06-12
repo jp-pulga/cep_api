@@ -1,12 +1,13 @@
 {
-  "cep": "58350970",
-  "logradouro": "AC Caldas Brandão Rua José Alípio de Santana 371",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caldas Brandão",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58350970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Caldas Brandão"
+    },
+    "ibge": 2503803,
+    "logradouro": "Rua José Alípio de Santana, 371  AC Caldas Brandão;"
 }

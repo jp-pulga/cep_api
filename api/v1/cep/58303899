@@ -1,12 +1,13 @@
 {
-  "cep": "58303899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Santa Rita",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Área Rural de Santa Rita;",
+    "cep": "58303899",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Área Rural;"
 }

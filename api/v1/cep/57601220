@@ -1,12 +1,13 @@
 {
-  "cep": "57601220",
-  "logradouro": "Avenida Alagoas até 109/110",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "57601220",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Avenida Alagoas - até 109\/110;"
 }

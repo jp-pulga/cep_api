@@ -1,12 +1,12 @@
 {
-  "cep": "88070540",
-  "logradouro": "Rua Professor José de Senna Pereira",
-  "bairro": "Capoeiras",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Capoeiras;",
+    "cep": "88070540",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Professor José de Senna Pereira;"
 }

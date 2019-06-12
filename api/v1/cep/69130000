@@ -1,12 +1,11 @@
 {
-  "cep": "69130000",
-  "logradouro": "Urucará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Urucará",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69130000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Urucará"
+    },
+    "ibge": 1304302
 }

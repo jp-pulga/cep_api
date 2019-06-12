@@ -1,12 +1,13 @@
 {
-  "cep": "58432120",
-  "logradouro": "Avenida Marechal Floriano Peixoto",
-  "bairro": "Dinamérica",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Dinamérica;",
+    "cep": "58432120",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Marechal Floriano Peixoto;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57940970",
-  "logradouro": "AC São Miguel dos Milagres Rua Vereador Lamenha Couto 119",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel dos Milagres",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57940970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "São Miguel dos Milagres"
+    },
+    "ibge": 2708709,
+    "logradouro": "Rua Vereador Lamenha Couto, 119  AC São Miguel dos Milagres;"
 }

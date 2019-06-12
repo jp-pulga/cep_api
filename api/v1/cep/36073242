@@ -1,12 +1,12 @@
 {
-  "cep": "36073242",
-  "logradouro": "Rua Paulo Cozzolino Carneiro",
-  "bairro": "Terras Altas",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Terras Altas;",
+    "cep": "36073242",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Paulo Cozzolino Carneiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13995970",
-  "logradouro": "AC Santo Antônio do Jardim Rua Senador Abelardo César 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Jardim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "13995970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo Antônio do Jardim"
+    },
+    "logradouro": "Rua Senador Abelardo César, 99  AC Santo Antônio do Jardim;"
 }

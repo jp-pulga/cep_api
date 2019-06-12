@@ -1,12 +1,12 @@
 {
-  "cep": "58108288",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Renascer",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Renascer;",
+    "cep": "58108288",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

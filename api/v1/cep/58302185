@@ -1,12 +1,12 @@
 {
-  "cep": "58302185",
-  "logradouro": "Rua Montadas",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "58302185",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "logradouro": "Rua Montadas;"
 }

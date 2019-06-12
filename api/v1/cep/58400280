@@ -1,12 +1,12 @@
 {
-  "cep": "58400280",
-  "logradouro": "Rua Solon de Lucena",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58400280",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Solon de Lucena;"
 }

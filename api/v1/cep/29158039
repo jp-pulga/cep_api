@@ -1,12 +1,12 @@
 {
-  "cep": "29158039",
-  "logradouro": "Rua São Paulo",
-  "bairro": "Novo Brasil",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Brasil;",
+    "cep": "29158039",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua São Paulo;"
 }

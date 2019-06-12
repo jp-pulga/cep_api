@@ -1,12 +1,13 @@
 {
-  "cep": "64970970",
-  "logradouro": "AC Parnaguá Avenida David Mascarenhas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parnaguá",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64970970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaguá"
+    },
+    "ibge": 2207603,
+    "logradouro": "Avenida Davi Mascarenhas, s\/n  AC Parnaguá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58309642",
-  "logradouro": "Rua do Jardim",
-  "bairro": "Mário Andreazza",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mário Andreazza;",
+    "cep": "58309642",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua do Jardim;"
 }

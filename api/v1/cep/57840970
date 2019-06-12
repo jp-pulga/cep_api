@@ -1,12 +1,13 @@
 {
-  "cep": "57840970",
-  "logradouro": "AC Santana do Mundaú Rua Silvestre Péricles s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Mundaú",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57840970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Santana do Mundaú"
+    },
+    "ibge": 2708105,
+    "logradouro": "Rua Silvestre Péricles, s\/n  AC Santana do Mundaú;"
 }

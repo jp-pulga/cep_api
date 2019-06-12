@@ -1,12 +1,12 @@
 {
-  "cep": "07124470",
-  "logradouro": "Rua São Sebastião do Alto",
-  "bairro": "Vila Itapoan",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Itapoan;",
+    "cep": "07124470",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua São Sebastião do Alto;"
 }

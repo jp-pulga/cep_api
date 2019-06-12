@@ -1,12 +1,13 @@
 {
-  "cep": "69553165",
-  "logradouro": "Beco Bem-te-vi",
-  "bairro": "Fonte Boa",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Fonte Boa;",
+    "cep": "69553165",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Beco Bem-te-vi;"
 }

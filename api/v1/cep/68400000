@@ -1,12 +1,11 @@
 {
-  "cep": "68400000",
-  "logradouro": "Cametá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cametá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68400000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Cametá"
+    },
+    "ibge": 1502103
 }

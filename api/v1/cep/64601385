@@ -1,12 +1,13 @@
 {
-  "cep": "64601385",
-  "logradouro": "Avenida Deputado Raimundo de Sá Urtiga lado par",
-  "bairro": "Bomba",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bomba;",
+    "cep": "64601385",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Deputado Raimundo de Sá Urtiga - lado par;"
 }

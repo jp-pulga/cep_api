@@ -1,12 +1,12 @@
 {
-  "cep": "58040520",
-  "logradouro": "Rua Barão da Passagem",
-  "bairro": "Torre",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Torre;",
+    "cep": "58040520",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Barão da Passagem;"
 }

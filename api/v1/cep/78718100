@@ -1,12 +1,12 @@
 {
-  "cep": "78718100",
-  "logradouro": "Rua Pará",
-  "bairro": "Vila São José",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila São José;",
+    "cep": "78718100",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Pará;"
 }

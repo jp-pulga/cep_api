@@ -1,12 +1,12 @@
 {
-  "cep": "58406120",
-  "logradouro": "Rua Neuza Borborema de Souza",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "58406120",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Neuza Borborema de Souza;"
 }

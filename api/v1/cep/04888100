@@ -1,12 +1,12 @@
 {
-  "cep": "04888100",
-  "logradouro": "Rua Amélia Casal",
-  "bairro": "Chácara São Silvestre",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara São Silvestre;",
+    "cep": "04888100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Amélia Casal;"
 }

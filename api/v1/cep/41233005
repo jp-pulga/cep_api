@@ -1,12 +1,12 @@
 {
-  "cep": "41233005",
-  "logradouro": "Rua Álvaro Gomes de Castro (Pto S Pirajá)",
-  "bairro": "Porto Seco Pirajá",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Porto Seco Pirajá;",
+    "cep": "41233005",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Álvaro Gomes de Castro (Pto S Pirajá);"
 }

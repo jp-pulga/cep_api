@@ -1,12 +1,12 @@
 {
-  "cep": "44004752",
-  "logradouro": "Rua Pesqueira",
-  "bairro": "Jardim Acácia",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Acácia;",
+    "cep": "44004752",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Pesqueira;"
 }

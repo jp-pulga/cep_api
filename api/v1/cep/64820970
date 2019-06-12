@@ -1,12 +1,13 @@
 {
-  "cep": "64820970",
-  "logradouro": "AC Itaueira Rua Ludgero de Franca Teixeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaueira",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64820970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Itaueira"
+    },
+    "ibge": 2205102,
+    "logradouro": "Rua Ludgero de Franca Teixeira, s\/n  AC Itaueira;"
 }

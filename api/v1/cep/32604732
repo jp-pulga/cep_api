@@ -1,12 +1,12 @@
 {
-  "cep": "32604732",
-  "logradouro": "Rua Ceará de 50/51 ao fim",
-  "bairro": "Senhora das Graças",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhora das Graças;",
+    "cep": "32604732",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Ceará - de 50\/51 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57071001",
-  "logradouro": "Rua Teotônio Vilela",
-  "bairro": "Clima Bom",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Clima Bom;",
+    "cep": "57071001",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Teotônio Vilela;"
 }

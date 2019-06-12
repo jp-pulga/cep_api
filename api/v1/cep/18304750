@@ -1,12 +1,12 @@
 {
-  "cep": "18304750",
-  "logradouro": "Avenida Doutor Péricles de Freitas",
-  "bairro": "Terras do Embiruçu",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Terras do Embiruçu;",
+    "cep": "18304750",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Avenida Doutor Péricles de Freitas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "66095400",
-  "logradouro": "Passagem Monte Alegre",
-  "bairro": "Marco",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marco;",
+    "cep": "66095400",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Monte Alegre;"
 }

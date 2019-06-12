@@ -1,12 +1,13 @@
 {
-  "cep": "57035020",
-  "logradouro": "Rua Cláudio Ramos",
-  "bairro": "Ponta Verde",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ponta Verde;",
+    "cep": "57035020",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Desembargador Jerônimo de Albuquerque;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04829085",
-  "logradouro": "Rua Vila Nova de Ourem",
-  "bairro": "Jardim Bela Vista (Zona Sul)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bela Vista (Zona Sul);",
+    "cep": "04829085",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Vila Nova de Ourem;"
 }

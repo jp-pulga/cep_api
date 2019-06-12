@@ -1,12 +1,13 @@
 {
-  "cep": "69550129",
-  "logradouro": "Beco São Miguel",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69550129",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Beco São Miguel;"
 }

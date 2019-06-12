@@ -1,12 +1,13 @@
 {
-  "cep": "58706810",
-  "logradouro": "Rodovia BR-230",
-  "bairro": "Ana Leite",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ana Leite;",
+    "cep": "58706810",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Rodovia BR-230;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32215100",
-  "logradouro": "Rua Padre Machado",
-  "bairro": "Jardim Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Industrial;",
+    "cep": "32215100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Padre Machado;"
 }

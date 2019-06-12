@@ -1,12 +1,12 @@
 {
-  "cep": "35931142",
-  "logradouro": "Avenida Buenos Aires",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "35931142",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Avenida Buenos Aires;"
 }

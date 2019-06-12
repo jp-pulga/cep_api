@@ -1,12 +1,12 @@
 {
-  "cep": "32670540",
-  "logradouro": "Rua Pacífico Belém de 400/401 ao fim",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "32670540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Pacífico Belém - de 400\/401 ao fim;"
 }

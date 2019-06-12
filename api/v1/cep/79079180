@@ -1,12 +1,12 @@
 {
-  "cep": "79079180",
-  "logradouro": "Rua Rio Pequeno",
-  "bairro": "Chácara das Mansões",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Chácara das Mansões;",
+    "cep": "79079180",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Rio Pequeno;"
 }

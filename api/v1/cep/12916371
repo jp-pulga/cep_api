@@ -1,12 +1,12 @@
 {
-  "cep": "12916371",
-  "logradouro": "Alameda Aveiro",
-  "bairro": "Condomínio Residencial Fazenda Santa Helena",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Condomínio Residencial Fazenda Santa Helena;",
+    "cep": "12916371",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Alameda Aveiro;"
 }

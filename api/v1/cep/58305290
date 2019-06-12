@@ -1,12 +1,12 @@
 {
-  "cep": "58305290",
-  "logradouro": "Rua Maria Nazaré",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "58305290",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Maria Nazaré;"
 }

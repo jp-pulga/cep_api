@@ -1,12 +1,13 @@
 {
-  "cep": "64965970",
-  "logradouro": "AC Avelino Lopes Avenida Sérgio Gama 105",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Avelino Lopes",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64965970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Avelino Lopes"
+    },
+    "ibge": 2201101,
+    "logradouro": "Avenida Sérgio Gama, s\/n  AC Avelino Lopes;"
 }

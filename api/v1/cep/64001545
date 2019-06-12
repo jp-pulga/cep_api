@@ -1,12 +1,12 @@
 {
-  "cep": "64001545",
-  "logradouro": "Rua Monsenhor Gil",
-  "bairro": "Frei Serafim",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Frei Serafim;",
+    "cep": "64001545",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Monsenhor Gil;"
 }

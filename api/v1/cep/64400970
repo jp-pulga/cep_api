@@ -1,12 +1,13 @@
 {
-  "cep": "64400970",
-  "logradouro": "AC Amarante Avenida Desembargador Amaral 50",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Amarante",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64400970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Amarante"
+    },
+    "ibge": 2200509,
+    "logradouro": "Avenida Desembargador Amaral, 50  AC Amarante;"
 }

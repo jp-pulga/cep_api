@@ -1,12 +1,13 @@
 {
-  "cep": "58819970",
-  "logradouro": "AC Marizópolis Rua Doutor Otávio Mariz 35 Bloco A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marizópolis",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58819970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Marizópolis"
+    },
+    "ibge": 2509156,
+    "logradouro": "Rua Doutor Otávio Mariz, 35 Bloco A  AC Marizópolis;"
 }

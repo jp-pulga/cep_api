@@ -1,12 +1,13 @@
 {
-  "cep": "58102151",
-  "logradouro": "Avenida Mar da Noruega",
-  "bairro": "Intermares",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Intermares;",
+    "cep": "58102151",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "ibge": 2503209,
+    "logradouro": "Avenida Mar da Noruega;"
 }

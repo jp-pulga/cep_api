@@ -1,12 +1,13 @@
 {
-  "cep": "64833970",
-  "logradouro": "AGC Canavieira Rua Augusto s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canavieira",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64833970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Canavieira"
+    },
+    "ibge": 2202251,
+    "logradouro": "Rua Getulio Vargas, s\/n  AC Canavieira;"
 }

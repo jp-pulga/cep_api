@@ -1,12 +1,12 @@
 {
-  "cep": "36080290",
-  "logradouro": "Rua Álvaro Fulgêncio Carneiro",
-  "bairro": "Cerâmica",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cerâmica;",
+    "cep": "36080290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Álvaro Fulgêncio Carneiro;"
 }

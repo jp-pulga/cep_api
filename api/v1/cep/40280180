@@ -1,12 +1,12 @@
 {
-  "cep": "40280180",
-  "logradouro": "Avenida Nossa Senhora de Lourdes",
-  "bairro": "Parque Bela Vista",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Bela Vista;",
+    "cep": "40280180",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Nossa Senhora de Lourdes;"
 }

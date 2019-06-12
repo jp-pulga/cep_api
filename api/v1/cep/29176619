@@ -1,12 +1,12 @@
 {
-  "cep": "29176619",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Palmeiras",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Palmeiras;",
+    "cep": "29176619",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua São Domingos;"
 }

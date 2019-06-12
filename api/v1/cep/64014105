@@ -1,12 +1,12 @@
 {
-  "cep": "64014105",
-  "logradouro": "Rua Picos lado ímpar",
-  "bairro": "Piçarra",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piçarra;",
+    "cep": "64014105",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Picos - lado ímpar;"
 }

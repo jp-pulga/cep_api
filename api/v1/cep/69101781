@@ -1,12 +1,12 @@
 {
-  "cep": "69101781",
-  "logradouro": "Rua Rio Japurá",
-  "bairro": "Mamoud Amed",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Mamoud Amed;",
+    "cep": "69101781",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "logradouro": "Rua Rio Japurá;"
 }

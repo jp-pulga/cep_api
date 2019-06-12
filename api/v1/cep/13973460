@@ -1,12 +1,12 @@
 {
-  "cep": "13973460",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Jardim Paraíso",
-  "cidade": {
-    "nome": "Itapira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paraíso;",
+    "cep": "13973460",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapira"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

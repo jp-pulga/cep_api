@@ -1,12 +1,12 @@
 {
-  "cep": "44571045",
-  "logradouro": "Rua Independência",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44571045",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "logradouro": "Rua Independência;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "68005600",
-  "logradouro": "Praça Júlia Passarinho",
-  "bairro": "Prainha",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Prainha;",
+    "cep": "68005600",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Praça Júlia Passarinho;"
 }

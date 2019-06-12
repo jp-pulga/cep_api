@@ -1,12 +1,12 @@
 {
-  "cep": "57046340",
-  "logradouro": "Conjunto Senador Rui Palmeira",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "57046340",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Conjunto Senador Rui Palmeira;"
 }

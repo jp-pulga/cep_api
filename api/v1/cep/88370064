@@ -1,12 +1,12 @@
 {
-  "cep": "88370064",
-  "logradouro": "Travessa Aracati",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Navegantes",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88370064",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Navegantes"
+    },
+    "logradouro": "Travessa Aracati;"
 }

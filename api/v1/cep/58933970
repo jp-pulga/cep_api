@@ -1,12 +1,13 @@
 {
-  "cep": "58933970",
-  "logradouro": "AC Poço Dantas Rua Helena Abrantes Ferreira 71",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poço Dantas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58933970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Poço Dantas"
+    },
+    "ibge": 2512036,
+    "logradouro": "Rua Helena Abrantes Ferreira, 71  AC Poço Dantas;"
 }

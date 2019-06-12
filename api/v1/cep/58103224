@@ -1,12 +1,12 @@
 {
-  "cep": "58103224",
-  "logradouro": "Rua Ex-Combatente João Batista da Silva",
-  "bairro": "Camalaú",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Camalaú;",
+    "cep": "58103224",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Ex-Combatente João Batista da Silva;"
 }

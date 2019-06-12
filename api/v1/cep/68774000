@@ -1,12 +1,11 @@
 {
-  "cep": "68774000",
-  "logradouro": "São João da Ponta",
-  "bairro": "",
-  "cidade": {
-    "nome": "São João da Ponta",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68774000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São João da Ponta"
+    },
+    "ibge": 1507466
 }

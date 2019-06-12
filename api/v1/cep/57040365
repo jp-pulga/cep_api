@@ -1,12 +1,12 @@
 {
-  "cep": "57040365",
-  "logradouro": "Travessa Pau d'Arco",
-  "bairro": "Jacintinho",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jacintinho;",
+    "cep": "57040365",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Pau d'Arco;"
 }

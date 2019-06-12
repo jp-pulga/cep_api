@@ -1,12 +1,12 @@
 {
-  "cep": "64105970",
-  "logradouro": "AC Cabeceiras do Piauí Rua São José 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cabeceiras do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64105970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cabeceiras do Piauí"
+    },
+    "logradouro": "Rua São José, 26  AC Cabeceiras do Piauí;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58255974",
-  "logradouro": "AGC Serrote Sítio Serrote s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58255974",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 2501906,
+    "logradouro": "Sítio Serrote, s\/n  AGC Serrote;"
 }

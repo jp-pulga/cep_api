@@ -1,12 +1,12 @@
 {
-  "cep": "91760650",
-  "logradouro": "Rua Porto Calvo",
-  "bairro": "Ipanema",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipanema;",
+    "cep": "91760650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Porto Calvo;"
 }

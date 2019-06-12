@@ -1,12 +1,12 @@
 {
-  "cep": "04236050",
-  "logradouro": "Rua Flores de São Pedro",
-  "bairro": "Vila Heliópolis",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Heliópolis;",
+    "cep": "04236050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Flores de São Pedro;"
 }

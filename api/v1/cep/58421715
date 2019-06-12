@@ -1,12 +1,12 @@
 {
-  "cep": "58421715",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Cidades",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cidades;",
+    "cep": "58421715",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

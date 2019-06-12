@@ -1,12 +1,12 @@
 {
-  "cep": "29041344",
-  "logradouro": "Escadaria do Pedrão",
-  "bairro": "Romão",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Romão;",
+    "cep": "29041344",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria do Pedrão;"
 }

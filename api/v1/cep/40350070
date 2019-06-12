@@ -1,12 +1,12 @@
 {
-  "cep": "40350070",
-  "logradouro": "Avenida Nossa Senhora de Lourdes",
-  "bairro": "Fazenda Grande do Retiro",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Fazenda Grande do Retiro;",
+    "cep": "40350070",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Nossa Senhora de Lourdes;"
 }

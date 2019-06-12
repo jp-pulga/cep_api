@@ -1,12 +1,13 @@
 {
-  "cep": "64514970",
-  "logradouro": "AGC Cajazeiras do Piauí Rua Cajazeiras s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cajazeiras do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64514970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cajazeiras do Piauí"
+    },
+    "ibge": 2202075,
+    "logradouro": "Rua Cajazeiras, s\/n  AGC Cajazeiras do Piauí;"
 }

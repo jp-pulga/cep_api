@@ -1,12 +1,12 @@
 {
-  "cep": "39804761",
-  "logradouro": "Rua Benetido Celestino",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "39804761",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Benetido Celestino;"
 }

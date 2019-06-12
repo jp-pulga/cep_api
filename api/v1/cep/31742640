@@ -1,12 +1,12 @@
 {
-  "cep": "31742640",
-  "logradouro": "Rua Manoel Antônio Pereira",
-  "bairro": "Jardim Felicidade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Felicidade;",
+    "cep": "31742640",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Manoel Antônio Pereira;"
 }

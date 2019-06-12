@@ -1,12 +1,11 @@
 {
-  "cep": "68585000",
-  "logradouro": "Nova Ipixuna",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Ipixuna",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68585000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Nova Ipixuna"
+    },
+    "ibge": 1504976
 }

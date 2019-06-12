@@ -1,12 +1,11 @@
 {
-  "cep": "57475000",
-  "logradouro": "Pariconha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pariconha",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57475000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Pariconha"
+    },
+    "ibge": 2706422
 }

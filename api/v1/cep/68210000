@@ -1,12 +1,11 @@
 {
-  "cep": "68210000",
-  "logradouro": "Curuá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Curuá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68210000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Curuá"
+    },
+    "ibge": 1502855
 }

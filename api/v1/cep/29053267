@@ -1,12 +1,12 @@
 {
-  "cep": "29053267",
-  "logradouro": "Rua Aluysio Simões de 715 ao fim - lado ímpar",
-  "bairro": "Monte Belo",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Monte Belo;",
+    "cep": "29053267",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Aluysio Simões - de 715 ao fim - lado ímpar;"
 }

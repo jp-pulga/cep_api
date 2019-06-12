@@ -1,12 +1,13 @@
 {
-  "cep": "58705090",
-  "logradouro": "Avenida França",
-  "bairro": "Noé Trajano",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Europa;",
+    "cep": "58705090",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida França;"
 }

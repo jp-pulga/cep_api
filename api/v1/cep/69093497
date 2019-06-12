@@ -1,12 +1,13 @@
 {
-  "cep": "69093497",
-  "logradouro": "Rua Elias Ramiro Bentes",
-  "bairro": "Colônia Terra Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Colônia Terra Nova;",
+    "cep": "69093497",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Elias Ramiro Bentes - até 1395 - lado ímpar;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68155000",
-  "logradouro": "Pinhal (Aveiro)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pinhal (Aveiro)",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68155000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Aveiro"
+    },
+    "ibge": 1501006
 }

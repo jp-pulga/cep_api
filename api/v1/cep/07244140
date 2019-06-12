@@ -1,12 +1,12 @@
 {
-  "cep": "07244140",
-  "logradouro": "Rua Piracuama",
-  "bairro": "Parque Jurema",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Jurema;",
+    "cep": "07244140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Piracuama;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64260970",
-  "logradouro": "AC Piripiri Rua Severiano Medeiros 323",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piripiri",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64260970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Piripiri"
+    },
+    "ibge": 2208403,
+    "logradouro": "Rua Severiano Medeiros, 323  AC Piripiri;"
 }

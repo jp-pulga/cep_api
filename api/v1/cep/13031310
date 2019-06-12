@@ -1,12 +1,12 @@
 {
-  "cep": "13031310",
-  "logradouro": "Rua Piauí",
-  "bairro": "Fundação da Casa Popular",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Fundação da Casa Popular;",
+    "cep": "13031310",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Piauí;"
 }

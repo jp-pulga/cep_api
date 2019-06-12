@@ -1,12 +1,13 @@
 {
-  "cep": "68554140",
-  "logradouro": "Avenida Paraná Mogno",
-  "bairro": "Aripuana",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Aripuana;",
+    "cep": "68554140",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Avenida Paraná Mogno;"
 }

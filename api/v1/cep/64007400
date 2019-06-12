@@ -1,12 +1,12 @@
 {
-  "cep": "64007400",
-  "logradouro": "Rua José de Freitas",
-  "bairro": "Água Mineral",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Água Mineral;",
+    "cep": "64007400",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua José de Freitas;"
 }

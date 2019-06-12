@@ -1,12 +1,12 @@
 {
-  "cep": "58432823",
-  "logradouro": "Rua Boa Vista",
-  "bairro": "Malvinas",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Malvinas;",
+    "cep": "58432823",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Boa Vista;"
 }

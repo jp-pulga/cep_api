@@ -1,12 +1,11 @@
 {
-  "cep": "68300000",
-  "logradouro": "Gurupá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Gurupá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68300000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Gurupá"
+    },
+    "ibge": 1503101
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29175208",
-  "logradouro": "Rua São Sebastião",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "29175208",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua São Sebastião;"
 }

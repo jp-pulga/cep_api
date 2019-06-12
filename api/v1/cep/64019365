@@ -1,12 +1,12 @@
 {
-  "cep": "64019365",
-  "logradouro": "Rua Pio IX",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "64019365",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pio IX;"
 }

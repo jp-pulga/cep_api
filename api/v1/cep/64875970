@@ -1,12 +1,13 @@
 {
-  "cep": "64875970",
-  "logradouro": "AC Manoel Emídio Rua Bernardo Freitas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manoel Emídio",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64875970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Manoel Emídio"
+    },
+    "ibge": 2205904,
+    "logradouro": "Rua Bernardo Freitas, s\/n  AC Manoel Emídio;"
 }

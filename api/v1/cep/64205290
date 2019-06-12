@@ -1,12 +1,12 @@
 {
-  "cep": "64205290",
-  "logradouro": "Avenida Francisco Borges dos Santos (L Impar)",
-  "bairro": "João XXIII",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "João XXIII;",
+    "cep": "64205290",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Avenida Francisco Borges dos Santos (L Impar);"
 }

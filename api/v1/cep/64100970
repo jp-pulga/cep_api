@@ -1,12 +1,13 @@
 {
-  "cep": "64100970",
-  "logradouro": "AC Barras Rua Gervásio Pires 300",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barras",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64100970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Barras"
+    },
+    "ibge": 2201200,
+    "logradouro": "Rua Gervásio Pires, 300  AC Barras;"
 }

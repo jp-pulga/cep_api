@@ -1,12 +1,13 @@
 {
-  "cep": "64755970",
-  "logradouro": "AC Jacobina do Piauí Rua Antonio Almeida s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacobina do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64755970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Jacobina do Piauí"
+    },
+    "ibge": 2205151,
+    "logradouro": "Rua Antonio Almeida, s\/n  AC Jacobina do Piauí;"
 }

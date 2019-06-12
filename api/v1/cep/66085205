@@ -1,12 +1,12 @@
 {
-  "cep": "66085205",
-  "logradouro": "Passagem Santa Maria",
-  "bairro": "Pedreira",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pedreira;",
+    "cep": "66085205",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Santa Maria;"
 }

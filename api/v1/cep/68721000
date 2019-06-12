@@ -1,12 +1,11 @@
 {
-  "cep": "68721000",
-  "logradouro": "Salinópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Salinópolis",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68721000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Salinópolis"
+    },
+    "ibge": 1506203
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13015923",
-  "logradouro": "Edifício Piauí/Maranhão Avenida Júlio de Mesquita 615",
-  "bairro": "Cambuí",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cambuí;",
+    "cep": "13015923",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Avenida Júlio de Mesquita, 615  Edifício Piauí\/Maranhão;"
 }

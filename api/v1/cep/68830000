@@ -1,12 +1,11 @@
 {
-  "cep": "68830000",
-  "logradouro": "Ponta de Pedras",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ponta de Pedras",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68830000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ponta de Pedras"
+    },
+    "ibge": 1505700
 }

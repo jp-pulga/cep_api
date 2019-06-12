@@ -1,12 +1,12 @@
 {
-  "cep": "03126001",
-  "logradouro": "Rua Capitão Pacheco e Chaves de 551/552 ao fim",
-  "bairro": "Vila Prudente",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Prudente;",
+    "cep": "03126001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Capitão Pacheco e Chaves - de 551\/552 ao fim;"
 }

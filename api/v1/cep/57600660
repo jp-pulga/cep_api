@@ -1,12 +1,13 @@
 {
-  "cep": "57600660",
-  "logradouro": "Rua Dezesseis de Setembro",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro;",
+    "cep": "57600660",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rua Dezesseis de Setembro;"
 }

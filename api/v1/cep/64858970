@@ -1,12 +1,13 @@
 {
-  "cep": "64858970",
-  "logradouro": "AGC Porto Alegre do Piauí Avenida Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Alegre do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64858970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Porto Alegre do Piauí"
+    },
+    "ibge": 2208551,
+    "logradouro": "Avenida Principal, s\/n  AGC Porto Alegre do Piauí;"
 }

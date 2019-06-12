@@ -1,12 +1,13 @@
 {
-  "cep": "68456355",
-  "logradouro": "Travessa Parnaíba",
-  "bairro": "Nova Tucuruí",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Tucuruí;",
+    "cep": "68456355",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Travessa Parnaíba;"
 }

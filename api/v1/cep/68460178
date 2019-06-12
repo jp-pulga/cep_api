@@ -1,12 +1,13 @@
 {
-  "cep": "68460178",
-  "logradouro": "Rua Pará",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "68460178",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Pará;"
 }

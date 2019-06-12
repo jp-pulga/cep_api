@@ -1,12 +1,12 @@
 {
-  "cep": "06523145",
-  "logradouro": "Rua Alaska",
-  "bairro": "Recanto Maravilha III",
-  "cidade": {
-    "nome": "Santana de Parnaíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto Maravilha III;",
+    "cep": "06523145",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santana de Parnaíba"
+    },
+    "logradouro": "Rua Alaska;"
 }

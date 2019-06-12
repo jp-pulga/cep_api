@@ -1,12 +1,11 @@
 {
-  "cep": "68523000",
-  "logradouro": "Curionópolis",
-  "bairro": "",
-  "cidade": {
-    "nome": "Curionópolis",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68523000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Curionópolis"
+    },
+    "ibge": 1502772
 }

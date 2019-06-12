@@ -1,12 +1,12 @@
 {
-  "cep": "58801355",
-  "logradouro": "Rua Alcides Ferreira Dantas",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "58801355",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Alcides Ferreira Dantas;"
 }

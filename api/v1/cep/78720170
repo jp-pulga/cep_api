@@ -1,12 +1,12 @@
 {
-  "cep": "78720170",
-  "logradouro": "Avenida Paraná",
-  "bairro": "Vila Santa Catarina",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Santa Catarina;",
+    "cep": "78720170",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Paraná;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58455970",
-  "logradouro": "AGC Caturité Rua Joao Queiroga s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caturité",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58455970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Caturité"
+    },
+    "ibge": 2504355,
+    "logradouro": "Rua Joao Queiroga, s\/n  AGC Caturité;"
 }

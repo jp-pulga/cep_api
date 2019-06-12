@@ -1,12 +1,12 @@
 {
-  "cep": "79814370",
-  "logradouro": "Rua Manoel Pereira da Costa",
-  "bairro": "Vila Cachoeirinha",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Cachoeirinha;",
+    "cep": "79814370",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Manoel Pereira da Costa;"
 }

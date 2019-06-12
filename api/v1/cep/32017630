@@ -1,12 +1,12 @@
 {
-  "cep": "32017630",
-  "logradouro": "Rua Sete",
-  "bairro": "Estância do Hibisco",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estância do Hibisco;",
+    "cep": "32017630",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Sete;"
 }

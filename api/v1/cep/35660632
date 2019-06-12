@@ -1,12 +1,12 @@
 {
-  "cep": "35660632",
-  "logradouro": "Avenida Alano Melgaço",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35660632",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Avenida Alano Melgaço;"
 }

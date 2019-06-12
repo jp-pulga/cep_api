@@ -1,12 +1,12 @@
 {
-  "cep": "02322220",
-  "logradouro": "Rua Buíque",
-  "bairro": "Parque Casa de Pedra",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Casa de Pedra;",
+    "cep": "02322220",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Buíque;"
 }

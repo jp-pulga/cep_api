@@ -1,12 +1,13 @@
 {
-  "cep": "57041010",
-  "logradouro": "Rua Alcides Correia",
-  "bairro": "Jacintinho",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jacintinho;",
+    "cep": "57041010",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua CD (Lot Pau D'Arco - Alcides Correia);"
 }

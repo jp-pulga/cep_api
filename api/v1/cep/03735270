@@ -1,12 +1,12 @@
 {
-  "cep": "03735270",
-  "logradouro": "Rua João da Cunha Lobo",
-  "bairro": "Vila Araguaia",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Araguaia;",
+    "cep": "03735270",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua João da Cunha Lobo;"
 }

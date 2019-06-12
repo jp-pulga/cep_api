@@ -1,12 +1,12 @@
 {
-  "cep": "38700293",
-  "logradouro": "Rua Paraíba",
-  "bairro": "Vila Santa Luzia",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Luzia;",
+    "cep": "38700293",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Paraíba;"
 }

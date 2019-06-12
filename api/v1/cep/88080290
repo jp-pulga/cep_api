@@ -1,12 +1,12 @@
 {
-  "cep": "88080290",
-  "logradouro": "Travessa Aroldo Pessi",
-  "bairro": "Capoeiras",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Capoeiras;",
+    "cep": "88080290",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Travessa Aroldo Pessi;"
 }

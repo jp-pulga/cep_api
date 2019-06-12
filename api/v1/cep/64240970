@@ -1,12 +1,13 @@
 {
-  "cep": "64240970",
-  "logradouro": "AC Piracuruca Avenida Landri Sales 494",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piracuruca",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64240970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Piracuruca"
+    },
+    "ibge": 2208304,
+    "logradouro": "Avenida Landri Sales, 494  AC Piracuruca;"
 }

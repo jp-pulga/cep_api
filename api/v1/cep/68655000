@@ -1,12 +1,11 @@
 {
-  "cep": "68655000",
-  "logradouro": "Irituia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Irituia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68655000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Irituia"
+    },
+    "ibge": 1503507
 }

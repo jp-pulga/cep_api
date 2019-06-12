@@ -1,12 +1,12 @@
 {
-  "cep": "48607270",
-  "logradouro": "Rua Pesqueira",
-  "bairro": "General Dutra",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "General Dutra;",
+    "cep": "48607270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Pesqueira;"
 }

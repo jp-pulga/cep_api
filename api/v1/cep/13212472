@@ -1,12 +1,12 @@
 {
-  "cep": "13212472",
-  "logradouro": "Rua Pastor Luís Gonçalves Albano",
-  "bairro": "Parque Residencial Jundiaí",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Residencial Jundiaí;",
+    "cep": "13212472",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Rua Pastor Luís Gonçalves Albano;"
 }

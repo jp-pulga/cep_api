@@ -1,12 +1,13 @@
 {
-  "cep": "58763970",
-  "logradouro": "AC Emas Avenida José Celino Filho 102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Emas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58763970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Emas"
+    },
+    "ibge": 2505907,
+    "logradouro": "Avenida José Celino Filho, 102  AC Emas;"
 }

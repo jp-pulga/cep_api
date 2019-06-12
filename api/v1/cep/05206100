@@ -1,12 +1,12 @@
 {
-  "cep": "05206100",
-  "logradouro": "Rua Joaquim de Monte Carmelo",
-  "bairro": "Vila Perus",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Perus;",
+    "cep": "05206100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Joaquim de Monte Carmelo;"
 }

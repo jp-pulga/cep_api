@@ -1,12 +1,12 @@
 {
-  "cep": "04823340",
-  "logradouro": "Rua Tâmisa",
-  "bairro": "Parque Alto do Rio Bonito",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Alto do Rio Bonito;",
+    "cep": "04823340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Tâmisa;"
 }

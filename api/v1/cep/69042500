@@ -1,12 +1,12 @@
 {
-  "cep": "69042500",
-  "logradouro": "Avenida Manoel Borba Gato (Cj D Pedro I)",
-  "bairro": "Dom Pedro I",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Dom Pedro I;",
+    "cep": "69042500",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Manoel Borba Gato;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90430101",
-  "logradouro": "Largo Luiz Leão de Carvalho",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "90430101",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Largo Luiz Leão de Carvalho;"
 }

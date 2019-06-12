@@ -1,12 +1,13 @@
 {
-  "cep": "57150970",
-  "logradouro": "AC Pilar Rua Luiz Ramos 131",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pilar",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57150970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Pilar"
+    },
+    "ibge": 2706901,
+    "logradouro": "Rua Luiz Ramos, 131  AC Pilar;"
 }

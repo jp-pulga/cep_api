@@ -1,12 +1,12 @@
 {
-  "cep": "64031163",
-  "logradouro": "Rua Esperantina",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "64031163",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Esperantina;"
 }

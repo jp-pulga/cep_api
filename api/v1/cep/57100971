@@ -1,12 +1,13 @@
 {
-  "cep": "57100971",
-  "logradouro": "AC Aeroporto Internacional Zumbi dos Palmares Aeroporto Internacional Zumbi dos Palmares",
-  "bairro": "Tabuleiro do Pinto",
-  "cidade": {
-    "nome": "Rio Largo",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Tabuleiro do Pinto;",
+    "cep": "57100971",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Rio Largo"
+    },
+    "ibge": 2707701,
+    "logradouro": "Aeroporto Internacional Zumbi dos Palmares  AC Aeroporto Internacional Zumbi dos Palmares;"
 }

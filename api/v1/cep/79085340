@@ -1,12 +1,12 @@
 {
-  "cep": "79085340",
-  "logradouro": "Rua Paulo Chaves dos Santos",
-  "bairro": "Conjunto Aero Rancho",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Conjunto Aero Rancho;",
+    "cep": "79085340",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Paulo Chaves dos Santos;"
 }

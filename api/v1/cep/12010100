@@ -1,12 +1,12 @@
 {
-  "cep": "12010100",
-  "logradouro": "Rua Coronel Marcondes de Mattos",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "12010100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Coronel Marcondes de Mattos;"
 }

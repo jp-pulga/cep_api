@@ -1,12 +1,12 @@
 {
-  "cep": "64278970",
-  "logradouro": "AC Cocal de Telha Avenida Getúlio Vargas 69",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cocal de Telha",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64278970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cocal de Telha"
+    },
+    "logradouro": "Avenida Getúlio Vargas, 69  AC Cocal de Telha;"
 }

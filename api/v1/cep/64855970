@@ -1,12 +1,13 @@
 {
-  "cep": "64855970",
-  "logradouro": "AC Antônio Almeida Rua Presidente Médici 105",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antônio Almeida",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64855970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Antônio Almeida"
+    },
+    "ibge": 2200806,
+    "logradouro": "Rua Presidente Médici, 105  AC Antônio Almeida;"
 }

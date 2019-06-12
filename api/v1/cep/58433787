@@ -1,12 +1,12 @@
 {
-  "cep": "58433787",
-  "logradouro": "Rua Joaquim Monteiro da Silva",
-  "bairro": "Ramadinha",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Ramadinha;",
+    "cep": "58433787",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Joaquim Monteiro da Silva;"
 }

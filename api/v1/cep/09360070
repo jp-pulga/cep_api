@@ -1,12 +1,12 @@
 {
-  "cep": "09360070",
-  "logradouro": "Rua Alberto Branco da Silva",
-  "bairro": "Jardim Pilar",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pilar;",
+    "cep": "09360070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Rua Alberto Branco da Silva;"
 }

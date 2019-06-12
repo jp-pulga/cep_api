@@ -1,12 +1,12 @@
 {
-  "cep": "07250110",
-  "logradouro": "Rua Picos",
-  "bairro": "Cidade Aracilia",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Aracilia;",
+    "cep": "07250110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Picos;"
 }

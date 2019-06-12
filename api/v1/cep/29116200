@@ -1,12 +1,12 @@
 {
-  "cep": "29116200",
-  "logradouro": "Rua Nossa Senhora Aparecida",
-  "bairro": "Vila Garrido",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Garrido;",
+    "cep": "29116200",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Nossa Senhora Aparecida;"
 }

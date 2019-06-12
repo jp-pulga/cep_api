@@ -1,12 +1,12 @@
 {
-  "cep": "13904900",
-  "logradouro": "Abatedouro de Aves Predileto Ltda Rodovia João Beira s/n",
-  "bairro": "Silvestre",
-  "cidade": {
-    "nome": "Amparo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Silvestre;",
+    "cep": "13904900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Amparo"
+    },
+    "logradouro": "Rodovia João Beira, s\/n  Abatedouro de Aves Predileto Ltda;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68665000",
-  "logradouro": "Garrafão do Norte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Garrafão do Norte",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68665000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Garrafão do Norte"
+    },
+    "ibge": 1503077
 }

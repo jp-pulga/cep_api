@@ -1,12 +1,12 @@
 {
-  "cep": "04372130",
-  "logradouro": "Rua Celina de Barros Silveira",
-  "bairro": "Vila Santa Catarina",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Catarina;",
+    "cep": "04372130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Celina de Barros Silveira;"
 }

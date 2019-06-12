@@ -1,12 +1,12 @@
 {
-  "cep": "57038480",
-  "logradouro": "Avenida Santana do Ipanema",
-  "bairro": "Cruz das Almas",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cruz das Almas;",
+    "cep": "57038480",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Santana do Ipanema;"
 }

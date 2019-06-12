@@ -1,12 +1,12 @@
 {
-  "cep": "68005230",
-  "logradouro": "Rua dos Artistas",
-  "bairro": "Prainha",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Prainha;",
+    "cep": "68005230",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua dos Artistas;"
 }

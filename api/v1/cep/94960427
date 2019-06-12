@@ -1,12 +1,12 @@
 {
-  "cep": "94960427",
-  "logradouro": "Rua Padre Geremias",
-  "bairro": "Parque Granja Esperança",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Granja Esperança;",
+    "cep": "94960427",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Padre Geremias;"
 }

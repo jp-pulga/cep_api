@@ -1,12 +1,12 @@
 {
-  "cep": "68025660",
-  "logradouro": "Avenida Petrônio Portela",
-  "bairro": "Floresta",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Floresta;",
+    "cep": "68025660",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Avenida Petrônio Portela;"
 }

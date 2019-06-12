@@ -1,12 +1,12 @@
 {
-  "cep": "35703157",
-  "logradouro": "Rua Anita Pereira Machado",
-  "bairro": "Bouganvile l",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bouganvile l;",
+    "cep": "35703157",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Anita Pereira Machado;"
 }

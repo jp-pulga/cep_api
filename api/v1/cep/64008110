@@ -1,12 +1,12 @@
 {
-  "cep": "64008110",
-  "logradouro": "Rua Amarante lado ímpar",
-  "bairro": "Alto Alegre",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Alto Alegre;",
+    "cep": "64008110",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Amarante - lado ímpar;"
 }

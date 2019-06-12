@@ -1,12 +1,13 @@
 {
-  "cep": "68456230",
-  "logradouro": "Rua Pará",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "68456230",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Pará;"
 }

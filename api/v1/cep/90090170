@@ -1,12 +1,12 @@
 {
-  "cep": "90090170",
-  "logradouro": "Rua do Pescador (Ilha das Flores)",
-  "bairro": "Arquipélago",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arquipélago;",
+    "cep": "90090170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua do Pescador (Ilha das Flores);"
 }

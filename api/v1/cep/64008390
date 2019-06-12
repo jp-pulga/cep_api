@@ -1,12 +1,12 @@
 {
-  "cep": "64008390",
-  "logradouro": "Rua Pedreira",
-  "bairro": "Buenos Aires",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Buenos Aires;",
+    "cep": "64008390",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pedreira;"
 }

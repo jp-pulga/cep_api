@@ -1,12 +1,12 @@
 {
-  "cep": "69401185",
-  "logradouro": "Rua Tefé",
-  "bairro": "União",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "União;",
+    "cep": "69401185",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Rua Tefé;"
 }

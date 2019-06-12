@@ -1,12 +1,13 @@
 {
-  "cep": "58705100",
-  "logradouro": "Avenida Holanda",
-  "bairro": "Noé Trajano",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Europa;",
+    "cep": "58705100",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida Holanda;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "68035180",
-  "logradouro": "Rua Ponta de Pedras",
-  "bairro": "Maracanã",
-  "cidade": {
-    "nome": "Santarém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Maracanã;",
+    "cep": "68035180",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santarém"
+    },
+    "logradouro": "Rua Ponta de Pedras;"
 }

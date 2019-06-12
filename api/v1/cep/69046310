@@ -1,12 +1,12 @@
 {
-  "cep": "69046310",
-  "logradouro": "Rua Porto Calvo (Cj Ajuricaba)",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "69046310",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Porto Calvo;"
 }

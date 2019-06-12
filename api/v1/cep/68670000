@@ -1,12 +1,11 @@
 {
-  "cep": "68670000",
-  "logradouro": "Bujaru",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bujaru",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68670000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Bujaru"
+    },
+    "ibge": 1501907
 }

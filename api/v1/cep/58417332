@@ -1,12 +1,12 @@
 {
-  "cep": "58417332",
-  "logradouro": "Avenida Presidente Juscelino Kubitschek",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "58417332",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitschek;"
 }

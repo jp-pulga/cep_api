@@ -1,12 +1,13 @@
 {
-  "cep": "58450970",
-  "logradouro": "AC Boqueirão Avenida Severino Macedo 22",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boqueirão",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58450970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Boqueirão"
+    },
+    "ibge": 2502508,
+    "logradouro": "Avenida Severino Macedo, 22  AC Boqueirão;"
 }

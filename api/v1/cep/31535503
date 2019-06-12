@@ -1,12 +1,12 @@
 {
-  "cep": "31535503",
-  "logradouro": "Via de Pedestre José Maria de Paula",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "31535503",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Via de Pedestre José Maria de Paula;"
 }

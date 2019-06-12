@@ -1,12 +1,11 @@
 {
-  "cep": "68590000",
-  "logradouro": "Jacundá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jacundá",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68590000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Jacundá"
+    },
+    "ibge": 1503804
 }

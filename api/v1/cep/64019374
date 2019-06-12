@@ -1,12 +1,12 @@
 {
-  "cep": "64019374",
-  "logradouro": "Rua Pampas (Fav Prainha)",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "64019374",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pampas (Fav Prainha);"
 }

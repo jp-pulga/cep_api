@@ -1,12 +1,13 @@
 {
-  "cep": "58700004",
-  "logradouro": "Avenida Solon de Lucena lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58700004",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida Solon de Lucena - lado ímpar;"
 }

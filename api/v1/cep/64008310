@@ -1,12 +1,12 @@
 {
-  "cep": "64008310",
-  "logradouro": "Rua Batalha do Jenipapo",
-  "bairro": "Buenos Aires",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Buenos Aires;",
+    "cep": "64008310",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Batalha do Jenipapo;"
 }

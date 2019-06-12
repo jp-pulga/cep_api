@@ -1,12 +1,13 @@
 {
-  "cep": "58303365",
-  "logradouro": "Rua Santa Tereza de Jesus",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "58303365",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Rua Santa Tereza de Jesus;"
 }

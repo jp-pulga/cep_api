@@ -1,12 +1,12 @@
 {
-  "cep": "41349460",
-  "logradouro": "Alameda Pernambuco",
-  "bairro": "Boca da Mata",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boca da Mata;",
+    "cep": "41349460",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Pernambuco;"
 }

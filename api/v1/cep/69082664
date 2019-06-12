@@ -1,12 +1,12 @@
 {
-  "cep": "69082664",
-  "logradouro": "Rua das Enviras",
-  "bairro": "Coroado",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Coroado;",
+    "cep": "69082664",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua das Enviras;"
 }

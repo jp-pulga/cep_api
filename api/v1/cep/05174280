@@ -1,12 +1,12 @@
 {
-  "cep": "05174280",
-  "logradouro": "Praça Aveiro",
-  "bairro": "Jardim Regina",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Regina;",
+    "cep": "05174280",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Aveiro;"
 }

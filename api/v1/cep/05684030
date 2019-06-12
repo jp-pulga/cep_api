@@ -1,12 +1,12 @@
 {
-  "cep": "05684030",
-  "logradouro": "Rua Barão de Melgaço",
-  "bairro": "Real Parque",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Real Parque;",
+    "cep": "05684030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barão de Melgaço;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58824970",
-  "logradouro": "AC Santa Cruz Rua Francisco Fananca 70",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58824970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Cruz"
+    },
+    "ibge": 2513208,
+    "logradouro": "Rua Francisco Fananca, 70  AC Santa Cruz;"
 }

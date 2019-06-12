@@ -1,12 +1,13 @@
 {
-  "cep": "64604380",
-  "logradouro": "Avenida Capitão Felipe Araújo Rocha",
-  "bairro": "Ipueiras",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ipueiras;",
+    "cep": "64604380",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Capitão Felipe Araújo Rocha;"
 }

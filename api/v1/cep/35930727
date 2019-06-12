@@ -1,12 +1,12 @@
 {
-  "cep": "35930727",
-  "logradouro": "Rua José Pedro Machado",
-  "bairro": "Nova Monlevade",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Monlevade;",
+    "cep": "35930727",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua José Pedro Machado;"
 }

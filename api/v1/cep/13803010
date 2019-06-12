@@ -1,12 +1,12 @@
 {
-  "cep": "13803010",
-  "logradouro": "Rua Antônio Moreno Perez",
-  "bairro": "Jardim Maria Beatriz",
-  "cidade": {
-    "nome": "Mogi Mirim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Maria Beatriz;",
+    "cep": "13803010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Mirim"
+    },
+    "logradouro": "Rua Antônio Moreno Perez;"
 }

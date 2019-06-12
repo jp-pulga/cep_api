@@ -1,12 +1,12 @@
 {
-  "cep": "64206570",
-  "logradouro": "Rua Francisco Borges dos Santos",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "64206570",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Francisco Borges dos Santos;"
 }

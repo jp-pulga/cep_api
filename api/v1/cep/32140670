@@ -1,12 +1,12 @@
 {
-  "cep": "32140670",
-  "logradouro": "Rua Padre Feijó",
-  "bairro": "Novo Progresso",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Progresso;",
+    "cep": "32140670",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Padre Feijó;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58188970",
-  "logradouro": "AGC Baraúnas Rua Getúlio Vargas 29",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Baraúna",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58188970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Baraúna"
+    },
+    "ibge": 2501534,
+    "logradouro": "Rua Getúlio Vargas, 29  AGC Baraúnas;"
 }

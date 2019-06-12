@@ -1,12 +1,12 @@
 {
-  "cep": "04746060",
-  "logradouro": "Rua Ana da Conceição Borba Araújo",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "04746060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Ana da Conceição Borba Araújo;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "57970000",
-  "logradouro": "Novo Lino",
-  "bairro": "",
-  "cidade": {
-    "nome": "Novo Lino",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57970000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Novo Lino"
+    },
+    "ibge": 2705606
 }

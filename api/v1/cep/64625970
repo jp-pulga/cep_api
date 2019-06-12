@@ -1,12 +1,13 @@
 {
-  "cep": "64625970",
-  "logradouro": "AC São José do Piauí Avenida Central 226",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64625970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São José do Piauí"
+    },
+    "ibge": 2210201,
+    "logradouro": "Avenida Central, 226  AC São José do Piauí;"
 }

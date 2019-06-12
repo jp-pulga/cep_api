@@ -1,12 +1,12 @@
 {
-  "cep": "79074032",
-  "logradouro": "Rua Paschoal Carlos Magno",
-  "bairro": "Jardim Monte Alegre",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Monte Alegre;",
+    "cep": "79074032",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Paschoal Carlos Magno;"
 }

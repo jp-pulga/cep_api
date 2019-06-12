@@ -1,12 +1,12 @@
 {
-  "cep": "40070045",
-  "logradouro": "Rua Portão da Piedade",
-  "bairro": "Barris",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barris;",
+    "cep": "40070045",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Portão da Piedade;"
 }

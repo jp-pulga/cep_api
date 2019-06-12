@@ -1,12 +1,12 @@
 {
-  "cep": "95030850",
-  "logradouro": "Rua Cecyl Lahm dos Reis",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "95030850",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Cecyl Lahm dos Reis;"
 }

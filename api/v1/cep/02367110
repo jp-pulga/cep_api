@@ -1,12 +1,12 @@
 {
-  "cep": "02367110",
-  "logradouro": "Rua Paraná",
-  "bairro": "Jardim Brasil Novo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Brasil Novo;",
+    "cep": "02367110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Paraná;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "69280000",
-  "logradouro": "Manicoré",
-  "bairro": "",
-  "cidade": {
-    "nome": "Manicoré",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69280000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manicoré"
+    },
+    "ibge": 1302702
 }

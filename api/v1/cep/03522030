@@ -1,12 +1,12 @@
 {
-  "cep": "03522030",
-  "logradouro": "Rua Professor Benevides de Resende",
-  "bairro": "Vila Dalila",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Dalila;",
+    "cep": "03522030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Benevides de Resende;"
 }

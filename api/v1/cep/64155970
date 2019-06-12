@@ -1,12 +1,13 @@
 {
-  "cep": "64155970",
-  "logradouro": "AC São João do Arraial Praça Hortêncio Augusto Rocha s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Arraial",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64155970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São João do Arraial"
+    },
+    "ibge": 2209971,
+    "logradouro": "Praça Hortêncio Augusto Rocha, s\/n  AC São João do Arraial;"
 }

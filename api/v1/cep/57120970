@@ -1,12 +1,13 @@
 {
-  "cep": "57120970",
-  "logradouro": "AC Satuba Rua Santos Dumont 98-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Satuba",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57120970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Satuba"
+    },
+    "ibge": 2708907,
+    "logradouro": "Rua Santos Dumont, 98-A  AC Satuba;"
 }

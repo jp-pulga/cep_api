@@ -1,12 +1,12 @@
 {
-  "cep": "69153520",
-  "logradouro": "Rua Maués",
-  "bairro": "Nossa Senhora de Nazaré",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nossa Senhora de Nazaré;",
+    "cep": "69153520",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Maués;"
 }

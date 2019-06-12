@@ -1,12 +1,12 @@
 {
-  "cep": "58430025",
-  "logradouro": "Rua Vânia Monteiro Cavalcante",
-  "bairro": "Bodocongó",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Bodocongó;",
+    "cep": "58430025",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Vânia Monteiro Cavalcante;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30240282",
-  "logradouro": "Rua Monte Alegre de 612/613 ao fim",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Lucas;",
+    "cep": "30240282",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Monte Alegre - de 621\/622 ao fim;"
 }

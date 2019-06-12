@@ -1,12 +1,13 @@
 {
-  "cep": "64608899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Picos",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Área Rural de Picos;",
+    "cep": "64608899",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Área Rural;"
 }

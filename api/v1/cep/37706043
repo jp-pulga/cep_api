@@ -1,12 +1,12 @@
 {
-  "cep": "37706043",
-  "logradouro": "Estrada Raul Seixas",
-  "bairro": "Estância São José",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estância São José;",
+    "cep": "37706043",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Estrada Raul Seixas;"
 }

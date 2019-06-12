@@ -1,12 +1,12 @@
 {
-  "cep": "44001368",
-  "logradouro": "Avenida Maria Quitéria de 928 a 1196 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44001368",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Maria Quitéria - de 928 a 1196 - lado par;"
 }

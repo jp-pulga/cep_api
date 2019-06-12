@@ -1,12 +1,13 @@
 {
-  "cep": "57050080",
-  "logradouro": "Rua Doutor Albino Magalhães",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol;",
+    "cep": "57050080",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Doutor Albino Magalhães;"
 }

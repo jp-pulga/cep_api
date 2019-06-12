@@ -1,12 +1,13 @@
 {
-  "cep": "64750970",
-  "logradouro": "AC Paulistana Avenida Marechal Deodoro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulistana",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64750970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Paulistana"
+    },
+    "ibge": 2207801,
+    "logradouro": "Avenida Marechal Deodoro, s\/n  AC Paulistana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69401140",
-  "logradouro": "Travessa Silves",
-  "bairro": "União",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "União;",
+    "cep": "69401140",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Travessa Silves;"
 }

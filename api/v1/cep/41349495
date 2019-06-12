@@ -1,12 +1,12 @@
 {
-  "cep": "41349495",
-  "logradouro": "Alameda Tocantins",
-  "bairro": "Boca da Mata",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boca da Mata;",
+    "cep": "41349495",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Tocantins;"
 }

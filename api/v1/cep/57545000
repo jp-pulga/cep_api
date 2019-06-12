@@ -1,12 +1,11 @@
 {
-  "cep": "57545000",
-  "logradouro": "Inhapi",
-  "bairro": "",
-  "cidade": {
-    "nome": "Inhapi",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57545000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Inhapi"
+    },
+    "ibge": 2703304
 }

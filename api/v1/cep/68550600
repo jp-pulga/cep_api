@@ -1,12 +1,12 @@
 {
-  "cep": "68550600",
-  "logradouro": "Rua São Geraldo do Araguaia",
-  "bairro": "Morada da Paz",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Morada da Paz;",
+    "cep": "68550600",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "logradouro": "Rua São Geraldo do Araguaia;"
 }

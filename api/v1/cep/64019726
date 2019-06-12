@@ -1,12 +1,12 @@
 {
-  "cep": "64019726",
-  "logradouro": "Rua São João do Piauí",
-  "bairro": "Tabuleta",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Tabuleta;",
+    "cep": "64019726",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua São João do Piauí;"
 }

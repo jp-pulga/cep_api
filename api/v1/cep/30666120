@@ -1,12 +1,12 @@
 {
-  "cep": "30666120",
-  "logradouro": "Rua Arivaldo Pereira de Souza",
-  "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Vale do Jatobá (Barreiro);",
+    "cep": "30666120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Arivaldo Pereira de Souza;"
 }

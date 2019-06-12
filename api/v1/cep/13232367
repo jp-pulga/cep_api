@@ -1,12 +1,12 @@
 {
-  "cep": "13232367",
-  "logradouro": "Rua Bragança Paulista",
-  "bairro": "Jardim Santa Maria",
-  "cidade": {
-    "nome": "Campo Limpo Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Maria;",
+    "cep": "13232367",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campo Limpo Paulista"
+    },
+    "logradouro": "Rua Bragança Paulista;"
 }

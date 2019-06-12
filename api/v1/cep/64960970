@@ -1,12 +1,13 @@
 {
-  "cep": "64960970",
-  "logradouro": "AC Curimatá Praça Abdias R. de Albuquerque 936",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Curimatá",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64960970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Curimatá"
+    },
+    "ibge": 2203206,
+    "logradouro": "Praça Abdias R. de Albuquerque, 936  AC Curimatá;"
 }

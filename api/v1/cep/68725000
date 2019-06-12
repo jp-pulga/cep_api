@@ -1,12 +1,11 @@
 {
-  "cep": "68725000",
-  "logradouro": "Igarapé-Açu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Igarapé-Açu",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68725000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Igarapé-Açu"
+    },
+    "ibge": 1503200
 }

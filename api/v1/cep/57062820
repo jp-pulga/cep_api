@@ -1,12 +1,13 @@
 {
-  "cep": "57062820",
-  "logradouro": "Rua Ana Emília de Alencar",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "57062820",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Ana Emília de Alencar;"
 }

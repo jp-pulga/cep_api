@@ -1,12 +1,11 @@
 {
-  "cep": "57580000",
-  "logradouro": "Major Isidoro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Major Isidoro",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57580000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Major Isidoro"
+    },
+    "ibge": 2704401
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58416338",
-  "logradouro": "Rua Santa Rita",
-  "bairro": "Santa Rosa",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Rosa;",
+    "cep": "58416338",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Santa Rita;"
 }

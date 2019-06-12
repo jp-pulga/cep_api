@@ -1,12 +1,12 @@
 {
-  "cep": "64023800",
-  "logradouro": "Avenida Deputado Milton Brandão",
-  "bairro": "Catarina",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Catarina;",
+    "cep": "64023800",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Avenida Deputado Milton Brandão;"
 }

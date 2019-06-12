@@ -1,12 +1,12 @@
 {
-  "cep": "04250070",
-  "logradouro": "Rua Coronel Graça Martins",
-  "bairro": "Vila Marte",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Marte;",
+    "cep": "04250070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Coronel Graça Martins;"
 }

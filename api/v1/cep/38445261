@@ -1,12 +1,12 @@
 {
-  "cep": "38445261",
-  "logradouro": "Rua Nalva Perfeito Machado",
-  "bairro": "Miranda",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Miranda;",
+    "cep": "38445261",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Nalva Perfeito Machado;"
 }

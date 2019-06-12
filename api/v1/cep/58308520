@@ -1,12 +1,12 @@
 {
-  "cep": "58308520",
-  "logradouro": "Rua Quatro",
-  "bairro": "Alto da Boa Vista",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto da Boa Vista;",
+    "cep": "58308520",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Quatro;"
 }

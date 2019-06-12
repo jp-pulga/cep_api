@@ -1,12 +1,13 @@
 {
-  "cep": "57035180",
-  "logradouro": "Avenida Álvaro Otacílio até 3308/3309",
-  "bairro": "Ponta Verde",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ponta Verde;",
+    "cep": "57035180",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Avenida Álvaro Otacílio - até 3308\/3309;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88090830",
-  "logradouro": "Rua Dom Pedro I",
-  "bairro": "Capoeiras",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Capoeiras;",
+    "cep": "88090830",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Dom Pedro I;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18407280",
-  "logradouro": "Rua Alonso Lino de Barros",
-  "bairro": "Jardim Pilar",
-  "cidade": {
-    "nome": "Itapeva",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pilar;",
+    "cep": "18407280",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapeva"
+    },
+    "logradouro": "Rua Alonso Lino de Barros;"
 }

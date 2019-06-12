@@ -1,12 +1,13 @@
 {
-  "cep": "66095345",
-  "logradouro": "Alameda João Paulo II",
-  "bairro": "Marco",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marco;",
+    "cep": "66095345",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Alameda João Paulo II;"
 }

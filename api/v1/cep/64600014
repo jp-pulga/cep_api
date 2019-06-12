@@ -1,12 +1,13 @@
 {
-  "cep": "64600014",
-  "logradouro": "Rua Beira Rio",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64600014",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida José de Moura Monteiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "05731090",
-  "logradouro": "Rua Caetano de Odivelas",
-  "bairro": "Vila Andrade",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Andrade;",
+    "cep": "05731090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Caetano de Odivelas;"
 }

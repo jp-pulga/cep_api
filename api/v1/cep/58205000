@@ -1,12 +1,12 @@
 {
-  "cep": "58205000",
-  "logradouro": "Cachoeira (Guarabira)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cachoeira (Guarabira)",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cachoeira",
+    "cep": "58205000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Guarabira"
+    },
+    "ibge": 2506301
 }

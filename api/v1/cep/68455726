@@ -1,12 +1,13 @@
 {
-  "cep": "68455726",
-  "logradouro": "Rua Paraguai",
-  "bairro": "Vila Permanente",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Vila Permanente;",
+    "cep": "68455726",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Paraguai;"
 }

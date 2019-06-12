@@ -1,12 +1,13 @@
 {
-  "cep": "57073365",
-  "logradouro": "Alameda da Paz",
-  "bairro": "Cidade Universitária",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cidade Universitária;",
+    "cep": "57073365",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Alameda da Paz;"
 }

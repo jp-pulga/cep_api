@@ -1,12 +1,13 @@
 {
-  "cep": "69555195",
-  "logradouro": "Avenida Cruzeiro do Sul",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "69555195",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Avenida Cruzeiro do Sul;"
 }

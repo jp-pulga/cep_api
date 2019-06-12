@@ -1,12 +1,12 @@
 {
-  "cep": "58103740",
-  "logradouro": "Rua Nova Floresta",
-  "bairro": "Jardim Camboinha",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Camboinha;",
+    "cep": "58103740",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Nova Floresta;"
 }

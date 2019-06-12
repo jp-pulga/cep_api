@@ -1,12 +1,13 @@
 {
-  "cep": "57500970",
-  "logradouro": "AC Santana do Ipanema Avenida Doutor Arsênio Moreira 358",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Ipanema",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57500970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Santana do Ipanema"
+    },
+    "ibge": 2708006,
+    "logradouro": "Avenida Doutor Arsênio Moreira, 358  AC Santana do Ipanema;"
 }

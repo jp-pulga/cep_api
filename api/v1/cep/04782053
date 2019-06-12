@@ -1,12 +1,12 @@
 {
-  "cep": "04782053",
-  "logradouro": "Rua Tailândia",
-  "bairro": "Vila Friburgo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Friburgo;",
+    "cep": "04782053",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Tailândia;"
 }

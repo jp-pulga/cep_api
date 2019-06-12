@@ -1,12 +1,12 @@
 {
-  "cep": "32240140",
-  "logradouro": "Rua Coronel Gabriel Capistrano",
-  "bairro": "Industrial Santa Rita",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial Santa Rita;",
+    "cep": "32240140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Coronel Gabriel Capistrano;"
 }

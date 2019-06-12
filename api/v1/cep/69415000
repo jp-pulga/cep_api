@@ -1,12 +1,11 @@
 {
-  "cep": "69415000",
-  "logradouro": "Iranduba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Iranduba",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69415000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Iranduba"
+    },
+    "ibge": 1301852
 }

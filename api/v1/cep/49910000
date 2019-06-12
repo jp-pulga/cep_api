@@ -1,12 +1,11 @@
 {
-  "cep": "49910000",
-  "logradouro": "Telha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Telha",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49910000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Telha"
+    },
+    "ibge": 2807303
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "02044090",
-  "logradouro": "Praça Belém da Cachoeira",
-  "bairro": "Jardim São Paulo(Zona Norte)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Paulo(Zona Norte);",
+    "cep": "02044090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Belém da Cachoeira;"
 }

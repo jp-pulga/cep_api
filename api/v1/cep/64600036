@@ -1,12 +1,12 @@
 {
-  "cep": "64600036",
-  "logradouro": "Rua Alto do Morro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64600036",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Alto do Morro;"
 }

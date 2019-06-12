@@ -1,12 +1,12 @@
 {
-  "cep": "18300090",
-  "logradouro": "Rua Campos Salles até 609/610",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18300090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Campos Salles - até 609\/610;"
 }

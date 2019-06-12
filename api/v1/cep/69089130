@@ -1,12 +1,12 @@
 {
-  "cep": "69089130",
-  "logradouro": "Rua Rio Envira",
-  "bairro": "Armando Mendes",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Armando Mendes;",
+    "cep": "69089130",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Rio Envira;"
 }

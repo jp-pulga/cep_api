@@ -1,12 +1,13 @@
 {
-  "cep": "58708899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Patos",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Área Rural de Patos;",
+    "cep": "58708899",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Área Rural;"
 }

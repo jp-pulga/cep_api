@@ -1,12 +1,12 @@
 {
-  "cep": "13420544",
-  "logradouro": "Rua João Ferreira da Costa (Cidade Maracanã)",
-  "bairro": "Piracicamirim",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Piracicamirim;",
+    "cep": "13420544",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua João Ferreira da Costa (Cidade Maracanã);"
 }

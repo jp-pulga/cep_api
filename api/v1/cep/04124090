@@ -1,12 +1,12 @@
 {
-  "cep": "04124090",
-  "logradouro": "Rua Maestro João Batista Julião",
-  "bairro": "Vila Firmiano Pinto",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Firmiano Pinto;",
+    "cep": "04124090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Maestro João Batista Julião;"
 }

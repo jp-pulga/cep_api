@@ -1,12 +1,13 @@
 {
-  "cep": "58326970",
-  "logradouro": "AC Caaporã Rua Salomão Veloso 51",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caaporã",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58326970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Caaporã"
+    },
+    "ibge": 2503001,
+    "logradouro": "Rua Salomão Veloso, 51  AC Caaporã;"
 }

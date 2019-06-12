@@ -1,12 +1,13 @@
 {
-  "cep": "68458057",
-  "logradouro": "Rua Parazinho (Loteamento Vila Nova)",
-  "bairro": "Mangal",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Mangal;",
+    "cep": "68458057",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Parazinho (Loteamento Vila Nova);"
 }

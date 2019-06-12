@@ -1,12 +1,12 @@
 {
-  "cep": "29700445",
-  "logradouro": "Escadaria Nossa Senhora Aparecida",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "29700445",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Escadaria Nossa Senhora Aparecida;"
 }

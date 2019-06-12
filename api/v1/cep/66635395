@@ -1,12 +1,13 @@
 {
-  "cep": "66635395",
-  "logradouro": "Alameda Vinte e Seis de Agosto (Res Rui Barata)",
-  "bairro": "Parque Verde",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Parque Verde;",
+    "cep": "66635395",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "ibge": 1501402,
+    "logradouro": "Alameda Vinte e Seis de Agosto (Res Rui Barata);"
 }

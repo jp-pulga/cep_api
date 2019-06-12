@@ -1,12 +1,12 @@
 {
-  "cep": "58433281",
-  "logradouro": "Rua Guarabira",
-  "bairro": "Malvinas",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Malvinas;",
+    "cep": "58433281",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Guarabira;"
 }

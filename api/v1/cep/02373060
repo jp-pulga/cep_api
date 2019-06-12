@@ -1,12 +1,12 @@
 {
-  "cep": "02373060",
-  "logradouro": "Rua Maestro Pedro Jatobá",
-  "bairro": "Vila Albertina",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Albertina;",
+    "cep": "02373060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Maestro Pedro Jatobá;"
 }

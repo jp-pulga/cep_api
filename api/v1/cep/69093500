@@ -1,12 +1,13 @@
 {
-  "cep": "69093500",
-  "logradouro": "Avenida Tenente Roxana Bonessi de 1192 a 2330 - lado par",
-  "bairro": "Monte das Oliveiras",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Monte das Oliveiras;",
+    "cep": "69093500",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Tenente Roxana Bonessi - de 1192 a 2330 - lado par;"
 }

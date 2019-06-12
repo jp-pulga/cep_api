@@ -1,12 +1,12 @@
 {
-  "cep": "64008280",
-  "logradouro": "Rua Padre Anchieta",
-  "bairro": "Buenos Aires",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Buenos Aires;",
+    "cep": "64008280",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Padre Anchieta;"
 }

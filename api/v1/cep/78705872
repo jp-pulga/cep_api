@@ -1,12 +1,12 @@
 {
-  "cep": "78705872",
-  "logradouro": "Rua Paraná",
-  "bairro": "Jardim Novo Horizonte",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Novo Horizonte;",
+    "cep": "78705872",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Paraná;"
 }

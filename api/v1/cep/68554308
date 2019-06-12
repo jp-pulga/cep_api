@@ -1,12 +1,12 @@
 {
-  "cep": "68554308",
-  "logradouro": "Travessa Jacarandá (Res Cedro)",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "68554308",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "logradouro": "Travessa Jacarandá (Res Cedro);"
 }

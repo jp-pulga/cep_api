@@ -1,12 +1,13 @@
 {
-  "cep": "58700370",
-  "logradouro": "Avenida Barão do Rio Branco",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "58700370",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida Barão do Rio Branco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04884390",
-  "logradouro": "Rua Belém",
-  "bairro": "Jardim Papai Noel",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Papai Noel;",
+    "cep": "04884390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Belém;"
 }

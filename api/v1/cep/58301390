@@ -1,12 +1,13 @@
 {
-  "cep": "58301390",
-  "logradouro": "Praça Deputado Luís Ribeiro Coutinho",
-  "bairro": "Popular",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Popular;",
+    "cep": "58301390",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Praça Deputado Luís Ribeiro Coutinho;"
 }

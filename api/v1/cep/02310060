@@ -1,12 +1,12 @@
 {
-  "cep": "02310060",
-  "logradouro": "Rua Gurupatuba",
-  "bairro": "Vila Mazzei",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Mazzei;",
+    "cep": "02310060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Gurupatuba;"
 }

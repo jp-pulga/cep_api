@@ -1,12 +1,13 @@
 {
-  "cep": "64110970",
-  "logradouro": "AC José de Freitas Rua Hugo Napoleão 1278",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "José de Freitas",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64110970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "José de Freitas"
+    },
+    "ibge": 2205508,
+    "logradouro": "Rua Hugo Napoleão, 1278  AC José de Freitas;"
 }

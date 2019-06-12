@@ -1,12 +1,13 @@
 {
-  "cep": "68459405",
-  "logradouro": "Passagem Soares",
-  "bairro": "Jardim Marilucy",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Marilucy;",
+    "cep": "68459405",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Passagem Soares;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13210655",
-  "logradouro": "Rua Apólo de Almeida",
-  "bairro": "Vila Nova Jundiaí",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Jundiaí;",
+    "cep": "13210655",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Rua Apólo de Almeida;"
 }

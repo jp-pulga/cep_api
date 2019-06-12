@@ -1,12 +1,12 @@
 {
-  "cep": "07097041",
-  "logradouro": "Rua Santa Cruz do Piauí",
-  "bairro": "Jardim Santa Mena",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Mena;",
+    "cep": "07097041",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Santa Cruz do Piauí;"
 }

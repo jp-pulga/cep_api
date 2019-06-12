@@ -1,12 +1,12 @@
 {
-  "cep": "30750140",
-  "logradouro": "Rua Leopoldo Pereira",
-  "bairro": "Jardim Montanhês",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Montanhês;",
+    "cep": "30750140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Leopoldo Pereira;"
 }

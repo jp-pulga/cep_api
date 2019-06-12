@@ -1,12 +1,12 @@
 {
-  "cep": "02850007",
-  "logradouro": "Rua Alberto Capellani",
-  "bairro": "Parque Belém",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Belém;",
+    "cep": "02850007",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Alberto Capellani;"
 }

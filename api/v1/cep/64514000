@@ -1,12 +1,11 @@
 {
-  "cep": "64514000",
-  "logradouro": "Cajazeiras do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cajazeiras do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64514000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cajazeiras do Piauí"
+    },
+    "ibge": 2202075
 }

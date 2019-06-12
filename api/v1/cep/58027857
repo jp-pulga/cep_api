@@ -1,12 +1,12 @@
 {
-  "cep": "58027857",
-  "logradouro": "Rua Santa Rita",
-  "bairro": "Alto do Céu",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Céu;",
+    "cep": "58027857",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Santa Rita;"
 }

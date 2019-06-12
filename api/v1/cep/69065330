@@ -1,12 +1,12 @@
 {
-  "cep": "69065330",
-  "logradouro": "Travessa Tefé",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cachoeirinha;",
+    "cep": "69065330",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Tefé;"
 }

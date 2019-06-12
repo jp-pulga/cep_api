@@ -1,12 +1,13 @@
 {
-  "cep": "58410725",
-  "logradouro": "Avenida Elpídio de Almeida",
-  "bairro": "Sandra Cavalcante",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Sandra Cavalcante;",
+    "cep": "58410725",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Elpídio de Almeida;"
 }

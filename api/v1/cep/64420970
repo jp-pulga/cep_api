@@ -1,12 +1,13 @@
 {
-  "cep": "64420970",
-  "logradouro": "AC Palmeirais Rua dos Três Poderes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palmeirais",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64420970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Palmeirais"
+    },
+    "ibge": 2207504,
+    "logradouro": "Rua dos Três Poderes, s\/n  AC Palmeirais;"
 }

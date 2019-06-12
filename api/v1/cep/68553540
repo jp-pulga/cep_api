@@ -1,12 +1,13 @@
 {
-  "cep": "68553540",
-  "logradouro": "Avenida Doutor Paulo Quartim Barbosa",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "68553540",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Avenida Doutor Paulo Quartim Barbosa;"
 }

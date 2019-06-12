@@ -1,12 +1,12 @@
 {
-  "cep": "09980087",
-  "logradouro": "Passagem Rio Curuá (NH Inverno/Verão)",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "09980087",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Passagem Rio Curuá (NH Inverno\/Verão);"
 }

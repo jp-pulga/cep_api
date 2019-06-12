@@ -1,12 +1,12 @@
 {
-  "cep": "64000300",
-  "logradouro": "Avenida Campos Sales até 2103/2104",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64000300",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Avenida Campos Sales - até 2103\/2104;"
 }

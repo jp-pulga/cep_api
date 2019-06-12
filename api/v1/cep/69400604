@@ -1,12 +1,12 @@
 {
-  "cep": "69400604",
-  "logradouro": "Rua Japurá",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Manacapuru",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "69400604",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manacapuru"
+    },
+    "logradouro": "Rua Japurá;"
 }

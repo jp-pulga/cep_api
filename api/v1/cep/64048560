@@ -1,12 +1,12 @@
 {
-  "cep": "64048560",
-  "logradouro": "Rua Elesbão Veloso Soares",
-  "bairro": "Ininga",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ininga;",
+    "cep": "64048560",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Elesbão Veloso Soares;"
 }

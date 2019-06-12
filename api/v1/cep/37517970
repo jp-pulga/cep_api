@@ -1,12 +1,12 @@
 {
-  "cep": "37517970",
-  "logradouro": "AC Maria da Fé Avenida José de Campos Sales 183",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maria da Fé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37517970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Maria da Fé"
+    },
+    "logradouro": "Avenida José de Campos Sales, 183  AC Maria da Fé;"
 }

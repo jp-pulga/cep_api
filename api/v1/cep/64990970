@@ -1,12 +1,13 @@
 {
-  "cep": "64990970",
-  "logradouro": "AC Barreiras do Piauí Rua Casemiro Barreira Soares s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barreiras do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64990970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Barreiras do Piauí"
+    },
+    "ibge": 2201309,
+    "logradouro": "Rua Casemiro Barreira Soares, s\/n  AC Barreiras do Piauí;"
 }

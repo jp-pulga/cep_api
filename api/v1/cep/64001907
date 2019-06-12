@@ -1,12 +1,12 @@
 {
-  "cep": "64001907",
-  "logradouro": "Condomínio Guadalupe Martinez Rua Tersandro Paz 2604",
-  "bairro": "Piçarra",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Piçarra;",
+    "cep": "64001907",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Tersandro Paz, 2604  Condomínio Guadalupe Martinez;"
 }

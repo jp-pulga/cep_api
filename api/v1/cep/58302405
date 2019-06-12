@@ -1,12 +1,12 @@
 {
-  "cep": "58302405",
-  "logradouro": "Rua Belém",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "58302405",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "logradouro": "Rua Belém;"
 }

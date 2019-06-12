@@ -1,12 +1,12 @@
 {
-  "cep": "64003710",
-  "logradouro": "Rua Parnaguá",
-  "bairro": "Pirajá",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Pirajá;",
+    "cep": "64003710",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Parnaguá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64016088",
-  "logradouro": "Rua Beneditinos",
-  "bairro": "Macaúba",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Macaúba;",
+    "cep": "64016088",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Beneditinos;"
 }

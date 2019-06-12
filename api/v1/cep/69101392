@@ -1,12 +1,12 @@
 {
-  "cep": "69101392",
-  "logradouro": "Rua Terezinha Peixoto de 3243 ao fim - lado ímpar",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69101392",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "logradouro": "Rua Terezinha Peixoto - de 3243 ao fim - lado ímpar;"
 }

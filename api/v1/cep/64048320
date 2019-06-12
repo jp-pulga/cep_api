@@ -1,12 +1,12 @@
 {
-  "cep": "64048320",
-  "logradouro": "Rua Hugo Napoleão",
-  "bairro": "Jóquei",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Jóquei;",
+    "cep": "64048320",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Hugo Napoleão;"
 }

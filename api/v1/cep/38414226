@@ -1,12 +1,12 @@
 {
-  "cep": "38414226",
-  "logradouro": "Rua Auta Carneiro de Albuquerque",
-  "bairro": "Jardim Patrícia",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Patrícia;",
+    "cep": "38414226",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Auta Carneiro de Albuquerque;"
 }

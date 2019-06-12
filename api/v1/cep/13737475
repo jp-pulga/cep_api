@@ -1,12 +1,12 @@
 {
-  "cep": "13737475",
-  "logradouro": "Rua Tucumã",
-  "bairro": "Chácara Palmeirinha",
-  "cidade": {
-    "nome": "Mococa",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Palmeirinha;",
+    "cep": "13737475",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mococa"
+    },
+    "logradouro": "Rua Tucumã;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94935390",
-  "logradouro": "Rua Alvarenga Peixoto",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "94935390",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Alvarenga Peixoto;"
 }

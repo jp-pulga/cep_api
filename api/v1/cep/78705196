@@ -1,12 +1,12 @@
 {
-  "cep": "78705196",
-  "logradouro": "Rua Paraná",
-  "bairro": "Cidade Salmen",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Cidade Salmen;",
+    "cep": "78705196",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Paraná;"
 }

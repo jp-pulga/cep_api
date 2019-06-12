@@ -1,12 +1,12 @@
 {
-  "cep": "01333903",
-  "logradouro": "Associação Médica Brasileira Rua São Carlos do Pinhal 324",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "01333903",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua São Carlos do Pinhal, 324  Associação Médica Brasileira;"
 }

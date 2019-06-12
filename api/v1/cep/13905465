@@ -1,12 +1,12 @@
 {
-  "cep": "13905465",
-  "logradouro": "Rua Antônio Olívio Nardine",
-  "bairro": "Jardim Silvestre I",
-  "cidade": {
-    "nome": "Amparo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Silvestre I;",
+    "cep": "13905465",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Amparo"
+    },
+    "logradouro": "Rua Antônio Olívio Nardine;"
 }

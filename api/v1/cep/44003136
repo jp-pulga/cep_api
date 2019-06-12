@@ -1,12 +1,12 @@
 {
-  "cep": "44003136",
-  "logradouro": "Rua Nossa Senhora de Lourdes lado par",
-  "bairro": "Serraria Brasil",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serraria Brasil;",
+    "cep": "44003136",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Nossa Senhora de Lourdes - lado par;"
 }

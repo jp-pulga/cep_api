@@ -1,12 +1,12 @@
 {
-  "cep": "41349485",
-  "logradouro": "Alameda Rio de Janeiro",
-  "bairro": "Boca da Mata",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boca da Mata;",
+    "cep": "41349485",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Rio de Janeiro;"
 }

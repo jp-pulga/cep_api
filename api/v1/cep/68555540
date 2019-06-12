@@ -1,12 +1,12 @@
 {
-  "cep": "68555540",
-  "logradouro": "Rua Pau D'arco",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Xinguara",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68555540",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Xinguara"
+    },
+    "logradouro": "Rua Pau D'arco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32072970",
-  "logradouro": "AC Petrolândia Rua Oleoduto 318",
-  "bairro": "Petrolândia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrolândia;",
+    "cep": "32072970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Oleoduto, 318  AC Petrolândia;"
 }

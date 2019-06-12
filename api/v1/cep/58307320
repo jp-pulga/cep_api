@@ -1,12 +1,12 @@
 {
-  "cep": "58307320",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "58307320",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

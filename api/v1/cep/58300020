@@ -1,12 +1,13 @@
 {
-  "cep": "58300020",
-  "logradouro": "Largo Mercado Público Municipal",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58300020",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Largo Mercado Público Municipal;"
 }

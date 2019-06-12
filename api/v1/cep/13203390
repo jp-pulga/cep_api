@@ -1,12 +1,12 @@
 {
-  "cep": "13203390",
-  "logradouro": "Alameda Argentina",
-  "bairro": "Conjunto Residencial Iapi",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Residencial Iapi;",
+    "cep": "13203390",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Alameda Argentina;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64608078",
-  "logradouro": "Avenida Manoel de Sousa Santos Neto",
-  "bairro": "Parque de Exposição",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Parque de Exposição;",
+    "cep": "64608078",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Manoel de Sousa Santos Neto;"
 }

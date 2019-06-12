@@ -1,12 +1,12 @@
 {
-  "cep": "16076103",
-  "logradouro": "Rua Pedro Moreno",
-  "bairro": "Porto Real I",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Porto Real I;",
+    "cep": "16076103",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Pedro Moreno;"
 }

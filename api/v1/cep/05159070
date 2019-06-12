@@ -1,12 +1,12 @@
 {
-  "cep": "05159070",
-  "logradouro": "Rua Pinheiros Altos",
-  "bairro": "Jardim Maristela",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Maristela;",
+    "cep": "05159070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pinheiros Altos;"
 }

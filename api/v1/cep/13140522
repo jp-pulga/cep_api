@@ -1,12 +1,12 @@
 {
-  "cep": "13140522",
-  "logradouro": "Rua Amapá lado par",
-  "bairro": "Vila Monte Alegre",
-  "cidade": {
-    "nome": "Paulínia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Monte Alegre;",
+    "cep": "13140522",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Paulínia"
+    },
+    "logradouro": "Rua Amapá - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38410473",
-  "logradouro": "Rua João Flôres (Campo Alegre)",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "38410473",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua João Flôres (Campo Alegre);"
 }

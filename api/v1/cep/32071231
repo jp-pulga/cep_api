@@ -1,12 +1,12 @@
 {
-  "cep": "32071231",
-  "logradouro": "Rua Palmeira",
-  "bairro": "Sapucaias III",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sapucaias III;",
+    "cep": "32071231",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Palmeira;"
 }

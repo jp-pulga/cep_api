@@ -1,12 +1,12 @@
 {
-  "cep": "88117402",
-  "logradouro": "Rua Francisco Pedro Machado",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88117402",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Francisco Pedro Machado;"
 }

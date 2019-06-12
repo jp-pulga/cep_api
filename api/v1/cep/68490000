@@ -1,12 +1,11 @@
 {
-  "cep": "68490000",
-  "logradouro": "Melgaço",
-  "bairro": "",
-  "cidade": {
-    "nome": "Melgaço",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68490000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Melgaço"
+    },
+    "ibge": 1504505
 }

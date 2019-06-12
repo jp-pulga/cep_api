@@ -1,12 +1,13 @@
 {
-  "cep": "64325970",
-  "logradouro": "AC Elesbão Veloso Praça Santa Teresinha 86 Térreo Térreo",
-  "bairro": "Matias",
-  "cidade": {
-    "nome": "Elesbão Veloso",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Matias;",
+    "cep": "64325970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Elesbão Veloso"
+    },
+    "ibge": 2203503,
+    "logradouro": "Praça Santa Teresinha, 86 Térreo Térreo  AC Elesbão Veloso;"
 }

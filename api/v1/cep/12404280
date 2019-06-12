@@ -1,12 +1,12 @@
 {
-  "cep": "12404280",
-  "logradouro": "Rua João Batista da Costa",
-  "bairro": "Residencial Parque das Palmeiras",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Parque das Palmeiras;",
+    "cep": "12404280",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Rua João Batista da Costa;"
 }

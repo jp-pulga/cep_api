@@ -1,12 +1,13 @@
 {
-  "cep": "69087298",
-  "logradouro": "Beco Arenito",
-  "bairro": "Tancredo Neves",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tancredo Neves;",
+    "cep": "69087298",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Beco Arenito;"
 }

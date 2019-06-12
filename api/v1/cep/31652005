@@ -1,12 +1,12 @@
 {
-  "cep": "31652005",
-  "logradouro": "Rua Pérola",
-  "bairro": "Jardim dos Comerciários (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Comerciários (Venda Nova);",
+    "cep": "31652005",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pérola;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13480326",
-  "logradouro": "Rua Doutor Waldemar César da Silveira",
-  "bairro": "Vila Independência",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Independência;",
+    "cep": "13480326",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Rua Doutor Waldemar César da Silveira;"
 }

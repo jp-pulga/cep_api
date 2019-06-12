@@ -1,12 +1,13 @@
 {
-  "cep": "68456170",
-  "logradouro": "Travessa Paulo Ronaldo",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "68456170",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Travessa Paulo Ronaldo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69101280",
-  "logradouro": "Avenida Armindo Auzier de 1892 a 99998 - lado par",
-  "bairro": "Prainha",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Prainha;",
+    "cep": "69101280",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "logradouro": "Avenida Armindo Auzier - de 1892 a 99998 - lado par;"
 }

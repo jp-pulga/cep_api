@@ -1,12 +1,12 @@
 {
-  "cep": "94930460",
-  "logradouro": "Rua Padre Reus",
-  "bairro": "Vila Regina",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Regina;",
+    "cep": "94930460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Padre Reus;"
 }

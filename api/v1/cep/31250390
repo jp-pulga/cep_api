@@ -1,12 +1,12 @@
 {
-  "cep": "31250390",
-  "logradouro": "Rua Dom Pedro de Almeida",
-  "bairro": "Nova Cachoeirinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Cachoeirinha;",
+    "cep": "31250390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Dom Pedro de Almeida;"
 }

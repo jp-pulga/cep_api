@@ -1,12 +1,13 @@
 {
-  "cep": "58705760",
-  "logradouro": "Rodovia BR-230",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "58705760",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Rodovia BR-230;"
 }

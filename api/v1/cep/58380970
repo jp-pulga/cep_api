@@ -1,12 +1,13 @@
 {
-  "cep": "58380970",
-  "logradouro": "AC Ingá Rua Venâncio Neiva 261",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ingá",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58380970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Ingá"
+    },
+    "ibge": 2506806,
+    "logradouro": "Rua Floriano Peixoto, 816  AC Ingá;"
 }

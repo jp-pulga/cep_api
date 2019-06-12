@@ -1,12 +1,12 @@
 {
-  "cep": "30575683",
-  "logradouro": "Beco Santa Maria",
-  "bairro": "Vila Nova Paraíso",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Nova Paraíso;",
+    "cep": "30575683",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Santa Maria;"
 }

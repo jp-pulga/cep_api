@@ -1,12 +1,13 @@
 {
-  "cep": "69079421",
-  "logradouro": "Beco Araújo Filho",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "69079421",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Beco Araújo Filho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "05884120",
-  "logradouro": "Rua Major Benevides Navarro",
-  "bairro": "Jardim Bom Pastor",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bom Pastor;",
+    "cep": "05884120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Major Benevides Navarro;"
 }

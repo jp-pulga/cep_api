@@ -1,12 +1,12 @@
 {
-  "cep": "58804560",
-  "logradouro": "Rua Vicente Damião",
-  "bairro": "Zú Silva",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Zú Silva;",
+    "cep": "58804560",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Vicente Damião;"
 }

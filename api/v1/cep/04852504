@@ -1,12 +1,12 @@
 {
-  "cep": "04852504",
-  "logradouro": "Rua Progresso",
-  "bairro": "Jardim Novo Jaú",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Novo Jaú;",
+    "cep": "04852504",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Progresso;"
 }

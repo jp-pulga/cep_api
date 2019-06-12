@@ -1,12 +1,13 @@
 {
-  "cep": "58145970",
-  "logradouro": "AC Montadas Rua São José 102",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Montadas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58145970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Montadas"
+    },
+    "ibge": 2509503,
+    "logradouro": "Rua São José, 102  AC Montadas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32115160",
-  "logradouro": "Rua Alvimar Carneiro",
-  "bairro": "Novo Progresso",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Progresso;",
+    "cep": "32115160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Alvimar Carneiro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94935430",
-  "logradouro": "Travessa Manoel Pereira Pinto",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "94935430",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Travessa Manoel Pereira Pinto;"
 }

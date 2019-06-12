@@ -1,12 +1,12 @@
 {
-  "cep": "58027900",
-  "logradouro": "Condomínio Parque dos Diamantes Avenida Caramuru 276",
-  "bairro": "Mandacaru",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mandacaru;",
+    "cep": "58027900",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida Caramuru, 276  Condomínio Parque dos Diamantes;"
 }

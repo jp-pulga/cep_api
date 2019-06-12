@@ -1,12 +1,13 @@
 {
-  "cep": "57515970",
-  "logradouro": "AC Senador Rui Palmeira Rua do Comércio 126",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senador Rui Palmeira",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57515970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Senador Rui Palmeira"
+    },
+    "ibge": 2708956,
+    "logradouro": "Rua do Comércio, 126  AC Senador Rui Palmeira;"
 }

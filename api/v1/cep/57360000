@@ -1,12 +1,11 @@
 {
-  "cep": "57360000",
-  "logradouro": "Girau do Ponciano",
-  "bairro": "",
-  "cidade": {
-    "nome": "Girau do Ponciano",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57360000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Girau do Ponciano"
+    },
+    "ibge": 2702900
 }

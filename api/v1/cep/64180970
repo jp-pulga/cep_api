@@ -1,12 +1,13 @@
 {
-  "cep": "64180970",
-  "logradouro": "AC Esperantina Rua Mireta Fortes 78",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esperantina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64180970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Esperantina"
+    },
+    "ibge": 2203701,
+    "logradouro": "Rua Mireta Fortes, 78  AC Esperantina;"
 }

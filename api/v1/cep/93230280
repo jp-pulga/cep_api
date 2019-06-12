@@ -1,12 +1,12 @@
 {
-  "cep": "93230280",
-  "logradouro": "Avenida Luiz Pasteur de 13202 ao fim - lado par (lado ímpar pertence a(o) Esteio)",
-  "bairro": "Walderez",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Walderez;",
+    "cep": "93230280",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Avenida Luiz Pasteur - de 13202 ao fim - lado par (lado ímpar pertence a(o) Esteio);"
 }

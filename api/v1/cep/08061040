@@ -1,12 +1,12 @@
 {
-  "cep": "08061040",
-  "logradouro": "Rua Curuapê",
-  "bairro": "Jardim Pedro José Nunes",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Pedro José Nunes;",
+    "cep": "08061040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Curuapê;"
 }

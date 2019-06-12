@@ -1,12 +1,12 @@
 {
-  "cep": "47804323",
-  "logradouro": "Rua Ceará",
-  "bairro": "Firenze",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Firenze;",
+    "cep": "47804323",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Ceará;"
 }

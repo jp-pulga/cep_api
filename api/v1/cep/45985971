@@ -1,12 +1,12 @@
 {
-  "cep": "45985971",
-  "logradouro": "AGF Independência Rua Marechal Costa e Silva 90",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45985971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Marechal Costa e Silva, 90  AGF Independência;"
 }

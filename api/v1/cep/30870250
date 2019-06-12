@@ -1,12 +1,12 @@
 {
-  "cep": "30870250",
-  "logradouro": "Praça Nossa Senhora da Glória",
-  "bairro": "Novo Glória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo Glória;",
+    "cep": "30870250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Nossa Senhora da Glória;"
 }

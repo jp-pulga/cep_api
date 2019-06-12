@@ -1,12 +1,12 @@
 {
-  "cep": "47803158",
-  "logradouro": "Rua Piauí",
-  "bairro": "Jardins",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardins;",
+    "cep": "47803158",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Piauí;"
 }

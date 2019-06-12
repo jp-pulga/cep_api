@@ -1,12 +1,12 @@
 {
-  "cep": "58421660",
-  "logradouro": "Rua Katarina Maria Uchoa Lucena",
-  "bairro": "Cidades",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cidades;",
+    "cep": "58421660",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Katarina Maria Uchoa Lucena;"
 }

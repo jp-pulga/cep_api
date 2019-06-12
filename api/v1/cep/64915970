@@ -1,12 +1,13 @@
 {
-  "cep": "64915970",
-  "logradouro": "AC Redenção do Gurguéia Avenida Álvaro Mendes 46",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Redenção do Gurguéia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64915970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Redenção do Gurguéia"
+    },
+    "ibge": 2208700,
+    "logradouro": "Avenida Álvaro Mendes, 46  AC Redenção do Gurguéia;"
 }

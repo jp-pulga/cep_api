@@ -1,12 +1,12 @@
 {
-  "cep": "12914670",
-  "logradouro": "Alameda Jacarandá",
-  "bairro": "Parque das Faculdades",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Faculdades;",
+    "cep": "12914670",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Alameda Jacarandá;"
 }

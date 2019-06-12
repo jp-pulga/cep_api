@@ -1,12 +1,12 @@
 {
-  "cep": "49070305",
-  "logradouro": "Rua Nossa Senhora da Glória de 194/195 a 699/700",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "49070305",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Nossa Senhora da Glória - de 194\/195 a 699\/700;"
 }

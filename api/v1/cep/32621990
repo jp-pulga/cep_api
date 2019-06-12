@@ -1,12 +1,11 @@
 {
-  "cep": "32621990",
-  "logradouro": "Mercearia Bom Jesus Rua Principal 42 - Pimenta",
-  "bairro": "",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "32621990",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Principal, 42 - Pimenta  CPC Mercearia Bom Jesus;"
 }

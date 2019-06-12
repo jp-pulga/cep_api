@@ -1,12 +1,12 @@
 {
-  "cep": "04856640",
-  "logradouro": "Rua Pedra Formosa",
-  "bairro": "Jardim das Pedras(Zona Sul)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim das Pedras(Zona Sul);",
+    "cep": "04856640",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pedra Formosa;"
 }

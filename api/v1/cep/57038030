@@ -1,12 +1,12 @@
 {
-  "cep": "57038030",
-  "logradouro": "Rua União dos Palmares",
-  "bairro": "Cruz das Almas",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cruz das Almas;",
+    "cep": "57038030",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua União dos Palmares;"
 }

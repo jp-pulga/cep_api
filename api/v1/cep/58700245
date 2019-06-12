@@ -1,12 +1,13 @@
 {
-  "cep": "58700245",
-  "logradouro": "Rua João Bosco de Araújo",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58700245",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida Vidal de Negreiros;"
 }

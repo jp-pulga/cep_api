@@ -1,12 +1,12 @@
 {
-  "cep": "78134162",
-  "logradouro": "Rua Assis Chateaubriand (Res Jd Guanabara)",
-  "bairro": "Capão do Pequi",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Capão do Pequi;",
+    "cep": "78134162",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Assis Chateaubriand (Res Jd Guanabara);"
 }

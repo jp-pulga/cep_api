@@ -1,12 +1,12 @@
 {
-  "cep": "66085270",
-  "logradouro": "Alameda Maria Inês",
-  "bairro": "Pedreira",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pedreira;",
+    "cep": "66085270",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Alameda Maria Inês;"
 }

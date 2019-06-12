@@ -1,12 +1,12 @@
 {
-  "cep": "58076040",
-  "logradouro": "Rua Comerciante João da Mata Lucena",
-  "bairro": "João Paulo II",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "João Paulo II;",
+    "cep": "58076040",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Comerciante João da Mata Lucena;"
 }

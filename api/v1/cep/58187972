@@ -1,12 +1,13 @@
 {
-  "cep": "58187972",
-  "logradouro": "AGC Serra dos Bradões Rua Francisco Josias de Lima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Picuí",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58187972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Picuí"
+    },
+    "ibge": 2511400,
+    "logradouro": "Rua Francisco Josias de Lima, s\/n  AGC Serra dos Bradões;"
 }

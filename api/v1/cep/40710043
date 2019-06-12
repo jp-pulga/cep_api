@@ -1,12 +1,12 @@
 {
-  "cep": "40710043",
-  "logradouro": "Travessa São Pedro de Escada",
-  "bairro": "Escada",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Escada;",
+    "cep": "40710043",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa São Pedro de Escada;"
 }

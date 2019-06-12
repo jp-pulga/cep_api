@@ -1,12 +1,12 @@
 {
-  "cep": "58433137",
-  "logradouro": "Rua Patos",
-  "bairro": "Malvinas",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Malvinas;",
+    "cep": "58433137",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Patos;"
 }

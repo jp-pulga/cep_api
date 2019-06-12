@@ -1,12 +1,13 @@
 {
-  "cep": "64600002",
-  "logradouro": "Avenida Getúlio Vargas",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64600002",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Getúlio Vargas;"
 }

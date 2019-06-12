@@ -1,12 +1,12 @@
 {
-  "cep": "57017622",
-  "logradouro": "Travessa Delmiro Gouveia",
-  "bairro": "Bebedouro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Bebedouro;",
+    "cep": "57017622",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Delmiro Gouveia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64218900",
-  "logradouro": "PVP S/A Rua Doutor João Emílio Falcão Costa s/n",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "64218900",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Doutor João Emílio Falcão Costa, s\/n  PVP S\/A;"
 }

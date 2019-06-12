@@ -1,12 +1,13 @@
 {
-  "cep": "58250970",
-  "logradouro": "AC Lagoa de Dentro Rua do Comércio 584",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa de Dentro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58250970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Lagoa de Dentro"
+    },
+    "ibge": 2508208,
+    "logradouro": "Rua do Comércio, 584  AC Lagoa de Dentro;"
 }

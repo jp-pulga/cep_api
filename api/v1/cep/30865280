@@ -1,12 +1,12 @@
 {
-  "cep": "30865280",
-  "logradouro": "Rua Flor-de-pepino",
-  "bairro": "Jardim Filadélfia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Filadélfia;",
+    "cep": "30865280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Flor-de-pepino;"
 }

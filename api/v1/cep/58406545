@@ -1,12 +1,12 @@
 {
-  "cep": "58406545",
-  "logradouro": "Rua Francisco Monteiro de Castro",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "58406545",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Francisco Monteiro de Castro;"
 }

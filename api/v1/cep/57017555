@@ -1,12 +1,12 @@
 {
-  "cep": "57017555",
-  "logradouro": "Rua Delmiro Gouveia",
-  "bairro": "Mutange",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Mutange;",
+    "cep": "57017555",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Delmiro Gouveia;"
 }

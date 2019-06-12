@@ -1,12 +1,13 @@
 {
-  "cep": "58301270",
-  "logradouro": "Rua Santa Rita",
-  "bairro": "Popular",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Popular;",
+    "cep": "58301270",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Rua Santa Rita;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58200970",
-  "logradouro": "AC Guarabira Praça João Pessoa 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guarabira",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58200970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Guarabira"
+    },
+    "ibge": 2506301,
+    "logradouro": "Praça João Pessoa, 43  AC Guarabira;"
 }

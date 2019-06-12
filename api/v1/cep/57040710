@@ -1,12 +1,12 @@
 {
-  "cep": "57040710",
-  "logradouro": "Rua São Sebastião",
-  "bairro": "Jacintinho",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jacintinho;",
+    "cep": "57040710",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua São Sebastião;"
 }

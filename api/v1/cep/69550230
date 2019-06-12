@@ -1,12 +1,13 @@
 {
-  "cep": "69550230",
-  "logradouro": "Beco da Teimosia",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "69550230",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Beco da Teimosia;"
 }

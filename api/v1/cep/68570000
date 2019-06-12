@@ -1,12 +1,11 @@
 {
-  "cep": "68570000",
-  "logradouro": "São Geraldo do Araguaia",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Geraldo do Araguaia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68570000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Geraldo do Araguaia"
+    },
+    "ibge": 1507458
 }

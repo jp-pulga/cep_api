@@ -1,12 +1,12 @@
 {
-  "cep": "18307550",
-  "logradouro": "Rua Panamá",
-  "bairro": "Parque das Nações",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Nações;",
+    "cep": "18307550",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Panamá;"
 }

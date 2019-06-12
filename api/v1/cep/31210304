@@ -1,12 +1,12 @@
 {
-  "cep": "31210304",
-  "logradouro": "Beco Nossa Senhora de Lourdes",
-  "bairro": "Senhor dos Passos",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhor dos Passos;",
+    "cep": "31210304",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Nossa Senhora de Lourdes;"
 }

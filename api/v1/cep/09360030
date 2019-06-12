@@ -1,12 +1,12 @@
 {
-  "cep": "09360030",
-  "logradouro": "Rua Riachuelo",
-  "bairro": "Vila Nossa Senhora das Vitórias",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nossa Senhora das Vitórias;",
+    "cep": "09360030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Rua Riachuelo;"
 }

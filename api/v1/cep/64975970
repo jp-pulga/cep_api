@@ -1,12 +1,13 @@
 {
-  "cep": "64975970",
-  "logradouro": "AGC Riacho Frio Rua Antonio Mascarenhas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riacho Frio",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64975970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Riacho Frio"
+    },
+    "ibge": 2208858,
+    "logradouro": "Rua Projetada, s\/n  AC Riacho Frio;"
 }

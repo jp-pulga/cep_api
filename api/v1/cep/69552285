@@ -1,12 +1,12 @@
 {
-  "cep": "69552285",
-  "logradouro": "Travessa Brasília",
-  "bairro": "Juruá",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Juruá;",
+    "cep": "69552285",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "logradouro": "Travessa Brasília;"
 }

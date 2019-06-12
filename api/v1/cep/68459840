@@ -1,12 +1,13 @@
 {
-  "cep": "68459840",
-  "logradouro": "Avenida Pátria Livre",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "68459840",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Avenida Pátria Livre;"
 }

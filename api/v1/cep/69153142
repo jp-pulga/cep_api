@@ -1,12 +1,12 @@
 {
-  "cep": "69153142",
-  "logradouro": "Beco Itapiranga",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "69153142",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Beco Itapiranga;"
 }

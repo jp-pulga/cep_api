@@ -1,12 +1,11 @@
 {
-  "cep": "68470000",
-  "logradouro": "Oeiras do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Oeiras do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68470000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Oeiras do Pará"
+    },
+    "ibge": 1505205
 }

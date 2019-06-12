@@ -1,12 +1,12 @@
 {
-  "cep": "12242270",
-  "logradouro": "Avenida Manoel Borba Gato",
-  "bairro": "Jardim Nova América",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nova América;",
+    "cep": "12242270",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Avenida Manoel Borba Gato;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69060670",
-  "logradouro": "Beco Tefé",
-  "bairro": "Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aleixo;",
+    "cep": "69060670",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Tefé;"
 }

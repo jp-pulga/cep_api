@@ -1,12 +1,13 @@
 {
-  "cep": "68456685",
-  "logradouro": "Travessa Pacajá",
-  "bairro": "Terra Prometida",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Prometida;",
+    "cep": "68456685",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Travessa Pacajá;"
 }

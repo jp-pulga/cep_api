@@ -1,12 +1,13 @@
 {
-  "cep": "64565970",
-  "logradouro": "AC Itainópolis Rua Gilberto Neiva 32",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itainópolis",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64565970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Itainópolis"
+    },
+    "ibge": 2205003,
+    "logradouro": "Rua Gilberto Neiva, 32  AC Itainópolis;"
 }

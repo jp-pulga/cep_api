@@ -1,12 +1,12 @@
 {
-  "cep": "58801353",
-  "logradouro": "Rua José Ferreira da Silva",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "58801353",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua José Ferreira da Silva;"
 }

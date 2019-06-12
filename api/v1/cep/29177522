@@ -1,12 +1,12 @@
 {
-  "cep": "29177522",
-  "logradouro": "Rodovia Governador Mário Covas lado par",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "29177522",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rodovia Governador Mário Covas;"
 }

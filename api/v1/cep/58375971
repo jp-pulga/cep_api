@@ -1,12 +1,13 @@
 {
-  "cep": "58375971",
-  "logradouro": "AGC Gameleira Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mogeiro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58375971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Mogeiro"
+    },
+    "ibge": 2509404,
+    "logradouro": "Rua Principal, s\/n  AGC Gameleira;"
 }

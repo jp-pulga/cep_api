@@ -1,12 +1,12 @@
 {
-  "cep": "30390260",
-  "logradouro": "Rua Barra do Piraí",
-  "bairro": "Pilar",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pilar;",
+    "cep": "30390260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Barra do Piraí;"
 }

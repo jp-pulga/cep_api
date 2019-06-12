@@ -1,12 +1,12 @@
 {
-  "cep": "13092591",
-  "logradouro": "Rua Tucumã",
-  "bairro": "Bairro das Palmeiras",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bairro das Palmeiras;",
+    "cep": "13092591",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Tucumã;"
 }

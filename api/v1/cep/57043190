@@ -1,12 +1,12 @@
 {
-  "cep": "57043190",
-  "logradouro": "Rua São Sebastião",
-  "bairro": "Feitosa",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Feitosa;",
+    "cep": "57043190",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua São Sebastião;"
 }

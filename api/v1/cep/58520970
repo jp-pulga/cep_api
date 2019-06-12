@@ -1,12 +1,13 @@
 {
-  "cep": "58520970",
-  "logradouro": "AC São João do Tigre Rua Manuel Rodrigues Evangelista 19",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Tigre",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58520970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São João do Tigre"
+    },
+    "ibge": 2514107,
+    "logradouro": "Rua Manuel Rodrigues Evangelista, 19  AC São João do Tigre;"
 }

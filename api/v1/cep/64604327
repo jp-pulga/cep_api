@@ -1,12 +1,12 @@
 {
-  "cep": "64604327",
-  "logradouro": "Rua Alto da Boa Vista",
-  "bairro": "Ipueiras",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ipueiras;",
+    "cep": "64604327",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Alto da Boa Vista;"
 }

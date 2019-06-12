@@ -1,12 +1,12 @@
 {
-  "cep": "09180520",
-  "logradouro": "Rua Petrolândia",
-  "bairro": "Jardim Alvorada",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Alvorada;",
+    "cep": "09180520",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo André"
+    },
+    "logradouro": "Rua Petrolândia;"
 }

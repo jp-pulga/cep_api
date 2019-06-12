@@ -1,12 +1,13 @@
 {
-  "cep": "64375971",
-  "logradouro": "AGC Buriti do Castelo Rua Vinte de Novembro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Félix do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64375971",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Félix do Piauí"
+    },
+    "ibge": 2209609,
+    "logradouro": "Rua Vinte de Novembro, s\/n  AGC Buriti do Castelo;"
 }

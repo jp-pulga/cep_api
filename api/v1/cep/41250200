@@ -1,12 +1,12 @@
 {
-  "cep": "41250200",
-  "logradouro": "Travessa Nossa Senhora de Lourdes",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "41250200",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Nossa Senhora de Lourdes;"
 }

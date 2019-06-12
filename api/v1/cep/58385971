@@ -1,12 +1,13 @@
 {
-  "cep": "58385971",
-  "logradouro": "ACS Tôrres Rua Principal s/n",
-  "bairro": "Povoado",
-  "cidade": {
-    "nome": "Serra Redonda",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Povoado;",
+    "cep": "58385971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Serra Redonda"
+    },
+    "ibge": 2515807,
+    "logradouro": "Rua Principal, s\/n  ACS Tôrres;"
 }

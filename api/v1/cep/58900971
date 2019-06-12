@@ -1,12 +1,13 @@
 {
-  "cep": "58900971",
-  "logradouro": "AGC Divinópolis Rua do Comércio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cajazeiras",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58900971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cajazeiras"
+    },
+    "ibge": 2503704,
+    "logradouro": "Rua do Comércio, s\/n  AGC Divinópolis;"
 }

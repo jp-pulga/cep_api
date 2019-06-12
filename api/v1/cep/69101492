@@ -1,12 +1,13 @@
 {
-  "cep": "69101492",
-  "logradouro": "Rua Amapá",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69101492",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "ibge": 1301902,
+    "logradouro": "Rua Amapá;"
 }

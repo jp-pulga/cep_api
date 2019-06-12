@@ -1,12 +1,13 @@
 {
-  "cep": "64608042",
-  "logradouro": "Avenida Cícero Eduardo",
-  "bairro": "Parque de Exposição",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Parque de Exposição;",
+    "cep": "64608042",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Cícero Eduardo;"
 }

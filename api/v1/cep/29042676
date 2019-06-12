@@ -1,12 +1,12 @@
 {
-  "cep": "29042676",
-  "logradouro": "Escadaria Eugênia Bianchi Pelicioni",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "29042676",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria Eugênia Bianchi Pelicioni;"
 }

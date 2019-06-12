@@ -1,12 +1,13 @@
 {
-  "cep": "58930970",
-  "logradouro": "AC Bom Jesus Rua Manoel Antonio Furtado Figueiredo 42",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58930970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bom Jesus"
+    },
+    "ibge": 2502201,
+    "logradouro": "Rua Manoel Antonio Furtado Figueiredo, 42  AC Bom Jesus;"
 }

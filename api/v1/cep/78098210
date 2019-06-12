@@ -1,12 +1,12 @@
 {
-  "cep": "78098210",
-  "logradouro": "Rua Nossa Senhora do Socorro",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "78098210",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Nossa Senhora do Socorro;"
 }

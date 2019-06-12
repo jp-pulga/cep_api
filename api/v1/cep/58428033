@@ -1,12 +1,12 @@
 {
-  "cep": "58428033",
-  "logradouro": "Rua São Bento",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centenário;",
+    "cep": "58428033",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua São Bento;"
 }

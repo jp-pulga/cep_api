@@ -1,12 +1,13 @@
 {
-  "cep": "69088675",
-  "logradouro": "Beco Acauã",
-  "bairro": "Jorge Teixeira",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jorge Teixeira;",
+    "cep": "69088675",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Beco Acauã;"
 }

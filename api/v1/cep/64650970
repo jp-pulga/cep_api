@@ -1,12 +1,13 @@
 {
-  "cep": "64650970",
-  "logradouro": "AC Monsenhor Hipólito Avenida Manoel Bezerra 351",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monsenhor Hipólito",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64650970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Monsenhor Hipólito"
+    },
+    "ibge": 2206506,
+    "logradouro": "Rua Norberto Gomes, 274  AC Monsenhor Hipólito;"
 }

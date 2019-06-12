@@ -1,12 +1,12 @@
 {
-  "cep": "58400525",
-  "logradouro": "Rua Siqueira Campos",
-  "bairro": "Prata",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Prata;",
+    "cep": "58400525",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Siqueira Campos;"
 }

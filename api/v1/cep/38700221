@@ -1,12 +1,12 @@
 {
-  "cep": "38700221",
-  "logradouro": "Avenida Piauí",
-  "bairro": "Cristo Redentor",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cristo Redentor;",
+    "cep": "38700221",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Avenida Piauí;"
 }

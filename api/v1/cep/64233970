@@ -1,12 +1,12 @@
 {
-  "cep": "64233970",
-  "logradouro": "AC Caraúbas do Piauí Avenida do Francisco Portela dos Santos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caraúbas do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64233970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Caraúbas do Piauí"
+    },
+    "logradouro": "Avenida do Francisco Portela dos Santos, s\/n  AC Caraúbas do Piauí;"
 }

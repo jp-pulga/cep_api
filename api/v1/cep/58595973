@@ -1,12 +1,13 @@
 {
-  "cep": "58595973",
-  "logradouro": "AGC Ribeira Rua Doutor Mauro Farias s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caraúbas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58595973",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Caraúbas"
+    },
+    "ibge": 2504074,
+    "logradouro": "Rua Doutor Mauro Farias, s\/n  AGC Ribeira;"
 }

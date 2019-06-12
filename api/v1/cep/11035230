@@ -1,12 +1,12 @@
 {
-  "cep": "11035230",
-  "logradouro": "Rua Engenheiro Alfredo Capelache",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Aparecida;",
+    "cep": "11035230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Rua Engenheiro Alfredo Capelache;"
 }

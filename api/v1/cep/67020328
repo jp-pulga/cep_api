@@ -1,12 +1,13 @@
 {
-  "cep": "67020328",
-  "logradouro": "Alameda Bom Pastor",
-  "bairro": "Águas Lindas",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Águas Lindas;",
+    "cep": "67020328",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Alameda Bom Pastor;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58430480",
-  "logradouro": "Rua Rita Pereira de Araújo",
-  "bairro": "Bodocongó",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Bodocongó;",
+    "cep": "58430480",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Rita Pereira de Araújo;"
 }

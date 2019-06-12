@@ -1,12 +1,12 @@
 {
-  "cep": "64039610",
-  "logradouro": "Rua Nossa Senhora Aparecida (Vl da Glória)",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "64039610",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Nossa Senhora Aparecida (Vl da Glória);"
 }

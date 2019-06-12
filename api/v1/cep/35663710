@@ -1,12 +1,12 @@
 {
-  "cep": "35663710",
-  "logradouro": "Praça São Francisco",
-  "bairro": "Ascenção",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ascenção;",
+    "cep": "35663710",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Praça São Francisco;"
 }

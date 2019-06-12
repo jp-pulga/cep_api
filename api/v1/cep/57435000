@@ -1,12 +1,11 @@
 {
-  "cep": "57435000",
-  "logradouro": "Belo Monte",
-  "bairro": "",
-  "cidade": {
-    "nome": "Belo Monte",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57435000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Belo Monte"
+    },
+    "ibge": 2700904
 }

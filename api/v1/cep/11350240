@@ -1,12 +1,12 @@
 {
-  "cep": "11350240",
-  "logradouro": "Rua Major Saturnino Vítor de Almeida Pilar",
-  "bairro": "Cidade Naútica",
-  "cidade": {
-    "nome": "São Vicente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Naútica;",
+    "cep": "11350240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Vicente"
+    },
+    "logradouro": "Rua Major Saturnino Vítor de Almeida Pilar;"
 }

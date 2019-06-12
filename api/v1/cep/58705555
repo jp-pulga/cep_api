@@ -1,12 +1,13 @@
 {
-  "cep": "58705555",
-  "logradouro": "Rodovia BR-230",
-  "bairro": "Jardim Magnólia",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Magnólia;",
+    "cep": "58705555",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Rodovia BR-230;"
 }

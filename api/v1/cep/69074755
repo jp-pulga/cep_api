@@ -1,12 +1,13 @@
 {
-  "cep": "69074755",
-  "logradouro": "Avenida São João",
-  "bairro": "Morro da Liberdade",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Morro da Liberdade;",
+    "cep": "69074755",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida São João;"
 }

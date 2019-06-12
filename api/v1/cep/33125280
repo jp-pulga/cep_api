@@ -1,12 +1,12 @@
 {
-  "cep": "33125280",
-  "logradouro": "Avenida Paranapanema",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "33125280",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Avenida Paranapanema;"
 }

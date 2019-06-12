@@ -1,12 +1,12 @@
 {
-  "cep": "58400480",
-  "logradouro": "Rua da Independência",
-  "bairro": "Prata",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Prata;",
+    "cep": "58400480",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua da Independência;"
 }

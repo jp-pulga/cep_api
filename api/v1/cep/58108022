@@ -1,12 +1,12 @@
 {
-  "cep": "58108022",
-  "logradouro": "Rua Santa Rita de Cássia",
-  "bairro": "Renascer",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Renascer;",
+    "cep": "58108022",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Santa Rita de Cássia;"
 }

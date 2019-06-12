@@ -1,12 +1,12 @@
 {
-  "cep": "69151722",
-  "logradouro": "Rua Tucumã",
-  "bairro": "Vitória Régia",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vitória Régia;",
+    "cep": "69151722",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Tucumã;"
 }

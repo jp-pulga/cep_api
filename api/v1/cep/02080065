@@ -1,12 +1,12 @@
 {
-  "cep": "02080065",
-  "logradouro": "Rua Geraldo Evaristo Marcondes Cesar",
-  "bairro": "Vila Isolina Mazzei",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Isolina Mazzei;",
+    "cep": "02080065",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Geraldo Evaristo Marcondes Cesar;"
 }

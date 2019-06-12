@@ -1,12 +1,12 @@
 {
-  "cep": "45828438",
-  "logradouro": "Rua do Cedro",
-  "bairro": "Recanto das Árvores",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Recanto das Árvores;",
+    "cep": "45828438",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua do Cedro;"
 }

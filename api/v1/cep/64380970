@@ -1,12 +1,13 @@
 {
-  "cep": "64380970",
-  "logradouro": "AC Beneditinos Rua Quintino Bocaiúva s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Beneditinos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64380970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Beneditinos"
+    },
+    "ibge": 2201606,
+    "logradouro": "Rua Quintino Bocaiúva, s\/n  AC Beneditinos;"
 }

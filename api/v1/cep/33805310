@@ -1,12 +1,12 @@
 {
-  "cep": "33805310",
-  "logradouro": "Rua Francisco de Paula Andrade Glória",
-  "bairro": "Nossa Senhora das Neves",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Neves;",
+    "cep": "33805310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Francisco de Paula Andrade Glória;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "09854730",
-  "logradouro": "Rua dos Cocais (Jd Pinheiros)",
-  "bairro": "Alvarenga",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alvarenga;",
+    "cep": "09854730",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua dos Cocais (Jd Pinheiros);"
 }

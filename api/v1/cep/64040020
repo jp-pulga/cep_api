@@ -1,12 +1,12 @@
 {
-  "cep": "64040020",
-  "logradouro": "Rua Peixe (Vl S Francisco)",
-  "bairro": "Angelim",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Angelim;",
+    "cep": "64040020",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Peixe (Vl S Francisco);"
 }

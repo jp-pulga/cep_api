@@ -1,12 +1,12 @@
 {
-  "cep": "89233572",
-  "logradouro": "Servidão São Francisco Xavier",
-  "bairro": "Itinga",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itinga;",
+    "cep": "89233572",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Servidão São Francisco Xavier;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40800830",
-  "logradouro": "Rua Alto Bonito",
-  "bairro": "Paripe",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Paripe;",
+    "cep": "40800830",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Alto Bonito;"
 }

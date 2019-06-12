@@ -1,12 +1,12 @@
 {
-  "cep": "08230330",
-  "logradouro": "Rua Pesqueira",
-  "bairro": "Vila Bozzini",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Bozzini;",
+    "cep": "08230330",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Pesqueira;"
 }

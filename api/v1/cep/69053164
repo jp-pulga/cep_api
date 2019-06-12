@@ -1,12 +1,12 @@
 {
-  "cep": "69053164",
-  "logradouro": "Travessa Pauini",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "69053164",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Pauini;"
 }

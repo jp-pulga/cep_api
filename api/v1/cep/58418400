@@ -1,12 +1,13 @@
 {
-  "cep": "58418400",
-  "logradouro": "Avenida Francisco Amaro de Lima",
-  "bairro": "Velame",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Velame;",
+    "cep": "58418400",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Francisco Amaro de Lima;"
 }

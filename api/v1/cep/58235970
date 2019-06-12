@@ -1,12 +1,13 @@
 {
-  "cep": "58235970",
-  "logradouro": "AC Riachão Rua Manoel Tomáz de Aquino s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riachão",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58235970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Riachão"
+    },
+    "ibge": 2512747,
+    "logradouro": "Rua Manoel Tomáz de Aquino, s\/n  AC Riachão;"
 }

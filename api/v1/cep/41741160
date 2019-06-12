@@ -1,12 +1,12 @@
 {
-  "cep": "41741160",
-  "logradouro": "Rua José Augusto de Freitas",
-  "bairro": "Pituaçu",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pituaçu;",
+    "cep": "41741160",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua José Augusto de Freitas;"
 }

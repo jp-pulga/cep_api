@@ -1,12 +1,12 @@
 {
-  "cep": "68746728",
-  "logradouro": "Rua Benedita Celestina",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "68746728",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "logradouro": "Rua Benedita Celestina;"
 }

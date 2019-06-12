@@ -1,12 +1,13 @@
 {
-  "cep": "67120424",
-  "logradouro": "Conjunto Jardim Paraíso",
-  "bairro": "Quarenta Horas (Coqueiro)",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Quarenta Horas (Coqueiro);",
+    "cep": "67120424",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Conjunto Jardim Paraíso;"
 }

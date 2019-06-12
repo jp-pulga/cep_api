@@ -1,12 +1,13 @@
 {
-  "cep": "69075312",
-  "logradouro": "Beco Amazônia",
-  "bairro": "Mauazinho",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Mauazinho;",
+    "cep": "69075312",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Beco Amazônia;"
 }

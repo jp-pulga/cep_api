@@ -1,12 +1,12 @@
 {
-  "cep": "58068259",
-  "logradouro": "Rua Esteliano Monteiro Guedes",
-  "bairro": "Gramame",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Gramame;",
+    "cep": "58068259",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Esteliano Monteiro Guedes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58808303",
-  "logradouro": "Rua Antonio Damião",
-  "bairro": "Jardim Bela Vista",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Bela Vista;",
+    "cep": "58808303",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Antonio Damião;"
 }

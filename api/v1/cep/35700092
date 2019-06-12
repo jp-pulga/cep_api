@@ -1,12 +1,12 @@
 {
-  "cep": "35700092",
-  "logradouro": "Rua Piauí",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "35700092",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Piauí;"
 }

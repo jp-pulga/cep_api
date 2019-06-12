@@ -1,12 +1,13 @@
 {
-  "cep": "64940970",
-  "logradouro": "AC Monte Alegre do Piauí Rua Treze de Maio 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Alegre do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64940970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Monte Alegre do Piauí"
+    },
+    "ibge": 2206605,
+    "logradouro": "Rua Treze de Maio, 15  AC Monte Alegre do Piauí;"
 }

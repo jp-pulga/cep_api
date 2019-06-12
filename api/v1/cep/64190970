@@ -1,12 +1,13 @@
 {
-  "cep": "64190970",
-  "logradouro": "AC Batalha Avenida Coronel Messias Melo 249",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Batalha",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64190970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Batalha"
+    },
+    "ibge": 2201507,
+    "logradouro": "Avenida Coronel Messias Melo, 249  AC Batalha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "79091610",
-  "logradouro": "Rua Generoso da Costa Benevides",
-  "bairro": "Parque Residencial União",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Parque Residencial União;",
+    "cep": "79091610",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Generoso da Costa Benevides;"
 }

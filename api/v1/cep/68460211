@@ -1,12 +1,12 @@
 {
-  "cep": "68460211",
-  "logradouro": "Rua Cametá",
-  "bairro": "Nova Conquista",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Conquista;",
+    "cep": "68460211",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "logradouro": "Rua Cametá;"
 }

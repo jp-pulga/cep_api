@@ -1,12 +1,12 @@
 {
-  "cep": "31872710",
-  "logradouro": "Rua Antônio de Almeida",
-  "bairro": "Monte Azul",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Monte Azul;",
+    "cep": "31872710",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Antônio de Almeida;"
 }

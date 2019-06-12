@@ -1,12 +1,13 @@
 {
-  "cep": "68460219",
-  "logradouro": "Rua Paulo Fonteles",
-  "bairro": "Nova Conquista",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Nova Conquista;",
+    "cep": "68460219",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Paulo Fonteles;"
 }

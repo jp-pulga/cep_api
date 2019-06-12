@@ -1,12 +1,13 @@
 {
-  "cep": "68553210",
-  "logradouro": "Avenida Jarbas Passarinho",
-  "bairro": "Núcleo Urbano",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Núcleo Urbano;",
+    "cep": "68553210",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Avenida Jarbas Passarinho;"
 }

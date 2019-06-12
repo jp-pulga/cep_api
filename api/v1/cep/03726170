@@ -1,12 +1,12 @@
 {
-  "cep": "03726170",
-  "logradouro": "Rua Barcarena",
-  "bairro": "Engenheiro Goulart",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Engenheiro Goulart;",
+    "cep": "03726170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barcarena;"
 }

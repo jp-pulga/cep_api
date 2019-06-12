@@ -1,12 +1,12 @@
 {
-  "cep": "49080035",
-  "logradouro": "Rua Pedra Mole",
-  "bairro": "América",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "América;",
+    "cep": "49080035",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Pedra Mole;"
 }

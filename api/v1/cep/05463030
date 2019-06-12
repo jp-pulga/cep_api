@@ -1,12 +1,12 @@
 {
-  "cep": "05463030",
-  "logradouro": "Rua Guerra Junqueiro",
-  "bairro": "Alto de Pinheiros",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alto de Pinheiros;",
+    "cep": "05463030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Guerra Junqueiro;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68130000",
-  "logradouro": "Prainha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Prainha",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68130000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Prainha"
+    },
+    "ibge": 1506005
 }

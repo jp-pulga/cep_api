@@ -1,12 +1,12 @@
 {
-  "cep": "32113487",
-  "logradouro": "Rua João Penedo Alves",
-  "bairro": "Distrito Industrial Doutor Hélio Pentagna Guimarães",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial Doutor Hélio Pentagna Guimarães;",
+    "cep": "32113487",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua João Penedo Alves;"
 }

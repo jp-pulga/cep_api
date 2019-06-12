@@ -1,12 +1,13 @@
 {
-  "cep": "64545970",
-  "logradouro": "AC Santa Cruz do Piauí Praça Clementino Martins 162",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64545970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Santa Cruz do Piauí"
+    },
+    "ibge": 2209104,
+    "logradouro": "Praça Clementino Martins, 162  AC Santa Cruz do Piauí;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30390270",
-  "logradouro": "Rua Alvinegro",
-  "bairro": "Pilar",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pilar;",
+    "cep": "30390270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Alvinegro;"
 }

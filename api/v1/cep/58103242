@@ -1,12 +1,12 @@
 {
-  "cep": "58103242",
-  "logradouro": "Rua Cleto Campelo",
-  "bairro": "Camalaú",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Camalaú;",
+    "cep": "58103242",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Cleto Campelo;"
 }

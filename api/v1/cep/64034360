@@ -1,12 +1,12 @@
 {
-  "cep": "64034360",
-  "logradouro": "Rua Pedro Portela",
-  "bairro": "Angelim",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Angelim;",
+    "cep": "64034360",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pedro Portela;"
 }

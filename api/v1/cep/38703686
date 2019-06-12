@@ -1,12 +1,12 @@
 {
-  "cep": "38703686",
-  "logradouro": "Rua Pau D'Arco",
-  "bairro": "Morada do Sol",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Morada do Sol;",
+    "cep": "38703686",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Pau D'Arco;"
 }

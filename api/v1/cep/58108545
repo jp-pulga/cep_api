@@ -1,12 +1,12 @@
 {
-  "cep": "58108545",
-  "logradouro": "Rua Alexandre Vieira Nunes",
-  "bairro": "Parque Esperança",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Parque Esperança;",
+    "cep": "58108545",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Alexandre Vieira Nunes;"
 }

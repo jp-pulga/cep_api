@@ -1,12 +1,12 @@
 {
-  "cep": "32072060",
-  "logradouro": "Rua Fronape",
-  "bairro": "Petrolândia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrolândia;",
+    "cep": "32072060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Fronape;"
 }

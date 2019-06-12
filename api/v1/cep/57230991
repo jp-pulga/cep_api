@@ -1,12 +1,12 @@
 {
-  "cep": "57230991",
-  "logradouro": "Usina Guaxuma Avenida Goiás nº 11 - Usina Guaxuma",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coruripe",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57230991",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Coruripe"
+    },
+    "ibge": 2702306,
+    "logradouro": "Avenida Goiás nº 11 - Usina Guaxuma  CPC Usina Guaxuma;"
 }

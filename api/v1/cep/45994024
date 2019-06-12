@@ -1,12 +1,12 @@
 {
-  "cep": "45994024",
-  "logradouro": "Rua do Pântano",
-  "bairro": "Redenção",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Redenção;",
+    "cep": "45994024",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua do Pântano;"
 }

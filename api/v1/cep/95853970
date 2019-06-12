@@ -1,12 +1,12 @@
 {
-  "cep": "95853970",
-  "logradouro": "AC Pólo Petroquímico Rodovia BR 386 Km 419",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pólo Petroquímico de Triunfo (Triunfo)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro\/Pólo Petroquímico de Triunfo",
+    "cep": "95853970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Triunfo"
+    },
+    "logradouro": "Rodovia BR 386, Km 419  AC Pólo Petroquímico;"
 }

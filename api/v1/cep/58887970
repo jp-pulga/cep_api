@@ -1,12 +1,13 @@
 {
-  "cep": "58887970",
-  "logradouro": "AC Bom Sucesso Praça Cícero Ferreira da Silva s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Sucesso",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58887970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bom Sucesso"
+    },
+    "ibge": 2502300,
+    "logradouro": "Praça Cícero Ferreira da Silva, s\/n  AC Bom Sucesso;"
 }

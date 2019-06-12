@@ -1,12 +1,12 @@
 {
-  "cep": "09425010",
-  "logradouro": "Rua Santo Antônio",
-  "bairro": "Bocaina",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bocaina;",
+    "cep": "09425010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Santo Antônio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58801390",
-  "logradouro": "Rua Padre Isidro de Sá",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "58801390",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Padre Isidro de Sá;"
 }

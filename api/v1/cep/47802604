@@ -1,12 +1,12 @@
 {
-  "cep": "47802604",
-  "logradouro": "Rua da Cerejeira",
-  "bairro": "Serra do Mimo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serra do Mimo;",
+    "cep": "47802604",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua da Cerejeira;"
 }

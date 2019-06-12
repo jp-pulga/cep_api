@@ -1,12 +1,12 @@
 {
-  "cep": "58066200",
-  "logradouro": "Rua das Ingazeiras",
-  "bairro": "Muçumagro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Muçumagro;",
+    "cep": "58066200",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua das Ingazeiras;"
 }

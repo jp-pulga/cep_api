@@ -1,12 +1,12 @@
 {
-  "cep": "04304001",
-  "logradouro": "Avenida Fagundes Filho de 712 ao fim - lado par",
-  "bairro": "Vila Monte Alegre",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Monte Alegre;",
+    "cep": "04304001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Fagundes Filho - de 712 ao fim - lado par;"
 }

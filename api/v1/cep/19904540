@@ -1,12 +1,12 @@
 {
-  "cep": "19904540",
-  "logradouro": "Rua Paulo Rufino dos Santos",
-  "bairro": "Parque Pacheco Chaves",
-  "cidade": {
-    "nome": "Ourinhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Pacheco Chaves;",
+    "cep": "19904540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ourinhos"
+    },
+    "logradouro": "Rua Paulo Rufino dos Santos;"
 }

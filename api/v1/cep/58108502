@@ -1,12 +1,12 @@
 {
-  "cep": "58108502",
-  "logradouro": "Rodovia BR-230",
-  "bairro": "Parque Esperança",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Parque Esperança;",
+    "cep": "58108502",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rodovia BR-230;"
 }

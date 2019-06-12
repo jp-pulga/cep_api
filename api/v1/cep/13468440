@@ -1,12 +1,12 @@
 {
-  "cep": "13468440",
-  "logradouro": "Rua Itamarati",
-  "bairro": "Jardim Ipiranga",
-  "cidade": {
-    "nome": "Americana",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Ipiranga;",
+    "cep": "13468440",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Americana"
+    },
+    "logradouro": "Rua Itamarati;"
 }

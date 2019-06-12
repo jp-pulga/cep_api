@@ -1,12 +1,13 @@
 {
-  "cep": "57080585",
-  "logradouro": "Rua Em Projeto 58 (Aldebaran Ômega)",
-  "bairro": "Jardim Petrópolis",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jardim Petrópolis;",
+    "cep": "57080585",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Em Projeto 58 (Aldebaran Ômega);"
 }

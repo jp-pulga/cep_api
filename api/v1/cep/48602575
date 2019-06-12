@@ -1,12 +1,12 @@
 {
-  "cep": "48602575",
-  "logradouro": "Travessa da Independência",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48602575",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Travessa da Independência;"
 }

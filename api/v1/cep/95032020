@@ -1,12 +1,12 @@
 {
-  "cep": "95032020",
-  "logradouro": "Rua Ângelo Cecconello",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "95032020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Ângelo Cecconello;"
 }

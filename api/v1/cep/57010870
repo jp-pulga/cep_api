@@ -1,12 +1,12 @@
 {
-  "cep": "57010870",
-  "logradouro": "Praça São Sebastião",
-  "bairro": "Pontal da Barra",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Pontal da Barra;",
+    "cep": "57010870",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Praça São Sebastião;"
 }

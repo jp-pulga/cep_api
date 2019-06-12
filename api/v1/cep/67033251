@@ -1,12 +1,13 @@
 {
-  "cep": "67033251",
-  "logradouro": "Alameda Três",
-  "bairro": "Pato Macho",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pato Macho;",
+    "cep": "67033251",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Alameda Três;"
 }

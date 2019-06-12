@@ -1,12 +1,12 @@
 {
-  "cep": "35661776",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Tavares de Minas",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tavares de Minas;",
+    "cep": "35661776",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua São Francisco;"
 }

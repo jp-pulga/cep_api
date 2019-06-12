@@ -1,12 +1,12 @@
 {
-  "cep": "66085405",
-  "logradouro": "Vila Piauí",
-  "bairro": "Marco",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marco;",
+    "cep": "66085405",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Vila Piauí;"
 }

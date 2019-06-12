@@ -1,12 +1,13 @@
 {
-  "cep": "64601225",
-  "logradouro": "Avenida Deputado Raimundo de Sá Urtiga lado ímpar",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "64601225",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Avenida Deputado Raimundo de Sá Urtiga - lado ímpar;"
 }

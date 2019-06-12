@@ -1,12 +1,12 @@
 {
-  "cep": "12914610",
-  "logradouro": "Alameda Pau Ferro",
-  "bairro": "Parque das Faculdades",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Faculdades;",
+    "cep": "12914610",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Alameda Pau Ferro;"
 }

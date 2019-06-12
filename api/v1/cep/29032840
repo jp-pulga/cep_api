@@ -1,12 +1,12 @@
 {
-  "cep": "29032840",
-  "logradouro": "Rua Bom Pastor",
-  "bairro": "Redenção",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Redenção;",
+    "cep": "29032840",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Bom Pastor;"
 }

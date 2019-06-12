@@ -1,12 +1,13 @@
 {
-  "cep": "67030100",
-  "logradouro": "Passagem Antônio Teixeira Júnior",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "67030100",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Passagem Antônio Teixeira Júnior;"
 }

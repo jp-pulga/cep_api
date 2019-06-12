@@ -1,12 +1,13 @@
 {
-  "cep": "58703358",
-  "logradouro": "Avenida Um",
-  "bairro": "Morada do Sol",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Morada do Sol;",
+    "cep": "58703358",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida Um;"
 }

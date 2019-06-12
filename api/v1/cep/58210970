@@ -1,12 +1,13 @@
 {
-  "cep": "58210970",
-  "logradouro": "AC Pilõeszinho Praça São Sebastião 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pilõezinhos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58210970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pilõezinhos"
+    },
+    "ibge": 2511707,
+    "logradouro": "Praça São Sebastião, 21  AC Pilõeszinho;"
 }

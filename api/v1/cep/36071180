@@ -1,12 +1,12 @@
 {
-  "cep": "36071180",
-  "logradouro": "Rua Doutor Francisco Santos Pinto Júnior",
-  "bairro": "Parque Serra Verde",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Serra Verde;",
+    "cep": "36071180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Doutor Francisco Santos Pinto Júnior;"
 }

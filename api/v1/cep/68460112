@@ -1,12 +1,13 @@
 {
-  "cep": "68460112",
-  "logradouro": "Travessa Padre Pedro Hermans",
-  "bairro": "Palmares 1",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Palmares 1;",
+    "cep": "68460112",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Travessa Padre Pedro Hermans;"
 }

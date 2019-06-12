@@ -1,12 +1,11 @@
 {
-  "cep": "49680000",
-  "logradouro": "Nossa Senhora da Glória",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nossa Senhora da Glória",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49680000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora da Glória"
+    },
+    "ibge": 2804508
 }

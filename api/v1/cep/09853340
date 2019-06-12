@@ -1,12 +1,12 @@
 {
-  "cep": "09853340",
-  "logradouro": "Alameda dos Pinheirais (Jd Porto Novo)",
-  "bairro": "Alvarenga",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alvarenga;",
+    "cep": "09853340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Alameda dos Pinheirais (Jd Porto Novo);"
 }

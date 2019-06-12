@@ -1,12 +1,12 @@
 {
-  "cep": "57017175",
-  "logradouro": "Avenida Senador Rui Palmeira",
-  "bairro": "Levada",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Levada;",
+    "cep": "57017175",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Senador Rui Palmeira;"
 }

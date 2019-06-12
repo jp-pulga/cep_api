@@ -1,12 +1,12 @@
 {
-  "cep": "66030360",
-  "logradouro": "Passagem Monte Alegre",
-  "bairro": "Jurunas",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jurunas;",
+    "cep": "66030360",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Monte Alegre;"
 }

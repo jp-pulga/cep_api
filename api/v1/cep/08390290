@@ -1,12 +1,12 @@
 {
-  "cep": "08390290",
-  "logradouro": "Avenida dos Sertanistas",
-  "bairro": "Jardim São Francisco",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Francisco;",
+    "cep": "08390290",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida dos Sertanistas;"
 }

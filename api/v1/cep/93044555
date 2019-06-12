@@ -1,12 +1,12 @@
 {
-  "cep": "93044555",
-  "logradouro": "Avenida Alta Tensão",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "93044555",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Avenida Alta Tensão;"
 }

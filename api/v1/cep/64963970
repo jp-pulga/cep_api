@@ -1,12 +1,13 @@
 {
-  "cep": "64963970",
-  "logradouro": "AC Júlio Borges Avenida Antônio Ribeiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Júlio Borges",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64963970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Júlio Borges"
+    },
+    "ibge": 2205524,
+    "logradouro": "Avenida Antônio Ribeiro, s\/n  AC Júlio Borges;"
 }

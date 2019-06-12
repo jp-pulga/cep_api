@@ -1,12 +1,12 @@
 {
-  "cep": "66070231",
-  "logradouro": "Vila Nossa Senhora do Perpétuo Socorro",
-  "bairro": "Terra Firme",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Firme;",
+    "cep": "66070231",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Vila Nossa Senhora do Perpétuo Socorro;"
 }

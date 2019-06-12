@@ -1,12 +1,13 @@
 {
-  "cep": "58950970",
-  "logradouro": "AC Monte Horebe Rua Pedro Gondim 08",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Horebe",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58950970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Monte Horebe"
+    },
+    "ibge": 2509602,
+    "logradouro": "Rua Pedro Gondim, 126  AC Monte Horebe;"
 }

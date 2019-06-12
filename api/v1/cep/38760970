@@ -1,12 +1,12 @@
 {
-  "cep": "38760970",
-  "logradouro": "AC Serra do Salitre Rua Margarida 110",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra do Salitre",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38760970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Serra do Salitre"
+    },
+    "logradouro": "Rua Margarida, 110  AC Serra do Salitre;"
 }

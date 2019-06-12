@@ -1,12 +1,13 @@
 {
-  "cep": "68456640",
-  "logradouro": "Rodovia PA-156",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "68456640",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rodovia PA-156;"
 }

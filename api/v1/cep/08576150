@@ -1,12 +1,12 @@
 {
-  "cep": "08576150",
-  "logradouro": "Rua Capela do Alto",
-  "bairro": "Vila Virgínia",
-  "cidade": {
-    "nome": "Itaquaquecetuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Virgínia;",
+    "cep": "08576150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itaquaquecetuba"
+    },
+    "logradouro": "Rua Capela do Alto;"
 }

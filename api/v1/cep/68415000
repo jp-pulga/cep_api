@@ -1,12 +1,11 @@
 {
-  "cep": "68415000",
-  "logradouro": "Limoeiro do Ajuru",
-  "bairro": "",
-  "cidade": {
-    "nome": "Limoeiro do Ajuru",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68415000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Limoeiro do Ajuru"
+    },
+    "ibge": 1504000
 }

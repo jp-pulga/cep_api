@@ -1,12 +1,12 @@
 {
-  "cep": "64930970",
-  "logradouro": "AC Gilbués Rua Anísio de Abreu 552",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Gilbués",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64930970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Gilbués"
+    },
+    "logradouro": "Rua Anísio de Abreu, 552  AC Gilbués;"
 }

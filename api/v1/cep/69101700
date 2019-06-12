@@ -1,12 +1,13 @@
 {
-  "cep": "69101700",
-  "logradouro": "Rua São Benedito",
-  "bairro": "Mamoud Amed",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Mamoud Amed;",
+    "cep": "69101700",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "ibge": 1301902,
+    "logradouro": "Rua São Benedito;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38410449",
-  "logradouro": "Rua Laudelino Rodrigues Ferreira (Campo Alegre)",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "38410449",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Laudelino Rodrigues Ferreira (Campo Alegre);"
 }

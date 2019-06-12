@@ -1,12 +1,12 @@
 {
-  "cep": "01007901",
-  "logradouro": "Condomínio Santa Francisca Rua Riachuelo 44",
-  "bairro": "Sé",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sé;",
+    "cep": "01007901",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Riachuelo, 44  Condomínio Santa Francisca;"
 }

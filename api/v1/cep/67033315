@@ -1,12 +1,13 @@
 {
-  "cep": "67033315",
-  "logradouro": "Alameda Dois (Paulo Fonteles)",
-  "bairro": "Pato Macho",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Pato Macho;",
+    "cep": "67033315",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Alameda Dois (Paulo Fonteles);"
 }

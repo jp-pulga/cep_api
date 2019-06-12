@@ -1,12 +1,13 @@
 {
-  "cep": "58302195",
-  "logradouro": "Avenida Campina Grande",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "58302195",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Avenida Campina Grande;"
 }

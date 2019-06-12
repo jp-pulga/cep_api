@@ -1,12 +1,12 @@
 {
-  "cep": "04823060",
-  "logradouro": "Rua Wembley",
-  "bairro": "Parque Alto do Rio Bonito",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Alto do Rio Bonito;",
+    "cep": "04823060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Wembley;"
 }

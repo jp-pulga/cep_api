@@ -1,12 +1,12 @@
 {
-  "cep": "58303260",
-  "logradouro": "Rua Barão de Baraúna",
-  "bairro": "Municípios",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Municípios;",
+    "cep": "58303260",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "logradouro": "Rua Barão de Baraúna;"
 }

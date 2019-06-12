@@ -1,12 +1,12 @@
 {
-  "cep": "03267000",
-  "logradouro": "Rua Angical do Piauí",
-  "bairro": "Vila Nova Pauliceia",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Pauliceia;",
+    "cep": "03267000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Angical do Piauí;"
 }

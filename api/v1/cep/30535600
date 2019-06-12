@@ -1,12 +1,12 @@
 {
-  "cep": "30535600",
-  "logradouro": "Rua Padre Lobo",
-  "bairro": "Gameleira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Gameleira;",
+    "cep": "30535600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Padre Lobo;"
 }

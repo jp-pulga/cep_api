@@ -1,12 +1,12 @@
 {
-  "cep": "11340140",
-  "logradouro": "Rua Padre Sabóia",
-  "bairro": "Esplanada dos Barreiros",
-  "cidade": {
-    "nome": "São Vicente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Esplanada dos Barreiros;",
+    "cep": "11340140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Vicente"
+    },
+    "logradouro": "Rua Padre Sabóia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35700495",
-  "logradouro": "Rua das Laranjeiras",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "35700495",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua das Laranjeiras;"
 }

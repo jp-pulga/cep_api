@@ -1,12 +1,13 @@
 {
-  "cep": "64885970",
-  "logradouro": "AC Colônia do Gurguéia Avenida Juscelino Kubitschek s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Colônia do Gurguéia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64885970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Colônia do Gurguéia"
+    },
+    "ibge": 2202752,
+    "logradouro": "Avenida Juscelino Kubitschek, s\/n  AC Colônia do Gurguéia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58187970",
-  "logradouro": "AC Picuí Rua 24 de Novembro 22",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Picuí",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58187970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Picuí"
+    },
+    "ibge": 2511400,
+    "logradouro": "Rua 24 de Novembro, 22  AC Picuí;"
 }

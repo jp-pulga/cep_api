@@ -1,12 +1,13 @@
 {
-  "cep": "68457000",
-  "logradouro": "Avenida Pará",
-  "bairro": "Caripe",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Caripe;",
+    "cep": "68457000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Avenida Pará;"
 }

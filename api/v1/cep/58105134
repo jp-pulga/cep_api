@@ -1,12 +1,12 @@
 {
-  "cep": "58105134",
-  "logradouro": "Rua José Maria de Lucena",
-  "bairro": "Recanto do Poço",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Recanto do Poço;",
+    "cep": "58105134",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua José Maria de Lucena;"
 }

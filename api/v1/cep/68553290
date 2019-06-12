@@ -1,12 +1,13 @@
 {
-  "cep": "68553290",
-  "logradouro": "Rua Comandante Vicente de Paula",
-  "bairro": "Serrinha",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Serrinha;",
+    "cep": "68553290",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua Comandante Vicente de Paula;"
 }

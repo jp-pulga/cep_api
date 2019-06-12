@@ -1,12 +1,12 @@
 {
-  "cep": "58382970",
-  "logradouro": "AGC Riachão do Bacamarte Rua São Sebastião s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riachão do Bacamarte",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58382970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Riachão do Bacamarte"
+    },
+    "logradouro": "Rua São Sebastião, s\/n  AGC Riachão do Bacamarte;"
 }

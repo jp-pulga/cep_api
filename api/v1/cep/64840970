@@ -1,12 +1,13 @@
 {
-  "cep": "64840970",
-  "logradouro": "AC Guadalupe Rua Vinte e Cinco de Agosto 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guadalupe",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64840970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Guadalupe"
+    },
+    "ibge": 2204501,
+    "logradouro": "Rua Vinte e Cinco de Agosto, 10  AC Guadalupe;"
 }

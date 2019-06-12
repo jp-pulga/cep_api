@@ -1,12 +1,12 @@
 {
-  "cep": "64510970",
-  "logradouro": "AC São João da Varjota Rua São João Batista 140",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João da Varjota",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64510970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São João da Varjota"
+    },
+    "logradouro": "Rua São João Batista, 140  AC São João da Varjota;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68495000",
-  "logradouro": "Areias (Melgaço)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Areias (Melgaço)",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68495000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Melgaço"
+    },
+    "ibge": 1504505
 }

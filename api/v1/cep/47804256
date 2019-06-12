@@ -1,12 +1,12 @@
 {
-  "cep": "47804256",
-  "logradouro": "Rua Céu Azul",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "47804256",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Céu Azul;"
 }

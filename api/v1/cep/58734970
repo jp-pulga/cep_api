@@ -1,12 +1,13 @@
 {
-  "cep": "58734970",
-  "logradouro": "AC Passagem Rua Nossa Senhora da Conceição s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passagem",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58734970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Passagem"
+    },
+    "ibge": 2510709,
+    "logradouro": "Rua Nossa Senhora da Conceição, s\/n  AC Passagem;"
 }

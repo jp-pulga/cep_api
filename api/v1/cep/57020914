@@ -1,12 +1,12 @@
 {
-  "cep": "57020914",
-  "logradouro": "Edifício Barão de Penedo Rua Barão de Penedo 187",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57020914",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Barão de Penedo, 187  Edifício Barão de Penedo;"
 }

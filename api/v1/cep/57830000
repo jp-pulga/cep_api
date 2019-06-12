@@ -1,12 +1,11 @@
 {
-  "cep": "57830000",
-  "logradouro": "Branquinha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Branquinha",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57830000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Branquinha"
+    },
+    "ibge": 2701100
 }

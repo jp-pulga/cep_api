@@ -1,12 +1,12 @@
 {
-  "cep": "89803903",
-  "logradouro": "CELESC - Centrais Elétricas de Santa Catarina Rua São Pedro - E 2987",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Chapecó",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "89803903",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Chapecó"
+    },
+    "logradouro": "Avenida São Pedro - E, 2987  CELESC - Centrais Elétricas de Santa Catarina;"
 }

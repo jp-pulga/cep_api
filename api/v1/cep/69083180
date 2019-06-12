@@ -1,12 +1,13 @@
 {
-  "cep": "69083180",
-  "logradouro": "Avenida das Flores (Cj Tiradentes)",
-  "bairro": "Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aleixo;",
+    "cep": "69083180",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida das Flores;"
 }

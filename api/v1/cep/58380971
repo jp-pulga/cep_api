@@ -1,12 +1,13 @@
 {
-  "cep": "58380971",
-  "logradouro": "AGC Pontina Distrito de Pontina s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ingá",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58380971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Ingá"
+    },
+    "ibge": 2506806,
+    "logradouro": "Distrito de Pontina, s\/n  AGC Pontina;"
 }

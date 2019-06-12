@@ -1,12 +1,12 @@
 {
-  "cep": "64078215",
-  "logradouro": "Rua Juiz Emiliano Paes Landim",
-  "bairro": "Itararé",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Itararé;",
+    "cep": "64078215",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Juiz Emiliano Paes Landim;"
 }

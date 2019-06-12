@@ -1,12 +1,12 @@
 {
-  "cep": "12946815",
-  "logradouro": "Alameda Maceió",
-  "bairro": "San Fernando Valley",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "San Fernando Valley;",
+    "cep": "12946815",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Alameda Maceió;"
 }

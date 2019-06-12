@@ -1,12 +1,12 @@
 {
-  "cep": "64049512",
-  "logradouro": "Rua Hugo Napoleão",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "64049512",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Hugo Napoleão;"
 }

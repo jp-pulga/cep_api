@@ -1,12 +1,12 @@
 {
-  "cep": "58208970",
-  "logradouro": "AC Cuitegi Rua Coronel Joao Pimentel 74",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cuitegi",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58208970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cuitegi"
+    },
+    "logradouro": "Rua Coronel Joao Pimentel, 74  AC Cuitegi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "01007906",
-  "logradouro": "Edifício Central Riachuelo Rua Riachuelo 231",
-  "bairro": "Sé",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sé;",
+    "cep": "01007906",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Riachuelo, 231  Edifício Central Riachuelo;"
 }

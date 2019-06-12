@@ -1,12 +1,11 @@
 {
-  "cep": "68530000",
-  "logradouro": "Rio Maria",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Maria",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68530000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Rio Maria"
+    },
+    "ibge": 1506161
 }

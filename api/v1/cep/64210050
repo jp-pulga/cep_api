@@ -1,12 +1,12 @@
 {
-  "cep": "64210050",
-  "logradouro": "Rua Piauí",
-  "bairro": "Dirceu Arcoverde",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Dirceu Arcoverde;",
+    "cep": "64210050",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Piauí;"
 }

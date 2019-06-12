@@ -1,12 +1,12 @@
 {
-  "cep": "13631150",
-  "logradouro": "Rua Rainha Margarida",
-  "bairro": "Jardim São Fernando",
-  "cidade": {
-    "nome": "Pirassununga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Fernando;",
+    "cep": "13631150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pirassununga"
+    },
+    "logradouro": "Rua Rainha Margarida;"
 }

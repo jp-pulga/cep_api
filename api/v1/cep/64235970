@@ -1,12 +1,13 @@
 {
-  "cep": "64235970",
-  "logradouro": "AC Cocal Avenida Joaquim Vieira Brito 227",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cocal",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64235970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Cocal"
+    },
+    "ibge": 2202703,
+    "logradouro": "Avenida Joaquim Vieira Brito, 227  AC Cocal;"
 }

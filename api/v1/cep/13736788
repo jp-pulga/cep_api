@@ -1,12 +1,12 @@
 {
-  "cep": "13736788",
-  "logradouro": "Rua João Pinheiro da Costa",
-  "bairro": "Conjunto Habitacional Francisco Garófalo",
-  "cidade": {
-    "nome": "Mococa",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Francisco Garófalo;",
+    "cep": "13736788",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mococa"
+    },
+    "logradouro": "Rua João Pinheiro da Costa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13905513",
-  "logradouro": "Rua Adalgiso Batoni",
-  "bairro": "Jardim Silvestre IV",
-  "cidade": {
-    "nome": "Amparo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Silvestre IV;",
+    "cep": "13905513",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Amparo"
+    },
+    "logradouro": "Rua Adalgiso Batoni;"
 }

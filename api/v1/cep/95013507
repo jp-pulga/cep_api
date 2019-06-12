@@ -1,12 +1,12 @@
 {
-  "cep": "95013507",
-  "logradouro": "Rua Celso Reis Lopes",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "95013507",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Celso Reis Lopes;"
 }

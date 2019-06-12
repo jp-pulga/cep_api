@@ -1,12 +1,12 @@
 {
-  "cep": "36092310",
-  "logradouro": "Rua Ana Pereira de Souza",
-  "bairro": "Barreira do Triunfo",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barreira do Triunfo;",
+    "cep": "36092310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Ana Pereira de Souza;"
 }

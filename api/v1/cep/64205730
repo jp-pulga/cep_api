@@ -1,12 +1,12 @@
 {
-  "cep": "64205730",
-  "logradouro": "Rua Fernando Fernandes da Costa (Proj 16 Comunidade Portinho)",
-  "bairro": "João XXIII",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "João XXIII;",
+    "cep": "64205730",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Fernando Fernandes da Costa (Proj 16 Comunidade Portinho);"
 }

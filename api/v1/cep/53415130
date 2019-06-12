@@ -1,12 +1,12 @@
 {
-  "cep": "53415130",
-  "logradouro": "Rua Araripina",
-  "bairro": "Artur Lundgren I",
-  "cidade": {
-    "nome": "Paulista",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Artur Lundgren I;",
+    "cep": "53415130",
+    "cidade": {
+        "estado": {
+            "nome": "Pernambuco",
+            "sigla": "PE"
+        },
+        "nome": "Paulista"
+    },
+    "logradouro": "Rua Araripina;"
 }

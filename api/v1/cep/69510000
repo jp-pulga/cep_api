@@ -1,12 +1,11 @@
 {
-  "cep": "69510000",
-  "logradouro": "Itamarati",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itamarati",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69510000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itamarati"
+    },
+    "ibge": 1301951
 }

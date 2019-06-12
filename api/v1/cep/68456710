@@ -1,12 +1,13 @@
 {
-  "cep": "68456710",
-  "logradouro": "Rua da Paz",
-  "bairro": "Terra Prometida",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Prometida;",
+    "cep": "68456710",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua da Paz;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68460145",
-  "logradouro": "Rua São Paulo",
-  "bairro": "Palmares 2",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Palmares 2;",
+    "cep": "68460145",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua São Paulo;"
 }

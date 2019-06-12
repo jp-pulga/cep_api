@@ -1,12 +1,13 @@
 {
-  "cep": "58737970",
-  "logradouro": "AC Maturéia Avenida José Gerônimo 400",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maturéia",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58737970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Maturéia"
+    },
+    "ibge": 2509396,
+    "logradouro": "Avenida José Gerônimo, 400  AC Maturéia;"
 }

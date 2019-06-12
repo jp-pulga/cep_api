@@ -1,12 +1,12 @@
 {
-  "cep": "35162476",
-  "logradouro": "Rua Monte Pascoal",
-  "bairro": "Barra Alegre",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barra Alegre;",
+    "cep": "35162476",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Monte Pascoal;"
 }

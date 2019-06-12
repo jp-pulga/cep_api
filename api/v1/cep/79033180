@@ -1,12 +1,12 @@
 {
-  "cep": "79033180",
-  "logradouro": "Avenida Pedro Chaves dos Santos",
-  "bairro": "Mata do Jacinto",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Mata do Jacinto;",
+    "cep": "79033180",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Pedro Chaves dos Santos;"
 }

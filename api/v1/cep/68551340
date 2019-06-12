@@ -1,12 +1,13 @@
 {
-  "cep": "68551340",
-  "logradouro": "Avenida Paraná",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "68551340",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Avenida Paraná;"
 }

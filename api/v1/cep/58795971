@@ -1,12 +1,13 @@
 {
-  "cep": "58795971",
-  "logradouro": "AGC Pitombeira de Dentro Rua Padre José Lopes s/n",
-  "bairro": "Distritos",
-  "cidade": {
-    "nome": "Santana dos Garrotes",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Distritos;",
+    "cep": "58795971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santana dos Garrotes"
+    },
+    "ibge": 2513604,
+    "logradouro": "Rua Padre José Lopes, s\/n  AGC Pitombeira de Dentro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69036732",
-  "logradouro": "Beco Juruá",
-  "bairro": "Santo Agostinho",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Santo Agostinho;",
+    "cep": "69036732",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco Juruá;"
 }

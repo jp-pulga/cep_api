@@ -1,12 +1,13 @@
 {
-  "cep": "57608382",
-  "logradouro": "Rua Atendente Luiz Alves da Silva",
-  "bairro": "Palmeira de Fora",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Palmeira de Fora;",
+    "cep": "57608382",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rua Atendente Luiz Alves da Silva;"
 }

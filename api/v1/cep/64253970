@@ -1,12 +1,13 @@
 {
-  "cep": "64253970",
-  "logradouro": "AGC Milton Brandão Rua Projetada s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Milton Brandão",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64253970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Milton Brandão"
+    },
+    "ibge": 2206357,
+    "logradouro": "Rua Projetada, s\/n  AGC Milton Brandão;"
 }

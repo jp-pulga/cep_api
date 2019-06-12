@@ -1,12 +1,12 @@
 {
-  "cep": "57080471",
-  "logradouro": "Travessa Coruripe",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "57080471",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Coruripe;"
 }

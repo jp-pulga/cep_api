@@ -1,12 +1,11 @@
 {
-  "cep": "68143000",
-  "logradouro": "Belterra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Belterra",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68143000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belterra"
+    },
+    "ibge": 1501451
 }

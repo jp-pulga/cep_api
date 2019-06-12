@@ -1,12 +1,12 @@
 {
-  "cep": "32041004",
-  "logradouro": "Beco Pires Martins de Moura",
-  "bairro": "Três Barras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Barras;",
+    "cep": "32041004",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Beco Pires Martins de Moura;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07131480",
-  "logradouro": "Praça Campinas do Piauí",
-  "bairro": "Jardim São Paulo",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Paulo;",
+    "cep": "07131480",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Praça Campinas do Piauí;"
 }

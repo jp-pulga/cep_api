@@ -1,12 +1,12 @@
 {
-  "cep": "64016280",
-  "logradouro": "Rua Picos lado par",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "64016280",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Picos - lado par;"
 }

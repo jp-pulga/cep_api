@@ -1,12 +1,11 @@
 {
-  "cep": "68639000",
-  "logradouro": "Goianésia do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Goianésia do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68639000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Goianésia do Pará"
+    },
+    "ibge": 1503093
 }

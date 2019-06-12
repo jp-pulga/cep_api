@@ -1,12 +1,12 @@
 {
-  "cep": "88810268",
-  "logradouro": "Travessa Celestino Colossi",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88810268",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Travessa Celestino Colossi;"
 }

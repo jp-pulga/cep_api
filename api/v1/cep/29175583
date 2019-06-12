@@ -1,12 +1,12 @@
 {
-  "cep": "29175583",
-  "logradouro": "Rua Nossa Senhora da Conceição",
-  "bairro": "das Laranjeiras",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "das Laranjeiras;",
+    "cep": "29175583",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Nossa Senhora da Conceição;"
 }

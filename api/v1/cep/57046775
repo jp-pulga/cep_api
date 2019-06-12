@@ -1,12 +1,13 @@
 {
-  "cep": "57046775",
-  "logradouro": "Rua Carlos Alberto Novaes",
-  "bairro": "Serraria",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Serraria;",
+    "cep": "57046775",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Carlos Alberto Novaes;"
 }

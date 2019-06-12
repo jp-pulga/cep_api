@@ -1,12 +1,12 @@
 {
-  "cep": "58704502",
-  "logradouro": "Travessa Santa Luzia",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "58704502",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "logradouro": "Travessa Santa Luzia;"
 }

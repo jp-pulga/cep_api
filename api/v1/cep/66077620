@@ -1,12 +1,12 @@
 {
-  "cep": "66077620",
-  "logradouro": "Passagem Santa Luzia",
-  "bairro": "Terra Firme",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Firme;",
+    "cep": "66077620",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Santa Luzia;"
 }

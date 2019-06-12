@@ -1,12 +1,12 @@
 {
-  "cep": "08150710",
-  "logradouro": "Via de Pedestre Rosa-de-Pedra",
-  "bairro": "Jardim Nazareth",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nazareth;",
+    "cep": "08150710",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Via de Pedestre Rosa-de-Pedra;"
 }

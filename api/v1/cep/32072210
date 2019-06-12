@@ -1,12 +1,12 @@
 {
-  "cep": "32072210",
-  "logradouro": "Rua Petróleo",
-  "bairro": "Petrolândia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrolândia;",
+    "cep": "32072210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Petróleo;"
 }

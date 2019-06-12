@@ -1,12 +1,12 @@
 {
-  "cep": "69065020",
-  "logradouro": "Avenida Tefé",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cachoeirinha;",
+    "cep": "69065020",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Tefé;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "67120890",
-  "logradouro": "Loteamento Parque Sertanejo",
-  "bairro": "Quarenta Horas (Coqueiro)",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Quarenta Horas (Coqueiro);",
+    "cep": "67120890",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Loteamento Parque Sertanejo;"
 }

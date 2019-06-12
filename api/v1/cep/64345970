@@ -1,12 +1,13 @@
 {
-  "cep": "64345970",
-  "logradouro": "AC Buriti dos Montes Rua Antonio Soares 59",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Buriti dos Montes",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64345970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Buriti dos Montes"
+    },
+    "ibge": 2202026,
+    "logradouro": "Rua Antonio Soares, 59  AC Buriti dos Montes;"
 }

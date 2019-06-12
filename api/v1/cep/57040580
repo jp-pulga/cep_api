@@ -1,12 +1,12 @@
 {
-  "cep": "57040580",
-  "logradouro": "Rua Belo Monte",
-  "bairro": "Jacintinho",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jacintinho;",
+    "cep": "57040580",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Belo Monte;"
 }

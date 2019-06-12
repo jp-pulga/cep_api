@@ -1,12 +1,13 @@
 {
-  "cep": "64516970",
-  "logradouro": "AGC Colônia do Piauí Avenida do Sobrado s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Colônia do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64516970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Colônia do Piauí"
+    },
+    "ibge": 2202778,
+    "logradouro": "Avenida do Sobrado, s\/n  AGC Colônia do Piauí;"
 }

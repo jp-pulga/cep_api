@@ -1,12 +1,12 @@
 {
-  "cep": "58706610",
-  "logradouro": "Rua Maria das Chagas Candeias Pereira",
-  "bairro": "Salgadinho",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Salgadinho;",
+    "cep": "58706610",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "logradouro": "Rua Maria das Chagas Candeias Pereira;"
 }

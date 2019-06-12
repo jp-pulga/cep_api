@@ -1,12 +1,13 @@
 {
-  "cep": "57608383",
-  "logradouro": "Travessa Luiz Alves",
-  "bairro": "Palmeira de Fora",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Palmeira de Fora;",
+    "cep": "57608383",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Travessa Luiz Alves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64002313",
-  "logradouro": "Rua Anísio de Abreu (Zona Norte) de 965 a 1201 - lado ímpar",
-  "bairro": "Mafuá",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Mafuá;",
+    "cep": "64002313",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Anísio de Abreu (Zona Norte) - de 965 a 1201 - lado ímpar;"
 }

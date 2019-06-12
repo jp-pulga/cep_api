@@ -1,12 +1,12 @@
 {
-  "cep": "29702465",
-  "logradouro": "Escadaria João Pedro Rosa",
-  "bairro": "Vila Lenira",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Lenira;",
+    "cep": "29702465",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Escadaria João Pedro Rosa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29703270",
-  "logradouro": "Rua Nossa Senhora Aparecida",
-  "bairro": "São Silvano",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Silvano;",
+    "cep": "29703270",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Nossa Senhora Aparecida;"
 }

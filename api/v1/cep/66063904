@@ -1,12 +1,12 @@
 {
-  "cep": "66063904",
-  "logradouro": "Conjunto Residencial Jardim Socilar Avenida Governador Magalhães Barata 979",
-  "bairro": "São Brás",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "São Brás;",
+    "cep": "66063904",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Avenida Governador Magalhães Barata, 979  Conjunto Residencial Jardim Socilar;"
 }

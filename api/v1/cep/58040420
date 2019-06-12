@@ -1,12 +1,12 @@
 {
-  "cep": "58040420",
-  "logradouro": "Rua Caturité",
-  "bairro": "Torre",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Torre;",
+    "cep": "58040420",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Caturité;"
 }

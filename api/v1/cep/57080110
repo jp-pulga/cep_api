@@ -1,12 +1,12 @@
 {
-  "cep": "57080110",
-  "logradouro": "Rua Maragogi",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "57080110",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Maragogi;"
 }

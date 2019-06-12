@@ -1,12 +1,13 @@
 {
-  "cep": "69553045",
-  "logradouro": "Beco Raimundo Lima",
-  "bairro": "Jerusalém",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jerusalém;",
+    "cep": "69553045",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Beco Raimundo Lima;"
 }

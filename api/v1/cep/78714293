@@ -1,12 +1,12 @@
 {
-  "cep": "78714293",
-  "logradouro": "Rua Agostinho de Figueiredo",
-  "bairro": "Jardim Nossa Senhora da Glória",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Nossa Senhora da Glória;",
+    "cep": "78714293",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Agostinho de Figueiredo;"
 }

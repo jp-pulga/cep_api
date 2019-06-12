@@ -1,12 +1,12 @@
 {
-  "cep": "11340370",
-  "logradouro": "Rua Pedro Alves",
-  "bairro": "Esplanada dos Barreiros",
-  "cidade": {
-    "nome": "São Vicente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Esplanada dos Barreiros;",
+    "cep": "11340370",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Vicente"
+    },
+    "logradouro": "Rua Pedro Alves;"
 }

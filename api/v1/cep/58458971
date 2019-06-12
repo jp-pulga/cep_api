@@ -1,12 +1,13 @@
 {
-  "cep": "58458971",
-  "logradouro": "ACS Veredas Rua Conselheiro José Brás do Rêgo s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra de Santana",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58458971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Barra de Santana"
+    },
+    "ibge": 2501575,
+    "logradouro": "Rua Conselheiro José Brás do Rêgo, s\/n  ACS Veredas;"
 }

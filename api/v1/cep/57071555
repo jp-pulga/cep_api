@@ -1,12 +1,12 @@
 {
-  "cep": "57071555",
-  "logradouro": "Vila São Sebastião",
-  "bairro": "Clima Bom",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Clima Bom;",
+    "cep": "57071555",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Vila São Sebastião;"
 }

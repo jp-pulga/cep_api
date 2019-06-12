@@ -1,12 +1,12 @@
 {
-  "cep": "57313070",
-  "logradouro": "Rua Senador Rui Palmeira",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "57313070",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Senador Rui Palmeira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89230255",
-  "logradouro": "Rua Piratininga",
-  "bairro": "João Costa",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "João Costa;",
+    "cep": "89230255",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Piratininga;"
 }

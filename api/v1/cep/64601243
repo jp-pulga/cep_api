@@ -1,12 +1,12 @@
 {
-  "cep": "64601243",
-  "logradouro": "Rua Dom Expedito Lopes",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "64601243",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Dom Expedito Lopes;"
 }

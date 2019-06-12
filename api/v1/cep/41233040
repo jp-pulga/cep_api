@@ -1,12 +1,12 @@
 {
-  "cep": "41233040",
-  "logradouro": "Rua dos Franciscanos (Pto S Pirajá)",
-  "bairro": "Porto Seco Pirajá",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Porto Seco Pirajá;",
+    "cep": "41233040",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua dos Franciscanos (Pto S Pirajá);"
 }

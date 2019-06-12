@@ -1,12 +1,12 @@
 {
-  "cep": "14050340",
-  "logradouro": "Rua Borba Gato",
-  "bairro": "Vila Amélia",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Amélia;",
+    "cep": "14050340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Borba Gato;"
 }

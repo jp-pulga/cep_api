@@ -1,12 +1,12 @@
 {
-  "cep": "88070570",
-  "logradouro": "Rua Padre Luiz Zuber",
-  "bairro": "Capoeiras",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Capoeiras;",
+    "cep": "88070570",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Padre Luiz Zuber;"
 }

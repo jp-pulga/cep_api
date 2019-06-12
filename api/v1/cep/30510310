@@ -1,12 +1,12 @@
 {
-  "cep": "30510310",
-  "logradouro": "Rua Maria Amélia Fonte Boa",
-  "bairro": "Nova Gameleira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Gameleira;",
+    "cep": "30510310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Amélia Fonte Boa;"
 }

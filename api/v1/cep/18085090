@@ -1,12 +1,12 @@
 {
-  "cep": "18085090",
-  "logradouro": "Alameda Jundiaí",
-  "bairro": "Jardim Saira",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Saira;",
+    "cep": "18085090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Alameda Jundiaí;"
 }

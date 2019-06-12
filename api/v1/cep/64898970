@@ -1,12 +1,13 @@
 {
-  "cep": "64898970",
-  "logradouro": "AGC Pajeú do Piauí Rua Modesto Antonio Piaulino s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pajeú do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64898970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Pajeú do Piauí"
+    },
+    "ibge": 2207355,
+    "logradouro": "Rua Modesto Antonio Piaulino, s\/n  AGC Pajeú do Piauí;"
 }

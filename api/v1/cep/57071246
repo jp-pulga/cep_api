@@ -1,12 +1,12 @@
 {
-  "cep": "57071246",
-  "logradouro": "Rua Penedo",
-  "bairro": "Clima Bom",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Clima Bom;",
+    "cep": "57071246",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Penedo;"
 }

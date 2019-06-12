@@ -1,12 +1,12 @@
 {
-  "cep": "29211162",
-  "logradouro": "Avenida Pedro Machado",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29211162",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Avenida Pedro Machado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12412822",
-  "logradouro": "Estrada Maria Júlia do Amaral",
-  "bairro": "Pinhão do Borba",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pinhão do Borba;",
+    "cep": "12412822",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Estrada Maria Júlia do Amaral;"
 }

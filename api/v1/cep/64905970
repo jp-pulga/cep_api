@@ -1,12 +1,13 @@
 {
-  "cep": "64905970",
-  "logradouro": "AGC Currais Avenida Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Currais",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64905970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Currais"
+    },
+    "ibge": 2203230,
+    "logradouro": "Avenida Principal, s\/n  AGC Currais;"
 }

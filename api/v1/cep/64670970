@@ -1,12 +1,13 @@
 {
-  "cep": "64670970",
-  "logradouro": "AC São Julião Rua Leopoldo Rocha 284",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Julião",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64670970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Julião"
+    },
+    "ibge": 2210300,
+    "logradouro": "Rua Leopoldino Rocha, 284  AC São Julião;"
 }

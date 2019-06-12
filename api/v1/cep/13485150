@@ -1,12 +1,12 @@
 {
-  "cep": "13485150",
-  "logradouro": "Rua Professor Paulo Chaves",
-  "bairro": "Vila Teixeira Marques",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Teixeira Marques;",
+    "cep": "13485150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Rua Professor Paulo Chaves;"
 }

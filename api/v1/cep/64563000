@@ -1,12 +1,11 @@
 {
-  "cep": "64563000",
-  "logradouro": "Floresta do Piauí",
-  "bairro": "",
-  "cidade": {
-    "nome": "Floresta do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "cep": "64563000",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Floresta do Piauí"
+    },
+    "ibge": 2203859
 }

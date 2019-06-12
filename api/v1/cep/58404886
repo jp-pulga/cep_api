@@ -1,12 +1,12 @@
 {
-  "cep": "58404886",
-  "logradouro": "Rua Moscou",
-  "bairro": "Cuités",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cuités;",
+    "cep": "58404886",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Moscou;"
 }

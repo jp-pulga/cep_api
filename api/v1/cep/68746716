@@ -1,12 +1,12 @@
 {
-  "cep": "68746716",
-  "logradouro": "Rua Fernando Célio Marques Pereira",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Castanhal",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "68746716",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Castanhal"
+    },
+    "logradouro": "Rua Fernando Célio Marques Pereira;"
 }

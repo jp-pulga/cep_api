@@ -1,12 +1,12 @@
 {
-  "cep": "18303370",
-  "logradouro": "Rua Maria Aliaga Perez",
-  "bairro": "Vila Aparecida",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Aparecida;",
+    "cep": "18303370",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Maria Aliaga Perez;"
 }

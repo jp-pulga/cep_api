@@ -1,12 +1,13 @@
 {
-  "cep": "64780970",
-  "logradouro": "AC Anísio de Abreu Praça Sebastião Rodrigues s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anísio de Abreu",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64780970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Anísio de Abreu"
+    },
+    "ibge": 2200707,
+    "logradouro": "Praça Sebastião Rodrigues, s\/n  AC Anísio de Abreu;"
 }

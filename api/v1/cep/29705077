@@ -1,12 +1,12 @@
 {
-  "cep": "29705077",
-  "logradouro": "Rua Cecília Lavanhole",
-  "bairro": "Maria das Graças",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Maria das Graças;",
+    "cep": "29705077",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Cecília Lavanhole;"
 }

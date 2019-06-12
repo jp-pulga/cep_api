@@ -1,12 +1,12 @@
 {
-  "cep": "08625305",
-  "logradouro": "Avenida Belém (Palmeiras)",
-  "bairro": "Jardim Belém",
-  "cidade": {
-    "nome": "Suzano",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Belém;",
+    "cep": "08625305",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Suzano"
+    },
+    "logradouro": "Avenida Belém (Palmeiras);"
 }

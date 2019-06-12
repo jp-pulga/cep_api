@@ -1,12 +1,11 @@
 {
-  "cep": "49540000",
-  "logradouro": "Nossa Senhora Aparecida",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nossa Senhora Aparecida",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49540000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Nossa Senhora Aparecida"
+    },
+    "ibge": 2804458
 }

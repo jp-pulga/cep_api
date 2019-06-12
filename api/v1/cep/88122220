@@ -1,12 +1,12 @@
 {
-  "cep": "88122220",
-  "logradouro": "Rua Lauri Otávio Martins",
-  "bairro": "Sertão do Maruim",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sertão do Maruim;",
+    "cep": "88122220",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Lauri Otávio Martins;"
 }

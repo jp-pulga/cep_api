@@ -1,12 +1,12 @@
 {
-  "cep": "64016735",
-  "logradouro": "Rua Pimenteira",
-  "bairro": "Três Andares",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Três Andares;",
+    "cep": "64016735",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pimenteira;"
 }

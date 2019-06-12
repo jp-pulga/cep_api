@@ -1,12 +1,12 @@
 {
-  "cep": "40830720",
-  "logradouro": "Travessa Tailândia",
-  "bairro": "Paripe",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Paripe;",
+    "cep": "40830720",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Tailândia;"
 }

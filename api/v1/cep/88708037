@@ -1,12 +1,12 @@
 {
-  "cep": "88708037",
-  "logradouro": "Rua José Amâncio Gomes",
-  "bairro": "Humaitá de Cima",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Humaitá de Cima;",
+    "cep": "88708037",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Rua José Amâncio Gomes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88704560",
-  "logradouro": "Travessa Amapá",
-  "bairro": "Humaitá",
-  "cidade": {
-    "nome": "Tubarão",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Humaitá;",
+    "cep": "88704560",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Tubarão"
+    },
+    "logradouro": "Travessa Amapá;"
 }

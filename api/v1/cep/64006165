@@ -1,12 +1,12 @@
 {
-  "cep": "64006165",
-  "logradouro": "Rua Amarante",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "64006165",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Amarante;"
 }

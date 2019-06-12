@@ -1,12 +1,12 @@
 {
-  "cep": "58308210",
-  "logradouro": "Rua Vanderley Lucena Santana",
-  "bairro": "Rio do Meio",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Rio do Meio;",
+    "cep": "58308210",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Vanderley Lucena Santana;"
 }

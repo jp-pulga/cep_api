@@ -1,12 +1,12 @@
 {
-  "cep": "33120230",
-  "logradouro": "Rua Pará",
-  "bairro": "Asteca (São Benedito)",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Asteca (São Benedito);",
+    "cep": "33120230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Pará;"
 }

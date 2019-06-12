@@ -1,12 +1,13 @@
 {
-  "cep": "64340970",
-  "logradouro": "AC Castelo do Piauí Avenida Antonino Freire 233",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Castelo do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64340970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Castelo do Piauí"
+    },
+    "ibge": 2202604,
+    "logradouro": "Avenida Antonino Freire, 233  AC Castelo do Piauí;"
 }

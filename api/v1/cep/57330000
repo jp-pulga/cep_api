@@ -1,12 +1,11 @@
 {
-  "cep": "57330000",
-  "logradouro": "Lagoa da Canoa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Lagoa da Canoa",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57330000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Lagoa da Canoa"
+    },
+    "ibge": 2704104
 }

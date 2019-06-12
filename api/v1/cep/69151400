@@ -1,12 +1,12 @@
 {
-  "cep": "69151400",
-  "logradouro": "Passagem Independência",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69151400",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Passagem Independência;"
 }

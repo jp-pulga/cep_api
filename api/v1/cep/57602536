@@ -1,12 +1,13 @@
 {
-  "cep": "57602536",
-  "logradouro": "Rua Moacir Alfredo da Silva",
-  "bairro": "Ribeira",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ribeira;",
+    "cep": "57602536",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rua Moacir Alfredo da Silva;"
 }

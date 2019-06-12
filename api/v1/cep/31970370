@@ -1,12 +1,12 @@
 {
-  "cep": "31970370",
-  "logradouro": "Rua Pedro Augusto Santiago",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "31970370",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pedro Augusto Santiago;"
 }

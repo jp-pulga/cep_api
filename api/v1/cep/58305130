@@ -1,12 +1,12 @@
 {
-  "cep": "58305130",
-  "logradouro": "Avenida Antônio Venâncio",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "58305130",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Avenida Antônio Venâncio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64058655",
-  "logradouro": "Rua Barra Mansa",
-  "bairro": "Santa Lia",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Santa Lia;",
+    "cep": "64058655",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Barra Mansa;"
 }

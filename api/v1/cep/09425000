@@ -1,12 +1,12 @@
 {
-  "cep": "09425000",
-  "logradouro": "Avenida Humberto de Campos de 0501/502 a 1599/1600",
-  "bairro": "Bocaina",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bocaina;",
+    "cep": "09425000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Avenida Humberto de Campos - de 0501\/502 a 1599\/1600;"
 }

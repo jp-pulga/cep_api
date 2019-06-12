@@ -1,12 +1,12 @@
 {
-  "cep": "40726170",
-  "logradouro": "Rua do Angelim",
-  "bairro": "Periperi",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Periperi;",
+    "cep": "40726170",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua do Angelim;"
 }

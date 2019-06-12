@@ -1,12 +1,12 @@
 {
-  "cep": "35661027",
-  "logradouro": "Rua Aurora Marinho",
-  "bairro": "Senador Valadares",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senador Valadares;",
+    "cep": "35661027",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Aurora Marinho;"
 }

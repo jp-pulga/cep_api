@@ -1,12 +1,12 @@
 {
-  "cep": "06550970",
-  "logradouro": "AC Pirapora do Bom Jesus Rua Santa Cruz 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pirapora do Bom Jesus",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "06550970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pirapora do Bom Jesus"
+    },
+    "logradouro": "Rua Santa Cruz, 99  AC Pirapora do Bom Jesus;"
 }

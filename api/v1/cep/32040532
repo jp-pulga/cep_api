@@ -1,12 +1,12 @@
 {
-  "cep": "32040532",
-  "logradouro": "Rua José Pinheiro",
-  "bairro": "Três Barras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Barras;",
+    "cep": "32040532",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua José Pinheiro;"
 }

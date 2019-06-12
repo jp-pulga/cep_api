@@ -1,12 +1,12 @@
 {
-  "cep": "79320300",
-  "logradouro": "Alameda São Sebastião",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Corumbá",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "79320300",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Corumbá"
+    },
+    "logradouro": "Alameda São Sebastião;"
 }

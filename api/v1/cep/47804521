@@ -1,12 +1,12 @@
 {
-  "cep": "47804521",
-  "logradouro": "Rua Central Park",
-  "bairro": "Buritis",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Buritis;",
+    "cep": "47804521",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Central Park;"
 }

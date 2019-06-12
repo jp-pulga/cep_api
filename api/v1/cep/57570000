@@ -1,12 +1,11 @@
 {
-  "cep": "57570000",
-  "logradouro": "Cacimbinhas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cacimbinhas",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57570000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Cacimbinhas"
+    },
+    "ibge": 2701209
 }

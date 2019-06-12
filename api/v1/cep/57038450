@@ -1,12 +1,12 @@
 {
-  "cep": "57038450",
-  "logradouro": "Rua Porto Calvo",
-  "bairro": "Cruz das Almas",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Cruz das Almas;",
+    "cep": "57038450",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Porto Calvo;"
 }

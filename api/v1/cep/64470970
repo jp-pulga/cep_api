@@ -1,12 +1,13 @@
 {
-  "cep": "64470970",
-  "logradouro": "AC Hugo Napoleão Rua Eufrozino Moura 225",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Hugo Napoleão",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64470970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Hugo Napoleão"
+    },
+    "ibge": 2204600,
+    "logradouro": "Rua Eufrozino Moura, 225  AC Hugo Napoleão;"
 }

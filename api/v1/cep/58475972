@@ -1,12 +1,13 @@
 {
-  "cep": "58475972",
-  "logradouro": "AGC Ligeiro Sítio Ligeiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Queimadas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58475972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Queimadas"
+    },
+    "ibge": 2512507,
+    "logradouro": "Sítio Ligeiro, s\/n  AGC Ligeiro;"
 }

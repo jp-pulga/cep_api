@@ -1,12 +1,13 @@
 {
-  "cep": "57200970",
-  "logradouro": "AC Penedo Avenida Floriano Peixoto s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Penedo",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57200970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Penedo"
+    },
+    "ibge": 2706703,
+    "logradouro": "Avenida Floriano Peixoto, s\/n  AC Penedo;"
 }

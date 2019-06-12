@@ -1,12 +1,12 @@
 {
-  "cep": "04823260",
-  "logradouro": "Rua Theodorico Moreira de Souza",
-  "bairro": "Parque Alto do Rio Bonito",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Alto do Rio Bonito;",
+    "cep": "04823260",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Theodorico Moreira de Souza;"
 }

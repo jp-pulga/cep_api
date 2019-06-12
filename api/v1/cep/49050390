@@ -1,12 +1,12 @@
 {
-  "cep": "49050390",
-  "logradouro": "Rua Japoatã",
-  "bairro": "Suíssa",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Suíssa;",
+    "cep": "49050390",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Japoatã;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "64760970",
-  "logradouro": "AC São João do Piauí Praça Honório Santos 200",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64760970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São João do Piauí"
+    },
+    "ibge": 2210003,
+    "logradouro": "Praça Honório Santos, 200  AC São João do Piauí;"
 }

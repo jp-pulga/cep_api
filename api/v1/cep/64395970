@@ -1,12 +1,13 @@
 {
-  "cep": "64395970",
-  "logradouro": "AGC Passagem Franca do Piauí Rua Francisco Melo s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passagem Franca do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64395970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Passagem Franca do Piauí"
+    },
+    "ibge": 2207751,
+    "logradouro": "Rua Francisco Melo, s\/n  AGC Passagem Franca do Piauí;"
 }

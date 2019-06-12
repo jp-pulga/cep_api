@@ -1,12 +1,12 @@
 {
-  "cep": "58081097",
-  "logradouro": "Rua Creusa dos Anjos Pires Bezerra",
-  "bairro": "Costa e Silva",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Costa e Silva;",
+    "cep": "58081097",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Creusa dos Anjos Pires Bezerra;"
 }

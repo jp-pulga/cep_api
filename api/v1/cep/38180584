@@ -1,12 +1,12 @@
 {
-  "cep": "38180584",
-  "logradouro": "Rua Alfredo Luiz Carneiro",
-  "bairro": "Residencial Camuá",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Camuá;",
+    "cep": "38180584",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Alfredo Luiz Carneiro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58115970",
-  "logradouro": "AC Puxinanã Rua Paraíba 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Puxinanã",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58115970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Puxinanã"
+    },
+    "ibge": 2512408,
+    "logradouro": "Rua Paraíba, 6  AC Puxinanã;"
 }

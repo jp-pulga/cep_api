@@ -1,12 +1,12 @@
 {
-  "cep": "47813303",
-  "logradouro": "Rua Cerejeira",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "47813303",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Cerejeira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69058203",
-  "logradouro": "Rua Barão de Juruá",
-  "bairro": "Flores",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Flores;",
+    "cep": "69058203",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Barão de Juruá;"
 }

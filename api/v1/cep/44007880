@@ -1,12 +1,12 @@
 {
-  "cep": "44007880",
-  "logradouro": "Avenida Rio de Janeiro de 1120 ao fim - lado par",
-  "bairro": "Pedra do Descanso",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pedra do Descanso;",
+    "cep": "44007880",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Deputado Francisco José Pinto dos Santos - de 1120 ao fim - lado par;"
 }

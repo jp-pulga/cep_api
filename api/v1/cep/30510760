@@ -1,12 +1,12 @@
 {
-  "cep": "30510760",
-  "logradouro": "Rua Peroba do Campo",
-  "bairro": "Nova Gameleira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Gameleira;",
+    "cep": "30510760",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Peroba do Campo;"
 }

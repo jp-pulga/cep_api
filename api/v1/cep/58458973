@@ -1,12 +1,13 @@
 {
-  "cep": "58458973",
-  "logradouro": "ACS Pedras Pretas Rua Principal s/n",
-  "bairro": "Povoado",
-  "cidade": {
-    "nome": "Barra de Santana",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Povoado;",
+    "cep": "58458973",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Barra de Santana"
+    },
+    "ibge": 2501575,
+    "logradouro": "Rua Principal, s\/n  ACS Pedras Pretas;"
 }

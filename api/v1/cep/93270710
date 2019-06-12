@@ -1,12 +1,12 @@
 {
-  "cep": "93270710",
-  "logradouro": "Parque Exposições Assis Brasil",
-  "bairro": "Novo Esteio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Novo Esteio;",
+    "cep": "93270710",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Parque Exposições Assis Brasil;"
 }

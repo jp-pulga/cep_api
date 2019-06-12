@@ -1,12 +1,13 @@
 {
-  "cep": "58300550",
-  "logradouro": "Praça da Independência",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "58300550",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Praça da Independência;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "89232040",
-  "logradouro": "Rua Dona Cezarina",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "89232040",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Dona Cezarina;"
 }

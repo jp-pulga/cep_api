@@ -1,12 +1,12 @@
 {
-  "cep": "58790970",
-  "logradouro": "AC Pedra Branca Avenida Cônego Firmino 418",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra Branca",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58790970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pedra Branca"
+    },
+    "logradouro": "Avenida Cônego Firmino, 418  AC Pedra Branca;"
 }

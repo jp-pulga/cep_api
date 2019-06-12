@@ -1,12 +1,13 @@
 {
-  "cep": "58993970",
-  "logradouro": "AC Boa Ventura Rua Pedro Arruda s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Ventura",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58993970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Boa Ventura"
+    },
+    "ibge": 2502102,
+    "logradouro": "Rua Pedro Arruda, s\/n  AC Boa Ventura;"
 }

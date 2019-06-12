@@ -1,12 +1,12 @@
 {
-  "cep": "02410070",
-  "logradouro": "Rua Coronel Tupi Caldas",
-  "bairro": "Vila Aurora (Zona Norte)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Aurora (Zona Norte);",
+    "cep": "02410070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Coronel Tupi Caldas;"
 }

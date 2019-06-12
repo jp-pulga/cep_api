@@ -1,12 +1,12 @@
 {
-  "cep": "79810050",
-  "logradouro": "Rua Hayel Bon Faker de 1843/1844 a 2322/2323",
-  "bairro": "Jardim São Pedro",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim São Pedro;",
+    "cep": "79810050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Hayel Bon Faker - de 1843\/1844 a 2322\/2323;"
 }

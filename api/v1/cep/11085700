@@ -1,12 +1,12 @@
 {
-  "cep": "11085700",
-  "logradouro": "Avenida Francisco da Costa Pires",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Santos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "11085700",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santos"
+    },
+    "logradouro": "Avenida Francisco da Costa Pires;"
 }

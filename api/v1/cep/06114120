@@ -1,12 +1,12 @@
 {
-  "cep": "06114120",
-  "logradouro": "Rua Júpiter",
-  "bairro": "Pestana",
-  "cidade": {
-    "nome": "Osasco",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pestana;",
+    "cep": "06114120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Osasco"
+    },
+    "logradouro": "Rua Júpiter;"
 }

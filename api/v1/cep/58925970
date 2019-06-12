@@ -1,12 +1,13 @@
 {
-  "cep": "58925970",
-  "logradouro": "AC Santa Helena Rua Elaine Soares Brasileiro 75",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Helena",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58925970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Helena"
+    },
+    "ibge": 2513307,
+    "logradouro": "Rua Elaine Soares Brasileiro, 75  AC Santa Helena;"
 }

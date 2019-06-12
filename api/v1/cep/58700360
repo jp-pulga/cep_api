@@ -1,12 +1,13 @@
 {
-  "cep": "58700360",
-  "logradouro": "Avenida Benjamin Constant",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "58700360",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "ibge": 2510808,
+    "logradouro": "Avenida Benjamin Constant;"
 }

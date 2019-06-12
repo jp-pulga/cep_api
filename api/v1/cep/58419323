@@ -1,12 +1,12 @@
 {
-  "cep": "58419323",
-  "logradouro": "Rua Antônio Pereira de Almeida (Condominio Serra da Borborema)",
-  "bairro": "Velame",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Velame;",
+    "cep": "58419323",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Antônio Pereira de Almeida (Condominio Serra da Borborema);"
 }

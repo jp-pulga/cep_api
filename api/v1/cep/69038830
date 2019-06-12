@@ -1,12 +1,12 @@
 {
-  "cep": "69038830",
-  "logradouro": "Rua Pesqueira",
-  "bairro": "Lírio do Vale",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Lírio do Vale;",
+    "cep": "69038830",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Pesqueira;"
 }

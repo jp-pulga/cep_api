@@ -1,12 +1,13 @@
 {
-  "cep": "68460037",
-  "logradouro": "Rua Bom Pastor",
-  "bairro": "Beira Rio",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Beira Rio;",
+    "cep": "68460037",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Bom Pastor;"
 }

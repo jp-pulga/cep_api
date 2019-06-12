@@ -1,12 +1,13 @@
 {
-  "cep": "64275970",
-  "logradouro": "AC Jatobá do Piauí Rua Joaquim Terto s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jatobá do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64275970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Jatobá do Piauí"
+    },
+    "ibge": 2205276,
+    "logradouro": "Rua Joaquim Terto, s\/n  AC Jatobá do Piauí;"
 }

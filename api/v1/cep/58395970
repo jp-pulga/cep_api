@@ -1,12 +1,13 @@
 {
-  "cep": "58395970",
-  "logradouro": "AC Serraria Rua Monsenhor Walfredo 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serraria",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58395970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Serraria"
+    },
+    "ibge": 2515906,
+    "logradouro": "Rua Monsenhor Walfredo, 02  AC Serraria;"
 }

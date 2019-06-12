@@ -1,12 +1,12 @@
 {
-  "cep": "64002165",
-  "logradouro": "Rua Parnaguá",
-  "bairro": "Matadouro",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Matadouro;",
+    "cep": "64002165",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Parnaguá;"
 }

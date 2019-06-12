@@ -1,12 +1,12 @@
 {
-  "cep": "66077186",
-  "logradouro": "Passagem Santa Helena",
-  "bairro": "Terra Firme",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Firme;",
+    "cep": "66077186",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Santa Helena;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58401369",
-  "logradouro": "Avenida Cajazeiras",
-  "bairro": "Lauritzen",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Lauritzen;",
+    "cep": "58401369",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Cajazeiras;"
 }

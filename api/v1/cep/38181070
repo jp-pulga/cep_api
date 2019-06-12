@@ -1,12 +1,12 @@
 {
-  "cep": "38181070",
-  "logradouro": "Rua Antônio Martins Ferreira",
-  "bairro": "Ana Pinto de Almeida",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ana Pinto de Almeida;",
+    "cep": "38181070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Antônio Martins Ferreira;"
 }

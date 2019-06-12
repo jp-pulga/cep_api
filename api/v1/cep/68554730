@@ -1,12 +1,13 @@
 {
-  "cep": "68554730",
-  "logradouro": "Avenida Doutor Paulo Quartim Barbosa",
-  "bairro": "Marechal Rondon",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marechal Rondon;",
+    "cep": "68554730",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Avenida Doutor Paulo Quartim Barbosa;"
 }

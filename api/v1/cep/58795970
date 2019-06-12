@@ -1,12 +1,13 @@
 {
-  "cep": "58795970",
-  "logradouro": "AC Santana dos Garrotes Rua Isidro Araújo Passos 16",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana dos Garrotes",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58795970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santana dos Garrotes"
+    },
+    "ibge": 2513604,
+    "logradouro": "Rua Isidro Araújo Passos, 16  AC Santana dos Garrotes;"
 }

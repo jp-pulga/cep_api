@@ -1,12 +1,13 @@
 {
-  "cep": "57100970",
-  "logradouro": "AC Rio Largo Rua Euclides Afonso de Melo 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Largo",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57100970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Rio Largo"
+    },
+    "ibge": 2707701,
+    "logradouro": "Rua Euclides Afonso de Melo, 14  AC Rio Largo;"
 }

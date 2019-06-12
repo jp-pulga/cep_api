@@ -1,12 +1,12 @@
 {
-  "cep": "40140350",
-  "logradouro": "Rua Belém do Pará",
-  "bairro": "Barra",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barra;",
+    "cep": "40140350",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Belém do Pará;"
 }

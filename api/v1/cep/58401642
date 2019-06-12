@@ -1,12 +1,12 @@
 {
-  "cep": "58401642",
-  "logradouro": "Rua Frei Damião de Bozzano",
-  "bairro": "Alto Branco",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto Branco;",
+    "cep": "58401642",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Frei Damião de Bozzano;"
 }

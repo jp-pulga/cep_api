@@ -1,12 +1,12 @@
 {
-  "cep": "66020070",
-  "logradouro": "Rua do Aveiro",
-  "bairro": "Cidade Velha",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Cidade Velha;",
+    "cep": "66020070",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Rua do Aveiro;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "57325000",
-  "logradouro": "Coité do Nóia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coité do Nóia",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57325000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Coité do Nóia"
+    },
+    "ibge": 2702009
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58713970",
-  "logradouro": "AC Malta Rua Coronel Justino Fernandes Vieira 76",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Malta",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58713970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Malta"
+    },
+    "ibge": 2508802,
+    "logradouro": "Rua Coronel Justino Fernandes Vieira, 76  AC Malta;"
 }

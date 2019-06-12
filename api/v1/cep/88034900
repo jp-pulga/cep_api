@@ -1,12 +1,12 @@
 {
-  "cep": "88034900",
-  "logradouro": "CELESC - Centrais Elétricas de Santa Catarina S/A Avenida Itamarati 160",
-  "bairro": "Itacorubi",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Itacorubi;",
+    "cep": "88034900",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Avenida Itamarati, 160  CELESC - Centrais Elétricas de Santa Catarina S\/A;"
 }

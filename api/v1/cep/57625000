@@ -1,12 +1,11 @@
 {
-  "cep": "57625000",
-  "logradouro": "Estrela de Alagoas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Estrela de Alagoas",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57625000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Estrela de Alagoas"
+    },
+    "ibge": 2702553
 }

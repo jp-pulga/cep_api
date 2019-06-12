@@ -1,12 +1,13 @@
 {
-  "cep": "57640970",
-  "logradouro": "AC Taquarana Praça Manoel Rodrigues 72",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taquarana",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57640970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Taquarana"
+    },
+    "ibge": 2709103,
+    "logradouro": "Praça Manoel Rodrigues, 72  AC Taquarana;"
 }

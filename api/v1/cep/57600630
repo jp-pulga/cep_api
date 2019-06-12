@@ -1,12 +1,13 @@
 {
-  "cep": "57600630",
-  "logradouro": "Rua Santa Isabel",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Alto do Cruzeiro;",
+    "cep": "57600630",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rua Santa Isabel;"
 }

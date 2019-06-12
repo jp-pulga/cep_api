@@ -1,12 +1,12 @@
 {
-  "cep": "64018230",
-  "logradouro": "Rua Pio IX",
-  "bairro": "Vermelha",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vermelha;",
+    "cep": "64018230",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pio IX;"
 }

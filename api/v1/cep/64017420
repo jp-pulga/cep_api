@@ -1,12 +1,12 @@
 {
-  "cep": "64017420",
-  "logradouro": "Rua Buriti dos Lopes",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "64017420",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Buriti dos Lopes;"
 }

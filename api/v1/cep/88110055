@@ -1,12 +1,12 @@
 {
-  "cep": "88110055",
-  "logradouro": "Rua Abelardo Manoel Peixer",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88110055",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Abelardo Manoel Peixer;"
 }

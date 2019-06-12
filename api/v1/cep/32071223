@@ -1,12 +1,12 @@
 {
-  "cep": "32071223",
-  "logradouro": "Rua Parajú",
-  "bairro": "Sapucaias III",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sapucaias III;",
+    "cep": "32071223",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Parajú;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68554006",
-  "logradouro": "Rua das Palmeiras (Res Cedro)",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "68554006",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua das Palmeiras (Res Cedro);"
 }

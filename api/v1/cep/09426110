@@ -1,12 +1,12 @@
 {
-  "cep": "09426110",
-  "logradouro": "Rua João Matias Brites",
-  "bairro": "Bocaina",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bocaina;",
+    "cep": "09426110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua João Matias Brites;"
 }

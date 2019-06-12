@@ -1,12 +1,12 @@
 {
-  "cep": "12944120",
-  "logradouro": "Rua Belém do Pará",
-  "bairro": "Recreio Estoril",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recreio Estoril;",
+    "cep": "12944120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Rua Belém do Pará;"
 }

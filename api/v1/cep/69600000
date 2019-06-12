@@ -1,12 +1,11 @@
 {
-  "cep": "69600000",
-  "logradouro": "São Paulo de Olivença",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Paulo de Olivença",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69600000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "São Paulo de Olivença"
+    },
+    "ibge": 1303908
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58930971",
-  "logradouro": "AGC Sao José Rua Central s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58930971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bom Jesus"
+    },
+    "ibge": 2502201,
+    "logradouro": "Rua Central, s\/n  AGC Sao José;"
 }

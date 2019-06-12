@@ -1,12 +1,13 @@
 {
-  "cep": "64635970",
-  "logradouro": "AC São João da Canabrava Avenida João Bitonio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João da Canabrava",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64635970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São João da Canabrava"
+    },
+    "ibge": 2209856,
+    "logradouro": "Avenida João Bitonio, s\/n  AC São João da Canabrava;"
 }

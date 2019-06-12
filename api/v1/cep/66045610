@@ -1,12 +1,12 @@
 {
-  "cep": "66045610",
-  "logradouro": "Passagem Aluísio Chaves",
-  "bairro": "Condor",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Condor;",
+    "cep": "66045610",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Passagem Aluísio Chaves;"
 }

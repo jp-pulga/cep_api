@@ -1,12 +1,12 @@
 {
-  "cep": "40710021",
-  "logradouro": "Rua Pedra Bonita",
-  "bairro": "Escada",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Escada;",
+    "cep": "40710021",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Pedra Bonita;"
 }

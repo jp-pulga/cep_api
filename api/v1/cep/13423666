@@ -1,12 +1,12 @@
 {
-  "cep": "13423666",
-  "logradouro": "Rua Antônio Fiusa de Almeida",
-  "bairro": "Garças",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Garças;",
+    "cep": "13423666",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Antônio Fiusa de Almeida;"
 }

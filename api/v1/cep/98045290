@@ -1,12 +1,12 @@
 {
-  "cep": "98045290",
-  "logradouro": "Rua Pastor Bruno Gonçalves Terra",
-  "bairro": "Tamoio",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Tamoio;",
+    "cep": "98045290",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Pastor Bruno Gonçalves Terra;"
 }

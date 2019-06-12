@@ -1,12 +1,12 @@
 {
-  "cep": "68552585",
-  "logradouro": "Rua Rio Maria",
-  "bairro": "Capuava",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Capuava;",
+    "cep": "68552585",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "logradouro": "Rua Rio Maria;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45985589",
-  "logradouro": "Rua Doutor José de Alencar",
-  "bairro": "Residencial dos Pioneiros",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Residencial dos Pioneiros;",
+    "cep": "45985589",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Doutor José de Alencar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58037900",
-  "logradouro": "Manaíra Shopping Center Avenida Governador Flávio Ribeiro Coutinho 805",
-  "bairro": "Manaíra",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Manaíra;",
+    "cep": "58037900",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida Governador Flávio Ribeiro Coutinho, 805  Manaíra Shopping Center;"
 }

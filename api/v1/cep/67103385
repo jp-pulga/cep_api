@@ -1,12 +1,12 @@
 {
-  "cep": "67103385",
-  "logradouro": "Passagem Rosa Lima",
-  "bairro": "Marituba",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marituba;",
+    "cep": "67103385",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "logradouro": "Passagem Rosa Lima;"
 }

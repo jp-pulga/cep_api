@@ -1,12 +1,12 @@
 {
-  "cep": "78700461",
-  "logradouro": "Avenida Paraná",
-  "bairro": "Jardim Oliveira",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Oliveira;",
+    "cep": "78700461",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Paraná;"
 }

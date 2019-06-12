@@ -1,12 +1,12 @@
 {
-  "cep": "18056130",
-  "logradouro": "Rua Pedro Flores Alcolea",
-  "bairro": "Jardim Itanguá",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Itanguá;",
+    "cep": "18056130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Pedro Flores Alcolea;"
 }

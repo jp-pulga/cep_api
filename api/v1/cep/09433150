@@ -1,12 +1,12 @@
 {
-  "cep": "09433150",
-  "logradouro": "Rua Ataufo Alves",
-  "bairro": "Pilar Velho",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pilar Velho;",
+    "cep": "09433150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Ataufo Alves;"
 }

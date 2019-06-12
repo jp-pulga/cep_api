@@ -1,12 +1,12 @@
 {
-  "cep": "64573970",
-  "logradouro": "AC Massapê do Piauí Avenida Pedro Martins s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Massapê do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64573970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Massapê do Piauí"
+    },
+    "logradouro": "Avenida Pedro Martins, s\/n  AC Massapê do Piauí;"
 }

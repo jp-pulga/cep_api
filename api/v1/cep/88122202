@@ -1,12 +1,12 @@
 {
-  "cep": "88122202",
-  "logradouro": "Rua Ari Lentz dos Santos",
-  "bairro": "Sertão do Maruim",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sertão do Maruim;",
+    "cep": "88122202",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Ari Lentz dos Santos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "68455020",
-  "logradouro": "Avenida São Paulo",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "68455020",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Avenida São Paulo;"
 }

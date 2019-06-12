@@ -1,12 +1,12 @@
 {
-  "cep": "32040100",
-  "logradouro": "Beco Barroquinha",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "32040100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Beco Barroquinha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58068343",
-  "logradouro": "Rua Darlene Linhares Moura Monteiro",
-  "bairro": "Gramame",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Gramame;",
+    "cep": "58068343",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Darlene Linhares Moura Monteiro;"
 }

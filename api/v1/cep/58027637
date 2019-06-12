@@ -1,12 +1,12 @@
 {
-  "cep": "58027637",
-  "logradouro": "Rua Maria Pereira Machado",
-  "bairro": "Alto do Céu",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Céu;",
+    "cep": "58027637",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Maria Pereira Machado;"
 }

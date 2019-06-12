@@ -1,12 +1,12 @@
 {
-  "cep": "13349043",
-  "logradouro": "Rua Pau Terra",
-  "bairro": "Parque Campo Bonito",
-  "cidade": {
-    "nome": "Indaiatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Campo Bonito;",
+    "cep": "13349043",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Indaiatuba"
+    },
+    "logradouro": "Rua Pau Terra;"
 }

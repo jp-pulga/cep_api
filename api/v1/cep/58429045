@@ -1,12 +1,12 @@
 {
-  "cep": "58429045",
-  "logradouro": "Rua Arthur Monteiro Viana",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "58429045",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Arthur Monteiro Viana;"
 }

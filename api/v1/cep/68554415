@@ -1,12 +1,13 @@
 {
-  "cep": "68554415",
-  "logradouro": "Rua Paraná Mogno",
-  "bairro": "Campos Altos",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Campos Altos;",
+    "cep": "68554415",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua Paraná Mogno;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44075325",
-  "logradouro": "Rua Campos Sales até 691 - lado ímpar",
-  "bairro": "Ponto Central",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ponto Central;",
+    "cep": "44075325",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Campos Sales - até 691 - lado ímpar;"
 }

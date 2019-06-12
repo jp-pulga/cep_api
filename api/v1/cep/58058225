@@ -1,12 +1,12 @@
 {
-  "cep": "58058225",
-  "logradouro": "Praça Tenente João Emídio de Lucena",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "58058225",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Praça Tenente João Emídio de Lucena;"
 }

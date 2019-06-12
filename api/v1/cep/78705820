@@ -1,12 +1,12 @@
 {
-  "cep": "78705820",
-  "logradouro": "Rua Pará",
-  "bairro": "Vila Adriana",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Adriana;",
+    "cep": "78705820",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Pará;"
 }

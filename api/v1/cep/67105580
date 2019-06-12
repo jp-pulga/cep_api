@@ -1,12 +1,12 @@
 {
-  "cep": "67105580",
-  "logradouro": "Passagem São Paulo",
-  "bairro": "Marituba",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marituba;",
+    "cep": "67105580",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "logradouro": "Passagem São Paulo;"
 }

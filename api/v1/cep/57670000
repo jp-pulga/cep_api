@@ -1,12 +1,11 @@
 {
-  "cep": "57670000",
-  "logradouro": "Maribondo",
-  "bairro": "",
-  "cidade": {
-    "nome": "Maribondo",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57670000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maribondo"
+    },
+    "ibge": 2704807
 }

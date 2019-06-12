@@ -1,12 +1,12 @@
 {
-  "cep": "02209230",
-  "logradouro": "Travessa Sextilhas de Frei Antão",
-  "bairro": "Vila Gustavo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Gustavo;",
+    "cep": "02209230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Sextilhas de Frei Antão;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64016865",
-  "logradouro": "Rua Central",
-  "bairro": "Redenção",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Redenção;",
+    "cep": "64016865",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Central;"
 }

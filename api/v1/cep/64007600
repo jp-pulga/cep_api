@@ -1,12 +1,12 @@
 {
-  "cep": "64007600",
-  "logradouro": "Rua Batalha",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "64007600",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Batalha;"
 }

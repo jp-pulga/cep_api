@@ -1,12 +1,12 @@
 {
-  "cep": "68554302",
-  "logradouro": "Rua Manacá (Res Cedro)",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "68554302",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "logradouro": "Rua Manacá (Res Cedro);"
 }

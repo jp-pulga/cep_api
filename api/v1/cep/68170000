@@ -1,12 +1,11 @@
 {
-  "cep": "68170000",
-  "logradouro": "Juruti",
-  "bairro": "",
-  "cidade": {
-    "nome": "Juruti",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68170000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Juruti"
+    },
+    "ibge": 1503903
 }

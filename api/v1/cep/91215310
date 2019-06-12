@@ -1,12 +1,12 @@
 {
-  "cep": "91215310",
-  "logradouro": "Rua Guerra Junqueiro",
-  "bairro": "Jardim Itu Sabará",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Sabará;",
+    "cep": "91215310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Guerra Junqueiro;"
 }

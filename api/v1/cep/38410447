@@ -1,12 +1,12 @@
 {
-  "cep": "38410447",
-  "logradouro": "Rua José Leoni Segalla (Campo Alegre)",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "38410447",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua José Leoni Segalla (Campo Alegre);"
 }

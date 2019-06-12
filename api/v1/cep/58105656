@@ -1,12 +1,12 @@
 {
-  "cep": "58105656",
-  "logradouro": "Rua Nova Esperança",
-  "bairro": "Jacaré",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jacaré;",
+    "cep": "58105656",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Nova Esperança;"
 }

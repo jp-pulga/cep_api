@@ -1,12 +1,13 @@
 {
-  "cep": "69553200",
-  "logradouro": "Rua Amazonas até 145/146",
-  "bairro": "Fonte Boa",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Fonte Boa;",
+    "cep": "69553200",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Rua Amazonas - até 145\/146;"
 }

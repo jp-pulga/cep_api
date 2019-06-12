@@ -1,12 +1,13 @@
 {
-  "cep": "64740970",
-  "logradouro": "AC Conceição do Canindé Avenida Transversal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Canindé",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64740970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Conceição do Canindé"
+    },
+    "ibge": 2202802,
+    "logradouro": "Avenida Transversal, s\/n  AC Conceição do Canindé;"
 }

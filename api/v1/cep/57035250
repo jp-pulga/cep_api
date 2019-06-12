@@ -1,12 +1,12 @@
 {
-  "cep": "57035250",
-  "logradouro": "Avenida Senador Rui Palmeira",
-  "bairro": "Ponta Verde",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ponta Verde;",
+    "cep": "57035250",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Senador Rui Palmeira;"
 }

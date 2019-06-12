@@ -1,12 +1,12 @@
 {
-  "cep": "41770115",
-  "logradouro": "Estrada do Curralinho lado direito",
-  "bairro": "Stiep",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Stiep;",
+    "cep": "41770115",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Estrada do Curralinho - lado par;"
 }

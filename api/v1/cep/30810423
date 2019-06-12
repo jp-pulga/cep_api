@@ -1,12 +1,12 @@
 {
-  "cep": "30810423",
-  "logradouro": "Rua Geraldo Pereira da Silva",
-  "bairro": "Jardim Alvorada",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Alvorada;",
+    "cep": "30810423",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Geraldo Pereira da Silva;"
 }

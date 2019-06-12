@@ -1,12 +1,12 @@
 {
-  "cep": "69060444",
-  "logradouro": "Rua Envira (Cond E Salles)",
-  "bairro": "Aleixo",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Aleixo;",
+    "cep": "69060444",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Envira;"
 }

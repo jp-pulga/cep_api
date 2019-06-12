@@ -1,12 +1,13 @@
 {
-  "cep": "58400158",
-  "logradouro": "Avenida Janúncio Ferreira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58400158",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Janúncio Ferreira;"
 }

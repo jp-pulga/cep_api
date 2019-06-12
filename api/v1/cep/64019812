@@ -1,12 +1,12 @@
 {
-  "cep": "64019812",
-  "logradouro": "Rua Buriti dos Lopes",
-  "bairro": "Pio XII",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Pio XII;",
+    "cep": "64019812",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Buriti dos Lopes;"
 }

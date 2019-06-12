@@ -1,12 +1,13 @@
 {
-  "cep": "64520970",
-  "logradouro": "AC Francinópolis Rua Cícero Martins s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Francinópolis",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64520970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Francinópolis"
+    },
+    "ibge": 2204006,
+    "logradouro": "Rua Cícero Martins, s\/n  AC Francinópolis;"
 }

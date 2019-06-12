@@ -1,12 +1,13 @@
 {
-  "cep": "69552295",
-  "logradouro": "Beco Matrinxã",
-  "bairro": "Juruá",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Juruá;",
+    "cep": "69552295",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Beco Matrinxã;"
 }

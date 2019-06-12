@@ -1,12 +1,13 @@
 {
-  "cep": "64782970",
-  "logradouro": "AC Jurema Rua Félix José da Silva s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jurema",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64782970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Jurema"
+    },
+    "ibge": 2205532,
+    "logradouro": "Rua Félix José da Silva, s\/n  AC Jurema;"
 }

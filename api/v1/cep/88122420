@@ -1,12 +1,12 @@
 {
-  "cep": "88122420",
-  "logradouro": "Rua Julieta Paulina Vieira",
-  "bairro": "Sertão do Maruim",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Sertão do Maruim;",
+    "cep": "88122420",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Julieta Paulina Vieira;"
 }

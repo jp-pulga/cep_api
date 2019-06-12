@@ -1,12 +1,13 @@
 {
-  "cep": "64315970",
-  "logradouro": "AC Santa Cruz dos Milagres Avenida do Antonio Tomé s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz dos Milagres",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64315970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Santa Cruz dos Milagres"
+    },
+    "ibge": 2209153,
+    "logradouro": "Avenida do Antonio Tomé, s\/n  AC Santa Cruz dos Milagres;"
 }

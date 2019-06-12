@@ -1,12 +1,13 @@
 {
-  "cep": "64870970",
-  "logradouro": "AC Bertolínia Rua Alfredo Lopes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bertolínia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64870970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Bertolínia"
+    },
+    "ibge": 2201705,
+    "logradouro": "Rua Alfredo Lopes, s\/n  AC Bertolínia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "14040030",
-  "logradouro": "Avenida Bandeirantes de 3302 ao fim - lado par",
-  "bairro": "Vila Monte Alegre",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Monte Alegre;",
+    "cep": "14040030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Avenida Bandeirantes - de 3302 ao fim - lado par;"
 }

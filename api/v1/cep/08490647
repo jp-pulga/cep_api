@@ -1,12 +1,12 @@
 {
-  "cep": "08490647",
-  "logradouro": "Via de Pedestre Novo Triunfo",
-  "bairro": "Vila Paulista I",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Paulista I;",
+    "cep": "08490647",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Via de Pedestre Novo Triunfo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04960120",
-  "logradouro": "Rua Luís Alberto Caldas de Oliveira",
-  "bairro": "Jardim Capela",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Capela;",
+    "cep": "04960120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Luís Alberto Caldas de Oliveira;"
 }

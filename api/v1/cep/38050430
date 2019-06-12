@@ -1,12 +1,12 @@
 {
-  "cep": "38050430",
-  "logradouro": "Rua Paraíba",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "38050430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Paraíba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58115971",
-  "logradouro": "AGC Jenipapo Praça Publica de Jenipapo s/n",
-  "bairro": "Povoado",
-  "cidade": {
-    "nome": "Puxinanã",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Povoado;",
+    "cep": "58115971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Puxinanã"
+    },
+    "ibge": 2512408,
+    "logradouro": "Praça Publica de Jenipapo, s\/n  AGC Jenipapo;"
 }

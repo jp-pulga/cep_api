@@ -1,12 +1,13 @@
 {
-  "cep": "68552217",
-  "logradouro": "Rua Doutor Pedro Paulo Barcarú",
-  "bairro": "Jardim Umuarama",
-  "cidade": {
-    "nome": "Redenção",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Jardim Umuarama;",
+    "cep": "68552217",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Redenção"
+    },
+    "ibge": 1506138,
+    "logradouro": "Rua Doutor Pedro Paulo Barcarú;"
 }

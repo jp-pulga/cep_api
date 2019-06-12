@@ -1,12 +1,12 @@
 {
-  "cep": "07990075",
-  "logradouro": "Alameda dos Gerâneos",
-  "bairro": "Belém Capela",
-  "cidade": {
-    "nome": "Francisco Morato",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Belém Capela;",
+    "cep": "07990075",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Francisco Morato"
+    },
+    "logradouro": "Alameda dos Gerâneos;"
 }

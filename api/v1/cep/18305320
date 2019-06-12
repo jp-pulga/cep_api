@@ -1,12 +1,12 @@
 {
-  "cep": "18305320",
-  "logradouro": "Alameda dos Palmares",
-  "bairro": "Jardim Colonial",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Colonial;",
+    "cep": "18305320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Alameda dos Palmares;"
 }

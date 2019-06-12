@@ -1,12 +1,12 @@
 {
-  "cep": "92032405",
-  "logradouro": "Rua Dois (Lot Sete Outubro)",
-  "bairro": "Estância Velha",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Estância Velha;",
+    "cep": "92032405",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Dois (Lot Sete Outubro);"
 }

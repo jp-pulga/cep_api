@@ -1,12 +1,12 @@
 {
-  "cep": "32073550",
-  "logradouro": "Rua Gentil do Ouro",
-  "bairro": "Petrolândia",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrolândia;",
+    "cep": "32073550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Gentil do Ouro;"
 }

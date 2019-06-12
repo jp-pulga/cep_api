@@ -1,12 +1,11 @@
 {
-  "cep": "49630000",
-  "logradouro": "Siriri",
-  "bairro": "",
-  "cidade": {
-    "nome": "Siriri",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49630000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Siriri"
+    },
+    "ibge": 2807204
 }

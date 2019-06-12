@@ -1,12 +1,12 @@
 {
-  "cep": "32065222",
-  "logradouro": "Rua Sete",
-  "bairro": "Estâncias Imperiais",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estâncias Imperiais;",
+    "cep": "32065222",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Sete;"
 }

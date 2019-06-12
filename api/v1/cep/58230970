@@ -1,12 +1,13 @@
 {
-  "cep": "58230970",
-  "logradouro": "AC Cacimba de Dentro Rua Presidente Joao Pessoa 126",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cacimba de Dentro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58230970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cacimba de Dentro"
+    },
+    "ibge": 2503506,
+    "logradouro": "Rua Presidente Joao Pessoa, 126  AC Cacimba de Dentro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58378970",
-  "logradouro": "AC Itatuba Rua Joaquim Francisco de Andrade s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itatuba",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58378970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Itatuba"
+    },
+    "ibge": 2507200,
+    "logradouro": "Rua Joaquim Francisco de Andrade s\/n  AC Itatuba;"
 }

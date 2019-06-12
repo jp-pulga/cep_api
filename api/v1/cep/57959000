@@ -1,12 +1,11 @@
 {
-  "cep": "57959000",
-  "logradouro": "Peroba (Maragogi)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Peroba (Maragogi)",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57959000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maragogi"
+    },
+    "ibge": 2704500
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13401628",
-  "logradouro": "Rua Sete (Loteamento Minas Novas)",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "13401628",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Manoel Alves Cardoso (M Novas);"
 }

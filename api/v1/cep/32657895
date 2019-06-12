@@ -1,12 +1,12 @@
 {
-  "cep": "32657895",
-  "logradouro": "Avenida Fausto Ribeiro da Silva de 3501 a 3999 - lado ímpar",
-  "bairro": "Estância do Sereno Sede",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estância do Sereno Sede;",
+    "cep": "32657895",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Avenida Fausto Ribeiro da Silva - de 3501 a 3999 - lado ímpar;"
 }

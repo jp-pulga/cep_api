@@ -1,12 +1,12 @@
 {
-  "cep": "35661168",
-  "logradouro": "Rua Frei Henrique",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "35661168",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Frei Henrique;"
 }

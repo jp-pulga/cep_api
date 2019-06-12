@@ -1,12 +1,12 @@
 {
-  "cep": "01007000",
-  "logradouro": "Rua Riachuelo",
-  "bairro": "Sé",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sé;",
+    "cep": "01007000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Riachuelo;"
 }

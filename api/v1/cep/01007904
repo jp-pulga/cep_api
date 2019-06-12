@@ -1,12 +1,12 @@
 {
-  "cep": "01007904",
-  "logradouro": "Ministério Público do Estado de São Paulo - P. Geral da Justiça Rua Riachuelo 115",
-  "bairro": "Sé",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sé;",
+    "cep": "01007904",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Riachuelo, 115  Ministério Público do Estado de São Paulo - P. Geral da Justiça;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57062030",
-  "logradouro": "Alameda Antônio Vieira Costa",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "57062030",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Alameda Antônio Vieira Costa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40490370",
-  "logradouro": "Rua Piauí",
-  "bairro": "São João do Cabrito",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São João do Cabrito;",
+    "cep": "40490370",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Piauí;"
 }

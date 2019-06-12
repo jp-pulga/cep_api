@@ -1,12 +1,12 @@
 {
-  "cep": "58305195",
-  "logradouro": "Vila Capitão João Paredes",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "58305195",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Vila Capitão João Paredes;"
 }

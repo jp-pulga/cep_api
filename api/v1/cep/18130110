@@ -1,12 +1,12 @@
 {
-  "cep": "18130110",
-  "logradouro": "Rua Doutor João Gabriel Pinto da Costa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Roque",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18130110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Roque"
+    },
+    "logradouro": "Rua Doutor João Gabriel Pinto da Costa;"
 }

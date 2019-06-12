@@ -1,12 +1,12 @@
 {
-  "cep": "88430970",
-  "logradouro": "AC Petrolândia Rua Albino Zeni 55",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Petrolândia",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88430970",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Petrolândia"
+    },
+    "logradouro": "Rua Albino Zeni, 55  AC Petrolândia;"
 }

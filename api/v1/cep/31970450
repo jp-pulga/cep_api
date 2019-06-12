@@ -1,12 +1,12 @@
 {
-  "cep": "31970450",
-  "logradouro": "Rua Pedro Lagares de Souza",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "31970450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Pedro Lagares de Souza;"
 }

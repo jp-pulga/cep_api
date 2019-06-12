@@ -1,12 +1,13 @@
 {
-  "cep": "69553305",
-  "logradouro": "Rua Amazonas de 147/148 ao fim",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "69553305",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Rua Amazonas - de 147\/148 ao fim;"
 }

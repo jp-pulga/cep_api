@@ -1,12 +1,13 @@
 {
-  "cep": "68460007",
-  "logradouro": "Travessa Paraguai",
-  "bairro": "Serra Azul",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Serra Azul;",
+    "cep": "68460007",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Travessa Paraguai;"
 }

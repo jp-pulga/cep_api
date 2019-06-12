@@ -1,12 +1,13 @@
 {
-  "cep": "64528970",
-  "logradouro": "AC Barra D'Alcântara Avenida Francisco Guedes de Sousa 263",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra D'Alcântara",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64528970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Barra D'Alcântara"
+    },
+    "ibge": 2201176,
+    "logradouro": "Avenida Francisco Guedes de Sousa, 263  AC Barra D'Alcântara;"
 }

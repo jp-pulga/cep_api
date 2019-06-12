@@ -1,12 +1,12 @@
 {
-  "cep": "68456683",
-  "logradouro": "Rua Cametá",
-  "bairro": "Terra Prometida",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Terra Prometida;",
+    "cep": "68456683",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "logradouro": "Rua Cametá;"
 }

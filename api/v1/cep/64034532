@@ -1,12 +1,12 @@
 {
-  "cep": "64034532",
-  "logradouro": "Rua Pedro Quirino da Silva",
-  "bairro": "Angelim",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Angelim;",
+    "cep": "64034532",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Pedro Quirino da Silva;"
 }

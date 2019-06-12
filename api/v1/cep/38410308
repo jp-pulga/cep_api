@@ -1,12 +1,12 @@
 {
-  "cep": "38410308",
-  "logradouro": "Rua Senegal",
-  "bairro": "Laranjeiras",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Laranjeiras;",
+    "cep": "38410308",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Senegal;"
 }

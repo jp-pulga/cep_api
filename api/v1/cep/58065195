@@ -1,12 +1,12 @@
 {
-  "cep": "58065195",
-  "logradouro": "Rua Alvorada",
-  "bairro": "Planalto Boa Esperança",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Planalto Boa Esperança;",
+    "cep": "58065195",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Alvorada;"
 }

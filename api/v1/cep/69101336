@@ -1,12 +1,12 @@
 {
-  "cep": "69101336",
-  "logradouro": "Rua Francisco Orelana de 1930 ao fim - lado par",
-  "bairro": "Prainha",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Prainha;",
+    "cep": "69101336",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "logradouro": "Rua Francisco Orelana - de 1930 ao fim - lado par;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "57290970",
-  "logradouro": "AC Porto Real do Colégio Avenida Engenheiro Gordilho de Castro 236",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Porto Real do Colégio",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57290970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Porto Real do Colégio"
+    },
+    "ibge": 2707503,
+    "logradouro": "Avenida Engenheiro Gordilho de Castro, 236  AC Porto Real do Colégio;"
 }

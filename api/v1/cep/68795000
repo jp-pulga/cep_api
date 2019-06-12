@@ -1,12 +1,11 @@
 {
-  "cep": "68795000",
-  "logradouro": "Benevides",
-  "bairro": "",
-  "cidade": {
-    "nome": "Benevides",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68795000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Benevides"
+    },
+    "ibge": 1501501
 }

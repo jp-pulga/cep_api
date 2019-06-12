@@ -1,12 +1,11 @@
 {
-  "cep": "68738000",
-  "logradouro": "Santa Maria do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Maria do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68738000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santa Maria do Pará"
+    },
+    "ibge": 1506609
 }

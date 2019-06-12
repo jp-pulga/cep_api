@@ -1,12 +1,12 @@
 {
-  "cep": "79083350",
-  "logradouro": "Rua Santa Quitéria",
-  "bairro": "Jardim Centenário",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Centenário;",
+    "cep": "79083350",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Santa Quitéria;"
 }

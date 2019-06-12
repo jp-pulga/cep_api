@@ -1,12 +1,12 @@
 {
-  "cep": "37701267",
-  "logradouro": "Rua Capitão Fausto de Paiva",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37701267",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Capitão Fausto de Paiva;"
 }

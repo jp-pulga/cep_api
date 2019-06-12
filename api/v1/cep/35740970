@@ -1,12 +1,12 @@
 {
-  "cep": "35740970",
-  "logradouro": "AC Esmeraldas Rua Santa Quitéria 157",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esmeraldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35740970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Esmeraldas"
+    },
+    "logradouro": "Rua Santa Quitéria, 157  AC Esmeraldas;"
 }

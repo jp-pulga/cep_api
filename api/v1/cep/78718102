@@ -1,12 +1,12 @@
 {
-  "cep": "78718102",
-  "logradouro": "Avenida Paraíba",
-  "bairro": "Vila São José",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila São José;",
+    "cep": "78718102",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Paraíba;"
 }

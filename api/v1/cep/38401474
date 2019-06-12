@@ -1,12 +1,12 @@
 {
-  "cep": "38401474",
-  "logradouro": "Rua Professor Aleixo José Ferreira",
-  "bairro": "Maravilha",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maravilha;",
+    "cep": "38401474",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Professor Aleixo José Ferreira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36033600",
-  "logradouro": "Rua José Machado Penido",
-  "bairro": "Parque Guadalajara",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Guadalajara;",
+    "cep": "36033600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua José Machado Penido;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "66095330",
-  "logradouro": "Vila Magalhães Barata",
-  "bairro": "Marco",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marco;",
+    "cep": "66095330",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Vila Magalhães Barata;"
 }

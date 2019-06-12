@@ -1,12 +1,12 @@
 {
-  "cep": "69043620",
-  "logradouro": "Rua Vale do Juruá",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "69043620",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Vale do Juruá;"
 }

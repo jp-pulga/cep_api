@@ -1,12 +1,12 @@
 {
-  "cep": "29182549",
-  "logradouro": "Travessa Maria Pereira Pimentel II",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "29182549",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Travessa Maria Pereira Pimentel II;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64207273",
-  "logradouro": "Rua Empresário Pedro Machado de Moraes",
-  "bairro": "Frei Higino",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Frei Higino;",
+    "cep": "64207273",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Empresário Pedro Machado de Moraes;"
 }

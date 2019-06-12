@@ -1,12 +1,12 @@
 {
-  "cep": "58086050",
-  "logradouro": "Rua Santa Tereza",
-  "bairro": "Cruz das Armas",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cruz das Armas;",
+    "cep": "58086050",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Santa Tereza;"
 }

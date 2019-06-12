@@ -1,12 +1,11 @@
 {
-  "cep": "57220000",
-  "logradouro": "Feliz Deserto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Feliz Deserto",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57220000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Feliz Deserto"
+    },
+    "ibge": 2702702
 }

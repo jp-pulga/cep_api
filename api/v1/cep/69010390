@@ -1,12 +1,12 @@
 {
-  "cep": "69010390",
-  "logradouro": "Rua da Glória",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "69010390",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua da Glória;"
 }

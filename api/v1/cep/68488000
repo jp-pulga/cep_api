@@ -1,12 +1,11 @@
 {
-  "cep": "68488000",
-  "logradouro": "Breu Branco",
-  "bairro": "",
-  "cidade": {
-    "nome": "Breu Branco",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68488000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Breu Branco"
+    },
+    "ibge": 1501782
 }

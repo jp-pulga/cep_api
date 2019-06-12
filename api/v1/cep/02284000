@@ -1,12 +1,12 @@
 {
-  "cep": "02284000",
-  "logradouro": "Rodovia Fernão Dias do km 71702 ao km 87700 - lado par",
-  "bairro": "Parque Edu Chaves",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Edu Chaves;",
+    "cep": "02284000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rodovia Fernão Dias - do km 71,702 ao km 87,700 - lado par;"
 }

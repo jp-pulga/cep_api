@@ -1,12 +1,11 @@
 {
-  "cep": "69530000",
-  "logradouro": "Uarini",
-  "bairro": "",
-  "cidade": {
-    "nome": "Uarini",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69530000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Uarini"
+    },
+    "ibge": 1304260
 }

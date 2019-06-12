@@ -1,12 +1,13 @@
 {
-  "cep": "64220971",
-  "logradouro": "AGC Camurupim Avenida Senador Joaquim Pires s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Luís Correia",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64220971",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Luís Correia"
+    },
+    "ibge": 2205706,
+    "logradouro": "Avenida Senador Joaquim Pires, s\/n  AGC Camurupim;"
 }

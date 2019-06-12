@@ -1,12 +1,12 @@
 {
-  "cep": "31742453",
-  "logradouro": "Rua Manoel Pedro da Costa",
-  "bairro": "Jardim Felicidade",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Felicidade;",
+    "cep": "31742453",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Manoel Pedro da Costa;"
 }

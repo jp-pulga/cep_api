@@ -1,12 +1,12 @@
 {
-  "cep": "13734020",
-  "logradouro": "Rua Pedro Granito",
-  "bairro": "Vila Naufel",
-  "cidade": {
-    "nome": "Mococa",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Naufel;",
+    "cep": "13734020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mococa"
+    },
+    "logradouro": "Rua Pedro Granito;"
 }

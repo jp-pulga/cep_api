@@ -1,12 +1,12 @@
 {
-  "cep": "57635970",
-  "logradouro": "AC Tanque D'Arca Rua da Paz 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tanque D'Arca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57635970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Tanque D'Arca"
+    },
+    "logradouro": "Rua da Paz, 1  AC Tanque D'Arca;"
 }

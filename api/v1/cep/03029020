@@ -1,12 +1,12 @@
 {
-  "cep": "03029020",
-  "logradouro": "Rua Coronel Silva Gomes",
-  "bairro": "Canindé",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Canindé;",
+    "cep": "03029020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Coronel Silva Gomes;"
 }

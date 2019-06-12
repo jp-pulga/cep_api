@@ -1,12 +1,12 @@
 {
-  "cep": "64057153",
-  "logradouro": "Rua João Francisco dos Santos (Lot Juruá)",
-  "bairro": "Vale Quem Tem",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Vale Quem Tem;",
+    "cep": "64057153",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua João Francisco dos Santos (Lot Juruá);"
 }

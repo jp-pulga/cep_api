@@ -1,12 +1,11 @@
 {
-  "cep": "57230000",
-  "logradouro": "Coruripe",
-  "bairro": "",
-  "cidade": {
-    "nome": "Coruripe",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57230000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Coruripe"
+    },
+    "ibge": 2702306
 }

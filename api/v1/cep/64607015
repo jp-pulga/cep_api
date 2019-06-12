@@ -1,12 +1,12 @@
 {
-  "cep": "64607015",
-  "logradouro": "Rua Marcos Parente",
-  "bairro": "Boa Sorte",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Boa Sorte;",
+    "cep": "64607015",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Marcos Parente;"
 }

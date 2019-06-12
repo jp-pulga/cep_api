@@ -1,12 +1,12 @@
 {
-  "cep": "13322395",
-  "logradouro": "Rua Paulo Bonito Júnior",
-  "bairro": "Sítio Santa Terezinha",
-  "cidade": {
-    "nome": "Salto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sítio Santa Terezinha;",
+    "cep": "13322395",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Salto"
+    },
+    "logradouro": "Rua Paulo Bonito Júnior;"
 }

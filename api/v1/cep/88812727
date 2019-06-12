@@ -1,12 +1,12 @@
 {
-  "cep": "88812727",
-  "logradouro": "Travessa João Pereira",
-  "bairro": "Buenos Aires",
-  "cidade": {
-    "nome": "Criciúma",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Buenos Aires;",
+    "cep": "88812727",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Criciúma"
+    },
+    "logradouro": "Travessa João Pereira;"
 }

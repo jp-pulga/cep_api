@@ -1,12 +1,12 @@
 {
-  "cep": "44054418",
-  "logradouro": "Rua Nossa Senhora de Lourdes",
-  "bairro": "Parque Ipê",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Ipê;",
+    "cep": "44054418",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Nossa Senhora de Lourdes;"
 }

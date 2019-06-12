@@ -1,12 +1,13 @@
 {
-  "cep": "64630970",
-  "logradouro": "AC Bocaina Praça Cícero Gomes 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bocaina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64630970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Bocaina"
+    },
+    "ibge": 2201804,
+    "logradouro": "Praça Cícero Gomes, 160  AC Bocaina;"
 }

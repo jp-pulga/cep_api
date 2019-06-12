@@ -1,12 +1,13 @@
 {
-  "cep": "67013090",
-  "logradouro": "Avenida Metrópolis (City Park)",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Atalaia;",
+    "cep": "67013090",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Avenida Metrópolis (City Park);"
 }

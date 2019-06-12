@@ -1,12 +1,12 @@
 {
-  "cep": "12405040",
-  "logradouro": "Rua Francisco Antunes dos Santos",
-  "bairro": "Vila Suiça",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Suiça;",
+    "cep": "12405040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Rua Francisco Antunes dos Santos;"
 }

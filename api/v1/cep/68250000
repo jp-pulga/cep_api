@@ -1,12 +1,11 @@
 {
-  "cep": "68250000",
-  "logradouro": "Óbidos",
-  "bairro": "",
-  "cidade": {
-    "nome": "Óbidos",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68250000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Óbidos"
+    },
+    "ibge": 1505106
 }

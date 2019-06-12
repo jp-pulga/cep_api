@@ -1,12 +1,11 @@
 {
-  "cep": "68685000",
-  "logradouro": "Concórdia do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Concórdia do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68685000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Concórdia do Pará"
+    },
+    "ibge": 1502756
 }

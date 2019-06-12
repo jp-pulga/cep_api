@@ -1,12 +1,11 @@
 {
-  "cep": "58580000",
-  "logradouro": "Serra Branca",
-  "bairro": "",
-  "cidade": {
-    "nome": "Serra Branca",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "cep": "58580000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Serra Branca"
+    },
+    "ibge": 2515500
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "64048440",
-  "logradouro": "Rua Hugo Napoleão",
-  "bairro": "Ininga",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Ininga;",
+    "cep": "64048440",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Hugo Napoleão;"
 }

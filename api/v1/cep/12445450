@@ -1,12 +1,12 @@
 {
-  "cep": "12445450",
-  "logradouro": "Avenida Benedito Francisco dos Santos (Dito Roseira)",
-  "bairro": "Residencial Primavera",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Primavera;",
+    "cep": "12445450",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Avenida Benedito Francisco dos Santos (Dito Roseira);"
 }

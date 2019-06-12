@@ -1,12 +1,12 @@
 {
-  "cep": "29182527",
-  "logradouro": "Rua Maria Pereira Pimentel",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "29182527",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Maria Pereira Pimentel;"
 }

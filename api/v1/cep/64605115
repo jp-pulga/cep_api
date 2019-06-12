@@ -1,12 +1,13 @@
 {
-  "cep": "64605115",
-  "logradouro": "Quadra 08 (Conj Picos II)",
-  "bairro": "Pedrinhas",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Pedrinhas;",
+    "cep": "64605115",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "ibge": 2208007,
+    "logradouro": "Quadra 08 (Conj Picos II);"
 }

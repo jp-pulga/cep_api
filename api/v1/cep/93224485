@@ -1,12 +1,12 @@
 {
-  "cep": "93224485",
-  "logradouro": "Rua Anjo Rafael (Parada dos Santos)",
-  "bairro": "Pasqualini",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pasqualini;",
+    "cep": "93224485",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Anjo Rafael (Parada dos Santos);"
 }

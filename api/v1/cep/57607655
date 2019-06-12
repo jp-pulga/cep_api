@@ -1,12 +1,13 @@
 {
-  "cep": "57607655",
-  "logradouro": "Rua Claudina I. Almeida",
-  "bairro": "Vila Maria",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Vila Maria;",
+    "cep": "57607655",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rua Claudina J. Almeida;"
 }

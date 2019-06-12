@@ -1,12 +1,13 @@
 {
-  "cep": "64710970",
-  "logradouro": "AC Paes Landim Travessa São José 109",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paes Landim",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64710970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Paes Landim"
+    },
+    "ibge": 2207306,
+    "logradouro": "Travessa São José, 109  AC Paes Landim;"
 }

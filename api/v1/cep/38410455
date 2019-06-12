@@ -1,12 +1,12 @@
 {
-  "cep": "38410455",
-  "logradouro": "Rua Eurico Adelino Mendes (Campo Alegre)",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "38410455",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Eurico Adelino Mendes (Campo Alegre);"
 }

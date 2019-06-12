@@ -1,12 +1,12 @@
 {
-  "cep": "64218800",
-  "logradouro": "Rua Jaicós",
-  "bairro": "Nova Parnaíba",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Nova Parnaíba;",
+    "cep": "64218800",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Jaicós;"
 }

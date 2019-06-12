@@ -1,12 +1,13 @@
 {
-  "cep": "57510970",
-  "logradouro": "AC Poço das Trincheiras Rua São Sebastião 101",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poço das Trincheiras",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57510970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Poço das Trincheiras"
+    },
+    "ibge": 2707206,
+    "logradouro": "Rua São Sebastião, 101  AC Poço das Trincheiras;"
 }

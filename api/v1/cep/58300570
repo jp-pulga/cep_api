@@ -1,12 +1,13 @@
 {
-  "cep": "58300570",
-  "logradouro": "Praça Amaro Ferraz",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "58300570",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "ibge": 2513703,
+    "logradouro": "Praça Amaro Ferraz;"
 }

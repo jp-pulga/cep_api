@@ -1,12 +1,13 @@
 {
-  "cep": "64690970",
-  "logradouro": "AC Fronteiras Praça Getúlio Vargas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fronteiras",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64690970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Fronteiras"
+    },
+    "ibge": 2204303,
+    "logradouro": "Praça Getúlio Vargas, s\/n  AC Fronteiras;"
 }

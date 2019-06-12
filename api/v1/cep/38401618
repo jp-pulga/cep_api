@@ -1,12 +1,12 @@
 {
-  "cep": "38401618",
-  "logradouro": "Alameda Terezinha Bezerra Pereira",
-  "bairro": "Residencial Gramado",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Gramado;",
+    "cep": "38401618",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Alameda Terezinha Bezerra Pereira;"
 }

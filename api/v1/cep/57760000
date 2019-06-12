@@ -1,12 +1,11 @@
 {
-  "cep": "57760000",
-  "logradouro": "Chã Preta",
-  "bairro": "",
-  "cidade": {
-    "nome": "Chã Preta",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57760000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Chã Preta"
+    },
+    "ibge": 2701902
 }

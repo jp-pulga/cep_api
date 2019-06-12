@@ -1,12 +1,12 @@
 {
-  "cep": "69153140",
-  "logradouro": "Rua Itapiranga",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "69153140",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Itapiranga;"
 }

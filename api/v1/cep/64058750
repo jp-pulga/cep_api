@@ -1,12 +1,12 @@
 {
-  "cep": "64058750",
-  "logradouro": "Rua Barra Santa",
-  "bairro": "Santa Lia",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Santa Lia;",
+    "cep": "64058750",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Barra Santa;"
 }

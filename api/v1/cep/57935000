@@ -1,12 +1,11 @@
 {
-  "cep": "57935000",
-  "logradouro": "Paripueira",
-  "bairro": "",
-  "cidade": {
-    "nome": "Paripueira",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57935000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Paripueira"
+    },
+    "ibge": 2706448
 }

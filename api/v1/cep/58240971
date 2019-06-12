@@ -1,12 +1,13 @@
 {
-  "cep": "58240971",
-  "logradouro": "AGC Cachoerinha Distrito Cachoeirinha s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tacima",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58240971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Tacima"
+    },
+    "ibge": 2516409,
+    "logradouro": "Distrito Cachoeirinha, s\/n  AGC Cachoerinha;"
 }

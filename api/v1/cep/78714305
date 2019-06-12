@@ -1,12 +1,12 @@
 {
-  "cep": "78714305",
-  "logradouro": "Rua Pará",
-  "bairro": "Jardim Ipê",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Ipê;",
+    "cep": "78714305",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Pará;"
 }

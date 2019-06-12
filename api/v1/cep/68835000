@@ -1,12 +1,11 @@
 {
-  "cep": "68835000",
-  "logradouro": "Muta (Ponta de Pedras)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Muta (Ponta de Pedras)",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68835000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ponta de Pedras"
+    },
+    "ibge": 1505700
 }

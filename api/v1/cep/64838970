@@ -1,12 +1,13 @@
 {
-  "cep": "64838970",
-  "logradouro": "AC Pavussu Rua José Salustiano da Silva 985",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pavussu",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64838970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Pavussu"
+    },
+    "ibge": 2207850,
+    "logradouro": "Rua José Salustiano da Silva, 985  AC Pavussu;"
 }

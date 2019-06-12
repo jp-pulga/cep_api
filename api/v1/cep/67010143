@@ -1,12 +1,13 @@
 {
-  "cep": "67010143",
-  "logradouro": "Alameda da Paz",
-  "bairro": "Guanabara",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Guanabara;",
+    "cep": "67010143",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Alameda da Paz;"
 }

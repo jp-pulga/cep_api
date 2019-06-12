@@ -1,12 +1,12 @@
 {
-  "cep": "94920190",
-  "logradouro": "Rua Doutor Nilo Peçanha",
-  "bairro": "Vila Jardim América",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Jardim América;",
+    "cep": "94920190",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Doutor Nilo Peçanha;"
 }

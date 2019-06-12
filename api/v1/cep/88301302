@@ -1,12 +1,12 @@
 {
-  "cep": "88301302",
-  "logradouro": "Avenida Coronel Marcos Konder de 800 ao fim - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "88301302",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Avenida Coronel Marcos Konder - de 800 ao fim - lado par;"
 }

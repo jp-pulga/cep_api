@@ -1,12 +1,12 @@
 {
-  "cep": "08762160",
-  "logradouro": "Alameda Jundiaí",
-  "bairro": "Jardim Santos Dumont II",
-  "cidade": {
-    "nome": "Mogi das Cruzes",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santos Dumont II;",
+    "cep": "08762160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi das Cruzes"
+    },
+    "logradouro": "Alameda Jundiaí;"
 }

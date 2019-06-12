@@ -1,12 +1,13 @@
 {
-  "cep": "58394970",
-  "logradouro": "AC Borborema Praça José Amâncio Ramalho 06",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Borborema",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58394970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Borborema"
+    },
+    "ibge": 2502706,
+    "logradouro": "Praça José Amâncio Ramalho, 06  AC Borborema;"
 }

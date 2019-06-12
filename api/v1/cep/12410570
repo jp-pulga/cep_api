@@ -1,12 +1,12 @@
 {
-  "cep": "12410570",
-  "logradouro": "Rua São Sebastião",
-  "bairro": "Parque São Domingos",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Domingos;",
+    "cep": "12410570",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Rua São Sebastião;"
 }

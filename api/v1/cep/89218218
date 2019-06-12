@@ -1,12 +1,12 @@
 {
-  "cep": "89218218",
-  "logradouro": "Rua Petrolândia",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Joinville",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "89218218",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Joinville"
+    },
+    "logradouro": "Rua Petrolândia;"
 }

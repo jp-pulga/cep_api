@@ -1,12 +1,12 @@
 {
-  "cep": "33805295",
-  "logradouro": "Rua Felipe Andrade da Glória",
-  "bairro": "Nossa Senhora das Neves",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Neves;",
+    "cep": "33805295",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Felipe Andrade da Glória;"
 }

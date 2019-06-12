@@ -1,12 +1,13 @@
 {
-  "cep": "57082035",
-  "logradouro": "Rua Castro Alves",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "57082035",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "ibge": 2704302,
+    "logradouro": "Rua Castro Alves;"
 }

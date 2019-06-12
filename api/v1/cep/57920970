@@ -1,12 +1,13 @@
 {
-  "cep": "57920970",
-  "logradouro": "AC São Luís do Quitunde Rua Doutor Fernando Sarmento 275",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Luís do Quitunde",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57920970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "São Luís do Quitunde"
+    },
+    "ibge": 2708501,
+    "logradouro": "Rua Doutor Fernando Sarmento, 275  AC São Luís do Quitunde;"
 }

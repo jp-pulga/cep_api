@@ -1,12 +1,12 @@
 {
-  "cep": "49055290",
-  "logradouro": "Travessa Gararu",
-  "bairro": "Getúlio Vargas",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Getúlio Vargas;",
+    "cep": "49055290",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Travessa Gararu;"
 }

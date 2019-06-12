@@ -1,12 +1,12 @@
 {
-  "cep": "03726100",
-  "logradouro": "Rua Augusto Correa Leite",
-  "bairro": "Engenheiro Goulart",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Engenheiro Goulart;",
+    "cep": "03726100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Augusto Correa Leite;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "49003352",
-  "logradouro": "Rua João Batista Perez Garcia Moreno",
-  "bairro": "17 de Março",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "17 de Março;",
+    "cep": "49003352",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua João Batista Perez Garcia Moreno;"
 }

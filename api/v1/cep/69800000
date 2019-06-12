@@ -1,12 +1,11 @@
 {
-  "cep": "69800000",
-  "logradouro": "Humaitá",
-  "bairro": "",
-  "cidade": {
-    "nome": "Humaitá",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69800000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Humaitá"
+    },
+    "ibge": 1301704
 }

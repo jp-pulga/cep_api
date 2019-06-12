@@ -1,12 +1,11 @@
 {
-  "cep": "68815000",
-  "logradouro": "Curralinho",
-  "bairro": "",
-  "cidade": {
-    "nome": "Curralinho",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68815000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Curralinho"
+    },
+    "ibge": 1502806
 }

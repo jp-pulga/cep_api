@@ -1,12 +1,11 @@
 {
-  "cep": "58175000",
-  "logradouro": "Cuité",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cuité",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "cep": "58175000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cuité"
+    },
+    "ibge": 2505105
 }

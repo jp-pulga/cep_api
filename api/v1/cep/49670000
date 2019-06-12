@@ -1,12 +1,11 @@
 {
-  "cep": "49670000",
-  "logradouro": "Feira Nova",
-  "bairro": "",
-  "cidade": {
-    "nome": "Feira Nova",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "cep": "49670000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Feira Nova"
+    },
+    "ibge": 2802205
 }

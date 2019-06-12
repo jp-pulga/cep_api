@@ -1,12 +1,12 @@
 {
-  "cep": "35650975",
-  "logradouro": "AGC Rio do Peixe Praça São José 19",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pitangui",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35650975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pitangui"
+    },
+    "logradouro": "Praça São José, 19  AGC Rio do Peixe;"
 }

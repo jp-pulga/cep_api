@@ -1,12 +1,12 @@
 {
-  "cep": "58309610",
-  "logradouro": "Rua Nossa Senhora de Fátima",
-  "bairro": "Mário Andreazza",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mário Andreazza;",
+    "cep": "58309610",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Nossa Senhora de Fátima;"
 }

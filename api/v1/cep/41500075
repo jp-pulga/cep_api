@@ -1,12 +1,12 @@
 {
-  "cep": "41500075",
-  "logradouro": "Rua do Pau D'Arco",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "41500075",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua do Pau D'Arco;"
 }

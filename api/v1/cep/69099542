@@ -1,12 +1,12 @@
 {
-  "cep": "69099542",
-  "logradouro": "Rua Petrolândia (A Nasciemnto)",
-  "bairro": "Cidade de Deus",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade de Deus;",
+    "cep": "69099542",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Petrolândia;"
 }

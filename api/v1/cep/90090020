@@ -1,12 +1,12 @@
 {
-  "cep": "90090020",
-  "logradouro": "Rua Brasileira (Ilha da Pintada)",
-  "bairro": "Arquipélago",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arquipélago;",
+    "cep": "90090020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Brasileira (Ilha da Pintada);"
 }

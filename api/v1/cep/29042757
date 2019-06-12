@@ -1,12 +1,12 @@
 {
-  "cep": "29042757",
-  "logradouro": "Rua Nossa Senhora das Graças",
-  "bairro": "de Lourdes",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "de Lourdes;",
+    "cep": "29042757",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Nossa Senhora das Graças;"
 }

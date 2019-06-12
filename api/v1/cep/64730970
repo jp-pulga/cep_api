@@ -1,12 +1,13 @@
 {
-  "cep": "64730970",
-  "logradouro": "AC Campinas do Piauí Rua José Jenuíno da Silva 1105",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campinas do Piauí",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64730970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Campinas do Piauí"
+    },
+    "ibge": 2202109,
+    "logradouro": "Rua José Jenuíno da Silva, 1105  AC Campinas do Piauí;"
 }

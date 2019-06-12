@@ -1,12 +1,11 @@
 {
-  "cep": "57890000",
-  "logradouro": "Ibateguara",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ibateguara",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57890000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Ibateguara"
+    },
+    "ibge": 2703007
 }

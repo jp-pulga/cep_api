@@ -1,12 +1,11 @@
 {
-  "cep": "68644000",
-  "logradouro": "Santa Luzia do Pará",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Luzia do Pará",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68644000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Santa Luzia do Pará"
+    },
+    "ibge": 1506559
 }

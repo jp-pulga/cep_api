@@ -1,12 +1,12 @@
 {
-  "cep": "90430070",
-  "logradouro": "Largo dos Caixeiros Viajantes",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "90430070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Largo dos Caixeiros Viajantes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69079000",
-  "logradouro": "Avenida Codajás",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69079000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Codajás;"
 }

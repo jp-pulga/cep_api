@@ -1,12 +1,13 @@
 {
-  "cep": "58410000",
-  "logradouro": "Avenida Professor Almeida Barreto",
-  "bairro": "Estação Velha",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Estação Velha;",
+    "cep": "58410000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "ibge": 2504009,
+    "logradouro": "Avenida Professor Almeida Barreto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "88512358",
-  "logradouro": "Rua Cecília Langaro",
-  "bairro": "Santa Catarina",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Catarina;",
+    "cep": "88512358",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Cecília Langaro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "69086475",
-  "logradouro": "Avenida Cosme Ferreira",
-  "bairro": "Gilberto Mestrinho",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Gilberto Mestrinho;",
+    "cep": "69086475",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "ibge": 1302603,
+    "logradouro": "Avenida Cosme Ferreira;"
 }

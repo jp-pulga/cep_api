@@ -1,12 +1,12 @@
 {
-  "cep": "78718138",
-  "logradouro": "Avenida Paraíba",
-  "bairro": "Vila Duarte",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Duarte;",
+    "cep": "78718138",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Paraíba;"
 }

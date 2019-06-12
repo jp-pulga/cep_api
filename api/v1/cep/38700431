@@ -1,12 +1,12 @@
 {
-  "cep": "38700431",
-  "logradouro": "Avenida Piauí",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "38700431",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Avenida Piauí;"
 }

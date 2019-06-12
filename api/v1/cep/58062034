@@ -1,12 +1,12 @@
 {
-  "cep": "58062034",
-  "logradouro": "Rua José Roberto Gurjão Guedes",
-  "bairro": "Paratibe",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Paratibe;",
+    "cep": "58062034",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua José Roberto Gurjão Guedes;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "68775000",
-  "logradouro": "São Caetano de Odivelas",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Caetano de Odivelas",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68775000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "São Caetano de Odivelas"
+    },
+    "ibge": 1507102
 }

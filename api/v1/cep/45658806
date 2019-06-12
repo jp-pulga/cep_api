@@ -1,12 +1,12 @@
 {
-  "cep": "45658806",
-  "logradouro": "Travessa Nossa Senhora de Lourdes",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Esperança;",
+    "cep": "45658806",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Travessa Nossa Senhora de Lourdes;"
 }

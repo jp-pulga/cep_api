@@ -1,12 +1,12 @@
 {
-  "cep": "69088758",
-  "logradouro": "Travessa dos Cedros",
-  "bairro": "Jorge Teixeira",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Jorge Teixeira;",
+    "cep": "69088758",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa dos Cedros;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47800034",
-  "logradouro": "Praça da Bandeira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47800034",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Praça da Bandeira;"
 }

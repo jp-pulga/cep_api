@@ -1,12 +1,11 @@
 {
-  "cep": "69860000",
-  "logradouro": "Pauini",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pauini",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "cep": "69860000",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Pauini"
+    },
+    "ibge": 1303502
 }

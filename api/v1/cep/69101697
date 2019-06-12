@@ -1,12 +1,13 @@
 {
-  "cep": "69101697",
-  "logradouro": "Rua Primavera de 3677 ao fim - lado ímpar",
-  "bairro": "Mamoud Amed",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Mamoud Amed;",
+    "cep": "69101697",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "ibge": 1301902,
+    "logradouro": "Rua Primavera - de 3677 ao fim - lado ímpar;"
 }

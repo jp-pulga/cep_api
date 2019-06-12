@@ -1,12 +1,12 @@
 {
-  "cep": "69065360",
-  "logradouro": "Travessa Borba",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cachoeirinha;",
+    "cep": "69065360",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Borba;"
 }

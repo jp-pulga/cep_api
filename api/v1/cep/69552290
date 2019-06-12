@@ -1,12 +1,13 @@
 {
-  "cep": "69552290",
-  "logradouro": "Avenida Juruá de 489/490 ao fim",
-  "bairro": "Juruá",
-  "cidade": {
-    "nome": "Tefé",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Juruá;",
+    "cep": "69552290",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Tefé"
+    },
+    "ibge": 1304203,
+    "logradouro": "Avenida Juruá - de 489\/490 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58410022",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "Estação Velha",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Estação Velha;",
+    "cep": "58410022",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

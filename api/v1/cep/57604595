@@ -1,12 +1,13 @@
 {
-  "cep": "57604595",
-  "logradouro": "Rodovia AL 115",
-  "bairro": "Graciliano Ramos",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Graciliano Ramos;",
+    "cep": "57604595",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Rodovia AL 115;"
 }

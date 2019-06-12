@@ -1,12 +1,12 @@
 {
-  "cep": "64607295",
-  "logradouro": "Rua Francisco João dos Santos",
-  "bairro": "Catavento",
-  "cidade": {
-    "nome": "Picos",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Catavento;",
+    "cep": "64607295",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Picos"
+    },
+    "logradouro": "Rua Francisco João dos Santos;"
 }

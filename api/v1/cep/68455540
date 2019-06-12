@@ -1,12 +1,13 @@
 {
-  "cep": "68455540",
-  "logradouro": "Rua Um (Parque Residencial)",
-  "bairro": "Setor Novo Oeste",
-  "cidade": {
-    "nome": "Tucuruí",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Setor Novo Oeste;",
+    "cep": "68455540",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Tucuruí"
+    },
+    "ibge": 1508100,
+    "logradouro": "Rua Um (Parque Residencial);"
 }

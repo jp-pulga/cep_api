@@ -1,12 +1,12 @@
 {
-  "cep": "64218830",
-  "logradouro": "Rua Jaicós",
-  "bairro": "Bebedouro",
-  "cidade": {
-    "nome": "Parnaíba",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Bebedouro;",
+    "cep": "64218830",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Parnaíba"
+    },
+    "logradouro": "Rua Jaicós;"
 }

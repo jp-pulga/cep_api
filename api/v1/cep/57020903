@@ -1,12 +1,12 @@
 {
-  "cep": "57020903",
-  "logradouro": "Edifício Delmiro Gouveia Praça dos Palmares 36",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57020903",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Praça dos Palmares, 36  Edifício Delmiro Gouveia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29209078",
-  "logradouro": "Rua Nossa Senhora Aparecida",
-  "bairro": "Condados",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Condados;",
+    "cep": "29209078",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Nossa Senhora Aparecida;"
 }

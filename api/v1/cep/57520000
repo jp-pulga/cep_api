@@ -1,12 +1,11 @@
 {
-  "cep": "57520000",
-  "logradouro": "Maravilha",
-  "bairro": "",
-  "cidade": {
-    "nome": "Maravilha",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "cep": "57520000",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maravilha"
+    },
+    "ibge": 2704609
 }

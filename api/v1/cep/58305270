@@ -1,12 +1,12 @@
 {
-  "cep": "58305270",
-  "logradouro": "Rua Alexandrino de Santana",
-  "bairro": "São Bento",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "São Bento;",
+    "cep": "58305270",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Rua Alexandrino de Santana;"
 }

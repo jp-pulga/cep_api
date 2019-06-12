@@ -1,12 +1,11 @@
 {
-  "cep": "68388000",
-  "logradouro": "Bannach",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bannach",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68388000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Bannach"
+    },
+    "ibge": 1501253
 }

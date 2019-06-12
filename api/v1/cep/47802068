@@ -1,12 +1,12 @@
 {
-  "cep": "47802068",
-  "logradouro": "Rua Edmundo Cedro",
-  "bairro": "Sandra Regina",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sandra Regina;",
+    "cep": "47802068",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Edmundo Cedro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07170380",
-  "logradouro": "Rua Cachoeira do Arari",
-  "bairro": "Cidade Parque São Luiz",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Parque São Luiz;",
+    "cep": "07170380",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Cachoeira do Arari;"
 }

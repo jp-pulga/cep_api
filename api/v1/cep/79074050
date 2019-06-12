@@ -1,12 +1,12 @@
 {
-  "cep": "79074050",
-  "logradouro": "Rua Padre Julião Urquiza",
-  "bairro": "Jardim Monte Alegre",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Jardim Monte Alegre;",
+    "cep": "79074050",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Padre Julião Urquiza;"
 }

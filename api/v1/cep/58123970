@@ -1,12 +1,13 @@
 {
-  "cep": "58123970",
-  "logradouro": "AC Boa Vista Rua Prefeito Severino Bezerra Cabral 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Vista",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58123970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Boa Vista"
+    },
+    "ibge": 2502151,
+    "logradouro": "Rua Prefeito Severino Bezerra Cabral, 86  AC Boa Vista;"
 }

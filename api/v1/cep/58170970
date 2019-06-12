@@ -1,12 +1,13 @@
 {
-  "cep": "58170970",
-  "logradouro": "AC Barra de Santa Rosa Rua Oito de Maio 24",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra de Santa Rosa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58170970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Barra de Santa Rosa"
+    },
+    "ibge": 2501609,
+    "logradouro": "Rua Oito de Maio, 24  AC Barra de Santa Rosa;"
 }

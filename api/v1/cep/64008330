@@ -1,12 +1,12 @@
 {
-  "cep": "64008330",
-  "logradouro": "Rua Jornalista Eudes Pereira",
-  "bairro": "Buenos Aires",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Buenos Aires;",
+    "cep": "64008330",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Jornalista Eudes Pereira;"
 }

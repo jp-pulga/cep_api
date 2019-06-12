@@ -1,12 +1,13 @@
 {
-  "cep": "57750970",
-  "logradouro": "AC Quebrangulo Praça Major Cícero de Góes Monteiro 152",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quebrangulo",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "57750970",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Quebrangulo"
+    },
+    "ibge": 2707602,
+    "logradouro": "Praça Major Cícero de Góes Monteiro, 152  AC Quebrangulo;"
 }

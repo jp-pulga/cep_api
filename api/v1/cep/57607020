@@ -1,12 +1,13 @@
 {
-  "cep": "57607020",
-  "logradouro": "Avenida Alagoas de 111/112 ao fim",
-  "bairro": "Jardim Brasil",
-  "cidade": {
-    "nome": "Palmeira dos Índios",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jardim Brasil;",
+    "cep": "57607020",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Palmeira dos Índios"
+    },
+    "ibge": 2706307,
+    "logradouro": "Avenida Alagoas - de 111\/112 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "02256010",
-  "logradouro": "Rua Sebastião de Freitas",
-  "bairro": "Vila Constança",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Constança;",
+    "cep": "02256010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Sebastião de Freitas;"
 }

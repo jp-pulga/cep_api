@@ -1,12 +1,11 @@
 {
-  "cep": "68198000",
-  "logradouro": "Trairão",
-  "bairro": "",
-  "cidade": {
-    "nome": "Trairão",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68198000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Trairão"
+    },
+    "ibge": 1508050
 }

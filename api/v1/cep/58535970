@@ -1,12 +1,13 @@
 {
-  "cep": "58535970",
-  "logradouro": "AC Congo Avenida Vicente Nogueira Batista s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Congo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58535970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Congo"
+    },
+    "ibge": 2504702,
+    "logradouro": "Avenida Vicente Nogueira Batista, s\/n  AC Congo;"
 }

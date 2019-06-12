@@ -1,12 +1,12 @@
 {
-  "cep": "64046490",
-  "logradouro": "Rua Deputado Costa Andrade",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "64046490",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Deputado Costa Andrade;"
 }

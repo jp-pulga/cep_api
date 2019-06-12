@@ -1,12 +1,12 @@
 {
-  "cep": "78721514",
-  "logradouro": "Rua Exuperio Alves Pereira",
-  "bairro": "Residencial Vila Mineira",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Vila Mineira;",
+    "cep": "78721514",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Exuperio Alves Pereira;"
 }

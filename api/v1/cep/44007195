@@ -1,12 +1,12 @@
 {
-  "cep": "44007195",
-  "logradouro": "Avenida Rio de Janeiro de 393 a 1127 - lado ímpar",
-  "bairro": "Pedra do Descanso",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pedra do Descanso;",
+    "cep": "44007195",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Deputado Francisco José Pinto dos Santos - de 393 a 1127 - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69086744",
-  "logradouro": "Rua Jutaírana",
-  "bairro": "Gilberto Mestrinho",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Gilberto Mestrinho;",
+    "cep": "69086744",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Jutaírana;"
 }

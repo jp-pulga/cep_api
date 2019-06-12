@@ -1,12 +1,12 @@
 {
-  "cep": "13188151",
-  "logradouro": "Rua Borba Gato",
-  "bairro": "Jardim Amanda II",
-  "cidade": {
-    "nome": "Hortolândia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Amanda II;",
+    "cep": "13188151",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Hortolândia"
+    },
+    "logradouro": "Rua Borba Gato;"
 }

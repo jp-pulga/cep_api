@@ -1,12 +1,12 @@
 {
-  "cep": "13871156",
-  "logradouro": "Rua Sebastião Ribeiro Paiva",
-  "bairro": "Jardim Dona Tereza",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Dona Tereza;",
+    "cep": "13871156",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua Sebastião Ribeiro Paiva;"
 }

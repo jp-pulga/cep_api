@@ -1,12 +1,12 @@
 {
-  "cep": "07191190",
-  "logradouro": "Rua Nossa Senhora Aparecida",
-  "bairro": "Vila Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nossa Senhora de Fátima;",
+    "cep": "07191190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Nossa Senhora Aparecida;"
 }

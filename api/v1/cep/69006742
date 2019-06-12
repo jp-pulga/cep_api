@@ -1,12 +1,12 @@
 {
-  "cep": "69006742",
-  "logradouro": "Rua Maués",
-  "bairro": "Gilberto Mestrinho",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Gilberto Mestrinho;",
+    "cep": "69006742",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Maués;"
 }

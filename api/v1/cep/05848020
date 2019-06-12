@@ -1,12 +1,12 @@
 {
-  "cep": "05848020",
-  "logradouro": "Rua Curuari",
-  "bairro": "Jardim Germânia",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Germânia;",
+    "cep": "05848020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Curuari;"
 }

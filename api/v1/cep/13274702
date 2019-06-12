@@ -1,12 +1,12 @@
 {
-  "cep": "13274702",
-  "logradouro": "Alameda dos Cajueiros",
-  "bairro": "Parque Valinhos",
-  "cidade": {
-    "nome": "Valinhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Valinhos;",
+    "cep": "13274702",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Valinhos"
+    },
+    "logradouro": "Alameda dos Cajueiros;"
 }

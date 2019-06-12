@@ -1,12 +1,12 @@
 {
-  "cep": "45821419",
-  "logradouro": "Rua Cedro",
-  "bairro": "Colonial",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Colonial;",
+    "cep": "45821419",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Cedro;"
 }

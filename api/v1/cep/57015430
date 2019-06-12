@@ -1,12 +1,12 @@
 {
-  "cep": "57015430",
-  "logradouro": "Avenida Senador Rui Palmeira",
-  "bairro": "Vergel do Lago",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Vergel do Lago;",
+    "cep": "57015430",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Senador Rui Palmeira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "66095903",
-  "logradouro": "Embrapa-Empresa Brasileira de Pesquisa Agropecuária Conjunto Enéas Pinheiro s/n",
-  "bairro": "Marco",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Marco;",
+    "cep": "66095903",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Conjunto Enéas Pinheiro, s\/n  Embrapa-Empresa Brasileira de Pesquisa Agropecuária;"
 }

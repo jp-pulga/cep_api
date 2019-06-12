@@ -1,12 +1,12 @@
 {
-  "cep": "69079265",
-  "logradouro": "Avenida Paraíba até 99998 - lado par",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "69079265",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Avenida Paraíba - até 99998 - lado par;"
 }

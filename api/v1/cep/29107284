@@ -1,12 +1,12 @@
 {
-  "cep": "29107284",
-  "logradouro": "Rua Júpiter",
-  "bairro": "Vista da Penha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista da Penha;",
+    "cep": "29107284",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Júpiter;"
 }

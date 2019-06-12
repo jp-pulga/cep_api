@@ -1,12 +1,11 @@
 {
-  "cep": "68521000",
-  "logradouro": "Brejo Grande do Araguai",
-  "bairro": "",
-  "cidade": {
-    "nome": "Brejo Grande do Araguaia",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68521000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Brejo Grande do Araguaia"
+    },
+    "ibge": 1501758
 }

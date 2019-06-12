@@ -1,12 +1,12 @@
 {
-  "cep": "68700025",
-  "logradouro": "Praça Magalhães Barata",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capanema",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "68700025",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Capanema"
+    },
+    "logradouro": "Praça Magalhães Barata;"
 }

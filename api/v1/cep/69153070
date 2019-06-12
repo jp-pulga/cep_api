@@ -1,12 +1,12 @@
 {
-  "cep": "69153070",
-  "logradouro": "Rua Urucará",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "69153070",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Urucará;"
 }

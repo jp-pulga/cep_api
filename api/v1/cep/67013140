@@ -1,12 +1,13 @@
 {
-  "cep": "67013140",
-  "logradouro": "Alameda São Paulo",
-  "bairro": "Atalaia",
-  "cidade": {
-    "nome": "Ananindeua",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Atalaia;",
+    "cep": "67013140",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ananindeua"
+    },
+    "ibge": 1500800,
+    "logradouro": "Alameda São Paulo;"
 }

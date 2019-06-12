@@ -1,12 +1,12 @@
 {
-  "cep": "58081300",
-  "logradouro": "Rua Luiz Carlos Crispim Pimentel até 9999 - lado esquerdo",
-  "bairro": "Costa e Silva",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Costa e Silva;",
+    "cep": "58081300",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Luiz Carlos Crispim Pimentel;"
 }

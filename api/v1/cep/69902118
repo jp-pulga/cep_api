@@ -1,12 +1,12 @@
 {
-  "cep": "69902118",
-  "logradouro": "Rua 7",
-  "bairro": "Loteamento Jardim São Francisco",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Loteamento Jardim São Francisco;",
+    "cep": "69902118",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua 7;"
 }

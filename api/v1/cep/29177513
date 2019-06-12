@@ -1,12 +1,12 @@
 {
-  "cep": "29177513",
-  "logradouro": "Rua São Luiz",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "29177513",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua São Luiz;"
 }

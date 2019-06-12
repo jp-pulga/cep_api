@@ -1,12 +1,12 @@
 {
-  "cep": "88137260",
-  "logradouro": "Rua das Cegonhas",
-  "bairro": "Pedra Branca",
-  "cidade": {
-    "nome": "Palhoça",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Pedra Branca;",
+    "cep": "88137260",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Palhoça"
+    },
+    "logradouro": "Rua das Cegonhas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07250172",
-  "logradouro": "Rua Angical do Piauí",
-  "bairro": "Cidade Aracilia",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Aracilia;",
+    "cep": "07250172",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Angical do Piauí;"
 }

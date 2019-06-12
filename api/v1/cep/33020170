@@ -1,12 +1,12 @@
 {
-  "cep": "33020170",
-  "logradouro": "Avenida Paraguai",
-  "bairro": "Industrial Americano",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial Americano;",
+    "cep": "33020170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Avenida Paraguai;"
 }

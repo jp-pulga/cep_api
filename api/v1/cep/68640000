@@ -1,12 +1,11 @@
 {
-  "cep": "68640000",
-  "logradouro": "Ourém",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ourém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68640000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Ourém"
+    },
+    "ibge": 1505403
 }

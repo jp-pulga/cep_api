@@ -1,12 +1,13 @@
 {
-  "cep": "58822970",
-  "logradouro": "AC Vieirópolis Rua Doutor Antonio Pinto Oliveira 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vieirópolis",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58822970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Vieirópolis"
+    },
+    "ibge": 2517209,
+    "logradouro": "Rua Doutor Antonio Pinto Oliveira, 14  AC Vieirópolis;"
 }

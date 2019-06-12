@@ -1,12 +1,12 @@
 {
-  "cep": "05124020",
-  "logradouro": "Rua Sérvio Clevinsky",
-  "bairro": "Parque São Domingos",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Domingos;",
+    "cep": "05124020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Sérvio Clevinsky;"
 }

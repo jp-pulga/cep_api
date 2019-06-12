@@ -1,12 +1,12 @@
 {
-  "cep": "58400506",
-  "logradouro": "Rua Duque de Caxias",
-  "bairro": "Prata",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Prata;",
+    "cep": "58400506",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Duque de Caxias;"
 }

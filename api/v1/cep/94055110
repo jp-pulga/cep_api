@@ -1,12 +1,12 @@
 {
-  "cep": "94055110",
-  "logradouro": "Rua Dario Alves",
-  "bairro": "Monte Belo",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Monte Belo;",
+    "cep": "94055110",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Dario Alves;"
 }

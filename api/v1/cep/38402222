@@ -1,12 +1,12 @@
 {
-  "cep": "38402222",
-  "logradouro": "Avenida Doutor Rofles Cecílio",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "38402222",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida Doutor Rofles Cecílio;"
 }

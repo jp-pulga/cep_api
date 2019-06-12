@@ -1,12 +1,11 @@
 {
-  "cep": "68773000",
-  "logradouro": "Terra Alta",
-  "bairro": "",
-  "cidade": {
-    "nome": "Terra Alta",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "cep": "68773000",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Terra Alta"
+    },
+    "ibge": 1507961
 }

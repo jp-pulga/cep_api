@@ -1,12 +1,13 @@
 {
-  "cep": "69101673",
-  "logradouro": "Rua Angelim de 3581 a 99999 - lado ímpar",
-  "bairro": "Mamoud Amed",
-  "cidade": {
-    "nome": "Itacoatiara",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Mamoud Amed;",
+    "cep": "69101673",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Itacoatiara"
+    },
+    "ibge": 1301902,
+    "logradouro": "Rua Angelim - de 3581 a 99999 - lado ímpar;"
 }

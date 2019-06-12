@@ -1,12 +1,12 @@
 {
-  "cep": "58090189",
-  "logradouro": "Rua Comerciante Heronides Farias de Lucena",
-  "bairro": "Alto do Mateus",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Mateus;",
+    "cep": "58090189",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Comerciante Heronides Farias de Lucena;"
 }

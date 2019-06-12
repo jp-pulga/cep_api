@@ -1,12 +1,12 @@
 {
-  "cep": "69089110",
-  "logradouro": "Rua Rio Tapauá",
-  "bairro": "Armando Mendes",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Armando Mendes;",
+    "cep": "69089110",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Rio Tapauá;"
 }

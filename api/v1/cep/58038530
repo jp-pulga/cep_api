@@ -1,12 +1,12 @@
 {
-  "cep": "58038530",
-  "logradouro": "Rua Ernestina Monteiro Pordeus",
-  "bairro": "Manaíra",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Manaíra;",
+    "cep": "58038530",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Ernestina Monteiro Pordeus;"
 }
