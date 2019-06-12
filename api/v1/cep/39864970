@@ -1,12 +1,13 @@
 {
-  "cep": "39864970",
-  "logradouro": "AC Carlos Chagas Praça Getúlio Vargas 09",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carlos Chagas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39864970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carlos Chagas"
+    },
+    "ibge": 3113701,
+    "logradouro": "Praça Getúlio Vargas, 09  AC Carlos Chagas;"
 }

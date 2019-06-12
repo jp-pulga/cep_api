@@ -1,12 +1,13 @@
 {
-  "cep": "38460972",
-  "logradouro": "AC Cascalho Rico Rua Elpídio de Carvalho 799",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cascalho Rico",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38460972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cascalho Rico"
+    },
+    "ibge": 3115003,
+    "logradouro": "Rua Elpídio de Carvalho, 799  AC Cascalho Rico;"
 }

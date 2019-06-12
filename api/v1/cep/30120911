@@ -1,12 +1,12 @@
 {
-  "cep": "30120911",
-  "logradouro": "Minas Brasil Seguradora Rua dos Caetés 745",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30120911",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua dos Caetés, 745  Minas Brasil Seguradora;"
 }

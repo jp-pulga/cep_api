@@ -1,12 +1,13 @@
 {
-  "cep": "36925970",
-  "logradouro": "AC Caputira Avenida Manuel Francisco de Freitas 84",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caputira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36925970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caputira"
+    },
+    "ibge": 3112901,
+    "logradouro": "Avenida Manuel Francisco de Freitas, 84  AC Caputira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39835971",
-  "logradouro": "AC Campanário Rua Largo da Independência 70",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campanário",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39835971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campanário"
+    },
+    "ibge": 3110806,
+    "logradouro": "Rua Largo da Independência, 70  AC Campanário;"
 }

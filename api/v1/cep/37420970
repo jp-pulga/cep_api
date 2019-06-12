@@ -1,12 +1,13 @@
 {
-  "cep": "37420970",
-  "logradouro": "AC Cambuquira Avenida Getúlio Vargas 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cambuquira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37420970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cambuquira"
+    },
+    "ibge": 3110707,
+    "logradouro": "Avenida Getúlio Vargas, 20  AC Cambuquira;"
 }

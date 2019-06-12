@@ -1,12 +1,13 @@
 {
-  "cep": "37527971",
-  "logradouro": "AC Conceição das Pedras Praça Francisco Rodrigues Santos 22",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição das Pedras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37527971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição das Pedras"
+    },
+    "ibge": 3117207,
+    "logradouro": "Praça Francisco Rodrigues Santos, 22  AC Conceição das Pedras;"
 }

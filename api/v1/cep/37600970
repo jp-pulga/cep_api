@@ -1,12 +1,13 @@
 {
-  "cep": "37600970",
-  "logradouro": "AC Cambuí Avenida do Carmo 660",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cambuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37600970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cambuí"
+    },
+    "ibge": 3110608,
+    "logradouro": "Avenida do Carmo, 660  AC Cambuí;"
 }

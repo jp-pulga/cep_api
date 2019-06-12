@@ -1,12 +1,13 @@
 {
-  "cep": "37430970",
-  "logradouro": "AC Conceição do Mato Verde Rua Romão Carneiro 115",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Rio Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37430970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição do Rio Verde"
+    },
+    "ibge": 3117702,
+    "logradouro": "Rua Romão Carneiro 115  AC Conceição do Mato Verde;"
 }

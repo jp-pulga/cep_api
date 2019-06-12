@@ -1,12 +1,13 @@
 {
-  "cep": "39338972",
-  "logradouro": "AC Campo Azul Rua Luiz Ruas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Azul",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39338972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campo Azul"
+    },
+    "ibge": 3111150,
+    "logradouro": "Rua Luiz Ruas, s\/n  AC Campo Azul;"
 }

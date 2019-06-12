@@ -1,12 +1,13 @@
 {
-  "cep": "38360970",
-  "logradouro": "AC Capinópolis Avenida Noventa e Nove 651",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38360970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Capinópolis"
+    },
+    "ibge": 3112604,
+    "logradouro": "Avenida Noventa e Nove, 651  AC Capinópolis;"
 }

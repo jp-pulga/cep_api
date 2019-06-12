@@ -1,12 +1,13 @@
 {
-  "cep": "36360970",
-  "logradouro": "AC Conceição da Barra de Minas Praça Cônego João Batista Trindade 146",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição da Barra de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36360970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição da Barra de Minas"
+    },
+    "ibge": 3115201,
+    "logradouro": "Praça Cônego João Batista Trindade 146  AC Conceição da Barra de Minas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39380970",
-  "logradouro": "AC Claro dos Poções Rua Amâncio Juvêncio da Fonseca 40-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Claro dos Poções",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39380970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Claro dos Poções"
+    },
+    "ibge": 3116506,
+    "logradouro": "Rua Amâncio Juvêncio da Fonseca, 40-B  AC Claro dos Poções;"
 }

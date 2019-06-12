@@ -1,12 +1,13 @@
 {
-  "cep": "33500976",
-  "logradouro": "AC Aeroporto Internacional Tancredo Neves Rodovia MG-10 km 09 Loja 26",
-  "bairro": "Aeroporto Confins",
-  "cidade": {
-    "nome": "Confins",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aeroporto Confins;",
+    "cep": "33500976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Confins"
+    },
+    "ibge": 3117876,
+    "logradouro": "Rodovia MG-10, km 09 Loja 26  AC Aeroporto Internacional Tancredo Neves;"
 }

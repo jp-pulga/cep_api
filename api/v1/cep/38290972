@@ -1,12 +1,13 @@
 {
-  "cep": "38290972",
-  "logradouro": "AGC Fátima do Pontal Rua Comércio s/n",
-  "bairro": "Fátima do Pontal",
-  "cidade": {
-    "nome": "Carneirinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fátima do Pontal;",
+    "cep": "38290972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carneirinho"
+    },
+    "ibge": 3114550,
+    "logradouro": "Rua Comércio, s\/n  AGC Fátima do Pontal;"
 }

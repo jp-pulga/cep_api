@@ -1,12 +1,13 @@
 {
-  "cep": "37930970",
-  "logradouro": "AC Capitólio Rua Doutor Avelino de Queiróz 488",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capitólio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37930970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Capitólio"
+    },
+    "ibge": 3112802,
+    "logradouro": "Rua Doutor Avelino de Queiróz, 488  AC Capitólio;"
 }

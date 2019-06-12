@@ -1,12 +1,13 @@
 {
-  "cep": "38250971",
-  "logradouro": "AC Comendador Gomes Rua Rossemiro Lopes da Silva 130",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Comendador Gomes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38250971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Comendador Gomes"
+    },
+    "ibge": 3116902,
+    "logradouro": "Rua Rossemiro Lopes da Silva, 130  AC Comendador Gomes;"
 }

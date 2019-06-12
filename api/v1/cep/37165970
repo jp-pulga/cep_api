@@ -1,12 +1,13 @@
 {
-  "cep": "37165970",
-  "logradouro": "AC Campo do Meio Rua Belmiro Bueno Almeida 561",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo do Meio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37165970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campo do Meio"
+    },
+    "ibge": 3111309,
+    "logradouro": "Rua Belmiro Bueno Almeida, 561  AC Campo do Meio;"
 }

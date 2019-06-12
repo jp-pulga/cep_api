@@ -1,12 +1,13 @@
 {
-  "cep": "35765970",
-  "logradouro": "AC Cachoeira da Prata Rua Padre João Ribeiro da Cruz 512",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira da Prata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35765970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cachoeira da Prata"
+    },
+    "ibge": 3109600,
+    "logradouro": "Rua Padre João Ribeiro da Cruz, 512  AC Cachoeira da Prata;"
 }

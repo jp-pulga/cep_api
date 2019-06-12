@@ -1,12 +1,13 @@
 {
-  "cep": "34800970",
-  "logradouro": "AC Caeté Rua Peixoto de Souza 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caeté",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "34800970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caeté"
+    },
+    "ibge": 3110004,
+    "logradouro": "Rua Peixoto de Souza, 11  AC Caeté;"
 }

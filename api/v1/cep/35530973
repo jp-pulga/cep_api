@@ -1,12 +1,13 @@
 {
-  "cep": "35530973",
-  "logradouro": "AGC Bocaina Avenida Presidente Tancredo Neves s/n",
-  "bairro": "Bocaina",
-  "cidade": {
-    "nome": "Cláudio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bocaina;",
+    "cep": "35530973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cláudio"
+    },
+    "ibge": 3116605,
+    "logradouro": "Avenida Presidente Tancredo Neves s\/n  AGC Bocaina;"
 }

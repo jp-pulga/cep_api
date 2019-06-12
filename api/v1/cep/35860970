@@ -1,12 +1,13 @@
 {
-  "cep": "35860970",
-  "logradouro": "AC Conceição do Mato Dentro Rua Crispiano Brandão 23",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Mato Dentro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35860970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição do Mato Dentro"
+    },
+    "ibge": 3117504,
+    "logradouro": "Rua Crispiano Brandão, 23  AC Conceição do Mato Dentro;"
 }

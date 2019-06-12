@@ -1,12 +1,13 @@
 {
-  "cep": "36550971",
-  "logradouro": "AC Coimbra Praça Arthur Bernardes 70 Loja 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coimbra",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36550971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coimbra"
+    },
+    "ibge": 3116704,
+    "logradouro": "Praça Arthur Bernardes, 70 Loja 1  AC Coimbra;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39648971",
-  "logradouro": "AGC Cachoeira do Norte Rua Primavera s/n",
-  "bairro": "Cachoeira do Norte",
-  "cidade": {
-    "nome": "Chapada do Norte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeira do Norte;",
+    "cep": "39648971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Chapada do Norte"
+    },
+    "ibge": 3116100,
+    "logradouro": "Rua Primavera, s\/n  AGC Cachoeira do Norte;"
 }

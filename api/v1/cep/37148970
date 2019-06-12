@@ -1,12 +1,13 @@
 {
-  "cep": "37148970",
-  "logradouro": "AC Conceição da Aparecida Rua Tiradentes 280",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição da Aparecida",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37148970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição da Aparecida"
+    },
+    "ibge": 3117108,
+    "logradouro": "Rua Tiradentes 280  AC Conceição da Aparecida;"
 }

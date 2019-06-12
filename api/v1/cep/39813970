@@ -1,12 +1,13 @@
 {
-  "cep": "39813970",
-  "logradouro": "AGC Marambainha Praça Frei Venceslau 73",
-  "bairro": "Marambainha",
-  "cidade": {
-    "nome": "Caraí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marambainha;",
+    "cep": "39813970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caraí"
+    },
+    "ibge": 3113008,
+    "logradouro": "Praça Frei Venceslau, 73  AGC Marambainha;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37280970",
-  "logradouro": "AC Candeias Praça Achiles Langsdorff 76",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37280970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 3112000,
+    "logradouro": "Praça Achiles Langsdorff, 76  AC Candeias;"
 }

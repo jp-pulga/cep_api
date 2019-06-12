@@ -1,12 +1,13 @@
 {
-  "cep": "39280970",
-  "logradouro": "AC Buritizeiro Avenida Manoel Joaquim de Melo 996",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Buritizeiro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39280970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Buritizeiro"
+    },
+    "ibge": 3109402,
+    "logradouro": "Avenida Manoel Joaquim de Melo, 996  AC Buritizeiro;"
 }

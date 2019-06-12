@@ -1,12 +1,13 @@
 {
-  "cep": "39648972",
-  "logradouro": "AGC Granjas do Norte Rua Principal s/n",
-  "bairro": "Granjas do Norte",
-  "cidade": {
-    "nome": "Chapada do Norte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Granjas do Norte;",
+    "cep": "39648972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Chapada do Norte"
+    },
+    "ibge": 3116100,
+    "logradouro": "Rua Principal, s\/n  AGC Granjas do Norte;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37993970",
-  "logradouro": "AC Capetinga Rua Evaristo Teodoro de Souza s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capetinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37993970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Capetinga"
+    },
+    "ibge": 3112406,
+    "logradouro": "Rua Evaristo Teodoro de Souza, s\/n  AC Capetinga;"
 }

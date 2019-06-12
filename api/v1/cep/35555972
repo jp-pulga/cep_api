@@ -1,12 +1,13 @@
 {
-  "cep": "35555972",
-  "logradouro": "AC Camacho Travessa Joaquim Francisco 107",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camacho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35555972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Camacho"
+    },
+    "ibge": 3110400,
+    "logradouro": "Rua João Custódio Lopes, 107  AC Camacho;"
 }

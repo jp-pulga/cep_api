@@ -1,12 +1,13 @@
 {
-  "cep": "37997970",
-  "logradouro": "AC Claraval Praça Divino Espírito Santo 238",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Claraval",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37997970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Claraval"
+    },
+    "ibge": 3116407,
+    "logradouro": "Praça Divino Espírito Santo 238  AC Claraval;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36832970",
-  "logradouro": "AC Caiana Avenida Pedro de Oliveira 123",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caiana",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36832970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caiana"
+    },
+    "ibge": 3110103,
+    "logradouro": "Avenida Pedro de Oliveira, 123  AC Caiana;"
 }

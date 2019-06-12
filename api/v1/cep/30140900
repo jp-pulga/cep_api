@@ -1,12 +1,12 @@
 {
-  "cep": "30140900",
-  "logradouro": "Edifício Carlos Chagas Avenida Brasil 248",
-  "bairro": "Santa Efigênia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Efigênia;",
+    "cep": "30140900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Brasil, 248  Edifício Carlos Chagas;"
 }

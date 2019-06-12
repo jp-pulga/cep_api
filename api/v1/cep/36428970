@@ -1,12 +1,13 @@
 {
-  "cep": "36428970",
-  "logradouro": "AC Caranaíba Praça Francisco Resende 87",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caranaíba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36428970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caranaíba"
+    },
+    "ibge": 3113107,
+    "logradouro": "Praça Francisco Resende, 87  AC Caranaíba;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36985970",
-  "logradouro": "AC Chalé Avenida Coronel José Maria Gomes 139",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chalé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36985970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Chalé"
+    },
+    "ibge": 3116001,
+    "logradouro": "Avenida Coronel José Maria Gomes 139  AC Chalé;"
 }

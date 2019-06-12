@@ -1,12 +1,13 @@
 {
-  "cep": "36265970",
-  "logradouro": "AC Cipotânea Rua Capitão José Laureano 79",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cipotânea",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36265970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cipotânea"
+    },
+    "ibge": 3116308,
+    "logradouro": "Rua Capitão José Laureano 79  AC Cipotânea;"
 }

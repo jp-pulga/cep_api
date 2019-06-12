@@ -1,12 +1,13 @@
 {
-  "cep": "35123970",
-  "logradouro": "AC Capitão Andrade Avenida Governador Valadares 358",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capitão Andrade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35123970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Capitão Andrade"
+    },
+    "ibge": 3112653,
+    "logradouro": "Avenida Governador Valadares, 358  AC Capitão Andrade;"
 }

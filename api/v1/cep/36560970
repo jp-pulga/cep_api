@@ -1,12 +1,13 @@
 {
-  "cep": "36560970",
-  "logradouro": "AC Cajuri Rua Governador Valadares 224",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cajuri",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36560970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cajuri"
+    },
+    "ibge": 3110202,
+    "logradouro": "Rua Governador Valadares, 224  AC Cajuri;"
 }

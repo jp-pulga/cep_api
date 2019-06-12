@@ -1,12 +1,13 @@
 {
-  "cep": "36415976",
-  "logradouro": "CDD Congonhas Avenida Júlia Kubitschek 498",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Congonhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36415976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Congonhas"
+    },
+    "ibge": 3118007,
+    "logradouro": "Avenida Júlia Kubitschek, 498  CDD Congonhas;"
 }

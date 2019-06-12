@@ -1,12 +1,13 @@
 {
-  "cep": "37440972",
-  "logradouro": "UD Caxambu Rua Conselheiro Mayrinnk 381-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caxambu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37440972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caxambu"
+    },
+    "ibge": 3115508,
+    "logradouro": "Rua Conselheiro Mayrinnk, 381-B  UD Caxambu;"
 }

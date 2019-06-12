@@ -1,12 +1,13 @@
 {
-  "cep": "37650970",
-  "logradouro": "AC Camanducaia Rua Tiradentes 38-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camanducaia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37650970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Camanducaia"
+    },
+    "ibge": 3110509,
+    "logradouro": "Rua Tiradentes, 38-A  AC Camanducaia;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35860974",
-  "logradouro": "AGC Ouro Fino Praça São José s/n",
-  "bairro": "Ouro Fino",
-  "cidade": {
-    "nome": "Conceição do Mato Dentro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Fino;",
+    "cep": "35860974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição do Mato Dentro"
+    },
+    "ibge": 3117504,
+    "logradouro": "Praça São José, s\/n  AGC Ouro Fino;"
 }

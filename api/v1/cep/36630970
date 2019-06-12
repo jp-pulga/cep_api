@@ -1,12 +1,13 @@
 {
-  "cep": "36630970",
-  "logradouro": "AC Chiador Rua Tenente Ademar Martins 87",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chiador",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36630970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Chiador"
+    },
+    "ibge": 3116209,
+    "logradouro": "Rua Tenente Ademar Martins, 87  AC Chiador;"
 }

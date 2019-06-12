@@ -1,12 +1,13 @@
 {
-  "cep": "39489972",
-  "logradouro": "AC Cônego Marinho Praça São Vicente s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cônego Marinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39489972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cônego Marinho"
+    },
+    "ibge": 3117836,
+    "logradouro": "Praça São Vicente, s\/n  AC Cônego Marinho;"
 }

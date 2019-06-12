@@ -1,12 +1,12 @@
 {
-  "cep": "30120909",
-  "logradouro": "Edifício Excelsior Rua dos Caetés 753",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30120909",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua dos Caetés, 753  Edifício Excelsior;"
 }

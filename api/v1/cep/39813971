@@ -1,12 +1,13 @@
 {
-  "cep": "39813971",
-  "logradouro": "AGC Maranhão Rua dos Violões s/n",
-  "bairro": "Maranhão",
-  "cidade": {
-    "nome": "Caraí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maranhão;",
+    "cep": "39813971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caraí"
+    },
+    "ibge": 3113008,
+    "logradouro": "Rua dos Violões, s\/n  AGC Maranhão;"
 }

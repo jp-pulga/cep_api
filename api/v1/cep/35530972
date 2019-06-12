@@ -1,12 +1,13 @@
 {
-  "cep": "35530972",
-  "logradouro": "UD Cláudio Rua Pará 23 Loja 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cláudio",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35530972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cláudio"
+    },
+    "ibge": 3116605,
+    "logradouro": "Rua Pará, 23 Loja 1  UD Cláudio;"
 }

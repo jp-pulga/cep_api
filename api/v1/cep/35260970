@@ -1,12 +1,13 @@
 {
-  "cep": "35260970",
-  "logradouro": "AC Central de Minas Rua Floresta 162",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Central de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35260970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Central de Minas"
+    },
+    "ibge": 3115706,
+    "logradouro": "Rua Floresta, 162  AC Central de Minas;"
 }

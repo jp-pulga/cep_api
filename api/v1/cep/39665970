@@ -1,12 +1,13 @@
 {
-  "cep": "39665970",
-  "logradouro": "AC Carbonita Rua Jonas Câmara 194-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carbonita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39665970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carbonita"
+    },
+    "ibge": 3113503,
+    "logradouro": "Rua Jonas Câmara, 194-B  AC Carbonita;"
 }

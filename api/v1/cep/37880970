@@ -1,12 +1,13 @@
 {
-  "cep": "37880970",
-  "logradouro": "AC Cabo Verde Praça Capitão Luis Romão Siqueira 380",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cabo Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37880970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cabo Verde"
+    },
+    "ibge": 3109501,
+    "logradouro": "Praça Capitão Luis Romão Siqueira, 380  AC Cabo Verde;"
 }

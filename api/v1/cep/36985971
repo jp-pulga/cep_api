@@ -1,12 +1,13 @@
 {
-  "cep": "36985971",
-  "logradouro": "AGC Penha do Coco Avenida José Neringer Perraud s/n",
-  "bairro": "Penha do Coco",
-  "cidade": {
-    "nome": "Chalé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Penha do Coco;",
+    "cep": "36985971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Chalé"
+    },
+    "ibge": 3116001,
+    "logradouro": "Avenida José Neringer Perraud, s\/n  AGC Penha do Coco;"
 }

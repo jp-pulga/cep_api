@@ -1,12 +1,13 @@
 {
-  "cep": "35547970",
-  "logradouro": "AC Carmo da Mata Rua Dezessete de Dezembro 58",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carmo da Mata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35547970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmo da Mata"
+    },
+    "ibge": 3114006,
+    "logradouro": "Rua Dezessete de Dezembro, 58  AC Carmo da Mata;"
 }

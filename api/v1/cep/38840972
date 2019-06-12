@@ -1,12 +1,13 @@
 {
-  "cep": "38840972",
-  "logradouro": "UD Carmo do Paranaíba Avenida João Batista da Silva 28",
-  "bairro": "Juscelino Kubitschek",
-  "cidade": {
-    "nome": "Carmo do Paranaíba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Juscelino Kubitschek;",
+    "cep": "38840972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmo do Paranaíba"
+    },
+    "ibge": 3114303,
+    "logradouro": "Avenida João Batista da Silva, 28  UD Carmo do Paranaíba;"
 }

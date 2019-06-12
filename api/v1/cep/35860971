@@ -1,12 +1,13 @@
 {
-  "cep": "35860971",
-  "logradouro": "AGC Socorro Rua Principal s/n",
-  "bairro": "Socorro",
-  "cidade": {
-    "nome": "Conceição do Mato Dentro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Socorro;",
+    "cep": "35860971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição do Mato Dentro"
+    },
+    "ibge": 3117504,
+    "logradouro": "Rua Principal, s\/n  AGC Socorro;"
 }

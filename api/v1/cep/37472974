@@ -1,12 +1,13 @@
 {
-  "cep": "37472974",
-  "logradouro": "AGC Jardim Nhá Chica Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carmo de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37472974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmo de Minas"
+    },
+    "ibge": 3114105,
+    "logradouro": "Rua Principal, s\/n  AGC Jardim Nhá Chica;"
 }

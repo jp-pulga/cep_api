@@ -1,12 +1,13 @@
 {
-  "cep": "33500972",
-  "logradouro": "TECA Confins Terminal do Aeroporto",
-  "bairro": "Aeroporto Confins",
-  "cidade": {
-    "nome": "Confins",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aeroporto Confins;",
+    "cep": "33500972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Confins"
+    },
+    "ibge": 3117876,
+    "logradouro": "Terminal do Aeroporto  TECA Confins;"
 }

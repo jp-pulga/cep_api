@@ -1,12 +1,13 @@
 {
-  "cep": "38840971",
-  "logradouro": "AGF Sete de Setembro Rua Sete de Setembro 18",
-  "bairro": "Juscelino Kubitschek",
-  "cidade": {
-    "nome": "Carmo do Paranaíba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Juscelino Kubitschek;",
+    "cep": "38840971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmo do Paranaíba"
+    },
+    "ibge": 3114303,
+    "logradouro": "Rua Sete de Setembro, 18  AGF Sete de Setembro;"
 }

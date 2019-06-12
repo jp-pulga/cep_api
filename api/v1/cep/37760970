@@ -1,12 +1,13 @@
 {
-  "cep": "37760970",
-  "logradouro": "AC Carvalhópolis Rua João Honorato de Carvalho 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carvalhópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37760970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carvalhópolis"
+    },
+    "ibge": 3114709,
+    "logradouro": "Rua João Honorato de Carvalho, 44  AC Carvalhópolis;"
 }

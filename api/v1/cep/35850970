@@ -1,12 +1,13 @@
 {
-  "cep": "35850970",
-  "logradouro": "AC Congonhas do Norte Rua Uberlândia 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Congonhas do Norte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35850970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Congonhas do Norte"
+    },
+    "ibge": 3118106,
+    "logradouro": "Rua Uberlândia, 40  AC Congonhas do Norte;"
 }

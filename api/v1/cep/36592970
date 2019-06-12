@@ -1,12 +1,13 @@
 {
-  "cep": "36592970",
-  "logradouro": "AC Canaã Rua Doutor Juarez de Souza Carmo 199",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canaã",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36592970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Canaã"
+    },
+    "ibge": 3111705,
+    "logradouro": "Rua Doutor Juarez de Souza Carmo, 199  AC Canaã;"
 }

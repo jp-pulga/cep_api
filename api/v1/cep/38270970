@@ -1,12 +1,13 @@
 {
-  "cep": "38270970",
-  "logradouro": "AC Campina Verde Avenida Sete 380",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campina Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38270970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campina Verde"
+    },
+    "ibge": 3111101,
+    "logradouro": "Avenida Sete, 380  AC Campina Verde;"
 }

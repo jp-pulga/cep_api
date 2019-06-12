@@ -1,12 +1,13 @@
 {
-  "cep": "36285972",
-  "logradouro": "AGC Campestre Praça da Estação s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carandaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36285972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carandaí"
+    },
+    "ibge": 3113206,
+    "logradouro": "Praça da Estação, s\/n  AGC Campestre;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37245970",
-  "logradouro": "AC Carrancas Rua Orlando Ferreira 263",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carrancas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37245970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carrancas"
+    },
+    "ibge": 3114600,
+    "logradouro": "Rua Orlando Ferreira, 263  AC Carrancas;"
 }

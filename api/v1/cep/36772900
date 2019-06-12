@@ -1,12 +1,13 @@
 {
-  "cep": "36772900",
-  "logradouro": "Companhia Industrial Cataguases Avenida Coronel Antônio Augusto de Souza 216",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36772900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "ibge": 3115300,
+    "logradouro": "Avenida Coronel Antônio Augusto de Souza, 216  Companhia Industrial Cataguases;"
 }

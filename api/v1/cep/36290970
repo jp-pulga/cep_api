@@ -1,12 +1,13 @@
 {
-  "cep": "36290970",
-  "logradouro": "AC Capela Nova Rua Cônego José Antonio Henriques 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capela Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36290970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Capela Nova"
+    },
+    "ibge": 3112208,
+    "logradouro": "Rua Cônego José Antonio Henriques, 15  AC Capela Nova;"
 }

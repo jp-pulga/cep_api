@@ -1,12 +1,13 @@
 {
-  "cep": "39816972",
-  "logradouro": "AC Catuji Avenida Rio Bahia 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Catuji",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39816972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Catuji"
+    },
+    "ibge": 3115458,
+    "logradouro": "Avenida Rio Bahia, 11  AC Catuji;"
 }

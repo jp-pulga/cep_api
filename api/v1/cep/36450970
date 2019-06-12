@@ -1,12 +1,13 @@
 {
-  "cep": "36450970",
-  "logradouro": "AC Catas Altas da Noruega Rua das Goiabeiras 129",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Catas Altas da Noruega",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36450970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Catas Altas da Noruega"
+    },
+    "ibge": 3115409,
+    "logradouro": "Rua das Goiabeiras, 129  AC Catas Altas da Noruega;"
 }

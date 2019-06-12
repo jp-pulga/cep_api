@@ -1,12 +1,13 @@
 {
-  "cep": "39648974",
-  "logradouro": "AGC São Sebastião da Boa Vista Praça São Sebastião 36",
-  "bairro": "São Sebastião da Boa Vista",
-  "cidade": {
-    "nome": "Chapada do Norte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião da Boa Vista;",
+    "cep": "39648974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Chapada do Norte"
+    },
+    "ibge": 3116100,
+    "logradouro": "Praça São Sebastião, 36  AGC São Sebastião da Boa Vista;"
 }

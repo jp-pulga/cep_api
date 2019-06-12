@@ -1,12 +1,13 @@
 {
-  "cep": "33500900",
-  "logradouro": "Aeroporto Internacional Tancredo Neves Rodovia MG-10 Km 09",
-  "bairro": "Aeroporto Confins",
-  "cidade": {
-    "nome": "Confins",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Aeroporto Confins;",
+    "cep": "33500900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Confins"
+    },
+    "ibge": 3117876,
+    "logradouro": "Rodovia MG-10 Km 09  Aeroporto Internacional Tancredo Neves;"
 }

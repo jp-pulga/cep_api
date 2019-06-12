@@ -1,12 +1,13 @@
 {
-  "cep": "37400970",
-  "logradouro": "AC Campanha Rua Doutor Brandão 59",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campanha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37400970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campanha"
+    },
+    "ibge": 3110905,
+    "logradouro": "Rua Doutor Brandão, 59  AC Campanha;"
 }

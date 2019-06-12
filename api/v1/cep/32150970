@@ -1,12 +1,12 @@
 {
-  "cep": "32150970",
-  "logradouro": "CLI Contagem Via Vereador Joaquim Costa 65 Galpão 01",
-  "bairro": "Campina Verde",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campina Verde;",
+    "cep": "32150970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Via Vereador Joaquim Costa, 65 Galpão 01\/02  CLI Contagem;"
 }

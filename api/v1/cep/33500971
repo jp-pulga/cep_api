@@ -1,12 +1,13 @@
 {
-  "cep": "33500971",
-  "logradouro": "AC Confins Rua Maria Rodrigues 182",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Confins",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33500971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Confins"
+    },
+    "ibge": 3117876,
+    "logradouro": "Rua Maria Rodrigues, 182  AC Confins;"
 }

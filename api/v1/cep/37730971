@@ -1,12 +1,13 @@
 {
-  "cep": "37730971",
-  "logradouro": "AGC Posses (Campestre) Rua Quinze de Novembro 32",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campestre",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37730971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campestre"
+    },
+    "ibge": 3111002,
+    "logradouro": "Rua Quinze de Novembro, 32  AGC Posses (Campestre);"
 }

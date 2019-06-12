@@ -1,12 +1,13 @@
 {
-  "cep": "37150970",
-  "logradouro": "AC Carmo do Rio Claro Rua Coronel José Bento 45",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carmo do Rio Claro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37150970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmo do Rio Claro"
+    },
+    "ibge": 3114402,
+    "logradouro": "Rua Coronel José Bento, 45  AC Carmo do Rio Claro;"
 }

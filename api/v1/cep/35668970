@@ -1,12 +1,13 @@
 {
-  "cep": "35668970",
-  "logradouro": "AC Conceição do Pará Praça Major João Batista 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Pará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35668970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Conceição do Pará"
+    },
+    "ibge": 3117603,
+    "logradouro": "Praça Major João Batista, 99  AC Conceição do Pará;"
 }

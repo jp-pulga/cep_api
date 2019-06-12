@@ -1,12 +1,13 @@
 {
-  "cep": "36422971",
-  "logradouro": "AC Casa Grande Avenida Professor Alberto Libânio 19",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Casa Grande",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36422971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Casa Grande"
+    },
+    "ibge": 3114907,
+    "logradouro": "Avenida Professor Alberto Libânio, 19  AC Casa Grande;"
 }

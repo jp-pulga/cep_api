@@ -1,12 +1,13 @@
 {
-  "cep": "35878970",
-  "logradouro": "AC Carmésia Rua Marieta Ferreira Soares 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carmésia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35878970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmésia"
+    },
+    "ibge": 3113800,
+    "logradouro": "Rua Marieta Ferreira Soares, 6  AC Carmésia;"
 }

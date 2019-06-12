@@ -1,12 +1,13 @@
 {
-  "cep": "37267973",
-  "logradouro": "AGC Cerradinho Avenida Presidente Médici 515",
-  "bairro": "Cerradinho",
-  "cidade": {
-    "nome": "Cana Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cerradinho;",
+    "cep": "37267973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cana Verde"
+    },
+    "ibge": 3111903,
+    "logradouro": "Avenida Presidente Médici, 515  AGC Cerradinho;"
 }

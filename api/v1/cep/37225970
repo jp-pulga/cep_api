@@ -1,12 +1,13 @@
 {
-  "cep": "37225970",
-  "logradouro": "AC Carmo da Cachoeira Rua Antônio Rezende Vilela 51",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carmo da Cachoeira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37225970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carmo da Cachoeira"
+    },
+    "ibge": 3113909,
+    "logradouro": "Rua Antônio Rezende Vilela, 51  AC Carmo da Cachoeira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39770970",
-  "logradouro": "AC Coluna Rua Arsino Lopes 48",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coluna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39770970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coluna"
+    },
+    "ibge": 3116803,
+    "logradouro": "Rua Arsino Lopes, 48  AC Coluna;"
 }

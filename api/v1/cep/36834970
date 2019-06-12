@@ -1,12 +1,13 @@
 {
-  "cep": "36834970",
-  "logradouro": "AC Caparaó Rua Júlio de Assis 90 Loja 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caparaó",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36834970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caparaó"
+    },
+    "ibge": 3112109,
+    "logradouro": "Rua Júlio de Assis, 90 Loja 02  AC Caparaó;"
 }

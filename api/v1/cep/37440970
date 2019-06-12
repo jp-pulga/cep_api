@@ -1,12 +1,13 @@
 {
-  "cep": "37440970",
-  "logradouro": "AC Caxambu Rua Conselheiro Mayrinnk 381",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caxambu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37440970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caxambu"
+    },
+    "ibge": 3115508,
+    "logradouro": "Avenida Camilo Soares, 548  AC Caxambu;"
 }

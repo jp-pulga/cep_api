@@ -1,12 +1,13 @@
 {
-  "cep": "34800971",
-  "logradouro": "UD Caeté Avenida João Pinheiro 3797",
-  "bairro": "Pedra Branca",
-  "cidade": {
-    "nome": "Caeté",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pedra Branca;",
+    "cep": "34800971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caeté"
+    },
+    "ibge": 3110004,
+    "logradouro": "Avenida João Pinheiro, 3797  UD Caeté;"
 }

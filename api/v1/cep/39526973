@@ -1,12 +1,13 @@
 {
-  "cep": "39526973",
-  "logradouro": "AC Catuti Rua dos Barbosas 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Catuti",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39526973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Catuti"
+    },
+    "ibge": 3115474,
+    "logradouro": "Praça Bom Jesus, 230  AC Catuti;"
 }

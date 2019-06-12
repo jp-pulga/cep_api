@@ -1,12 +1,13 @@
 {
-  "cep": "36415970",
-  "logradouro": "AC Congonhas Praça Juscelino Kubitschek 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Congonhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36415970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Congonhas"
+    },
+    "ibge": 3118007,
+    "logradouro": "Praça Juscelino Kubitschek, 35  AC Congonhas;"
 }

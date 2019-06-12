@@ -1,12 +1,13 @@
 {
-  "cep": "38380970",
-  "logradouro": "AC Canápolis Praça 14 de Julho 354",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canápolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38380970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Canápolis"
+    },
+    "ibge": 3111804,
+    "logradouro": "Praça 14 de Julho, 354  AC Canápolis;"
 }

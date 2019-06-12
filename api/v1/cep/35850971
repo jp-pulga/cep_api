@@ -1,12 +1,13 @@
 {
-  "cep": "35850971",
-  "logradouro": "AGC Santa Cruz de Alves Avenida Padre Ernesto Augusto Lages S/n",
-  "bairro": "Santa Cruz de Alves",
-  "cidade": {
-    "nome": "Congonhas do Norte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cruz de Alves;",
+    "cep": "35850971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Congonhas do Norte"
+    },
+    "ibge": 3118106,
+    "logradouro": "Avenida Padre Ernesto Augusto Lages, S\/n  AGC Santa Cruz de Alves;"
 }

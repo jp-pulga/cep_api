@@ -1,12 +1,13 @@
 {
-  "cep": "38390970",
-  "logradouro": "AC Centralina Avenida Manoel Marciano 820",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Centralina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38390970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Centralina"
+    },
+    "ibge": 3115805,
+    "logradouro": "Avenida Manoel Marciano, 820  AC Centralina;"
 }

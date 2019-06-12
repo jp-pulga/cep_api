@@ -1,12 +1,13 @@
 {
-  "cep": "37267970",
-  "logradouro": "AC Cana Verde Praça Cristovão Cipriano 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cana Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37267970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cana Verde"
+    },
+    "ibge": 3111903,
+    "logradouro": "Praça Cristovão Cipriano, 25  AC Cana Verde;"
 }

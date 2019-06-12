@@ -1,12 +1,13 @@
 {
-  "cep": "38370971",
-  "logradouro": "AC Cachoeira Dourada Avenida Três 583",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira Dourada",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38370971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cachoeira Dourada"
+    },
+    "ibge": 3109808,
+    "logradouro": "Avenida Três, 583  AC Cachoeira Dourada;"
 }
