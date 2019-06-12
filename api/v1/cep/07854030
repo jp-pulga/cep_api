@@ -1,12 +1,12 @@
 {
-  "cep": "07854030",
-  "logradouro": "Rua Estocolmo",
-  "bairro": "Parque Vitória",
-  "cidade": {
-    "nome": "Franco da Rocha",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Vitória;",
+    "cep": "07854030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franco da Rocha"
+    },
+    "logradouro": "Rua Estocolmo;"
 }

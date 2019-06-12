@@ -1,12 +1,11 @@
 {
-  "cep": "29380000",
-  "logradouro": "Muniz Freire",
-  "bairro": "",
-  "cidade": {
-    "nome": "Muniz Freire",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29380000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Muniz Freire"
+    },
+    "ibge": 3203700
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "14051330",
-  "logradouro": "Rua Montes Claros",
-  "bairro": "Sumarezinho",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sumarezinho;",
+    "cep": "14051330",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Montes Claros;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "19010940",
-  "logradouro": "Secretaria de Estado dos Negócios da Fazenda Rua Siqueira Campos 36",
-  "bairro": "Bosque",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bosque;",
+    "cep": "19010940",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Siqueira Campos, 36  Secretaria de Estado dos Negócios da Fazenda;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29908870",
-  "logradouro": "Rua das Carmélias",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "29908870",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Rua das Carmélias;"
 }

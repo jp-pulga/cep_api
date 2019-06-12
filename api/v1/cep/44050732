@@ -1,12 +1,12 @@
 {
-  "cep": "44050732",
-  "logradouro": "Praça Catarino Brito dos Santos",
-  "bairro": "Queimadinha",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Queimadinha;",
+    "cep": "44050732",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Praça Catarino Brito dos Santos;"
 }

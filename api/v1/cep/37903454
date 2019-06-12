@@ -1,12 +1,12 @@
 {
-  "cep": "37903454",
-  "logradouro": "Rua Vereador Professor Osvaldo Lisboa Negrão",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "37903454",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Vereador Professor Osvaldo Lisboa Negrão;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38650970",
-  "logradouro": "AC Bonfinópolis de Minas Rua Abílio Moreira 281",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bonfinópolis de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38650970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bonfinópolis de Minas"
+    },
+    "ibge": 3108206,
+    "logradouro": "Rua Abílio Moreira, 281  AC Bonfinópolis de Minas;"
 }

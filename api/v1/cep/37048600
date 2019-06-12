@@ -1,12 +1,12 @@
 {
-  "cep": "37048600",
-  "logradouro": "Praça Santa Mônica",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "37048600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Praça Santa Mônica;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29380970",
-  "logradouro": "AC Muniz Freire Rua Pedro Depes 135",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muniz Freire",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29380970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Muniz Freire"
+    },
+    "ibge": 3203700,
+    "logradouro": "Rua Pedro Deps, 135  AC Muniz Freire;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29702168",
-  "logradouro": "Escadaria Basílio Gatti",
-  "bairro": "Maria Esmênia",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Maria Esmênia;",
+    "cep": "29702168",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Basílio Gatti;"
 }

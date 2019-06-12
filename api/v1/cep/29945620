@@ -1,12 +1,12 @@
 {
-  "cep": "29945620",
-  "logradouro": "Rua Mantenópolis",
-  "bairro": "Guriri Sul",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guriri Sul;",
+    "cep": "29945620",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Mantenópolis;"
 }

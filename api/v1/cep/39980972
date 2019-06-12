@@ -1,12 +1,13 @@
 {
-  "cep": "39980972",
-  "logradouro": "AGC Águas Altas Rua Sérgio Martins s/n",
-  "bairro": "Águas Altas",
-  "cidade": {
-    "nome": "Cachoeira de Pajeú",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Águas Altas;",
+    "cep": "39980972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cachoeira de Pajeú"
+    },
+    "ibge": 3102704,
+    "logradouro": "Rua Sérgio Martins, s\/n  AGC Águas Altas;"
 }

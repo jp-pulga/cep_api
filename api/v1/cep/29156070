@@ -1,12 +1,12 @@
 {
-  "cep": "29156070",
-  "logradouro": "Rua Muniz Freire",
-  "bairro": "Cariacica Sede",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cariacica Sede;",
+    "cep": "29156070",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Muniz Freire;"
 }

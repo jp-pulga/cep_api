@@ -1,12 +1,12 @@
 {
-  "cep": "48602210",
-  "logradouro": "Praça Vereador João de Brito",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48602210",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Praça Vereador João de Brito;"
 }

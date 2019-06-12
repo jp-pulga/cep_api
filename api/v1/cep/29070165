@@ -1,12 +1,12 @@
 {
-  "cep": "29070165",
-  "logradouro": "Rua Francisco Fundão",
-  "bairro": "República",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "República;",
+    "cep": "29070165",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Francisco Fundão;"
 }

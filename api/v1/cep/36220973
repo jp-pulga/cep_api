@@ -1,12 +1,13 @@
 {
-  "cep": "36220973",
-  "logradouro": "AGC Campolide Praça Santana s/n",
-  "bairro": "São Sebastião de Campolide",
-  "cidade": {
-    "nome": "Antônio Carlos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião de Campolide;",
+    "cep": "36220973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Antônio Carlos"
+    },
+    "ibge": 3102902,
+    "logradouro": "Praça Santana, s\/n  AGC Campolide;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "19043000",
-  "logradouro": "Avenida Sílvio Domingos Roncador",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "19043000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Avenida Sílvio Domingos Roncador;"
 }

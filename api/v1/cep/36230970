@@ -1,12 +1,13 @@
 {
-  "cep": "36230970",
-  "logradouro": "AC Bias Fortes Rua Prefeito Vieira Fagundes 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bias Fortes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36230970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bias Fortes"
+    },
+    "ibge": 3106804,
+    "logradouro": "Rua Prefeito Vieira Fagundes, 20  AC Bias Fortes;"
 }

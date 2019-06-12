@@ -1,12 +1,12 @@
 {
-  "cep": "29138532",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Campo Verde",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Campo Verde;",
+    "cep": "29138532",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

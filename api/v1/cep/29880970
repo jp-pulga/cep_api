@@ -1,12 +1,12 @@
 {
-  "cep": "29880970",
-  "logradouro": "AC Mucurici Rua Presidente Kennedy 100",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mucurici",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29880970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Mucurici"
+    },
+    "logradouro": "Rua Presidente Kennedy, 21  AC Mucurici;"
 }

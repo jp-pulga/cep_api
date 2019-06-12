@@ -1,12 +1,13 @@
 {
-  "cep": "36255970",
-  "logradouro": "AC Aracitaba Rua Coronel José Homem 118",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aracitaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36255970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Aracitaba"
+    },
+    "ibge": 3103306,
+    "logradouro": "Rua Coronel José Homem, 118  AC Aracitaba;"
 }

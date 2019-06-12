@@ -1,12 +1,12 @@
 {
-  "cep": "04473275",
-  "logradouro": "Praça Pedros",
-  "bairro": "Santa Amélia",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santa Amélia;",
+    "cep": "04473275",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Pedros;"
 }

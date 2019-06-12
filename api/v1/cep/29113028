@@ -1,12 +1,12 @@
 {
-  "cep": "29113028",
-  "logradouro": "Rua Guaçui",
-  "bairro": "Vale Encantado",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vale Encantado;",
+    "cep": "29113028",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Guaçui;"
 }

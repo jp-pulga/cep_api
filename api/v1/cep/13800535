@@ -1,12 +1,12 @@
 {
-  "cep": "13800535",
-  "logradouro": "Rua Presidente Venceslau Braz",
-  "bairro": "Vila Oceania",
-  "cidade": {
-    "nome": "Mogi Mirim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Oceania;",
+    "cep": "13800535",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Mirim"
+    },
+    "logradouro": "Rua Presidente Venceslau Braz;"
 }

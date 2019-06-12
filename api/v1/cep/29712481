@@ -1,12 +1,13 @@
 {
-  "cep": "29712481",
-  "logradouro": "Estrada Colatina-Catuá",
-  "bairro": "Barbados",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barbados;",
+    "cep": "29712481",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Estrada Colatina-Catuá;"
 }

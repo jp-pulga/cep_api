@@ -1,12 +1,12 @@
 {
-  "cep": "29182165",
-  "logradouro": "Rua Baixo Guandu",
-  "bairro": "Serramar",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Serramar;",
+    "cep": "29182165",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Baixo Guandu;"
 }

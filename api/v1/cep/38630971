@@ -1,12 +1,12 @@
 {
-  "cep": "38630971",
-  "logradouro": "AGC Uruana de Minas Avenida Arinos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uruana de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38630971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uruana de Minas"
+    },
+    "logradouro": "Avenida Arinos, s\/n  AGC Uruana de Minas;"
 }

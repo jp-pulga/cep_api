@@ -1,12 +1,12 @@
 {
-  "cep": "29140835",
-  "logradouro": "Rua Espírito Santo",
-  "bairro": "Castelo Branco",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Castelo Branco;",
+    "cep": "29140835",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Espírito Santo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29800985",
-  "logradouro": "AGC Vargem Alegre Rua Danton Bastos 1",
-  "bairro": "Vargem Alegre",
-  "cidade": {
-    "nome": "Barra de São Francisco",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vargem Alegre;",
+    "cep": "29800985",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Barra de São Francisco"
+    },
+    "ibge": 3200904,
+    "logradouro": "Rua Danton Bastos 1  AGC Vargem Alegre;"
 }

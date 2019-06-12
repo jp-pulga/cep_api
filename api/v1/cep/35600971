@@ -1,12 +1,13 @@
 {
-  "cep": "35600971",
-  "logradouro": "CDD Bom Despacho Avenida Vivalde Brandão 315",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Bom Despacho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "35600971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Despacho"
+    },
+    "ibge": 3107406,
+    "logradouro": "Avenida Vivalde Brandão, 315  CDD Bom Despacho;"
 }

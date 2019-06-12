@@ -1,12 +1,13 @@
 {
-  "cep": "29206607",
-  "logradouro": "Rua Espírito Santo",
-  "bairro": "Lameirão",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Lameirão;",
+    "cep": "29206607",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Rua Espírito Santo;"
 }

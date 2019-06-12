@@ -1,12 +1,12 @@
 {
-  "cep": "29193418",
-  "logradouro": "Rua Presidente Kennedy",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "29193418",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Presidente Kennedy;"
 }

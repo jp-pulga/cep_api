@@ -1,12 +1,13 @@
 {
-  "cep": "38900971",
-  "logradouro": "AGF José Augusto Chaves Rua José Augusto Chaves 478",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bambuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38900971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bambuí"
+    },
+    "ibge": 3105103,
+    "logradouro": "Rua José Augusto Chaves, 640  AGF José Augusto Chaves;"
 }

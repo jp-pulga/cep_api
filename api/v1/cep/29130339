@@ -1,12 +1,13 @@
 {
-  "cep": "29130339",
-  "logradouro": "Rua Antônio Malheiro",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "29130339",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Rua Antônio Malheiro;"
 }

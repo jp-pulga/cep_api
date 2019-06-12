@@ -1,12 +1,13 @@
 {
-  "cep": "29190630",
-  "logradouro": "Rodovia Coqueiral-Guaraná Comunidades ES-124 do km 31000 ao km 33000",
-  "bairro": "Cupido",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cupido;",
+    "cep": "29190630",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rodovia Coqueiral-Guaraná Comunidades ES-124 - do km 31,000 ao km 33,000;"
 }

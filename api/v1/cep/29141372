@@ -1,12 +1,12 @@
 {
-  "cep": "29141372",
-  "logradouro": "Rua Vila Velha",
-  "bairro": "Vista Linda",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Linda;",
+    "cep": "29141372",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Vila Velha;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29194120",
-  "logradouro": "Estrada Santa Maria do km 4500 ao km 6000",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "29194120",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Santa Maria - do km 4,500 ao km 6,000;"
 }

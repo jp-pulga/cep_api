@@ -1,12 +1,12 @@
 {
-  "cep": "14075540",
-  "logradouro": "Rua Rio Claro",
-  "bairro": "Vila Brasil",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Brasil;",
+    "cep": "14075540",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Rio Claro;"
 }

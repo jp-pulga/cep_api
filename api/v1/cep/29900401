@@ -1,12 +1,12 @@
 {
-  "cep": "29900401",
-  "logradouro": "Avenida Barra de São Francisco",
-  "bairro": "Colina",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Colina;",
+    "cep": "29900401",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Barra de São Francisco;"
 }

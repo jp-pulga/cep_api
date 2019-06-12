@@ -1,12 +1,12 @@
 {
-  "cep": "29709202",
-  "logradouro": "Rua Carolina Pretti Costa",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "29709202",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Carolina Pretti Costa;"
 }

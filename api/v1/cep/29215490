@@ -1,12 +1,12 @@
 {
-  "cep": "29215490",
-  "logradouro": "Rua Antônio Stein",
-  "bairro": "Muquiçaba",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Muquiçaba;",
+    "cep": "29215490",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Antônio Stein;"
 }

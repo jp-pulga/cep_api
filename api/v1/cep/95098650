@@ -1,12 +1,12 @@
 {
-  "cep": "95098650",
-  "logradouro": "Rua Luiz Rossatto Primo",
-  "bairro": "Salgado Filho",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Salgado Filho;",
+    "cep": "95098650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Luiz Rossatto Primo;"
 }

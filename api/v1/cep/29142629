@@ -1,12 +1,12 @@
 {
-  "cep": "29142629",
-  "logradouro": "Rua Mucurici",
-  "bairro": "Jardim Botânico",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Botânico;",
+    "cep": "29142629",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Mucurici;"
 }

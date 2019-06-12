@@ -1,12 +1,13 @@
 {
-  "cep": "29199548",
-  "logradouro": "Rodovia ES-010 até km 45000",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "29199548",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rodovia ES-010;"
 }

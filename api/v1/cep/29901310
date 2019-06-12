@@ -1,12 +1,12 @@
 {
-  "cep": "29901310",
-  "logradouro": "Avenida Conceição da Barra de 810 a 1000 - lado par",
-  "bairro": "Aviso",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aviso;",
+    "cep": "29901310",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Conceição da Barra - de 810 a 1000 - lado par;"
 }

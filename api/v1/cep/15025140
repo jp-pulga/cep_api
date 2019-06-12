@@ -1,12 +1,12 @@
 {
-  "cep": "15025140",
-  "logradouro": "Rua Paraná",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "15025140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Paraná;"
 }

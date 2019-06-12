@@ -1,12 +1,13 @@
 {
-  "cep": "29795970",
-  "logradouro": "AC Águia Branca Avenida João Quiuqui s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Águia Branca",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29795970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Águia Branca"
+    },
+    "ibge": 3200136,
+    "logradouro": "Avenida João Quiuqui, 450  AC Águia Branca;"
 }

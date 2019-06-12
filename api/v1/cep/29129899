@@ -1,12 +1,13 @@
 {
-  "cep": "29129899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Vila Velha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Área Rural de Vila Velha;",
+    "cep": "29129899",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Área Rural;"
 }

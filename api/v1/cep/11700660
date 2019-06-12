@@ -1,12 +1,12 @@
 {
-  "cep": "11700660",
-  "logradouro": "Rua Vitorino Santos Ferreira",
-  "bairro": "Canto do Forte",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Canto do Forte;",
+    "cep": "11700660",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Rua Vitorino Santos Ferreira;"
 }

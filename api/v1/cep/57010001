@@ -1,12 +1,12 @@
 {
-  "cep": "57010001",
-  "logradouro": "Avenida Siqueira Campos de 977 a 1637 - lado ímpar",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "57010001",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Siqueira Campos - de 977 a 1637 - lado ímpar;"
 }

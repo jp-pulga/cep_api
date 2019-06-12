@@ -1,12 +1,13 @@
 {
-  "cep": "39990976",
-  "logradouro": "AGC Machado Mineiro Rua Euclides Costa 155",
-  "bairro": "Machado Mineiro",
-  "cidade": {
-    "nome": "Águas Vermelhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Machado Mineiro;",
+    "cep": "39990976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Águas Vermelhas"
+    },
+    "ibge": 3101003,
+    "logradouro": "Rua Euclides Costa, 155  AGC Machado Mineiro;"
 }

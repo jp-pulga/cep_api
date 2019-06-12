@@ -1,12 +1,12 @@
 {
-  "cep": "29309648",
-  "logradouro": "Escadaria Alpheu Silva Madeira",
-  "bairro": "Rubem Braga",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rubem Braga;",
+    "cep": "29309648",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria Alpheu Silva Madeira;"
 }

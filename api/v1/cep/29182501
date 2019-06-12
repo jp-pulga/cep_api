@@ -1,12 +1,12 @@
 {
-  "cep": "29182501",
-  "logradouro": "Rua Presidente Kennedy",
-  "bairro": "Parque das Gaivotas",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque das Gaivotas;",
+    "cep": "29182501",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Presidente Kennedy;"
 }

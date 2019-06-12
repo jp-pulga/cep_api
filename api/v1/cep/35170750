@@ -1,12 +1,12 @@
 {
-  "cep": "35170750",
-  "logradouro": "Praça José Maximiliano de Souza",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "35170750",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Praça José Maximiliano de Souza;"
 }

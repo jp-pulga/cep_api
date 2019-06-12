@@ -1,12 +1,12 @@
 {
-  "cep": "29215250",
-  "logradouro": "Avenida Muquiçaba",
-  "bairro": "Muquiçaba",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Muquiçaba;",
+    "cep": "29215250",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Avenida Muquiçaba;"
 }

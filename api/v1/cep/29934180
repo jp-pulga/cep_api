@@ -1,12 +1,12 @@
 {
-  "cep": "29934180",
-  "logradouro": "Rua Nelson Fundão",
-  "bairro": "Arnaldo Bastos",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Arnaldo Bastos;",
+    "cep": "29934180",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Nelson Fundão;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31275972",
-  "logradouro": "CDD Planalto Avenida Presidente Antônio Carlos 8157",
-  "bairro": "Pampulha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pampulha;",
+    "cep": "31275972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Antônio Carlos, 8157  CDD Planalto;"
 }

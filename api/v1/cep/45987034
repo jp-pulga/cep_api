@@ -1,12 +1,12 @@
 {
-  "cep": "45987034",
-  "logradouro": "Avenida Presidente Getúlio Vargas",
-  "bairro": "Wilson Guimarães Soares",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Wilson Guimarães Soares;",
+    "cep": "45987034",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Avenida Presidente Getúlio Vargas;"
 }

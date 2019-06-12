@@ -1,12 +1,13 @@
 {
-  "cep": "37795973",
-  "logradouro": "AGC Óleo Rua Vereador Sebastião Dias s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Andradas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37795973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Andradas"
+    },
+    "ibge": 3102605,
+    "logradouro": "Rua Vereador Sebastião Dias, s\/n  AGC Óleo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29950971",
-  "logradouro": "AGC Barra Seca-Água Limpa Estrada Dom José Dalvit s/n",
-  "bairro": "Barra Seca",
-  "cidade": {
-    "nome": "Jaguaré",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra Seca;",
+    "cep": "29950971",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Jaguaré"
+    },
+    "ibge": 3203056,
+    "logradouro": "Estrada Dom José Dalvit, s\/n  AGC Barra Seca;"
 }

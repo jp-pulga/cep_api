@@ -1,12 +1,12 @@
 {
-  "cep": "06696050",
-  "logradouro": "Estrada Aldeia da Serra",
-  "bairro": "Ingahi",
-  "cidade": {
-    "nome": "Itapevi",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ingahi;",
+    "cep": "06696050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapevi"
+    },
+    "logradouro": "Estrada Aldeia da Serra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29901350",
-  "logradouro": "Avenida São Mateus",
-  "bairro": "Aviso",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aviso;",
+    "cep": "29901350",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida São Mateus;"
 }

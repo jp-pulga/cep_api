@@ -1,12 +1,13 @@
 {
-  "cep": "35460972",
-  "logradouro": "AGC Tejuco (Brumadinho) Rua João dos Santos 332",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brumadinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35460972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brumadinho"
+    },
+    "ibge": 3109006,
+    "logradouro": "Rua João dos Santos, 332  AGC Tejuco (Brumadinho);"
 }

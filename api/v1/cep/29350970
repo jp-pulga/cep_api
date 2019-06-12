@@ -1,12 +1,13 @@
 {
-  "cep": "29350970",
-  "logradouro": "AC Presidente Kennedy Rua Atílio Vivácqua Vieira 49",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Kennedy",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29350970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Presidente Kennedy"
+    },
+    "ibge": 3204302,
+    "logradouro": "Rua Atila Vivacqua, 21  AC Presidente Kennedy;"
 }

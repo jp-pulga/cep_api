@@ -1,12 +1,12 @@
 {
-  "cep": "37704176",
-  "logradouro": "Rua Professora Elenice Latrônico do Lago",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "37704176",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Professora Elenice Latrônico do Lago;"
 }

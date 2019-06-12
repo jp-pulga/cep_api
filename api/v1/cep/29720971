@@ -1,12 +1,13 @@
 {
-  "cep": "29720971",
-  "logradouro": "AGC Córrego Moacir Rodovia Dario Salvador s/n",
-  "bairro": "Córrego Moacir",
-  "cidade": {
-    "nome": "Governador Lindenberg",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Córrego Moacir;",
+    "cep": "29720971",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Governador Lindenberg"
+    },
+    "ibge": 3202256,
+    "logradouro": "Rodovia Dario Salvador, s\/n  AGC Córrego Moacir;"
 }

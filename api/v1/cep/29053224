@@ -1,12 +1,13 @@
 {
-  "cep": "29053224",
-  "logradouro": "Escadaria Vitória das Neves Siqueira",
-  "bairro": "Monte Belo",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Monte Belo;",
+    "cep": "29053224",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Escadaria Vitória das Neves Siqueira;"
 }

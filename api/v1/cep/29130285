@@ -1,12 +1,13 @@
 {
-  "cep": "29130285",
-  "logradouro": "Estrada Hugo Eduardo Proscholdt",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29130285",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Estrada Hugo Eduardo Proscholdt;"
 }

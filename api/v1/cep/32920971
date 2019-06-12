@@ -1,12 +1,12 @@
 {
-  "cep": "32920971",
-  "logradouro": "AGC Nossa Senhora da Paz Rua Primeiro de Maio 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Joaquim de Bicas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "32920971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Joaquim de Bicas"
+    },
+    "logradouro": "Rua Primeiro de Maio, 13  AGC Nossa Senhora da Paz;"
 }

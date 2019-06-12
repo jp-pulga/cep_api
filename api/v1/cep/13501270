@@ -1,12 +1,12 @@
 {
-  "cep": "13501270",
-  "logradouro": "Avenida Presidente Kennedy até 496/497",
-  "bairro": "Estádio",
-  "cidade": {
-    "nome": "Rio Claro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Estádio;",
+    "cep": "13501270",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Rio Claro"
+    },
+    "logradouro": "Avenida Presidente Kennedy - até 496\/497;"
 }

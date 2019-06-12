@@ -1,12 +1,13 @@
 {
-  "cep": "29290981",
-  "logradouro": "AGC Virgínia Nova Estrada Jaciguá x Rio Novo do Sul s/n",
-  "bairro": "Virgínia Nova",
-  "cidade": {
-    "nome": "Rio Novo do Sul",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Virgínia Nova;",
+    "cep": "29290981",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Rio Novo do Sul"
+    },
+    "ibge": 3204401,
+    "logradouro": "Estrada Jaciguá x Rio Novo do Sul, s\/n  AGC Virgínia Nova;"
 }

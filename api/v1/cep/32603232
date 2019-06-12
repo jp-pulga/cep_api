@@ -1,12 +1,12 @@
 {
-  "cep": "32603232",
-  "logradouro": "Praça Santa Inês",
-  "bairro": "Guarujá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guarujá;",
+    "cep": "32603232",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Praça Santa Inês;"
 }

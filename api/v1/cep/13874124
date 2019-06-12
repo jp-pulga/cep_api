@@ -1,12 +1,12 @@
 {
-  "cep": "13874124",
-  "logradouro": "Rua Alberto Nicolau José",
-  "bairro": "Jardim Priscila",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Priscila;",
+    "cep": "13874124",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua Alberto Nicolau José;"
 }

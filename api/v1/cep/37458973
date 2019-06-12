@@ -1,12 +1,13 @@
 {
-  "cep": "37458973",
-  "logradouro": "AC Alagoa Rua Felicidade 28",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alagoa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37458973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alagoa"
+    },
+    "ibge": 3101300,
+    "logradouro": "Rua Felicidade, 28  AC Alagoa;"
 }

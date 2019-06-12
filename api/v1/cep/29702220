@@ -1,12 +1,12 @@
 {
-  "cep": "29702220",
-  "logradouro": "Rua Guaçui",
-  "bairro": "Maria Esmênia",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Maria Esmênia;",
+    "cep": "29702220",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Guaçui;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29151515",
-  "logradouro": "Travessa Domingos Martins",
-  "bairro": "Itaquari",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itaquari;",
+    "cep": "29151515",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Travessa Domingos Martins;"
 }

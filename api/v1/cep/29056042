@@ -1,12 +1,12 @@
 {
-  "cep": "29056042",
-  "logradouro": "Praça Alice Quintela",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "29056042",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Praça Alice Quintela;"
 }

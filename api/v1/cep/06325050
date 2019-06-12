@@ -1,12 +1,12 @@
 {
-  "cep": "06325050",
-  "logradouro": "Rua Rio Grande do Sul",
-  "bairro": "Conjunto Habitacional Presidente Castelo Branco",
-  "cidade": {
-    "nome": "Carapicuíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Presidente Castelo Branco;",
+    "cep": "06325050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Carapicuíba"
+    },
+    "logradouro": "Rua Rio Grande do Sul;"
 }

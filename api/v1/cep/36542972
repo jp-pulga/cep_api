@@ -1,12 +1,13 @@
 {
-  "cep": "36542972",
-  "logradouro": "AGC Ribeirão de Santo Antônio Rua José Alves de Magalhães s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brás Pires",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36542972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brás Pires"
+    },
+    "ibge": 3108701,
+    "logradouro": "Rua José Alves de Magalhães, s\/n  AGC Ribeirão de Santo Antônio;"
 }

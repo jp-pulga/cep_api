@@ -1,12 +1,12 @@
 {
-  "cep": "18703848",
-  "logradouro": "Praça Rio Doce",
-  "bairro": "Costa Azul II",
-  "cidade": {
-    "nome": "Avaré",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Costa Azul II;",
+    "cep": "18703848",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Avaré"
+    },
+    "logradouro": "Praça Rio Doce;"
 }

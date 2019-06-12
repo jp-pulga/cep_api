@@ -1,12 +1,12 @@
 {
-  "cep": "29115154",
-  "logradouro": "Rua Marechal Floriano Peixoto",
-  "bairro": "Paul",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Paul;",
+    "cep": "29115154",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Marechal Floriano Peixoto;"
 }

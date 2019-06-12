@@ -1,12 +1,13 @@
 {
-  "cep": "29728980",
-  "logradouro": "PC Sapucaia Rua Vicente Padovan s/n",
-  "bairro": "Sapucaia",
-  "cidade": {
-    "nome": "Sapucaia (Marilândia)",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sapucaia\/Sapucaia",
+    "cep": "29728980",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Marilândia"
+    },
+    "ibge": 3203353,
+    "logradouro": "Estrada Sapucaia-Marilândia, s\/n  AGC Sapucaia;"
 }

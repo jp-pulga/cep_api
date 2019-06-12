@@ -1,12 +1,12 @@
 {
-  "cep": "96820690",
-  "logradouro": "Travessa Primeiro de Maio",
-  "bairro": "Santo Inácio",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Inácio;",
+    "cep": "96820690",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Travessa Primeiro de Maio;"
 }

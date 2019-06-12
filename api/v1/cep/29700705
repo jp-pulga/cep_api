@@ -1,12 +1,13 @@
 {
-  "cep": "29700705",
-  "logradouro": "Escadaria José Transpadini",
-  "bairro": "Pôr do Sol",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Por do Sol;",
+    "cep": "29700705",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria José Transpadini;"
 }

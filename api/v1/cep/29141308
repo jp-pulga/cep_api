@@ -1,12 +1,12 @@
 {
-  "cep": "29141308",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Vista Linda",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Linda;",
+    "cep": "29141308",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

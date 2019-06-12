@@ -1,12 +1,12 @@
 {
-  "cep": "69033700",
-  "logradouro": "Rua Rio Negro",
-  "bairro": "Vila da Prata",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Vila da Prata;",
+    "cep": "69033700",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Rio Negro;"
 }

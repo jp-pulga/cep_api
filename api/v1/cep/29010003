@@ -1,12 +1,12 @@
 {
-  "cep": "29010003",
-  "logradouro": "Avenida Jerônimo Monteiro de 559 ao fim - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29010003",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro - de 559 ao fim - lado ímpar;"
 }

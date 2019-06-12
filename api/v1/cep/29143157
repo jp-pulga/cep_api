@@ -1,12 +1,12 @@
 {
-  "cep": "29143157",
-  "logradouro": "Rua Itaguaçu",
-  "bairro": "Parque Gramado",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque Gramado;",
+    "cep": "29143157",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Itaguaçu;"
 }

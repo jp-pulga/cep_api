@@ -1,12 +1,13 @@
 {
-  "cep": "29142353",
-  "logradouro": "Rua Aimorés",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29142353",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Aymorés;"
 }

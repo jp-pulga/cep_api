@@ -1,12 +1,13 @@
 {
-  "cep": "29946642",
-  "logradouro": "Avenida Beira Mar",
-  "bairro": "Campo Grande",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Campo Grande;",
+    "cep": "29946642",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Beira Mar;"
 }

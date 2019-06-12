@@ -1,12 +1,13 @@
 {
-  "cep": "29712440",
-  "logradouro": "Estrada Catuá de Baixo",
-  "bairro": "Benjamin Carlos dos Santos",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Benjamin Carlos dos Santos;",
+    "cep": "29712440",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Estrada Catuá de Baixo;"
 }

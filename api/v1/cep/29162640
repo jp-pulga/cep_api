@@ -1,12 +1,12 @@
 {
-  "cep": "29162640",
-  "logradouro": "Rua Guaçuí",
-  "bairro": "Cantinho do Céu",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cantinho do Céu;",
+    "cep": "29162640",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Guaçuí;"
 }

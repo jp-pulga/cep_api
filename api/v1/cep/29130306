@@ -1,12 +1,13 @@
 {
-  "cep": "29130306",
-  "logradouro": "Rodovia BR-262 de 21 a 23 - lado ímpar",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "29130306",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Rodovia BR-262;"
 }

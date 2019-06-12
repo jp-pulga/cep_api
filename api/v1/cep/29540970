@@ -1,12 +1,13 @@
 {
-  "cep": "29540970",
-  "logradouro": "AC Ibitirama Rua Edgar Santana Alves 57",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibitirama",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29540970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ibitirama"
+    },
+    "ibge": 3202553,
+    "logradouro": "Rua Edgar Santana Alves, 57  AC Ibitirama;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29700201",
-  "logradouro": "Rua Senador Atílio Vivacqua",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29700201",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Senador Atílio Vivacqua;"
 }

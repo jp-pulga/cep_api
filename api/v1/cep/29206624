@@ -1,12 +1,13 @@
 {
-  "cep": "29206624",
-  "logradouro": "Alameda dos Bem-te-vis",
-  "bairro": "Lameirão",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Lameirão;",
+    "cep": "29206624",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Alameda dos Bem-te-vis;"
 }

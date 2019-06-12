@@ -1,12 +1,13 @@
 {
-  "cep": "37443970",
-  "logradouro": "AC Baependi Rua Doutor Manoel Joaquim 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Baependi",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37443970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Baependi"
+    },
+    "ibge": 3104908,
+    "logradouro": "Rua Doutor Manoel Joaquim, 15  AC Baependi;"
 }

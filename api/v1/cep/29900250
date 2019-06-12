@@ -1,12 +1,12 @@
 {
-  "cep": "29900250",
-  "logradouro": "Avenida Barra de São Francisco",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29900250",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Barra de São Francisco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29107095",
-  "logradouro": "Rua Viana",
-  "bairro": "Divino Espírito Santo",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Divino Espírito Santo;",
+    "cep": "29107095",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Viana;"
 }

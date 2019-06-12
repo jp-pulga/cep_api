@@ -1,12 +1,13 @@
 {
-  "cep": "29700673",
-  "logradouro": "Escadaria Vicente José de Souza",
-  "bairro": "Pôr do Sol",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Por do Sol;",
+    "cep": "29700673",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Vicente José de Souza;"
 }

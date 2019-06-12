@@ -1,12 +1,13 @@
 {
-  "cep": "29702824",
-  "logradouro": "Escadaria Liberalino Rufino",
-  "bairro": "Adélia Giubertti",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Adélia Giuberti;",
+    "cep": "29702824",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Liberalino Rufino;"
 }

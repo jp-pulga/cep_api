@@ -1,12 +1,13 @@
 {
-  "cep": "35600973",
-  "logradouro": "AGF Centro de Bom Despacho Praça da Matriz 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Despacho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35600973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Despacho"
+    },
+    "ibge": 3107406,
+    "logradouro": "Praça da Matriz, 14  AGF Centro de Bom Despacho;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29152011",
-  "logradouro": "Escadaria Anírio Salles Garcia",
-  "bairro": "Sotema",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sotema;",
+    "cep": "29152011",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Escadaria Anírio Salles Garcia;"
 }

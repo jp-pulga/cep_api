@@ -1,12 +1,12 @@
 {
-  "cep": "02558080",
-  "logradouro": "Rua Santo Antônio da Platina",
-  "bairro": "Vila Prado",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Prado;",
+    "cep": "02558080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Santo Antônio da Platina;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29192012",
-  "logradouro": "Rua Presidente Kennedy",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29192012",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Presidente Kennedy;"
 }

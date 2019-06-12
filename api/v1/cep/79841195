@@ -1,12 +1,12 @@
 {
-  "cep": "79841195",
-  "logradouro": "Rua Projetada X",
-  "bairro": "Vila Ubiratan",
-  "cidade": {
-    "nome": "Dourados",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Ubiratan;",
+    "cep": "79841195",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Dourados"
+    },
+    "logradouro": "Rua Projetada X;"
 }

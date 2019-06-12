@@ -1,12 +1,12 @@
 {
-  "cep": "29193339",
-  "logradouro": "Rua Cidade de Vitória",
-  "bairro": "Itaputera",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itaputera;",
+    "cep": "29193339",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Cidade de Vitória;"
 }

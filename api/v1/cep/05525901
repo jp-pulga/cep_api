@@ -1,12 +1,12 @@
 {
-  "cep": "05525901",
-  "logradouro": "Condomínio Residencial Império I Estrada do Jaguaré 201",
-  "bairro": "Jardim Jussara",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Jussara;",
+    "cep": "05525901",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Estrada do Jaguaré, 201  Condomínio Residencial Império I;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35681250",
-  "logradouro": "Praça Geraldo Alves",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "35681250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Praça Geraldo Alves;"
 }

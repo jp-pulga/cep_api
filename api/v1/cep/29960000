@@ -1,12 +1,11 @@
 {
-  "cep": "29960000",
-  "logradouro": "Conceição da Barra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Conceição da Barra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29960000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Conceição da Barra"
+    },
+    "ibge": 3201605
 }

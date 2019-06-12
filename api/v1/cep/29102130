@@ -1,12 +1,12 @@
 {
-  "cep": "29102130",
-  "logradouro": "Rua Ibitirama",
-  "bairro": "Praia de Itaparica",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia de Itaparica;",
+    "cep": "29102130",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Ibitirama;"
 }

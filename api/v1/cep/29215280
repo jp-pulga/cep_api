@@ -1,12 +1,12 @@
 {
-  "cep": "29215280",
-  "logradouro": "Rua Augusto Gotardo",
-  "bairro": "Muquiçaba",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Muquiçaba;",
+    "cep": "29215280",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Augusto Gotardo;"
 }

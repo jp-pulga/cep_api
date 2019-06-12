@@ -1,12 +1,12 @@
 {
-  "cep": "29158666",
-  "logradouro": "Rua Piúma",
-  "bairro": "Vista Dourada",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Dourada;",
+    "cep": "29158666",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Piúma;"
 }

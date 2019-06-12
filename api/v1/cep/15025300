@@ -1,12 +1,12 @@
 {
-  "cep": "15025300",
-  "logradouro": "Rua Raul de Carvalho até 2543/2544",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "15025300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Raul de Carvalho - até 2543\/2544;"
 }

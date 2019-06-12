@@ -1,12 +1,13 @@
 {
-  "cep": "29936825",
-  "logradouro": "Avenida Antônio Costa Leal",
-  "bairro": "Cohab",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cohab;",
+    "cep": "29936825",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Antônio Costa Leal;"
 }

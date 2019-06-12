@@ -1,12 +1,13 @@
 {
-  "cep": "29908615",
-  "logradouro": "Avenida Lagoa do Durão",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "29908615",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Avenida Lagoa do Durão;"
 }

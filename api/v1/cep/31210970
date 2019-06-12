@@ -1,12 +1,12 @@
 {
-  "cep": "31210970",
-  "logradouro": "AC Conjunto IAPI Avenida Presidente Antônio Carlos 605",
-  "bairro": "Lagoinha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lagoinha;",
+    "cep": "31210970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Antônio Carlos, 605 Loja 01  AC Conjunto IAPI;"
 }

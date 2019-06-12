@@ -1,12 +1,12 @@
 {
-  "cep": "29933710",
-  "logradouro": "Rua Nelson Fundão",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "29933710",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Nelson Fundão;"
 }

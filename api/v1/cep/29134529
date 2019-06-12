@@ -1,12 +1,12 @@
 {
-  "cep": "29134529",
-  "logradouro": "Avenida Afonso Cláudio",
-  "bairro": "Universal",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Universal;",
+    "cep": "29134529",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Avenida Afonso Cláudio;"
 }

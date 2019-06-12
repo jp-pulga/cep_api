@@ -1,12 +1,13 @@
 {
-  "cep": "29795982",
-  "logradouro": "AGC Ebenezer Estrada Ebenezer s/n",
-  "bairro": "Ebenezer",
-  "cidade": {
-    "nome": "Águia Branca",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ebenezer;",
+    "cep": "29795982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Águia Branca"
+    },
+    "ibge": 3200136,
+    "logradouro": "Estrada Ebenezer, s\/n  AGC Ebenezer;"
 }

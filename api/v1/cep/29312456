@@ -1,12 +1,12 @@
 {
-  "cep": "29312456",
-  "logradouro": "Beco Um",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "29312456",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Beco Antônio Corrêa da Silva;"
 }

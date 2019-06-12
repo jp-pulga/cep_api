@@ -1,12 +1,12 @@
 {
-  "cep": "29900205",
-  "logradouro": "Avenida Governador Lindenberg de 1167 a 1313 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29900205",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Governador Lindenberg - de 1167 a 1313 - lado ímpar;"
 }

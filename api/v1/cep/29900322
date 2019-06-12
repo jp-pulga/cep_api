@@ -1,12 +1,12 @@
 {
-  "cep": "29900322",
-  "logradouro": "Avenida Conceição da Barra até 584 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29900322",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Conceição da Barra - até 584 - lado par;"
 }

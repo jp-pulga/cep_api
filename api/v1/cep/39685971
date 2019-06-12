@@ -1,12 +1,13 @@
 {
-  "cep": "39685971",
-  "logradouro": "AC Angelândia Avenida Vicente Pego 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Angelândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39685971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Angelândia"
+    },
+    "ibge": 3102852,
+    "logradouro": "Avenida Vicente Pego, 44  AC Angelândia;"
 }

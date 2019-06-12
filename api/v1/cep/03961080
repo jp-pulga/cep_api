@@ -1,12 +1,12 @@
 {
-  "cep": "03961080",
-  "logradouro": "Praça Tomazina de Gregório Listo",
-  "bairro": "Cidade São Mateus",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade São Mateus;",
+    "cep": "03961080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Tomazina de Gregório Listo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29113635",
-  "logradouro": "Rua Piuma",
-  "bairro": "Vale Encantado",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vale Encantado;",
+    "cep": "29113635",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Piuma;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29943700",
-  "logradouro": "Rua Gentil Otaviano Fundão Santos",
-  "bairro": "Bonsucesso",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bonsucesso;",
+    "cep": "29943700",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Gentil Otaviano Fundão Santos;"
 }

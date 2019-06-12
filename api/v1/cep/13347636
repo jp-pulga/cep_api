@@ -1,12 +1,12 @@
 {
-  "cep": "13347636",
-  "logradouro": "Rua Esmeralda Martini Paula",
-  "bairro": "Comercial Vitória Martini",
-  "cidade": {
-    "nome": "Indaiatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Comercial Vitória Martini;",
+    "cep": "13347636",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Indaiatuba"
+    },
+    "logradouro": "Rua Esmeralda Martini Paula;"
 }

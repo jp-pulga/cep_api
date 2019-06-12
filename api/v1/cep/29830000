@@ -1,12 +1,11 @@
 {
-  "cep": "29830000",
-  "logradouro": "Nova Venécia",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29830000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908
 }

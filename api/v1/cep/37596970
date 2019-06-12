@@ -1,12 +1,13 @@
 {
-  "cep": "37596970",
-  "logradouro": "AC Albertina Rua Joäo Sanches 315",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Albertina",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37596970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Albertina"
+    },
+    "ibge": 3101409,
+    "logradouro": "Rua Joäo Sanches, 315  AC Albertina;"
 }

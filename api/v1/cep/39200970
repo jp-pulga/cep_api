@@ -1,12 +1,12 @@
 {
-  "cep": "39200970",
-  "logradouro": "AC Corinto Rua Doutor Antônio Alvarenga 565",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Corinto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39200970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Corinto"
+    },
+    "logradouro": "Rua Doutor Antônio Alvarenga 565  AC Corinto;"
 }

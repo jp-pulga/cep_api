@@ -1,12 +1,12 @@
 {
-  "cep": "13876811",
-  "logradouro": "Rua Josepha Zanello Missassi",
-  "bairro": "Jardim Primavera",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Primavera;",
+    "cep": "13876811",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua Josepha Zanello Missassi;"
 }

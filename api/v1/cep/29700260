@@ -1,12 +1,12 @@
 {
-  "cep": "29700260",
-  "logradouro": "Rua Jerônimo Monteiro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29700260",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Jerônimo Monteiro;"
 }

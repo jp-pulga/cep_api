@@ -1,12 +1,12 @@
 {
-  "cep": "29167523",
-  "logradouro": "Avenida Domingos José Martins",
-  "bairro": "Novo Porto Canoa",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Porto Canoa;",
+    "cep": "29167523",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Avenida Domingos José Martins;"
 }

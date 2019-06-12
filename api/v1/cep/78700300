@@ -1,12 +1,12 @@
 {
-  "cep": "78700300",
-  "logradouro": "Avenida Presidente Kennedy",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "78700300",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Presidente Kennedy;"
 }

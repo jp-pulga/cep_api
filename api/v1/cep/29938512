@@ -1,12 +1,12 @@
 {
-  "cep": "29938512",
-  "logradouro": "Alameda Bom Pastor",
-  "bairro": "Rio Preto",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rio Preto;",
+    "cep": "29938512",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Alameda Bom Pastor;"
 }

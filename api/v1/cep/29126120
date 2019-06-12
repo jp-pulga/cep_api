@@ -1,12 +1,13 @@
 {
-  "cep": "29126120",
-  "logradouro": "Avenida Cachoeiro de Itapemirim",
-  "bairro": "Riviera da Barra",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Riviera da Barra;",
+    "cep": "29126120",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Cachoeiro de Itapemirim;"
 }

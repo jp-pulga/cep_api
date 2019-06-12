@@ -1,12 +1,11 @@
 {
-  "cep": "29745000",
-  "logradouro": "São Domingos do Norte",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Domingos do Norte",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29745000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Domingos do Norte"
+    },
+    "ibge": 3204658
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29072272",
-  "logradouro": "Largo do Esperanto",
-  "bairro": "Jabour",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jabour;",
+    "cep": "29072272",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Largo do Esperanto;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29830985",
-  "logradouro": "AGC São Gonçalo Estrada Principal s/n",
-  "bairro": "São Gonçalo",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Gonçalo;",
+    "cep": "29830985",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908,
+    "logradouro": "Estrada Principal, s\/n  AGC São Gonçalo;"
 }

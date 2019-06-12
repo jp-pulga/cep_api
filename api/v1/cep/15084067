@@ -1,12 +1,12 @@
 {
-  "cep": "15084067",
-  "logradouro": "Avenida Emílio Trevisan",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bom Jardim;",
+    "cep": "15084067",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Avenida Emílio Trevisan;"
 }

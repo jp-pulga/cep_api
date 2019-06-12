@@ -1,12 +1,12 @@
 {
-  "cep": "29192460",
-  "logradouro": "Rua Praia de Itaguaçú",
-  "bairro": "Sauaçu",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sauaçu;",
+    "cep": "29192460",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Praia de Itaguaçú;"
 }

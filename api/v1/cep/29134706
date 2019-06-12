@@ -1,12 +1,13 @@
 {
-  "cep": "29134706",
-  "logradouro": "Rua da Escadaria",
-  "bairro": "Universal",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Universal;",
+    "cep": "29134706",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Rua da Escadaria;"
 }

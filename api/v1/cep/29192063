@@ -1,12 +1,13 @@
 {
-  "cep": "29192063",
-  "logradouro": "Estrada Aracruz-Nova Almeida",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29192063",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Aracruz-Nova Almeida;"
 }

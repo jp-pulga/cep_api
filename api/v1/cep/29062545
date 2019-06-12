@@ -1,12 +1,12 @@
 {
-  "cep": "29062545",
-  "logradouro": "Rua Francisco Fundão",
-  "bairro": "Morada de Camburi",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Morada de Camburi;",
+    "cep": "29062545",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Francisco Fundão;"
 }

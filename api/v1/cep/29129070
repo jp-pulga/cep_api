@@ -1,12 +1,13 @@
 {
-  "cep": "29129070",
-  "logradouro": "Avenida do Caju",
-  "bairro": "Ponta da Fruta",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ponta da Fruta;",
+    "cep": "29129070",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida do Caju;"
 }

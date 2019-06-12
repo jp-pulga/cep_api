@@ -1,12 +1,12 @@
 {
-  "cep": "29704030",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "29704030",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29180248",
-  "logradouro": "Rua Santa Teresa",
-  "bairro": "Cidade Nova da Serra",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cidade Nova da Serra;",
+    "cep": "29180248",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Santa Teresa;"
 }

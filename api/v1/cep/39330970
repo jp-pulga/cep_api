@@ -1,12 +1,13 @@
 {
-  "cep": "39330970",
-  "logradouro": "AC Brasília de Minas Rua Coronel Sansão 483",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brasília de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39330970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brasília de Minas"
+    },
+    "ibge": 3108602,
+    "logradouro": "Rua Coronel Sansão, 483  AC Brasília de Minas;"
 }

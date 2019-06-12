@@ -1,12 +1,13 @@
 {
-  "cep": "29907055",
-  "logradouro": "Rodovia ES-245 Linhares Sul até 99998/99999",
-  "bairro": "Três Barras",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Três Barras;",
+    "cep": "29907055",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Rodovia ES-245 Linhares Sul;"
 }

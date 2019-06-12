@@ -1,12 +1,13 @@
 {
-  "cep": "29290970",
-  "logradouro": "AC Rio Novo do Sul Rua Major Caetano 23",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Novo do Sul",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29290970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Rio Novo do Sul"
+    },
+    "ibge": 3204401,
+    "logradouro": "Rua Fernando de Abreu, 35  AC Rio Novo do Sul;"
 }

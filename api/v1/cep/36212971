@@ -1,12 +1,13 @@
 {
-  "cep": "36212971",
-  "logradouro": "UD Barroso Rua João Santiago 51",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barroso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36212971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barroso"
+    },
+    "ibge": 3105905,
+    "logradouro": "Rua João Santiago, 51  UD Barroso;"
 }

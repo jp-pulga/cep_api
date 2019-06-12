@@ -1,12 +1,13 @@
 {
-  "cep": "29260970",
-  "logradouro": "AC Domingos Martins Avenida Presidente Vargas 875",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Domingos Martins",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29260970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Domingos Martins"
+    },
+    "ibge": 3201902,
+    "logradouro": "Avenida Presidente Vargas, 875  AC Domingos Martins;"
 }

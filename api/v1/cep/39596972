@@ -1,12 +1,13 @@
 {
-  "cep": "39596972",
-  "logradouro": "AC Botumirim Rua Adão Colares 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Botumirim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39596972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Botumirim"
+    },
+    "ibge": 3108503,
+    "logradouro": "Rua Adão Colares, 02  AC Botumirim;"
 }

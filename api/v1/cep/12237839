@@ -1,12 +1,12 @@
 {
-  "cep": "12237839",
-  "logradouro": "Praça Farroupilha",
-  "bairro": "Palmeiras de São José",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Palmeiras de São José;",
+    "cep": "12237839",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Praça Farroupilha;"
 }

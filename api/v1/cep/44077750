@@ -1,12 +1,12 @@
 {
-  "cep": "44077750",
-  "logradouro": "Avenida Presidente Dutra de 2222 a 2898 - lado par",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "44077750",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Presidente Dutra - de 2222 a 2898 - lado par;"
 }

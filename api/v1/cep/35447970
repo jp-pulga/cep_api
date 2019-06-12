@@ -1,12 +1,13 @@
 {
-  "cep": "35447970",
-  "logradouro": "AC Barra Longa Avenida Capitão Manoel Carneiro 143",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra Longa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35447970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barra Longa"
+    },
+    "ibge": 3105707,
+    "logradouro": "Avenida Capitão Manoel Carneiro, 143  AC Barra Longa;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29843970",
-  "logradouro": "AC Vila Pavão Rua Vasco Fernandes Coutinho 39",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vila Pavão",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29843970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Pavão"
+    },
+    "ibge": 3205150,
+    "logradouro": "Rua Vasco Fernandes Coutinho, 39  AC Vila Pavão;"
 }

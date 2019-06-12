@@ -1,12 +1,13 @@
 {
-  "cep": "29130312",
-  "logradouro": "Rua Doutor Raul Hilário",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "29130312",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Rua Doutor Raul Hilário;"
 }

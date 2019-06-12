@@ -1,12 +1,12 @@
 {
-  "cep": "29215400",
-  "logradouro": "Avenida Camilo Gianordoli",
-  "bairro": "Muquiçaba",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Muquiçaba;",
+    "cep": "29215400",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Avenida Camilo Gianordoli;"
 }

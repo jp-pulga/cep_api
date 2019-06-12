@@ -1,12 +1,13 @@
 {
-  "cep": "35938970",
-  "logradouro": "AC Bela Vista de Minas Avenida José Modesto de Ávila 528",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bela Vista de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35938970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bela Vista de Minas"
+    },
+    "ibge": 3106002,
+    "logradouro": "Avenida José Modesto de Ávila, 528  AC Bela Vista de Minas;"
 }

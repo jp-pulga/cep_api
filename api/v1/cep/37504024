@@ -1,12 +1,12 @@
 {
-  "cep": "37504024",
-  "logradouro": "Rua Presidente Wenceslau Braz",
-  "bairro": "Avenida",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Avenida;",
+    "cep": "37504024",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Presidente Wenceslau Braz;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29146300",
-  "logradouro": "Avenida Campo Grande",
-  "bairro": "Campo Grande",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Campo Grande;",
+    "cep": "29146300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Campo Grande;"
 }

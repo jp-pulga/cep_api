@@ -1,12 +1,12 @@
 {
-  "cep": "30190922",
-  "logradouro": "Mercado Central de Belo Horizonte Avenida Augusto de Lima 744",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30190922",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Augusto de Lima, 744  Mercado Central de Belo Horizonte;"
 }

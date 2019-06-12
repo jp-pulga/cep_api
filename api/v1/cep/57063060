@@ -1,12 +1,12 @@
 {
-  "cep": "57063060",
-  "logradouro": "Rua Em Projeto A (Lot Santa Amélia)",
-  "bairro": "Santa Amélia",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Santa Amélia;",
+    "cep": "57063060",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Em Projeto A (Lot Santa Amélia);"
 }

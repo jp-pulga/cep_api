@@ -1,12 +1,12 @@
 {
-  "cep": "19023660",
-  "logradouro": "Rua Salgado Filho",
-  "bairro": "Jardim Paulista",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paulista;",
+    "cep": "19023660",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Salgado Filho;"
 }

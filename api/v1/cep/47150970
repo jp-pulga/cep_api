@@ -1,12 +1,12 @@
 {
-  "cep": "47150970",
-  "logradouro": "AC Santa Rita de Cássia Travessa Professora Helena 121",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Rita de Cássia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47150970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santa Rita de Cássia"
+    },
+    "logradouro": "Travessa Professora Helena, 121  AC Santa Rita de Cássia;"
 }

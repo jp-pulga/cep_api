@@ -1,12 +1,13 @@
 {
-  "cep": "29090870",
-  "logradouro": "Estrada Complexo Siderúrgico de Tubarão",
-  "bairro": "Jardim Camburi",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Camburi;",
+    "cep": "29090870",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Estrada Complexo Siderúrgico de Tubarão;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29345970",
-  "logradouro": "AC Marataízes Avenida Rubens Rangel 2600",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marataízes",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29345970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Marataízes"
+    },
+    "ibge": 3203320,
+    "logradouro": "Avenida Rubens Rangel, 2600  AC Marataízes;"
 }

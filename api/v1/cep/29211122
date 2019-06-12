@@ -1,12 +1,12 @@
 {
-  "cep": "29211122",
-  "logradouro": "Rua Alfredo Chaves",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29211122",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Alfredo Chaves;"
 }

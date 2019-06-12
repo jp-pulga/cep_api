@@ -1,12 +1,12 @@
 {
-  "cep": "29134491",
-  "logradouro": "Rua Presidente Kennedy",
-  "bairro": "Universal",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Universal;",
+    "cep": "29134491",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Presidente Kennedy;"
 }

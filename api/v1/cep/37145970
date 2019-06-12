@@ -1,12 +1,13 @@
 {
-  "cep": "37145970",
-  "logradouro": "AC Alterosa Rua Deputado Uriel Alvim 127",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alterosa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37145970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alterosa"
+    },
+    "ibge": 3102001,
+    "logradouro": "Rua Deputado Uriel Alvim, 127  AC Alterosa;"
 }

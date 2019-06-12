@@ -1,12 +1,13 @@
 {
-  "cep": "37820970",
-  "logradouro": "AC Arceburgo Rua Coronel Lucas Magalhães 699",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arceburgo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37820970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arceburgo"
+    },
+    "ibge": 3104106,
+    "logradouro": "Rua Coronel Lucas Magalhães, 699  AC Arceburgo;"
 }

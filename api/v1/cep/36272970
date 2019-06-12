@@ -1,12 +1,13 @@
 {
-  "cep": "36272970",
-  "logradouro": "AC Alfredo Vasconcelos Praça Nossa Senhora do Rosário 23",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alfredo Vasconcelos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36272970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alfredo Vasconcelos"
+    },
+    "ibge": 3101631,
+    "logradouro": "Praça Nossa Senhora do Rosário, 23  AC Alfredo Vasconcelos;"
 }

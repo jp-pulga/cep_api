@@ -1,12 +1,12 @@
 {
-  "cep": "29702010",
-  "logradouro": "Rua Senador Atílio Vivacqua",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "29702010",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Senador Atílio Vivacqua;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "15047333",
-  "logradouro": "Rua Sandra Valéria Beluci Simão",
-  "bairro": "Residencial Bom Sucesso",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Bom Sucesso;",
+    "cep": "15047333",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Sandra Valéria Beluci Simão;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29130333",
-  "logradouro": "Rua Militino Miranda",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "29130333",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Rua Militino Miranda;"
 }

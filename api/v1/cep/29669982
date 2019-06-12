@@ -1,12 +1,13 @@
 {
-  "cep": "29669982",
-  "logradouro": "AGC Baixo Santa Júlia Estrada Principal 20",
-  "bairro": "Agrovila",
-  "cidade": {
-    "nome": "São Roque do Canaã",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Agrovila;",
+    "cep": "29669982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Roque do Canaã"
+    },
+    "ibge": 3204955,
+    "logradouro": "Rua Principal, s\/n  AGC Agrovila;"
 }

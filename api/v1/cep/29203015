@@ -1,12 +1,13 @@
 {
-  "cep": "29203015",
-  "logradouro": "Estrada Lameirão",
-  "bairro": "Kubitschek",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Kubitschek;",
+    "cep": "29203015",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Estrada Lameirão;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "06449300",
-  "logradouro": "Estrada das Pitas",
-  "bairro": "Parque Viana",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Viana;",
+    "cep": "06449300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Estrada das Pitas;"
 }

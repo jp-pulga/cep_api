@@ -1,12 +1,12 @@
 {
-  "cep": "03138030",
-  "logradouro": "Praça Santa Helena",
-  "bairro": "Parque da Vila Prudente",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque da Vila Prudente;",
+    "cep": "03138030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Santa Helena;"
 }

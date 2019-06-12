@@ -1,12 +1,13 @@
 {
-  "cep": "29102857",
-  "logradouro": "Avenida Délio Silva Britto",
-  "bairro": "Residencial Coqueiral",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Residencial Coqueiral;",
+    "cep": "29102857",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Délio Silva Britto;"
 }

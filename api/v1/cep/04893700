@@ -1,12 +1,12 @@
 {
-  "cep": "04893700",
-  "logradouro": "Estrada da Serraria",
-  "bairro": "Gramado",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Gramado;",
+    "cep": "04893700",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Estrada da Serraria;"
 }

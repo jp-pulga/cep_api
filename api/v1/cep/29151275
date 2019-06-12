@@ -1,12 +1,13 @@
 {
-  "cep": "29151275",
-  "logradouro": "Travessa Cosme e Damião",
-  "bairro": "Alto Laje",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Alto Lage;",
+    "cep": "29151275",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Escadaria Cosme e Damião;"
 }

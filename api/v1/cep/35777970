@@ -1,12 +1,13 @@
 {
-  "cep": "35777970",
-  "logradouro": "AC Araçaí Avenida Ulisses Batista 59",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araçaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35777970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araçaí"
+    },
+    "ibge": 3103207,
+    "logradouro": "Avenida Ulisses Batista, 59  AC Araçaí;"
 }

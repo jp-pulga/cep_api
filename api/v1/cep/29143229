@@ -1,12 +1,12 @@
 {
-  "cep": "29143229",
-  "logradouro": "Rua Itarana",
-  "bairro": "Vista Mar",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Mar;",
+    "cep": "29143229",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Itarana;"
 }

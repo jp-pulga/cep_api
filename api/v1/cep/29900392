@@ -1,12 +1,12 @@
 {
-  "cep": "29900392",
-  "logradouro": "Avenida Governador Lindenberg de 1828 ao fim - lado par",
-  "bairro": "Colina",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Colina;",
+    "cep": "29900392",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Governador Lindenberg - de 1828 ao fim - lado par;"
 }

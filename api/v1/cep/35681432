@@ -1,12 +1,12 @@
 {
-  "cep": "35681432",
-  "logradouro": "Rua Professor Marcio Auril",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "35681432",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Professor Marcio Auril;"
 }

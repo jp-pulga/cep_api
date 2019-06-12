@@ -1,12 +1,12 @@
 {
-  "cep": "12221521",
-  "logradouro": "Rua Professora Maria Siqueira Nathan",
-  "bairro": "Vila Tesouro",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Tesouro;",
+    "cep": "12221521",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Professora Maria Siqueira Nathan;"
 }

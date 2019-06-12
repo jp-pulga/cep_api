@@ -1,12 +1,12 @@
 {
-  "cep": "44023535",
-  "logradouro": "Praça Cícero Carneiro",
-  "bairro": "Rua Nova",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rua Nova;",
+    "cep": "44023535",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Praça Cícero Carneiro;"
 }

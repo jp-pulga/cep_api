@@ -1,12 +1,11 @@
 {
-  "cep": "29390000",
-  "logradouro": "Iúna",
-  "bairro": "",
-  "cidade": {
-    "nome": "Iúna",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29390000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Iúna"
+    },
+    "ibge": 3203007
 }

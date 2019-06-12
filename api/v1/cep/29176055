@@ -1,12 +1,12 @@
 {
-  "cep": "29176055",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Serra Centro",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Serra Centro;",
+    "cep": "29176055",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

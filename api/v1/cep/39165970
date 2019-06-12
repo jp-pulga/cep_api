@@ -1,12 +1,12 @@
 {
-  "cep": "39165970",
-  "logradouro": "AC Serra Azul de Minas Avenida Maria do Amparo Lages Aguiar 119",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra Azul de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39165970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Serra Azul de Minas"
+    },
+    "logradouro": "Avenida Maria do Amparo Lages Aguiar, 119  AC Serra Azul de Minas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29720970",
-  "logradouro": "AC Governador Lindenberg Rua São José 655",
-  "bairro": "Governador Lindenberg",
-  "cidade": {
-    "nome": "Governador Lindenberg",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29720970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Governador Lindenberg"
+    },
+    "ibge": 3202256,
+    "logradouro": "Rua São José, 655  AC Governador Lindenberg;"
 }

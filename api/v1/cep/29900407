@@ -1,12 +1,12 @@
 {
-  "cep": "29900407",
-  "logradouro": "Avenida Governador Lindenberg de 1315 a 1827 - lado ímpar",
-  "bairro": "Colina",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Colina;",
+    "cep": "29900407",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Governador Lindenberg - de 1315 a 1827 - lado ímpar;"
 }

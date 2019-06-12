@@ -1,12 +1,13 @@
 {
-  "cep": "35249971",
-  "logradouro": "AGC Alvarenga Rua Primeiro de Março 06",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alvarenga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35249971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alvarenga"
+    },
+    "ibge": 3102209,
+    "logradouro": "Rua Primeiro de Março, 06  AGC Alvarenga;"
 }

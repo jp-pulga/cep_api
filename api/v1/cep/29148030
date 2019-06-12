@@ -1,12 +1,12 @@
 {
-  "cep": "29148030",
-  "logradouro": "Rua Alfredo Chaves",
-  "bairro": "Vila Capixaba",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Capixaba;",
+    "cep": "29148030",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Alfredo Chaves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45987002",
-  "logradouro": "Rua Dom Pedro I",
-  "bairro": "Wilson Guimarães Soares",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Wilson Guimarães Soares;",
+    "cep": "45987002",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Dom Pedro I;"
 }

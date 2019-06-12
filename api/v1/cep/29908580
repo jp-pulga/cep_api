@@ -1,12 +1,13 @@
 {
-  "cep": "29908580",
-  "logradouro": "Rua Joeirana",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "29908580",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Rua Joeirana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39864973",
-  "logradouro": "AGC Mairink Rua Águas Formosas s/n",
-  "bairro": "Mairink",
-  "cidade": {
-    "nome": "Carlos Chagas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mairink;",
+    "cep": "39864973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Carlos Chagas"
+    },
+    "logradouro": "Rua Águas Formosas, s\/n  AGC Mairink;"
 }

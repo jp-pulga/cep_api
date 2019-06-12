@@ -1,12 +1,12 @@
 {
-  "cep": "38408216",
-  "logradouro": "Avenida Professora Juvenília dos Santos",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "38408216",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida Professora Juvenília dos Santos;"
 }

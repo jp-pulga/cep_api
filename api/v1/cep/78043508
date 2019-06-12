@@ -1,12 +1,12 @@
 {
-  "cep": "78043508",
-  "logradouro": "Rua Presidente Wenceslau Braz (Lot. Morada do Sol)",
-  "bairro": "Quilombo",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Quilombo;",
+    "cep": "78043508",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Presidente Wenceslau Braz (Lot. Morada do Sol);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29902220",
-  "logradouro": "Rua Governador Jerônimo Monteiro",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "29902220",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Governador Jerônimo Monteiro;"
 }

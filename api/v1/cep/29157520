@@ -1,12 +1,12 @@
 {
-  "cep": "29157520",
-  "logradouro": "Rua Vitória",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "29157520",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua da Vitória;"
 }

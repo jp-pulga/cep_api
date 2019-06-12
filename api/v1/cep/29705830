@@ -1,12 +1,13 @@
 {
-  "cep": "29705830",
-  "logradouro": "Escadaria Pintassilgo",
-  "bairro": "Fioravante Marino",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Fioravante Marino;",
+    "cep": "29705830",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Pintassilgo;"
 }

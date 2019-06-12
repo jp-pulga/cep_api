@@ -1,12 +1,12 @@
 {
-  "cep": "29147300",
-  "logradouro": "Rua Padre José de Anchieta",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "29147300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Avenida Padre Anchieta;"
 }

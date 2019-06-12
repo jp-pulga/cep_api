@@ -1,12 +1,13 @@
 {
-  "cep": "29147170",
-  "logradouro": "Avenida Bragança",
-  "bairro": "São Gonçalo",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Gonçalo;",
+    "cep": "29147170",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Bragança;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29198503",
-  "logradouro": "Rua Fundão",
-  "bairro": "Santa Marta",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Marta;",
+    "cep": "29198503",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Fundão;"
 }

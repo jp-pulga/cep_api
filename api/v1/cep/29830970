@@ -1,12 +1,13 @@
 {
-  "cep": "29830970",
-  "logradouro": "AC Nova Venécia Praça Jones dos Santos Neves 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29830970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908,
+    "logradouro": "Praça Jones dos Santos Neves, 43  AC Nova Venécia;"
 }

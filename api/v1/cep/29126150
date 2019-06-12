@@ -1,12 +1,13 @@
 {
-  "cep": "29126150",
-  "logradouro": "Avenida Doutor Dório Silva",
-  "bairro": "Santa Paula I",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Paula I;",
+    "cep": "29126150",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Doutor Dório Silva;"
 }

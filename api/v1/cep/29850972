@@ -1,12 +1,13 @@
 {
-  "cep": "29850972",
-  "logradouro": "AGC Joaçuba Estrada Joaçuba-Ecoporanga s/n",
-  "bairro": "Joaçuba",
-  "cidade": {
-    "nome": "Ecoporanga",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Joaçuba;",
+    "cep": "29850972",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ecoporanga"
+    },
+    "ibge": 3202108,
+    "logradouro": "Estrada Joaçuba-Ecoporanga, s\/n  AGC Joaçuba;"
 }

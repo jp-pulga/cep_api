@@ -1,12 +1,12 @@
 {
-  "cep": "03070005",
-  "logradouro": "Praça Odilon Ventania",
-  "bairro": "Tatuapé",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Tatuapé;",
+    "cep": "03070005",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Odilon Ventania;"
 }

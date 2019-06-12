@@ -1,12 +1,12 @@
 {
-  "cep": "15091480",
-  "logradouro": "Rua Veniz Thome Chaddad",
-  "bairro": "Jardim Tarraf",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Tarraf;",
+    "cep": "15091480",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Veniz Thome Chaddad;"
 }

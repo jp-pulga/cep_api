@@ -1,12 +1,12 @@
 {
-  "cep": "18610035",
-  "logradouro": "Rua Professor Naul Antonio Buchignani",
-  "bairro": "Altos do Paraíso",
-  "cidade": {
-    "nome": "Botucatu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Altos do Paraíso;",
+    "cep": "18610035",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Botucatu"
+    },
+    "logradouro": "Rua Professor Naul Antonio Buchignani;"
 }

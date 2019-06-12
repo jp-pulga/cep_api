@@ -1,12 +1,12 @@
 {
-  "cep": "29932760",
-  "logradouro": "Rua Guaçuí",
-  "bairro": "Litorâneo",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Litorâneo;",
+    "cep": "29932760",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Guaçuí;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29090670",
-  "logradouro": "Rua Esméria Barros Deorce",
-  "bairro": "Jardim Camburi",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Camburi;",
+    "cep": "29090670",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Rua Esméria Barros Deorce;"
 }

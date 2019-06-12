@@ -1,12 +1,12 @@
 {
-  "cep": "13872034",
-  "logradouro": "Rua Capitão José Gomes Guimarães",
-  "bairro": "Jardim Primeiro de Maio",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Primeiro de Maio;",
+    "cep": "13872034",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua Capitão José Gomes Guimarães;"
 }

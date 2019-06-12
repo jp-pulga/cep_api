@@ -1,12 +1,12 @@
 {
-  "cep": "18052771",
-  "logradouro": "Rua Professor Doutor Orlando Bastos",
-  "bairro": "Parque Reserva Fazenda Imperial",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Reserva Fazenda Imperial;",
+    "cep": "18052771",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Professor Doutor Orlando Bastos;"
 }

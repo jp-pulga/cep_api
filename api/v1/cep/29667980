@@ -1,12 +1,13 @@
 {
-  "cep": "29667980",
-  "logradouro": "AGC São Jacinto Avenida Severino Simonassi 13",
-  "bairro": "São Jacinto",
-  "cidade": {
-    "nome": "São Roque do Canaã",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Jacinto;",
+    "cep": "29667980",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Roque do Canaã"
+    },
+    "ibge": 3204955,
+    "logradouro": "Avenida Severino Simonassi, 13  AGC São Jacinto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29900502",
-  "logradouro": "Rua Governador Afonso Cláudio de 100 a 578 - lado par",
-  "bairro": "Nossa Senhora da Conceição",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nossa Senhora da Conceição;",
+    "cep": "29900502",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Governador Afonso Cláudio - de 100 a 578 - lado par;"
 }

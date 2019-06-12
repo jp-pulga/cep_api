@@ -1,12 +1,13 @@
 {
-  "cep": "29390970",
-  "logradouro": "AC Iúna Avenida Presidente Getúlio Vargas 406",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Iúna",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29390970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Iúna"
+    },
+    "ibge": 3203007,
+    "logradouro": "Avenida Presidente Getúlio Vargas, 406  AC Iúna;"
 }

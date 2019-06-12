@@ -1,12 +1,12 @@
 {
-  "cep": "29709312",
-  "logradouro": "Rua Águia Branca",
-  "bairro": "Columbia",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Columbia;",
+    "cep": "29709312",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Águia Branca;"
 }

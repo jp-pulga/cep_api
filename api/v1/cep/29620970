@@ -1,12 +1,13 @@
 {
-  "cep": "29620970",
-  "logradouro": "AC Itarana Rua Elias Estevão Colnago 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itarana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29620970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Itarana"
+    },
+    "ibge": 3202900,
+    "logradouro": "Rua Elias Estevão Colnago, 25  AC Itarana;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18215240",
-  "logradouro": "Rua Professora Mary Siqueira Campos",
-  "bairro": "Jardim Monte Santo",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Monte Santo;",
+    "cep": "18215240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Professora Mary Siqueira Campos;"
 }

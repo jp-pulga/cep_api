@@ -1,12 +1,13 @@
 {
-  "cep": "29830984",
-  "logradouro": "AGC Poção Praça Central s/n",
-  "bairro": "Poção",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Poção;",
+    "cep": "29830984",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908,
+    "logradouro": "Praça Central, s\/n  AGC Poção;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35661358",
-  "logradouro": "Praça Wenceslau Braz",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "35661358",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Praça Wenceslau Braz;"
 }

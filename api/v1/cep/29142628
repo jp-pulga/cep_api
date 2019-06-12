@@ -1,12 +1,12 @@
 {
-  "cep": "29142628",
-  "logradouro": "Rua Dores do Rio Preto",
-  "bairro": "Jardim Botânico",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Botânico;",
+    "cep": "29142628",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Dores do Rio Preto;"
 }

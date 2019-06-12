@@ -1,12 +1,13 @@
 {
-  "cep": "29670970",
-  "logradouro": "AC Ibiraçu Rua Martin Pescador 26",
-  "bairro": "Ericina",
-  "cidade": {
-    "nome": "Ibiraçu",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ericina;",
+    "cep": "29670970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ibiraçu"
+    },
+    "ibge": 3202504,
+    "logradouro": "Rua Martin Pescador, 26  AC Ibiraçu;"
 }

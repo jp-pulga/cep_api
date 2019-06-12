@@ -1,12 +1,12 @@
 {
-  "cep": "15014215",
-  "logradouro": "Rua Delegado Pinto de Toledo de 3400/3401 ao fim",
-  "bairro": "Vila Bom Jesus",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Bom Jesus;",
+    "cep": "15014215",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Delegado Pinto de Toledo - de 3400\/3401 ao fim;"
 }

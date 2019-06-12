@@ -1,12 +1,12 @@
 {
-  "cep": "96400281",
-  "logradouro": "Rua Conde de Porto Alegre (lado esquerdo par)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96400281",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Conde de Porto Alegre (lado esquerdo par);"
 }

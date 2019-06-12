@@ -1,12 +1,12 @@
 {
-  "cep": "29450970",
-  "logradouro": "AC Apiacá Rua Jerônimo Monteiro 09",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Apiacá",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29450970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Apiacá"
+    },
+    "logradouro": "Rua Jerônimo Monteiro, 09  AC Apiacá;"
 }

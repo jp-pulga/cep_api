@@ -1,12 +1,12 @@
 {
-  "cep": "05350901",
-  "logradouro": "Perdigão AgoIndustrial S.A. Avenida Escola Politécnica 760",
-  "bairro": "Jaguaré",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jaguaré;",
+    "cep": "05350901",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Escola Politécnica, 760  Perdigão AgoIndustrial S.A.;"
 }

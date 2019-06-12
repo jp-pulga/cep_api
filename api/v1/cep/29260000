@@ -1,12 +1,11 @@
 {
-  "cep": "29260000",
-  "logradouro": "Domingos Martins",
-  "bairro": "",
-  "cidade": {
-    "nome": "Domingos Martins",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29260000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Domingos Martins"
+    },
+    "ibge": 3201902
 }

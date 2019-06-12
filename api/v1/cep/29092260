@@ -1,12 +1,13 @@
 {
-  "cep": "29092260",
-  "logradouro": "Rua Esther Oliveira Galveas",
-  "bairro": "Jardim Camburi",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Camburi;",
+    "cep": "29092260",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Rua Esther Oliveira Galveas;"
 }

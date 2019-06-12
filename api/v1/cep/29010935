@@ -1,12 +1,12 @@
 {
-  "cep": "29010935",
-  "logradouro": "Edifício Trade Center Avenida Jerônimo Monteiro 1000",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29010935",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro, 1000  Edifício Trade Center;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93270025",
-  "logradouro": "Travessa Anchieta",
-  "bairro": "Novo Esteio",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Novo Esteio;",
+    "cep": "93270025",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Travessa Anchieta;"
 }

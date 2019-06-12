@@ -1,12 +1,13 @@
 {
-  "cep": "29227300",
-  "logradouro": "Estrada Comunidade Rio Claro",
-  "bairro": "Rio Calçado",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rio Calçado;",
+    "cep": "29227300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Estrada Comunidade Rio Claro;"
 }

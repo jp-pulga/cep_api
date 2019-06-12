@@ -1,12 +1,13 @@
 {
-  "cep": "29783983",
-  "logradouro": "AGC Fartura Rua Ricardo Ahnert 13",
-  "bairro": "Fartura",
-  "cidade": {
-    "nome": "São Gabriel da Palha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Fartura;",
+    "cep": "29783983",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Gabriel da Palha"
+    },
+    "ibge": 3204708,
+    "logradouro": "Rua Ricardo Ahnert, 13  AGC Fartura;"
 }

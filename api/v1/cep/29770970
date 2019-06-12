@@ -1,12 +1,13 @@
 {
-  "cep": "29770970",
-  "logradouro": "AC Mantenópolis Rua Prefeito William Benjamim 325",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mantenópolis",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29770970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Mantenópolis"
+    },
+    "ibge": 3203304,
+    "logradouro": "Rua Prefeito William Benjamim, 325  AC Mantenópolis;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35621970",
-  "logradouro": "AC Biquinhas Rua Minas Gerais 700-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Biquinhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35621970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Biquinhas"
+    },
+    "ibge": 3107000,
+    "logradouro": "Rua Minas Gerais, 700-A  AC Biquinhas;"
 }

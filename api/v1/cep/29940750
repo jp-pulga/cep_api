@@ -1,12 +1,13 @@
 {
-  "cep": "29940750",
-  "logradouro": "Avenida Berlin",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "29940750",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Berlin;"
 }

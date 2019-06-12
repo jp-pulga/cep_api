@@ -1,12 +1,12 @@
 {
-  "cep": "13211526",
-  "logradouro": "Estrada Serra do Japi",
-  "bairro": "Chácara Malota",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Malota;",
+    "cep": "13211526",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Estrada Serra do Japi;"
 }

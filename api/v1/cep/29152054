@@ -1,12 +1,13 @@
 {
-  "cep": "29152054",
-  "logradouro": "Rua Coronel Darcy Pacheco de Queiroz",
-  "bairro": "Sotema",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sotema;",
+    "cep": "29152054",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Coronel Darcy Pacheco de Queiroz;"
 }

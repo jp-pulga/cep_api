@@ -1,12 +1,13 @@
 {
-  "cep": "29111760",
-  "logradouro": "Avenida Décima Avenida",
-  "bairro": "Nova América",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova América;",
+    "cep": "29111760",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Décima Avenida;"
 }

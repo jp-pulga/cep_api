@@ -1,12 +1,13 @@
 {
-  "cep": "29070650",
-  "logradouro": "Rua Professor Expedito Ramos Bogea",
-  "bairro": "Maria Ortiz",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Maria Ortiz;",
+    "cep": "29070650",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Rua Professor Expedito Ramos Bogea;"
 }

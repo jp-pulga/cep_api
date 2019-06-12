@@ -1,12 +1,12 @@
 {
-  "cep": "29314672",
-  "logradouro": "Escadaria José Quinelato",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "29314672",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria José Quinelato;"
 }

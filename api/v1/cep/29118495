@@ -1,12 +1,13 @@
 {
-  "cep": "29118495",
-  "logradouro": "Avenida Carlos Lindenberg",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "29118495",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Carlos Lindenberg;"
 }

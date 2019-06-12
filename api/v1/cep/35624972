@@ -1,12 +1,12 @@
 {
-  "cep": "35624972",
-  "logradouro": "AC Cedro do Abaeté Rua José Gonçalves Chaves 94 Loja 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cedro do Abaeté",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35624972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cedro do Abaeté"
+    },
+    "logradouro": "Rua José Gonçalves Chaves, 94 Loja 01  AC Cedro do Abaeté;"
 }

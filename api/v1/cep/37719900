@@ -1,12 +1,12 @@
 {
-  "cep": "37719900",
-  "logradouro": "Alcoa Aluminio S/A Rodovia Poços de Caldas - Andradas Km 10",
-  "bairro": "Zona Rural",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Zona Rural;",
+    "cep": "37719900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rodovia Poços de Caldas - Andradas, Km 10  Alcoa Aluminio S\/A;"
 }

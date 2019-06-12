@@ -1,12 +1,12 @@
 {
-  "cep": "30190916",
-  "logradouro": "Edifício São Sebastião Avenida Augusto de Lima 1800",
-  "bairro": "Barro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barro Preto;",
+    "cep": "30190916",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Augusto de Lima, 1800  Edifício São Sebastião;"
 }

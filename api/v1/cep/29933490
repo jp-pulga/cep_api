@@ -1,12 +1,12 @@
 {
-  "cep": "29933490",
-  "logradouro": "Rua Nelson Fundão",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "29933490",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Nelson Fundão;"
 }

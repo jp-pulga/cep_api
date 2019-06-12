@@ -1,12 +1,12 @@
 {
-  "cep": "89285430",
-  "logradouro": "Rua Galdino Tomelin",
-  "bairro": "Mato Preto",
-  "cidade": {
-    "nome": "São Bento do Sul",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Mato Preto;",
+    "cep": "89285430",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São Bento do Sul"
+    },
+    "logradouro": "Rua Galdino Tomelin;"
 }

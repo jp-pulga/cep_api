@@ -1,12 +1,13 @@
 {
-  "cep": "29154120",
-  "logradouro": "Rua André do Espírito Santo",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "29154120",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Rua André do Espírito Santo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29118376",
-  "logradouro": "Avenida Carlos Lindenberg lado ímpar",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "29118376",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Carlos Lindenberg - lado ímpar;"
 }

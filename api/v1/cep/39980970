@@ -1,12 +1,13 @@
 {
-  "cep": "39980970",
-  "logradouro": "AC Cachoeira de Pajeú Rua da Bahia 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira de Pajeú",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39980970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cachoeira de Pajeú"
+    },
+    "ibge": 3102704,
+    "logradouro": "Rua da Bahia, 68  AC Cachoeira de Pajeú;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29920970",
-  "logradouro": "AC Rio Bananal Rua Atílio Pezin 35 Lojas 07 e 08",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio Bananal",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29920970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Rio Bananal"
+    },
+    "ibge": 3204351,
+    "logradouro": "Rua Atílio Pezin, 35 Lojas 07 e 08  AC Rio Bananal;"
 }

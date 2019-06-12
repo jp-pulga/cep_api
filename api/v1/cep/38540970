@@ -1,12 +1,13 @@
 {
-  "cep": "38540970",
-  "logradouro": "AC Abadia dos Dourados Rua Mizael Nogueira 195",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Abadia dos Dourados",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38540970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Abadia dos Dourados"
+    },
+    "ibge": 3100104,
+    "logradouro": "Rua Mizael Nogueira, 195  AC Abadia dos Dourados;"
 }

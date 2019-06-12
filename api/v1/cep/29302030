@@ -1,12 +1,12 @@
 {
-  "cep": "29302030",
-  "logradouro": "Rua Baixo Guandu",
-  "bairro": "Zumbi",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Zumbi;",
+    "cep": "29302030",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Baixo Guandu;"
 }

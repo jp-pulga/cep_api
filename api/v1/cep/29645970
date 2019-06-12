@@ -1,12 +1,13 @@
 {
-  "cep": "29645970",
-  "logradouro": "AC Santa Maria de Jetibá Avenida Frederico Grulke 461",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria de Jetibá",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29645970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Santa Maria de Jetibá"
+    },
+    "ibge": 3204559,
+    "logradouro": "Avenida Frederico Grulke, 1645  AC Santa Maria de Jetibá;"
 }

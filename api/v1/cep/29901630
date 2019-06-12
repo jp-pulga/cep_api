@@ -1,12 +1,12 @@
 {
-  "cep": "29901630",
-  "logradouro": "Avenida São Mateus",
-  "bairro": "Shell",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Shell;",
+    "cep": "29901630",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida São Mateus;"
 }

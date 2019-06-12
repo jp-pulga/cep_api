@@ -1,12 +1,12 @@
 {
-  "cep": "29900510",
-  "logradouro": "Rua Presidente Castelo Branco",
-  "bairro": "Nossa Senhora da Conceição",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nossa Senhora da Conceição;",
+    "cep": "29900510",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Presidente Castelo Branco;"
 }

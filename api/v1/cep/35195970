@@ -1,12 +1,13 @@
 {
-  "cep": "35195970",
-  "logradouro": "AC Belo Oriente Avenida João Hemetrio de Menezes 640",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Oriente",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35195970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Oriente"
+    },
+    "ibge": 3106309,
+    "logradouro": "Avenida João Hemetrio de Menezes, 640  AC Belo Oriente;"
 }

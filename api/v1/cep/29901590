@@ -1,12 +1,12 @@
 {
-  "cep": "29901590",
-  "logradouro": "Avenida Conceição da Barra de 1574 a 2080 - lado par",
-  "bairro": "Shell",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Shell;",
+    "cep": "29901590",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Conceição da Barra - de 1574 a 2080 - lado par;"
 }

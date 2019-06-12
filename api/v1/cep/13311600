@@ -1,12 +1,12 @@
 {
-  "cep": "13311600",
-  "logradouro": "Rua Herculano de Toledo Prado",
-  "bairro": "Vila Esperança",
-  "cidade": {
-    "nome": "Itu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Esperança;",
+    "cep": "13311600",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itu"
+    },
+    "logradouro": "Rua Herculano de Toledo Prado;"
 }

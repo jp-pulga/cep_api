@@ -1,12 +1,13 @@
 {
-  "cep": "29945849",
-  "logradouro": "Estrada São Mateus-Estiva de Barra Nova do km 24100 ao km 26000",
-  "bairro": "Tábuas",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Tábuas;",
+    "cep": "29945849",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Estrada São Mateus-Estiva de Barra Nova - do km 24,100 ao km 26,000;"
 }

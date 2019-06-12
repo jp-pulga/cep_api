@@ -1,12 +1,12 @@
 {
-  "cep": "29182485",
-  "logradouro": "Rua São Roque do Canaã",
-  "bairro": "Parque das Gaivotas",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque das Gaivotas;",
+    "cep": "29182485",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua São Roque do Canaã;"
 }

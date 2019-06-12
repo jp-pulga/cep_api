@@ -1,12 +1,13 @@
 {
-  "cep": "29195497",
-  "logradouro": "Estrada Ribeirão do Meio",
-  "bairro": "Guaraná",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guaraná;",
+    "cep": "29195497",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Ribeirão do Meio;"
 }

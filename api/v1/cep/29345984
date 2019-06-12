@@ -1,12 +1,13 @@
 {
-  "cep": "29345984",
-  "logradouro": "AGC Praia dos Cações Rua Manoel José da Silva s/n",
-  "bairro": "Praia dos Cações",
-  "cidade": {
-    "nome": "Marataízes",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia dos Cações;",
+    "cep": "29345984",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Marataízes"
+    },
+    "ibge": 3203320,
+    "logradouro": "Rua Manoel José da Silva, s\/n  AGC Praia dos Cações;"
 }

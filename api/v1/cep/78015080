@@ -1,12 +1,12 @@
 {
-  "cep": "78015080",
-  "logradouro": "Rua Professor Vitorino Miranda",
-  "bairro": "Dom Aquino",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Dom Aquino;",
+    "cep": "78015080",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Professor Vitorino Miranda;"
 }

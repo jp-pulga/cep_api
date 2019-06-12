@@ -1,12 +1,13 @@
 {
-  "cep": "35365970",
-  "logradouro": "AC Abre Campo Rua Doutor Custódio de Paula Rodrigues 19",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Abre Campo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35365970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Abre Campo"
+    },
+    "ibge": 3100302,
+    "logradouro": "Rua Doutor Custódio de Paula Rodrigues, 19  AC Abre Campo;"
 }

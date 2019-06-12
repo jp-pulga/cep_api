@@ -1,12 +1,13 @@
 {
-  "cep": "29812981",
-  "logradouro": "AGC Itaperuna Rua Wilson Neves da Cunha s/n",
-  "bairro": "Itaperuna",
-  "cidade": {
-    "nome": "Barra de São Francisco",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itaperuna;",
+    "cep": "29812981",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Barra de São Francisco"
+    },
+    "ibge": 3200904,
+    "logradouro": "Rua Wilson Neves da Cunha, s\/n  AGC Itaperuna;"
 }

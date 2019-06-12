@@ -1,12 +1,13 @@
 {
-  "cep": "85906741",
-  "logradouro": "Alameda Primo Francescon",
-  "bairro": "Jardim Concórdia",
-  "cidade": {
-    "nome": "Toledo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Concórdia;",
+    "cep": "85906741",
+    "cidade": {
+        "estado": {
+            "nome": "Parana",
+            "sigla": "PR"
+        },
+        "nome": "Toledo"
+    },
+    "ibge": 4127700,
+    "logradouro": "Alameda Primo Francescon;"
 }

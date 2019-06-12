@@ -1,12 +1,12 @@
 {
-  "cep": "30310730",
-  "logradouro": "Rua Boa Esperança",
-  "bairro": "Carmo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carmo;",
+    "cep": "30310730",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Boa Esperança;"
 }

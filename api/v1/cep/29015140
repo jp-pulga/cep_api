@@ -1,12 +1,12 @@
 {
-  "cep": "29015140",
-  "logradouro": "Rua Muniz Freire",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29015140",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Muniz Freire;"
 }

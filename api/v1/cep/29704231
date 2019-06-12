@@ -1,12 +1,12 @@
 {
-  "cep": "29704231",
-  "logradouro": "Rua Alto Rio Novo",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "29704231",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Alto Rio Novo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29680970",
-  "logradouro": "AC João Neiva Praça Hilda Garcia 100",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "João Neiva",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29680970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "João Neiva"
+    },
+    "ibge": 3203130,
+    "logradouro": "Praça Hilda Garcia, 100  AC João Neiva;"
 }

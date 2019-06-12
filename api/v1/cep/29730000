@@ -1,12 +1,11 @@
 {
-  "cep": "29730000",
-  "logradouro": "Baixo Guandu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Baixo Guandu",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29730000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Baixo Guandu"
+    },
+    "ibge": 3200805
 }

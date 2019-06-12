@@ -1,12 +1,12 @@
 {
-  "cep": "29101740",
-  "logradouro": "Rua Guaçui",
-  "bairro": "Itapuã",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itapuã;",
+    "cep": "29101740",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Guaçui;"
 }

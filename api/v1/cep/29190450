@@ -1,12 +1,13 @@
 {
-  "cep": "29190450",
-  "logradouro": "Avenida Coronel Venâncio Flores de 1600 a 1620 - lado par",
-  "bairro": "Polivalente",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Polivalente;",
+    "cep": "29190450",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Avenida Coronel Venâncio Flores - de 1600 a 1620 - lado par;"
 }

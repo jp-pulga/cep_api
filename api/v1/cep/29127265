@@ -1,12 +1,12 @@
 {
-  "cep": "29127265",
-  "logradouro": "Rua Baixo Guandú",
-  "bairro": "Terra Vermelha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Terra Vermelha;",
+    "cep": "29127265",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Baixo Guandú;"
 }

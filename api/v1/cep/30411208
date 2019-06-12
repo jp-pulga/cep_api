@@ -1,12 +1,12 @@
 {
-  "cep": "30411208",
-  "logradouro": "Rua Rio Negro de 191/192 a 669/670",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "30411208",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Rio Negro - de 191\/192 a 669\/670;"
 }

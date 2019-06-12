@@ -1,12 +1,12 @@
 {
-  "cep": "29704290",
-  "logradouro": "Rua Baixo Guandu",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "29704290",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Baixo Guandu;"
 }

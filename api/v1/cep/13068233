@@ -1,12 +1,12 @@
 {
-  "cep": "13068233",
-  "logradouro": "Rua Papa Santo Estevão",
-  "bairro": "Conjunto Habitacional Padre Anchieta",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Padre Anchieta;",
+    "cep": "13068233",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Papa Santo Estevão;"
 }

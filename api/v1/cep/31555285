@@ -1,12 +1,12 @@
 {
-  "cep": "31555285",
-  "logradouro": "Praça Manoel Antônio de Carvalho",
-  "bairro": "Santa Amélia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Amélia;",
+    "cep": "31555285",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Manoel Antônio de Carvalho;"
 }

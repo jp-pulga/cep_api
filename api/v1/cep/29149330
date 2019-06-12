@@ -1,12 +1,12 @@
 {
-  "cep": "29149330",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "29149330",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

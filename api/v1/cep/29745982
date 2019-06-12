@@ -1,12 +1,13 @@
 {
-  "cep": "29745982",
-  "logradouro": "AGC Divisa Estrada Principal s/n",
-  "bairro": "Divisa",
-  "cidade": {
-    "nome": "São Domingos do Norte",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Divisa;",
+    "cep": "29745982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Domingos do Norte"
+    },
+    "ibge": 3204658,
+    "logradouro": "Estrada Principal, s\/n  AGC Divisa;"
 }

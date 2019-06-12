@@ -1,12 +1,12 @@
 {
-  "cep": "29190054",
-  "logradouro": "Praça São João Batista",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29190054",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Praça São João Batista;"
 }

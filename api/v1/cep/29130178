@@ -1,12 +1,12 @@
 {
-  "cep": "29130178",
-  "logradouro": "Praça Jerônimo Monteiro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29130178",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Praça Jerônimo Monteiro;"
 }

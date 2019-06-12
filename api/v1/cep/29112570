@@ -1,12 +1,12 @@
 {
-  "cep": "29112570",
-  "logradouro": "Rua Valério",
-  "bairro": "Rio Marinho",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rio Marinho;",
+    "cep": "29112570",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Valério;"
 }

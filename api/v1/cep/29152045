@@ -1,12 +1,13 @@
 {
-  "cep": "29152045",
-  "logradouro": "Escadaria Mário Amaral",
-  "bairro": "Sotema",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sotema;",
+    "cep": "29152045",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Escadaria Mário Amaral;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29227210",
-  "logradouro": "Rua Estrela do Mar",
-  "bairro": "Recanto da Sereia",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Recanto da Sereia;",
+    "cep": "29227210",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Rua Estrela do Mar;"
 }

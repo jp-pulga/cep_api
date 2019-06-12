@@ -1,12 +1,12 @@
 {
-  "cep": "30360092",
-  "logradouro": "Praça Chafic Kassis",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "30360092",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Chafic Kassis;"
 }

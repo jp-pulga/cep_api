@@ -1,12 +1,12 @@
 {
-  "cep": "29115046",
-  "logradouro": "Rua Governador Jerônimo Monteiro",
-  "bairro": "Paul",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Paul;",
+    "cep": "29115046",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Governador Jerônimo Monteiro;"
 }

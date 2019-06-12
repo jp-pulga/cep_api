@@ -1,12 +1,13 @@
 {
-  "cep": "29230980",
-  "logradouro": "AGC Iriri Rua Diógenes Tosta s/n",
-  "bairro": "Iriri",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Iriri;",
+    "cep": "29230980",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Anchieta"
+    },
+    "ibge": 3200409,
+    "logradouro": "Rua Diógenes Tosta, s\/n  AGC Iriri;"
 }

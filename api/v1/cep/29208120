@@ -1,12 +1,13 @@
 {
-  "cep": "29208120",
-  "logradouro": "Alameda Albatroz (residencial Beira Mar)",
-  "bairro": "Meaípe",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Meaípe;",
+    "cep": "29208120",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Alameda Albatroz (residencial Beira Mar);"
 }

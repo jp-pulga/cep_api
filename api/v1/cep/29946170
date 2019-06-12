@@ -1,12 +1,13 @@
 {
-  "cep": "29946170",
-  "logradouro": "Estrada São Mateus-Estiva de Barra Nova até km 2000",
-  "bairro": "Guriri Norte",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guriri Norte;",
+    "cep": "29946170",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Estrada São Mateus-Estiva de Barra Nova - até km 2,000;"
 }

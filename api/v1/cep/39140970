@@ -1,12 +1,13 @@
 {
-  "cep": "39140970",
-  "logradouro": "AC Alvorada de Minas Rua Pio XII 14-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alvorada de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39140970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alvorada de Minas"
+    },
+    "ibge": 3102407,
+    "logradouro": "Rua Pio XII, 14-A  AC Alvorada de Minas;"
 }

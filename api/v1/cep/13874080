@@ -1,12 +1,12 @@
 {
-  "cep": "13874080",
-  "logradouro": "Rua Professor Antônio O. Camargo",
-  "bairro": "Jardim São Thiago",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Thiago;",
+    "cep": "13874080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua Professor Antônio Oliveira Camargo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29194300",
-  "logradouro": "Estrada Santa Maria do km 6500 ao km 8000 - lado par",
-  "bairro": "Limão",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Limão;",
+    "cep": "29194300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Santa Maria - do km 6,500 ao km 8,000 - lado par;"
 }

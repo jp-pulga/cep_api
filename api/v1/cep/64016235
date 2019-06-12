@@ -1,12 +1,12 @@
 {
-  "cep": "64016235",
-  "logradouro": "Praça Estevam Alexandrino",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "64016235",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Praça Estevam Alexandrino;"
 }

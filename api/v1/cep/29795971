@@ -1,12 +1,13 @@
 {
-  "cep": "29795971",
-  "logradouro": "AGC Águas Claras Estrada Águas Claras Km 10",
-  "bairro": "Águas Claras",
-  "cidade": {
-    "nome": "Águia Branca",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Águas Claras;",
+    "cep": "29795971",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Águia Branca"
+    },
+    "ibge": 3200136,
+    "logradouro": "Estrada Águas Claras, Km 10  AGC Águas Claras;"
 }

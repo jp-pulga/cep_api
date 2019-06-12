@@ -1,12 +1,12 @@
 {
-  "cep": "30110040",
-  "logradouro": "Praça Wenceslau Braz",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "30110040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Wenceslau Braz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40725104",
-  "logradouro": "Rua Santa Helena",
-  "bairro": "Praia Grande",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Praia Grande;",
+    "cep": "40725104",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Santa Helena;"
 }

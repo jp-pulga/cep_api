@@ -1,12 +1,12 @@
 {
-  "cep": "29182303",
-  "logradouro": "Rua Itarana",
-  "bairro": "Praiamar",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praiamar;",
+    "cep": "29182303",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Itarana;"
 }

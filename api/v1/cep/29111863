@@ -1,12 +1,12 @@
 {
-  "cep": "29111863",
-  "logradouro": "Rua Valério Coser",
-  "bairro": "Nova América",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova América;",
+    "cep": "29111863",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Valério Coser;"
 }

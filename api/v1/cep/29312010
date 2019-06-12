@@ -1,12 +1,12 @@
 {
-  "cep": "29312010",
-  "logradouro": "Escadaria João Ferreira de Paulo",
-  "bairro": "Monte Cristo",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Monte Cristo;",
+    "cep": "29312010",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria João Ferreira de Paulo;"
 }

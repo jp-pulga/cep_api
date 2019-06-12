@@ -1,12 +1,13 @@
 {
-  "cep": "29946690",
-  "logradouro": "Estrada São Mateus-Estiva de Barra Nova do km 30100 ao fim",
-  "bairro": "Uruçuquara",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Uruçuquara;",
+    "cep": "29946690",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Estrada São Mateus-Estiva de Barra Nova - do km 30,100 ao fim;"
 }

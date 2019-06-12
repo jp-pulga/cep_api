@@ -1,12 +1,12 @@
 {
-  "cep": "32920970",
-  "logradouro": "AC São Joaquim de Bicas Rua Pernambuco 597",
-  "bairro": "Tereza Cristina",
-  "cidade": {
-    "nome": "São Joaquim de Bicas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tereza Cristina;",
+    "cep": "32920970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Joaquim de Bicas"
+    },
+    "logradouro": "Rua Pernambuco, 597  AC São Joaquim de Bicas;"
 }

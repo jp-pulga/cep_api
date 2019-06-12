@@ -1,12 +1,12 @@
 {
-  "cep": "12949123",
-  "logradouro": "Estrada Serra da Boa Vista (Parque da Montanha)",
-  "bairro": "Jardim Estância Brasil",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Estância Brasil;",
+    "cep": "12949123",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Estrada Serra da Boa Vista (Parque da Montanha);"
 }

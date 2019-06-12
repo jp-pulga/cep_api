@@ -1,12 +1,13 @@
 {
-  "cep": "37530970",
-  "logradouro": "AC Brasópolis Rua Gonçalves Torres 300",
-  "bairro": "Tijuco Preto",
-  "cidade": {
-    "nome": "Brasópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tijuco Preto;",
+    "cep": "37530970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brazópolis"
+    },
+    "ibge": 3108909,
+    "logradouro": "Rua Gonçalves Torres, 300  AC Brazópolis;"
 }

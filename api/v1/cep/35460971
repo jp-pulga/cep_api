@@ -1,12 +1,13 @@
 {
-  "cep": "35460971",
-  "logradouro": "UD Brumadinho Praça Paulo Alves Moreira 57 Loja 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brumadinho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35460971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brumadinho"
+    },
+    "ibge": 3109006,
+    "logradouro": "Praça Paulo Alves Moreira, 57 Loja 10  UD Brumadinho;"
 }

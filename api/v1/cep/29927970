@@ -1,12 +1,13 @@
 {
-  "cep": "29927970",
-  "logradouro": "AC Sooretama Rua Vitório Bóbbio 423",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sooretama",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29927970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Sooretama"
+    },
+    "ibge": 3205010,
+    "logradouro": "Rua Vitório Bóbbio, 423  AC Sooretama;"
 }

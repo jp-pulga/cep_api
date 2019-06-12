@@ -1,12 +1,12 @@
 {
-  "cep": "31525430",
-  "logradouro": "Praça Conceição Conde",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "31525430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Conceição Conde;"
 }

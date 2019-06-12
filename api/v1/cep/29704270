@@ -1,12 +1,12 @@
 {
-  "cep": "29704270",
-  "logradouro": "Rua Alfredo Chaves",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "29704270",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Alfredo Chaves;"
 }

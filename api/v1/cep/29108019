@@ -1,12 +1,12 @@
 {
-  "cep": "29108019",
-  "logradouro": "Rua Rubens Salles Primo",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "29108019",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Rubens Salles Primo;"
 }

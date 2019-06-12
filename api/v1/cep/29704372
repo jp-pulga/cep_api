@@ -1,12 +1,12 @@
 {
-  "cep": "29704372",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Honório Fraga",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Honório Fraga;",
+    "cep": "29704372",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

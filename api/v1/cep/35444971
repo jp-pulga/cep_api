@@ -1,12 +1,12 @@
 {
-  "cep": "35444971",
-  "logradouro": "AC Amparo da Serra Rua Nossa Senhora da Conceição 235",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Amparo da Serra",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35444971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Amparo da Serra"
+    },
+    "logradouro": "Rua Nossa Senhora da Conceição, 235  AC Amparo da Serra;"
 }

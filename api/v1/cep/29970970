@@ -1,12 +1,13 @@
 {
-  "cep": "29970970",
-  "logradouro": "AC Pedro Canário Praça Presidente Castelo Branco 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro Canário",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29970970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Pedro Canário"
+    },
+    "ibge": 3204054,
+    "logradouro": "Praça Presidente Castelo Branco, 20  AC Pedro Canário;"
 }

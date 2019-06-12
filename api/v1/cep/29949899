@@ -1,12 +1,13 @@
 {
-  "cep": "29949899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de São Mateus",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Área Rural de São Mateus;",
+    "cep": "29949899",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Área Rural;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29121015",
-  "logradouro": "Avenida Jerônimo Monteiro",
-  "bairro": "Garoto",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Garoto;",
+    "cep": "29121015",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro;"
 }

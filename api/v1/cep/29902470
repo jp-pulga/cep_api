@@ -1,12 +1,12 @@
 {
-  "cep": "29902470",
-  "logradouro": "Rua Santa Tereza",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "29902470",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Santa Tereza;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37578970",
-  "logradouro": "AC Bueno Brandão Rua Prefeito Domingos de Franco 186",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bueno Brandão",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37578970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bueno Brandão"
+    },
+    "ibge": 3109105,
+    "logradouro": "Rua Prefeito Domingos de Franco, 186  AC Bueno Brandão;"
 }

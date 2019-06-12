@@ -1,12 +1,12 @@
 {
-  "cep": "19033170",
-  "logradouro": "Rua Marechal Rondon",
-  "bairro": "Vale das Parreiras",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vale das Parreiras;",
+    "cep": "19033170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Marechal Rondon;"
 }

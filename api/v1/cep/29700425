@@ -1,12 +1,13 @@
 {
-  "cep": "29700425",
-  "logradouro": "Escadaria Ana Subtil",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "29700425",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Ana Subtil;"
 }

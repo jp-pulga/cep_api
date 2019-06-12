@@ -1,12 +1,12 @@
 {
-  "cep": "35249972",
-  "logradouro": "AC Alvarenga Rua Bocaiuva 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alvarenga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35249972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alvarenga"
+    },
+    "logradouro": "Rua Bocaiuva, 03  AC Alvarenga;"
 }

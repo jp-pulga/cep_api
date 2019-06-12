@@ -1,12 +1,12 @@
 {
-  "cep": "29113700",
-  "logradouro": "Rua São Gabriel da Palha",
-  "bairro": "Santa Clara",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Clara;",
+    "cep": "29113700",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua São Gabriel da Palha;"
 }

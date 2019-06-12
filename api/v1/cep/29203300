@@ -1,12 +1,12 @@
 {
-  "cep": "29203300",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Santa Margarida",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Margarida;",
+    "cep": "29203300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29304775",
-  "logradouro": "Rua Guaçuí",
-  "bairro": "Amarelo",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Amarelo;",
+    "cep": "29304775",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Guaçuí;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29140035",
-  "logradouro": "Rua Muniz Freire",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "29140035",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Muniz Freire;"
 }

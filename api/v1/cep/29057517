@@ -1,12 +1,13 @@
 {
-  "cep": "29057517",
-  "logradouro": "Escadaria da Grécia",
-  "bairro": "Barro Vermelho",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barro Vermelho;",
+    "cep": "29057517",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Escadaria da Grécia;"
 }

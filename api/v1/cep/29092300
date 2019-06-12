@@ -1,12 +1,13 @@
 {
-  "cep": "29092300",
-  "logradouro": "Estrada Complexo Siderúrgico de Tubarão",
-  "bairro": "Parque Industrial",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque Industrial;",
+    "cep": "29092300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Estrada Complexo Siderúrgico de Tubarão;"
 }

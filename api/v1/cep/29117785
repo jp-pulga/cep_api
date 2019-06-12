@@ -1,12 +1,12 @@
 {
-  "cep": "29117785",
-  "logradouro": "Beco do Pavão",
-  "bairro": "Cobi de Baixo",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cobi de Baixo;",
+    "cep": "29117785",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Beco do Pavão;"
 }

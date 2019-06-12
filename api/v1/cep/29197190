@@ -1,12 +1,13 @@
 {
-  "cep": "29197190",
-  "logradouro": "Estrada Reserva Biológica de Comboios",
-  "bairro": "Vila do Riacho",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila do Riacho;",
+    "cep": "29197190",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Reserva Biológica de Comboios;"
 }

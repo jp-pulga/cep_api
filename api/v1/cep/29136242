@@ -1,12 +1,13 @@
 {
-  "cep": "29136242",
-  "logradouro": "Avenida Espírito Santo",
-  "bairro": "Arlindo Villaschi",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Arlindo Villaschi;",
+    "cep": "29136242",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Avenida Espírito Santo;"
 }

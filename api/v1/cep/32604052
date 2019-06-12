@@ -1,12 +1,12 @@
 {
-  "cep": "32604052",
-  "logradouro": "Rua Prefeito Alcides Brás de 350/351 ao fim",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "32604052",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Prefeito Alcides Brás - de 350\/351 ao fim;"
 }

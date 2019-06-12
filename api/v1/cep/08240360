@@ -1,12 +1,12 @@
 {
-  "cep": "08240360",
-  "logradouro": "Rua Rio Bom",
-  "bairro": "Vila Progresso (Zona Leste)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Progresso (Zona Leste);",
+    "cep": "08240360",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Rio Bom;"
 }

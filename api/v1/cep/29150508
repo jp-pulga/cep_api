@@ -1,12 +1,12 @@
 {
-  "cep": "29150508",
-  "logradouro": "Rua Guarapari",
-  "bairro": "Oriente",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Oriente;",
+    "cep": "29150508",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Guarapari;"
 }

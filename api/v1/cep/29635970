@@ -1,12 +1,13 @@
 {
-  "cep": "29635970",
-  "logradouro": "AGC São Jorge de Oliveira Rua João Olinto Badaró 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brejetuba",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Jorge de Oliveira;",
+    "cep": "29635970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Brejetuba"
+    },
+    "ibge": 3201159,
+    "logradouro": "Rua João Olinto Badaró, 13  AGC São Jorge de Oliveira;"
 }

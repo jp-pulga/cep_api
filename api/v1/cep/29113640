@@ -1,12 +1,12 @@
 {
-  "cep": "29113640",
-  "logradouro": "Avenida Conceição do Castelo",
-  "bairro": "Vale Encantado",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vale Encantado;",
+    "cep": "29113640",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Conceição do Castelo;"
 }

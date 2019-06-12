@@ -1,12 +1,13 @@
 {
-  "cep": "29075517",
-  "logradouro": "Escadaria Antônio Caliari",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "29075517",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Escadaria Antônio Caliari;"
 }

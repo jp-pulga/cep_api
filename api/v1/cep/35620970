@@ -1,12 +1,13 @@
 {
-  "cep": "35620970",
-  "logradouro": "AC Abaeté Rua Jader de Moura 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Abaeté",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35620970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Abaeté"
+    },
+    "ibge": 3100203,
+    "logradouro": "Rua Jader de Moura, 310  AC Abaeté;"
 }

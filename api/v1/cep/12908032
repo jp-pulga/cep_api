@@ -1,12 +1,12 @@
 {
-  "cep": "12908032",
-  "logradouro": "Rua Estevam João do Carmo (Recanto Alegre)",
-  "bairro": "Jardim Recanto Alegre",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Recanto Alegre;",
+    "cep": "12908032",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Rua Estevam João do Carmo (Recanto Alegre);"
 }

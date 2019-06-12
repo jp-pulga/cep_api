@@ -1,12 +1,13 @@
 {
-  "cep": "29650970",
-  "logradouro": "AC Santa Teresa Rua Coronel Bonfim Júnior 230",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Teresa",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29650970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Santa Teresa"
+    },
+    "ibge": 3204609,
+    "logradouro": "Rua Coronel Bonfim Júnior, 230  AC Santa Teresa;"
 }

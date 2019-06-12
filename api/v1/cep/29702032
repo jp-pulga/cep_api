@@ -1,12 +1,13 @@
 {
-  "cep": "29702032",
-  "logradouro": "Escadaria Antônio Cofler Netto",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "29702032",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Antônio Cofler Netto;"
 }

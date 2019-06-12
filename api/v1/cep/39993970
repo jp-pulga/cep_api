@@ -1,12 +1,13 @@
 {
-  "cep": "39993970",
-  "logradouro": "AGC Itamarati Rua Principal s/n",
-  "bairro": "Itamarati",
-  "cidade": {
-    "nome": "Águas Vermelhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itamarati;",
+    "cep": "39993970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Águas Vermelhas"
+    },
+    "ibge": 3101003,
+    "logradouro": "Rua Principal, s\/n  AGC Itamarati;"
 }

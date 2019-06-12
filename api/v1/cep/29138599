@@ -1,12 +1,13 @@
 {
-  "cep": "29138599",
-  "logradouro": "Rua Esmeralda",
-  "bairro": "Morada Bethânia",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Morada Bethânia;",
+    "cep": "29138599",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Rua Esmeralda;"
 }

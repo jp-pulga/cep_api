@@ -1,12 +1,13 @@
 {
-  "cep": "29927982",
-  "logradouro": "AGC Juncado Estrada Juncado s/n",
-  "bairro": "Juncado",
-  "cidade": {
-    "nome": "Sooretama",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Juncado;",
+    "cep": "29927982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Sooretama"
+    },
+    "ibge": 3205010,
+    "logradouro": "Estrada Juncado, s\/n  AGC Juncado;"
 }

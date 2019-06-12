@@ -1,12 +1,12 @@
 {
-  "cep": "06709300",
-  "logradouro": "Estrada Aldeia",
-  "bairro": "Granja Viana",
-  "cidade": {
-    "nome": "Cotia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Granja Viana;",
+    "cep": "06709300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cotia"
+    },
+    "logradouro": "Estrada Aldeia;"
 }

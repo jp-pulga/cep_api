@@ -1,12 +1,12 @@
 {
-  "cep": "29141417",
-  "logradouro": "Rua Santa Teresa",
-  "bairro": "Jardim Campo Grande",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Campo Grande;",
+    "cep": "29141417",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Santa Teresa;"
 }

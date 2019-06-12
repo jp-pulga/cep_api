@@ -1,12 +1,11 @@
 {
-  "cep": "29630000",
-  "logradouro": "Brejetuba",
-  "bairro": "",
-  "cidade": {
-    "nome": "Brejetuba",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29630000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Brejetuba"
+    },
+    "ibge": 3201159
 }

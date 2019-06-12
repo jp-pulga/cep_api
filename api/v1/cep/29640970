@@ -1,12 +1,13 @@
 {
-  "cep": "29640970",
-  "logradouro": "AC Santa Leopoldina Avenida Prefeito Hélio Rocha 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Leopoldina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29640970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Santa Leopoldina"
+    },
+    "ibge": 3204500,
+    "logradouro": "Avenida Prefeito Hélio Rocha, 13  AC Santa Leopoldina;"
 }

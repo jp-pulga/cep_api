@@ -1,12 +1,13 @@
 {
-  "cep": "29550970",
-  "logradouro": "AC Jerônimo Monteiro Avenida Doutor José Faráh 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jerônimo Monteiro",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29550970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Jerônimo Monteiro"
+    },
+    "ibge": 3203106,
+    "logradouro": "Avenida Doutor José Faráh, 6  AC Jerônimo Monteiro;"
 }

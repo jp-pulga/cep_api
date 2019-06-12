@@ -1,12 +1,13 @@
 {
-  "cep": "36542970",
-  "logradouro": "AC Brás Pires Rua Coronel Soares 72",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brás Pires",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36542970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brás Pires"
+    },
+    "ibge": 3108701,
+    "logradouro": "Rua Coronel Soares, 72  AC Brás Pires;"
 }

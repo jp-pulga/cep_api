@@ -1,12 +1,12 @@
 {
-  "cep": "78710850",
-  "logradouro": "Avenida Presidente Kennedy",
-  "bairro": "Vila Marinópolis",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Marinópolis;",
+    "cep": "78710850",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Presidente Kennedy;"
 }

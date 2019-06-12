@@ -1,12 +1,13 @@
 {
-  "cep": "29707305",
-  "logradouro": "Estrada Córrego das Piabas",
-  "bairro": "Luiz Iglésias",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Luiz Iglesias;",
+    "cep": "29707305",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Estrada Córrego das Piabas;"
 }

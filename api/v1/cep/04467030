@@ -1,12 +1,12 @@
 {
-  "cep": "04467030",
-  "logradouro": "Rua Professor Salatiel de Toledo",
-  "bairro": "Jardim Itapura",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Itapura;",
+    "cep": "04467030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Salatiel de Toledo;"
 }

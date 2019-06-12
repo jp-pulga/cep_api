@@ -1,12 +1,12 @@
 {
-  "cep": "09783400",
-  "logradouro": "Avenida Jardim (Vl Esperança)",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09783400",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Avenida Jardim (Vl Esperança);"
 }

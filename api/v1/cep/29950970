@@ -1,12 +1,13 @@
 {
-  "cep": "29950970",
-  "logradouro": "AC Jaguaré Rua Uirapuru 625",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaguaré",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29950970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Jaguaré"
+    },
+    "ibge": 3203056,
+    "logradouro": "Rua Uirapuru, 625  AC Jaguaré;"
 }

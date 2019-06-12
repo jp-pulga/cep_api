@@ -1,12 +1,12 @@
 {
-  "cep": "29704260",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "29704260",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29210435",
-  "logradouro": "Rua da Esperança",
-  "bairro": "Sol Nascente",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sol Nascente;",
+    "cep": "29210435",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Rua da Esperança;"
 }

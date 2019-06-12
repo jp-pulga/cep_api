@@ -1,12 +1,12 @@
 {
-  "cep": "29300465",
-  "logradouro": "Escadaria Maria Lopes Pinheiro",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "29300465",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria Maria Lopes Pinheiro;"
 }

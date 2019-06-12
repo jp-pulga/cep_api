@@ -1,12 +1,12 @@
 {
-  "cep": "38408900",
-  "logradouro": "Prefeitura Municipal de Uberlândia Avenida Anselmo Alves dos Santos 600",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "38408900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida Anselmo Alves dos Santos, 600  Prefeitura Municipal de Uberlândia;"
 }

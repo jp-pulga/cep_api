@@ -1,12 +1,13 @@
 {
-  "cep": "37530971",
-  "logradouro": "AGC Cruz Vera Praça José Pires Vieira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brasópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37530971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brazópolis"
+    },
+    "ibge": 3108909,
+    "logradouro": "Praça José Pires Vieira, s\/n  AGC Cruz Vera;"
 }

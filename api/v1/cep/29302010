@@ -1,12 +1,12 @@
 {
-  "cep": "29302010",
-  "logradouro": "Rua Ecoporanga",
-  "bairro": "Zumbi",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Zumbi;",
+    "cep": "29302010",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Ecoporanga;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29702324",
-  "logradouro": "Escadaria Natanael Barbosa da Costa",
-  "bairro": "Vila Lenira",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Lenira;",
+    "cep": "29702324",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Natanael Barbosa da Costa;"
 }

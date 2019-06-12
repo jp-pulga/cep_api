@@ -1,12 +1,13 @@
 {
-  "cep": "29195425",
-  "logradouro": "Estrada Jayme Waldemar Rizzo",
-  "bairro": "Guaraná",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guaraná;",
+    "cep": "29195425",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Jayme Waldemar Rizzo;"
 }

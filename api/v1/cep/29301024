@@ -1,12 +1,12 @@
 {
-  "cep": "29301024",
-  "logradouro": "Escadaria José Trés",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "29301024",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria José Trés;"
 }

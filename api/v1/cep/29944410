@@ -1,12 +1,13 @@
 {
-  "cep": "29944410",
-  "logradouro": "Avenida Bernardino José de Sena",
-  "bairro": "Barra Nova",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra Nova;",
+    "cep": "29944410",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Bernardino José de Sena;"
 }

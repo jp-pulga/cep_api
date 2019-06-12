@@ -1,12 +1,12 @@
 {
-  "cep": "29150845",
-  "logradouro": "Travessa Joana D'Arc",
-  "bairro": "Oriente",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Oriente;",
+    "cep": "29150845",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua João Neiva;"
 }

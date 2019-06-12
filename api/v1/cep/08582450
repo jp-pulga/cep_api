@@ -1,12 +1,12 @@
 {
-  "cep": "08582450",
-  "logradouro": "Estrada Serra Azul",
-  "bairro": "Veraneio Maracanã",
-  "cidade": {
-    "nome": "Itaquaquecetuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Veraneio Maracanã;",
+    "cep": "08582450",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itaquaquecetuba"
+    },
+    "logradouro": "Estrada Serra Azul;"
 }

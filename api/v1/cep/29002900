@@ -1,12 +1,12 @@
 {
-  "cep": "29002900",
-  "logradouro": "Diretoria Regional da ECT/Espírito Santo Avenida Jerônimo Monteiro 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29002900",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro, 310  Superintendência Estadual de Operações do Espírito Santo;"
 }

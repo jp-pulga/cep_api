@@ -1,12 +1,13 @@
 {
-  "cep": "29630971",
-  "logradouro": "AGC Santa Rita de Brejetuba Estrada Brejetuba-Santa Rita s/n",
-  "bairro": "Santa Rita de Brejetuba",
-  "cidade": {
-    "nome": "Brejetuba",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Rita de Brejetuba;",
+    "cep": "29630971",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Brejetuba"
+    },
+    "ibge": 3201159,
+    "logradouro": "Estrada Brejetuba-Santa Rita, s\/n  AGC Santa Rita de Brejetuba;"
 }

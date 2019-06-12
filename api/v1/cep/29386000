@@ -1,12 +1,11 @@
 {
-  "cep": "29386000",
-  "logradouro": "Piaçu (Muniz Freire)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Piaçu (Muniz Freire)",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29386000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Muniz Freire"
+    },
+    "ibge": 3203700
 }

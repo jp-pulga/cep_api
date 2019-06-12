@@ -1,12 +1,13 @@
 {
-  "cep": "29941090",
-  "logradouro": "Avenida Brasil",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "29941090",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Brasil;"
 }

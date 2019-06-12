@@ -1,12 +1,13 @@
 {
-  "cep": "29199899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Aracruz",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Área Rural de Aracruz;",
+    "cep": "29199899",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Área Rural;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29113768",
-  "logradouro": "Rua São Gabriel da Palha",
-  "bairro": "Jardim do Vale",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim do Vale;",
+    "cep": "29113768",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua São Gabriel da Palha;"
 }

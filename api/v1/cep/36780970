@@ -1,12 +1,13 @@
 {
-  "cep": "36780970",
-  "logradouro": "AC Astolfo Dutra Praça Governador Valadares 151",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Astolfo Dutra",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36780970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Astolfo Dutra"
+    },
+    "ibge": 3104601,
+    "logradouro": "Praça Governador Valadares, 151  AC Astolfo Dutra;"
 }

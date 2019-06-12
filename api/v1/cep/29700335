@@ -1,12 +1,12 @@
 {
-  "cep": "29700335",
-  "logradouro": "Rua Jerônimo Monteiro",
-  "bairro": "Santa Cecília",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Cecília;",
+    "cep": "29700335",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Jerônimo Monteiro;"
 }

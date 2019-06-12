@@ -1,12 +1,11 @@
 {
-  "cep": "29850000",
-  "logradouro": "Ecoporanga",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ecoporanga",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29850000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ecoporanga"
+    },
+    "ibge": 3202108
 }

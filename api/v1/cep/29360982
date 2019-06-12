@@ -1,12 +1,13 @@
 {
-  "cep": "29360982",
-  "logradouro": "AGC Monte Pio Estrada Principal s/n",
-  "bairro": "Monte Pio",
-  "cidade": {
-    "nome": "Castelo",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Monte Pio;",
+    "cep": "29360982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Castelo"
+    },
+    "ibge": 3201407,
+    "logradouro": "Estrada Principal, s\/n  AGC Monte Pio;"
 }

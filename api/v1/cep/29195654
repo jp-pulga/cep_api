@@ -1,12 +1,12 @@
 {
-  "cep": "29195654",
-  "logradouro": "Rua Almir Pessoti da Vitória",
-  "bairro": "Recanto Feliz",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Recanto Feliz;",
+    "cep": "29195654",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Almir Pessoti da Vitória;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13870460",
-  "logradouro": "Rua Professor Cezar Lotito",
-  "bairro": "São Lázaro",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São Lázaro;",
+    "cep": "13870460",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua Professor Cezar Lotito;"
 }

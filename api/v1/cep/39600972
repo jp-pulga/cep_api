@@ -1,12 +1,13 @@
 {
-  "cep": "39600972",
-  "logradouro": "UD Araçuaí Rua Montes Claros 293",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Araçuaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "39600972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araçuaí"
+    },
+    "ibge": 3103405,
+    "logradouro": "Rua Montes Claros, 293  CDD Araçuaí;"
 }

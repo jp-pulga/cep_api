@@ -1,12 +1,11 @@
 {
-  "cep": "29687000",
-  "logradouro": "Acioli (João Neiva)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Acioli (João Neiva)",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29687000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "João Neiva"
+    },
+    "ibge": 3203130
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "29690000",
-  "logradouro": "Itaguaçu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itaguaçu",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29690000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Itaguaçu"
+    },
+    "ibge": 3202702
 }

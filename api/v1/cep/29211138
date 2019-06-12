@@ -1,12 +1,12 @@
 {
-  "cep": "29211138",
-  "logradouro": "Rua Guaçui",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29211138",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Guaçui;"
 }

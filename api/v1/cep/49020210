@@ -1,12 +1,12 @@
 {
-  "cep": "49020210",
-  "logradouro": "Avenida Professor Acrísio Cruz de 2 ao fim - lado par",
-  "bairro": "Salgado Filho",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Salgado Filho;",
+    "cep": "49020210",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Avenida Professor Acrísio Cruz - de 2 ao fim - lado par;"
 }

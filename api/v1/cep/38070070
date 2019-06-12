@@ -1,12 +1,12 @@
 {
-  "cep": "38070070",
-  "logradouro": "Rua Presidente Wenceslau Braz",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "38070070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Presidente Wenceslau Braz;"
 }

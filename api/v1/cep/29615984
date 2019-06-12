@@ -1,12 +1,13 @@
 {
-  "cep": "29615984",
-  "logradouro": "AGC Vila de Laranja da Terra Estrada ES-261 s/n",
-  "bairro": "Vila de Laranja da Terra",
-  "cidade": {
-    "nome": "Laranja da Terra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila de Laranja da Terra;",
+    "cep": "29615984",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Laranja da Terra"
+    },
+    "ibge": 3203163,
+    "logradouro": "Estrada ES-261, s\/n  AGC Vila de Laranja da Terra;"
 }

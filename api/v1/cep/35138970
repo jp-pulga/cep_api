@@ -1,12 +1,13 @@
 {
-  "cep": "35138970",
-  "logradouro": "AC Alpercata Avenida Agenor de Andrade 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alpercata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35138970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alpercata"
+    },
+    "ibge": 3101805,
+    "logradouro": "Avenida Agenor de Andrade, 52  AC Alpercata;"
 }

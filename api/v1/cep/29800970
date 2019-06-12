@@ -1,12 +1,13 @@
 {
-  "cep": "29800970",
-  "logradouro": "AC Barra de São Francisco Avenida Jones Santos Neves 335",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra de São Francisco",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29800970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Barra de São Francisco"
+    },
+    "ibge": 3200904,
+    "logradouro": "Avenida Jones Santos Neves, 335  AC Barra de São Francisco;"
 }

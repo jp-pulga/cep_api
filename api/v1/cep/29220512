@@ -1,12 +1,13 @@
 {
-  "cep": "29220512",
-  "logradouro": "Estrada Rota do Turismo",
-  "bairro": "Perocão",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Perocão;",
+    "cep": "29220512",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Estrada Rota do Turismo;"
 }

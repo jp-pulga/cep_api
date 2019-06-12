@@ -1,12 +1,12 @@
 {
-  "cep": "31520360",
-  "logradouro": "Praça Princesa Isabel",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "31520360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Princesa Isabel;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44088349",
-  "logradouro": "Avenida Presidente Dutra de 1903 a 2417 - lado ímpar",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "44088349",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Presidente Dutra - de 1903 a 2417 - lado ímpar;"
 }

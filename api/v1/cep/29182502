@@ -1,12 +1,12 @@
 {
-  "cep": "29182502",
-  "logradouro": "Rua Marechal Floriano",
-  "bairro": "Parque das Gaivotas",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque das Gaivotas;",
+    "cep": "29182502",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Marechal Floriano;"
 }

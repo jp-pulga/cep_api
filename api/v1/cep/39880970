@@ -1,12 +1,13 @@
 {
-  "cep": "39880970",
-  "logradouro": "AC Águas Formosas Rua Doutor Sebastião Figueiredo 600",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Águas Formosas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39880970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Águas Formosas"
+    },
+    "ibge": 3100906,
+    "logradouro": "Rua Doutor Sebastião Figueiredo, 600  AC Águas Formosas;"
 }

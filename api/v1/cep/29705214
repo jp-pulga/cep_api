@@ -1,12 +1,13 @@
 {
-  "cep": "29705214",
-  "logradouro": "Escadaria Hilária Main Forechi",
-  "bairro": "Carlos Germano Naumann",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Carlos Germano Naumann;",
+    "cep": "29705214",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Hilária Main Forechi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29178755",
-  "logradouro": "Avenida Nova Venécia",
-  "bairro": "Colina da Serra",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Colina da Serra;",
+    "cep": "29178755",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Avenida Nova Venécia;"
 }

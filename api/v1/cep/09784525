@@ -1,12 +1,12 @@
 {
-  "cep": "09784525",
-  "logradouro": "Rua das Estrelas (Vl S Pedro)",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09784525",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua das Estrelas (Vl S Pedro);"
 }

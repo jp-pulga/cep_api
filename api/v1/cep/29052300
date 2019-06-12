@@ -1,12 +1,13 @@
 {
-  "cep": "29052300",
-  "logradouro": "Escadaria Antônio Luiz Curvacho",
-  "bairro": "Praia do Suá",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia do Suá;",
+    "cep": "29052300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Escadaria Antônio Luiz Curvacho;"
 }

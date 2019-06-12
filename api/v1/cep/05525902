@@ -1,12 +1,12 @@
 {
-  "cep": "05525902",
-  "logradouro": "Condomínio Residencial Império II Estrada do Jaguaré 365",
-  "bairro": "Jardim Jussara",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Jussara;",
+    "cep": "05525902",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Estrada do Jaguaré, 365  Condomínio Residencial Império II;"
 }

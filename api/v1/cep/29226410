@@ -1,12 +1,13 @@
 {
-  "cep": "29226410",
-  "logradouro": "Estrada José Xavier da Rosa",
-  "bairro": "Comunidade Urbana de Barro Branco",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Comunidade Urbana de Barro Branco;",
+    "cep": "29226410",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Estrada José Xavier da Rosa;"
 }

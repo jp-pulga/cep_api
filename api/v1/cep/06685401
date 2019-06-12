@@ -1,12 +1,12 @@
 {
-  "cep": "06685401",
-  "logradouro": "Estrada Serra Dourada",
-  "bairro": "Chácaras Monte Serrat",
-  "cidade": {
-    "nome": "Itapevi",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácaras Monte Serrat;",
+    "cep": "06685401",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapevi"
+    },
+    "logradouro": "Estrada Serra Dourada;"
 }

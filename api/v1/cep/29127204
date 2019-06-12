@@ -1,12 +1,12 @@
 {
-  "cep": "29127204",
-  "logradouro": "Rua Itarana",
-  "bairro": "Terra Vermelha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Terra Vermelha;",
+    "cep": "29127204",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Itarana;"
 }

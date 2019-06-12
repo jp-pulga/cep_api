@@ -1,12 +1,13 @@
 {
-  "cep": "29884982",
-  "logradouro": "AGC Itabaiana Avenida Teófilo Otoni s/n",
-  "bairro": "Itabaiana",
-  "cidade": {
-    "nome": "Mucurici",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itabaiana;",
+    "cep": "29884982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Mucurici"
+    },
+    "ibge": 3203601,
+    "logradouro": "Avenida Teófilo Otoni, s\/n  AGC Itabaiana;"
 }

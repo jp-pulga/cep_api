@@ -1,12 +1,12 @@
 {
-  "cep": "29930710",
-  "logradouro": "Avenida Mateus Cunha Fundão",
-  "bairro": "Sernamby",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sernamby;",
+    "cep": "29930710",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Avenida Mateus Cunha Fundão;"
 }

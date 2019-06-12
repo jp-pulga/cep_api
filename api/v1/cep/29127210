@@ -1,12 +1,12 @@
 {
-  "cep": "29127210",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Terra Vermelha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Terra Vermelha;",
+    "cep": "29127210",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

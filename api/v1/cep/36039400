@@ -1,12 +1,12 @@
 {
-  "cep": "36039400",
-  "logradouro": "Rua das Esmeraldas",
-  "bairro": "Marilândia",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marilândia;",
+    "cep": "36039400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua das Esmeraldas;"
 }

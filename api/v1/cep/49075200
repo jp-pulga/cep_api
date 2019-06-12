@@ -1,12 +1,12 @@
 {
-  "cep": "49075200",
-  "logradouro": "Praça Dom José Thomaz",
-  "bairro": "Siqueira Campos",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Siqueira Campos;",
+    "cep": "49075200",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Praça Dom José Thomaz;"
 }

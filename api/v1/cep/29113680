@@ -1,12 +1,12 @@
 {
-  "cep": "29113680",
-  "logradouro": "Rua Iconha",
-  "bairro": "Santa Clara",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Clara;",
+    "cep": "29113680",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Iconha;"
 }

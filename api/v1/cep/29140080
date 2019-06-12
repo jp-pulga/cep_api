@@ -1,12 +1,13 @@
 {
-  "cep": "29140080",
-  "logradouro": "Avenida Espírito Santo",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "29140080",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Espírito Santo;"
 }

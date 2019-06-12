@@ -1,12 +1,13 @@
 {
-  "cep": "29709333",
-  "logradouro": "Estrada Córrego São João Pequeno",
-  "bairro": "Columbia",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Columbia;",
+    "cep": "29709333",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Estrada Córrego São João Pequeno;"
 }

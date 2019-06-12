@@ -1,12 +1,13 @@
 {
-  "cep": "37340970",
-  "logradouro": "AC Bocaina de Minas Rua Capitão João Mariano Dias 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bocaina de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37340970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bocaina de Minas"
+    },
+    "ibge": 3107208,
+    "logradouro": "Rua Capitão João Mariano Dias, 86  AC Bocaina de Minas;"
 }

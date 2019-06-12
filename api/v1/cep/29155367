@@ -1,12 +1,12 @@
 {
-  "cep": "29155367",
-  "logradouro": "Travessa São Gabriel da Palha",
-  "bairro": "Porto Novo",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Porto Novo;",
+    "cep": "29155367",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua São Gabriel da Palha;"
 }

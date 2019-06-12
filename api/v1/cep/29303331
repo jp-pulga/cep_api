@@ -1,12 +1,13 @@
 {
-  "cep": "29303331",
-  "logradouro": "Escadaria Maria Bonadiman Taddei",
-  "bairro": "Gilberto Machado",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Doutor Gilberto Machado;",
+    "cep": "29303331",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "ibge": 3201209,
+    "logradouro": "Escadaria Maria Bonadiman Taddei;"
 }

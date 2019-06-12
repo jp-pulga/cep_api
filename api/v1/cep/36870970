@@ -1,12 +1,13 @@
 {
-  "cep": "36870970",
-  "logradouro": "AC Barão de Monte Alto Rua Otonio Antunes 412-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barão de Monte Alto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36870970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barão de Monte Alto"
+    },
+    "ibge": 3105509,
+    "logradouro": "Rua Otonio Antunes, 412-B  AC Barão de Monte Alto;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29114697",
-  "logradouro": "Avenida Chile",
-  "bairro": "Argolas",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Argolas;",
+    "cep": "29114697",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Chile;"
 }

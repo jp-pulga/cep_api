@@ -1,12 +1,13 @@
 {
-  "cep": "39850970",
-  "logradouro": "AC Ataléia Rua Governador Valadares 305",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ataléia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39850970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ataléia"
+    },
+    "ibge": 3104700,
+    "logradouro": "Rua Governador Valadares, 305  AC Ataléia;"
 }

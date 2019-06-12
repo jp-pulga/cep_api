@@ -1,12 +1,12 @@
 {
-  "cep": "29940421",
-  "logradouro": "Rua Santa Tereza",
-  "bairro": "Comunidade Paulista",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Comunidade Paulista;",
+    "cep": "29940421",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Santa Tereza;"
 }

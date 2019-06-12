@@ -1,12 +1,12 @@
 {
-  "cep": "29149406",
-  "logradouro": "Rua São Mateus",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "29149406",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua São Mateus;"
 }

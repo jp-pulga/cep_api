@@ -1,12 +1,12 @@
 {
-  "cep": "29055036",
-  "logradouro": "Rua Procurador Antônio Benedicto Amancio Pereira",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "29055036",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Procurador Antônio Benedicto Amancio Pereira;"
 }

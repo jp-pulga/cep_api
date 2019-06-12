@@ -1,12 +1,12 @@
 {
-  "cep": "78125526",
-  "logradouro": "Rua Presidente Venceslau Brás (Lot A Limpa)",
-  "bairro": "Centro-Sul",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78125526",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Presidente Venceslau Brás (Lot A Limpa);"
 }

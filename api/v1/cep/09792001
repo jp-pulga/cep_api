@@ -1,12 +1,12 @@
 {
-  "cep": "09792001",
-  "logradouro": "Estrada da Pedra Branca de 1001 a 1999 - lado ímpar",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09792001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Estrada da Pedra Branca - de 1001 a 1999 - lado ímpar;"
 }

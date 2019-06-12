@@ -1,12 +1,12 @@
 {
-  "cep": "29908411",
-  "logradouro": "Rua Anchieta",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "29908411",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Anchieta;"
 }

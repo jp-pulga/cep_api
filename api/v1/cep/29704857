@@ -1,12 +1,12 @@
 {
-  "cep": "29704857",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Morada do Sol",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Morada do Sol;",
+    "cep": "29704857",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

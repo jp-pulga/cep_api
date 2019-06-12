@@ -1,12 +1,13 @@
 {
-  "cep": "29785970",
-  "logradouro": "AC Vila Valério Rua Maria Dolores Bonela 41",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vila Valério",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29785970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Valério"
+    },
+    "ibge": 3205176,
+    "logradouro": "Rua Maria Dolores Tavares Bonela, 41  AC Vila Valério;"
 }

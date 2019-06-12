@@ -1,12 +1,12 @@
 {
-  "cep": "15080100",
-  "logradouro": "Rua das Palmeiras",
-  "bairro": "Jardim Santa Catarina",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Catarina;",
+    "cep": "15080100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua das Palmeiras;"
 }

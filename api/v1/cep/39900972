@@ -1,12 +1,13 @@
 {
-  "cep": "39900972",
-  "logradouro": "UD Almenara Rua Avelino Nascimento 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Almenara",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39900972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Almenara"
+    },
+    "ibge": 3101706,
+    "logradouro": "Rua Avelino Nascimento, 11  UD Almenara;"
 }

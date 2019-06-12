@@ -1,12 +1,13 @@
 {
-  "cep": "29057050",
-  "logradouro": "Rua Elaine Cavalcante do Espírito Santo",
-  "bairro": "Ilha do Frade",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ilha do Frade;",
+    "cep": "29057050",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Rua Elaine Cavalcante do Espírito Santo;"
 }

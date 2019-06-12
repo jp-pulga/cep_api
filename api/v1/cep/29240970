@@ -1,12 +1,13 @@
 {
-  "cep": "29240970",
-  "logradouro": "AC Alfredo Chaves Avenida Getúlio Vargas 240",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alfredo Chaves",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29240970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Alfredo Chaves"
+    },
+    "ibge": 3200300,
+    "logradouro": "Avenida Getúlio Vargas, 748  AC Alfredo Chaves;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "29720000",
-  "logradouro": "Governador Lindenberg",
-  "bairro": "",
-  "cidade": {
-    "nome": "Governador Lindenberg",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29720000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Governador Lindenberg"
+    },
+    "ibge": 3202256
 }

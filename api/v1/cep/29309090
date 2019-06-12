@@ -1,12 +1,12 @@
 {
-  "cep": "29309090",
-  "logradouro": "Escadaria Antônio de Oliveira Thomas",
-  "bairro": "Novo Parque",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Parque;",
+    "cep": "29309090",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria Antônio de Oliveira Thomas;"
 }

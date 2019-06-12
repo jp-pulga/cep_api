@@ -1,12 +1,12 @@
 {
-  "cep": "09444070",
-  "logradouro": "Estrada dos Cinco Pinheiros",
-  "bairro": "Km 4",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Km 4;",
+    "cep": "09444070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Estrada dos Cinco Pinheiros;"
 }

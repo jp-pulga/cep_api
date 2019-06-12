@@ -1,12 +1,11 @@
 {
-  "cep": "29600000",
-  "logradouro": "Afonso Cláudio",
-  "bairro": "",
-  "cidade": {
-    "nome": "Afonso Cláudio",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29600000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Afonso Cláudio"
+    },
+    "ibge": 3200102
 }

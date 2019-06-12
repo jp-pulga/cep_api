@@ -1,12 +1,12 @@
 {
-  "cep": "13309209",
-  "logradouro": "Praça Professor José de Toledo Piza",
-  "bairro": "Vila Leis",
-  "cidade": {
-    "nome": "Itu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Leis;",
+    "cep": "13309209",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itu"
+    },
+    "logradouro": "Praça Professor José de Toledo Piza;"
 }

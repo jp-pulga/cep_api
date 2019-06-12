@@ -1,12 +1,12 @@
 {
-  "cep": "29155804",
-  "logradouro": "Rua Santa Leopoldina",
-  "bairro": "Campo Verde",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Campo Verde;",
+    "cep": "29155804",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Santa Leopoldina;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13070009",
-  "logradouro": "Praça Doutor Ulisses Guimarães",
-  "bairro": "Jardim Chapadão",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Chapadão;",
+    "cep": "13070009",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Praça Doutor Ulisses Guimarães;"
 }

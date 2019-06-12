@@ -1,12 +1,13 @@
 {
-  "cep": "39600970",
-  "logradouro": "AC Araçuaí Rua José Antônio Araújo 166",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araçuaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39600970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araçuaí"
+    },
+    "ibge": 3103405,
+    "logradouro": "Rua José Antônio Araújo 166  AC Araçuaí;"
 }

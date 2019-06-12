@@ -1,12 +1,13 @@
 {
-  "cep": "29901068",
-  "logradouro": "Avenida Espírito Santo até 78 - lado par",
-  "bairro": "Aviso",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aviso;",
+    "cep": "29901068",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Avenida Espírito Santo - até 78 - lado par;"
 }

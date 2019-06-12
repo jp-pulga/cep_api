@@ -1,12 +1,13 @@
 {
-  "cep": "35438970",
-  "logradouro": "AC Acaiaca Praça Tancredo Neves 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Acaiaca",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35438970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Acaiaca"
+    },
+    "ibge": 3100401,
+    "logradouro": "Praça Tancredo Neves, 35  AC Acaiaca;"
 }

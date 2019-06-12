@@ -1,12 +1,12 @@
 {
-  "cep": "78725450",
-  "logradouro": "Avenida Presidente Vargas",
-  "bairro": "Vila Iracy",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Vila Iracy;",
+    "cep": "78725450",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Presidente Vargas;"
 }

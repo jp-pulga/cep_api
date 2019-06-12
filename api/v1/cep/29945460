@@ -1,12 +1,12 @@
 {
-  "cep": "29945460",
-  "logradouro": "Rua São Gabriel da Palha",
-  "bairro": "Guriri Sul",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guriri Sul;",
+    "cep": "29945460",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São Gabriel da Palha;"
 }

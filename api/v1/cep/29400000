@@ -1,12 +1,11 @@
 {
-  "cep": "29400000",
-  "logradouro": "Mimoso do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mimoso do Sul",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29400000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Mimoso do Sul"
+    },
+    "ibge": 3203403
 }

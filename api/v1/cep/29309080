@@ -1,12 +1,12 @@
 {
-  "cep": "29309080",
-  "logradouro": "Escadaria Darcy Marcelino Câmara",
-  "bairro": "Novo Parque",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Parque;",
+    "cep": "29309080",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria Darcy Marcelino Câmara;"
 }

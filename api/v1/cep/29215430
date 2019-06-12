@@ -1,12 +1,12 @@
 {
-  "cep": "29215430",
-  "logradouro": "Praça Antônio Jorge Assef",
-  "bairro": "Muquiçaba",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Muquiçaba;",
+    "cep": "29215430",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Praça Antônio Jorge Assef;"
 }

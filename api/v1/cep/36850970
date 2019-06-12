@@ -1,12 +1,13 @@
 {
-  "cep": "36850970",
-  "logradouro": "AC Antônio Prado de Minas Praça João Batista Piermatei 27",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antônio Prado de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36850970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Antônio Prado de Minas"
+    },
+    "ibge": 3103108,
+    "logradouro": "Praça João Batista Piermatei, 27  AC Antônio Prado de Minas;"
 }

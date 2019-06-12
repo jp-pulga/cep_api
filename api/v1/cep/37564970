@@ -1,12 +1,13 @@
 {
-  "cep": "37564970",
-  "logradouro": "AC Borda da Mata Rua Eduardo Amaral 674",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Borda da Mata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37564970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Borda da Mata"
+    },
+    "ibge": 3108305,
+    "logradouro": "Rua Eduardo Amaral, 674  AC Borda da Mata;"
 }

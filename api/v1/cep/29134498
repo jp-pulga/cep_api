@@ -1,12 +1,12 @@
 {
-  "cep": "29134498",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Universal",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Universal;",
+    "cep": "29134498",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

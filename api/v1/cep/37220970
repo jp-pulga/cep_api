@@ -1,12 +1,13 @@
 {
-  "cep": "37220970",
-  "logradouro": "AC Bom Sucesso Rua Herculano Castanheira 16",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Sucesso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37220970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Sucesso"
+    },
+    "ibge": 3108008,
+    "logradouro": "Rua Herculano Castanheira, 16  AC Bom Sucesso;"
 }

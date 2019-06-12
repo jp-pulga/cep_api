@@ -1,12 +1,12 @@
 {
-  "cep": "29055010",
-  "logradouro": "Travessa Principal",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "29055010",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Travessa Principal;"
 }

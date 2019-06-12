@@ -1,12 +1,13 @@
 {
-  "cep": "29937290",
-  "logradouro": "Avenida A",
-  "bairro": "SEAC",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "SEAC;",
+    "cep": "29937290",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida A;"
 }

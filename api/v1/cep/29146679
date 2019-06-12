@@ -1,12 +1,13 @@
 {
-  "cep": "29146679",
-  "logradouro": "Rua Jocarly Gomes Salles",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "29146679",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Alice Coutinho Santos;"
 }

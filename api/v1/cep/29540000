@@ -1,12 +1,11 @@
 {
-  "cep": "29540000",
-  "logradouro": "Ibitirama",
-  "bairro": "",
-  "cidade": {
-    "nome": "Ibitirama",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29540000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ibitirama"
+    },
+    "ibge": 3202553
 }

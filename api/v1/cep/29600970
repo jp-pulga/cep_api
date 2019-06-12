@@ -1,12 +1,13 @@
 {
-  "cep": "29600970",
-  "logradouro": "AC Afonso Cláudio Rua Marechal Deodoro 159",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Afonso Cláudio",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29600970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Afonso Cláudio"
+    },
+    "ibge": 3200102,
+    "logradouro": "Rua Marechal Deodoro, 159  AC Afonso Cláudio;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29230900",
-  "logradouro": "SAMARCO Rodovia ES-060 Km 144",
-  "bairro": "Ponta de Ubu",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ponta de Ubu;",
+    "cep": "29230900",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Anchieta"
+    },
+    "ibge": 3200409,
+    "logradouro": "Rodovia ES-060 Km 14,4  SAMARCO;"
 }

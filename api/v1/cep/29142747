@@ -1,12 +1,13 @@
 {
-  "cep": "29142747",
-  "logradouro": "Escadaria Dezoito",
-  "bairro": "Itapemirim",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itapemirim;",
+    "cep": "29142747",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Escadaria Dezoito;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29052050",
-  "logradouro": "Rua Boa Esperança",
-  "bairro": "Jesus de Nazareth",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jesus de Nazareth;",
+    "cep": "29052050",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Boa Esperança;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78705302",
-  "logradouro": "Avenida Presidente Kennedy",
-  "bairro": "Loteamento Alves",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Loteamento Alves;",
+    "cep": "78705302",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Presidente Kennedy;"
 }

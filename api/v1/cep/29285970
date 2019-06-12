@@ -1,12 +1,13 @@
 {
-  "cep": "29285970",
-  "logradouro": "AC Piúma Rua Isaías Scherrer 75",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piúma",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29285970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Piúma"
+    },
+    "ibge": 3204203,
+    "logradouro": "Rua Isaías Scherrer, 75 Andar Térreo  AC Piúma;"
 }

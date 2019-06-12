@@ -1,12 +1,13 @@
 {
-  "cep": "29195495",
-  "logradouro": "Rodovia Coqueiral-Guaraná Comunidades ES-124 até km 10000",
-  "bairro": "Guaraná",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guaraná;",
+    "cep": "29195495",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rodovia Coqueiral-Guaraná Comunidades ES-124 - até km 10,000;"
 }

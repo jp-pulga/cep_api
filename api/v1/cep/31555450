@@ -1,12 +1,12 @@
 {
-  "cep": "31555450",
-  "logradouro": "Rua Professor Benevenuto",
-  "bairro": "Santa Amélia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Amélia;",
+    "cep": "31555450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor Benevenuto;"
 }

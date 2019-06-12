@@ -1,12 +1,12 @@
 {
-  "cep": "30130905",
-  "logradouro": "Edifício Acaiaca Avenida Afonso Pena 867",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30130905",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Afonso Pena, 867  Edifício Acaiaca;"
 }

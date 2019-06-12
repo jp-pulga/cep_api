@@ -1,12 +1,13 @@
 {
-  "cep": "29909022",
-  "logradouro": "Rua Aristides Esperidião dos Santos",
-  "bairro": "Canivete",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Canivete;",
+    "cep": "29909022",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Rua Aristides Esperidião dos Santos;"
 }

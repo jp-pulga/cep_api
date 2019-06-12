@@ -1,12 +1,13 @@
 {
-  "cep": "29208410",
-  "logradouro": "Estrada São Miguel",
-  "bairro": "Comunidade Urbana de Rio Grande",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Comunidade Urbana de Rio Grande;",
+    "cep": "29208410",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Estrada São Miguel;"
 }

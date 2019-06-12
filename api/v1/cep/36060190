@@ -1,12 +1,12 @@
 {
-  "cep": "36060190",
-  "logradouro": "Rua Professor Lander",
-  "bairro": "Vitorino Braga",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vitorino Braga;",
+    "cep": "36060190",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Professor Lander;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29778982",
-  "logradouro": "AGC São José de Mantenópolis Rua Sebastião Nunes Rosa s/n",
-  "bairro": "São José de Mantenópolis",
-  "cidade": {
-    "nome": "Mantenópolis",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São José de Mantenópolis;",
+    "cep": "29778982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Mantenópolis"
+    },
+    "ibge": 3203304,
+    "logradouro": "Rua Sebastião Nunes Rosa, s\/n  AGC São José de Mantenópolis;"
 }

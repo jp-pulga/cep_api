@@ -1,12 +1,13 @@
 {
-  "cep": "29192818",
-  "logradouro": "Rua Carlos Alberto Swerts Esteves",
-  "bairro": "Nova Conquista",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Conquista;",
+    "cep": "29192818",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rua Carlos Alberto Swerts Esteves;"
 }

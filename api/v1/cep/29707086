@@ -1,12 +1,13 @@
 {
-  "cep": "29707086",
-  "logradouro": "Escadaria Liberalino Rufino",
-  "bairro": "Marista",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Marista;",
+    "cep": "29707086",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Liberalino Rufino;"
 }

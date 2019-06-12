@@ -1,12 +1,12 @@
 {
-  "cep": "15084070",
-  "logradouro": "Rua Portugal",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bom Jardim;",
+    "cep": "15084070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Portugal;"
 }

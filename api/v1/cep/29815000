@@ -1,12 +1,12 @@
 {
-  "cep": "29815000",
-  "logradouro": "Paulista (Barra de São ",
-  "bairro": "",
-  "cidade": {
-    "nome": "Paulista (Barra de São Francisco)",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Paulista",
+    "cep": "29815000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Barra de São Francisco"
+    },
+    "ibge": 3200904
 }

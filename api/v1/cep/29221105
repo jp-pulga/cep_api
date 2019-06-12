@@ -1,12 +1,12 @@
 {
-  "cep": "29221105",
-  "logradouro": "Avenida Prefeito Santa Rita",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "29221105",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Avenida Prefeito Santa Rita;"
 }

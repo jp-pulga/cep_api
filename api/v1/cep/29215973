@@ -1,12 +1,12 @@
 {
-  "cep": "29215973",
-  "logradouro": "AGF Muquiçaba Avenida Ewerson de Abreu Sodré 906",
-  "bairro": "Muquiçaba",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Muquiçaba;",
+    "cep": "29215973",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Avenida Ewerson de Abreu Sodré, 906  AGF Bairro Muquiçaba;"
 }

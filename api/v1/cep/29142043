@@ -1,12 +1,12 @@
 {
-  "cep": "29142043",
-  "logradouro": "Rua Alegre",
-  "bairro": "Bandeirantes",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bandeirantes;",
+    "cep": "29142043",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Marechal Floriano;"
 }

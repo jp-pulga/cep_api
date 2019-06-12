@@ -1,12 +1,13 @@
 {
-  "cep": "29460970",
-  "logradouro": "AC Bom Jesus do Norte Praça Astolfo Lobo 259",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus do Norte",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29460970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Bom Jesus do Norte"
+    },
+    "ibge": 3201100,
+    "logradouro": "Praça Astolpho Lobo, 259  AC Bom Jesus do Norte;"
 }

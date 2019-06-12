@@ -1,12 +1,12 @@
 {
-  "cep": "29946500",
-  "logradouro": "Rua São Gabriel da Palha",
-  "bairro": "Guriri Norte",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guriri Norte;",
+    "cep": "29946500",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São Gabriel da Palha;"
 }

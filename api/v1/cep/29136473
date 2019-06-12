@@ -1,12 +1,13 @@
 {
-  "cep": "29136473",
-  "logradouro": "Escadaria João Araújo",
-  "bairro": "Caxias do Sul",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Caxias do Sul;",
+    "cep": "29136473",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Escadaria João Araújo;"
 }

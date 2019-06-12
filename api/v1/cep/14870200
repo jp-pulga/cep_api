@@ -1,12 +1,12 @@
 {
-  "cep": "14870200",
-  "logradouro": "Praça Esplanada do Lago Carlos Rodrigues Serra",
-  "bairro": "Vila Serra",
-  "cidade": {
-    "nome": "Jaboticabal",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Serra;",
+    "cep": "14870200",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaboticabal"
+    },
+    "logradouro": "Praça Esplanada do Lago Carlos Rodrigues Serra;"
 }

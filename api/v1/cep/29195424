@@ -1,12 +1,13 @@
 {
-  "cep": "29195424",
-  "logradouro": "Avenida Carlos Favalessa",
-  "bairro": "Guaraná",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guaraná;",
+    "cep": "29195424",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Avenida Carlos Favalessa;"
 }

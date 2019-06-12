@@ -1,12 +1,13 @@
 {
-  "cep": "29147324",
-  "logradouro": "Beco Poço Mestre",
-  "bairro": "Dom Bosco",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Dom Bosco;",
+    "cep": "29147324",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Escadaria Poço Mestre;"
 }

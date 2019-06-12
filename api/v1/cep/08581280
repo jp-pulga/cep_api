@@ -1,12 +1,12 @@
 {
-  "cep": "08581280",
-  "logradouro": "Rua Serra da Estrela",
-  "bairro": "Jardim Paineira",
-  "cidade": {
-    "nome": "Itaquaquecetuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paineira;",
+    "cep": "08581280",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itaquaquecetuba"
+    },
+    "logradouro": "Rua Serra da Estrela;"
 }

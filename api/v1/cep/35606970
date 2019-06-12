@@ -1,12 +1,12 @@
 {
-  "cep": "35606970",
-  "logradouro": "AC Martinho Campos Rua Abaeté 35",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Martinho Campos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35606970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Martinho Campos"
+    },
+    "logradouro": "Rua Abaeté, 35  AC Martinho Campos;"
 }

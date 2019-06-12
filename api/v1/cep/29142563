@@ -1,12 +1,13 @@
 {
-  "cep": "29142563",
-  "logradouro": "Estrada Caçaroca",
-  "bairro": "Caçaroca",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Caçaroca;",
+    "cep": "29142563",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Estrada Caçaroca;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29141359",
-  "logradouro": "Rua Marataízes",
-  "bairro": "Vista Linda",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Linda;",
+    "cep": "29141359",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Marataízes;"
 }

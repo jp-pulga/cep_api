@@ -1,12 +1,13 @@
 {
-  "cep": "39790971",
-  "logradouro": "ACS Alexandrina Rua Darci Alves de Oliveira 195",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Água Boa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39790971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Água Boa"
+    },
+    "ibge": 3100609,
+    "logradouro": "Rua Darci Alves de Oliveira, 195  ACS Alexandrina;"
 }

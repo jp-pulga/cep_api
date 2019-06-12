@@ -1,12 +1,12 @@
 {
-  "cep": "29121355",
-  "logradouro": "Avenida Jerônimo Monteiro",
-  "bairro": "Cavalieri",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cavalieri;",
+    "cep": "29121355",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro;"
 }

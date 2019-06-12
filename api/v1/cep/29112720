@@ -1,12 +1,12 @@
 {
-  "cep": "29112720",
-  "logradouro": "Rua Brejetuba",
-  "bairro": "Rio Marinho",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rio Marinho;",
+    "cep": "29112720",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Brejetuba;"
 }

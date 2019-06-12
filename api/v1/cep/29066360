@@ -1,12 +1,13 @@
 {
-  "cep": "29066360",
-  "logradouro": "Rua Sargento Oswaldo Estevam",
-  "bairro": "Mata da Praia",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mata da Praia;",
+    "cep": "29066360",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Rua Sargento Oswaldo Estevam;"
 }

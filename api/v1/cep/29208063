@@ -1,12 +1,13 @@
 {
-  "cep": "29208063",
-  "logradouro": "Alameda das Sapucaias",
-  "bairro": "Meaípe",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Meaípe;",
+    "cep": "29208063",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Alameda das Sapucaias;"
 }

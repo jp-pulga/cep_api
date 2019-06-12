@@ -1,12 +1,12 @@
 {
-  "cep": "29162589",
-  "logradouro": "Rua Espírito Santo",
-  "bairro": "José de Anchieta III",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "José de Anchieta III;",
+    "cep": "29162589",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Espírito Santo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39490973",
-  "logradouro": "AC Bonito de Minas Avenida José Borges Monteiro 165",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bonito de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39490973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bonito de Minas"
+    },
+    "ibge": 3108255,
+    "logradouro": "Avenida José Borges Monteiro, 165  AC Bonito de Minas;"
 }

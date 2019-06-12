@@ -1,12 +1,12 @@
 {
-  "cep": "13033720",
-  "logradouro": "Rua Professor João Augusto de Toledo",
-  "bairro": "Vila Proost de Souza",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Proost de Souza;",
+    "cep": "13033720",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Professor João Augusto de Toledo;"
 }

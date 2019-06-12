@@ -1,12 +1,12 @@
 {
-  "cep": "29143234",
-  "logradouro": "Rua do Marataízes",
-  "bairro": "Vista Mar",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Mar;",
+    "cep": "29143234",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Marataízes;"
 }

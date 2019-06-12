@@ -1,12 +1,12 @@
 {
-  "cep": "29178765",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Colina da Serra",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Colina da Serra;",
+    "cep": "29178765",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

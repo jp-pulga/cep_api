@@ -1,12 +1,12 @@
 {
-  "cep": "29158662",
-  "logradouro": "Rua Marataízes",
-  "bairro": "Vista Dourada",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vista Dourada;",
+    "cep": "29158662",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Marataízes;"
 }

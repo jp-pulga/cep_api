@@ -1,12 +1,13 @@
 {
-  "cep": "29230982",
-  "logradouro": "AGC Mãe-bá Avenida Heleno de Medeiros s/n",
-  "bairro": "Mãe-bá",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mãe-bá;",
+    "cep": "29230982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Anchieta"
+    },
+    "ibge": 3200409,
+    "logradouro": "Avenida Heleno de Medeiros, s\/n  AGC Mãe-bá;"
 }

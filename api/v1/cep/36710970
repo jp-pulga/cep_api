@@ -1,12 +1,13 @@
 {
-  "cep": "36710970",
-  "logradouro": "AC Argirita Rua Governador José Magalhães Pinto 81",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Argirita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36710970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Argirita"
+    },
+    "ibge": 3104403,
+    "logradouro": "Rua Governador José Magalhães Pinto, 81  AC Argirita;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "29750000",
-  "logradouro": "Pancas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pancas",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29750000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Pancas"
+    },
+    "ibge": 3204005
 }

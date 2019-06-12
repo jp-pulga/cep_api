@@ -1,12 +1,12 @@
 {
-  "cep": "38405326",
-  "logradouro": "Avenida Professora Minervina Cândida Oliveira de 4501/4502 ao fim",
-  "bairro": "Umuarama",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Umuarama;",
+    "cep": "38405326",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida Professora Minervina Cândida Oliveira - de 4501\/4502 ao fim;"
 }

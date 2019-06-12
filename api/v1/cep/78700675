@@ -1,12 +1,12 @@
 {
-  "cep": "78700675",
-  "logradouro": "Avenida Projetada III",
-  "bairro": "Jardim Brasília",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Brasília;",
+    "cep": "78700675",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Avenida Projetada III;"
 }

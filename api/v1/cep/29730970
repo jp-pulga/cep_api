@@ -1,12 +1,13 @@
 {
-  "cep": "29730970",
-  "logradouro": "AC Baixo Guandu Rua Coronel Álvaro Milagres Ferreira 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Baixo Guandu",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29730970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Baixo Guandu"
+    },
+    "ibge": 3200805,
+    "logradouro": "Rua Coronel Álvaro Milagres Ferreira, 21  AC Baixo Guandu;"
 }

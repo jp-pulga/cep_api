@@ -1,12 +1,13 @@
 {
-  "cep": "37720970",
-  "logradouro": "AC Botelhos Avenida Major Antonio Fernandes 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Botelhos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37720970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Botelhos"
+    },
+    "ibge": 3108404,
+    "logradouro": "Avenida Major Antonio Fernandes, 44  AC Botelhos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "06765170",
-  "logradouro": "Estrada Jaguaré",
-  "bairro": "Jardim São Mateus",
-  "cidade": {
-    "nome": "Taboão da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Mateus;",
+    "cep": "06765170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taboão da Serra"
+    },
+    "logradouro": "Estrada Jaguaré;"
 }

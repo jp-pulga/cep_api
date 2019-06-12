@@ -1,12 +1,13 @@
 {
-  "cep": "29198182",
-  "logradouro": "Avenida 13 de Maio",
-  "bairro": "Barra do Sahy",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra do Sahy;",
+    "cep": "29198182",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Avenida Claudionor Salles dos Santos;"
 }

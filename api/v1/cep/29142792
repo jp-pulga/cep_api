@@ -1,12 +1,13 @@
 {
-  "cep": "29142792",
-  "logradouro": "Avenida Amazonas",
-  "bairro": "Itapemirim",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itapemirim;",
+    "cep": "29142792",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Amazonas;"
 }

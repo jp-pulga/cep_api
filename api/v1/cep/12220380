@@ -1,12 +1,12 @@
 {
-  "cep": "12220380",
-  "logradouro": "Avenida Professor Sebastião Paulo de Toledo Pontes",
-  "bairro": "Vila Industrial",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Industrial;",
+    "cep": "12220380",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Avenida Professor Sebastião Paulo de Toledo Pontes;"
 }

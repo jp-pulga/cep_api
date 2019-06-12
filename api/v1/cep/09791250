@@ -1,12 +1,12 @@
 {
-  "cep": "09791250",
-  "logradouro": "Estrada do Montanhão",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09791250",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Estrada do Montanhão;"
 }

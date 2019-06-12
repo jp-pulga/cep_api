@@ -1,12 +1,13 @@
 {
-  "cep": "29209025",
-  "logradouro": "Rua Boa Esperança",
-  "bairro": "Condados",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Condados;",
+    "cep": "29209025",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Rua Boa Esperança;"
 }

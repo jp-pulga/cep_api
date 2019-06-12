@@ -1,12 +1,12 @@
 {
-  "cep": "36200972",
-  "logradouro": "CDD Barbacena Avenida Governador Bias Fortes 419",
-  "bairro": "Pontilhão",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pontilhão;",
+    "cep": "36200972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Avenida Governador Bias Fortes, 419  CDD Barbacena;"
 }

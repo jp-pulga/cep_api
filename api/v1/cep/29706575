@@ -1,12 +1,13 @@
 {
-  "cep": "29706575",
-  "logradouro": "Estrada Colatina Paul de Graça Aranha",
-  "bairro": "Mário Giurizatto",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mário Giurizatto;",
+    "cep": "29706575",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Estrada Colatina - Paul de Graça Aranha;"
 }

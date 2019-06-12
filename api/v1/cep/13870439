@@ -1,12 +1,12 @@
 {
-  "cep": "13870439",
-  "logradouro": "Praça Amadeu de Oliveira",
-  "bairro": "São Lázaro",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São Lázaro;",
+    "cep": "13870439",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Praça Amadeu de Oliveira;"
 }

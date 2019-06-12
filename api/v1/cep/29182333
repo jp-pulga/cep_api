@@ -1,12 +1,12 @@
 {
-  "cep": "29182333",
-  "logradouro": "Rua Baixo Guandu",
-  "bairro": "Praiamar",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praiamar;",
+    "cep": "29182333",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Baixo Guandu;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35588974",
-  "logradouro": "AGC Calciolândia Rua Principal s/n",
-  "bairro": "Calciolândia",
-  "cidade": {
-    "nome": "Arcos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Calciolândia;",
+    "cep": "35588974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arcos"
+    },
+    "ibge": 3104205,
+    "logradouro": "Rua Principal, s\/n  AGC Calciolândia;"
 }

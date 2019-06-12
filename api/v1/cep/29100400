@@ -1,12 +1,12 @@
 {
-  "cep": "29100400",
-  "logradouro": "Avenida Jerônimo Monteiro lado par",
-  "bairro": "Centro de Vila Velha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro de Vila Velha;",
+    "cep": "29100400",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro - lado par;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29198167",
-  "logradouro": "Rua Esmeralda",
-  "bairro": "Barra do Sahy",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra do Sahy;",
+    "cep": "29198167",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rua Esmeralda;"
 }

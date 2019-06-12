@@ -1,12 +1,13 @@
 {
-  "cep": "29190010",
-  "logradouro": "Avenida Coronel Venâncio Flores até 1598 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29190010",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Avenida Coronel Venâncio Flores - até 1598 - lado par;"
 }

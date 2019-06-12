@@ -1,12 +1,13 @@
 {
-  "cep": "36230973",
-  "logradouro": "PC Santo Antônio Rua Principal s/n",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Bias Fortes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "36230973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bias Fortes"
+    },
+    "ibge": 3106804,
+    "logradouro": "Rua Principal, s\/n  PC Santo Antônio;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36660970",
-  "logradouro": "AC Além Paraíba Rua Coronel Oscar Cortes 91",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Além Paraíba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36660970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Além Paraíba"
+    },
+    "ibge": 3101508,
+    "logradouro": "Rua Coronel Oscar Cortes, 91  AC Além Paraíba;"
 }

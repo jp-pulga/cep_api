@@ -1,12 +1,12 @@
 {
-  "cep": "13422578",
-  "logradouro": "Rua Professor Oscar Neme (Jardim Terra Rica III)",
-  "bairro": "Pompéia",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pompéia;",
+    "cep": "13422578",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Professor Oscar Neme (Jardim Terra Rica III);"
 }

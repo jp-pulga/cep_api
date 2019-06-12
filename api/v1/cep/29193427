@@ -1,12 +1,13 @@
 {
-  "cep": "29193427",
-  "logradouro": "Avenida Castelo Branco",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "29193427",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Avenida Castelo Branco;"
 }

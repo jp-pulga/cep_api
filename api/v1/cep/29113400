@@ -1,12 +1,12 @@
 {
-  "cep": "29113400",
-  "logradouro": "Avenida Barra de São Francisco",
-  "bairro": "Vale Encantado",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vale Encantado;",
+    "cep": "29113400",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Barra de São Francisco;"
 }

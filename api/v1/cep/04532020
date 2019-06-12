@@ -1,12 +1,12 @@
 {
-  "cep": "04532020",
-  "logradouro": "Rua Professor Tamandaré Toledo",
-  "bairro": "Itaim Bibi",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Itaim Bibi;",
+    "cep": "04532020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Tamandaré Toledo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29182373",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Reis Magos",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Reis Magos;",
+    "cep": "29182373",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36230972",
-  "logradouro": "AGC Várzea Santo Antônio Rua Principal s/n",
-  "bairro": "Várzea Santo Antônio",
-  "cidade": {
-    "nome": "Bias Fortes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Várzea Santo Antônio;",
+    "cep": "36230972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bias Fortes"
+    },
+    "ibge": 3106804,
+    "logradouro": "Rua Principal, s\/n  AGC Várzea Santo Antônio;"
 }

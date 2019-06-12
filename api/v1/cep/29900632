@@ -1,12 +1,12 @@
 {
-  "cep": "29900632",
-  "logradouro": "Rua Governador Afonso Cláudio de 2 a 98 - lado par",
-  "bairro": "Juparanã",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Juparanã;",
+    "cep": "29900632",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Governador Afonso Cláudio - de 2 a 98 - lado par;"
 }

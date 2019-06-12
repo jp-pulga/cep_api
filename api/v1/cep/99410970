@@ -1,12 +1,12 @@
 {
-  "cep": "99410970",
-  "logradouro": "AGC Volta Alegre Estrada Geral s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Volta Alegre (Espumoso)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro\/Volta Alegre",
+    "cep": "99410970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Espumoso"
+    },
+    "logradouro": "Estrada Geral, s\/n  AGC Volta Alegre;"
 }

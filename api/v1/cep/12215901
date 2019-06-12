@@ -1,12 +1,12 @@
 {
-  "cep": "12215901",
-  "logradouro": "Edifício das Palmeiras Avenida Presidente Juscelino Kubitschek 4982",
-  "bairro": "Vila Adyana",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Adyana;",
+    "cep": "12215901",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Avenida Presidente Juscelino Kubitschek, 4982  Edifício das Palmeiras;"
 }

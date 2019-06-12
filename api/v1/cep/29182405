@@ -1,12 +1,12 @@
 {
-  "cep": "29182405",
-  "logradouro": "Rua Iconha",
-  "bairro": "Reis Magos",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Reis Magos;",
+    "cep": "29182405",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Iconha;"
 }

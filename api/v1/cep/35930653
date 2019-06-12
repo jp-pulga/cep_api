@@ -1,12 +1,12 @@
 {
-  "cep": "35930653",
-  "logradouro": "Praça Vereador José de Oliveira Couto",
-  "bairro": "Satélite",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Satélite;",
+    "cep": "35930653",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Praça Vereador José de Oliveira Couto;"
 }

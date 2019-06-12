@@ -1,12 +1,13 @@
 {
-  "cep": "39851971",
-  "logradouro": "AGC Fidelândia Rua Ataléia 16",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fidelândia (Ataléia)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fidelândia\/Fidelândia",
+    "cep": "39851971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ataléia"
+    },
+    "ibge": 3104700,
+    "logradouro": "Rua Ataléia, 16  AGC Fidelândia;"
 }

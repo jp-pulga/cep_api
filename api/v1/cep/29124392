@@ -1,12 +1,12 @@
 {
-  "cep": "29124392",
-  "logradouro": "Avenida Santa Tereza",
-  "bairro": "Barramares",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barramares;",
+    "cep": "29124392",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Santa Tereza;"
 }

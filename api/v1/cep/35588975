@@ -1,12 +1,13 @@
 {
-  "cep": "35588975",
-  "logradouro": "AGC Ilha Rua do Posto 52",
-  "bairro": "Ilha",
-  "cidade": {
-    "nome": "Arcos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ilha;",
+    "cep": "35588975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arcos"
+    },
+    "ibge": 3104205,
+    "logradouro": "Rua do Posto, 52  AGC Ilha;"
 }

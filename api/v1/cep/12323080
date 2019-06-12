@@ -1,12 +1,12 @@
 {
-  "cep": "12323080",
-  "logradouro": "Estrada Retiro Alegre",
-  "bairro": "Estância Porto Velho",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Estância Porto Velho;",
+    "cep": "12323080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Estrada Retiro Alegre;"
 }

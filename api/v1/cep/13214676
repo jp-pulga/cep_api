@@ -1,12 +1,12 @@
 {
-  "cep": "13214676",
-  "logradouro": "Rua Professora Altomira Franchi Benardi",
-  "bairro": "Portal do Paraíso I",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Portal do Paraíso I;",
+    "cep": "13214676",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Rua Professora Altomira Franchi Benardi;"
 }

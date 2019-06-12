@@ -1,12 +1,13 @@
 {
-  "cep": "29107023",
-  "logradouro": "Avenida Comissário José Dantas Mello",
-  "bairro": "Divino Espírito Santo",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Divino Espírito Santo;",
+    "cep": "29107023",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Comissário José Dantas Mello;"
 }

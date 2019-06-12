@@ -1,12 +1,12 @@
 {
-  "cep": "09853205",
-  "logradouro": "Rua Vereda dos Ciprestes (Jd Primavera)",
-  "bairro": "Alvarenga",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alvarenga;",
+    "cep": "09853205",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Vereda dos Ciprestes (Jd Primavera);"
 }

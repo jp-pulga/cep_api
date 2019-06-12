@@ -1,12 +1,12 @@
 {
-  "cep": "29126069",
-  "logradouro": "Rua Alfredo Chaves",
-  "bairro": "Riviera da Barra",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Riviera da Barra;",
+    "cep": "29126069",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Alfredo Chaves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "14781343",
-  "logradouro": "Avenida 23 (numeração com zero à esquerda)",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Barretos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "14781343",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barretos"
+    },
+    "logradouro": "Avenida 23 (numeração com zero à esquerda);"
 }

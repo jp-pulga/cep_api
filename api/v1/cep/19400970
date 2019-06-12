@@ -1,12 +1,12 @@
 {
-  "cep": "19400970",
-  "logradouro": "AC Presidente Venceslau Praça Wenceslau Braz 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Venceslau",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "19400970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Venceslau"
+    },
+    "logradouro": "Praça Wenceslau Braz, 15  AC Presidente Venceslau;"
 }

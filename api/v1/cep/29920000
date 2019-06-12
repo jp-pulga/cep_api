@@ -1,12 +1,11 @@
 {
-  "cep": "29920000",
-  "logradouro": "Rio Bananal",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Bananal",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29920000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Rio Bananal"
+    },
+    "ibge": 3204351
 }

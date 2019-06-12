@@ -1,12 +1,13 @@
 {
-  "cep": "29113758",
-  "logradouro": "Avenida Baixo Guandu",
-  "bairro": "Jardim do Vale",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim do Vale;",
+    "cep": "29113758",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Baixo Guandu;"
 }

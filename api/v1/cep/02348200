@@ -1,12 +1,12 @@
 {
-  "cep": "02348200",
-  "logradouro": "Praça Tomé de Faria",
-  "bairro": "Jardim Leonor Mendes de Barros",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Leonor Mendes de Barros;",
+    "cep": "02348200",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Tomé de Faria;"
 }

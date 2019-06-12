@@ -1,12 +1,12 @@
 {
-  "cep": "39874974",
-  "logradouro": "AGC Santa Helena de Minas Praça Euclides Silveira Tolentino s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Helena de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39874974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Helena de Minas"
+    },
+    "logradouro": "Praça Euclides Silveira Tolentino, s\/n  AGC Santa Helena de Minas;"
 }

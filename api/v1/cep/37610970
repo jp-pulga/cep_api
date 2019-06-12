@@ -1,12 +1,13 @@
 {
-  "cep": "37610970",
-  "logradouro": "AC Bom Repouso Rua Professora Elmira Silva Caporali 115",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Repouso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37610970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Repouso"
+    },
+    "ibge": 3107901,
+    "logradouro": "Rua Professora Elmira Silva Caporali, 115  AC Bom Repouso;"
 }

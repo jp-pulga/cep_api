@@ -1,12 +1,12 @@
 {
-  "cep": "29707412",
-  "logradouro": "Avenida Presidente Kennedy",
-  "bairro": "Alto Vila Nova",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Alto Vila Nova;",
+    "cep": "29707412",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Avenida Presidente Kennedy;"
 }

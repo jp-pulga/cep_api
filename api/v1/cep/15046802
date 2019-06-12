@@ -1,12 +1,12 @@
 {
-  "cep": "15046802",
-  "logradouro": "Rua Doutor Ubiratan Ferreira Lopes",
-  "bairro": "Jardim Nunes",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nunes;",
+    "cep": "15046802",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Doutor Ubiratan Ferreira Lopes;"
 }

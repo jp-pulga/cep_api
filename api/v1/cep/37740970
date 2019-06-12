@@ -1,12 +1,13 @@
 {
-  "cep": "37740970",
-  "logradouro": "AC Bandeira do Sul Rua Doutor Afonso Dias de Araújo 155",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bandeira do Sul",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37740970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bandeira do Sul"
+    },
+    "ibge": 3105301,
+    "logradouro": "Rua Doutor Afonso Dias de Araújo, 155  AC Bandeira do Sul;"
 }

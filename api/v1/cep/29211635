@@ -1,12 +1,13 @@
 {
-  "cep": "29211635",
-  "logradouro": "Rua da Escola Municipal",
-  "bairro": "Tartaruga",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Tartaruga;",
+    "cep": "29211635",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Rua da Escola Municipal;"
 }

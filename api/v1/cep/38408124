@@ -1,12 +1,12 @@
 {
-  "cep": "38408124",
-  "logradouro": "Praça Asa",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "38408124",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Praça Asa;"
 }

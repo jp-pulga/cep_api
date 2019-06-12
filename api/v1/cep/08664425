@@ -1,12 +1,12 @@
 {
-  "cep": "08664425",
-  "logradouro": "Rua Ester Boros",
-  "bairro": "Jardim Vitória",
-  "cidade": {
-    "nome": "Suzano",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Vitória;",
+    "cep": "08664425",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Suzano"
+    },
+    "logradouro": "Rua Ester Boros;"
 }

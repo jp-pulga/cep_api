@@ -1,12 +1,13 @@
 {
-  "cep": "29590972",
-  "logradouro": "AGC Patrimonio da Penha II Praça Dez de Agosto 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Divino de São Lourenço",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29590972",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Divino de São Lourenço"
+    },
+    "ibge": 3201803,
+    "logradouro": "Praça Dez de Agosto, 13  AGC Patrimonio da Penha;"
 }

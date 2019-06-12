@@ -1,12 +1,12 @@
 {
-  "cep": "29156125",
-  "logradouro": "Rua São Mateus",
-  "bairro": "Cariacica Sede",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cariacica Sede;",
+    "cep": "29156125",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua São Mateus;"
 }

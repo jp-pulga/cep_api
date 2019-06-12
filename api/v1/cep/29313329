@@ -1,12 +1,12 @@
 {
-  "cep": "29313329",
-  "logradouro": "Escadaria Juracy Pinheiro Rodrigues",
-  "bairro": "Coramara",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Coramara;",
+    "cep": "29313329",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Escadaria Juracy Pinheiro Rodrigues;"
 }

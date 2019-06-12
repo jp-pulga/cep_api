@@ -1,12 +1,13 @@
 {
-  "cep": "36126970",
-  "logradouro": "AC Belmiro Braga Rua Nicola Falci 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belmiro Braga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36126970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belmiro Braga"
+    },
+    "ibge": 3106101,
+    "logradouro": "Rua Nicola Falci, 86  AC Belmiro Braga;"
 }

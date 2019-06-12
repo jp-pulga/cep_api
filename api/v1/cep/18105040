@@ -1,12 +1,12 @@
 {
-  "cep": "18105040",
-  "logradouro": "Rua Serra da Estrela",
-  "bairro": "Cajuru do Sul",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cajuru do Sul;",
+    "cep": "18105040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Serra da Estrela;"
 }

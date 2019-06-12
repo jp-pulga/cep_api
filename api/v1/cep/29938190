@@ -1,12 +1,13 @@
 {
-  "cep": "29938190",
-  "logradouro": "Avenida Antônio Costa Leal",
-  "bairro": "Residencial Park Washington",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Residencial Park Washington;",
+    "cep": "29938190",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Antônio Costa Leal;"
 }

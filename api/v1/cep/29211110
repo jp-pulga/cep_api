@@ -1,12 +1,12 @@
 {
-  "cep": "29211110",
-  "logradouro": "Rua Nova Venécia",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29211110",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Nova Venécia;"
 }

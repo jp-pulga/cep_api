@@ -1,12 +1,12 @@
 {
-  "cep": "29043018",
-  "logradouro": "Rua Marechal Floriano",
-  "bairro": "Maruípe",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Maruípe;",
+    "cep": "29043018",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Marechal Floriano;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57010002",
-  "logradouro": "Avenida Siqueira Campos até 944 - lado par",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "57010002",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Avenida Siqueira Campos - até 944 - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18060289",
-  "logradouro": "Rua Professor Toledo de 950/951 ao fim",
-  "bairro": "Vila Trujillo",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Trujillo;",
+    "cep": "18060289",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Rua Professor Toledo - de 950\/951 ao fim;"
 }

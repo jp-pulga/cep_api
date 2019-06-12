@@ -1,12 +1,12 @@
 {
-  "cep": "31530450",
-  "logradouro": "Rua Professor Leopoldo Miranda",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "31530450",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor Leopoldo Miranda;"
 }

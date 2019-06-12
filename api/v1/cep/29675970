@@ -1,12 +1,13 @@
 {
-  "cep": "29675970",
-  "logradouro": "AGC Pendanga Rua Martin Pescador 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ibiraçu",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Pendanga;",
+    "cep": "29675970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ibiraçu"
+    },
+    "ibge": 3202504,
+    "logradouro": "Rua Martin Pescador, 13  AGC Pendanga;"
 }

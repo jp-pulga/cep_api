@@ -1,12 +1,12 @@
 {
-  "cep": "06519140",
-  "logradouro": "Estrada da Montanha",
-  "bairro": "Quintas de Maria Elvira",
-  "cidade": {
-    "nome": "Santana de Parnaíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Quintas de Maria Elvira;",
+    "cep": "06519140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santana de Parnaíba"
+    },
+    "logradouro": "Estrada da Montanha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "97503205",
-  "logradouro": "Rua Marechal Floriano de 3401 a 3969 - lado ímpar",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "97503205",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "logradouro": "Rua Marechal Floriano - de 3401 a 3969 - lado ímpar;"
 }

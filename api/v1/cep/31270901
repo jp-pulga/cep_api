@@ -1,12 +1,12 @@
 {
-  "cep": "31270901",
-  "logradouro": "Universidade Federal de Minas Gerais Avenida Presidente Antônio Carlos 6627",
-  "bairro": "Pampulha",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pampulha;",
+    "cep": "31270901",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Presidente Antônio Carlos, 6627  Universidade Federal de Minas Gerais;"
 }

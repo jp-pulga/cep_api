@@ -1,12 +1,12 @@
 {
-  "cep": "29170031",
-  "logradouro": "Rua Rio Novo do Sul",
-  "bairro": "Nova Carapina I",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Carapina I;",
+    "cep": "29170031",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Rio Novo do Sul;"
 }

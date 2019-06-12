@@ -1,12 +1,11 @@
 {
-  "cep": "29615000",
-  "logradouro": "Laranja da Terra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Laranja da Terra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29615000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Laranja da Terra"
+    },
+    "ibge": 3203163
 }

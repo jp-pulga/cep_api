@@ -1,12 +1,13 @@
 {
-  "cep": "29060012",
-  "logradouro": "Praça Conjunto dos Estados",
-  "bairro": "Jardim da Penha",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim da Penha;",
+    "cep": "29060012",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "ibge": 3205309,
+    "logradouro": "Praça Conjunto dos Estados;"
 }

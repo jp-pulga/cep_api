@@ -1,12 +1,12 @@
 {
-  "cep": "13401460",
-  "logradouro": "Rua Presidente Wenceslau Braz",
-  "bairro": "Jardim Glória",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Glória;",
+    "cep": "13401460",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Presidente Wenceslau Braz;"
 }

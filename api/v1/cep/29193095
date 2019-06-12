@@ -1,12 +1,13 @@
 {
-  "cep": "29193095",
-  "logradouro": "Avenida Coronel Venâncio Flores de 5202/5203 a 5399/5400",
-  "bairro": "Jequitibá",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jequitibá;",
+    "cep": "29193095",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Avenida Coronel Venâncio Flores - de 5202\/5203 a 5399\/5400;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29900460",
-  "logradouro": "Rua Marechal Floriano Peixoto",
-  "bairro": "Colina",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Colina;",
+    "cep": "29900460",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Marechal Floriano Peixoto;"
 }

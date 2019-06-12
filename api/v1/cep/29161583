@@ -1,12 +1,12 @@
 {
-  "cep": "29161583",
-  "logradouro": "Rua Alfredo Chaves",
-  "bairro": "Central Carapina",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Central Carapina;",
+    "cep": "29161583",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Alfredo Chaves;"
 }

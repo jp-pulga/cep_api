@@ -1,12 +1,13 @@
 {
-  "cep": "29108021",
-  "logradouro": "Avenida Central",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "29108021",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Central;"
 }

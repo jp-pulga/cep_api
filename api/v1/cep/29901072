@@ -1,12 +1,13 @@
 {
-  "cep": "29901072",
-  "logradouro": "Avenida Espírito Santo de 116 ao fim - lado par",
-  "bairro": "Aviso",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aviso;",
+    "cep": "29901072",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Avenida Espírito Santo - de 116 ao fim - lado par;"
 }

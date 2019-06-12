@@ -1,12 +1,13 @@
 {
-  "cep": "29932542",
-  "logradouro": "Rodovia ES-421 São Mateus-Conceição da Barra",
-  "bairro": "Litorâneo",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Litorâneo;",
+    "cep": "29932542",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Rodovia ES-421 São Mateus-Conceição da Barra;"
 }

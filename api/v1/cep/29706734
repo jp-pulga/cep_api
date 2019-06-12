@@ -1,12 +1,12 @@
 {
-  "cep": "29706734",
-  "logradouro": "Rua Julismar Valério",
-  "bairro": "Vila Real",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Real;",
+    "cep": "29706734",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Julismar Valério;"
 }

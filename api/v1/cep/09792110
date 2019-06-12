@@ -1,12 +1,12 @@
 {
-  "cep": "09792110",
-  "logradouro": "Estrada Maria Verlato Molon (B Alvorada)",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09792110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Estrada Maria Verlato Molon (B Alvorada);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12948129",
-  "logradouro": "Estrada Clube da Montanha",
-  "bairro": "Portão",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Portão;",
+    "cep": "12948129",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Estrada Clube da Montanha;"
 }

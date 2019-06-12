@@ -1,12 +1,12 @@
 {
-  "cep": "06707050",
-  "logradouro": "Estrada dos Estudantes",
-  "bairro": "Granja Viana II",
-  "cidade": {
-    "nome": "Cotia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Granja Viana II;",
+    "cep": "06707050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cotia"
+    },
+    "logradouro": "Estrada dos Estudantes;"
 }

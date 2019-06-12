@@ -1,12 +1,11 @@
 {
-  "cep": "29560000",
-  "logradouro": "",
-  "bairro": "",
-  "cidade": {
-    "nome": "Guaçuí",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29560000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guaçuí"
+    },
+    "ibge": 3202306
 }

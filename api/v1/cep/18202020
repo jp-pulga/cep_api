@@ -1,12 +1,12 @@
 {
-  "cep": "18202020",
-  "logradouro": "Rua Professora Maria Lucrécia R de Toledo",
-  "bairro": "Vila Asem",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Asem;",
+    "cep": "18202020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Professora Maria Lucrécia R de Toledo;"
 }

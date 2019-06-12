@@ -1,12 +1,12 @@
 {
-  "cep": "90010907",
-  "logradouro": "Prefeitura Municipal de Porto Alegre Rua Siqueira Campos 1300",
-  "bairro": "Centro Histórico",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro Histórico;",
+    "cep": "90010907",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Siqueira Campos, 1300  Prefeitura Municipal de Porto Alegre;"
 }

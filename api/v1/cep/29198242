@@ -1,12 +1,13 @@
 {
-  "cep": "29198242",
-  "logradouro": "Rua Espírito Santo",
-  "bairro": "Mar Azul",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mar Azul;",
+    "cep": "29198242",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rua Espírito Santo;"
 }

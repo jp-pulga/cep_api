@@ -1,12 +1,12 @@
 {
-  "cep": "29902360",
-  "logradouro": "Rua Nova Venécia",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "29902360",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Rua Nova Venécia;"
 }

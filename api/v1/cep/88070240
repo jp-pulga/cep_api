@@ -1,12 +1,12 @@
 {
-  "cep": "88070240",
-  "logradouro": "Rua Marechal Câmara",
-  "bairro": "Estreito",
-  "cidade": {
-    "nome": "Florianópolis",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Estreito;",
+    "cep": "88070240",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Florianópolis"
+    },
+    "logradouro": "Rua Marechal Câmara;"
 }

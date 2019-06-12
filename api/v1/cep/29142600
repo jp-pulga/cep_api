@@ -1,12 +1,13 @@
 {
-  "cep": "29142600",
-  "logradouro": "Avenida Alzira Ramos",
-  "bairro": "Jardim Botânico",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Botânico;",
+    "cep": "29142600",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Alzira Ramos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29780970",
-  "logradouro": "AC São Gabriel da Palha Rua Francisco Ferreira Nascimento 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gabriel da Palha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29780970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Gabriel da Palha"
+    },
+    "ibge": 3204708,
+    "logradouro": "Rua Francisco Pereira do Nascimento, 43  AC São Gabriel da Palha;"
 }

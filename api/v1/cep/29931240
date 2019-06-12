@@ -1,12 +1,12 @@
 {
-  "cep": "29931240",
-  "logradouro": "Rua Inácio Fundão",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "29931240",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Inácio Fundão;"
 }

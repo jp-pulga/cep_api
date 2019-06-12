@@ -1,12 +1,12 @@
 {
-  "cep": "29182177",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Serramar",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Serramar;",
+    "cep": "29182177",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

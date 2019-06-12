@@ -1,12 +1,12 @@
 {
-  "cep": "29161580",
-  "logradouro": "Rua Apiacá",
-  "bairro": "Central Carapina",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Central Carapina;",
+    "cep": "29161580",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Apiacá;"
 }

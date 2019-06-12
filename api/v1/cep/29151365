@@ -1,12 +1,13 @@
 {
-  "cep": "29151365",
-  "logradouro": "Rua Coronel Darcy Pacheco de Queiroz",
-  "bairro": "Itaquari",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itaquari;",
+    "cep": "29151365",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Coronel Darcy Pacheco de Queiroz;"
 }

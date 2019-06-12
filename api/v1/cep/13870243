@@ -1,12 +1,12 @@
 {
-  "cep": "13870243",
-  "logradouro": "Praça Coronel José Pires",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "13870243",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Praça Coronel José Pires;"
 }

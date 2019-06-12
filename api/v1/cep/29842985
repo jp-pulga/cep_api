@@ -1,12 +1,13 @@
 {
-  "cep": "29842985",
-  "logradouro": "AGC Água Limpa Estrada Guararema - Água Limpa s/n",
-  "bairro": "Guararema",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guararema;",
+    "cep": "29842985",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908,
+    "logradouro": "Estrada Guararema - Água Limpa s\/n  AGC Água Limpa;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29196232",
-  "logradouro": "Estrada Rio Francês",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "29196232",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Rio Francês;"
 }

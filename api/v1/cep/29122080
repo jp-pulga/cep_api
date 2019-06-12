@@ -1,12 +1,12 @@
 {
-  "cep": "29122080",
-  "logradouro": "Rua Domingos Martins",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "29122080",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

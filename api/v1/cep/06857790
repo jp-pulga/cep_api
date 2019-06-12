@@ -1,12 +1,12 @@
 {
-  "cep": "06857790",
-  "logradouro": "Estrada dos Pinheiros",
-  "bairro": "Chácara Santa Maria",
-  "cidade": {
-    "nome": "Itapecerica da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Santa Maria;",
+    "cep": "06857790",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapecerica da Serra"
+    },
+    "logradouro": "Estrada dos Pinheiros;"
 }

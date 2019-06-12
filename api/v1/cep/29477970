@@ -1,12 +1,13 @@
 {
-  "cep": "29477970",
-  "logradouro": "AGC Airituba Estrada São José do Calçado-Airituba Km 13",
-  "bairro": "Airituba",
-  "cidade": {
-    "nome": "São José do Calçado",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Airituba;",
+    "cep": "29477970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São José do Calçado"
+    },
+    "ibge": 3204807,
+    "logradouro": "Estrada São José do Calçado-Airituba, Km 13  AGC Airituba;"
 }

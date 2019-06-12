@@ -1,12 +1,12 @@
 {
-  "cep": "29180048",
-  "logradouro": "Rua Conceição do Castelo",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "29180048",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Conceição do Castelo;"
 }

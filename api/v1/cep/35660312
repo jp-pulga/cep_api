@@ -1,12 +1,12 @@
 {
-  "cep": "35660312",
-  "logradouro": "Praça Vereador Inácio de Oliveira Duarte",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "35660312",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Praça Vereador Inácio de Oliveira Duarte;"
 }

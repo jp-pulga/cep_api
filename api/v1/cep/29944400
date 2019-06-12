@@ -1,12 +1,13 @@
 {
-  "cep": "29944400",
-  "logradouro": "Estrada São Mateus-Estiva de Barra Nova do km 0100 ao km 20000",
-  "bairro": "Barra Nova",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra Nova;",
+    "cep": "29944400",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Estrada São Mateus-Estiva de Barra Nova - do km 0,100 ao km 20,000;"
 }

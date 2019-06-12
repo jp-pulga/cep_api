@@ -1,12 +1,13 @@
 {
-  "cep": "29370970",
-  "logradouro": "AC Conceição do Castelo Avenida José Grilo 594",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição do Castelo",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29370970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Conceição do Castelo"
+    },
+    "ibge": 3201704,
+    "logradouro": "Avenida José Grilo, 594  AC Conceição do Castelo;"
 }

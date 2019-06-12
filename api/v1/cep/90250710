@@ -1,12 +1,12 @@
 {
-  "cep": "90250710",
-  "logradouro": "Estrada Marechal Osório",
-  "bairro": "Anchieta",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Anchieta;",
+    "cep": "90250710",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Estrada Marechal Osório;"
 }

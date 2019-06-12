@@ -1,12 +1,12 @@
 {
-  "cep": "29943820",
-  "logradouro": "Rua São Domingos do Norte",
-  "bairro": "Bonsucesso",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bonsucesso;",
+    "cep": "29943820",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São Domingos do Norte;"
 }

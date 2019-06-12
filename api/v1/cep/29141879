@@ -1,12 +1,13 @@
 {
-  "cep": "29141879",
-  "logradouro": "Rua Quatro",
-  "bairro": "Padre Gabriel",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Padre Gabriel;",
+    "cep": "29141879",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Beija-flor;"
 }

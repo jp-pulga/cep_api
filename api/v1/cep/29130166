@@ -1,12 +1,12 @@
 {
-  "cep": "29130166",
-  "logradouro": "Rua Presidente Kennedy",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29130166",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Presidente Kennedy;"
 }

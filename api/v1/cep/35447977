@@ -1,12 +1,13 @@
 {
-  "cep": "35447977",
-  "logradouro": "AGC Felipe dos Santos Rua de Cima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra Longa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35447977",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barra Longa"
+    },
+    "ibge": 3105707,
+    "logradouro": "Rua de Cima, s\/n  AGC Felipe dos Santos;"
 }

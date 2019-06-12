@@ -1,12 +1,13 @@
 {
-  "cep": "29194333",
-  "logradouro": "Rua Ezequiel Fraga Rocha",
-  "bairro": "Limão",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Limão;",
+    "cep": "29194333",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rua Ezequiel Fraga Rocha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29309820",
-  "logradouro": "Rua Padre José Anchieta",
-  "bairro": "Ilha da Luz",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ilha da Luz;",
+    "cep": "29309820",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Padre José de Anchieta;"
 }

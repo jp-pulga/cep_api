@@ -1,12 +1,12 @@
 {
-  "cep": "13058142",
-  "logradouro": "Rua Professor João de Oliveira Toledo",
-  "bairro": "Conjunto Residencial Parque São Bento",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Residencial Parque São Bento;",
+    "cep": "13058142",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Professor João de Oliveira Toledo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78716315",
-  "logradouro": "Rua Maria Macedo Prata",
-  "bairro": "Residencial Bela Vista",
-  "cidade": {
-    "nome": "Rondonópolis",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Residencial Bela Vista;",
+    "cep": "78716315",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Rondonópolis"
+    },
+    "logradouro": "Rua Maria Macedo Prata;"
 }

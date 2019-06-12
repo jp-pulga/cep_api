@@ -1,12 +1,12 @@
 {
-  "cep": "11446230",
-  "logradouro": "Rua Rio Negro",
-  "bairro": "Balneario Praia do Perequê",
-  "cidade": {
-    "nome": "Guarujá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Balneario Praia do Perequê;",
+    "cep": "11446230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarujá"
+    },
+    "logradouro": "Rua Rio Negro;"
 }

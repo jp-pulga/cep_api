@@ -1,12 +1,12 @@
 {
-  "cep": "03131100",
-  "logradouro": "Rua Boa Terra",
-  "bairro": "Vila Prudente",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Prudente;",
+    "cep": "03131100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Boa Terra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29704238",
-  "logradouro": "Rua Santa Teresa",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "29704238",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Santa Teresa;"
 }

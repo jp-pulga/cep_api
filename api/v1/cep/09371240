@@ -1,12 +1,12 @@
 {
-  "cep": "09371240",
-  "logradouro": "Rua Vice-Presidente Manuel Vitorino Pereira",
-  "bairro": "Parque São Vicente",
-  "cidade": {
-    "nome": "Mauá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Vicente;",
+    "cep": "09371240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mauá"
+    },
+    "logradouro": "Rua Vice-Presidente Manuel Vitorino Pereira;"
 }

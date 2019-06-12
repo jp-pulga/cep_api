@@ -1,12 +1,12 @@
 {
-  "cep": "13873051",
-  "logradouro": "Rua José Primola",
-  "bairro": "Vila Valentin",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Valentin;",
+    "cep": "13873051",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua José Primola;"
 }

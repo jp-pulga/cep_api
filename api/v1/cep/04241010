@@ -1,12 +1,12 @@
 {
-  "cep": "04241010",
-  "logradouro": "Praça Leão Tolstoi",
-  "bairro": "São João Clímaco",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São João Clímaco;",
+    "cep": "04241010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Leão Tolstoi;"
 }

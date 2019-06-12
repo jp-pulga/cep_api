@@ -1,12 +1,13 @@
 {
-  "cep": "29820970",
-  "logradouro": "AC Água Doce do Norte Avenida Sebastião Coelho de Souza 100",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Água Doce do Norte",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29820970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Água Doce do Norte"
+    },
+    "ibge": 3200169,
+    "logradouro": "Avenida Sebastião Coelho de Souza, 565  AC Água Doce do Norte;"
 }

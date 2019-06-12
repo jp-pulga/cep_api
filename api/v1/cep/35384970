@@ -1,12 +1,12 @@
 {
-  "cep": "35384970",
-  "logradouro": "AC Santa Cruz do Escalvado Praça Cônego José Luciano 20",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz do Escalvado",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35384970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Cruz do Escalvado"
+    },
+    "logradouro": "Praça Cônego José Luciano, 20  AC Santa Cruz do Escalvado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29704368",
-  "logradouro": "Rua Alfredo Chaves",
-  "bairro": "Honório Fraga",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Honório Fraga;",
+    "cep": "29704368",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Alfredo Chaves;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29946692",
-  "logradouro": "Avenida Beira Mar",
-  "bairro": "Uruçuquara",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Uruçuquara;",
+    "cep": "29946692",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Beira Mar;"
 }

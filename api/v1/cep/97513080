@@ -1,12 +1,12 @@
 {
-  "cep": "97513080",
-  "logradouro": "Estrada Parque de Exposições",
-  "bairro": "Santo Inácio",
-  "cidade": {
-    "nome": "Uruguaiana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Inácio;",
+    "cep": "97513080",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Uruguaiana"
+    },
+    "logradouro": "Estrada Parque de Exposições;"
 }

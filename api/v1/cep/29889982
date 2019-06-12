@@ -1,12 +1,13 @@
 {
-  "cep": "29889982",
-  "logradouro": "AGC Itamira Praça Getúlio Vargas s/n",
-  "bairro": "Itamira",
-  "cidade": {
-    "nome": "Ponto Belo",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itamira;",
+    "cep": "29889982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ponto Belo"
+    },
+    "ibge": 3204252,
+    "logradouro": "Praça Getúlio Vargas, s\/n  AGC Itamira;"
 }

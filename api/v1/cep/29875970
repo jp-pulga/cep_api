@@ -1,12 +1,13 @@
 {
-  "cep": "29875970",
-  "logradouro": "AGC Santa Terezinha Estrada Ecoporanga-Santa Terezinha s/n",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Santa Terezinha (Ecoporanga)",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Terezinha\/Santa Terezinha",
+    "cep": "29875970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ecoporanga"
+    },
+    "ibge": 3202108,
+    "logradouro": "Estrada Ecoporanga-Santa Terezinha, s\/n  AGC Santa Terezinha;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29705413",
-  "logradouro": "Escadaria Renivaldo Barbosa Teles",
-  "bairro": "Vicente Suella",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vicente Suella;",
+    "cep": "29705413",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Renivaldo Barbosa Teles;"
 }

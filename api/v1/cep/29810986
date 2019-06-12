@@ -1,12 +1,13 @@
 {
-  "cep": "29810986",
-  "logradouro": "AGC Santo Antônio Rua José Guaitolini s/n",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Barra de São Francisco",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "29810986",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Barra de São Francisco"
+    },
+    "ibge": 3200904,
+    "logradouro": "Rua José Guaitolini, s\/n  AGC Santo Antônio;"
 }

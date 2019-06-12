@@ -1,12 +1,13 @@
 {
-  "cep": "35340970",
-  "logradouro": "AC Bom Jesus do Galho Rua Vital Martins Bueno 22-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus do Galho",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35340970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Jesus do Galho"
+    },
+    "ibge": 3107802,
+    "logradouro": "Rua Vital Martins Bueno, 22-B  AC Bom Jesus do Galho;"
 }

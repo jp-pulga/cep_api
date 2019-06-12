@@ -1,12 +1,13 @@
 {
-  "cep": "29107372",
-  "logradouro": "Avenida Comissário José Dantas Mello",
-  "bairro": "Boa Vista II",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Vista II;",
+    "cep": "29107372",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Comissário José Dantas Mello;"
 }

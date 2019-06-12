@@ -1,12 +1,12 @@
 {
-  "cep": "36061390",
-  "logradouro": "Rua Professora Amélia Glanzmann",
-  "bairro": "Santa Cândida",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Cândida;",
+    "cep": "36061390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Professora Amélia Glanzmann;"
 }

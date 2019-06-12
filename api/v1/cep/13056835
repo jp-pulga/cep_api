@@ -1,12 +1,12 @@
 {
-  "cep": "13056835",
-  "logradouro": "Rua Esperança",
-  "bairro": "Núcleo Residencial Vila Vitória",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Núcleo Residencial Vila Vitória;",
+    "cep": "13056835",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Esperança;"
 }

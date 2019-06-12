@@ -1,12 +1,13 @@
 {
-  "cep": "35588970",
-  "logradouro": "AC Arcos Rua Joaquim Murtinho 319",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arcos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35588970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arcos"
+    },
+    "ibge": 3104205,
+    "logradouro": "Rua Joaquim Murtinho, 319  AC Arcos;"
 }

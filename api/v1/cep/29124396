@@ -1,12 +1,13 @@
 {
-  "cep": "29124396",
-  "logradouro": "Avenida Continental",
-  "bairro": "Barramares",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barramares;",
+    "cep": "29124396",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Continental;"
 }

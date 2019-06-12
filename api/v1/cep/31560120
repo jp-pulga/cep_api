@@ -1,12 +1,12 @@
 {
-  "cep": "31560120",
-  "logradouro": "Rua Professor Clóvis de Faria",
-  "bairro": "Santa Amélia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Amélia;",
+    "cep": "31560120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Professor Clóvis de Faria;"
 }

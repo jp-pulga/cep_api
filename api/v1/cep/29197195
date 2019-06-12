@@ -1,12 +1,13 @@
 {
-  "cep": "29197195",
-  "logradouro": "Estrada Cachoeira do Riacho",
-  "bairro": "Vila do Riacho",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila do Riacho;",
+    "cep": "29197195",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Cachoeira do Riacho;"
 }

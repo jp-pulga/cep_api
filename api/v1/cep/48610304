@@ -1,12 +1,12 @@
 {
-  "cep": "48610304",
-  "logradouro": "Rua Progresso",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "48610304",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Progresso;"
 }

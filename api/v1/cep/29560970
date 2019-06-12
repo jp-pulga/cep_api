@@ -1,12 +1,12 @@
 {
-  "cep": "29560970",
-  "logradouro": "AC Guaçuí Avenida Marechal Floriano 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guaçuí",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29560970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guaçuí"
+    },
+    "logradouro": "Avenida Marechal Floriano, 68  AC Guaçuí;"
 }

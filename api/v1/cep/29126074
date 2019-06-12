@@ -1,12 +1,12 @@
 {
-  "cep": "29126074",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Riviera da Barra",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Riviera da Barra;",
+    "cep": "29126074",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua São Francisco;"
 }

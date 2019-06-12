@@ -1,12 +1,12 @@
 {
-  "cep": "38790970",
-  "logradouro": "AC São Gonçalo do Abaeté Rua Juscelino Kubitschek 282",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gonçalo do Abaeté",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38790970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gonçalo do Abaeté"
+    },
+    "logradouro": "Rua Juscelino Kubitschek, 282  AC São Gonçalo do Abaeté;"
 }

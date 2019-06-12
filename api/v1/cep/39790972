@@ -1,12 +1,13 @@
 {
-  "cep": "39790972",
-  "logradouro": "AGC Palmeiras do Resplendor Rua Espírito Santo 104",
-  "bairro": "Palmeiras do Resplendor",
-  "cidade": {
-    "nome": "Água Boa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmeiras do Resplendor;",
+    "cep": "39790972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Água Boa"
+    },
+    "ibge": 3100609,
+    "logradouro": "Rua Espírito Santo, 104  AGC Palmeiras do Resplendor;"
 }

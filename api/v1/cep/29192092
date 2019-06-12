@@ -1,12 +1,13 @@
 {
-  "cep": "29192092",
-  "logradouro": "Estrada Aracruz-Coqueiral",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29192092",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Estrada Aracruz-Coqueiral;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07860010",
-  "logradouro": "Rua Terra Roxa",
-  "bairro": "Jardim Progresso",
-  "cidade": {
-    "nome": "Franco da Rocha",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Progresso;",
+    "cep": "07860010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franco da Rocha"
+    },
+    "logradouro": "Rua Terra Roxa;"
 }

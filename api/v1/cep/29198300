@@ -1,12 +1,13 @@
 {
-  "cep": "29198300",
-  "logradouro": "Rodovia ES-010 do km 45500 ao km 47000",
-  "bairro": "Sauê",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Sauê;",
+    "cep": "29198300",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rodovia ES-010;"
 }

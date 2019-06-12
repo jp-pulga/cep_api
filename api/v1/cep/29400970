@@ -1,12 +1,13 @@
 {
-  "cep": "29400970",
-  "logradouro": "AC Mimoso do Sul Praça Coronel Joaquim Paiva Gonçalves 170",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mimoso do Sul",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29400970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Mimoso do Sul"
+    },
+    "ibge": 3203403,
+    "logradouro": "Praça Coronel Joaquim Paiva Gonçalves, 170  AC Mimoso do Sul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29170178",
-  "logradouro": "Rua Guaçuí",
-  "bairro": "Nova Carapina II",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova Carapina II;",
+    "cep": "29170178",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Guaçuí;"
 }

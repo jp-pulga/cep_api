@@ -1,12 +1,13 @@
 {
-  "cep": "29842980",
-  "logradouro": "AGC Guararema Rua Presidente Vargas 60",
-  "bairro": "Guararema",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guararema;",
+    "cep": "29842980",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908,
+    "logradouro": "Rua Presidente Vargas, 60  AGC Guararema;"
 }

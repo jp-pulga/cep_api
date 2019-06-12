@@ -1,12 +1,12 @@
 {
-  "cep": "29944600",
-  "logradouro": "Rua Jaguaré",
-  "bairro": "Morada do Sol",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Morada do Sol;",
+    "cep": "29944600",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Jaguaré;"
 }

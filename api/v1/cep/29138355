@@ -1,12 +1,12 @@
 {
-  "cep": "29138355",
-  "logradouro": "Rua São Gabriel da Palha",
-  "bairro": "Campo Verde",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Campo Verde;",
+    "cep": "29138355",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua São Gabriel da Palha;"
 }

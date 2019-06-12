@@ -1,12 +1,13 @@
 {
-  "cep": "29185970",
-  "logradouro": "AC Fundão Rua São José 104",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Fundão",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29185970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Fundão"
+    },
+    "ibge": 3202207,
+    "logradouro": "Rua São José, 104  AC Fundão;"
 }

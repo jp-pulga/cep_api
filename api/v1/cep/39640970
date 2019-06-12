@@ -1,12 +1,13 @@
 {
-  "cep": "39640970",
-  "logradouro": "AC Berilo Rua Coronel Amaral 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Berilo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39640970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Berilo"
+    },
+    "ibge": 3106507,
+    "logradouro": "Rua Coronel Amaral, 21  AC Berilo;"
 }

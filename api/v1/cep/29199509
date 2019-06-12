@@ -1,12 +1,12 @@
 {
-  "cep": "29199509",
-  "logradouro": "Rua Jerônimo Monteiro",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "29199509",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Jerônimo Monteiro;"
 }

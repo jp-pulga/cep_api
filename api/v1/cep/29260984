@@ -1,12 +1,13 @@
 {
-  "cep": "29260984",
-  "logradouro": "AGC Biriricas Estrada Principal s/n",
-  "bairro": "Biriricas",
-  "cidade": {
-    "nome": "Domingos Martins",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Biriricas;",
+    "cep": "29260984",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Domingos Martins"
+    },
+    "ibge": 3201902,
+    "logradouro": "Estrada Principal, s\/n  AGC Biriricas de Cima;"
 }

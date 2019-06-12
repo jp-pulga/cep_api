@@ -1,12 +1,12 @@
 {
-  "cep": "13456062",
-  "logradouro": "Rua Presidente Prudente",
-  "bairro": "Parque Residencial Santa Inês",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Residencial Santa Inês;",
+    "cep": "13456062",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Presidente Prudente;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38405330",
-  "logradouro": "Avenida Professor José Inácio de Souza de 2060/2061 ao fim",
-  "bairro": "Umuarama",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Umuarama;",
+    "cep": "38405330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Avenida Professor José Inácio de Souza - de 2060\/2061 ao fim;"
 }

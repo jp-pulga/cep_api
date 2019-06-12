@@ -1,12 +1,13 @@
 {
-  "cep": "37723970",
-  "logradouro": "AGC São Gonçalo de Botelhos Avenida Tiradentes 71",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gonçalo de Botelhos (Botelhos)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/São Gonçalo de Botelhos",
+    "cep": "37723970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Botelhos"
+    },
+    "ibge": 3108404,
+    "logradouro": "Avenida Tiradentes 71  AGC São Gonçalo de Botelhos;"
 }

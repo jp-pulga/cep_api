@@ -1,12 +1,11 @@
 {
-  "cep": "29398000",
-  "logradouro": "Irupi",
-  "bairro": "",
-  "cidade": {
-    "nome": "Irupi",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29398000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Irupi"
+    },
+    "ibge": 3202652
 }

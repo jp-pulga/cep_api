@@ -1,12 +1,12 @@
 {
-  "cep": "29230970",
-  "logradouro": "AC Anchieta Praça Governador Carlos Lindenberg 258",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29230970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Anchieta"
+    },
+    "logradouro": "Praça Governador Carlos Lindenberg, 258  AC Anchieta;"
 }

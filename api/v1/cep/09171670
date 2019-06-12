@@ -1,12 +1,12 @@
 {
-  "cep": "09171670",
-  "logradouro": "Estrada dos Vianas",
-  "bairro": "Sítio dos Vianas",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sítio dos Vianas;",
+    "cep": "09171670",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo André"
+    },
+    "logradouro": "Estrada dos Vianas;"
 }

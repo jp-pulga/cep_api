@@ -1,12 +1,12 @@
 {
-  "cep": "29901345",
-  "logradouro": "Avenida Guaçuí de 413 a 667 - lado ímpar",
-  "bairro": "Aviso",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aviso;",
+    "cep": "29901345",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida Guaçuí - de 413 a 667 - lado ímpar;"
 }

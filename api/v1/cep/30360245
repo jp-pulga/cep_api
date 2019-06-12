@@ -1,12 +1,12 @@
 {
-  "cep": "30360245",
-  "logradouro": "Praça Luciana Cateb",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "30360245",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Luciana Cateb;"
 }

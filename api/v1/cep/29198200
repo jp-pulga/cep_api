@@ -1,12 +1,13 @@
 {
-  "cep": "29198200",
-  "logradouro": "Rodovia ES-010 do km 51500 ao km 52500",
-  "bairro": "Mar Azul",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mar Azul;",
+    "cep": "29198200",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rodovia ES-010;"
 }

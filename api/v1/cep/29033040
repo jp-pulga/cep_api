@@ -1,12 +1,12 @@
 {
-  "cep": "29033040",
-  "logradouro": "Escadaria Castelo Branco",
-  "bairro": "Conquista",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Conquista;",
+    "cep": "29033040",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria Castelo Branco;"
 }

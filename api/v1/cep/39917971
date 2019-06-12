@@ -1,12 +1,13 @@
 {
-  "cep": "39917971",
-  "logradouro": "AGC Timorante Fazenda Vista Alegre s/n",
-  "bairro": "Zona Rural",
-  "cidade": {
-    "nome": "Bandeira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Zona Rural;",
+    "cep": "39917971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bandeira"
+    },
+    "ibge": 3105202,
+    "logradouro": "Fazenda Vista Alegre, s\/n  AGC Timorante;"
 }

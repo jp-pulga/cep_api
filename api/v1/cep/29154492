@@ -1,12 +1,13 @@
 {
-  "cep": "29154492",
-  "logradouro": "Avenida Central",
-  "bairro": "Tabajara",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Tabajara;",
+    "cep": "29154492",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Avenida Central;"
 }

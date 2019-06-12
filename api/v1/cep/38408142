@@ -1,12 +1,12 @@
 {
-  "cep": "38408142",
-  "logradouro": "Praça Alcides Borges de Oliveira",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "38408142",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Praça Alcides Borges de Oliveira;"
 }

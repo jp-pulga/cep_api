@@ -1,12 +1,11 @@
 {
-  "cep": "29185000",
-  "logradouro": "Fundão",
-  "bairro": "",
-  "cidade": {
-    "nome": "Fundão",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29185000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Fundão"
+    },
+    "ibge": 3202207
 }

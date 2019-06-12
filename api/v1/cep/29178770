@@ -1,12 +1,12 @@
 {
-  "cep": "29178770",
-  "logradouro": "Rua Guaçuí",
-  "bairro": "Colina da Serra",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Colina da Serra;",
+    "cep": "29178770",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Guaçuí;"
 }

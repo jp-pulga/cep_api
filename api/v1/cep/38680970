@@ -1,12 +1,13 @@
 {
-  "cep": "38680970",
-  "logradouro": "AC Arinos Rua Floriano Lima 71",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arinos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38680970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arinos"
+    },
+    "ibge": 3104502,
+    "logradouro": "Rua Floriano Lima, 71  AC Arinos;"
 }

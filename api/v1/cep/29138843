@@ -1,12 +1,13 @@
 {
-  "cep": "29138843",
-  "logradouro": "Rua Estácio de Sá",
-  "bairro": "Morada Bethânia",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Morada Bethânia;",
+    "cep": "29138843",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Rua Estácio de Sá;"
 }

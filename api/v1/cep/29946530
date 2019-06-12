@@ -1,12 +1,12 @@
 {
-  "cep": "29946530",
-  "logradouro": "Rua Conceição da Barra",
-  "bairro": "Guriri Norte",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guriri Norte;",
+    "cep": "29946530",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Conceição da Barra;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29944370",
-  "logradouro": "Estrada São Mateus-Estiva de Barra Nova do km 4100 ao km 6000",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "29944370",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Estrada São Mateus-Estiva de Barra Nova - do km 4,100 ao km 6,000;"
 }

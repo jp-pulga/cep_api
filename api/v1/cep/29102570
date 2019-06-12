@@ -1,12 +1,13 @@
 {
-  "cep": "29102570",
-  "logradouro": "Avenida Coronel Pedro Maia de Carvalho",
-  "bairro": "Praia das Gaivotas",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia das Gaivotas;",
+    "cep": "29102570",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Coronel Pedro Maia de Carvalho;"
 }

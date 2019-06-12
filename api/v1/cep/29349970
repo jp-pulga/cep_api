@@ -1,12 +1,13 @@
 {
-  "cep": "29349970",
-  "logradouro": "AC Barra do Itapemirim Avenida Simão Soares 499",
-  "bairro": "Barra do Itapemirim",
-  "cidade": {
-    "nome": "Marataízes",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra do Itapemirim;",
+    "cep": "29349970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Marataízes"
+    },
+    "ibge": 3203320,
+    "logradouro": "Avenida Simão Soares, 499  AC Barra do Itapemirim;"
 }

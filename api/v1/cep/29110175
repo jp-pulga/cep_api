@@ -1,12 +1,13 @@
 {
-  "cep": "29110175",
-  "logradouro": "Avenida Carlos Lindenberg lado ímpar",
-  "bairro": "Nossa Senhora da Penha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nossa Senhora da Penha;",
+    "cep": "29110175",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Carlos Lindenberg - lado ímpar;"
 }

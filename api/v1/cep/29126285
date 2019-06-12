@@ -1,12 +1,12 @@
 {
-  "cep": "29126285",
-  "logradouro": "Rua Santa Tereza",
-  "bairro": "Santa Paula II",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Paula II;",
+    "cep": "29126285",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Santa Tereza;"
 }

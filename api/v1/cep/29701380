@@ -1,12 +1,13 @@
 {
-  "cep": "29701380",
-  "logradouro": "Escadaria Reinaldo Giuberti",
-  "bairro": "Perpétuo Socorro",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Perpétuo Socorro;",
+    "cep": "29701380",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "ibge": 3201506,
+    "logradouro": "Escadaria Reinaldo Giuberti;"
 }

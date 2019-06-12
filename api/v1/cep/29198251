@@ -1,12 +1,12 @@
 {
-  "cep": "29198251",
-  "logradouro": "Rua São Mateus",
-  "bairro": "Mar Azul",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Mar Azul;",
+    "cep": "29198251",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua São Mateus;"
 }

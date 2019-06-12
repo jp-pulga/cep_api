@@ -1,12 +1,13 @@
 {
-  "cep": "29112043",
-  "logradouro": "Avenida Carlos Lindenberg",
-  "bairro": "Jardim Marilândia",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Marilândia;",
+    "cep": "29112043",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Carlos Lindenberg;"
 }

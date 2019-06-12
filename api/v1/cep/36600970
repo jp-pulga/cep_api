@@ -1,12 +1,13 @@
 {
-  "cep": "36600970",
-  "logradouro": "AC Bicas Rua Dona Ana 90",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bicas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36600970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bicas"
+    },
+    "ibge": 3106903,
+    "logradouro": "Rua Dona Ana, 90  AC Bicas;"
 }

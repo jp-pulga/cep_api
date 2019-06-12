@@ -1,12 +1,12 @@
 {
-  "cep": "13872077",
-  "logradouro": "Rua José Pradella",
-  "bairro": "Jardim Primeiro de Maio",
-  "cidade": {
-    "nome": "São João da Boa Vista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Primeiro de Maio;",
+    "cep": "13872077",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São João da Boa Vista"
+    },
+    "logradouro": "Rua José Pradella;"
 }

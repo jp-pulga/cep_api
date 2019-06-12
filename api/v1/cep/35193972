@@ -1,12 +1,13 @@
 {
-  "cep": "35193972",
-  "logradouro": "AC Bugre Avenida Valério Marques Viana 54",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bugre",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35193972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bugre"
+    },
+    "ibge": 3109253,
+    "logradouro": "Avenida Valério Marques Viana, 54  AC Bugre;"
 }

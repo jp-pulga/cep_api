@@ -1,12 +1,13 @@
 {
-  "cep": "29615982",
-  "logradouro": "AGC São Luiz de Miranda Estrada ES-460 s/n",
-  "bairro": "São Luiz de Miranda",
-  "cidade": {
-    "nome": "Laranja da Terra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "São Luiz de Miranda;",
+    "cep": "29615982",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Laranja da Terra"
+    },
+    "ibge": 3203163,
+    "logradouro": "Estrada ES-460, s\/n  AGC São Luiz de Miranda;"
 }

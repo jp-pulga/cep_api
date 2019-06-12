@@ -1,12 +1,11 @@
 {
-  "cep": "29793000",
-  "logradouro": "Jurama (Vila Valério)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jurama (Vila Valério)",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29793000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Valério"
+    },
+    "ibge": 3205176
 }

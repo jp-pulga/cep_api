@@ -1,12 +1,12 @@
 {
-  "cep": "13403032",
-  "logradouro": "Rua Professor José Martins de Toledo",
-  "bairro": "Jaraguá",
-  "cidade": {
-    "nome": "Piracicaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jaraguá;",
+    "cep": "13403032",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Piracicaba"
+    },
+    "logradouro": "Rua Professor José Martins de Toledo;"
 }

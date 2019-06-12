@@ -1,12 +1,13 @@
 {
-  "cep": "29645985",
-  "logradouro": "AGC Garrafão Avenida Otto Thom 13",
-  "bairro": "Recreio",
-  "cidade": {
-    "nome": "Santa Maria de Jetibá",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Garrafão;",
+    "cep": "29645985",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Santa Maria de Jetibá"
+    },
+    "ibge": 3204559,
+    "logradouro": "Avenida Otto Thom, 13  AGC Garrafão;"
 }

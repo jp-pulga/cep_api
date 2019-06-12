@@ -1,12 +1,13 @@
 {
-  "cep": "29345983",
-  "logradouro": "AGC Lagoa Dantas Rua Antônio Martins s/n",
-  "bairro": "Praia Lagoa Dantas",
-  "cidade": {
-    "nome": "Marataízes",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia Lagoa Dantas;",
+    "cep": "29345983",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Marataízes"
+    },
+    "ibge": 3203320,
+    "logradouro": "Rua Antônio Martins, s\/n  AGC Lagoa Dantas;"
 }

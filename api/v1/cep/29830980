@@ -1,12 +1,13 @@
 {
-  "cep": "29830980",
-  "logradouro": "AGC Boa Vista Avenida Principal s/n",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "29830980",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908,
+    "logradouro": "Avenida Principal, s\/n  AGC Boa Vista;"
 }

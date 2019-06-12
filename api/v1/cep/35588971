@@ -1,12 +1,13 @@
 {
-  "cep": "35588971",
-  "logradouro": "AGF Centro de Arcos Rua Álvares da Silva 33",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arcos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35588971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arcos"
+    },
+    "ibge": 3104205,
+    "logradouro": "Rua Álvares da Silva, 33  AGF Centro de Arcos;"
 }

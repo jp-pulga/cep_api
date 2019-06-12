@@ -1,12 +1,13 @@
 {
-  "cep": "29136537",
-  "logradouro": "Estrada Ladeira Grande",
-  "bairro": "Parque Industrial",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Parque Industrial;",
+    "cep": "29136537",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "ibge": 3205101,
+    "logradouro": "Estrada Ladeira Grande;"
 }

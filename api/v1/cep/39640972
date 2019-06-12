@@ -1,12 +1,13 @@
 {
-  "cep": "39640972",
-  "logradouro": "AGC Lelivéldia Praça São Norberto 43",
-  "bairro": "Lelivéldia",
-  "cidade": {
-    "nome": "Berilo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lelivéldia;",
+    "cep": "39640972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Berilo"
+    },
+    "ibge": 3106507,
+    "logradouro": "Praça São Norberto, 43  AGC Lelivéldia;"
 }

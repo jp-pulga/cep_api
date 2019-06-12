@@ -1,12 +1,13 @@
 {
-  "cep": "29141877",
-  "logradouro": "Rua Espírito Santo",
-  "bairro": "Padre Gabriel",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Padre Gabriel;",
+    "cep": "29141877",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Rua Espírito Santo;"
 }

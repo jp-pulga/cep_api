@@ -1,12 +1,13 @@
 {
-  "cep": "29760970",
-  "logradouro": "AC Alto Rio Novo Avenida João Felipe 398",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alto Rio Novo",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29760970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Alto Rio Novo"
+    },
+    "ibge": 3200359,
+    "logradouro": "Avenida João Felipe, 398  AC Alto Rio Novo;"
 }

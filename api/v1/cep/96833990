@@ -1,12 +1,11 @@
 {
-  "cep": "96833990",
-  "logradouro": "Cerro Alegre Alto Estrada Cerro Alegre",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "96833990",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Estrada Cerro Alegre  CPC Cerro Alegre Alto;"
 }

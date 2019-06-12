@@ -1,12 +1,12 @@
 {
-  "cep": "29180031",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "29180031",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

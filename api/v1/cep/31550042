@@ -1,12 +1,12 @@
 {
-  "cep": "31550042",
-  "logradouro": "Praça Carmo Camilo Soares",
-  "bairro": "Santa Amélia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Amélia;",
+    "cep": "31550042",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Carmo Camilo Soares;"
 }

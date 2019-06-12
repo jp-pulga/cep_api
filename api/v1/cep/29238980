@@ -1,12 +1,13 @@
 {
-  "cep": "29238980",
-  "logradouro": "AGC Alto Pongal Rodovia Virgílio Lorencini s/n",
-  "bairro": "Alto Pongal",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Alto Pongal;",
+    "cep": "29238980",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Anchieta"
+    },
+    "ibge": 3200409,
+    "logradouro": "Rodovia Virgílio Lorencini, s\/n  AGC Alto Pongal;"
 }

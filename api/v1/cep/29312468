@@ -1,12 +1,12 @@
 {
-  "cep": "29312468",
-  "logradouro": "Avenida Jones dos Santos Neves",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "29312468",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Avenida Jones dos Santos Neves;"
 }

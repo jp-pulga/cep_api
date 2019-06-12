@@ -1,12 +1,12 @@
 {
-  "cep": "05567010",
-  "logradouro": "Avenida Professor João de Lorenzo",
-  "bairro": "Jardim São Jorge (Raposo Tavares)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Jorge (Raposo Tavares);",
+    "cep": "05567010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Professor João de Lorenzo;"
 }

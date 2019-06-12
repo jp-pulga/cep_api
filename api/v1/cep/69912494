@@ -1,12 +1,12 @@
 {
-  "cep": "69912494",
-  "logradouro": "Rua Projetada 684",
-  "bairro": "Floresta Sul",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Floresta Sul;",
+    "cep": "69912494",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Projetada 684;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40342740",
-  "logradouro": "Parque Santa Efigênia",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "40342740",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Parque Santa Efigênia;"
 }

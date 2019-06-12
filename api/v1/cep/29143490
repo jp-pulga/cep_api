@@ -1,12 +1,12 @@
 {
-  "cep": "29143490",
-  "logradouro": "Avenida Domingos Martins",
-  "bairro": "Rosa da Penha",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rosa da Penha;",
+    "cep": "29143490",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Domingos Martins;"
 }

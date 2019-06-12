@@ -1,12 +1,12 @@
 {
-  "cep": "44001425",
-  "logradouro": "Avenida Presidente Dutra de 567 a 1121 - lado ímpar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44001425",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Presidente Dutra - de 567 a 1121 - lado ímpar;"
 }

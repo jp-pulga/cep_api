@@ -1,12 +1,13 @@
 {
-  "cep": "29142007",
-  "logradouro": "Rua Sergipe",
-  "bairro": "Bandeirantes",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bandeirantes;",
+    "cep": "29142007",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Escadaria Sergipe;"
 }

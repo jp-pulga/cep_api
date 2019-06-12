@@ -1,12 +1,12 @@
 {
-  "cep": "15999970",
-  "logradouro": "AGC São Lourenço do Turvo Rua Domingos Primiano 701",
-  "bairro": "São Lourenço do Turvo",
-  "cidade": {
-    "nome": "Matão",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "São Lourenço do Turvo;",
+    "cep": "15999970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Matão"
+    },
+    "logradouro": "Rua Domingos Primiano, 701  AGC São Lourenço do Turvo;"
 }

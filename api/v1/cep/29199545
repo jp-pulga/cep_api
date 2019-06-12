@@ -1,12 +1,13 @@
 {
-  "cep": "29199545",
-  "logradouro": "Alameda Vasco Alves de Oliveira",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "29199545",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Alameda Vasco Alves de Oliveira;"
 }

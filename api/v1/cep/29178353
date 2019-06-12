@@ -1,12 +1,12 @@
 {
-  "cep": "29178353",
-  "logradouro": "Rua Ibiraçú",
-  "bairro": "Planalto Serrano Bloco A",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Planalto Serrano;",
+    "cep": "29178353",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Ibiraçú (Bloco A);"
 }

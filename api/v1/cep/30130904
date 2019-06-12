@@ -1,12 +1,12 @@
 {
-  "cep": "30130904",
-  "logradouro": "Edifício Super Building Valente Avenida Afonso Pena 748",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30130904",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Afonso Pena, 748  Edifício Super Building Valente;"
 }

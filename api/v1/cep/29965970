@@ -1,12 +1,13 @@
 {
-  "cep": "29965970",
-  "logradouro": "AGC Itaúnas Rua Graciano Neves 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Conceição da Barra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itaúnas;",
+    "cep": "29965970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Conceição da Barra"
+    },
+    "ibge": 3201605,
+    "logradouro": "Rua Graciano Neves, 13  AGC Itaúnas;"
 }

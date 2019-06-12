@@ -1,12 +1,12 @@
 {
-  "cep": "29165745",
-  "logradouro": "Rua Boa Esperança",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "29165745",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Boa Esperança;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29124389",
-  "logradouro": "Rua Presidente Kennedy",
-  "bairro": "Barramares",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barramares;",
+    "cep": "29124389",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Presidente Kennedy;"
 }

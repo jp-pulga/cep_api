@@ -1,12 +1,13 @@
 {
-  "cep": "29630970",
-  "logradouro": "AC Brejetuba Rua João Olinto Badaró 55",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brejetuba",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29630970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Brejetuba"
+    },
+    "ibge": 3201159,
+    "logradouro": "Avenida Firmino Teixeira Griffo, 437 Loja 2  AC Brejetuba;"
 }

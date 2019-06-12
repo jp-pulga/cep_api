@@ -1,12 +1,12 @@
 {
-  "cep": "29705101",
-  "logradouro": "Estrada para Pancas",
-  "bairro": "Maria das Graças",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Maria das Graças;",
+    "cep": "29705101",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Estrada para Pancas;"
 }

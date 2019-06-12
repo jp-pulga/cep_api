@@ -1,12 +1,12 @@
 {
-  "cep": "29172021",
-  "logradouro": "Rua Boa Esperança",
-  "bairro": "Feu Rosa",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Feu Rosa;",
+    "cep": "29172021",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Boa Esperança;"
 }

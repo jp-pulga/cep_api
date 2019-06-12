@@ -1,12 +1,12 @@
 {
-  "cep": "58102582",
-  "logradouro": "Rua Presidente Venceslau Braz",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "58102582",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Presidente Venceslau Braz;"
 }

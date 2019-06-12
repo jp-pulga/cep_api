@@ -1,12 +1,12 @@
 {
-  "cep": "39765970",
-  "logradouro": "AC Paulistas Rua Bias Fortes 48",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paulistas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39765970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Paulistas"
+    },
+    "logradouro": "Rua Bias Fortes, 48  AC Paulistas;"
 }

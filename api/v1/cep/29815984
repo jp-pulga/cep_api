@@ -1,12 +1,13 @@
 {
-  "cep": "29815984",
-  "logradouro": "AGC Paulista Praça Municipal s/n",
-  "bairro": "Vila Paulista",
-  "cidade": {
-    "nome": "Barra de São Francisco",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Paulista;",
+    "cep": "29815984",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Barra de São Francisco"
+    },
+    "ibge": 3200904,
+    "logradouro": "Praça Municipal, s\/n  AGC Paulista;"
 }

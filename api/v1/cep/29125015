@@ -1,12 +1,13 @@
 {
-  "cep": "29125015",
-  "logradouro": "Avenida Alfred Sisley",
-  "bairro": "Barra do Jucu",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra do Jucu;",
+    "cep": "29125015",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Alfred Sisley;"
 }

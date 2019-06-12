@@ -1,12 +1,13 @@
 {
-  "cep": "29151110",
-  "logradouro": "Rua Escelsa",
-  "bairro": "Alto Laje",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Alto Lage;",
+    "cep": "29151110",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Rua da Escelsa;"
 }

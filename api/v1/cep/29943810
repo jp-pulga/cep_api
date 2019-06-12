@@ -1,12 +1,13 @@
 {
-  "cep": "29943810",
-  "logradouro": "Avenida Antônio Lougon Moulin",
-  "bairro": "Bonsucesso",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bonsucesso;",
+    "cep": "29943810",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Antônio Lougon Moulin;"
 }

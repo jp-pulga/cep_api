@@ -1,12 +1,13 @@
 {
-  "cep": "39990971",
-  "logradouro": "AGC Campo Novo Avenida Águas Vermelhas 157-B",
-  "bairro": "Campo Novo",
-  "cidade": {
-    "nome": "Águas Vermelhas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campo Novo;",
+    "cep": "39990971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Águas Vermelhas"
+    },
+    "ibge": 3101003,
+    "logradouro": "Avenida Águas Vermelhas, 157-B  AGC Campo Novo;"
 }

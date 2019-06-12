@@ -1,12 +1,13 @@
 {
-  "cep": "37795970",
-  "logradouro": "AC Andradas Rua Quirino Gonçalves Lopes 53",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Andradas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37795970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Andradas"
+    },
+    "ibge": 3102605,
+    "logradouro": "Rua Quirino Gonçalves Lopes, 53  AC Andradas;"
 }

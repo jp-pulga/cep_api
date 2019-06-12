@@ -1,12 +1,13 @@
 {
-  "cep": "29830981",
-  "logradouro": "AGC Cedrolândia Estrada Principal 325",
-  "bairro": "Cedrolândia",
-  "cidade": {
-    "nome": "Nova Venécia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cedrolândia;",
+    "cep": "29830981",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Nova Venécia"
+    },
+    "ibge": 3203908,
+    "logradouro": "Estrada Principal, 325  AGC Cedrolândia;"
 }

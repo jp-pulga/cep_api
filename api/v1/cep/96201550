@@ -1,12 +1,12 @@
 {
-  "cep": "96201550",
-  "logradouro": "Rua Professor Antônio Gomes de Freitas",
-  "bairro": "Parque Residencial Salgado Filho",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Residencial Salgado Filho;",
+    "cep": "96201550",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Professor Antônio Gomes de Freitas;"
 }

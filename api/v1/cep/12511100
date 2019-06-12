@@ -1,12 +1,12 @@
 {
-  "cep": "12511100",
-  "logradouro": "Rua Presidente Wenceslau Braz",
-  "bairro": "Vila Comendador Rodrigues Alves",
-  "cidade": {
-    "nome": "Guaratinguetá",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Comendador Rodrigues Alves;",
+    "cep": "12511100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guaratinguetá"
+    },
+    "logradouro": "Rua Presidente Wenceslau Braz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13480748",
-  "logradouro": "Rua Professora Irene Alves Toledo Lima",
-  "bairro": "Vila Paraíso",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Paraíso;",
+    "cep": "13480748",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Rua Professora Irene Alves Toledo Lima;"
 }

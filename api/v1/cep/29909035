@@ -1,12 +1,13 @@
 {
-  "cep": "29909035",
-  "logradouro": "Rodovia ES-358",
-  "bairro": "Canivete",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Canivete;",
+    "cep": "29909035",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "ibge": 3203205,
+    "logradouro": "Rodovia ES-358;"
 }

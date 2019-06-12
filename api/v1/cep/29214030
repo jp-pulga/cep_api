@@ -1,12 +1,13 @@
 {
-  "cep": "29214030",
-  "logradouro": "Rua Esmael Luiz",
-  "bairro": "Lagoa Funda",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Lagoa Funda;",
+    "cep": "29214030",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "ibge": 3202405,
+    "logradouro": "Rua Esmael Luiz;"
 }

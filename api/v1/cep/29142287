@@ -1,12 +1,12 @@
 {
-  "cep": "29142287",
-  "logradouro": "Rua Rio São Mateus",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "29142287",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Rio São Mateus;"
 }

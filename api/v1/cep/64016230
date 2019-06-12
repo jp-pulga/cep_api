@@ -1,12 +1,12 @@
 {
-  "cep": "64016230",
-  "logradouro": "Rua Esperanto",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "64016230",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Esperanto;"
 }

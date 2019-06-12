@@ -1,12 +1,12 @@
 {
-  "cep": "12948395",
-  "logradouro": "Estrada da Laje",
-  "bairro": "Atibaia Vista da Montanha",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Atibaia Vista da Montanha;",
+    "cep": "12948395",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Estrada da Laje;"
 }

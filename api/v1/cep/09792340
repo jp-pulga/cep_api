@@ -1,12 +1,12 @@
 {
-  "cep": "09792340",
-  "logradouro": "Rua Celso Alves Batista (Vl Estudantes)",
-  "bairro": "Montanhão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Montanhão;",
+    "cep": "09792340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Celso Alves Batista (Vl Estudantes);"
 }

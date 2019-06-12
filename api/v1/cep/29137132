@@ -1,12 +1,12 @@
 {
-  "cep": "29137132",
-  "logradouro": "Rua Alfredo Chaves",
-  "bairro": "Areinha",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Areinha;",
+    "cep": "29137132",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Alfredo Chaves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13218009",
-  "logradouro": "Praça São João Batista",
-  "bairro": "Ponte de São João",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ponte de São João;",
+    "cep": "13218009",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Praça São João Batista;"
 }

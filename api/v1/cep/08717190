@@ -1,12 +1,12 @@
 {
-  "cep": "08717190",
-  "logradouro": "Rua Professor Benedito Leôncio Arouche de Toledo",
-  "bairro": "Parque Santana",
-  "cidade": {
-    "nome": "Mogi das Cruzes",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Santana;",
+    "cep": "08717190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi das Cruzes"
+    },
+    "logradouro": "Rua Professor Benedito Leôncio Arouche de Toledo;"
 }

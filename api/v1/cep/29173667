@@ -1,12 +1,12 @@
 {
-  "cep": "29173667",
-  "logradouro": "Rua Santa Helena",
-  "bairro": "Praia de Capuba",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia de Capuba;",
+    "cep": "29173667",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Santa Helena;"
 }

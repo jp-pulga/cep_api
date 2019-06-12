@@ -1,12 +1,13 @@
 {
-  "cep": "36220971",
-  "logradouro": "PC Curral Novo Praça Lina Fagundes s/n",
-  "bairro": "Curral Novo",
-  "cidade": {
-    "nome": "Antônio Carlos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Curral Novo;",
+    "cep": "36220971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Antônio Carlos"
+    },
+    "ibge": 3102902,
+    "logradouro": "Praça Lina Fagundes, s\/n  PC Curral Novo;"
 }

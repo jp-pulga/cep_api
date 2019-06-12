@@ -1,12 +1,13 @@
 {
-  "cep": "29725980",
-  "logradouro": "AGC Monte Sinai Rua Luiz Cavalari s/n",
-  "bairro": "Monte Sinai",
-  "cidade": {
-    "nome": "Marilândia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Monte Sinai;",
+    "cep": "29725980",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Marilândia"
+    },
+    "ibge": 3203353,
+    "logradouro": "Rua Luiz Cavalari, s\/n  AGC Monte Sinai 2;"
 }

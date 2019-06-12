@@ -1,12 +1,12 @@
 {
-  "cep": "08503000",
-  "logradouro": "Estrada Miguel Dib Jorge",
-  "bairro": "Jardim do Castelo",
-  "cidade": {
-    "nome": "Ferraz de Vasconcelos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim do Castelo;",
+    "cep": "08503000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ferraz de Vasconcelos"
+    },
+    "logradouro": "Estrada Miguel Dib Jorge;"
 }

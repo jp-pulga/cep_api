@@ -1,12 +1,12 @@
 {
-  "cep": "29193316",
-  "logradouro": "Rua Santa Tereza",
-  "bairro": "Itaputera",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Itaputera;",
+    "cep": "29193316",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "logradouro": "Rua Santa Tereza;"
 }

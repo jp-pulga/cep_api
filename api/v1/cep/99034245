@@ -1,12 +1,12 @@
 {
-  "cep": "99034245",
-  "logradouro": "Estrada Pinheiro Torto",
-  "bairro": "Integração",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Integração;",
+    "cep": "99034245",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Estrada Pinheiro Torto;"
 }

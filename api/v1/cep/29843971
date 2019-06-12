@@ -1,12 +1,13 @@
 {
-  "cep": "29843971",
-  "logradouro": "AGC Praça Rica Rua Vasco Fernandes Coutinho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vila Pavão",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29843971",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Pavão"
+    },
+    "ibge": 3205150,
+    "logradouro": "Rua Vasco Fernandes Coutinho, s\/n  AGC Praça Rica;"
 }

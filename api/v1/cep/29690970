@@ -1,12 +1,13 @@
 {
-  "cep": "29690970",
-  "logradouro": "AC Itaguaçu Rua Vicente Peixoto de Melo 48",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaguaçu",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29690970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Itaguaçu"
+    },
+    "ibge": 3202702,
+    "logradouro": "Rua Vicente Peixoto de Mello, 48  AC Itaguaçu;"
 }

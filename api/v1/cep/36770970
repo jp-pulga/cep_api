@@ -1,12 +1,12 @@
 {
-  "cep": "36770970",
-  "logradouro": "AC Cataguases Avenida Astolfo Dutra 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36770970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Avenida Astolfo Dutra, 44  AC Cataguases;"
 }

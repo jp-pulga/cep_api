@@ -1,12 +1,12 @@
 {
-  "cep": "88516350",
-  "logradouro": "Rua Esporte Clube Pinheiros",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Lages",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "88516350",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Lages"
+    },
+    "logradouro": "Rua Esporte Clube Pinheiros;"
 }

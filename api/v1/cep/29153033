@@ -1,12 +1,12 @@
 {
-  "cep": "29153033",
-  "logradouro": "Travessa Marechal Floriano",
-  "bairro": "Porto de Santana",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Porto de Santana;",
+    "cep": "29153033",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Travessa Marechal Floriano;"
 }

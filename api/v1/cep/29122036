@@ -1,12 +1,13 @@
 {
-  "cep": "29122036",
-  "logradouro": "Avenida Carlos Lindenberg lado par",
-  "bairro": "Glória",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Glória;",
+    "cep": "29122036",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Carlos Lindenberg - lado par;"
 }

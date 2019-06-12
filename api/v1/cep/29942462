@@ -1,12 +1,13 @@
 {
-  "cep": "29942462",
-  "logradouro": "Avenida Barão dos Aymorés",
-  "bairro": "Nova São Mateus",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nova São Mateus;",
+    "cep": "29942462",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Barão dos Aymorés;"
 }

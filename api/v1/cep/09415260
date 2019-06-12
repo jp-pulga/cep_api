@@ -1,12 +1,12 @@
 {
-  "cep": "09415260",
-  "logradouro": "Estrada de Ribeirão Pires Anchieta",
-  "bairro": "Represa",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Represa;",
+    "cep": "09415260",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Estrada de Ribeirão Pires Anchieta;"
 }

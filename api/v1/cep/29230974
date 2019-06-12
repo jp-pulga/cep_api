@@ -1,12 +1,13 @@
 {
-  "cep": "29230974",
-  "logradouro": "AGC Praia dos Castelhanos Avenida Jovina dos Santos 100",
-  "bairro": "Ubú",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ubú;",
+    "cep": "29230974",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Anchieta"
+    },
+    "ibge": 3200409,
+    "logradouro": "Avenida Jovina dos Santos, 100  AGC Praia dos Castelhanos;"
 }

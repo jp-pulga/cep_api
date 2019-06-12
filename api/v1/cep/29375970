@@ -1,12 +1,13 @@
 {
-  "cep": "29375970",
-  "logradouro": "AC Venda Nova do Imigrante Avenida Domingos Perin 119",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Venda Nova do Imigrante",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29375970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Venda Nova do Imigrante"
+    },
+    "ibge": 3205069,
+    "logradouro": "Avenida Domingos Perim, 119  AC Venda Nova do Imigrante;"
 }

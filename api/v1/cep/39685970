@@ -1,12 +1,12 @@
 {
-  "cep": "39685970",
-  "logradouro": "AGC Angelândia Praça Antônio Dias s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Angelândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39685970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Angelândia"
+    },
+    "logradouro": "Praça Antônio Dias s\/n  AGC Angelândia;"
 }

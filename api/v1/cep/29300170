@@ -1,12 +1,12 @@
 {
-  "cep": "29300170",
-  "logradouro": "Praça Jerônymo Monteiro",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29300170",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Praça Jerônimo Monteiro;"
 }

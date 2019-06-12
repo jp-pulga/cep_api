@@ -1,12 +1,12 @@
 {
-  "cep": "41321470",
-  "logradouro": "Rua Estados Unidos",
-  "bairro": "Castelo Branco",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Castelo Branco;",
+    "cep": "41321470",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Estados Unidos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "29190621",
-  "logradouro": "Avenida Coronel Venâncio Flores de 5001/5002 a 5199/5200",
-  "bairro": "Cupido",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Cupido;",
+    "cep": "29190621",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Avenida Coronel Venâncio Flores - de 5001\/5002 a 5199\/5200;"
 }

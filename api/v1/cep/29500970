@@ -1,12 +1,12 @@
 {
-  "cep": "29500970",
-  "logradouro": "AC Alegre Avenida Jerônimo Monteiro 133",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alegre",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29500970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Alegre"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro, 133  AC Alegre;"
 }

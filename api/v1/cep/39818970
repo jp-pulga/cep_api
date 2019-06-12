@@ -1,12 +1,12 @@
 {
-  "cep": "39818970",
-  "logradouro": "AC Padre Paraíso Rua Araçuaí 186",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Padre Paraíso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39818970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Padre Paraíso"
+    },
+    "logradouro": "Rua Araçuaí, 186  AC Padre Paraíso;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29126068",
-  "logradouro": "Rua Mimoso do Sul",
-  "bairro": "Riviera da Barra",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Riviera da Barra;",
+    "cep": "29126068",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Mimoso do Sul;"
 }

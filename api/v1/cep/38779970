@@ -1,12 +1,13 @@
 {
-  "cep": "38779970",
-  "logradouro": "AC Brasilândia de Minas Rua Jaci Zica 123",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brasilândia de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38779970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Brasilândia de Minas"
+    },
+    "ibge": 3108552,
+    "logradouro": "Rua Jaci Zica, 123  AC Brasilândia de Minas;"
 }

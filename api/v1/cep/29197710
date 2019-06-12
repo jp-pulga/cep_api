@@ -1,12 +1,13 @@
 {
-  "cep": "29197710",
-  "logradouro": "Beco Esperança",
-  "bairro": "Barra do Riacho",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Barra do Riacho;",
+    "cep": "29197710",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Beco Esperança;"
 }

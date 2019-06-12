@@ -1,12 +1,13 @@
 {
-  "cep": "37948970",
-  "logradouro": "AC Bom Jesus da Penha Rua Curitiba 47",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus da Penha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37948970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Bom Jesus da Penha"
+    },
+    "ibge": 3107604,
+    "logradouro": "Rua Curitiba, 47  AC Bom Jesus da Penha;"
 }

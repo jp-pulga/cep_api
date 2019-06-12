@@ -1,12 +1,13 @@
 {
-  "cep": "37940970",
-  "logradouro": "AC Alpinópolis Rua Antônio Anacleto Resende 152",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alpinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37940970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Alpinópolis"
+    },
+    "ibge": 3101904,
+    "logradouro": "Rua Antônio Anacleto Resende, 152  AC Alpinópolis;"
 }

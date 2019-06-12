@@ -1,12 +1,13 @@
 {
-  "cep": "29127335",
-  "logradouro": "Avenida Boa Esperança",
-  "bairro": "Terra Vermelha",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Terra Vermelha;",
+    "cep": "29127335",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "ibge": 3205200,
+    "logradouro": "Avenida Boa Esperança;"
 }

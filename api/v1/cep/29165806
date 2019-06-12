@@ -1,12 +1,12 @@
 {
-  "cep": "29165806",
-  "logradouro": "Rua Afonso Cláudio",
-  "bairro": "Valparaíso",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Valparaíso;",
+    "cep": "29165806",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Afonso Cláudio;"
 }

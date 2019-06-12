@@ -1,12 +1,13 @@
 {
-  "cep": "29230981",
-  "logradouro": "AGC Ubú Rua Laudelino Neves s/n",
-  "bairro": "Ubú",
-  "cidade": {
-    "nome": "Anchieta",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ubú;",
+    "cep": "29230981",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Anchieta"
+    },
+    "ibge": 3200409,
+    "logradouro": "Rua Laudelino Neves, s\/n  AGC Ubú;"
 }

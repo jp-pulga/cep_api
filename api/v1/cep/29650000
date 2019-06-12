@@ -1,12 +1,11 @@
 {
-  "cep": "29650000",
-  "logradouro": "Santa Teresa",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santa Teresa",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29650000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Santa Teresa"
+    },
+    "ibge": 3204609
 }

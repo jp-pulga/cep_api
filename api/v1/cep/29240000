@@ -1,12 +1,11 @@
 {
-  "cep": "29240000",
-  "logradouro": "Alfredo Chaves",
-  "bairro": "",
-  "cidade": {
-    "nome": "Alfredo Chaves",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29240000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Alfredo Chaves"
+    },
+    "ibge": 3200300
 }

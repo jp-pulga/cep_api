@@ -1,12 +1,12 @@
 {
-  "cep": "14078420",
-  "logradouro": "Rua Pinhal",
-  "bairro": "Jardim Aeroporto",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Aeroporto;",
+    "cep": "14078420",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Pinhal;"
 }

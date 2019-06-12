@@ -1,12 +1,11 @@
 {
-  "cep": "29263000",
-  "logradouro": "Isabel (Domingos Martins)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Isabel (Domingos Martins)",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "cep": "29263000",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Domingos Martins"
+    },
+    "ibge": 3201902
 }

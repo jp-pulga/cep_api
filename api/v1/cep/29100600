@@ -1,12 +1,12 @@
 {
-  "cep": "29100600",
-  "logradouro": "Avenida Jerônimo Monteiro",
-  "bairro": "Jaburuna",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jaburuna;",
+    "cep": "29100600",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Avenida Jerônimo Monteiro;"
 }

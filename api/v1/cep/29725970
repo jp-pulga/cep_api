@@ -1,12 +1,13 @@
 {
-  "cep": "29725970",
-  "logradouro": "AC Marilândia Rua Cônego João Guilherme 123",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marilândia",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29725970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Marilândia"
+    },
+    "ibge": 3203353,
+    "logradouro": "Rua Cônego João Guilherme, 123  AC Marilândia;"
 }

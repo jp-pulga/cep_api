@@ -1,12 +1,12 @@
 {
-  "cep": "78110791",
-  "logradouro": "Rua Rondônia (Lot Prq Tremendão)",
-  "bairro": "23 de Setembro",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "23 de Setembro;",
+    "cep": "78110791",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Rondônia (Lot Prq Tremendão);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37795975",
-  "logradouro": "AGC Bairro dos Garibaldi Rua dos Barros s/n",
-  "bairro": "Dos Garibaldi",
-  "cidade": {
-    "nome": "Andradas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Dos Garibaldi;",
+    "cep": "37795975",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Andradas"
+    },
+    "ibge": 3102605,
+    "logradouro": "Rua dos Barros, s\/n  AGC Bairro dos Garibaldi;"
 }

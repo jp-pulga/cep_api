@@ -1,12 +1,12 @@
 {
-  "cep": "29944200",
-  "logradouro": "Rua Conceição da Barra",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "29944200",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Conceição da Barra;"
 }

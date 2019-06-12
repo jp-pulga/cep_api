@@ -1,12 +1,12 @@
 {
-  "cep": "29314045",
-  "logradouro": "Avenida Frederico Augusto Coser Cachoeiro-Muqui",
-  "bairro": "Aeroporto",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Aeroporto;",
+    "cep": "29314045",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Avenida Frederico Augusto Coser Cachoeiro-Muqui;"
 }

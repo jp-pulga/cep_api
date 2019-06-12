@@ -1,12 +1,13 @@
 {
-  "cep": "35588976",
-  "logradouro": "UD Arcos Avenida Magalhães Pinto 1269",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Arcos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35588976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Arcos"
+    },
+    "ibge": 3104205,
+    "logradouro": "Avenida Magalhães Pinto 1269  CDD Arcos;"
 }

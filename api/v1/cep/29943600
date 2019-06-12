@@ -1,12 +1,13 @@
 {
-  "cep": "29943600",
-  "logradouro": "Avenida Ayrton Senna",
-  "bairro": "Bonsucesso",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bonsucesso;",
+    "cep": "29943600",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "ibge": 3204906,
+    "logradouro": "Avenida Ayrton Senna;"
 }

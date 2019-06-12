@@ -1,12 +1,13 @@
 {
-  "cep": "29395970",
-  "logradouro": "AC Ibatiba Rua 7 de Novembro 80",
-  "bairro": "Brasil Novo",
-  "cidade": {
-    "nome": "Ibatiba",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Brasil Novo;",
+    "cep": "29395970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ibatiba"
+    },
+    "ibge": 3202454,
+    "logradouro": "Rua 7 de Novembro, 80  AC Ibatiba;"
 }

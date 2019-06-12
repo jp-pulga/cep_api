@@ -1,12 +1,13 @@
 {
-  "cep": "29885970",
-  "logradouro": "AC Ponto Belo Avenida Sebastião Rabelo 104",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponto Belo",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "29885970",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Ponto Belo"
+    },
+    "ibge": 3204252,
+    "logradouro": "Avenida Sebastião Rabelo, 128  AC Ponto Belo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29148140",
-  "logradouro": "Rua Fundão",
-  "bairro": "Vila Capixaba",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Capixaba;",
+    "cep": "29148140",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Fundão;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29157784",
-  "logradouro": "Rua Santa Leopoldina",
-  "bairro": "Bubú",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Bubú;",
+    "cep": "29157784",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "logradouro": "Rua Santa Leopoldina;"
 }

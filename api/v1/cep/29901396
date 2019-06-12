@@ -1,12 +1,12 @@
 {
-  "cep": "29901396",
-  "logradouro": "Avenida São Mateus",
-  "bairro": "Araçá",
-  "cidade": {
-    "nome": "Linhares",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Araçá;",
+    "cep": "29901396",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Linhares"
+    },
+    "logradouro": "Avenida São Mateus;"
 }

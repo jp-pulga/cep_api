@@ -1,12 +1,12 @@
 {
-  "cep": "32017670",
-  "logradouro": "Praça Vereador Josias Belém",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "32017670",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Praça Vereador Josias Belém;"
 }

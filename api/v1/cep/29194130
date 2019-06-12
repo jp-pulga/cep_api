@@ -1,12 +1,13 @@
 {
-  "cep": "29194130",
-  "logradouro": "Rua Ezequiel Fraga Rocha",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Aracruz",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "29194130",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Aracruz"
+    },
+    "ibge": 3200607,
+    "logradouro": "Rua Ezequiel Fraga Rocha;"
 }

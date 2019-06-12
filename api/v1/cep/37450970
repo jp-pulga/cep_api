@@ -1,12 +1,13 @@
 {
-  "cep": "37450970",
-  "logradouro": "AC Aiuruoca Rua Coronel Oswald 122 Lojas 3 e 4",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aiuruoca",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37450970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Aiuruoca"
+    },
+    "ibge": 3101201,
+    "logradouro": "Rua Coronel Oswald, 122 Lojas 3 e 4  AC Aiuruoca;"
 }

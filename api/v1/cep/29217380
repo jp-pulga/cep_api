@@ -1,12 +1,12 @@
 {
-  "cep": "29217380",
-  "logradouro": "Rua Guacui",
-  "bairro": "Jardim Santa Rosa",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Santa Rosa;",
+    "cep": "29217380",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Guacui;"
 }

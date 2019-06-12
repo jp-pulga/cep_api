@@ -1,12 +1,13 @@
 {
-  "cep": "37140970",
-  "logradouro": "AC Areado Rua Doutor André Manso Vieira 111",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Areado",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37140970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Areado"
+    },
+    "ibge": 3104304,
+    "logradouro": "Rua Doutor André Manso Vieira, 111  AC Areado;"
 }

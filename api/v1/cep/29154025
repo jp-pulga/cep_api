@@ -1,12 +1,13 @@
 {
-  "cep": "29154025",
-  "logradouro": "Rua Soldado Eli Pereira",
-  "bairro": "Santana",
-  "cidade": {
-    "nome": "Cariacica",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Santana;",
+    "cep": "29154025",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cariacica"
+    },
+    "ibge": 3201308,
+    "logradouro": "Alameda Soldado Eli Pereira;"
 }
