@@ -1,12 +1,13 @@
 {
-  "cep": "96270970",
-  "logradouro": "AC Mostardas Rua Bento Gonçalves 839",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mostardas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96270970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mostardas"
+    },
+    "ibge": 4312500,
+    "logradouro": "Rua Bento Gonçalves, 839  AC Mostardas;"
 }

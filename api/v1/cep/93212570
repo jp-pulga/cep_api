@@ -1,12 +1,12 @@
 {
-  "cep": "93212570",
-  "logradouro": "Rua Iraí",
-  "bairro": "Três Portos",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Portos;",
+    "cep": "93212570",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Iraí;"
 }

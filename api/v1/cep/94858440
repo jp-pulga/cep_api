@@ -1,12 +1,12 @@
 {
-  "cep": "94858440",
-  "logradouro": "Rua Jacutingas",
-  "bairro": "Jardim Algarve",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim Algarve;",
+    "cep": "94858440",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Jacutingas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "98010310",
-  "logradouro": "Rua João Osório Prestes",
-  "bairro": "Boa Parada",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Parada;",
+    "cep": "98010310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua João Osório Prestes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95240970",
-  "logradouro": "AC Ipê Rua Frei Casemiro Zafonatto 224",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ipê",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95240970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ipê"
+    },
+    "ibge": 4310439,
+    "logradouro": "Rua Frei Casemiro Zafonatto, 224  AC Ipê;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "90460140",
-  "logradouro": "Avenida Itaqui",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "90460140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Itaqui;"
 }

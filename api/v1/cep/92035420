@@ -1,12 +1,12 @@
 {
-  "cep": "92035420",
-  "logradouro": "Rua João Osório Pereira",
-  "bairro": "Olaria",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Olaria;",
+    "cep": "92035420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua João Osório Pereira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98758971",
-  "logradouro": "AC Nova Ramada Avenida Gustavo Konig 95",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Ramada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98758971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Ramada"
+    },
+    "ibge": 4313334,
+    "logradouro": "Avenida Gustavo Konig, 95  AC Nova Ramada;"
 }

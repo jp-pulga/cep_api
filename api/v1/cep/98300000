@@ -1,12 +1,11 @@
 {
-  "cep": "98300000",
-  "logradouro": "Palmeira das Missões",
-  "bairro": "",
-  "cidade": {
-    "nome": "Palmeira das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "98300000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Palmeira das Missões"
+    },
+    "ibge": 4313706
 }

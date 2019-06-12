@@ -1,12 +1,12 @@
 {
-  "cep": "96080650",
-  "logradouro": "Rua Manoel Ferraz Viana",
-  "bairro": "Areal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Areal;",
+    "cep": "96080650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Manoel Ferraz Viana;"
 }

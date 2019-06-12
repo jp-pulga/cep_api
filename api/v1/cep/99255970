@@ -1,12 +1,13 @@
 {
-  "cep": "99255970",
-  "logradouro": "AC Montauri Rua Demétrio Ribeiro 292",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Montauri",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99255970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Montauri"
+    },
+    "ibge": 4312351,
+    "logradouro": "Rua Demétrio Ribeiro, 292  AC Montauri;"
 }

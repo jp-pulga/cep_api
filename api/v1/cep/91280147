@@ -1,12 +1,12 @@
 {
-  "cep": "91280147",
-  "logradouro": "Rua Mata Atlântica (Lot Res Verdes Campos)",
-  "bairro": "Mário Quintana",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mário Quintana;",
+    "cep": "91280147",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Mata Atlântica;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95530970",
-  "logradouro": "AC Maquiné Rua Padre Atanásio Orth 706",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maquiné",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95530970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Maquiné"
+    },
+    "ibge": 4311775,
+    "logradouro": "Rua Padre Atanásio Orth, 706  AC Maquiné;"
 }

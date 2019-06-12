@@ -1,12 +1,12 @@
 {
-  "cep": "91370340",
-  "logradouro": "Praça Itati",
-  "bairro": "Vila Ipiranga",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Ipiranga;",
+    "cep": "91370340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Itati;"
 }

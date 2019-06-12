@@ -1,12 +1,12 @@
 {
-  "cep": "91550826",
-  "logradouro": "Rua Miraguaí",
-  "bairro": "Lomba do Pinheiro",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Lomba do Pinheiro;",
+    "cep": "91550826",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Miraguaí;"
 }

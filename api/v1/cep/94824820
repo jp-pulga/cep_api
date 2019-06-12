@@ -1,12 +1,12 @@
 {
-  "cep": "94824820",
-  "logradouro": "Rua I",
-  "bairro": "Nova Americana",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nova Americana;",
+    "cep": "94824820",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua I;"
 }

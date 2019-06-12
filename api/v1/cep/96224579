@@ -1,12 +1,12 @@
 {
-  "cep": "96224579",
-  "logradouro": "Rua Vereador Carlos Mendonça Machado",
-  "bairro": "Povo Novo",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Povo Novo;",
+    "cep": "96224579",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Vereador Carlos Mendonça Machado;"
 }

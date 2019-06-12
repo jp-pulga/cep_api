@@ -1,12 +1,12 @@
 {
-  "cep": "90870170",
-  "logradouro": "Rua Lindolfo Color",
-  "bairro": "Medianeira",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Medianeira;",
+    "cep": "90870170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Lindolfo Color;"
 }

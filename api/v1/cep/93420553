@@ -1,12 +1,12 @@
 {
-  "cep": "93420553",
-  "logradouro": "Rua Itati",
-  "bairro": "Santo Afonso",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santo Afonso;",
+    "cep": "93420553",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Itati;"
 }

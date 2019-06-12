@@ -1,12 +1,12 @@
 {
-  "cep": "99700528",
-  "logradouro": "Rua Marcelino Ramos de 800/801 ao fim",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "99700528",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Marcelino Ramos - de 800\/801 ao fim;"
 }

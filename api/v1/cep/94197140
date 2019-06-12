@@ -1,12 +1,12 @@
 {
-  "cep": "94197140",
-  "logradouro": "Rua Adelino A. Souza",
-  "bairro": "Parque do Itatiaia",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque do Itatiaia;",
+    "cep": "94197140",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Adelino A. Souza;"
 }

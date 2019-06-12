@@ -1,12 +1,13 @@
 {
-  "cep": "95970970",
-  "logradouro": "AC Muçum Avenida Borges de Medeiros 152",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muçum",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95970970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Muçum"
+    },
+    "ibge": 4312609,
+    "logradouro": "Avenida Borges de Medeiros, 152  AC Muçum;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94495020",
-  "logradouro": "Avenida Antônio Batista",
-  "bairro": "Jari",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jari;",
+    "cep": "94495020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Avenida Antônio Batista;"
 }

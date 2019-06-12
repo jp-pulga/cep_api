@@ -1,12 +1,12 @@
 {
-  "cep": "93334390",
-  "logradouro": "Rua Nova Petrópolis",
-  "bairro": "Ideal",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ideal;",
+    "cep": "93334390",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Nova Petrópolis;"
 }

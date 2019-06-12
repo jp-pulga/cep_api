@@ -1,12 +1,13 @@
 {
-  "cep": "98765970",
-  "logradouro": "AGC Inhacorá Rua Expedicionário Ribeiro de Moura 79",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Inhacorá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98765970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Inhacorá"
+    },
+    "ibge": 4310413,
+    "logradouro": "Rua Expedicionário Ribeiro de Moura, 79  AGC Inhacorá;"
 }

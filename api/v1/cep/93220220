@@ -1,12 +1,12 @@
 {
-  "cep": "93220220",
-  "logradouro": "Rua Laurentino Juliano",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "93220220",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Laurentino Juliano;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93320470",
-  "logradouro": "Rua Tiradentes",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "93320470",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Tiradentes;"
 }

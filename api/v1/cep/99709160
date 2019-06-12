@@ -1,12 +1,12 @@
 {
-  "cep": "99709160",
-  "logradouro": "Rua Gladstone Osório Mársico",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "99709160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Gladstone Osório Mársico;"
 }

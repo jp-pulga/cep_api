@@ -1,12 +1,12 @@
 {
-  "cep": "95096270",
-  "logradouro": "Rua João Manoel Vianna",
-  "bairro": "Kayser",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Kayser;",
+    "cep": "95096270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua João Manoel Vianna;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98540970",
-  "logradouro": "AC Miraguaí Avenida Ijuí 1770 Sala 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Miraguaí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98540970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Miraguaí"
+    },
+    "ibge": 4312302,
+    "logradouro": "Avenida Ijuí, 1770 Sala 02  AC Miraguaí;"
 }

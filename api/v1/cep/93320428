@@ -1,12 +1,13 @@
 {
-  "cep": "93320428",
-  "logradouro": "Avenida Primeiro de Março de 3202 a 3700 - lado par",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "93320428",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Primeiro de Março - de 3202 a 3700 - lado par;"
 }

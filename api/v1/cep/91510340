@@ -1,12 +1,12 @@
 {
-  "cep": "91510340",
-  "logradouro": "Travessa Nova Prata",
-  "bairro": "Coronel Aparício Borges",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Coronel Aparício Borges;",
+    "cep": "91510340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Travessa Nova Prata;"
 }

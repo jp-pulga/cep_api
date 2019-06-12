@@ -1,12 +1,13 @@
 {
-  "cep": "97685970",
-  "logradouro": "AC Itacurubi Avenida Dez de Abril 660",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itacurubi",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97685970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itacurubi"
+    },
+    "ibge": 4310553,
+    "logradouro": "Avenida Dez de Abril, 660  AC Itacurubi;"
 }

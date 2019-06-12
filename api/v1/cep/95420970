@@ -1,12 +1,13 @@
 {
-  "cep": "95420970",
-  "logradouro": "AC Jaquirana Rua São José 2417",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaquirana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95420970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jaquirana"
+    },
+    "ibge": 4311122,
+    "logradouro": "Rua São José, 2417  AC Jaquirana;"
 }

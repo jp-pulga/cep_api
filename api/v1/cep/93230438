@@ -1,12 +1,12 @@
 {
-  "cep": "93230438",
-  "logradouro": "Rua José Nunes",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "93230438",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua José Nunes;"
 }

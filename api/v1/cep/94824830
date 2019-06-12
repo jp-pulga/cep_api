@@ -1,12 +1,12 @@
 {
-  "cep": "94824830",
-  "logradouro": "Rua Ari Rodrigues",
-  "bairro": "Nova Americana",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nova Americana;",
+    "cep": "94824830",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Ari Rodrigues;"
 }

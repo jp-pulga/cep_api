@@ -1,12 +1,12 @@
 {
-  "cep": "94853835",
-  "logradouro": "Rua da Mata (Lot Sta Bárbara)",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aparecida;",
+    "cep": "94853835",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua da Mata (Lot Sta Bárbara);"
 }

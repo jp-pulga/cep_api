@@ -1,12 +1,13 @@
 {
-  "cep": "93320454",
-  "logradouro": "Avenida Pedro Adams Filho de 1652 a 2200 - lado par",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "93320454",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Pedro Adams Filho - de 1552 a 2200 - lado par;"
 }

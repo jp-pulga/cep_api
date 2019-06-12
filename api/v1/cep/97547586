@@ -1,12 +1,12 @@
 {
-  "cep": "97547586",
-  "logradouro": "Rua Jari Rodrigues",
-  "bairro": "Nossa Senhora da Conceição Aparecida",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nossa Senhora da Conceição Aparecida;",
+    "cep": "97547586",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Jari Rodrigues;"
 }

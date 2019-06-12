@@ -1,12 +1,12 @@
 {
-  "cep": "98804362",
-  "logradouro": "Rua Barca dos Fonsecas",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "98804362",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua Barca dos Fonsecas;"
 }

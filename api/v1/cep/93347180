@@ -1,12 +1,12 @@
 {
-  "cep": "93347180",
-  "logradouro": "Rua Montenegro",
-  "bairro": "Boa Saúde",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Saúde;",
+    "cep": "93347180",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Montenegro;"
 }

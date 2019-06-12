@@ -1,12 +1,12 @@
 {
-  "cep": "91720402",
-  "logradouro": "Acesso Quatro (Cj Res Cidade Jardim)",
-  "bairro": "Nonoai",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nonoai;",
+    "cep": "91720402",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso Quatro (Cj Res Cidade Jardim);"
 }

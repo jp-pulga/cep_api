@@ -1,12 +1,12 @@
 {
-  "cep": "91780030",
-  "logradouro": "Rua Podalírio Teixeira Machado",
-  "bairro": "Belém Novo",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Belém Novo;",
+    "cep": "91780030",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Podalírio Teixeira Machado;"
 }

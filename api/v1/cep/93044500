@@ -1,12 +1,12 @@
 {
-  "cep": "93044500",
-  "logradouro": "Rua Lagoa Vermelha",
-  "bairro": "Campestre",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Campestre;",
+    "cep": "93044500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Lagoa Vermelha;"
 }

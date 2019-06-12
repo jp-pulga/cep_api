@@ -1,12 +1,13 @@
 {
-  "cep": "99600970",
-  "logradouro": "AC Nonoai Rua Padre Manoel Gomes Gonzales 1027",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nonoai",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99600970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nonoai"
+    },
+    "ibge": 4312708,
+    "logradouro": "Rua Padre Manoel Gomes Gonzales, 1027  AC Nonoai;"
 }

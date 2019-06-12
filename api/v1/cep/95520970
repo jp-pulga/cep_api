@@ -1,12 +1,12 @@
 {
-  "cep": "95520970",
-  "logradouro": "AC Osório Rua Júlio de Castilhos 711",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Osório",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95520970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Osório"
+    },
+    "logradouro": "Rua Júlio de Castilhos, 711  AC Osório;"
 }

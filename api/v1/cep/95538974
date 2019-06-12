@@ -1,12 +1,13 @@
 {
-  "cep": "95538974",
-  "logradouro": "AGC Três Pinheiros Estrada Costa do Morro s/nº",
-  "bairro": "Três Pinheiros (Distrito)",
-  "cidade": {
-    "nome": "Itati",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Pinheiros (Distrito);",
+    "cep": "95538974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itati"
+    },
+    "ibge": 4310652,
+    "logradouro": "Estrada Costa do Morro, s\/nº  AGC Três Pinheiros;"
 }

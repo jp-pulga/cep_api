@@ -1,12 +1,13 @@
 {
-  "cep": "97645971",
-  "logradouro": "AC Maçambará Rua Otacílio de Almeida 524",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maçambará",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97645971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Maçambará"
+    },
+    "ibge": 4311718,
+    "logradouro": "Rua Otacílio de Almeida, 524  AC Maçambará;"
 }

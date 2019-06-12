@@ -1,12 +1,13 @@
 {
-  "cep": "95572971",
-  "logradouro": "AC Mampituba Avenida Herculano Lopes 255",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mampituba",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95572971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mampituba"
+    },
+    "ibge": 4311734,
+    "logradouro": "Avenida Herculano Lopes, 255  AC Mampituba;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94935460",
-  "logradouro": "Rua Osório Correia",
-  "bairro": "Vila Parque Brasília",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Parque Brasília;",
+    "cep": "94935460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Osório Correia;"
 }

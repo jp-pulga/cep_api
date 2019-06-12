@@ -1,12 +1,12 @@
 {
-  "cep": "95520993",
-  "logradouro": "Emboabas Rodovia RS-030 - Km 89 nº 9001 - Emboabas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Osório",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95520993",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Osório"
+    },
+    "ibge": 4313508,
+    "logradouro": "Rodovia RS-030 - Km 89 nº 9001 - Emboabas  CPC Emboabas;"
 }

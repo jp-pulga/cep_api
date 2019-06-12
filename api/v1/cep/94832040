@@ -1,12 +1,12 @@
 {
-  "cep": "94832040",
-  "logradouro": "Rua Campo Bonito (Lot Nova Alvorada)",
-  "bairro": "Umbu",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Umbu;",
+    "cep": "94832040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Campo Bonito (Lot Nova Alvorada);"
 }

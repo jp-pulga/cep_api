@@ -1,12 +1,12 @@
 {
-  "cep": "94060350",
-  "logradouro": "Rua Jaquirana",
-  "bairro": "Santa Fé",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Santa Fé;",
+    "cep": "94060350",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Jaquirana;"
 }

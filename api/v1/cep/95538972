@@ -1,12 +1,13 @@
 {
-  "cep": "95538972",
-  "logradouro": "AC Itati Rua Nestor Becker 2781",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itati",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95538972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itati"
+    },
+    "ibge": 4310652,
+    "logradouro": "Rua Nestor Becker, 2781  AC Itati;"
 }

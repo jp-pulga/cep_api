@@ -1,12 +1,12 @@
 {
-  "cep": "99701420",
-  "logradouro": "Rua Ozório Pedrotti",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Esperança;",
+    "cep": "99701420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Ozório Pedrotti;"
 }

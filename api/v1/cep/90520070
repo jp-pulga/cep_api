@@ -1,12 +1,12 @@
 {
-  "cep": "90520070",
-  "logradouro": "Travessa Jaguarão",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "90520070",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Travessa Jaguarão;"
 }

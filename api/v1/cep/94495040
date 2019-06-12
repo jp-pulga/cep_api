@@ -1,12 +1,12 @@
 {
-  "cep": "94495040",
-  "logradouro": "Rua Edson Wanderlei Santos Machado",
-  "bairro": "Jari",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jari;",
+    "cep": "94495040",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Edson Wanderlei Santos Machado;"
 }

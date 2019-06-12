@@ -1,12 +1,12 @@
 {
-  "cep": "94515310",
-  "logradouro": "Rua Nova Araça",
-  "bairro": "Augusta",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Augusta;",
+    "cep": "94515310",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Nova Araça;"
 }

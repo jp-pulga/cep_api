@@ -1,12 +1,12 @@
 {
-  "cep": "94818500",
-  "logradouro": "Rua C (Vl Nova Petrópolis)",
-  "bairro": "Formoza",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Formoza;",
+    "cep": "94818500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua C (Vl Nova Petrópolis);"
 }

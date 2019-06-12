@@ -1,12 +1,13 @@
 {
-  "cep": "99890970",
-  "logradouro": "AC Maximiliano de Almeida Avenida José Bonifácio 64",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maximiliano de Almeida",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99890970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Maximiliano de Almeida"
+    },
+    "ibge": 4312203,
+    "logradouro": "Avenida José Bonifácio, 64  AC Maximiliano de Almeida;"
 }

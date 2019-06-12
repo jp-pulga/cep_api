@@ -1,12 +1,13 @@
 {
-  "cep": "93534162",
-  "logradouro": "Alameda João Viega da Rocha",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "93534162",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Alameda João Viega da Rocha;"
 }

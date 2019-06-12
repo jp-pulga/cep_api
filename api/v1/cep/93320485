@@ -1,12 +1,13 @@
 {
-  "cep": "93320485",
-  "logradouro": "Avenida Nações Unidas de 5001 a 5849 - lado ímpar",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "93320485",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Nações Unidas - de 5001 a 5849 - lado ímpar;"
 }

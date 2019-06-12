@@ -1,12 +1,12 @@
 {
-  "cep": "91720404",
-  "logradouro": "Acesso Seis (Cj Res Cid Jardim)",
-  "bairro": "Nonoai",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nonoai;",
+    "cep": "91720404",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso Seis (Cj Res Cid Jardim);"
 }

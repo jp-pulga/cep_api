@@ -1,12 +1,13 @@
 {
-  "cep": "96530970",
-  "logradouro": "AC Paraíso do Sul Rua Max Retzlaff 116",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paraíso do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96530970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Paraíso do Sul"
+    },
+    "ibge": 4314027,
+    "logradouro": "Rua Max Retzlaff, 116  AC Paraíso do Sul;"
 }

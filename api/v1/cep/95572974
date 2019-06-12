@@ -1,12 +1,13 @@
 {
-  "cep": "95572974",
-  "logradouro": "AGC Roça da Estância Estrada Geral s/n",
-  "bairro": "Roça da Estância (Distrito)",
-  "cidade": {
-    "nome": "Mampituba",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Roça da Estância;",
+    "cep": "95572974",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mampituba"
+    },
+    "ibge": 4311734,
+    "logradouro": "Estrada Geral, s\/n  AGC Roça da Estância;"
 }

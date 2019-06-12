@@ -1,12 +1,12 @@
 {
-  "cep": "94197150",
-  "logradouro": "Rua Adão Rosa",
-  "bairro": "Parque do Itatiaia",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque do Itatiaia;",
+    "cep": "94197150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Adão Rosa;"
 }

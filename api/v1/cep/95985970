@@ -1,12 +1,13 @@
 {
-  "cep": "95985970",
-  "logradouro": "AC Nova Alvorada Avenida Vicente Guerra 1314",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95985970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Alvorada"
+    },
+    "ibge": 4312757,
+    "logradouro": "Avenida Vicente Guerra, 1314  AC Nova Alvorada;"
 }

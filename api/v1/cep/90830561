@@ -1,12 +1,12 @@
 {
-  "cep": "90830561",
-  "logradouro": "Beco Dezenove (Vl Orfanotrófio II)",
-  "bairro": "Nonoai",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nonoai;",
+    "cep": "90830561",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Beco Dezenove (Vl Orfanotrófio II);"
 }

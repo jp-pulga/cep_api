@@ -1,12 +1,13 @@
 {
-  "cep": "98430970",
-  "logradouro": "AC Palmitinho Travessa Aloísio Hoffmann 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palmitinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98430970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Palmitinho"
+    },
+    "ibge": 4313805,
+    "logradouro": "Travessa Aloísio Hoffmann, 16 Sala 02  AC Palmitinho;"
 }

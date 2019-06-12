@@ -1,12 +1,12 @@
 {
-  "cep": "99010600",
-  "logradouro": "Rua Barão de Antonina (Vl Nicolau Vergueiro)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99010600",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Barão de Antonina (Vl Nicolau Vergueiro);"
 }

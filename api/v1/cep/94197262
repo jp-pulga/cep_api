@@ -1,12 +1,12 @@
 {
-  "cep": "94197262",
-  "logradouro": "Rua Rio Negro",
-  "bairro": "Parque do Itatiaia",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque do Itatiaia;",
+    "cep": "94197262",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Rio Negro;"
 }

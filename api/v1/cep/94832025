@@ -1,12 +1,12 @@
 {
-  "cep": "94832025",
-  "logradouro": "Rua do Arvoredo (Lot Nova Alvorada)",
-  "bairro": "Umbu",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Umbu;",
+    "cep": "94832025",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua do Arvoredo (Lot Nova Alvorada);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "99152000",
-  "logradouro": "Laranjeira (Marau)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Laranjeira (Marau)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjeira",
+    "cep": "99152000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Marau"
+    },
+    "ibge": 4311809
 }

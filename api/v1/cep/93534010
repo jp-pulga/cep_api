@@ -1,12 +1,12 @@
 {
-  "cep": "93534010",
-  "logradouro": "Rua Marquês de Souza",
-  "bairro": "Hamburgo Velho",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Hamburgo Velho;",
+    "cep": "93534010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Marquês de Souza;"
 }

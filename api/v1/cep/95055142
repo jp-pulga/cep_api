@@ -1,12 +1,12 @@
 {
-  "cep": "95055142",
-  "logradouro": "Rua Zumbi dos Palmares (Lot Res Vl Victória)",
-  "bairro": "Diamantino",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Diamantino;",
+    "cep": "95055142",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Zumbi dos Palmares (Lot Res Vl Victória);"
 }

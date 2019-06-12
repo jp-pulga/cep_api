@@ -1,12 +1,12 @@
 {
-  "cep": "94197148",
-  "logradouro": "Rua Telmo Silva",
-  "bairro": "Parque do Itatiaia",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque do Itatiaia;",
+    "cep": "94197148",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Telmo Silva;"
 }

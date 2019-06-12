@@ -1,12 +1,13 @@
 {
-  "cep": "93900970",
-  "logradouro": "AC Ivoti Avenida São Leopoldo 660",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ivoti",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93900970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ivoti"
+    },
+    "ibge": 4310801,
+    "logradouro": "Avenida São Leopoldo, 660  AC Ivoti;"
 }

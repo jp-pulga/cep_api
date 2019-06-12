@@ -1,12 +1,13 @@
 {
-  "cep": "93347335",
-  "logradouro": "Avenida Carlos Armando Koch",
-  "bairro": "Boa Saúde",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Saúde;",
+    "cep": "93347335",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Carlos Armando Koch;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "97415000",
-  "logradouro": "Clara (Mata)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Clara (Mata)",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "97415000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mata"
+    },
+    "ibge": 4312104
 }

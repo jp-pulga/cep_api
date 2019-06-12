@@ -1,12 +1,13 @@
 {
-  "cep": "96150970",
-  "logradouro": "AC Morro Redondo Avenida Jacarandá 138",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morro Redondo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96150970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Morro Redondo"
+    },
+    "ibge": 4312450,
+    "logradouro": "Avenida Jacarandá, 138  AC Morro Redondo;"
 }

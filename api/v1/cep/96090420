@@ -1,12 +1,12 @@
 {
-  "cep": "96090420",
-  "logradouro": "Rua Montenegro",
-  "bairro": "Laranjal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjal;",
+    "cep": "96090420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Rua Montenegro;"
 }

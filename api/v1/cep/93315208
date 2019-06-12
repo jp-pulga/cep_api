@@ -1,12 +1,13 @@
 {
-  "cep": "93315208",
-  "logradouro": "Avenida Nações Unidas até 300 - lado par",
-  "bairro": "Operário",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Operário;",
+    "cep": "93315208",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Nações Unidas - até 300 - lado par;"
 }

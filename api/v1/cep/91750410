@@ -1,12 +1,12 @@
 {
-  "cep": "91750410",
-  "logradouro": "Rua Jóia",
-  "bairro": "Vila Nova",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Nova;",
+    "cep": "91750410",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Jóia;"
 }

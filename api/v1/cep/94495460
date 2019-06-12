@@ -1,12 +1,12 @@
 {
-  "cep": "94495460",
-  "logradouro": "Rua Manducurus",
-  "bairro": "Jari",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jari;",
+    "cep": "94495460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Manducurus;"
 }

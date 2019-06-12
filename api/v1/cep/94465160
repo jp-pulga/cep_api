@@ -1,12 +1,12 @@
 {
-  "cep": "94465160",
-  "logradouro": "Rua Paim Filho",
-  "bairro": "São Tomé",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Tomé;",
+    "cep": "94465160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Paim Filho;"
 }

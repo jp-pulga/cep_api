@@ -1,12 +1,13 @@
 {
-  "cep": "95997971",
-  "logradouro": "AC Itapuca Rua José Petrochi 1076",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itapuca",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95997971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itapuca"
+    },
+    "ibge": 4310579,
+    "logradouro": "Rua José Petrochi, 1076  AC Itapuca;"
 }

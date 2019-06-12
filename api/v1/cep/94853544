@@ -1,12 +1,12 @@
 {
-  "cep": "94853544",
-  "logradouro": "Rua Nova Esperança",
-  "bairro": "Aparecida",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aparecida;",
+    "cep": "94853544",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Nova Esperança;"
 }

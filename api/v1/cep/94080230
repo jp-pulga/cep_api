@@ -1,12 +1,12 @@
 {
-  "cep": "94080230",
-  "logradouro": "Rua Lindolfo Collor",
-  "bairro": "Morada do Vale III",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Morada do Vale III;",
+    "cep": "94080230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Lindolfo Collor;"
 }

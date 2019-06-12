@@ -1,12 +1,13 @@
 {
-  "cep": "95793971",
-  "logradouro": "AC Maratá Rua Padre Bernardo Rech s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Maratá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95793971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Maratá"
+    },
+    "ibge": 4311791,
+    "logradouro": "Rua Padre Bernardo Rech, s\/n  AC Maratá;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98350970",
-  "logradouro": "AC Jaboticaba Rua Padre Francisco Goetter 222",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaboticaba",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98350970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jaboticaba"
+    },
+    "ibge": 4310850,
+    "logradouro": "Rua Padre Francisco Goetter, 222  AC Jaboticaba;"
 }

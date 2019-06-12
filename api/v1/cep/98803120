@@ -1,12 +1,12 @@
 {
-  "cep": "98803120",
-  "logradouro": "Travessa Catarina Mattana do Couto",
-  "bairro": "Aliança",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Aliança;",
+    "cep": "98803120",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Travessa Catarina Mattana do Couto;"
 }

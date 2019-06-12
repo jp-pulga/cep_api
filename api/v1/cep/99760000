@@ -1,12 +1,11 @@
 {
-  "cep": "99760000",
-  "logradouro": "Itatiba do Sul",
-  "bairro": "",
-  "cidade": {
-    "nome": "Itatiba do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "99760000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itatiba do Sul"
+    },
+    "ibge": 4310702
 }

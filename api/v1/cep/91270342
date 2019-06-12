@@ -1,12 +1,12 @@
 {
-  "cep": "91270342",
-  "logradouro": "Beco Itaqui",
-  "bairro": "Mário Quintana",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Mário Quintana;",
+    "cep": "91270342",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Beco Itaqui;"
 }

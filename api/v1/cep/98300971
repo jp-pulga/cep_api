@@ -1,12 +1,13 @@
 {
-  "cep": "98300971",
-  "logradouro": "ACF Independência Avenida Independência 505",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palmeira das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98300971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Palmeira das Missões"
+    },
+    "ibge": 4313706,
+    "logradouro": "Avenida Independência, 505  ACF Independência;"
 }

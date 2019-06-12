@@ -1,12 +1,12 @@
 {
-  "cep": "96207050",
-  "logradouro": "Rua Mostardas (ABC X)",
-  "bairro": "Cassino",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cassino;",
+    "cep": "96207050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Mostardas (ABC X);"
 }

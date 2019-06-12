@@ -1,12 +1,12 @@
 {
-  "cep": "98804353",
-  "logradouro": "Rua D",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Santo Ângelo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "98804353",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santo Ângelo"
+    },
+    "logradouro": "Rua D;"
 }

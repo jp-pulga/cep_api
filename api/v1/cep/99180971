@@ -1,12 +1,13 @@
 {
-  "cep": "99180971",
-  "logradouro": "AC Mato Castelhano Avenida Princesa Isabel",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mato Castelhano",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99180971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mato Castelhano"
+    },
+    "ibge": 4312138,
+    "logradouro": "Avenida Princesa Isabel  AC Mato Castelhano;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95990970",
-  "logradouro": "AC Ilópolis Rua dos Expedicionários 1260",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ilópolis",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95990970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Ilópolis"
+    },
+    "ibge": 4310306,
+    "logradouro": "Rua dos Expedicionários, 1260  AC Ilópolis;"
 }

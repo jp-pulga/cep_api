@@ -1,12 +1,13 @@
 {
-  "cep": "97640970",
-  "logradouro": "AC Manoel Viana Rua Franklin Bastos de Carvalho 652",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Manoel Viana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97640970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Manoel Viana"
+    },
+    "ibge": 4311759,
+    "logradouro": "Rua Franklin Bastos de Carvalho, 652  AC Manoel Viana;"
 }

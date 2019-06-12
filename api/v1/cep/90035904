@@ -1,12 +1,12 @@
 {
-  "cep": "90035904",
-  "logradouro": "Galeria Monza Avenida Independência 172",
-  "bairro": "Independência",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Independência;",
+    "cep": "90035904",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Independência, 172  Galeria Monza;"
 }

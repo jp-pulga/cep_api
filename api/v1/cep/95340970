@@ -1,12 +1,13 @@
 {
-  "cep": "95340970",
-  "logradouro": "AC Nova Bassano Rua Silva Jardim 93 Sala 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Bassano",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95340970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Bassano"
+    },
+    "ibge": 4312906,
+    "logradouro": "Rua Silva Jardim, 93 Sala 01  AC Nova Bassano;"
 }

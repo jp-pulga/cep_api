@@ -1,12 +1,13 @@
 {
-  "cep": "98338970",
-  "logradouro": "AC Novo Barreiro Avenida São João Batista 957",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Barreiro",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98338970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Barreiro"
+    },
+    "ibge": 4313490,
+    "logradouro": "Avenida São João Batista, 957  AC Novo Barreiro;"
 }

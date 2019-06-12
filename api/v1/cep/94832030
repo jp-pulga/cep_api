@@ -1,12 +1,12 @@
 {
-  "cep": "94832030",
-  "logradouro": "Rua do Bosque (Lot Nova Alvorada)",
-  "bairro": "Umbu",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Umbu;",
+    "cep": "94832030",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua do Bosque (Lot Nova Alvorada);"
 }

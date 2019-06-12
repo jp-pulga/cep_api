@@ -1,12 +1,12 @@
 {
-  "cep": "93220580",
-  "logradouro": "Rua Estância Velha",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "93220580",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Estância Velha;"
 }

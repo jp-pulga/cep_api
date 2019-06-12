@@ -1,12 +1,13 @@
 {
-  "cep": "95768971",
-  "logradouro": "AC Linha Nova Avenida Henrique Spier 1745",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Linha Nova",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95768971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Linha Nova"
+    },
+    "ibge": 4311643,
+    "logradouro": "Avenida Henrique Spier, 1745  AC Linha Nova;"
 }

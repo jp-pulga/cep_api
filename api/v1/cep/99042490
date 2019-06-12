@@ -1,12 +1,12 @@
 {
-  "cep": "99042490",
-  "logradouro": "Rua Marau",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "99042490",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Marau;"
 }

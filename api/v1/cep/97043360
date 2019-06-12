@@ -1,12 +1,12 @@
 {
-  "cep": "97043360",
-  "logradouro": "Rua Miraguai",
-  "bairro": "Chácara das Flores",
-  "cidade": {
-    "nome": "Santa Maria",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Chácara das Flores;",
+    "cep": "97043360",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Maria"
+    },
+    "logradouro": "Rua Miraguai;"
 }

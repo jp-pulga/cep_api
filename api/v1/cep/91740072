@@ -1,12 +1,12 @@
 {
-  "cep": "91740072",
-  "logradouro": "Beco D (Av Vicente Monteggia)",
-  "bairro": "Nonoai",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nonoai;",
+    "cep": "91740072",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Beco D (Av Vicente Monteggia);"
 }

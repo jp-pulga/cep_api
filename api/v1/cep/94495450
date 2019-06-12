@@ -1,12 +1,12 @@
 {
-  "cep": "94495450",
-  "logradouro": "Rua Marechal Rondon",
-  "bairro": "Jari",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jari;",
+    "cep": "94495450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Marechal Rondon;"
 }

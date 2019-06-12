@@ -1,12 +1,12 @@
 {
-  "cep": "92410150",
-  "logradouro": "Rua Jari",
-  "bairro": "Igara",
-  "cidade": {
-    "nome": "Canoas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Igara;",
+    "cep": "92410150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Canoas"
+    },
+    "logradouro": "Rua Jari;"
 }

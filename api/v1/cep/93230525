@@ -1,12 +1,12 @@
 {
-  "cep": "93230525",
-  "logradouro": "Rua Ivo Mário dos Santos Mensch (Lot Rec Rosas)",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "93230525",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Ivo Mário dos Santos Mensch (Lot Rec Rosas);"
 }

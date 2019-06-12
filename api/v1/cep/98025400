@@ -1,12 +1,12 @@
 {
-  "cep": "98025400",
-  "logradouro": "Rua Júlio de Castilhos",
-  "bairro": "Rocha",
-  "cidade": {
-    "nome": "Cruz Alta",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rocha;",
+    "cep": "98025400",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cruz Alta"
+    },
+    "logradouro": "Rua Júlio de Castilhos;"
 }

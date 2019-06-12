@@ -1,12 +1,12 @@
 {
-  "cep": "95700970",
-  "logradouro": "AC Bento Gonçalves Rua General Osório 101",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bento Gonçalves",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95700970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bento Gonçalves"
+    },
+    "logradouro": "Rua General Osório, 101  AC Bento Gonçalves;"
 }

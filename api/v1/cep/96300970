@@ -1,12 +1,13 @@
 {
-  "cep": "96300970",
-  "logradouro": "AC Jaguarão Rua Barbosa Neto 834",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jaguarão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96300970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jaguarão"
+    },
+    "ibge": 4311007,
+    "logradouro": "Rua Barbosa Neto, 834  AC Jaguarão;"
 }

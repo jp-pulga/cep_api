@@ -1,12 +1,13 @@
 {
-  "cep": "95230971",
-  "logradouro": "AC Muitos Capões Rua Dorval Antunes Pereira 506",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Muitos Capões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95230971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Muitos Capões"
+    },
+    "ibge": 4312617,
+    "logradouro": "Rua Dorval Antunes Pereira, 506  AC Muitos Capões;"
 }

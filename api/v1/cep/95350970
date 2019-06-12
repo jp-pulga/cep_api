@@ -1,12 +1,13 @@
 {
-  "cep": "95350970",
-  "logradouro": "AC Nova Araçá Rua Luiz Zuchetti 710",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Araçá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95350970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Araçá"
+    },
+    "ibge": 4312807,
+    "logradouro": "Rua Doze de Abril, 248  AC Nova Araçá;"
 }

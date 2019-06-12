@@ -1,12 +1,13 @@
 {
-  "cep": "98180970",
-  "logradouro": "AC Jóia Rua Brasilina Terra 498",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jóia",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98180970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jóia"
+    },
+    "ibge": 4311155,
+    "logradouro": "Rua Brasilina Terra, 498  AC Jóia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91740270",
-  "logradouro": "Rua Panambi",
-  "bairro": "Cavalhada",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cavalhada;",
+    "cep": "91740270",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Panambi;"
 }

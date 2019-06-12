@@ -1,12 +1,13 @@
 {
-  "cep": "99730970",
-  "logradouro": "AC Jacutinga Rua Angelo A Gasparetto 554",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacutinga",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99730970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jacutinga"
+    },
+    "ibge": 4310900,
+    "logradouro": "Rua Angelo A Gasparetto, 554  AC Jacutinga;"
 }

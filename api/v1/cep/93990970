@@ -1,12 +1,13 @@
 {
-  "cep": "93990970",
-  "logradouro": "AC Morro Reuter Travessa Vinte e Um de Abril 72",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Morro Reuter",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93990970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Morro Reuter"
+    },
+    "ibge": 4312476,
+    "logradouro": "Travessa Vinte e Um de Abril, 72  AC Morro Reuter;"
 }

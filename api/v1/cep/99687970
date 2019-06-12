@@ -1,12 +1,13 @@
 {
-  "cep": "99687970",
-  "logradouro": "AC Novo Xingu Rua Emílio Knak 710",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Xingu",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99687970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Xingu"
+    },
+    "ibge": 4313466,
+    "logradouro": "Rua Emílio Knak, 710  AC Novo Xingu;"
 }

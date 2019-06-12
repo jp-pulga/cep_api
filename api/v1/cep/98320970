@@ -1,12 +1,13 @@
 {
-  "cep": "98320970",
-  "logradouro": "AC Lajeado do Bugre Avenida Vinte de Março s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lajeado do Bugre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98320970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Lajeado do Bugre"
+    },
+    "ibge": 4311429,
+    "logradouro": "Avenida Vinte de Março, s\/n  AC Lajeado do Bugre;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95718971",
-  "logradouro": "AC Monte Belo do Sul Rua Sagrada Família 299",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Monte Belo do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95718971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Monte Belo do Sul"
+    },
+    "ibge": 4312385,
+    "logradouro": "Rua Sagrada Família, 299  AC Monte Belo do Sul;"
 }

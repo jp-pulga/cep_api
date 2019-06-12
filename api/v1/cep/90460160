@@ -1,12 +1,12 @@
 {
-  "cep": "90460160",
-  "logradouro": "Avenida Montenegro",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "90460160",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Montenegro;"
 }

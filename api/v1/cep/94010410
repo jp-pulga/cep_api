@@ -1,12 +1,12 @@
 {
-  "cep": "94010410",
-  "logradouro": "Rua Machadinho",
-  "bairro": "Oriço",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Oriço;",
+    "cep": "94010410",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Machadinho;"
 }

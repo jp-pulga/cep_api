@@ -1,12 +1,12 @@
 {
-  "cep": "94110606",
-  "logradouro": "Rua Manuel Vianna",
-  "bairro": "Parque Ipiranga",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Ipiranga;",
+    "cep": "94110606",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Manuel Vianna;"
 }

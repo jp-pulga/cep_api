@@ -1,12 +1,13 @@
 {
-  "cep": "99457970",
-  "logradouro": "AGC Jacuizinho Avenida João Fernandes s/nº",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Jacuizinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99457970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jacuizinho"
+    },
+    "ibge": 4310876,
+    "logradouro": "Avenida João Fernandes, s\/nº  AGC Jacuizinho;"
 }

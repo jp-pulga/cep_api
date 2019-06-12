@@ -1,12 +1,13 @@
 {
-  "cep": "99495970",
-  "logradouro": "AC Lagoa dos Três Cantos Avenida Otto Radtke 1561",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoa dos Três Cantos",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99495970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Lagoa dos Três Cantos"
+    },
+    "ibge": 4311270,
+    "logradouro": "Avenida Otto Radtke, 1561  AC Lagoa dos Três Cantos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "93520650",
-  "logradouro": "Rua Iraí",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Guarani;",
+    "cep": "93520650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Iraí;"
 }

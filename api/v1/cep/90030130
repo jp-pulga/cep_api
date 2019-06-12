@@ -1,12 +1,12 @@
 {
-  "cep": "90030130",
-  "logradouro": "Avenida Júlio de Castilhos lado par",
-  "bairro": "Centro Histórico",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro Histórico;",
+    "cep": "90030130",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Júlio de Castilhos - lado par;"
 }

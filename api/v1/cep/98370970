@@ -1,12 +1,13 @@
 {
-  "cep": "98370970",
-  "logradouro": "AC Novo Tiradentes Rua Albino Marcolan 60",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Tiradentes",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98370970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Tiradentes"
+    },
+    "ibge": 4313441,
+    "logradouro": "Rua Albino Marcolan, 60  AC Novo Tiradentes;"
 }

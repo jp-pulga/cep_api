@@ -1,12 +1,12 @@
 {
-  "cep": "93415510",
-  "logradouro": "Rua Armindo Machado",
-  "bairro": "Rondônia",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rondônia;",
+    "cep": "93415510",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Armindo Machado;"
 }

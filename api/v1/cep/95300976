@@ -1,12 +1,13 @@
 {
-  "cep": "95300976",
-  "logradouro": "AGC Fátima Rua Principal s/n",
-  "bairro": "Distrito de Fátima",
-  "cidade": {
-    "nome": "Lagoa Vermelha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Distrito de Fátima;",
+    "cep": "95300976",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Lagoa Vermelha"
+    },
+    "ibge": 4311304,
+    "logradouro": "Rua Principal, s\/n  AGC Fátima;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "92900971",
-  "logradouro": "AC Mariana Pimentel Rua Fernando Abott 400",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mariana Pimentel",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "92900971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mariana Pimentel"
+    },
+    "ibge": 4311981,
+    "logradouro": "Rua Fernando Abott, 400  AC Mariana Pimentel;"
 }

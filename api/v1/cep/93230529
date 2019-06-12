@@ -1,12 +1,12 @@
 {
-  "cep": "93230529",
-  "logradouro": "Rua Leopoldo Vieira (Lot Rec Rosas)",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "93230529",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Leopoldo Vieira (Lot Rec Rosas);"
 }

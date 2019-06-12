@@ -1,12 +1,13 @@
 {
-  "cep": "95950970",
-  "logradouro": "AC Nova Bréscia Rua João Macagnan 185 Sala 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Bréscia",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "95950970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Bréscia"
+    },
+    "ibge": 4313003,
+    "logradouro": "Rua João Macagnan, 185 Sala 03  AC Nova Bréscia;"
 }

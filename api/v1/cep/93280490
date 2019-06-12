@@ -1,12 +1,12 @@
 {
-  "cep": "93280490",
-  "logradouro": "Rua Ivoti",
-  "bairro": "Olímpica",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Olímpica;",
+    "cep": "93280490",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Ivoti;"
 }

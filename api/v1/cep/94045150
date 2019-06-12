@@ -1,12 +1,12 @@
 {
-  "cep": "94045150",
-  "logradouro": "Rua José Montauri",
-  "bairro": "COHAB B",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "COHAB B;",
+    "cep": "94045150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua José Montauri;"
 }

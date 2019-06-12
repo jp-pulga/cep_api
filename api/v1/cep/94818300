@@ -1,12 +1,12 @@
 {
-  "cep": "94818300",
-  "logradouro": "Travessa Osório",
-  "bairro": "Formoza",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Formoza;",
+    "cep": "94818300",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Travessa Osório;"
 }

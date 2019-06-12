@@ -1,12 +1,12 @@
 {
-  "cep": "93230497",
-  "logradouro": "Rua John Kennedy Junior",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "93230497",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua John Kennedy Junior;"
 }

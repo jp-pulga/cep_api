@@ -1,12 +1,12 @@
 {
-  "cep": "94080020",
-  "logradouro": "Rua Novo Hamburgo",
-  "bairro": "Morada do Vale III",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Morada do Vale III;",
+    "cep": "94080020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Novo Hamburgo;"
 }

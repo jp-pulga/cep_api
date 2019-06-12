@@ -1,12 +1,13 @@
 {
-  "cep": "99340970",
-  "logradouro": "AC Lagoão Avenida Tomas Costa 580",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Lagoão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99340970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Lagoão"
+    },
+    "ibge": 4311254,
+    "logradouro": "Avenida Tomas Costa, 580  AC Lagoão;"
 }

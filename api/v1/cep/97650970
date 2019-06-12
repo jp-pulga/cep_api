@@ -1,12 +1,13 @@
 {
-  "cep": "97650970",
-  "logradouro": "AC Itaqui Avenida Independência 422",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaqui",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97650970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itaqui"
+    },
+    "ibge": 4310603,
+    "logradouro": "Avenida Independência, 422  AC Itaqui;"
 }

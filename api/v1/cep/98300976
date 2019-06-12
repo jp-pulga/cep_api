@@ -1,12 +1,13 @@
 {
-  "cep": "98300976",
-  "logradouro": "ACS Quebrados Rua Benjamin Constant s/n",
-  "bairro": "Quebrados",
-  "cidade": {
-    "nome": "Palmeira das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Quebrados;",
+    "cep": "98300976",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Palmeira das Missões"
+    },
+    "ibge": 4313706,
+    "logradouro": "Rua Benjamin Constant, s\/n  ACS Quebrados;"
 }

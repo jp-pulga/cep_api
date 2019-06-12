@@ -1,12 +1,13 @@
 {
-  "cep": "92480970",
-  "logradouro": "AC Nova Santa Rita Avenida Santa Rita 826 Sala 110",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Santa Rita",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "92480970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Santa Rita"
+    },
+    "ibge": 4313375,
+    "logradouro": "Avenida Santa Rita, 826 Sala 110  AC Nova Santa Rita;"
 }

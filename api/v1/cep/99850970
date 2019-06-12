@@ -1,12 +1,13 @@
 {
-  "cep": "99850970",
-  "logradouro": "AC Paim Filho Avenida Vigário João Crisóstomo 89",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Paim Filho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99850970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Paim Filho"
+    },
+    "ibge": 4313607,
+    "logradouro": "Avenida Vigário João Crisóstomo, 89  AC Paim Filho;"
 }

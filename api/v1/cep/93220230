@@ -1,12 +1,12 @@
 {
-  "cep": "93220230",
-  "logradouro": "Rua Liberato Salzano Vieira da Cunha",
-  "bairro": "Jardim",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim;",
+    "cep": "93220230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Liberato Salzano Vieira da Cunha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91720405",
-  "logradouro": "Acesso Sete (Cj Res Cidade Jardim)",
-  "bairro": "Nonoai",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Nonoai;",
+    "cep": "91720405",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Acesso Sete (Cj Res Cidade Jardim);"
 }

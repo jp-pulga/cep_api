@@ -1,12 +1,13 @@
 {
-  "cep": "99760970",
-  "logradouro": "AC Itatiba do Sul Avenida Antonilo Angelo Tozo 692",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itatiba do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99760970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itatiba do Sul"
+    },
+    "ibge": 4310702,
+    "logradouro": "Avenida Antonilo Angelo Tozo, 692  AC Itatiba do Sul;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "95150990",
-  "logradouro": "Vale Verde Rua das Araucárias 980",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nova Petrópolis",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95150990",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Petrópolis"
+    },
+    "ibge": 4313201,
+    "logradouro": "Rua das Araucárias, 980  CPC Vale Verde;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "98300970",
-  "logradouro": "AC Palmeira das Missões Avenida Independência 1578",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Palmeira das Missões",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98300970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Palmeira das Missões"
+    },
+    "ibge": 4313706,
+    "logradouro": "Avenida Independência, 1578  AC Palmeira das Missões;"
 }

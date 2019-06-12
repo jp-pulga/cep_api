@@ -1,12 +1,12 @@
 {
-  "cep": "96835450",
-  "logradouro": "Rua Montenegro",
-  "bairro": "Esmeralda",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Esmeralda;",
+    "cep": "96835450",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Montenegro;"
 }

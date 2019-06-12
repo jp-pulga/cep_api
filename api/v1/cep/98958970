@@ -1,12 +1,12 @@
 {
-  "cep": "98958970",
-  "logradouro": "AC São José do Inhacorá Rua da Igreja 140",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Inhacorá",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98958970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José do Inhacorá"
+    },
+    "logradouro": "Rua da Igreja, 140  AC São José do Inhacorá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96835355",
-  "logradouro": "Rua Pantano Grande",
-  "bairro": "Castelo Branco",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Castelo Branco;",
+    "cep": "96835355",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Pantano Grande;"
 }

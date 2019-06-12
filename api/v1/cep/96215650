@@ -1,12 +1,12 @@
 {
-  "cep": "96215650",
-  "logradouro": "Rua Rio Jaguari",
-  "bairro": "Parque Marinha",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque Marinha;",
+    "cep": "96215650",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Rio Jaguari;"
 }

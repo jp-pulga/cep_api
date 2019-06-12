@@ -1,12 +1,12 @@
 {
-  "cep": "93260330",
-  "logradouro": "Rua Júlio de Castilhos",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Esteio",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "93260330",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Esteio"
+    },
+    "logradouro": "Rua Júlio de Castilhos;"
 }

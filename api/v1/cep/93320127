@@ -1,12 +1,13 @@
 {
-  "cep": "93320127",
-  "logradouro": "Avenida Primeiro de Março de 1081 a 1599 - lado ímpar",
-  "bairro": "Pátria Nova",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pátria Nova;",
+    "cep": "93320127",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Primeiro de Março - de 1081 a 1599 - lado ímpar;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "95520972",
-  "logradouro": "AGC Laranjeiras Estrada RS 30 3435",
-  "bairro": "Laranjeiras",
-  "cidade": {
-    "nome": "Osório",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjeiras;",
+    "cep": "95520972",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Osório"
+    },
+    "ibge": 4313508,
+    "logradouro": "Estrada RS 30, 3435  AGC Laranjeiras;"
 }

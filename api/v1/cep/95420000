@@ -1,12 +1,11 @@
 {
-  "cep": "95420000",
-  "logradouro": "Jaquirana",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jaquirana",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95420000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Jaquirana"
+    },
+    "ibge": 4311122
 }

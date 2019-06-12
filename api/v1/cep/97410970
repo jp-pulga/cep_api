@@ -1,12 +1,13 @@
 {
-  "cep": "97410970",
-  "logradouro": "AC Mata Rua do Comércio 685",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mata",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97410970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mata"
+    },
+    "ibge": 4312104,
+    "logradouro": "Rua do Comércio, 685  AC Mata;"
 }

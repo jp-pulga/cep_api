@@ -1,12 +1,13 @@
 {
-  "cep": "98955970",
-  "logradouro": "AC Novo Machado Rua Santa Rosa 97",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Novo Machado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "98955970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Machado"
+    },
+    "ibge": 4313425,
+    "logradouro": "Rua Santa Rosa, 97  AC Novo Machado;"
 }

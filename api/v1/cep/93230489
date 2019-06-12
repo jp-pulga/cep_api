@@ -1,12 +1,12 @@
 {
-  "cep": "93230489",
-  "logradouro": "Rua Edu Viegas da Silva (Lot Terra Nova)",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Sapucaia do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "93230489",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Sapucaia do Sul"
+    },
+    "logradouro": "Rua Edu Viegas da Silva (Lot Terra Nova);"
 }

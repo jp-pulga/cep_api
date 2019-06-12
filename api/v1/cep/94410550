@@ -1,12 +1,12 @@
 {
-  "cep": "94410550",
-  "logradouro": "Rua Jaguarão",
-  "bairro": "Cocão",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cocão;",
+    "cep": "94410550",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Rua Jaguarão;"
 }

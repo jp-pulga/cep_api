@@ -1,12 +1,12 @@
 {
-  "cep": "94950190",
-  "logradouro": "Rua Itaqui",
-  "bairro": "Parque da Matriz",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Parque da Matriz;",
+    "cep": "94950190",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Itaqui;"
 }

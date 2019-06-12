@@ -1,12 +1,12 @@
 {
-  "cep": "99060360",
-  "logradouro": "Rua Mato Castelhano",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "99060360",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Mato Castelhano;"
 }

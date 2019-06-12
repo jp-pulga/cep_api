@@ -1,12 +1,12 @@
 {
-  "cep": "95058250",
-  "logradouro": "Rua Lajeado (Lot Castelo)",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "95058250",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua Lajeado (Lot Castelo);"
 }

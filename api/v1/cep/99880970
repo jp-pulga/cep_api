@@ -1,12 +1,13 @@
 {
-  "cep": "99880970",
-  "logradouro": "AC Machadinho Avenida Frei Teofilo 719",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Machadinho",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99880970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Machadinho"
+    },
+    "ibge": 4311700,
+    "logradouro": "Avenida Frei Teofilo, 719  AC Machadinho;"
 }

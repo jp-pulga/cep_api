@@ -1,12 +1,11 @@
 {
-  "cep": "95748990",
-  "logradouro": "São José do Maratá Rodovia RST-470 s/nº - Bairro São José do Maratá",
-  "bairro": "",
-  "cidade": {
-    "nome": "São José do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "cep": "95748990",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São José do Sul"
+    },
+    "logradouro": "Rodovia RST-470 s\/nº - Bairro São José do Maratá  CPC São José do Maratá;"
 }

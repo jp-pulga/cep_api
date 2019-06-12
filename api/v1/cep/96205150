@@ -1,12 +1,12 @@
 {
-  "cep": "96205150",
-  "logradouro": "Rua Itaqui",
-  "bairro": "Cassino",
-  "cidade": {
-    "nome": "Rio Grande",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cassino;",
+    "cep": "96205150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Rio Grande"
+    },
+    "logradouro": "Rua Itaqui;"
 }

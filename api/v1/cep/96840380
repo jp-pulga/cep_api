@@ -1,12 +1,12 @@
 {
-  "cep": "96840380",
-  "logradouro": "Travessa Iraí",
-  "bairro": "Ana Nery",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Ana Nery;",
+    "cep": "96840380",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Travessa Iraí;"
 }

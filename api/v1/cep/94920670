@@ -1,12 +1,12 @@
 {
-  "cep": "94920670",
-  "logradouro": "Rua Lindolfo Collor",
-  "bairro": "Vila Jardim América",
-  "cidade": {
-    "nome": "Cachoeirinha",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vila Jardim América;",
+    "cep": "94920670",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeirinha"
+    },
+    "logradouro": "Rua Lindolfo Collor;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96830460",
-  "logradouro": "Rua Palmitinho",
-  "bairro": "Arroio Grande",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Arroio Grande;",
+    "cep": "96830460",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Palmitinho;"
 }

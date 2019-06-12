@@ -1,12 +1,12 @@
 {
-  "cep": "97542500",
-  "logradouro": "Rua Paraíso",
-  "bairro": "Macedo",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Macedo;",
+    "cep": "97542500",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Paraíso;"
 }

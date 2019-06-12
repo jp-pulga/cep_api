@@ -1,12 +1,13 @@
 {
-  "cep": "99580970",
-  "logradouro": "AC Nova Boa Vista Rua Jacob Wagner Sobrinho 689",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nova Boa Vista",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "99580970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Nova Boa Vista"
+    },
+    "ibge": 4312955,
+    "logradouro": "Rua Jacob Wagner Sobrinho, 689  AC Nova Boa Vista;"
 }

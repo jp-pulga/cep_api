@@ -1,12 +1,12 @@
 {
-  "cep": "90820320",
-  "logradouro": "Beco Um (R Jaguari)",
-  "bairro": "Cristal",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cristal;",
+    "cep": "90820320",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Beco Um (R Jaguari);"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "97935970",
-  "logradouro": "AGC Mato Queimado Rua Monsenhor Wolski 1300",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mato Queimado",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97935970",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Mato Queimado"
+    },
+    "ibge": 4312179,
+    "logradouro": "Rua Monsenhor Wolski, 1300  AGC Mato Queimado;"
 }

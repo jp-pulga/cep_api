@@ -1,12 +1,12 @@
 {
-  "cep": "93410600",
-  "logradouro": "Rua Itaqui",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "93410600",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Itaqui;"
 }

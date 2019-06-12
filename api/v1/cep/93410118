@@ -1,12 +1,13 @@
 {
-  "cep": "93410118",
-  "logradouro": "Avenida Pedro Adams Filho de 3892 a 4380 - lado par",
-  "bairro": "Pátria Nova",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pátria Nova;",
+    "cep": "93410118",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Pedro Adams Filho - de 3892 a 4380 - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "94820550",
-  "logradouro": "Rua C (Jd Nova Américana)",
-  "bairro": "Formoza",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Formoza;",
+    "cep": "94820550",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua C (Jd Nova Américana);"
 }

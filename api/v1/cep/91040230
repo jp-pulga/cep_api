@@ -1,12 +1,12 @@
 {
-  "cep": "91040230",
-  "logradouro": "Avenida Marquês de Souza",
-  "bairro": "Jardim São Pedro",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Jardim São Pedro;",
+    "cep": "91040230",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Avenida Marquês de Souza;"
 }

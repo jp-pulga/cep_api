@@ -1,12 +1,12 @@
 {
-  "cep": "94480108",
-  "logradouro": "Beco Condomínio Jari",
-  "bairro": "Cecília",
-  "cidade": {
-    "nome": "Viamão",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Cecília;",
+    "cep": "94480108",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Viamão"
+    },
+    "logradouro": "Beco Condomínio Jari;"
 }

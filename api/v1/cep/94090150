@@ -1,12 +1,12 @@
 {
-  "cep": "94090150",
-  "logradouro": "Rua Lajeado",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "94090150",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Lajeado;"
 }

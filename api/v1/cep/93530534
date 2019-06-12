@@ -1,12 +1,13 @@
 {
-  "cep": "93530534",
-  "logradouro": "Rodovia RS-239",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "93530534",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Rodovia RS-239;"
 }

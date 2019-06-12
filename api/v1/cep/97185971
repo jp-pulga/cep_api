@@ -1,12 +1,13 @@
 {
-  "cep": "97185971",
-  "logradouro": "AC Itaara Avenida Guilherme Kurtz 1247",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itaara",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "97185971",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Itaara"
+    },
+    "ibge": 4310538,
+    "logradouro": "Avenida Guilherme Kurtz, 1247  AC Itaara;"
 }

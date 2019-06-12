@@ -1,12 +1,12 @@
 {
-  "cep": "94810410",
-  "logradouro": "Rua Nova Zelândia",
-  "bairro": "Passo do Feijó",
-  "cidade": {
-    "nome": "Alvorada",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Passo do Feijó;",
+    "cep": "94810410",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alvorada"
+    },
+    "logradouro": "Rua Nova Zelândia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "99064050",
-  "logradouro": "Rua Liberato Salzano",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Passo Fundo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "99064050",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Passo Fundo"
+    },
+    "logradouro": "Rua Liberato Salzano;"
 }

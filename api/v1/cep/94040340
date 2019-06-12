@@ -1,12 +1,12 @@
 {
-  "cep": "94040340",
-  "logradouro": "Rua Júlio de Castilhos",
-  "bairro": "COHAB B",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "COHAB B;",
+    "cep": "94040340",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Júlio de Castilhos;"
 }

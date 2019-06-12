@@ -1,12 +1,12 @@
 {
-  "cep": "95010170",
-  "logradouro": "Rua General Osório",
-  "bairro": "São Pelegrino",
-  "cidade": {
-    "nome": "Caxias do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Pelegrino;",
+    "cep": "95010170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Caxias do Sul"
+    },
+    "logradouro": "Rua General Osório;"
 }

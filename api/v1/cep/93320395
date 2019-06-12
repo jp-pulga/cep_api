@@ -1,12 +1,13 @@
 {
-  "cep": "93320395",
-  "logradouro": "Avenida Pedro Adams Filho de 1531 a 2199 - lado ímpar",
-  "bairro": "Rondônia",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Rondônia;",
+    "cep": "93320395",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Pedro Adams Filho - de 1531 a 2199 - lado ímpar;"
 }

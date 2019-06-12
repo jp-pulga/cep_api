@@ -1,12 +1,12 @@
 {
-  "cep": "99709222",
-  "logradouro": "Rua Francisco Rosa Osório",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Erechim",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "99709222",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Erechim"
+    },
+    "logradouro": "Rua Francisco Rosa Osório;"
 }

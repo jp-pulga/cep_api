@@ -1,12 +1,12 @@
 {
-  "cep": "93025620",
-  "logradouro": "Rua Lindolfo Collor de 1279/1280 ao fim",
-  "bairro": "São Miguel",
-  "cidade": {
-    "nome": "São Leopoldo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Miguel;",
+    "cep": "93025620",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "São Leopoldo"
+    },
+    "logradouro": "Rua Lindolfo Collor - de 1279\/1280 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "93320172",
-  "logradouro": "Avenida Primeiro de Março de 1602 a 2274 - lado par",
-  "bairro": "Pátria Nova",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Pátria Nova;",
+    "cep": "93320172",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "ibge": 4313409,
+    "logradouro": "Avenida Primeiro de Março - de 1602 a 2274 - lado par;"
 }
