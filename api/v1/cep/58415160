@@ -1,12 +1,12 @@
 {
-  "cep": "58415160",
-  "logradouro": "Rua Capitão Pedro Francisco Macedo",
-  "bairro": "Jardim Paulistano",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Paulistano;",
+    "cep": "58415160",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Capitão Pedro Francisco Macedo;"
 }

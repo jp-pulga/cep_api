@@ -1,12 +1,13 @@
 {
-  "cep": "58590970",
-  "logradouro": "AC São João do Cariri Rua João Pessoa 147",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Cariri",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58590970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São João do Cariri"
+    },
+    "ibge": 2514008,
+    "logradouro": "Rua João Pessoa 147  AC São João do Cariri;"
 }

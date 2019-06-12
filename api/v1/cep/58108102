@@ -1,12 +1,12 @@
 {
-  "cep": "58108102",
-  "logradouro": "Rua Santa Inês",
-  "bairro": "Renascer",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Renascer;",
+    "cep": "58108102",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Santa Inês;"
 }

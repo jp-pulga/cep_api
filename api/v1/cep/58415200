@@ -1,12 +1,12 @@
 {
-  "cep": "58415200",
-  "logradouro": "Rua Camila Abraão Jorge",
-  "bairro": "Jardim Paulistano",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Paulistano;",
+    "cep": "58415200",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Camila Abraão Jorge;"
 }

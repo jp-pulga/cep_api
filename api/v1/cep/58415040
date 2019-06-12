@@ -1,12 +1,12 @@
 {
-  "cep": "58415040",
-  "logradouro": "Rua Mestre Humberto",
-  "bairro": "Jardim Paulistano",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Paulistano;",
+    "cep": "58415040",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Mestre Humberto;"
 }

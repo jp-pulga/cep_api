@@ -1,12 +1,13 @@
 {
-  "cep": "58213970",
-  "logradouro": "AC Pirpirituba Rua Prefeito Ferreira de Melo 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pirpirituba",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58213970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pirpirituba"
+    },
+    "ibge": 2511806,
+    "logradouro": "Rua Prefeito Ferreira de Melo, 10  AC Pirpirituba;"
 }

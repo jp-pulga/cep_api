@@ -1,12 +1,12 @@
 {
-  "cep": "58406580",
-  "logradouro": "Rua José Palmeira Filho",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "58406580",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua José Palmeira Filho;"
 }

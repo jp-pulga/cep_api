@@ -1,12 +1,12 @@
 {
-  "cep": "58083520",
-  "logradouro": "Avenida Cidade de São José do Sabugi",
-  "bairro": "Indústrias",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Indústrias;",
+    "cep": "58083520",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida Cidade de São José do Sabugi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58406105",
-  "logradouro": "1ª Travessa Princesa Isabel",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "58406105",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "1ª Travessa Princesa Isabel;"
 }

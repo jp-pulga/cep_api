@@ -1,12 +1,12 @@
 {
-  "cep": "58800778",
-  "logradouro": "Rua Princesa Isabel",
-  "bairro": "Estreito",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Estreito;",
+    "cep": "58800778",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Princesa Isabel;"
 }

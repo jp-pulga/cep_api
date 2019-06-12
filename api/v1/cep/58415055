@@ -1,12 +1,12 @@
 {
-  "cep": "58415055",
-  "logradouro": "Rua Manoel Enéas Figueiredo Filho",
-  "bairro": "Jardim Paulistano",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Paulistano;",
+    "cep": "58415055",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Manoel Enéas Figueiredo Filho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58428514",
-  "logradouro": "2ª Travessa São Francisco",
-  "bairro": "Pedregal",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Pedregal;",
+    "cep": "58428514",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "2ª Travessa São Francisco;"
 }

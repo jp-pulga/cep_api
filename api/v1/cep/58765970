@@ -1,12 +1,13 @@
 {
-  "cep": "58765970",
-  "logradouro": "AC Piancó Praça João Galdino 76",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piancó",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58765970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Piancó"
+    },
+    "ibge": 2511301,
+    "logradouro": "Praça João Galdino, 76  AC Piancó;"
 }

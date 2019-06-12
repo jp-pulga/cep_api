@@ -1,12 +1,12 @@
 {
-  "cep": "58415183",
-  "logradouro": "Rua José de Sousa Irmão",
-  "bairro": "Jardim Paulistano",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim Paulistano;",
+    "cep": "58415183",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua José de Sousa Irmão;"
 }

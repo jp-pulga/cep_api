@@ -1,12 +1,12 @@
 {
-  "cep": "58030082",
-  "logradouro": "Avenida Mato Grosso de 1041/1042 ao fim",
-  "bairro": "Estados",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Estados;",
+    "cep": "58030082",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Avenida Mato Grosso - de 1041\/1042 ao fim;"
 }

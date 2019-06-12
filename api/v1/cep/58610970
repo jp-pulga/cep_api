@@ -1,12 +1,13 @@
 {
-  "cep": "58610970",
-  "logradouro": "AC São José do Sabugi Rua Joventino Josias de Araujo 284",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Sabugi",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58610970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José do Sabugi"
+    },
+    "ibge": 2514701,
+    "logradouro": "Rua Joventino Josias de Araujo, 284  AC São José do Sabugi;"
 }

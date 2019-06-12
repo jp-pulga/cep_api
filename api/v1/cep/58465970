@@ -1,12 +1,13 @@
 {
-  "cep": "58465970",
-  "logradouro": "AGC Riacho de Santo Antonio Rua Joaquim Santana s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riacho de Santo Antônio",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58465970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Riacho de Santo Antônio"
+    },
+    "ibge": 2512788,
+    "logradouro": "Rua Joaquim Santana, s\/n  AGC Riacho de Santo Antonio;"
 }

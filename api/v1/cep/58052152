@@ -1,12 +1,12 @@
 {
-  "cep": "58052152",
-  "logradouro": "Rua João Francisco de Souza",
-  "bairro": "Jardim São Paulo",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Jardim São Paulo;",
+    "cep": "58052152",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua João Francisco de Souza;"
 }

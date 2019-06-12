@@ -1,12 +1,12 @@
 {
-  "cep": "58043160",
-  "logradouro": "Rua Santa Inês",
-  "bairro": "Miramar",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Miramar;",
+    "cep": "58043160",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Santa Inês;"
 }

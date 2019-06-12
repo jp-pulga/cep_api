@@ -1,12 +1,13 @@
 {
-  "cep": "58978970",
-  "logradouro": "AGC Santa Inês Avenida Vinte Nove de Abril s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Inês",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58978970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Inês"
+    },
+    "ibge": 2513356,
+    "logradouro": "Avenida Vinte Nove de Abril, s\/n  AGC Santa Inês;"
 }

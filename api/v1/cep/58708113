@@ -1,12 +1,12 @@
 {
-  "cep": "58708113",
-  "logradouro": "Rua João Salvino de Medeiros",
-  "bairro": "Santa Cecília",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cecília;",
+    "cep": "58708113",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "logradouro": "Rua João Salvino de Medeiros;"
 }

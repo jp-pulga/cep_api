@@ -1,12 +1,13 @@
 {
-  "cep": "58725970",
-  "logradouro": "AC São José do Bonfim Rua José Ferreira 110",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Bonfim",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58725970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José do Bonfim"
+    },
+    "ibge": 2514602,
+    "logradouro": "Rua José Ferreira, 110  AC São José do Bonfim;"
 }

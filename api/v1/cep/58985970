@@ -1,12 +1,13 @@
 {
-  "cep": "58985970",
-  "logradouro": "AC Santana de Mangueira Rua Silvino Mangueira 130",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana de Mangueira",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58985970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santana de Mangueira"
+    },
+    "ibge": 2513505,
+    "logradouro": "Rua Silvino Mangueira, 130  AC Santana de Mangueira;"
 }

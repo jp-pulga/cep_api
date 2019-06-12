@@ -1,12 +1,13 @@
 {
-  "cep": "58758970",
-  "logradouro": "AC São José de Princesa Rua do Comércio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José de Princesa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58758970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José de Princesa"
+    },
+    "ibge": 2514552,
+    "logradouro": "Rua do Comércio, s\/n  AC São José de Princesa;"
 }

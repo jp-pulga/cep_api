@@ -1,12 +1,13 @@
 {
-  "cep": "58940972",
-  "logradouro": "AGC Piranhas Velha Rua do Mercado s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José de Piranhas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58940972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José de Piranhas"
+    },
+    "ibge": 2514503,
+    "logradouro": "Rua do Mercado, s\/n  AGC Piranhas Velha;"
 }

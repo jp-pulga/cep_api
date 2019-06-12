@@ -1,12 +1,12 @@
 {
-  "cep": "58421680",
-  "logradouro": "Rua Paulista",
-  "bairro": "Cidades",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Cidades;",
+    "cep": "58421680",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Paulista;"
 }

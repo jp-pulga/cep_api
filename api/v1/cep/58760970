@@ -1,12 +1,12 @@
 {
-  "cep": "58760970",
-  "logradouro": "AC Olho D'Água Rua Joaquim Avelino Pereira 38",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Olho D'Água",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58760970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Olho D'Água"
+    },
+    "logradouro": "Rua Joaquim Avelino Pereira, 38  AC Olho D'Água;"
 }

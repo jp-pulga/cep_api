@@ -1,12 +1,13 @@
 {
-  "cep": "58723970",
-  "logradouro": "AC São José de Espinharas Rua Comandante José Raimundo 106",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José de Espinharas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58723970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José de Espinharas"
+    },
+    "ibge": 2514404,
+    "logradouro": "Rua Comandante José Raimundo, 106  AC São José de Espinharas;"
 }

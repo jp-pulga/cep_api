@@ -1,12 +1,12 @@
 {
-  "cep": "58804208",
-  "logradouro": "Travessa Francisco Antônio de Figueiredo",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "58804208",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Travessa Francisco Antônio de Figueiredo;"
 }

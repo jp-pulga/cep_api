@@ -1,12 +1,12 @@
 {
-  "cep": "58406075",
-  "logradouro": "Rua Princesa Isabel",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "58406075",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Princesa Isabel;"
 }

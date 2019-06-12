@@ -1,12 +1,13 @@
 {
-  "cep": "58832970",
-  "logradouro": "AGC Mato Grosso Rua Antonio Pereira Nunes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mato Grosso",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58832970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Mato Grosso"
+    },
+    "ibge": 2509370,
+    "logradouro": "Rua João Serafim de Lima, 96  AGC Mato Grosso;"
 }

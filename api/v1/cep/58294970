@@ -1,12 +1,13 @@
 {
-  "cep": "58294970",
-  "logradouro": "AC Marcação Avenida João Ferreira dos Santos 883",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Marcação",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58294970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Marcação"
+    },
+    "ibge": 2509057,
+    "logradouro": "Avenida João Ferreira dos Santos, 883  AC Marcação;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58675970",
-  "logradouro": "AC Santo André Avenida Aprigio Ribeiro de Brito 104",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58675970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santo André"
+    },
+    "ibge": 2513851,
+    "logradouro": "Avenida Aprigio Ribeiro de Brito, 104  AC Santo André;"
 }

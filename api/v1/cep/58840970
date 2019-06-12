@@ -1,12 +1,13 @@
 {
-  "cep": "58840970",
-  "logradouro": "AC Pombal Rua João Pessoa 111",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pombal",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58840970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pombal"
+    },
+    "ibge": 2512101,
+    "logradouro": "Rua João Pessoa, 111  AC Pombal;"
 }

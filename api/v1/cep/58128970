@@ -1,12 +1,13 @@
 {
-  "cep": "58128970",
-  "logradouro": "AGC Matinhas Rua Governador Antonio Mariz 96",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Matinhas",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58128970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Matinhas"
+    },
+    "ibge": 2509339,
+    "logradouro": "Rua Governador Antonio Mariz, 96  AGC Matinhas;"
 }

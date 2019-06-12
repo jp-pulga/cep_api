@@ -1,12 +1,13 @@
 {
-  "cep": "58755970",
-  "logradouro": "AC Princesa Isabel Rua São Roque 165",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Princesa Isabel",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58755970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Princesa Isabel"
+    },
+    "ibge": 2512309,
+    "logradouro": "Rua São Roque, 165  AC Princesa Isabel;"
 }

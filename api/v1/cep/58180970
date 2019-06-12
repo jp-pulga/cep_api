@@ -1,12 +1,13 @@
 {
-  "cep": "58180970",
-  "logradouro": "AC Pedra Lavrada Praça Eugênio Vasconcelos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedra Lavrada",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58180970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pedra Lavrada"
+    },
+    "ibge": 2511103,
+    "logradouro": "Praça Eugênio Vasconcelos, s\/n  AC Pedra Lavrada;"
 }

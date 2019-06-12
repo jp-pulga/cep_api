@@ -1,12 +1,13 @@
 {
-  "cep": "58160970",
-  "logradouro": "AC Olivedos Rua Oscar Costa 145",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Olivedos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58160970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Olivedos"
+    },
+    "ibge": 2510501,
+    "logradouro": "Rua Oscar Costa, 145  AC Olivedos;"
 }

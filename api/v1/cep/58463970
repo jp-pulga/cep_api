@@ -1,12 +1,13 @@
 {
-  "cep": "58463970",
-  "logradouro": "AGC Santa Cecília Avenida Santa da Cecília s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cecília",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58463970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Cecília"
+    },
+    "ibge": 2513158,
+    "logradouro": "Avenida Santa da Cecília, s\/n  AGC Santa Cecília;"
 }

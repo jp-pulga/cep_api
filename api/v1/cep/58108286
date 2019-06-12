@@ -1,12 +1,12 @@
 {
-  "cep": "58108286",
-  "logradouro": "Rua São Francisco de Assis",
-  "bairro": "Renascer",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Renascer;",
+    "cep": "58108286",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua São Francisco de Assis;"
 }

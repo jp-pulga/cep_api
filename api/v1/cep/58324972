@@ -1,12 +1,13 @@
 {
-  "cep": "58324972",
-  "logradouro": "AGC Nova Vida Distrito Nova Vida s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pitimbu",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58324972",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pitimbu"
+    },
+    "ibge": 2511905,
+    "logradouro": "Distrito Nova Vida, s\/n  AGC Nova Vida;"
 }

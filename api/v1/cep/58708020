@@ -1,12 +1,12 @@
 {
-  "cep": "58708020",
-  "logradouro": "Rua Santa Mônica",
-  "bairro": "Santa Cecília",
-  "cidade": {
-    "nome": "Patos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Santa Cecília;",
+    "cep": "58708020",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Patos"
+    },
+    "logradouro": "Rua Santa Mônica;"
 }

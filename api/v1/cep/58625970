@@ -1,12 +1,13 @@
 {
-  "cep": "58625970",
-  "logradouro": "AC São Mamede Rua Janúncio Nóbrega 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Mamede",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58625970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Mamede"
+    },
+    "ibge": 2514909,
+    "logradouro": "Rua Janúncio Nóbrega, 40  AC São Mamede;"
 }

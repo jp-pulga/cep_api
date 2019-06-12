@@ -1,12 +1,13 @@
 {
-  "cep": "58339971",
-  "logradouro": "AGC São José dos Ramos Praça Noé Rodrigues de Lima s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José dos Ramos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58339971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José dos Ramos"
+    },
+    "ibge": 2514453,
+    "logradouro": "Praça Noé Rodrigues de Lima, s\/n  AGC São José dos Ramos;"
 }

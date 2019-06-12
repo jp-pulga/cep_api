@@ -1,12 +1,12 @@
 {
-  "cep": "58407095",
-  "logradouro": "Rua Mato Grosso",
-  "bairro": "Monte Castelo",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Monte Castelo;",
+    "cep": "58407095",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Mato Grosso;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58150970",
-  "logradouro": "AC Pocinhos Rua Antônio Vaz Ribeiro 150",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pocinhos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58150970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pocinhos"
+    },
+    "ibge": 2512002,
+    "logradouro": "Rua Antônio Vaz Ribeiro, 150  AC Pocinhos;"
 }

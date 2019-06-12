@@ -1,12 +1,12 @@
 {
-  "cep": "58800320",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58800320",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua São Francisco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58428570",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Pedregal",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Pedregal;",
+    "cep": "58428570",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua São Domingos;"
 }

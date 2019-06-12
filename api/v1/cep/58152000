@@ -1,12 +1,12 @@
 {
-  "cep": "58152000",
-  "logradouro": "Nazaré (Pocinhos)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Nazaré (Pocinhos)",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Nazaré",
+    "cep": "58152000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pocinhos"
+    },
+    "ibge": 2512002
 }

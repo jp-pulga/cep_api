@@ -1,12 +1,13 @@
 {
-  "cep": "58324973",
-  "logradouro": "AGC Acaú Rua das Princesas s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pitimbu",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58324973",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pitimbu"
+    },
+    "ibge": 2511905,
+    "logradouro": "Rua das Princesas, s\/n  AGC Acaú;"
 }

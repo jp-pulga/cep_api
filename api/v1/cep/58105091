@@ -1,12 +1,12 @@
 {
-  "cep": "58105091",
-  "logradouro": "Rua Princesa Isabel",
-  "bairro": "Recanto do Poço",
-  "cidade": {
-    "nome": "Cabedelo",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Recanto do Poço;",
+    "cep": "58105091",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Cabedelo"
+    },
+    "logradouro": "Rua Princesa Isabel;"
 }

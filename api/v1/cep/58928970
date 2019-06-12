@@ -1,12 +1,13 @@
 {
-  "cep": "58928970",
-  "logradouro": "AC Joca Claudino Praça da Matriz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Joca Claudino",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58928970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Joca Claudino"
+    },
+    "ibge": 2513653,
+    "logradouro": "Praça da Matriz, s\/n  AC Joca Claudino;"
 }

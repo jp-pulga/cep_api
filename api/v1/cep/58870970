@@ -1,12 +1,13 @@
 {
-  "cep": "58870970",
-  "logradouro": "AC Riacho dos Cavalos Rua Doutor Francisco Carneiro Vaz 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riacho dos Cavalos",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58870970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Riacho dos Cavalos"
+    },
+    "ibge": 2512804,
+    "logradouro": "Rua Doutor Francisco Carneiro Vaz, 86  AC Riacho dos Cavalos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58485970",
-  "logradouro": "AC São Domingos do Cariri Avenida 5 de Maio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Domingos do Cariri",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58485970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Domingos do Cariri"
+    },
+    "logradouro": "Avenida 5 de Maio, s\/n  AC São Domingos do Cariri;"
 }

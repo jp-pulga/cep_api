@@ -1,12 +1,12 @@
 {
-  "cep": "58050719",
-  "logradouro": "Rua Santa Inês de Assis (Com Sta Clara)",
-  "bairro": "Castelo Branco",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Castelo Branco;",
+    "cep": "58050719",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Santa Inês de Assis (Com Sta Clara);"
 }

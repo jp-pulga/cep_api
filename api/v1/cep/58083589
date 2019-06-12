@@ -1,12 +1,12 @@
 {
-  "cep": "58083589",
-  "logradouro": "Rua Cidade de São Mamede",
-  "bairro": "Indústrias",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Indústrias;",
+    "cep": "58083589",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Cidade de São Mamede;"
 }

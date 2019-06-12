@@ -1,12 +1,12 @@
 {
-  "cep": "58043362",
-  "logradouro": "Rua São Francisco de Assis",
-  "bairro": "Miramar",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Miramar;",
+    "cep": "58043362",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua São Francisco de Assis;"
 }

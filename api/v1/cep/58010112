@@ -1,12 +1,12 @@
 {
-  "cep": "58010112",
-  "logradouro": "Travessa Mulungu",
-  "bairro": "Varadouro",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Varadouro;",
+    "cep": "58010112",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Travessa Mulungu;"
 }

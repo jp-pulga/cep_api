@@ -1,12 +1,13 @@
 {
-  "cep": "58292970",
-  "logradouro": "AC Mataraca Rua João S da Costa 965",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Mataraca",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58292970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Mataraca"
+    },
+    "ibge": 2509305,
+    "logradouro": "Rua João S da Costa, 965  AC Mataraca;"
 }

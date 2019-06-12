@@ -1,12 +1,13 @@
 {
-  "cep": "58818970",
-  "logradouro": "AC Sao Francisco Rua Josué Alves Casimiro s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Francisco",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58818970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Francisco"
+    },
+    "ibge": 2513984,
+    "logradouro": "Rua Josué Alves Casimiro, s\/n  AC Sao Francisco;"
 }

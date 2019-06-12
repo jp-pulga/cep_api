@@ -1,12 +1,12 @@
 {
-  "cep": "58428510",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Pedregal",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Pedregal;",
+    "cep": "58428510",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua São Francisco;"
 }

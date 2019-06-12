@@ -1,12 +1,12 @@
 {
-  "cep": "58301410",
-  "logradouro": "Rua Mato Grosso",
-  "bairro": "Popular",
-  "cidade": {
-    "nome": "Santa Rita",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Popular;",
+    "cep": "58301410",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Santa Rita"
+    },
+    "logradouro": "Rua Mato Grosso;"
 }

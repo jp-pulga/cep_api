@@ -1,12 +1,13 @@
 {
-  "cep": "58273970",
-  "logradouro": "AC Pedro Régis Rua Severino Germano 62",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pedro Régis",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58273970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pedro Régis"
+    },
+    "ibge": 2512721,
+    "logradouro": "Rua Severino Germano, 62  AC Pedro Régis;"
 }

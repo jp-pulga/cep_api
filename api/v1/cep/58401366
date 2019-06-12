@@ -1,12 +1,12 @@
 {
-  "cep": "58401366",
-  "logradouro": "Rua Pombal",
-  "bairro": "Lauritzen",
-  "cidade": {
-    "nome": "Campina Grande",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Lauritzen;",
+    "cep": "58401366",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Campina Grande"
+    },
+    "logradouro": "Rua Pombal;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "58908970",
-  "logradouro": "AC Poço de José de Moura Rua Raimundo Alves da Costa 82",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poço de José de Moura",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58908970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Poço de José de Moura"
+    },
+    "ibge": 2512077,
+    "logradouro": "Rua Raimundo Alves da Costa, 82  AC Poço de José de Moura;"
 }

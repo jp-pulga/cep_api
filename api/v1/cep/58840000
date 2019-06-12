@@ -1,12 +1,11 @@
 {
-  "cep": "58840000",
-  "logradouro": "Pombal",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pombal",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "cep": "58840000",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Pombal"
+    },
+    "ibge": 2512101
 }

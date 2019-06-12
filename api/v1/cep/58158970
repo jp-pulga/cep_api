@@ -1,12 +1,13 @@
 {
-  "cep": "58158970",
-  "logradouro": "AC São Vicente do Seridó Rua Prefeito Inácio Claudino 1181",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Vicente do Seridó",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58158970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Vicente do Seridó"
+    },
+    "ibge": 2515401,
+    "logradouro": "Rua Prefeito Inácio Claudino, 1181  AC São Vicente do Seridó;"
 }

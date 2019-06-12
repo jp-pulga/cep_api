@@ -1,12 +1,13 @@
 {
-  "cep": "58575970",
-  "logradouro": "AC Parari Rua Tertuliano Aires de Queiroz 251",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parari",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58575970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Parari"
+    },
+    "ibge": 2510659,
+    "logradouro": "Rua Tertuliano Aires de Queiroz, 251  AC Parari;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58817971",
-  "logradouro": "AGC Olho D'Água do Frade Distrito Olho D'Água do Frade s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Nazarezinho",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58817971",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Nazarezinho"
+    },
+    "logradouro": "Distrito Olho D'Água do Frade, s\/n  AGC Olho D'Água do Frade;"
 }

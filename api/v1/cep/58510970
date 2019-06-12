@@ -1,12 +1,13 @@
 {
-  "cep": "58510970",
-  "logradouro": "AC São Sebastião de Umbuzeiro Praça Coronel Nilo Feitosa 580",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sebastião do Umbuzeiro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58510970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São Sebastião do Umbuzeiro"
+    },
+    "ibge": 2515203,
+    "logradouro": "Praça Coronel Nilo Feitosa, 580  AC São Sebastião de Umbuzeiro;"
 }

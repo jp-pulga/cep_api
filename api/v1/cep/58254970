@@ -1,12 +1,13 @@
 {
-  "cep": "58254970",
-  "logradouro": "AGC Logradouro Rua do Comércio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Logradouro",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58254970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Logradouro"
+    },
+    "ibge": 2508554,
+    "logradouro": "Rua do Comércio, s\/n  AGC Logradouro;"
 }

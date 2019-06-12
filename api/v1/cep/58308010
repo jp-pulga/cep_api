@@ -1,12 +1,12 @@
 {
-  "cep": "58308010",
-  "logradouro": "Travessa São Francisco",
-  "bairro": "Rio do Meio",
-  "cidade": {
-    "nome": "Bayeux",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Rio do Meio;",
+    "cep": "58308010",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Bayeux"
+    },
+    "logradouro": "Travessa São Francisco;"
 }

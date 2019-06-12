@@ -1,12 +1,13 @@
 {
-  "cep": "58120970",
-  "logradouro": "AC Massaranduba Rua Rogaciano Nunes 45",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Massaranduba",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58120970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Massaranduba"
+    },
+    "ibge": 2509206,
+    "logradouro": "Rua Rogaciano Nunes, 45  AC Massaranduba;"
 }

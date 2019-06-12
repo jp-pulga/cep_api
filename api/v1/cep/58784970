@@ -1,12 +1,13 @@
 {
-  "cep": "58784970",
-  "logradouro": "AC São José de Caiana Rua do Comércio 127",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José de Caiana",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "58784970",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "São José de Caiana"
+    },
+    "ibge": 2514305,
+    "logradouro": "Rua do Comércio, 127  AC São José de Caiana;"
 }
