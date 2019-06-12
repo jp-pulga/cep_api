@@ -1,12 +1,12 @@
 {
-  "cep": "33025270",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Quarenta e Dois",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Quarenta e Dois;",
+    "cep": "33025270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

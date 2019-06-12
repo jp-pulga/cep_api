@@ -1,12 +1,13 @@
 {
-  "cep": "45355970",
-  "logradouro": "AC Apuarema Praça Joel Lima 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Apuarema",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45355970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Apuarema"
+    },
+    "ibge": 2901957,
+    "logradouro": "Praça Joel Lima, 15  AC Apuarema;"
 }

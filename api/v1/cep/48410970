@@ -1,12 +1,13 @@
 {
-  "cep": "48410970",
-  "logradouro": "AC Cícero Dantas Rua Juvelino Pereira dos Santos 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cícero Dantas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48410970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cícero Dantas"
+    },
+    "ibge": 2907806,
+    "logradouro": "Rua Juvelino Pereira dos Santos, 43  AC Cícero Dantas;"
 }

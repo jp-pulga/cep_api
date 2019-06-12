@@ -1,12 +1,12 @@
 {
-  "cep": "06700498",
-  "logradouro": "Rua Barreiras",
-  "bairro": "Jardim Araruama",
-  "cidade": {
-    "nome": "Cotia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Araruama;",
+    "cep": "06700498",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cotia"
+    },
+    "logradouro": "Rua Barreiras;"
 }

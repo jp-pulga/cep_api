@@ -1,12 +1,13 @@
 {
-  "cep": "44880971",
-  "logradouro": "AGC Canal Praça Cassiano Marins s/n",
-  "bairro": "Canal",
-  "cidade": {
-    "nome": "Cafarnaum",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Canal;",
+    "cep": "44880971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cafarnaum"
+    },
+    "ibge": 2905305,
+    "logradouro": "Praça Cassiano Marins, s\/n  AGC Canal;"
 }

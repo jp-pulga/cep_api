@@ -1,12 +1,13 @@
 {
-  "cep": "45420970",
-  "logradouro": "AC Cairu Rua Dois de Março 6",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cairu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45420970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cairu"
+    },
+    "ibge": 2905404,
+    "logradouro": "Rua Dois de Março, 6  AC Cairu;"
 }

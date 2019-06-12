@@ -1,12 +1,13 @@
 {
-  "cep": "38780970",
-  "logradouro": "AC Vazante Rua João Cláudio 400",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vazante",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38780970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vazante"
+    },
+    "ibge": 3171006,
+    "logradouro": "Rua João Cláudio, 400  AC Vazante;"
 }

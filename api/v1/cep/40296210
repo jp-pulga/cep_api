@@ -1,12 +1,12 @@
 {
-  "cep": "40296210",
-  "logradouro": "Rua Leonor Calmon",
-  "bairro": "Candeal",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeal;",
+    "cep": "40296210",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Leonor Calmon;"
 }

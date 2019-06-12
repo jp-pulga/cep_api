@@ -1,12 +1,12 @@
 {
-  "cep": "13052474",
-  "logradouro": "Rua Barra do Turvo",
-  "bairro": "Parque São Paulo",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Paulo;",
+    "cep": "13052474",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Barra do Turvo;"
 }

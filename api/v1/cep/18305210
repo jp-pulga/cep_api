@@ -1,12 +1,12 @@
 {
-  "cep": "18305210",
-  "logradouro": "Rua Zulmira Batista Silveira",
-  "bairro": "Jardim Colonial",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Colonial;",
+    "cep": "18305210",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Zulmira Batista Silveira;"
 }

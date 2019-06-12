@@ -1,12 +1,13 @@
 {
-  "cep": "47730970",
-  "logradouro": "AC Canápolis Rua JK 999",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47730970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Canápolis"
+    },
+    "ibge": 2906105,
+    "logradouro": "Rua JK, 999  AC Canápolis;"
 }

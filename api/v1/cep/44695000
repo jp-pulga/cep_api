@@ -1,12 +1,11 @@
 {
-  "cep": "44695000",
-  "logradouro": "Capim Grosso",
-  "bairro": "",
-  "cidade": {
-    "nome": "Capim Grosso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44695000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Capim Grosso"
+    },
+    "ibge": 2906873
 }

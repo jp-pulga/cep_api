@@ -1,12 +1,12 @@
 {
-  "cep": "32310100",
-  "logradouro": "Rua Wenceslau Braz",
-  "bairro": "JK",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "JK;",
+    "cep": "32310100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Wenceslau Braz;"
 }

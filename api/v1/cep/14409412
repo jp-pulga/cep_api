@@ -1,12 +1,12 @@
 {
-  "cep": "14409412",
-  "logradouro": "Rua João Batista Debret",
-  "bairro": "Recreio Campo Belo",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recreio Campo Belo;",
+    "cep": "14409412",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Rua João Batista Debret;"
 }

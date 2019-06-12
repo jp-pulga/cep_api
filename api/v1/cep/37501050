@@ -1,12 +1,12 @@
 {
-  "cep": "37501050",
-  "logradouro": "Rua Doutor Manoel Cintra Barbosa Lima",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha;",
+    "cep": "37501050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Doutor Manoel Cintra Barbosa Lima;"
 }

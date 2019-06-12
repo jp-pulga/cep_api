@@ -1,12 +1,12 @@
 {
-  "cep": "07756605",
-  "logradouro": "Rua Barra Bonita",
-  "bairro": "Guaturinho",
-  "cidade": {
-    "nome": "Cajamar",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Guaturinho;",
+    "cep": "07756605",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Cajamar"
+    },
+    "logradouro": "Rua Barra Bonita;"
 }

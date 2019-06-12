@@ -1,12 +1,12 @@
 {
-  "cep": "36301324",
-  "logradouro": "Rua Tocantins",
-  "bairro": "Vila João Lombard (Fábricas)",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila João Lombard (Fábricas);",
+    "cep": "36301324",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Tocantins;"
 }

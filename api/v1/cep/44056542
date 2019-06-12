@@ -1,12 +1,12 @@
 {
-  "cep": "44056542",
-  "logradouro": "Rua Barra da Estiva",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "44056542",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Barra da Estiva;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45910971",
-  "logradouro": "AC Alcobaça Rua Senador Melgaço 69",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alcobaça",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45910971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alcobaça"
+    },
+    "ibge": 2900801,
+    "logradouro": "Rua Senador Melgaço, 69  AC Alcobaça;"
 }

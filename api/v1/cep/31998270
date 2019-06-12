@@ -1,12 +1,12 @@
 {
-  "cep": "31998270",
-  "logradouro": "Rua Érico Veríssimo",
-  "bairro": "Beija Flor",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Beija Flor;",
+    "cep": "31998270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Érico Veríssimo;"
 }

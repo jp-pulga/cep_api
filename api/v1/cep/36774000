@@ -1,12 +1,12 @@
 {
-  "cep": "36774000",
-  "logradouro": "Rua Visconde do Rio Branco",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36774000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua Visconde do Rio Branco;"
 }

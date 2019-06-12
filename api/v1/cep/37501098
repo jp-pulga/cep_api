@@ -1,12 +1,12 @@
 {
-  "cep": "37501098",
-  "logradouro": "Praça Professor Júlio dos Santos",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha;",
+    "cep": "37501098",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Praça Professor Júlio dos Santos;"
 }

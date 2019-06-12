@@ -1,12 +1,12 @@
 {
-  "cep": "33015612",
-  "logradouro": "Rua Raimundo Veríssimo de Matos",
-  "bairro": "Barreiro do Amaral",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barreiro do Amaral;",
+    "cep": "33015612",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Raimundo Veríssimo de Matos;"
 }

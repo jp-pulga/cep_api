@@ -1,12 +1,12 @@
 {
-  "cep": "48604540",
-  "logradouro": "Rua Caraíbas",
-  "bairro": "Oliveira Brito",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Oliveira Brito;",
+    "cep": "48604540",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Caraíbas;"
 }

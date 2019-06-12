@@ -1,12 +1,12 @@
 {
-  "cep": "35661479",
-  "logradouro": "Rua Primavera",
-  "bairro": "União",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "União;",
+    "cep": "35661479",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Primavera;"
 }

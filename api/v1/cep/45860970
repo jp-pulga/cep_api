@@ -1,12 +1,13 @@
 {
-  "cep": "45860970",
-  "logradouro": "AC Canavieiras Praça Quinze de Novembro 2074",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canavieiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45860970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Canavieiras"
+    },
+    "ibge": 2906303,
+    "logradouro": "Praça Quinze de Novembro, 2074  AC Canavieiras;"
 }

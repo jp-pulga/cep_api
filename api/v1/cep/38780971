@@ -1,12 +1,13 @@
 {
-  "cep": "38780971",
-  "logradouro": "AGF Centro de Vazante Avenida Paracatu 666 Loja 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vazante",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38780971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vazante"
+    },
+    "ibge": 3171006,
+    "logradouro": "Avenida Paracatu, 666 Loja 01  AGF Centro de Vazante;"
 }

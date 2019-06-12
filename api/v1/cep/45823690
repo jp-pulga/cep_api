@@ -1,12 +1,12 @@
 {
-  "cep": "45823690",
-  "logradouro": "Rua Belmonte",
-  "bairro": "Sapucaeira",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sapucaeira;",
+    "cep": "45823690",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Belmonte;"
 }

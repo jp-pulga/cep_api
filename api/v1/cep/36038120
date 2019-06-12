@@ -1,12 +1,12 @@
 {
-  "cep": "36038120",
-  "logradouro": "Rua Geraldo Timóteo de Oliveira",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "36038120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Geraldo Timóteo de Oliveira;"
 }

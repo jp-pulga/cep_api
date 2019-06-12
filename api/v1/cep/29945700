@@ -1,12 +1,12 @@
 {
-  "cep": "29945700",
-  "logradouro": "Estrada São Mateus-Estiva de Barra Nova do km 20100 ao km 22000",
-  "bairro": "Ranchinho",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ranchinho;",
+    "cep": "29945700",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Estrada São Mateus-Estiva de Barra Nova - do km 20,100 ao km 22,000;"
 }

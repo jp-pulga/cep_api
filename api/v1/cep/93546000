@@ -1,12 +1,12 @@
 {
-  "cep": "93546000",
-  "logradouro": "Rua Bartolomeu de Gusmão de 1201/1202 ao fim",
-  "bairro": "Canudos",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Canudos;",
+    "cep": "93546000",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Bartolomeu de Gusmão - de 1201\/1202 ao fim;"
 }

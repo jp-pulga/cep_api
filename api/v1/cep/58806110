@@ -1,12 +1,12 @@
 {
-  "cep": "58806110",
-  "logradouro": "Avenida Manoel Francisco de Barros",
-  "bairro": "Alto do Cruzeiro",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Cruzeiro;",
+    "cep": "58806110",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Avenida Manoel Francisco de Barros;"
 }

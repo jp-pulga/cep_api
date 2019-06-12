@@ -1,12 +1,12 @@
 {
-  "cep": "30160915",
-  "logradouro": "Edifício Tiradentes Rua Rio de Janeiro 985",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "30160915",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Rio de Janeiro, 985  Edifício Tiradentes;"
 }

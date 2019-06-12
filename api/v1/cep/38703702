@@ -1,12 +1,12 @@
 {
-  "cep": "38703702",
-  "logradouro": "Rua Urucuia",
-  "bairro": "Jardim Esperança",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Esperança;",
+    "cep": "38703702",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Urucuia;"
 }

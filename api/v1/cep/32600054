@@ -1,12 +1,12 @@
 {
-  "cep": "32600054",
-  "logradouro": "Praça Tiradentes",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "32600054",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Praça Tiradentes;"
 }

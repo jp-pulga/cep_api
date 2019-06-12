@@ -1,12 +1,12 @@
 {
-  "cep": "45830810",
-  "logradouro": "Rua Aracina Pereira",
-  "bairro": "Encanto das Águas",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Encanto das Águas;",
+    "cep": "45830810",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Aracina Pereira;"
 }

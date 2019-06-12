@@ -1,12 +1,12 @@
 {
-  "cep": "37504600",
-  "logradouro": "Rua Virgínia Antônia Santos",
-  "bairro": "Piedade",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Piedade;",
+    "cep": "37504600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Virgínia Antônia Santos;"
 }

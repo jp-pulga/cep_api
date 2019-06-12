@@ -1,12 +1,12 @@
 {
-  "cep": "58090215",
-  "logradouro": "Rua Missionária Miriam Alves de Barros",
-  "bairro": "Alto do Mateus",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Mateus;",
+    "cep": "58090215",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Missionária Miriam Alves de Barros;"
 }

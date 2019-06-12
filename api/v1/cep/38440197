@@ -1,12 +1,12 @@
 {
-  "cep": "38440197",
-  "logradouro": "Rua José Tiradentes de Lima",
-  "bairro": "Santa Helena",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Helena;",
+    "cep": "38440197",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua José Tiradentes de Lima;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30441212",
-  "logradouro": "Rua Vieiras",
-  "bairro": "Gutierrez",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Gutierrez;",
+    "cep": "30441212",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Vieiras;"
 }

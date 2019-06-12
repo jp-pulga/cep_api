@@ -1,12 +1,12 @@
 {
-  "cep": "44075255",
-  "logradouro": "Rua Baspe",
-  "bairro": "Ponto Central",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ponto Central;",
+    "cep": "44075255",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Baspe;"
 }

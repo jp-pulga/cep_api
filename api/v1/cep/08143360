@@ -1,12 +1,12 @@
 {
-  "cep": "08143360",
-  "logradouro": "Rua Barra da Estiva",
-  "bairro": "Jardim Indaiá",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Indaiá;",
+    "cep": "08143360",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barra da Estiva;"
 }

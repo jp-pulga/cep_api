@@ -1,12 +1,12 @@
 {
-  "cep": "13053136",
-  "logradouro": "Rua Lázaro Ferreira Barbosa",
-  "bairro": "Jardim Campo Belo",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Campo Belo;",
+    "cep": "13053136",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Lázaro Ferreira Barbosa;"
 }

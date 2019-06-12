@@ -1,12 +1,12 @@
 {
-  "cep": "13455709",
-  "logradouro": "Rua Antonio Gomes Cardoso",
-  "bairro": "Jardim Dona Regina",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Dona Regina;",
+    "cep": "13455709",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Antonio Gomes Cardoso;"
 }

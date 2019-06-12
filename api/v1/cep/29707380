@@ -1,12 +1,12 @@
 {
-  "cep": "29707380",
-  "logradouro": "Rua Professor Aloísio de Barros Leal",
-  "bairro": "Alto Vila Nova",
-  "cidade": {
-    "nome": "Colatina",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Alto Vila Nova;",
+    "cep": "29707380",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Colatina"
+    },
+    "logradouro": "Rua Professor Aloísio de Barros Leal;"
 }

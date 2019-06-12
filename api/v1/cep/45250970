@@ -1,12 +1,13 @@
 {
-  "cep": "45250970",
-  "logradouro": "AC Boa Nova Praça Sete de Setembro 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Nova",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45250970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Boa Nova"
+    },
+    "ibge": 2903706,
+    "logradouro": "Praça Sete de Setembro, 43  AC Boa Nova;"
 }

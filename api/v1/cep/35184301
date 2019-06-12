@@ -1,12 +1,13 @@
 {
-  "cep": "35184301",
-  "logradouro": "Avenida Cachoeira do Vale de 1399/1400 ao fim",
-  "bairro": "Santa Rita (Cachoeira do Vale)",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita (Cachoeira do Vale);",
+    "cep": "35184301",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Cachoeira do Vale - de 1399\/1400 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35184013",
-  "logradouro": "Avenida Belo Horizonte",
-  "bairro": "Cachoeira do Vale",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeira do Vale;",
+    "cep": "35184013",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Belo Horizonte;"
 }

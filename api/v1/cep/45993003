@@ -1,12 +1,12 @@
 {
-  "cep": "45993003",
-  "logradouro": "Praça Caravelas",
-  "bairro": "Vila Vargas",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Vargas;",
+    "cep": "45993003",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Praça Caravelas;"
 }

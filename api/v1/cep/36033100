@@ -1,12 +1,12 @@
 {
-  "cep": "36033100",
-  "logradouro": "Rua Maria Cristina Muniz",
-  "bairro": "Teixeiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeiras;",
+    "cep": "36033100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Maria Cristina Muniz;"
 }

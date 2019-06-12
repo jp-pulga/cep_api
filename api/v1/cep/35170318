@@ -1,12 +1,12 @@
 {
-  "cep": "35170318",
-  "logradouro": "Rua Teofílo Otoní",
-  "bairro": "Todos os Santos",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Todos os Santos;",
+    "cep": "35170318",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Teofílo Otoní;"
 }

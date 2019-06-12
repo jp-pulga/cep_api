@@ -1,12 +1,12 @@
 {
-  "cep": "36204008",
-  "logradouro": "Rua Padre Lobo",
-  "bairro": "Andaraí",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Andaraí;",
+    "cep": "36204008",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Padre Lobo;"
 }

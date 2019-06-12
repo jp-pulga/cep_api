@@ -1,12 +1,12 @@
 {
-  "cep": "40318160",
-  "logradouro": "Rua Osório Villas Boas",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "40318160",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Osório Villas Boas;"
 }

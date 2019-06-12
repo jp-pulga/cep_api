@@ -1,12 +1,13 @@
 {
-  "cep": "38057816",
-  "logradouro": "Alameda Ciclovia",
-  "bairro": "Villaggio Di Fiori",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Villaggio Di Fiori;",
+    "cep": "38057816",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Alameda Ciclovia;"
 }

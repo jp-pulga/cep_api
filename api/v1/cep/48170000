@@ -1,12 +1,11 @@
 {
-  "cep": "48170000",
-  "logradouro": "Água Fria",
-  "bairro": "",
-  "cidade": {
-    "nome": "Água Fria",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "48170000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Água Fria"
+    },
+    "ibge": 2900405
 }

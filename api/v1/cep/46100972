@@ -1,12 +1,13 @@
 {
-  "cep": "46100972",
-  "logradouro": "AGF São Cristóvão Brumado Avenida Centenário 427",
-  "bairro": "Novo Brumado",
-  "cidade": {
-    "nome": "Brumado",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Brumado;",
+    "cep": "46100972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Brumado"
+    },
+    "ibge": 2904605,
+    "logradouro": "Avenida Centenário, 427  AGF São Cristóvão Brumado;"
 }

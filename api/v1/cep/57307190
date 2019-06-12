@@ -1,12 +1,12 @@
 {
-  "cep": "57307190",
-  "logradouro": "Rua Carlos César Araújo",
-  "bairro": "Baixa Grande",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Baixa Grande;",
+    "cep": "57307190",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Carlos César Araújo;"
 }

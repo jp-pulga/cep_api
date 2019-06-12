@@ -1,12 +1,12 @@
 {
-  "cep": "35502837",
-  "logradouro": "Rua Matias Lobato",
-  "bairro": "Santa Lúcia",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Lúcia;",
+    "cep": "35502837",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Matias Lobato;"
 }

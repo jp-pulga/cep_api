@@ -1,12 +1,12 @@
 {
-  "cep": "45607521",
-  "logradouro": "Rua Dom Pedro I",
-  "bairro": "Carlos Silva Andaraí",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Carlos Silva Andaraí;",
+    "cep": "45607521",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Dom Pedro I;"
 }

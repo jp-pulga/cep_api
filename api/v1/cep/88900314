@@ -1,12 +1,12 @@
 {
-  "cep": "88900314",
-  "logradouro": "Rua Manoel Rocha",
-  "bairro": "Barranca",
-  "cidade": {
-    "nome": "Araranguá",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barranca;",
+    "cep": "88900314",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Araranguá"
+    },
+    "logradouro": "Rua Manoel Rocha;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39458973",
-  "logradouro": "AC Verdelândia Avenida Ursino Cardoso 867",
-  "bairro": "Cachoeirinha",
-  "cidade": {
-    "nome": "Verdelândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeirinha;",
+    "cep": "39458973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Verdelândia"
+    },
+    "ibge": 3171030,
+    "logradouro": "Avenida Ursino Cardoso, 867  AC Verdelândia;"
 }

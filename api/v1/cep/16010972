@@ -1,12 +1,12 @@
 {
-  "cep": "16010972",
-  "logradouro": "AC Araçatuba Rua Luiz Pereira Barreto 163",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "16010972",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Luiz Pereira Barreto, 163  AC Araçatuba;"
 }

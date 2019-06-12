@@ -1,12 +1,12 @@
 {
-  "cep": "35701170",
-  "logradouro": "Rua Várzea da Palma",
-  "bairro": "Vale das Palmeiras",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale das Palmeiras;",
+    "cep": "35701170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Várzea da Palma;"
 }

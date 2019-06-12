@@ -1,12 +1,12 @@
 {
-  "cep": "36071560",
-  "logradouro": "Rua Ubaldina de Morais Pereira",
-  "bairro": "Tiguera",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tiguera;",
+    "cep": "36071560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Ubaldina de Morais Pereira;"
 }

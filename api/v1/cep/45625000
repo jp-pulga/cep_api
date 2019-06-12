@@ -1,12 +1,11 @@
 {
-  "cep": "45625000",
-  "logradouro": "Barro Preto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barro Preto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45625000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barro Preto"
+    },
+    "ibge": 2903300
 }

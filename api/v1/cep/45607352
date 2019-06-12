@@ -1,12 +1,12 @@
 {
-  "cep": "45607352",
-  "logradouro": "Rua Castro Alves de 477/478 ao fim",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "45607352",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Castro Alves - de 477\/478 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41195001",
-  "logradouro": "Estrada das Barreiras lado ímpar",
-  "bairro": "Barreiras",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiras;",
+    "cep": "41195001",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Estrada das Barreiras - lado ímpar;"
 }

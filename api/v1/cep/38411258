@@ -1,12 +1,13 @@
 {
-  "cep": "38411258",
-  "logradouro": "Alameda Alvarenga Peixoto",
-  "bairro": "Jardim Inconfidência",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Inconfidência;",
+    "cep": "38411258",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Alvarenga Peixoto;"
 }

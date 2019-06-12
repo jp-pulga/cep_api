@@ -1,12 +1,12 @@
 {
-  "cep": "45606180",
-  "logradouro": "Rua Castro Alves",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "45606180",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Castro Alves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41130135",
-  "logradouro": "Rua Carinhanha",
-  "bairro": "Pernambués",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pernambués;",
+    "cep": "41130135",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Carinhanha;"
 }

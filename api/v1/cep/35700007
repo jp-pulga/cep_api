@@ -1,12 +1,12 @@
 {
-  "cep": "35700007",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35700007",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "04160090",
-  "logradouro": "Travessa Barro Preto",
-  "bairro": "Vila Brasilina",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Brasilina;",
+    "cep": "04160090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Barro Preto;"
 }

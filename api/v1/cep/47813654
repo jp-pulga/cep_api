@@ -1,12 +1,12 @@
 {
-  "cep": "47813654",
-  "logradouro": "Rua Francisco Djanilson Gonçalves Macedo",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "47813654",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Francisco Djanilson Gonçalves Macedo;"
 }

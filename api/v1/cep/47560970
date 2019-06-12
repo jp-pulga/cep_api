@@ -1,12 +1,13 @@
 {
-  "cep": "47560970",
-  "logradouro": "AC Brotas de Macaúbas Praça da Bandeira 117",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brotas de Macaúbas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47560970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Brotas de Macaúbas"
+    },
+    "ibge": 2904506,
+    "logradouro": "Praça da Bandeira, 117  AC Brotas de Macaúbas;"
 }

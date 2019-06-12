@@ -1,12 +1,12 @@
 {
-  "cep": "36033070",
-  "logradouro": "Travessa Serpa de Brito",
-  "bairro": "Teixeiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeiras;",
+    "cep": "36033070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Travessa Serpa de Brito;"
 }

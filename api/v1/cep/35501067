@@ -1,12 +1,12 @@
 {
-  "cep": "35501067",
-  "logradouro": "Rua Três Pontas",
-  "bairro": "Cidade Jardim",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade Jardim;",
+    "cep": "35501067",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Três Pontas;"
 }

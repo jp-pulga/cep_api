@@ -1,12 +1,12 @@
 {
-  "cep": "37501172",
-  "logradouro": "Praça Jeferson Noronha",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha;",
+    "cep": "37501172",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Praça Jeferson Noronha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35164407",
-  "logradouro": "Rua Rio Tocantins",
-  "bairro": "Parque das Águas",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque das Águas;",
+    "cep": "35164407",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Rio Tocantins;"
 }

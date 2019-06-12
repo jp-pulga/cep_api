@@ -1,12 +1,13 @@
 {
-  "cep": "47608970",
-  "logradouro": "AGC Favelândia Praça da Igreja s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bom Jesus da Lapa",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47608970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Bom Jesus da Lapa"
+    },
+    "ibge": 2903904,
+    "logradouro": "Praça da Igreja, s\/n  AGC Favelândia;"
 }

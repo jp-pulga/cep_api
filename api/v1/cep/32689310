@@ -1,12 +1,12 @@
 {
-  "cep": "32689310",
-  "logradouro": "Rua Toledo",
-  "bairro": "Distrito Industrial Jardim Piemont Norte",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial Jardim Piemont Norte;",
+    "cep": "32689310",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Toledo;"
 }

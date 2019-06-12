@@ -1,12 +1,13 @@
 {
-  "cep": "48360970",
-  "logradouro": "AC Acajutiba Praça Aquinoel Borges 355",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Acajutiba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48360970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Acajutiba"
+    },
+    "ibge": 2900306,
+    "logradouro": "Praça Aquinoel Borges, 355  AC Acajutiba;"
 }

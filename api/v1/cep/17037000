@@ -1,12 +1,12 @@
 {
-  "cep": "17037000",
-  "logradouro": "Alameda das Andorinhas",
-  "bairro": "Vale do Igapó",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vale do Igapó;",
+    "cep": "17037000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Alameda das Andorinhas;"
 }

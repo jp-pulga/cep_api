@@ -1,12 +1,12 @@
 {
-  "cep": "13040063",
-  "logradouro": "Rua São Joaquim da Barra",
-  "bairro": "Jardim Nova Europa",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Nova Europa;",
+    "cep": "13040063",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua São Joaquim da Barra;"
 }

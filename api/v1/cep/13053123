@@ -1,12 +1,12 @@
 {
-  "cep": "13053123",
-  "logradouro": "Rua Doutor Mathias José de Barros Ponikwar",
-  "bairro": "Jardim Campo Belo",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Campo Belo;",
+    "cep": "13053123",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Doutor Mathias José de Barros Ponikwar;"
 }

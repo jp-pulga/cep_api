@@ -1,12 +1,12 @@
 {
-  "cep": "14057060",
-  "logradouro": "Rua Doutor Granadino Baptista",
-  "bairro": "Parque das Andorinhas",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Andorinhas;",
+    "cep": "14057060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Doutor Granadino Baptista;"
 }

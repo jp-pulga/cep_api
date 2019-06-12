@@ -1,12 +1,12 @@
 {
-  "cep": "44097806",
-  "logradouro": "Rua Brejões",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "44097806",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Brejões;"
 }

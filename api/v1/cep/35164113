@@ -1,12 +1,12 @@
 {
-  "cep": "35164113",
-  "logradouro": "Rua Toledo",
-  "bairro": "Bethânia",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bethânia;",
+    "cep": "35164113",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Toledo;"
 }

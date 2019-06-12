@@ -1,12 +1,12 @@
 {
-  "cep": "47813652",
-  "logradouro": "Rua Camila Barbosa Cardoso",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "47813652",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Camila Barbosa Cardoso;"
 }

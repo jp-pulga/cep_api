@@ -1,12 +1,12 @@
 {
-  "cep": "40140241",
-  "logradouro": "Rua Marquês de Caravelas até 525 - lado ímpar",
-  "bairro": "Barra",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barra;",
+    "cep": "40140241",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Marquês de Caravelas - até 525 - lado ímpar;"
 }

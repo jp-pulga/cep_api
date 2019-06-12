@@ -1,12 +1,12 @@
 {
-  "cep": "35931050",
-  "logradouro": "Rua Érico Veríssimo",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "35931050",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Érico Veríssimo;"
 }

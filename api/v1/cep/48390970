@@ -1,12 +1,13 @@
 {
-  "cep": "48390970",
-  "logradouro": "AC Cardeal da Silva Praça José Osete de Carvalho s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cardeal da Silva",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48390970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cardeal da Silva"
+    },
+    "ibge": 2907004,
+    "logradouro": "Praça José Osete de Carvalho, s\/n  AC Cardeal da Silva;"
 }

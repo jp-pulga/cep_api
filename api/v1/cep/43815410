@@ -1,12 +1,12 @@
 {
-  "cep": "43815410",
-  "logradouro": "Rua Boa Fé",
-  "bairro": "Nova Candeias",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Candeias;",
+    "cep": "43815410",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Rua Boa Fé;"
 }

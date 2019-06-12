@@ -1,12 +1,12 @@
 {
-  "cep": "40296350",
-  "logradouro": "Rua Santo Auxêncio",
-  "bairro": "Candeal",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeal;",
+    "cep": "40296350",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Santo Auxêncio;"
 }

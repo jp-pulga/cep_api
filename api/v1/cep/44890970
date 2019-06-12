@@ -1,12 +1,13 @@
 {
-  "cep": "44890970",
-  "logradouro": "AC Canarana Rua Ruy Barbosa 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canarana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44890970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Canarana"
+    },
+    "ibge": 2906204,
+    "logradouro": "Rua Ruy Barbosa, 15  AC Canarana;"
 }

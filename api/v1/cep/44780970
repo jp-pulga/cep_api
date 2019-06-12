@@ -1,12 +1,13 @@
 {
-  "cep": "44780970",
-  "logradouro": "AC Antônio Gonçalves Praça Presidente Kennedy 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antônio Gonçalves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44780970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Antônio Gonçalves"
+    },
+    "ibge": 2901809,
+    "logradouro": "Praça Presidente Kennedy, 34  AC Antônio Gonçalves;"
 }

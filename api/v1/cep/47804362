@@ -1,12 +1,12 @@
 {
-  "cep": "47804362",
-  "logradouro": "Rua Araçatuba",
-  "bairro": "Firenze",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Firenze;",
+    "cep": "47804362",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Araçatuba;"
 }

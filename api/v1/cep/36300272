@@ -1,12 +1,12 @@
 {
-  "cep": "36300272",
-  "logradouro": "Rua dos Vieiras",
-  "bairro": "Senhor dos Montes",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhor dos Montes;",
+    "cep": "36300272",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua dos Vieiras;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44895970",
-  "logradouro": "AC Barro Alto Rua Claudionor Pereira 174",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barro Alto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44895970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barro Alto"
+    },
+    "ibge": 2903235,
+    "logradouro": "Rua Claudionor Pereira, 174  AC Barro Alto;"
 }

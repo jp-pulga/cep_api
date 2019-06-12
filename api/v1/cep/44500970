@@ -1,12 +1,13 @@
 {
-  "cep": "44500970",
-  "logradouro": "AC Castro Alves Travessa João Moreira s/n",
-  "bairro": "Banheiro",
-  "cidade": {
-    "nome": "Castro Alves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Banheiro;",
+    "cep": "44500970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Castro Alves"
+    },
+    "ibge": 2907301,
+    "logradouro": "Travessa João Moreira, s\/n  AC Castro Alves;"
 }

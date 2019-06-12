@@ -1,12 +1,12 @@
 {
-  "cep": "36204000",
-  "logradouro": "Rua São Vicente de Paula",
-  "bairro": "Andaraí",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Andaraí;",
+    "cep": "36204000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua São Vicente de Paula;"
 }

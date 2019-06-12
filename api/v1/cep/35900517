@@ -1,12 +1,12 @@
 {
-  "cep": "35900517",
-  "logradouro": "Rua José Timóteo Fernandes",
-  "bairro": "Cônego Guilhermino Pereira",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cônego Guilhermino Pereira;",
+    "cep": "35900517",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua José Timóteo Fernandes;"
 }

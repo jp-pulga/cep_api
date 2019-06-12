@@ -1,12 +1,11 @@
 {
-  "cep": "45120000",
-  "logradouro": "Barra do Choça",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barra do Choça",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45120000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barra do Choça"
+    },
+    "ibge": 2902906
 }

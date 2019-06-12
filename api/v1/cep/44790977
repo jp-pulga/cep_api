@@ -1,12 +1,13 @@
 {
-  "cep": "44790977",
-  "logradouro": "AGC Tuiutiba Praça do Comércio s/n",
-  "bairro": "Tuiutiba",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tuiutiba;",
+    "cep": "44790977",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Praça do Comércio, s\/n  AGC Tuiutiba;"
 }

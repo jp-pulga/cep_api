@@ -1,12 +1,12 @@
 {
-  "cep": "32073810",
-  "logradouro": "Rua Ubaitaba",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "32073810",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Ubaitaba;"
 }

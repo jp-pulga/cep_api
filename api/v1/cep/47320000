@@ -1,12 +1,12 @@
 {
-  "cep": "47320000",
-  "logradouro": "Pau a Pique (Casa Nova)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pau a Pique (Casa Nova)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pau a Pique",
+    "cep": "47320000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Casa Nova"
+    },
+    "ibge": 2907202
 }

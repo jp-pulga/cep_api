@@ -1,12 +1,12 @@
 {
-  "cep": "33050060",
-  "logradouro": "Rua Toledo Melo",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "33050060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Toledo Melo;"
 }

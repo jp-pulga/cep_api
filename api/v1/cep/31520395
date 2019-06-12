@@ -1,12 +1,12 @@
 {
-  "cep": "31520395",
-  "logradouro": "Rua Érico Veríssimo de 953 a 1899 - lado ímpar",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "31520395",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Érico Veríssimo - de 953 a 1899 - lado ímpar;"
 }

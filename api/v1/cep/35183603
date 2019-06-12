@@ -1,12 +1,13 @@
 {
-  "cep": "35183603",
-  "logradouro": "Avenida Benedito Moreira de Andrade",
-  "bairro": "Petrópolis",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Petrópolis;",
+    "cep": "35183603",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Benedito Moreira de Andrade;"
 }

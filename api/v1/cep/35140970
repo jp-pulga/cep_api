@@ -1,12 +1,13 @@
 {
-  "cep": "35140970",
-  "logradouro": "AC Tarumirim Praça São João 110",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tarumirim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35140970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Tarumirim"
+    },
+    "ibge": 3168408,
+    "logradouro": "Praça São João, 110  AC Tarumirim;"
 }

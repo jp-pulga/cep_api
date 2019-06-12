@@ -1,12 +1,12 @@
 {
-  "cep": "04154110",
-  "logradouro": "Travessa Barreiras",
-  "bairro": "Vila Santo Estéfano",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santo Estéfano;",
+    "cep": "04154110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Barreiras;"
 }

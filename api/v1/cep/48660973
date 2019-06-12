@@ -1,12 +1,13 @@
 {
-  "cep": "48660973",
-  "logradouro": "AGC Caraíbas Rua Coronel João Sá s/n",
-  "bairro": "Caraibas",
-  "cidade": {
-    "nome": "Chorrochó",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caraibas;",
+    "cep": "48660973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Chorrochó"
+    },
+    "ibge": 2907707,
+    "logradouro": "Rua Coronel João Sá, s\/n  AGC Caraíbas;"
 }

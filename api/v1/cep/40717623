@@ -1,12 +1,12 @@
 {
-  "cep": "40717623",
-  "logradouro": "Rua Caraíba",
-  "bairro": "Plataforma",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Plataforma;",
+    "cep": "40717623",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Caraíba;"
 }

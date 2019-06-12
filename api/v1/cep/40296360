@@ -1,12 +1,12 @@
 {
-  "cep": "40296360",
-  "logradouro": "Alameda Bons Ares",
-  "bairro": "Candeal",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeal;",
+    "cep": "40296360",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Bons Ares;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38443036",
-  "logradouro": "Rua Tocantins",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "38443036",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Tocantins;"
 }

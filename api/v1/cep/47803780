@@ -1,12 +1,12 @@
 {
-  "cep": "47803780",
-  "logradouro": "Rua Cocos",
-  "bairro": "Alphaville",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alphaville;",
+    "cep": "47803780",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Cocos;"
 }

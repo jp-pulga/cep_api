@@ -1,12 +1,11 @@
 {
-  "cep": "39809800",
-  "logradouro": "Mucuri (Teófilo Otoni)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Mucuri (Teófilo Otoni)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39809800",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606
 }

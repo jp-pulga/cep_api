@@ -1,12 +1,13 @@
 {
-  "cep": "39802014",
-  "logradouro": "Avenida Getúlio Vargas até 327/328",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39802014",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Getúlio Vargas - até 327\/328;"
 }

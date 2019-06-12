@@ -1,12 +1,12 @@
 {
-  "cep": "45065430",
-  "logradouro": "Rua Aurelino Leal",
-  "bairro": "Patagônia",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Patagônia;",
+    "cep": "45065430",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Aurelino Leal;"
 }

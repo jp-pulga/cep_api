@@ -1,12 +1,12 @@
 {
-  "cep": "36204006",
-  "logradouro": "Rua Mato Grosso",
-  "bairro": "Andaraí",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Andaraí;",
+    "cep": "36204006",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Mato Grosso;"
 }

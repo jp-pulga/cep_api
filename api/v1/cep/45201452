@@ -1,12 +1,12 @@
 {
-  "cep": "45201452",
-  "logradouro": "Rua 7 (Lot Sta Luz)",
-  "bairro": "Cansanção",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cansanção;",
+    "cep": "45201452",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua 7 (Lot Sta Luz);"
 }

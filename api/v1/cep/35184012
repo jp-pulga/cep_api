@@ -1,12 +1,13 @@
 {
-  "cep": "35184012",
-  "logradouro": "Avenida Cachoeira do Vale até 1397/1398",
-  "bairro": "Cachoeira do Vale",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeira do Vale;",
+    "cep": "35184012",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Cachoeira do Vale - até 1397\/1398;"
 }

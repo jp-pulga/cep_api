@@ -1,12 +1,12 @@
 {
-  "cep": "45657760",
-  "logradouro": "Rua Araçás",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "45657760",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Araçás;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "58090209",
-  "logradouro": "Rua Estudante Daniel Lima de Barros",
-  "bairro": "Alto do Mateus",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Mateus;",
+    "cep": "58090209",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Estudante Daniel Lima de Barros;"
 }

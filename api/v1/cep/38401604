@@ -1,12 +1,13 @@
 {
-  "cep": "38401604",
-  "logradouro": "Alameda Iracema Susstrunk da Silva",
-  "bairro": "Residencial Gramado",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Gramado;",
+    "cep": "38401604",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Iracema Susstrunk da Silva;"
 }

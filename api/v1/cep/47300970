@@ -1,12 +1,13 @@
 {
-  "cep": "47300970",
-  "logradouro": "AC Casa Nova Praça Doutor Gilson Viana s/n",
-  "bairro": "Borges",
-  "cidade": {
-    "nome": "Casa Nova",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Borges;",
+    "cep": "47300970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Casa Nova"
+    },
+    "ibge": 2907202,
+    "logradouro": "Praça Doutor Gilson Viana, s\/n  AC Casa Nova;"
 }

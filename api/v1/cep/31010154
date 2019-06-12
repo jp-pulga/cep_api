@@ -1,12 +1,12 @@
 {
-  "cep": "31010154",
-  "logradouro": "Beco Turmalina",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "31010154",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Turmalina;"
 }

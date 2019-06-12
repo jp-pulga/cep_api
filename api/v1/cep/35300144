@@ -1,12 +1,12 @@
 {
-  "cep": "35300144",
-  "logradouro": "Rua Tiradentes",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "35300144",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Rua Tiradentes;"
 }

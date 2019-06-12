@@ -1,12 +1,12 @@
 {
-  "cep": "30710290",
-  "logradouro": "Rua Virgínia",
-  "bairro": "Carlos Prates",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carlos Prates;",
+    "cep": "30710290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Virgínia;"
 }

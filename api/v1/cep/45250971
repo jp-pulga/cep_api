@@ -1,12 +1,13 @@
 {
-  "cep": "45250971",
-  "logradouro": "AGC Valentim Praça Norberto Pereira 28",
-  "bairro": "Valentim",
-  "cidade": {
-    "nome": "Boa Nova",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Valentim;",
+    "cep": "45250971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Boa Nova"
+    },
+    "ibge": 2903706,
+    "logradouro": "Praça Norberto Pereira, 28  AGC Valentim;"
 }

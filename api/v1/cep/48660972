@@ -1,12 +1,13 @@
 {
-  "cep": "48660972",
-  "logradouro": "AGC Várzea da Ema Rua da Igreja s/n",
-  "bairro": "Várzea da Ema",
-  "cidade": {
-    "nome": "Chorrochó",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Várzea da Ema;",
+    "cep": "48660972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Chorrochó"
+    },
+    "ibge": 2907707,
+    "logradouro": "Rua da Igreja, s\/n  AGC Várzea da Ema;"
 }

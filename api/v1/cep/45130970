@@ -1,12 +1,13 @@
 {
-  "cep": "45130970",
-  "logradouro": "AC Caatiba Praça Cleriston Andrade 137",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caatiba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45130970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caatiba"
+    },
+    "ibge": 2904803,
+    "logradouro": "Praça Cleriston Andrade, 137  AC Caatiba;"
 }

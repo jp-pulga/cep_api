@@ -1,12 +1,12 @@
 {
-  "cep": "32013140",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Fonte Grande",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fonte Grande;",
+    "cep": "32013140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

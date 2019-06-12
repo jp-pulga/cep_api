@@ -1,12 +1,13 @@
 {
-  "cep": "48760971",
-  "logradouro": "AC Pedras Altas Praça Senhor do Bonfim 536",
-  "bairro": "Pedras Altas",
-  "cidade": {
-    "nome": "Araci",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pedras Altas;",
+    "cep": "48760971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Araci"
+    },
+    "ibge": 2902104,
+    "logradouro": "Praça Senhor do Bonfim, 536  AC Pedras Altas;"
 }

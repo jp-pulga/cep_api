@@ -1,12 +1,12 @@
 {
-  "cep": "15805055",
-  "logradouro": "Rua São Joaquim da Barra",
-  "bairro": "Jardim do Bosque",
-  "cidade": {
-    "nome": "Catanduva",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim do Bosque;",
+    "cep": "15805055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Catanduva"
+    },
+    "logradouro": "Rua São Joaquim da Barra;"
 }

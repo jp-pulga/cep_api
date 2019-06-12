@@ -1,12 +1,12 @@
 {
-  "cep": "37904290",
-  "logradouro": "Rua Vargem Bonita",
-  "bairro": "Coimbras",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Coimbras;",
+    "cep": "37904290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Vargem Bonita;"
 }

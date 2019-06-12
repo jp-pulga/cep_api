@@ -1,12 +1,12 @@
 {
-  "cep": "47330000",
-  "logradouro": "Bem-Bom (Casa Nova)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Bem-Bom (Casa Nova)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bem-Bom",
+    "cep": "47330000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Casa Nova"
+    },
+    "ibge": 2907202
 }

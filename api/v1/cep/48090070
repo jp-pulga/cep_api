@@ -1,12 +1,12 @@
 {
-  "cep": "48090070",
-  "logradouro": "Rua Manoel Vitorino de 1050/1051 ao fim",
-  "bairro": "Catu",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Catu;",
+    "cep": "48090070",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Manoel Vitorino - de 1050\/1051 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48080110",
-  "logradouro": "Baixa da Santinha",
-  "bairro": "Teresópolis",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Teresópolis;",
+    "cep": "48080110",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Baixa da Santinha;"
 }

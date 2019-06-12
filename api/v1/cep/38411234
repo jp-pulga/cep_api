@@ -1,12 +1,13 @@
 {
-  "cep": "38411234",
-  "logradouro": "Alameda Cônego Luiz Vieira",
-  "bairro": "City Uberlândia",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "City Uberlândia;",
+    "cep": "38411234",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Cônego Luiz Vieira;"
 }

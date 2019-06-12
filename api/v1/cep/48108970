@@ -1,12 +1,13 @@
 {
-  "cep": "48108970",
-  "logradouro": "AC Araçás Avenida Eronildes Soares Bonfim 148 Lote 02 Quadra 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araçás",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48108970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Araçás"
+    },
+    "ibge": 2902054,
+    "logradouro": "Avenida Eronildes Soares Bonfim, 148 Lote 02 Quadra 10  AC Araçás;"
 }

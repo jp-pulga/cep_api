@@ -1,12 +1,12 @@
 {
-  "cep": "79112342",
-  "logradouro": "Rua Elpídio Belmontes de Barros",
-  "bairro": "Vila Palmira",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Vila Palmira;",
+    "cep": "79112342",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Elpídio Belmontes de Barros;"
 }

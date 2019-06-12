@@ -1,12 +1,13 @@
 {
-  "cep": "39878970",
-  "logradouro": "AC Umburatiba Avenida José Ganga 103",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Umburatiba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39878970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Umburatiba"
+    },
+    "ibge": 3170305,
+    "logradouro": "Avenida José Ganga, 103  AC Umburatiba;"
 }

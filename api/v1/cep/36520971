@@ -1,12 +1,13 @@
 {
-  "cep": "36520971",
-  "logradouro": "UD Visconde do Rio Branco Rua Major Felicíssimo 256-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Visconde do Rio Branco",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36520971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Visconde do Rio Branco"
+    },
+    "ibge": 3172004,
+    "logradouro": "Rua Major Felicíssimo, 256-A  UD Visconde do Rio Branco;"
 }

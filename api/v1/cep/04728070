@@ -1,12 +1,12 @@
 {
-  "cep": "04728070",
-  "logradouro": "Rua Leonel Vaz de Barros",
-  "bairro": "Jardim Caravelas",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Caravelas;",
+    "cep": "04728070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Leonel Vaz de Barros;"
 }

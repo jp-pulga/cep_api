@@ -1,12 +1,13 @@
 {
-  "cep": "48760970",
-  "logradouro": "AC Araci Praça Monsenhor Carlos Olimpio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araci",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48760970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Araci"
+    },
+    "ibge": 2902104,
+    "logradouro": "Praça Monsenhor Carlos Olimpio, s\/n  AC Araci;"
 }

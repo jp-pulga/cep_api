@@ -1,12 +1,12 @@
 {
-  "cep": "33826055",
-  "logradouro": "Rua Três Corações",
-  "bairro": "Fazenda Castro",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fazenda Castro;",
+    "cep": "33826055",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Três Corações;"
 }

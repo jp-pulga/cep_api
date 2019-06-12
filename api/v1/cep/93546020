@@ -1,12 +1,12 @@
 {
-  "cep": "93546020",
-  "logradouro": "Rua Marquês de Barbacena",
-  "bairro": "Canudos",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Canudos;",
+    "cep": "93546020",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Marquês de Barbacena;"
 }

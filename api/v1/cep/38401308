@@ -1,12 +1,13 @@
 {
-  "cep": "38401308",
-  "logradouro": "Alameda Maria Cristina Costa",
-  "bairro": "Santa Rosa",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rosa;",
+    "cep": "38401308",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Maria Cristina Costa;"
 }

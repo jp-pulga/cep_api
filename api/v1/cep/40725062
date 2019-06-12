@@ -1,12 +1,12 @@
 {
-  "cep": "40725062",
-  "logradouro": "Avenida Caraíba",
-  "bairro": "Praia Grande",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Praia Grande;",
+    "cep": "40725062",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Caraíba;"
 }

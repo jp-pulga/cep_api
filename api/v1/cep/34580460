@@ -1,12 +1,12 @@
 {
-  "cep": "34580460",
-  "logradouro": "Rua Ubá",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "34580460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Ubá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96501360",
-  "logradouro": "Rua David Barcelos",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "96501360",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua David Barcelos;"
 }

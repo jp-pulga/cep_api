@@ -1,12 +1,12 @@
 {
-  "cep": "03021015",
-  "logradouro": "Travessa Basílio Pitta",
-  "bairro": "Catumbi",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Catumbi;",
+    "cep": "03021015",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Basílio Pitta;"
 }

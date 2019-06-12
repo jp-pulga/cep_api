@@ -1,12 +1,13 @@
 {
-  "cep": "38051413",
-  "logradouro": "Avenida Breno Prata Decina até 422/423",
-  "bairro": "Beija-Flor II",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Beija-Flor II;",
+    "cep": "38051413",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Breno Prata Decina - até 422\/423;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "96508170",
-  "logradouro": "Rua Doutor Pedro Baylet",
-  "bairro": "Marques Ribeiro",
-  "cidade": {
-    "nome": "Cachoeira do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Marques Ribeiro;",
+    "cep": "96508170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Cachoeira do Sul"
+    },
+    "logradouro": "Rua Doutor Pedro Baylet;"
 }

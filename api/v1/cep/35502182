@@ -1,12 +1,12 @@
 {
-  "cep": "35502182",
-  "logradouro": "Rua Três Marias",
-  "bairro": "Anchieta",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Anchieta;",
+    "cep": "35502182",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Três Marias;"
 }

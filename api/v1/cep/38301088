@@ -1,12 +1,12 @@
 {
-  "cep": "38301088",
-  "logradouro": "Rua Tupaciguara de 399 ao fim - lado ímpar",
-  "bairro": "Maria Vilela",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Vilela;",
+    "cep": "38301088",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Rua Tupaciguara - de 399 ao fim - lado ímpar;"
 }

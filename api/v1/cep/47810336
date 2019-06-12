@@ -1,12 +1,12 @@
 {
-  "cep": "47810336",
-  "logradouro": "Rua Araçatuba",
-  "bairro": "Morada Nobre",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Morada Nobre;",
+    "cep": "47810336",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Araçatuba;"
 }

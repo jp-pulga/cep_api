@@ -1,12 +1,12 @@
 {
-  "cep": "37501122",
-  "logradouro": "Rua do Expedicionário",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha;",
+    "cep": "37501122",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua do Expedicionário;"
 }

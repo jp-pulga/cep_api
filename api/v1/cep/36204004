@@ -1,12 +1,12 @@
 {
-  "cep": "36204004",
-  "logradouro": "Rua Pará",
-  "bairro": "Andaraí",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Andaraí;",
+    "cep": "36204004",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Pará;"
 }

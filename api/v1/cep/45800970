@@ -1,12 +1,13 @@
 {
-  "cep": "45800970",
-  "logradouro": "AC Belmonte Praça Treze de Maio 9",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Belmonte",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Belmonte;",
+    "cep": "45800970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Belmonte"
+    },
+    "ibge": 2903409,
+    "logradouro": "Praça Treze de Maio, 9  AC Belmonte;"
 }

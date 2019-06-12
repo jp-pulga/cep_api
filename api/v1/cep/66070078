@@ -1,12 +1,12 @@
 {
-  "cep": "66070078",
-  "logradouro": "Vila Barbosa",
-  "bairro": "Canudos",
-  "cidade": {
-    "nome": "Belém",
-    "estado": {
-      "nome": "Pará",
-      "sigla": "PA"
-    }
-  }
+    "bairro": "Canudos;",
+    "cep": "66070078",
+    "cidade": {
+        "estado": {
+            "nome": "Para",
+            "sigla": "PA"
+        },
+        "nome": "Belém"
+    },
+    "logradouro": "Vila Barbosa;"
 }

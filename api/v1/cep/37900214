@@ -1,12 +1,12 @@
 {
-  "cep": "37900214",
-  "logradouro": "Praça Cônego José Timóteo da Silva",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "37900214",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Praça Cônego José Timóteo da Silva;"
 }

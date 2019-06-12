@@ -1,12 +1,12 @@
 {
-  "cep": "33821445",
-  "logradouro": "Rua Escritor Érico Veríssimo",
-  "bairro": "Belvedere",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belvedere;",
+    "cep": "33821445",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Escritor Érico Veríssimo;"
 }

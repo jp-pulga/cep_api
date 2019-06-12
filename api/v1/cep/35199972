@@ -1,12 +1,13 @@
 {
-  "cep": "35199972",
-  "logradouro": "AC Vargem Alegre Avenida Cândido Machado 506",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vargem Alegre",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35199972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vargem Alegre"
+    },
+    "ibge": 3170578,
+    "logradouro": "Avenida Cândido Machado, 506  AC Vargem Alegre;"
 }

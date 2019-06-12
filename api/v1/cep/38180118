@@ -1,12 +1,12 @@
 {
-  "cep": "38180118",
-  "logradouro": "Rua Veríssimo de Aguiar",
-  "bairro": "Leblon",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Leblon;",
+    "cep": "38180118",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Veríssimo de Aguiar;"
 }

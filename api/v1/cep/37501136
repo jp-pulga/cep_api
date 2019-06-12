@@ -1,12 +1,12 @@
 {
-  "cep": "37501136",
-  "logradouro": "Rua Álvaro Mendonça Chaves",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha;",
+    "cep": "37501136",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Álvaro Mendonça Chaves;"
 }

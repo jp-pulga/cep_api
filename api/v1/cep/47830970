@@ -1,12 +1,13 @@
 {
-  "cep": "47830970",
-  "logradouro": "AC Baianópolis Avenida Antônio Carlos Magalhães 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Baianópolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47830970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Baianópolis"
+    },
+    "ibge": 2902500,
+    "logradouro": "Avenida Antônio Carlos Magalhães, 18  AC Baianópolis;"
 }

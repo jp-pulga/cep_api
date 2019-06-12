@@ -1,12 +1,13 @@
 {
-  "cep": "48420975",
-  "logradouro": "AGC Frei Apolônio Rua Principal s/n",
-  "bairro": "Frei Apolônio",
-  "cidade": {
-    "nome": "Antas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Frei Apolônio;",
+    "cep": "48420975",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Antas"
+    },
+    "ibge": 2901601,
+    "logradouro": "Rua Principal, s\/n  AGC Frei Apolônio;"
 }

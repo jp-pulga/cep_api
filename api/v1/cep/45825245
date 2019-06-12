@@ -1,12 +1,12 @@
 {
-  "cep": "45825245",
-  "logradouro": "Rua Camacan",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vista Alegre;",
+    "cep": "45825245",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Camacan;"
 }

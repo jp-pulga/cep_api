@@ -1,12 +1,13 @@
 {
-  "cep": "47120970",
-  "logradouro": "AC Buritirama Avenida Prefeito Arival Viana 115",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Buritirama",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47120970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Buritirama"
+    },
+    "ibge": 2904753,
+    "logradouro": "Avenida Buriti, 107  AC Buritirama;"
 }

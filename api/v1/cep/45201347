@@ -1,12 +1,12 @@
 {
-  "cep": "45201347",
-  "logradouro": "Rua José Gonçalves Pereira",
-  "bairro": "Cansanção",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cansanção;",
+    "cep": "45201347",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua José Gonçalves Pereira;"
 }

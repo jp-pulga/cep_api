@@ -1,12 +1,12 @@
 {
-  "cep": "48603105",
-  "logradouro": "Rua Belmonte",
-  "bairro": "Perpétuo Socorro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Perpétuo Socorro;",
+    "cep": "48603105",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Belmonte;"
 }

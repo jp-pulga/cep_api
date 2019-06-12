@@ -1,12 +1,12 @@
 {
-  "cep": "47801272",
-  "logradouro": "Rua Andorinha",
-  "bairro": "Vila Brasil",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Brasil;",
+    "cep": "47801272",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Andorinha;"
 }

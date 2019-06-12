@@ -1,12 +1,13 @@
 {
-  "cep": "44490970",
-  "logradouro": "AC Aratuípe Praça José Alves da Silva 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aratuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44490970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Aratuípe"
+    },
+    "ibge": 2902302,
+    "logradouro": "Praça José Alves da Silva, 160  AC Aratuípe;"
 }

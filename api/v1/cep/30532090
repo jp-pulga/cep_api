@@ -1,12 +1,12 @@
 {
-  "cep": "30532090",
-  "logradouro": "Rua Toledo",
-  "bairro": "Vila Oeste",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Oeste;",
+    "cep": "30532090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Toledo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45826350",
-  "logradouro": "Rua Campo Belo",
-  "bairro": "Thiago de Mello",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Thiago de Mello;",
+    "cep": "45826350",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Campo Belo;"
 }

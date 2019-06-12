@@ -1,12 +1,12 @@
 {
-  "cep": "31310290",
-  "logradouro": "Rua Várzea da Palma",
-  "bairro": "Engenho Nogueira",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Engenho Nogueira;",
+    "cep": "31310290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Várzea da Palma;"
 }

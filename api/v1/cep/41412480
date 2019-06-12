@@ -1,12 +1,12 @@
 {
-  "cep": "41412480",
-  "logradouro": "Rua Adustina",
-  "bairro": "Areia Branca",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Areia Branca;",
+    "cep": "41412480",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Adustina;"
 }

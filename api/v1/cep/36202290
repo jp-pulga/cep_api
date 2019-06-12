@@ -1,12 +1,12 @@
 {
-  "cep": "36202290",
-  "logradouro": "Rua Padre Toledo",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "36202290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Padre Toledo;"
 }

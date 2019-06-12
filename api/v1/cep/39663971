@@ -1,12 +1,13 @@
 {
-  "cep": "39663971",
-  "logradouro": "AC Veredinha Praça Senhora do Patrocínio 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Veredinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39663971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Veredinha"
+    },
+    "ibge": 3171071,
+    "logradouro": "Praça Senhora do Patrocínio, 14  AC Veredinha;"
 }

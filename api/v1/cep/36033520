@@ -1,12 +1,12 @@
 {
-  "cep": "36033520",
-  "logradouro": "Rua Dalila L. Santos",
-  "bairro": "Teixeiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeiras;",
+    "cep": "36033520",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Dalila L. Santos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "38402205",
-  "logradouro": "Alameda Luiz Roberto de Souza",
-  "bairro": "Minas Gerais",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Minas Gerais;",
+    "cep": "38402205",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Luiz Roberto de Souza;"
 }

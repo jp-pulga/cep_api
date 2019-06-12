@@ -1,12 +1,12 @@
 {
-  "cep": "94155010",
-  "logradouro": "Rua Araci",
-  "bairro": "Barnabé",
-  "cidade": {
-    "nome": "Gravataí",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Barnabé;",
+    "cep": "94155010",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Gravataí"
+    },
+    "logradouro": "Rua Araci;"
 }

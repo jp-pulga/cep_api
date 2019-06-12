@@ -1,12 +1,12 @@
 {
-  "cep": "31530302",
-  "logradouro": "Rua Érico Veríssimo de 2262 ao fim - lado par",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "31530302",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Érico Veríssimo - de 2262 ao fim - lado par;"
 }

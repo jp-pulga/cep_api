@@ -1,12 +1,12 @@
 {
-  "cep": "36033360",
-  "logradouro": "Praça Doutor Dirceu de Andrade",
-  "bairro": "Teixeiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeiras;",
+    "cep": "36033360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Praça Doutor Dirceu de Andrade;"
 }

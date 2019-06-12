@@ -1,12 +1,12 @@
 {
-  "cep": "35930461",
-  "logradouro": "Rua Tocantins",
-  "bairro": "Centro Industrial",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro Industrial;",
+    "cep": "35930461",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Tocantins;"
 }

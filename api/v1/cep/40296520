@@ -1,12 +1,12 @@
 {
-  "cep": "40296520",
-  "logradouro": "Alameda Almeida Couto",
-  "bairro": "Candeal",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeal;",
+    "cep": "40296520",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Almeida Couto;"
 }

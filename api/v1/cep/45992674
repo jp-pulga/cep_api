@@ -1,12 +1,12 @@
 {
-  "cep": "45992674",
-  "logradouro": "Rua Arataca",
-  "bairro": "Eixo Sul",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Eixo Sul;",
+    "cep": "45992674",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Arataca;"
 }

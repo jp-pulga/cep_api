@@ -1,12 +1,12 @@
 {
-  "cep": "45201402",
-  "logradouro": "Rua Eva Brito lado ímpar",
-  "bairro": "Cansanção",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cansanção;",
+    "cep": "45201402",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Eva Brito - lado ímpar;"
 }

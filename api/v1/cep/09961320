@@ -1,12 +1,12 @@
 {
-  "cep": "09961320",
-  "logradouro": "Rua Antônio Cardoso de Barros (Jd N Lar)",
-  "bairro": "Casa Grande",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Casa Grande;",
+    "cep": "09961320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Rua Antônio Cardoso de Barros (Jd N Lar);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33141238",
-  "logradouro": "Rua Uberlândia",
-  "bairro": "Padre Miguel (São Benedito)",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Miguel (São Benedito);",
+    "cep": "33141238",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Uberlândia;"
 }

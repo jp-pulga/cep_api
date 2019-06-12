@@ -1,12 +1,13 @@
 {
-  "cep": "46530970",
-  "logradouro": "AC Boquira Avenida Ulisses Lima s/n",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Boquira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "46530970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Boquira"
+    },
+    "ibge": 2904100,
+    "logradouro": "Avenida Ulisses Lima, s\/n  AC Boquira;"
 }

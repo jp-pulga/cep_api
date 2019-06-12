@@ -1,12 +1,13 @@
 {
-  "cep": "48705970",
-  "logradouro": "AC Barrocas Rua José Maximiniano 28 Loja Comércio",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barrocas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48705970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barrocas"
+    },
+    "ibge": 2903276,
+    "logradouro": "Rua José Maximiniano, 28 Loja Comércio  AC Barrocas;"
 }

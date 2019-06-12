@@ -1,12 +1,13 @@
 {
-  "cep": "35180624",
-  "logradouro": "Avenida Ana Moura até 1600/1601",
-  "bairro": "Timotinho",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Timotinho;",
+    "cep": "35180624",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Ana Moura - até 1097\/1098;"
 }

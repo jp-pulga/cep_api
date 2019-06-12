@@ -1,12 +1,13 @@
 {
-  "cep": "46850970",
-  "logradouro": "AC Boa Vista do Tupim Praça Ruy Barbosa 400",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boa Vista do Tupim",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46850970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Boa Vista do Tupim"
+    },
+    "ibge": 2903805,
+    "logradouro": "Praça Ruy Barbosa, 400  AC Boa Vista do Tupim;"
 }

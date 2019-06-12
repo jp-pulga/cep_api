@@ -1,12 +1,12 @@
 {
-  "cep": "30451377",
-  "logradouro": "Rua Virginópolis",
-  "bairro": "Santa Sofia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Sofia;",
+    "cep": "30451377",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Virginópolis;"
 }

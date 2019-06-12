@@ -1,12 +1,12 @@
 {
-  "cep": "69094310",
-  "logradouro": "Travessa Barrocas (Núcleo 3)",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "69094310",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Barrocas;"
 }

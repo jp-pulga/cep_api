@@ -1,12 +1,12 @@
 {
-  "cep": "16016000",
-  "logradouro": "Rua Baguaçu de 1941/1942 ao fim",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "16016000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Baguaçu - de 1940 ao fim - lado par;"
 }

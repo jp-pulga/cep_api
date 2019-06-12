@@ -1,12 +1,12 @@
 {
-  "cep": "35661471",
-  "logradouro": "Rua Califórnia",
-  "bairro": "União",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "União;",
+    "cep": "35661471",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Califórnia;"
 }

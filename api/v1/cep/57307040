@@ -1,12 +1,12 @@
 {
-  "cep": "57307040",
-  "logradouro": "Rua Antônia Angelina da Silva",
-  "bairro": "Baixa Grande",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Baixa Grande;",
+    "cep": "57307040",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Antônia Angelina da Silva;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35359972",
-  "logradouro": "AC Vermelho Novo Rua Prefeito Wilson Damião 56",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vermelho Novo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35359972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vermelho Novo"
+    },
+    "ibge": 3171154,
+    "logradouro": "Rua Prefeito Wilson Damião, 56  AC Vermelho Novo;"
 }

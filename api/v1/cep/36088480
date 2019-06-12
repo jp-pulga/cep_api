@@ -1,12 +1,12 @@
 {
-  "cep": "36088480",
-  "logradouro": "Rua Professora Virgínia Ribeiro",
-  "bairro": "Jardim dos Alfineiros",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim dos Alfineiros;",
+    "cep": "36088480",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Professora Virgínia Ribeiro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "33200977",
-  "logradouro": "AGC Santa Clara Rua Sete de Setembro 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vespasiano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33200977",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vespasiano"
+    },
+    "ibge": 3171204,
+    "logradouro": "Rua Sete de Setembro, 12  AGC Santa Clara;"
 }

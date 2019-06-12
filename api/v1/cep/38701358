@@ -1,12 +1,12 @@
 {
-  "cep": "38701358",
-  "logradouro": "Rua Três Corações",
-  "bairro": "Padre Eustáquio",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Eustáquio;",
+    "cep": "38701358",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Três Corações;"
 }

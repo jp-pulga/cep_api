@@ -1,12 +1,13 @@
 {
-  "cep": "39260970",
-  "logradouro": "AGC Buritis das Mulatas Rua Moisés Vieira 162",
-  "bairro": "Buritis das Mulatas",
-  "cidade": {
-    "nome": "Várzea da Palma",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Buritis das Mulatas;",
+    "cep": "39260970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Várzea da Palma"
+    },
+    "ibge": 3170800,
+    "logradouro": "Rua Moisés Vieira, 162  AGC Buritis das Mulatas;"
 }

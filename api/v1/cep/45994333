@@ -1,12 +1,12 @@
 {
-  "cep": "45994333",
-  "logradouro": "Rua Visconde de Cairu",
-  "bairro": "Jardim Liberdade",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Liberdade;",
+    "cep": "45994333",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Visconde de Cairu;"
 }

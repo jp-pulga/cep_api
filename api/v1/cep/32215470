@@ -1,12 +1,12 @@
 {
-  "cep": "32215470",
-  "logradouro": "Rua Toledo Pisa",
-  "bairro": "Jardim Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Industrial;",
+    "cep": "32215470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Toledo Pisa;"
 }

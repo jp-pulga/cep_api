@@ -1,12 +1,13 @@
 {
-  "cep": "47845970",
-  "logradouro": "AC Catolândia Rua Juracy de Lima Pinto s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Catolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47845970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Catolândia"
+    },
+    "ibge": 2907400,
+    "logradouro": "Rua Juracy de Lima Pinto, s\/n  AC Catolândia;"
 }

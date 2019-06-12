@@ -1,12 +1,13 @@
 {
-  "cep": "44780971",
-  "logradouro": "AGC Caldeirão do Mulato Rua Manoel Pereira da Silva s/n",
-  "bairro": "Caldeirão do Mulato",
-  "cidade": {
-    "nome": "Antônio Gonçalves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caldeirão do Mulato;",
+    "cep": "44780971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Antônio Gonçalves"
+    },
+    "ibge": 2901809,
+    "logradouro": "Rua Manoel Pereira da Silva, s\/n  AGC Caldeirão do Mulato;"
 }

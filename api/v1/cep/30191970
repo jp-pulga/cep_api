@@ -1,12 +1,12 @@
 {
-  "cep": "30191970",
-  "logradouro": "AC Barro Preto Rua Ouro Preto 350/356",
-  "bairro": "Barro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barro Preto;",
+    "cep": "30191970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ouro Preto, 350\/356  AC Barro Preto;"
 }

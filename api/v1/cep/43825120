@@ -1,12 +1,13 @@
 {
-  "cep": "43825120",
-  "logradouro": "Travessa Barão do Rio Branco",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "43825120",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 2906501,
+    "logradouro": "Travessa Barão do Rio Branco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "43815290",
-  "logradouro": "Travessa Boa Fé",
-  "bairro": "Nova Candeias",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Candeias;",
+    "cep": "43815290",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Travessa Boa Fé;"
 }

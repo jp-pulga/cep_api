@@ -1,12 +1,13 @@
 {
-  "cep": "46400971",
-  "logradouro": "AGC Juazeiro Rua Principal s/n",
-  "bairro": "Juazeiro",
-  "cidade": {
-    "nome": "Caetité",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Juazeiro;",
+    "cep": "46400971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caetité"
+    },
+    "ibge": 2905206,
+    "logradouro": "Rua Principal, s\/n  AGC Juazeiro;"
 }

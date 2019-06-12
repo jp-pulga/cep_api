@@ -1,12 +1,13 @@
 {
-  "cep": "37922970",
-  "logradouro": "AC Vargem Bonita Avenida São Paulo 175",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vargem Bonita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37922970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vargem Bonita"
+    },
+    "ibge": 3170602,
+    "logradouro": "Avenida São Paulo, 175  AC Vargem Bonita;"
 }

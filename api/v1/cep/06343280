@@ -1,12 +1,12 @@
 {
-  "cep": "06343280",
-  "logradouro": "Rua Sete Barras",
-  "bairro": "Chácara Granja Velha",
-  "cidade": {
-    "nome": "Carapicuíba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Granja Velha;",
+    "cep": "06343280",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Carapicuíba"
+    },
+    "logradouro": "Rua Sete Barras;"
 }

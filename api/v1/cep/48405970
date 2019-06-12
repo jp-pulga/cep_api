@@ -1,12 +1,13 @@
 {
-  "cep": "48405970",
-  "logradouro": "AC Banzaê Avenida Emancipação 448",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Banzaê",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48405970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Banzaê"
+    },
+    "ibge": 2902658,
+    "logradouro": "Avenida Emancipação, 448  AC Banzaê;"
 }

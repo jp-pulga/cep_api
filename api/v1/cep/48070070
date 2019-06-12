@@ -1,12 +1,13 @@
 {
-  "cep": "48070070",
-  "logradouro": "Rua Antônio Balbino",
-  "bairro": "Parque Vitória",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Vitória;",
+    "cep": "48070070",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Rua Antônio Balbino;"
 }

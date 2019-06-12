@@ -1,12 +1,12 @@
 {
-  "cep": "57307285",
-  "logradouro": "Rua Benjamim Freire de Amorim lado ímpar",
-  "bairro": "Baixa Grande",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Baixa Grande;",
+    "cep": "57307285",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Benjamim Freire de Amorim - lado ímpar;"
 }

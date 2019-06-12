@@ -1,12 +1,12 @@
 {
-  "cep": "39802385",
-  "logradouro": "Rua Viçosa",
-  "bairro": "Castro Pires",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castro Pires;",
+    "cep": "39802385",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "logradouro": "Rua Viçosa;"
 }

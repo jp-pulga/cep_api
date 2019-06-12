@@ -1,12 +1,13 @@
 {
-  "cep": "39803130",
-  "logradouro": "Avenida Aniceto Alves de Souza",
-  "bairro": "Doutor Laerte Laender",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Doutor Laerte Laender;",
+    "cep": "39803130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Aniceto Alves de Souza;"
 }

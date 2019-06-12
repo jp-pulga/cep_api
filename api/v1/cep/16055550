@@ -1,12 +1,12 @@
 {
-  "cep": "16055550",
-  "logradouro": "Rua Bartolomeu de Gusmão",
-  "bairro": "Aviação",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Aviação;",
+    "cep": "16055550",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Bartolomeu de Gusmão;"
 }

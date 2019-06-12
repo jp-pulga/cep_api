@@ -1,12 +1,12 @@
 {
-  "cep": "33146213",
-  "logradouro": "Beco Nova Esperança",
-  "bairro": "Três Corações",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Corações;",
+    "cep": "33146213",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Beco Nova Esperança;"
 }

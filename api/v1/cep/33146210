@@ -1,12 +1,12 @@
 {
-  "cep": "33146210",
-  "logradouro": "Rua das Dores",
-  "bairro": "Três Corações",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Corações;",
+    "cep": "33146210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua das Dores;"
 }

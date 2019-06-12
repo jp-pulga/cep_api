@@ -1,12 +1,12 @@
 {
-  "cep": "38441166",
-  "logradouro": "Rua Unaí",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "38441166",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Unaí;"
 }

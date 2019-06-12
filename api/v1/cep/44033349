@@ -1,12 +1,12 @@
 {
-  "cep": "44033349",
-  "logradouro": "Rua Campo Belo",
-  "bairro": "Campo Limpo",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Campo Limpo;",
+    "cep": "44033349",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Campo Belo;"
 }

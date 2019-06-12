@@ -1,12 +1,13 @@
 {
-  "cep": "43805100",
-  "logradouro": "Rua Ruy Barbosa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "43805100",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 2906501,
+    "logradouro": "Rua Ruy Barbosa;"
 }

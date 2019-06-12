@@ -1,12 +1,13 @@
 {
-  "cep": "48070030",
-  "logradouro": "Rua Rui Barbosa",
-  "bairro": "Parque Vitória",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Vitória;",
+    "cep": "48070030",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Rua Rui Barbosa;"
 }

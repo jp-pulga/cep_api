@@ -1,12 +1,12 @@
 {
-  "cep": "15807341",
-  "logradouro": "Rua Barra Mansa",
-  "bairro": "Residencial Sebastião Moraes",
-  "cidade": {
-    "nome": "Catanduva",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Sebastião Moraes;",
+    "cep": "15807341",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Catanduva"
+    },
+    "logradouro": "Rua Barra Mansa;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "18307120",
-  "logradouro": "Rua Profeta Batista da Silveira",
-  "bairro": "Vila Santa Rosa",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Rosa;",
+    "cep": "18307120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Profeta Batista da Silveira;"
 }

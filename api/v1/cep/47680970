@@ -1,12 +1,13 @@
 {
-  "cep": "47680970",
-  "logradouro": "AC Cocos Rua Coronel Fernandes Lopes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cocos",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47680970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cocos"
+    },
+    "ibge": 2908101,
+    "logradouro": "Rua Coronel Fernandes Lopes, s\/n  AC Cocos;"
 }

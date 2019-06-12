@@ -1,12 +1,13 @@
 {
-  "cep": "39800307",
-  "logradouro": "Avenida Alfredo Sá de 3588 ao fim - lado par",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "39800307",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Alfredo Sá - de 3588 ao fim - lado par;"
 }

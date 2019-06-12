@@ -1,12 +1,12 @@
 {
-  "cep": "45428000",
-  "logradouro": "Morro de São Paulo (Cairu)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Morro de São Paulo (Cairu)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Morro de São Paulo",
+    "cep": "45428000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cairu"
+    },
+    "ibge": 2905404
 }

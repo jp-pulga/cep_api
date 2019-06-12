@@ -1,12 +1,12 @@
 {
-  "cep": "45201458",
-  "logradouro": "Rua Urbano de Almeida Neto",
-  "bairro": "Cansanção",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cansanção;",
+    "cep": "45201458",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Urbano de Almeida Neto;"
 }

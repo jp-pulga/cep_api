@@ -1,12 +1,12 @@
 {
-  "cep": "16058545",
-  "logradouro": "Rua Carmino Barbosa de Almeida de 240/241 ao fim",
-  "bairro": "Petit-Trianon",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Petit-Trianon;",
+    "cep": "16058545",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Carmino Barbosa de Almeida - de 240\/241 ao fim;"
 }

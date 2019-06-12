@@ -1,12 +1,12 @@
 {
-  "cep": "44085530",
-  "logradouro": "Rua Catolândia",
-  "bairro": "SIM",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "SIM;",
+    "cep": "44085530",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Catolândia;"
 }

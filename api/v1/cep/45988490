@@ -1,12 +1,12 @@
 {
-  "cep": "45988490",
-  "logradouro": "Rua Canavieiras",
-  "bairro": "Nova América",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova América;",
+    "cep": "45988490",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Canavieiras;"
 }

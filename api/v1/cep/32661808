@@ -1,12 +1,12 @@
 {
-  "cep": "32661808",
-  "logradouro": "Rua Unai",
-  "bairro": "Campos Elíseos",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campos Elíseos;",
+    "cep": "32661808",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Unai;"
 }

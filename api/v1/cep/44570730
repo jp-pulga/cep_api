@@ -1,12 +1,12 @@
 {
-  "cep": "44570730",
-  "logradouro": "Rua Cidade de Amargosa",
-  "bairro": "Maria Preta",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Maria Preta;",
+    "cep": "44570730",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "logradouro": "Rua Cidade de Amargosa;"
 }

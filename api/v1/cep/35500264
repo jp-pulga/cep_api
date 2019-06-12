@@ -1,12 +1,12 @@
 {
-  "cep": "35500264",
-  "logradouro": "Rua Uberlândia",
-  "bairro": "Itaí",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itaí;",
+    "cep": "35500264",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Uberlândia;"
 }

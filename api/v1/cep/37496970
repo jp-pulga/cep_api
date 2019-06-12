@@ -1,12 +1,13 @@
 {
-  "cep": "37496970",
-  "logradouro": "AC Turvolândia Rua Padre Francisco Maria Simões 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Turvolândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37496970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Turvolândia"
+    },
+    "ibge": 3169802,
+    "logradouro": "Rua Padre Francisco Maria Simões, 44  AC Turvolândia;"
 }

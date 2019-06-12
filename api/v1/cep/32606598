@@ -1,12 +1,12 @@
 {
-  "cep": "32606598",
-  "logradouro": "Rua Uberaba",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "32606598",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Uberaba;"
 }

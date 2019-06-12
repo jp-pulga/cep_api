@@ -1,12 +1,13 @@
 {
-  "cep": "39878971",
-  "logradouro": "AGC São Pedro Rua Zacarias Ferreira de Souza 19",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Umburatiba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "39878971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Umburatiba"
+    },
+    "ibge": 3170305,
+    "logradouro": "Rua Zacarias Ferreira de Souza, 19  AGC São Pedro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46850973",
-  "logradouro": "AGC Iguape Praça Tertuliano Cerqueira s/n",
-  "bairro": "Iguapé",
-  "cidade": {
-    "nome": "Boa Vista do Tupim",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Iguapé;",
+    "cep": "46850973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Boa Vista do Tupim"
+    },
+    "ibge": 2903805,
+    "logradouro": "Praça Tertuliano Cerqueira, s\/n  AGC Iguape;"
 }

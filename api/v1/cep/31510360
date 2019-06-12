@@ -1,12 +1,12 @@
 {
-  "cep": "31510360",
-  "logradouro": "Rua Vargem Bonita",
-  "bairro": "Candelária",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Candelária;",
+    "cep": "31510360",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Vargem Bonita;"
 }

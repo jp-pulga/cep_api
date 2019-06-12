@@ -1,12 +1,13 @@
 {
-  "cep": "35183006",
-  "logradouro": "Avenida Amazonas de 802/803 a 998/999",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "35183006",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Amazonas - de 802\/803 a 998\/999;"
 }

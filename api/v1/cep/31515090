@@ -1,12 +1,12 @@
 {
-  "cep": "31515090",
-  "logradouro": "Rua Boa Vista",
-  "bairro": "São João Batista (Venda Nova)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João Batista (Venda Nova);",
+    "cep": "31515090",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Boa Vista;"
 }

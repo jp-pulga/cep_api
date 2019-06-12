@@ -1,12 +1,13 @@
 {
-  "cep": "38405236",
-  "logradouro": "Alameda João Leão",
-  "bairro": "Custódio Pereira",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Custódio Pereira;",
+    "cep": "38405236",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda João Leão;"
 }

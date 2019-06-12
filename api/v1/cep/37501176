@@ -1,12 +1,12 @@
 {
-  "cep": "37501176",
-  "logradouro": "Rodovia Itajubá-Maria da Fé",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha;",
+    "cep": "37501176",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rodovia Itajubá-Maria da Fé;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47811298",
-  "logradouro": "Rua Andaraí",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "47811298",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Andaraí;"
 }

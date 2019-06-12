@@ -1,12 +1,13 @@
 {
-  "cep": "45220970",
-  "logradouro": "AC Aiquara Rua Ademar Vieira 10 Quadra 45 Lote 179",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aiquara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45220970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Aiquara"
+    },
+    "ibge": 2900603,
+    "logradouro": "Rua Ademar Vieira, 10 Quadra 45 Lote 179  AC Aiquara;"
 }

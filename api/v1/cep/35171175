@@ -1,12 +1,12 @@
 {
-  "cep": "35171175",
-  "logradouro": "Rua Tocantins",
-  "bairro": "Universitário",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Universitário;",
+    "cep": "35171175",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Tocantins;"
 }

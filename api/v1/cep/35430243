@@ -1,12 +1,12 @@
 {
-  "cep": "35430243",
-  "logradouro": "Rua Barão do Pontal",
-  "bairro": "Alto da Boa Vista",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto da Boa Vista;",
+    "cep": "35430243",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua Barão do Pontal;"
 }

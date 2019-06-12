@@ -1,12 +1,12 @@
 {
-  "cep": "45020290",
-  "logradouro": "Rua Cândido Sales",
-  "bairro": "Recreio",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Recreio;",
+    "cep": "45020290",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Cândido Sales;"
 }

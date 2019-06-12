@@ -1,12 +1,13 @@
 {
-  "cep": "48350970",
-  "logradouro": "AC Aporá Rua Coronel Francelino 301",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aporá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48350970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Aporá"
+    },
+    "ibge": 2901908,
+    "logradouro": "Rua Coronel Francelino, 301  AC Aporá;"
 }

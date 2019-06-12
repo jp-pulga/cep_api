@@ -1,12 +1,13 @@
 {
-  "cep": "38044760",
-  "logradouro": "Avenida Antonio Carlos Guillaumon",
-  "bairro": "Distrito Industrial III",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial III;",
+    "cep": "38044760",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Antonio Carlos Guillaumon;"
 }

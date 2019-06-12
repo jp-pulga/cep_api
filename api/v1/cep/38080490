@@ -1,12 +1,13 @@
 {
-  "cep": "38080490",
-  "logradouro": "Alameda Juca Inácio",
-  "bairro": "Conjunto Guanabara",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Guanabara;",
+    "cep": "38080490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Alameda Juca Inácio;"
 }

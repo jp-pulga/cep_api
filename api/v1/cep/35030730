@@ -1,12 +1,12 @@
 {
-  "cep": "35030730",
-  "logradouro": "Rua Ubá",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Paulo;",
+    "cep": "35030730",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Ubá;"
 }

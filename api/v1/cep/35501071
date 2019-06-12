@@ -1,12 +1,12 @@
 {
-  "cep": "35501071",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "35501071",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

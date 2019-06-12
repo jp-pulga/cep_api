@@ -1,12 +1,13 @@
 {
-  "cep": "48410971",
-  "logradouro": "AGC Caxias Rua Santa Rita s/n",
-  "bairro": "Caxias",
-  "cidade": {
-    "nome": "Cícero Dantas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caxias;",
+    "cep": "48410971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cícero Dantas"
+    },
+    "ibge": 2907806,
+    "logradouro": "Rua Santa Rita, s\/n  AGC Caxias;"
 }

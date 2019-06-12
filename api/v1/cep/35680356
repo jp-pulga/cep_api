@@ -1,12 +1,12 @@
 {
-  "cep": "35680356",
-  "logradouro": "Rua Wenceslau Braz",
-  "bairro": "Cerqueira Lima",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cerqueira Lima;",
+    "cep": "35680356",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Wenceslau Braz;"
 }

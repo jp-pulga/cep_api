@@ -1,12 +1,12 @@
 {
-  "cep": "31748117",
-  "logradouro": "Rua Maria Virgínia de Jesus",
-  "bairro": "Jaqueline",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jaqueline;",
+    "cep": "31748117",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Maria Virgínia de Jesus;"
 }

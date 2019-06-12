@@ -1,12 +1,12 @@
 {
-  "cep": "15807311",
-  "logradouro": "Rua Barra do Rio Azul",
-  "bairro": "Parque Glória VI",
-  "cidade": {
-    "nome": "Catanduva",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Glória VI;",
+    "cep": "15807311",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Catanduva"
+    },
+    "logradouro": "Rua Barra do Rio Azul;"
 }

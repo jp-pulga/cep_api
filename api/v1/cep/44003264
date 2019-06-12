@@ -1,12 +1,12 @@
 {
-  "cep": "44003264",
-  "logradouro": "Rua Cairu",
-  "bairro": "Serraria Brasil",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serraria Brasil;",
+    "cep": "44003264",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Cairu;"
 }

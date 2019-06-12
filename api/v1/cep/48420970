@@ -1,12 +1,13 @@
 {
-  "cep": "48420970",
-  "logradouro": "AC Antas Rua Doutor Geraldo Goes 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48420970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Antas"
+    },
+    "ibge": 2901601,
+    "logradouro": "Rua Doutor Geraldo Goes, 18  AC Antas;"
 }

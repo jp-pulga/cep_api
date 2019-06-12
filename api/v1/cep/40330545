@@ -1,12 +1,12 @@
 {
-  "cep": "40330545",
-  "logradouro": "Travessa Aiquara",
-  "bairro": "IAPI",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "IAPI;",
+    "cep": "40330545",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Aiquara;"
 }

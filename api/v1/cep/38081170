@@ -1,12 +1,13 @@
 {
-  "cep": "38081170",
-  "logradouro": "Alameda Orlando Bruno",
-  "bairro": "Conjunto Frei Eugênio",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Frei Eugênio;",
+    "cep": "38081170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Alameda Orlando Bruno;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39803145",
-  "logradouro": "Avenida Doutor Júlio Rodrigues",
-  "bairro": "Marajoara",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marajoara;",
+    "cep": "39803145",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Doutor Júlio Rodrigues;"
 }

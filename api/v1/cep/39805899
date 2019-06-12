@@ -1,12 +1,13 @@
 {
-  "cep": "39805899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Teófilo Otoni",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Teófilo Otoni;",
+    "cep": "39805899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Área Rural;"
 }

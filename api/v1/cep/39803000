@@ -1,12 +1,13 @@
 {
-  "cep": "39803000",
-  "logradouro": "Avenida Alfredo Sá até 2668 - lado par",
-  "bairro": "Jardim das Acácias",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim das Acácias;",
+    "cep": "39803000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Alfredo Sá - até 2668 - lado par;"
 }

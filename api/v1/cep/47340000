@@ -1,12 +1,12 @@
 {
-  "cep": "47340000",
-  "logradouro": "Luís Viana (Casa Nova)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Luís Viana (Casa Nova)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Luís Viana",
+    "cep": "47340000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Casa Nova"
+    },
+    "ibge": 2907202
 }

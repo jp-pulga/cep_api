@@ -1,12 +1,11 @@
 {
-  "cep": "47960000",
-  "logradouro": "Angical",
-  "bairro": "",
-  "cidade": {
-    "nome": "Angical",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "47960000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Angical"
+    },
+    "ibge": 2901403
 }

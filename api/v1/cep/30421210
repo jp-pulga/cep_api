@@ -1,12 +1,12 @@
 {
-  "cep": "30421210",
-  "logradouro": "Rua Ubari",
-  "bairro": "Nova Suíssa",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Suíssa;",
+    "cep": "30421210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ubari;"
 }

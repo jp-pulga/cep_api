@@ -1,12 +1,12 @@
 {
-  "cep": "36033016",
-  "logradouro": "Travessa Raimundo Pereira Reis",
-  "bairro": "Teixeiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeiras;",
+    "cep": "36033016",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Travessa Raimundo Pereira Reis;"
 }

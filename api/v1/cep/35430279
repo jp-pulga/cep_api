@@ -1,12 +1,12 @@
 {
-  "cep": "35430279",
-  "logradouro": "Rua Tocantins",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "35430279",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua Tocantins;"
 }

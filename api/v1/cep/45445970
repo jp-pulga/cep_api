@@ -1,12 +1,13 @@
 {
-  "cep": "45445970",
-  "logradouro": "AC Camamu Rua Quintino Bocaiúva 163",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camamu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45445970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Camamu"
+    },
+    "ibge": 2905800,
+    "logradouro": "Rua Quintino Bocaiúva, 163  AC Camamu;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31730370",
-  "logradouro": "Rua Cipriano Barata",
-  "bairro": "Campo Alegre",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campo Alegre;",
+    "cep": "31730370",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Cipriano Barata;"
 }

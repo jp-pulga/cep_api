@@ -1,12 +1,13 @@
 {
-  "cep": "45638970",
-  "logradouro": "AC Coaraci Praça Presidente Vargas 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Coaraci",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45638970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Coaraci"
+    },
+    "ibge": 2908002,
+    "logradouro": "Praça Presidente Vargas, 2  AC Coaraci;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37900216",
-  "logradouro": "Travessa Toledos",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "37900216",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Travessa Toledos;"
 }

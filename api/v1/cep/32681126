@@ -1,12 +1,12 @@
 {
-  "cep": "32681126",
-  "logradouro": "Rua Tiradentes",
-  "bairro": "Distrito Industrial Paulo Camilo Norte",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial Paulo Camilo Norte;",
+    "cep": "32681126",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Tiradentes;"
 }

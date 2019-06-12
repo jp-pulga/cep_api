@@ -1,12 +1,13 @@
 {
-  "cep": "37190970",
-  "logradouro": "AC Três Pontas Rua Dona Isabel 73",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Pontas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37190970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Três Pontas"
+    },
+    "ibge": 3169406,
+    "logradouro": "Rua Dona Isabel, 73  AC Três Pontas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39205970",
-  "logradouro": "AC Três Marias Rua Matozinhos 121",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Três Marias",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39205970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Três Marias"
+    },
+    "ibge": 3169356,
+    "logradouro": "Rua Matozinhos, 121  AC Três Marias;"
 }

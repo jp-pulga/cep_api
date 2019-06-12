@@ -1,12 +1,13 @@
 {
-  "cep": "48990970",
-  "logradouro": "AC Andorinha Praça do Comércio 24 Quadra 09 Lote 228",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Andorinha",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48990970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Andorinha"
+    },
+    "ibge": 2901353,
+    "logradouro": "Praça do Comércio, 24 Quadra 09 Lote 228  AC Andorinha;"
 }

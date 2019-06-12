@@ -1,12 +1,12 @@
 {
-  "cep": "36772022",
-  "logradouro": "Avenida Veríssimo Mendonça",
-  "bairro": "Beira Rio",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Beira Rio;",
+    "cep": "36772022",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Avenida Veríssimo Mendonça;"
 }

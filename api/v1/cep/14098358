@@ -1,12 +1,12 @@
 {
-  "cep": "14098358",
-  "logradouro": "Rua Regina Aurea Barroso Reis",
-  "bairro": "Residencial Greenville",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Greenville;",
+    "cep": "14098358",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Regina Aurea Barroso Reis;"
 }

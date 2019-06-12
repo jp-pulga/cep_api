@@ -1,12 +1,12 @@
 {
-  "cep": "31080040",
-  "logradouro": "Rua Timóteo",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "31080040",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Timóteo;"
 }

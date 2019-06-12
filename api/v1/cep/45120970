@@ -1,12 +1,13 @@
 {
-  "cep": "45120970",
-  "logradouro": "AC Barra do Choça Praça Senhor do Bonfim 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra do Choça",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45120970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barra do Choça"
+    },
+    "ibge": 2902906,
+    "logradouro": "Praça Senhor do Bonfim, 11  AC Barra do Choça;"
 }

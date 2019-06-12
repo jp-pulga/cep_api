@@ -1,12 +1,13 @@
 {
-  "cep": "45325970",
-  "logradouro": "AC Brejões Rua Salvador Vaz 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brejões",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45325970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Brejões"
+    },
+    "ibge": 2904308,
+    "logradouro": "Rua Salvador Vaz, 11  AC Brejões;"
 }

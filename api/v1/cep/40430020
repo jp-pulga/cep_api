@@ -1,12 +1,12 @@
 {
-  "cep": "40430020",
-  "logradouro": "Praça Castro Alves",
-  "bairro": "Vila Ruy Barbosa",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Ruy Barbosa;",
+    "cep": "40430020",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Praça Castro Alves;"
 }

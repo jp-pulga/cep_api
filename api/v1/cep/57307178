@@ -1,12 +1,12 @@
 {
-  "cep": "57307178",
-  "logradouro": "Rua Maria Balbina de Oliveira",
-  "bairro": "Baixa Grande",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Baixa Grande;",
+    "cep": "57307178",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Antônio Carlos de Oliveira;"
 }

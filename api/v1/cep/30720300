@@ -1,12 +1,12 @@
 {
-  "cep": "30720300",
-  "logradouro": "Rua Três Pontas de 1600/1601 ao fim",
-  "bairro": "Carlos Prates",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carlos Prates;",
+    "cep": "30720300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Três Pontas - de 1600\/1601 ao fim;"
 }

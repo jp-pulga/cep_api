@@ -1,12 +1,12 @@
 {
-  "cep": "45992574",
-  "logradouro": "Rua Arataca",
-  "bairro": "Kaikan Sul",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Kaikan Sul;",
+    "cep": "45992574",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Arataca;"
 }

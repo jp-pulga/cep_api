@@ -1,12 +1,12 @@
 {
-  "cep": "36201076",
-  "logradouro": "Rua Wenceslau Brás",
-  "bairro": "Santa Tereza I",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza I;",
+    "cep": "36201076",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Wenceslau Brás;"
 }

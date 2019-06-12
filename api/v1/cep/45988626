@@ -1,12 +1,12 @@
 {
-  "cep": "45988626",
-  "logradouro": "Rua Caravelas",
-  "bairro": "Caminho do Mar II",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caminho do Mar II;",
+    "cep": "45988626",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Caravelas;"
 }

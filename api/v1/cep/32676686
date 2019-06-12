@@ -1,12 +1,12 @@
 {
-  "cep": "32676686",
-  "logradouro": "Rua Unaí",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "32676686",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Unaí;"
 }

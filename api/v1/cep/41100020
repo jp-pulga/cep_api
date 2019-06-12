@@ -1,12 +1,12 @@
 {
-  "cep": "41100020",
-  "logradouro": "Rua Canarana",
-  "bairro": "Pernambués",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pernambués;",
+    "cep": "41100020",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Canarana;"
 }

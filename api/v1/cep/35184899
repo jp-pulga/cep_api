@@ -1,12 +1,13 @@
 {
-  "cep": "35184899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Timóteo",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Área Rural de Timóteo;",
+    "cep": "35184899",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Área Rural;"
 }

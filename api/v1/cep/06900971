@@ -1,12 +1,12 @@
 {
-  "cep": "06900971",
-  "logradouro": "AGC Bairro do Cipó Rua Benedito Jandiro Soares 64",
-  "bairro": "Cipó",
-  "cidade": {
-    "nome": "Embu-Guaçu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cipó;",
+    "cep": "06900971",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Embu-Guaçu"
+    },
+    "logradouro": "Rua Benedito Jandiro Soares, 64  AGC Bairro do Cipó;"
 }

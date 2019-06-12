@@ -1,12 +1,12 @@
 {
-  "cep": "45211296",
-  "logradouro": "Rua Campo Belo",
-  "bairro": "KM IV",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "KM IV;",
+    "cep": "45211296",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Campo Belo;"
 }

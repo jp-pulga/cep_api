@@ -1,12 +1,12 @@
 {
-  "cep": "31140590",
-  "logradouro": "Rua Vazante",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "31140590",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Vazante;"
 }

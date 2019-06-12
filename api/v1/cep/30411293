@@ -1,12 +1,12 @@
 {
-  "cep": "30411293",
-  "logradouro": "Rua Três Corações",
-  "bairro": "Calafate",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Calafate;",
+    "cep": "30411293",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Três Corações;"
 }

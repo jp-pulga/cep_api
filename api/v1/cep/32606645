@@ -1,12 +1,12 @@
 {
-  "cep": "32606645",
-  "logradouro": "Rua Uberlândia lado ímpar",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "32606645",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Uberlândia - lado ímpar;"
 }

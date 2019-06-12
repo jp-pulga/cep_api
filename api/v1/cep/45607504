@@ -1,12 +1,12 @@
 {
-  "cep": "45607504",
-  "logradouro": "Rua São José",
-  "bairro": "Carlos Silva Andaraí",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Carlos Silva Andaraí;",
+    "cep": "45607504",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua São José;"
 }

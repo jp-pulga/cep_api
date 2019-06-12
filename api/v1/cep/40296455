@@ -1,12 +1,12 @@
 {
-  "cep": "40296455",
-  "logradouro": "Rua Idelfonso",
-  "bairro": "Candeal",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeal;",
+    "cep": "40296455",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Idelfonso;"
 }

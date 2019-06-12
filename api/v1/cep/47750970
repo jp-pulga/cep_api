@@ -1,12 +1,13 @@
 {
-  "cep": "47750970",
-  "logradouro": "AC Brejolândia Rua Agnelo Diniz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brejolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47750970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Brejolândia"
+    },
+    "ibge": 2904407,
+    "logradouro": "Rua Agnelo Diniz, s\/n  AC Brejolândia;"
 }

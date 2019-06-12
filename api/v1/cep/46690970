@@ -1,12 +1,13 @@
 {
-  "cep": "46690970",
-  "logradouro": "AC Abaíra Praça Camerino Novais 16",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Abaíra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46690970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Abaíra"
+    },
+    "ibge": 2900108,
+    "logradouro": "Praça Camerino Novais, 16  AC Abaíra;"
 }

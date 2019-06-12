@@ -1,12 +1,12 @@
 {
-  "cep": "40715230",
-  "logradouro": "Rua do Cipó",
-  "bairro": "Ilha Amarela",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ilha Amarela;",
+    "cep": "40715230",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua do Cipó;"
 }

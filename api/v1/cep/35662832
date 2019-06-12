@@ -1,12 +1,12 @@
 {
-  "cep": "35662832",
-  "logradouro": "Rua Barro Preto",
-  "bairro": "Irmãos Henriques",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Irmãos Henriques;",
+    "cep": "35662832",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua Barro Preto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31155580",
-  "logradouro": "Rua Álvaro Oliveira Roxo",
-  "bairro": "Maria Virgínia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Virgínia;",
+    "cep": "31155580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Álvaro Oliveira Roxo;"
 }

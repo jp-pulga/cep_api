@@ -1,12 +1,12 @@
 {
-  "cep": "45652412",
-  "logradouro": "Avenida Canavieiras lado par",
-  "bairro": "Teresópolis",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Teresópolis;",
+    "cep": "45652412",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Avenida Canavieiras - lado par;"
 }

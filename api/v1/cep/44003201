@@ -1,12 +1,12 @@
 {
-  "cep": "44003201",
-  "logradouro": "Rua Castro Alves até 541 - lado ímpar",
-  "bairro": "Serraria Brasil",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Serraria Brasil;",
+    "cep": "44003201",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Castro Alves - até 541 - lado ímpar;"
 }

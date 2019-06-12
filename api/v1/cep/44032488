@@ -1,12 +1,12 @@
 {
-  "cep": "44032488",
-  "logradouro": "Rua Belo Horizonte",
-  "bairro": "Campo Limpo",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Campo Limpo;",
+    "cep": "44032488",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Belo Horizonte;"
 }

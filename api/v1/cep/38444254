@@ -1,12 +1,12 @@
 {
-  "cep": "38444254",
-  "logradouro": "Rua Tupaciguara de 645/646 ao fim",
-  "bairro": "Ouro Verde",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Verde;",
+    "cep": "38444254",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua Tupaciguara - de 645\/646 ao fim;"
 }

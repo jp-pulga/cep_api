@@ -1,12 +1,13 @@
 {
-  "cep": "35338971",
-  "logradouro": "AGC São Sebastião do Batatal Rua Maria da Conceição 99",
-  "bairro": "São Sebastião do Batatal",
-  "cidade": {
-    "nome": "Ubaporanga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião do Batatal;",
+    "cep": "35338971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ubaporanga"
+    },
+    "ibge": 3170057,
+    "logradouro": "Rua Maria da Conceição, 99  AGC São Sebastião do Batatal;"
 }

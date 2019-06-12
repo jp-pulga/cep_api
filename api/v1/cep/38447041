@@ -1,12 +1,12 @@
 {
-  "cep": "38447041",
-  "logradouro": "Rua José Tiradentes de Lima",
-  "bairro": "Parque Flamboyants",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Flamboyants;",
+    "cep": "38447041",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Rua José Tiradentes de Lima;"
 }

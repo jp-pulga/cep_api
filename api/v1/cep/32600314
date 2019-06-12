@@ -1,12 +1,12 @@
 {
-  "cep": "32600314",
-  "logradouro": "Rua Tocantins até 398/399",
-  "bairro": "Brasiléia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasiléia;",
+    "cep": "32600314",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Tocantins - até 398\/399;"
 }

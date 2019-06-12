@@ -1,12 +1,13 @@
 {
-  "cep": "46445970",
-  "logradouro": "AC Carinhanha Avenida Santo Antônio 310",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Carinhanha",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46445970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Carinhanha"
+    },
+    "ibge": 2907103,
+    "logradouro": "Avenida Santo Antônio, 310  AC Carinhanha;"
 }

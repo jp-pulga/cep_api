@@ -1,12 +1,12 @@
 {
-  "cep": "37500256",
-  "logradouro": "Rua Luis Pereira de Toledo",
-  "bairro": "Oriente",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Oriente;",
+    "cep": "37500256",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Luis Pereira de Toledo;"
 }

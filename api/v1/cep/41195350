@@ -1,12 +1,12 @@
 {
-  "cep": "41195350",
-  "logradouro": "Travessa Santa Bárbara das Barreiras",
-  "bairro": "Barreiras",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiras;",
+    "cep": "41195350",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Santa Bárbara das Barreiras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35162652",
-  "logradouro": "Rua Três Marias",
-  "bairro": "Bom Jardim",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jardim;",
+    "cep": "35162652",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Três Marias;"
 }

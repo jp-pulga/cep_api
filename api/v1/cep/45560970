@@ -1,12 +1,13 @@
 {
-  "cep": "45560970",
-  "logradouro": "AC Barra do Rocha Rua Otávio Mangabeira 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barra do Rocha",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45560970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barra do Rocha"
+    },
+    "ibge": 2903102,
+    "logradouro": "Rua Otávio Mangabeira, 01  AC Barra do Rocha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "02556110",
-  "logradouro": "Travessa Barra do Ribeiro",
-  "bairro": "Vila Barbosa",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Barbosa;",
+    "cep": "02556110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Barra do Ribeiro;"
 }

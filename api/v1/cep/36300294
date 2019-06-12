@@ -1,12 +1,12 @@
 {
-  "cep": "36300294",
-  "logradouro": "Rua Três Marias",
-  "bairro": "Senhor dos Montes",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhor dos Montes;",
+    "cep": "36300294",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Três Marias;"
 }

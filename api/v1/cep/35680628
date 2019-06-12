@@ -1,12 +1,12 @@
 {
-  "cep": "35680628",
-  "logradouro": "Rua Gláucus Corradi Mello",
-  "bairro": "Três Marias",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Marias;",
+    "cep": "35680628",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Gláucus Corradi Mello;"
 }

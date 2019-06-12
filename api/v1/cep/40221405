@@ -1,12 +1,12 @@
 {
-  "cep": "40221405",
-  "logradouro": "Vila Cardeal da Silva",
-  "bairro": "Engenho Velho da Federação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Engenho Velho da Federação;",
+    "cep": "40221405",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Vila Cardeal da Silva;"
 }

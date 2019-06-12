@@ -1,12 +1,12 @@
 {
-  "cep": "37903206",
-  "logradouro": "Rua Timóteo",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "37903206",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Timóteo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35052801",
-  "logradouro": "Rua Angico",
-  "bairro": "Turmalina",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Turmalina;",
+    "cep": "35052801",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Angico;"
 }

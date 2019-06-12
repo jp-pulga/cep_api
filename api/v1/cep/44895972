@@ -1,12 +1,13 @@
 {
-  "cep": "44895972",
-  "logradouro": "AGC Gameleira do Barro Alto Avenida Durval Carneiro s/n",
-  "bairro": "Gameleira do Barro Alto",
-  "cidade": {
-    "nome": "Barro Alto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Gameleira do Barro Alto;",
+    "cep": "44895972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barro Alto"
+    },
+    "ibge": 2903235,
+    "logradouro": "Avenida Durval Carneiro, s\/n  AGC Gameleira do Barro Alto;"
 }

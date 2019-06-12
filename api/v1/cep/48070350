@@ -1,12 +1,13 @@
 {
-  "cep": "48070350",
-  "logradouro": "Rua Santa Luz",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "48070350",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Rua Santa Luz;"
 }

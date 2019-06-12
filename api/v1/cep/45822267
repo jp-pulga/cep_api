@@ -1,12 +1,12 @@
 {
-  "cep": "45822267",
-  "logradouro": "Rua Boa Vista",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "45822267",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Boa Vista;"
 }

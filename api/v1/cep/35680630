@@ -1,12 +1,12 @@
 {
-  "cep": "35680630",
-  "logradouro": "Rua Marieta D'Ângelo Nogueira",
-  "bairro": "Três Marias",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Marias;",
+    "cep": "35680630",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Marieta D'Ângelo Nogueira;"
 }

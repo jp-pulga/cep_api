@@ -1,12 +1,12 @@
 {
-  "cep": "38180134",
-  "logradouro": "Rua José Veríssimo Camelo",
-  "bairro": "Leblon",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Leblon;",
+    "cep": "38180134",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua José Veríssimo Camelo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40221275",
-  "logradouro": "Travessa Cardeal da Silva",
-  "bairro": "Engenho Velho da Federação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Engenho Velho da Federação;",
+    "cep": "40221275",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Cardeal da Silva;"
 }

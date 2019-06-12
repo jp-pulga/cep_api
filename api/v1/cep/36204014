@@ -1,12 +1,12 @@
 {
-  "cep": "36204014",
-  "logradouro": "Rua São Paulo",
-  "bairro": "Andaraí",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Andaraí;",
+    "cep": "36204014",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua São Paulo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46400972",
-  "logradouro": "AGC Monsenhor Osvaldo Magalhães Rua Doutor Clarismundo Pontes s/n",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Caetité",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "46400972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caetité"
+    },
+    "ibge": 2905206,
+    "logradouro": "Rua Doutor Clarismundo Pontes, s\/n  AGC Monsenhor Osvaldo Magalhães;"
 }

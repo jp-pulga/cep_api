@@ -1,12 +1,13 @@
 {
-  "cep": "38401602",
-  "logradouro": "Alameda Mario Casasanta Pereira",
-  "bairro": "Residencial Gramado",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Gramado;",
+    "cep": "38401602",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Mario Casasanta Pereira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40296295",
-  "logradouro": "Rua Monsenhor Antonio Rosa",
-  "bairro": "Candeal",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeal;",
+    "cep": "40296295",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Monsenhor Antonio Rosa;"
 }

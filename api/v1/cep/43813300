@@ -1,12 +1,13 @@
 {
-  "cep": "43813300",
-  "logradouro": "Rodovia BA-522",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "43813300",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 2906501,
+    "logradouro": "Rodovia BA-522;"
 }

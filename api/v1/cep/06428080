@@ -1,12 +1,12 @@
 {
-  "cep": "06428080",
-  "logradouro": "Alameda Andorinha",
-  "bairro": "Morada dos Pássaros",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Morada dos Pássaros;",
+    "cep": "06428080",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Alameda Andorinha;"
 }

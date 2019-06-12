@@ -1,12 +1,12 @@
 {
-  "cep": "45028890",
-  "logradouro": "Rua Antonio Gonçalves da Silva",
-  "bairro": "Candeias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeias;",
+    "cep": "45028890",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Antonio Gonçalves da Silva;"
 }

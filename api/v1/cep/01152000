@@ -1,12 +1,12 @@
 {
-  "cep": "01152000",
-  "logradouro": "Rua Barra Funda",
-  "bairro": "Barra Funda",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Barra Funda;",
+    "cep": "01152000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barra Funda;"
 }

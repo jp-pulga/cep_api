@@ -1,12 +1,12 @@
 {
-  "cep": "14094240",
-  "logradouro": "Rua Balduíno de Souza Barros",
-  "bairro": "Residencial Parque dos Servidores",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Parque dos Servidores;",
+    "cep": "14094240",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Balduíno de Souza Barros;"
 }

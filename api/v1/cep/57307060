@@ -1,12 +1,12 @@
 {
-  "cep": "57307060",
-  "logradouro": "Rua Francisco Otílio dos Santos",
-  "bairro": "Baixa Grande",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Baixa Grande;",
+    "cep": "57307060",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Francisco Otílio dos Santos;"
 }

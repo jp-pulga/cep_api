@@ -1,12 +1,13 @@
 {
-  "cep": "48005190",
-  "logradouro": "Rua Deocleciano Barbosa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48005190",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Rua Deocleciano Barbosa;"
 }

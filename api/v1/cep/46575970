@@ -1,12 +1,13 @@
 {
-  "cep": "46575970",
-  "logradouro": "AC Caturama Praça João Borges s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caturama",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46575970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caturama"
+    },
+    "ibge": 2907558,
+    "logradouro": "Praça João Borges, s\/n  AC Caturama;"
 }

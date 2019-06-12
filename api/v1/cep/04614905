@@ -1,12 +1,12 @@
 {
-  "cep": "04614905",
-  "logradouro": "Edifício Fiorela Rua Morais de Barros 822",
-  "bairro": "Campo Belo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Campo Belo;",
+    "cep": "04614905",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Morais de Barros, 822  Edifício Fiorela;"
 }

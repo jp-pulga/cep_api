@@ -1,12 +1,12 @@
 {
-  "cep": "04613060",
-  "logradouro": "Rua Afonso Bandeira de Melo",
-  "bairro": "Campo Belo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Campo Belo;",
+    "cep": "04613060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Afonso Bandeira de Melo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33146245",
-  "logradouro": "Avenida Mangueiras",
-  "bairro": "Três Corações",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Corações;",
+    "cep": "33146245",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Avenida Mangueiras;"
 }

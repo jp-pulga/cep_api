@@ -1,12 +1,12 @@
 {
-  "cep": "32280110",
-  "logradouro": "Rua Rio Urucuia",
-  "bairro": "Riacho das Pedras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Riacho das Pedras;",
+    "cep": "32280110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Rio Urucuia;"
 }

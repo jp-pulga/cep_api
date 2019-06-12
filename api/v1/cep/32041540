@@ -1,12 +1,12 @@
 {
-  "cep": "32041540",
-  "logradouro": "Avenida Virgínia Graciosi Pacelli",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "32041540",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Avenida Virgínia Graciosi Pacelli;"
 }

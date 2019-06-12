@@ -1,12 +1,13 @@
 {
-  "cep": "45675970",
-  "logradouro": "AC Aurelino Leal Avenida Presidente Médici 264",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aurelino Leal",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45675970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Aurelino Leal"
+    },
+    "ibge": 2902401,
+    "logradouro": "Avenida Presidente Médici, 264  AC Aurelino Leal;"
 }

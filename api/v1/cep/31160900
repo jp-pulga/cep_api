@@ -1,12 +1,12 @@
 {
-  "cep": "31160900",
-  "logradouro": "Minas Shopping Avenida Cristiano Machado 4000",
-  "bairro": "União",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "União;",
+    "cep": "31160900",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida Cristiano Machado, 4000  Minas Shopping;"
 }

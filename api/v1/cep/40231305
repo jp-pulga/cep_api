@@ -1,12 +1,12 @@
 {
-  "cep": "40231305",
-  "logradouro": "Avenida Cardeal da Silva lado ímpar",
-  "bairro": "Federação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Federação;",
+    "cep": "40231305",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Cardeal da Silva - lado ímpar;"
 }

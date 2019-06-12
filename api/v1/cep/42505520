@@ -1,12 +1,12 @@
 {
-  "cep": "42505520",
-  "logradouro": "Rua dos Canudos",
-  "bairro": "Ponta de Nossa Senhora (Ilha dos Frades)",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ponta de Nossa Senhora (Ilha dos Frades);",
+    "cep": "42505520",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua dos Canudos;"
 }

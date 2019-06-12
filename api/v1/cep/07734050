@@ -1,12 +1,12 @@
 {
-  "cep": "07734050",
-  "logradouro": "Rua Sete Barras (Prq Suiça)",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Caieiras",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "07734050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caieiras"
+    },
+    "logradouro": "Rua Sete Barras (Prq Suiça);"
 }

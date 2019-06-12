@@ -1,12 +1,11 @@
 {
-  "cep": "45157000",
-  "logradouro": "Cândido Sales",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cândido Sales",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45157000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cândido Sales"
+    },
+    "ibge": 2906709
 }

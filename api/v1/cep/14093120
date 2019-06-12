@@ -1,12 +1,12 @@
 {
-  "cep": "14093120",
-  "logradouro": "Rua Ademar de Barros",
-  "bairro": "Vila Abranches",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Abranches;",
+    "cep": "14093120",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Ademar de Barros;"
 }

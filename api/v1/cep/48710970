@@ -1,12 +1,13 @@
 {
-  "cep": "48710970",
-  "logradouro": "AC Candeal Rua Senhor do Bonfim 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Candeal",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48710970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeal"
+    },
+    "ibge": 2906402,
+    "logradouro": "Rua Senhor do Bonfim, 25  AC Candeal;"
 }

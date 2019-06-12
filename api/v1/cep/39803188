@@ -1,12 +1,13 @@
 {
-  "cep": "39803188",
-  "logradouro": "Avenida Ione Lewick",
-  "bairro": "Filadélfia",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Filadélfia;",
+    "cep": "39803188",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Ione Lewick;"
 }

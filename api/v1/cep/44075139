@@ -1,12 +1,12 @@
 {
-  "cep": "44075139",
-  "logradouro": "Travessa Visconde de Cairu",
-  "bairro": "Ponto Central",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ponto Central;",
+    "cep": "44075139",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Visconde de Cairu;"
 }

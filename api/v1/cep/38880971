@@ -1,12 +1,13 @@
 {
-  "cep": "38880971",
-  "logradouro": "AGC Espinha de Peixe Avenida Ana Dutra 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tiros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38880971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Tiros"
+    },
+    "ibge": 3168903,
+    "logradouro": "Avenida Ana Dutra, 86  AGC Espinha de Peixe;"
 }

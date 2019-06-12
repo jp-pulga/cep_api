@@ -1,12 +1,13 @@
 {
-  "cep": "39450973",
-  "logradouro": "AGC Brejo do Mutambal Rua Miguel Arcanjo Lopes 45",
-  "bairro": "Brejo do Mutambal",
-  "cidade": {
-    "nome": "Varzelândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brejo do Mutambal;",
+    "cep": "39450973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varzelândia"
+    },
+    "ibge": 3170909,
+    "logradouro": "Rua Miguel Arcanjo Lopes, 45  AGC Brejo do Mutambal;"
 }

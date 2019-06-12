@@ -1,12 +1,12 @@
 {
-  "cep": "64378970",
-  "logradouro": "AC São Miguel da Baixa Grande Avenida Júlio Teixeira s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel da Baixa Grande",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "64378970",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "São Miguel da Baixa Grande"
+    },
+    "logradouro": "Avenida Júlio Teixeira, s\/n  AC São Miguel da Baixa Grande;"
 }

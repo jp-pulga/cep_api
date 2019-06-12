@@ -1,12 +1,13 @@
 {
-  "cep": "38081539",
-  "logradouro": "Avenida Claricinda Alves de Rezende de 551/552 a 1348/1349",
-  "bairro": "Jardim do Lago",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim do Lago;",
+    "cep": "38081539",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Claricinda Alves de Rezende - de 551\/552 a 1348\/1349;"
 }

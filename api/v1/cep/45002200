@@ -1,12 +1,12 @@
 {
-  "cep": "45002200",
-  "logradouro": "Travessa Boa Nova",
-  "bairro": "Guarani",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Guarani;",
+    "cep": "45002200",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Travessa Boa Nova;"
 }

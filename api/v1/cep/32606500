@@ -1,12 +1,12 @@
 {
-  "cep": "32606500",
-  "logradouro": "Rua Ubá",
-  "bairro": "Bom Retiro",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Retiro;",
+    "cep": "32606500",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Ubá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45989362",
-  "logradouro": "Rua Amargosa",
-  "bairro": "Nanuque",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nanuque;",
+    "cep": "45989362",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Amargosa;"
 }

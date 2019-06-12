@@ -1,12 +1,13 @@
 {
-  "cep": "37563971",
-  "logradouro": "AC Tocos do Mogi Praça Padre Felipe da Rosa 146",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tocos do Moji",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37563971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Tocos do Moji"
+    },
+    "ibge": 3169059,
+    "logradouro": "Praça Padre Felipe da Rosa, 146  AC Tocos do Mogi;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45608226",
-  "logradouro": "Rua Cafarnaum",
-  "bairro": "Vila Anália",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Anália;",
+    "cep": "45608226",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Cafarnaum;"
 }

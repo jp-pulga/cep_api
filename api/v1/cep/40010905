@@ -1,12 +1,12 @@
 {
-  "cep": "40010905",
-  "logradouro": "Edifício Visconde de Cairu Avenida Estados Unidos 45",
-  "bairro": "Comércio",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Comércio;",
+    "cep": "40010905",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Estados Unidos, 45  Edifício Visconde de Cairu;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44230970",
-  "logradouro": "AC Amélia Rodrigues Praça da Matriz 7",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Amélia Rodrigues",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44230970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Amélia Rodrigues"
+    },
+    "ibge": 2901106,
+    "logradouro": "Praça da Matriz, 7  AC Amélia Rodrigues;"
 }

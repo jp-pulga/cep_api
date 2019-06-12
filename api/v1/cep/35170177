@@ -1,12 +1,12 @@
 {
-  "cep": "35170177",
-  "logradouro": "Rua Três Corações",
-  "bairro": "Melo Viana",
-  "cidade": {
-    "nome": "Coronel Fabriciano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Melo Viana;",
+    "cep": "35170177",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Coronel Fabriciano"
+    },
+    "logradouro": "Rua Três Corações;"
 }

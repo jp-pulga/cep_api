@@ -1,12 +1,12 @@
 {
-  "cep": "16010090",
-  "logradouro": "Rua Bandeirantes até 1131/1132",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "16010090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Bandeirantes - até 1131\/1132;"
 }

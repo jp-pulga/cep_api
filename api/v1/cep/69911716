@@ -1,12 +1,12 @@
 {
-  "cep": "69911716",
-  "logradouro": "Rua Boa União de 521/522 ao fim",
-  "bairro": "Bahia Nova",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Bahia Nova;",
+    "cep": "69911716",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Boa União - de 521\/522 ao fim;"
 }

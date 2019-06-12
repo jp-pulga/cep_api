@@ -1,12 +1,12 @@
 {
-  "cep": "40210901",
-  "logradouro": "Banco Central do Brasil Avenida Anita Garibaldi 1211",
-  "bairro": "Federação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Federação;",
+    "cep": "40210901",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Anita Garibaldi, 1211  Banco Central do Brasil;"
 }

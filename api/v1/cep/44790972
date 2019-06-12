@@ -1,12 +1,13 @@
 {
-  "cep": "44790972",
-  "logradouro": "AGC Brejo Grande Rua Principal s/n",
-  "bairro": "Brejo Grande",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brejo Grande;",
+    "cep": "44790972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Rua Principal, s\/n  AGC Brejo Grande;"
 }

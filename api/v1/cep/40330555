@@ -1,12 +1,12 @@
 {
-  "cep": "40330555",
-  "logradouro": "Travessa Anguera",
-  "bairro": "IAPI",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "IAPI;",
+    "cep": "40330555",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Anguera;"
 }

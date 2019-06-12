@@ -1,12 +1,13 @@
 {
-  "cep": "39804006",
-  "logradouro": "Avenida Agnaldo Neiva",
-  "bairro": "Jardim das Acácias",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim das Acácias;",
+    "cep": "39804006",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Agnaldo Neiva;"
 }

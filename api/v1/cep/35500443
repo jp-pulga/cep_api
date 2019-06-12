@@ -1,12 +1,12 @@
 {
-  "cep": "35500443",
-  "logradouro": "Rua Wenceslau Braz",
-  "bairro": "Porto Velho",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Porto Velho;",
+    "cep": "35500443",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Wenceslau Braz;"
 }

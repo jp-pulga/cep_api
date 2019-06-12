@@ -1,12 +1,13 @@
 {
-  "cep": "38150970",
-  "logradouro": "AC Veríssimo Praça Vereador Fernando S. Melo 535",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Veríssimo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38150970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Veríssimo"
+    },
+    "ibge": 3171105,
+    "logradouro": "Praça Vereador Fernando S. Melo, 535  AC Veríssimo;"
 }

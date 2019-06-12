@@ -1,12 +1,13 @@
 {
-  "cep": "38056010",
-  "logradouro": "Avenida Alceu Lyrio",
-  "bairro": "Conjunto Alfredo Freire",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Alfredo Freire;",
+    "cep": "38056010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Alceu Lyrio;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "47560000",
-  "logradouro": "Brotas de Macaúbas",
-  "bairro": "",
-  "cidade": {
-    "nome": "Brotas de Macaúbas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "47560000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Brotas de Macaúbas"
+    },
+    "ibge": 2904506
 }

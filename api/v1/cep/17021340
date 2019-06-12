@@ -1,12 +1,12 @@
 {
-  "cep": "17021340",
-  "logradouro": "Rua Professora Aracy Santinho Barbieri",
-  "bairro": "Jardim Godoy",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Godoy;",
+    "cep": "17021340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Professora Aracy Santinho Barbieri;"
 }

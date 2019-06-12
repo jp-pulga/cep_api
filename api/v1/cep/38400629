@@ -1,12 +1,12 @@
 {
-  "cep": "38400629",
-  "logradouro": "Rua Tupaciguara",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "38400629",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Tupaciguara;"
 }

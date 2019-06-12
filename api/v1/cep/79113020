@@ -1,12 +1,12 @@
 {
-  "cep": "79113020",
-  "logradouro": "Rua Barra do Mendes",
-  "bairro": "Panamá",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Panamá;",
+    "cep": "79113020",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Rua Barra do Mendes;"
 }

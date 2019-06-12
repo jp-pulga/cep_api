@@ -1,12 +1,12 @@
 {
-  "cep": "41192050",
-  "logradouro": "Rua Abaré (Cj Cabula IV)",
-  "bairro": "Narandiba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Narandiba;",
+    "cep": "41192050",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Abaré (Cj Cabula IV);"
 }

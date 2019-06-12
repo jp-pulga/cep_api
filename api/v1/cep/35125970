@@ -1,12 +1,13 @@
 {
-  "cep": "35125970",
-  "logradouro": "AC Tumiritinga Avenida Amazonas 854",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tumiritinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35125970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Tumiritinga"
+    },
+    "ibge": 3169505,
+    "logradouro": "Avenida Amazonas, 854  AC Tumiritinga;"
 }

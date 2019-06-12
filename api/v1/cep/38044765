@@ -1,12 +1,12 @@
 {
-  "cep": "38044765",
-  "logradouro": "Rua Volta Grande",
-  "bairro": "Distrito Industrial III",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial III;",
+    "cep": "38044765",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Volta Grande;"
 }

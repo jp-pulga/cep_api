@@ -1,12 +1,13 @@
 {
-  "cep": "45157970",
-  "logradouro": "AC Cândido Sales Praça Nações Unidas 48",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cândido Sales",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45157970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cândido Sales"
+    },
+    "ibge": 2906709,
+    "logradouro": "Praça Moisés Félix dos Santos, 48  AC Cândido Sales;"
 }

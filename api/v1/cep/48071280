@@ -1,12 +1,13 @@
 {
-  "cep": "48071280",
-  "logradouro": "Rua Nova Brasília",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "48071280",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Rua Nova Brasília;"
 }

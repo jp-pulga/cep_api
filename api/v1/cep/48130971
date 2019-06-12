@@ -1,12 +1,13 @@
 {
-  "cep": "48130971",
-  "logradouro": "AGC Olhos D'Água de Aramari Praça Nossa Senhora da Conceição 43",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aramari",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48130971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Aramari"
+    },
+    "ibge": 2902203,
+    "logradouro": "Praça Nossa Senhora da Conceição, 43  AGC Olhos D'Água de Aramari;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32670080",
-  "logradouro": "Rua Virgínia",
-  "bairro": "Filadélfia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Filadélfia;",
+    "cep": "32670080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Virgínia;"
 }

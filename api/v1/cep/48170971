@@ -1,12 +1,13 @@
 {
-  "cep": "48170971",
-  "logradouro": "AGC Barra Rua Oscar Santana s/n",
-  "bairro": "Barra",
-  "cidade": {
-    "nome": "Água Fria",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Água Fria;",
+    "cep": "48170971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Água Fria"
+    },
+    "ibge": 2900405,
+    "logradouro": "Rua Oscar Santana, s\/n  AGC Barra;"
 }

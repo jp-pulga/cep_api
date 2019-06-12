@@ -1,12 +1,13 @@
 {
-  "cep": "38066070",
-  "logradouro": "Avenida Ceres",
-  "bairro": "Vila Olímpica",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Olímpica;",
+    "cep": "38066070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Ceres;"
 }

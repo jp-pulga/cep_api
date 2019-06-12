@@ -1,12 +1,12 @@
 {
-  "cep": "38400618",
-  "logradouro": "Rua Tupaciguara",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "38400618",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Tupaciguara;"
 }

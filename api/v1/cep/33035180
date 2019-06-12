@@ -1,12 +1,12 @@
 {
-  "cep": "33035180",
-  "logradouro": "Avenida Wenceslau Braz",
-  "bairro": "Boa Esperança",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Boa Esperança;",
+    "cep": "33035180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Avenida Wenceslau Braz;"
 }

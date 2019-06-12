@@ -1,12 +1,12 @@
 {
-  "cep": "31155610",
-  "logradouro": "Rua Tenente Senna",
-  "bairro": "Maria Virgínia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Virgínia;",
+    "cep": "31155610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Tenente Senna;"
 }

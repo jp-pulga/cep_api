@@ -1,12 +1,12 @@
 {
-  "cep": "44075485",
-  "logradouro": "Rua Bernardino Oliveira Bastos",
-  "bairro": "Ponto Central",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ponto Central;",
+    "cep": "44075485",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Bernardino Oliveira Bastos;"
 }

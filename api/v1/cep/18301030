@@ -1,12 +1,12 @@
 {
-  "cep": "18301030",
-  "logradouro": "Rua Bahia",
-  "bairro": "Vila Bela Vista",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Bela Vista;",
+    "cep": "18301030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Bahia;"
 }

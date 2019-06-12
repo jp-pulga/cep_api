@@ -1,12 +1,12 @@
 {
-  "cep": "07863140",
-  "logradouro": "Rua Antonio Vieira Barradas",
-  "bairro": "Estância Green Valley",
-  "cidade": {
-    "nome": "Franco da Rocha",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Estância Green Valley;",
+    "cep": "07863140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franco da Rocha"
+    },
+    "logradouro": "Rua Antonio Vieira Barradas;"
 }

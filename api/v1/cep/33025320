@@ -1,12 +1,12 @@
 {
-  "cep": "33025320",
-  "logradouro": "Rua Rio Tocantins",
-  "bairro": "Santa Matilde",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Matilde;",
+    "cep": "33025320",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Rio Tocantins;"
 }

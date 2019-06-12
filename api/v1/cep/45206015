@@ -1,12 +1,12 @@
 {
-  "cep": "45206015",
-  "logradouro": "Rua Professor Mauro Barreiras",
-  "bairro": "Pompílio Sampaio",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pompílio Sampaio;",
+    "cep": "45206015",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Professor Mauro Barreiras;"
 }

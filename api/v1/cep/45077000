@@ -1,12 +1,12 @@
 {
-  "cep": "45077000",
-  "logradouro": "Avenida Brumado",
-  "bairro": "Zabelê",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Zabelê;",
+    "cep": "45077000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Brumado;"
 }

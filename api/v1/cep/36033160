@@ -1,12 +1,12 @@
 {
-  "cep": "36033160",
-  "logradouro": "Rua Joaquim D'Almeida (Jd Laranjeiras)",
-  "bairro": "Teixeiras",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Teixeiras;",
+    "cep": "36033160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Joaquim D'Almeida (Jd Laranjeiras);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35700380",
-  "logradouro": "Rua Mestre João Timóteo",
-  "bairro": "Jardim Arizona",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Arizona;",
+    "cep": "35700380",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Mestre João Timóteo;"
 }

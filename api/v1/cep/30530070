@@ -1,12 +1,12 @@
 {
-  "cep": "30530070",
-  "logradouro": "Rua Barão de Varginha",
-  "bairro": "Alto dos Pinheiros",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto dos Pinheiros;",
+    "cep": "30530070",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Barão de Varginha;"
 }

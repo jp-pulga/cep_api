@@ -1,12 +1,11 @@
 {
-  "cep": "46400000",
-  "logradouro": "Caetité",
-  "bairro": "",
-  "cidade": {
-    "nome": "Caetité",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "46400000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caetité"
+    },
+    "ibge": 2905206
 }

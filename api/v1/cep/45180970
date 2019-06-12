@@ -1,12 +1,13 @@
 {
-  "cep": "45180970",
-  "logradouro": "AC Anagé Avenida Tiradentes 80 Quadra 21 Lote 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anagé",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45180970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Anagé"
+    },
+    "ibge": 2901205,
+    "logradouro": "Avenida Tiradentes, 80 Quadra 21 Lote 25  AC Anagé;"
 }

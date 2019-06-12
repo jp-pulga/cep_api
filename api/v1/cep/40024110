@@ -1,12 +1,12 @@
 {
-  "cep": "40024110",
-  "logradouro": "Rua Visconde de Ouro Preto",
-  "bairro": "Barroquinha",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barroquinha;",
+    "cep": "40024110",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Visconde de Ouro Preto;"
 }

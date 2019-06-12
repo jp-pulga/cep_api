@@ -1,12 +1,12 @@
 {
-  "cep": "31050710",
-  "logradouro": "Rua Virginópolis",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "31050710",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Virginópolis;"
 }

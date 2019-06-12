@@ -1,12 +1,12 @@
 {
-  "cep": "58053030",
-  "logradouro": "Rua Rita Alves Batista",
-  "bairro": "Água Fria",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Água Fria;",
+    "cep": "58053030",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Rita Alves Batista;"
 }

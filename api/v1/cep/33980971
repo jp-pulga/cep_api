@@ -1,12 +1,13 @@
 {
-  "cep": "33980971",
-  "logradouro": "AC Taquaraçu de Minas Rua Humberto Marques 114",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taquaraçu de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33980971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Taquaraçu de Minas"
+    },
+    "ibge": 3168309,
+    "logradouro": "Rua Humberto Marques, 114  AC Taquaraçu de Minas;"
 }

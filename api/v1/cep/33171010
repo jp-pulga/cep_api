@@ -1,12 +1,12 @@
 {
-  "cep": "33171010",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Luxemburgo",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Luxemburgo;",
+    "cep": "33171010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

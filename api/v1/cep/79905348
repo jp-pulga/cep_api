@@ -1,12 +1,12 @@
 {
-  "cep": "79905348",
-  "logradouro": "Rua Gerônimo Belmonte",
-  "bairro": "Bairro da Granja",
-  "cidade": {
-    "nome": "Ponta Porã",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Bairro da Granja;",
+    "cep": "79905348",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Ponta Porã"
+    },
+    "logradouro": "Rua Gerônimo Belmonte;"
 }

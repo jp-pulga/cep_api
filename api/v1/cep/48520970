@@ -1,12 +1,13 @@
 {
-  "cep": "48520970",
-  "logradouro": "AC Canudos Avenida JK 97",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Canudos",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48520970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Canudos"
+    },
+    "ibge": 2906824,
+    "logradouro": "Avenida JK, 97  AC Canudos;"
 }

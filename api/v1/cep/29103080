@@ -1,12 +1,12 @@
 {
-  "cep": "29103080",
-  "logradouro": "Rua Bagdá",
-  "bairro": "Araçás",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Araçás;",
+    "cep": "29103080",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Bagdá;"
 }

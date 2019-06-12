@@ -1,12 +1,12 @@
 {
-  "cep": "07161050",
-  "logradouro": "Rua Barra dos Mendes",
-  "bairro": "Jardim IV Centenário",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim IV Centenário;",
+    "cep": "07161050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Barra dos Mendes;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48680971",
-  "logradouro": "AGC Icozeira Praça José Borges do Vale s/n",
-  "bairro": "Icozeira",
-  "cidade": {
-    "nome": "Abaré",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Icozeira;",
+    "cep": "48680971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Abaré"
+    },
+    "ibge": 2900207,
+    "logradouro": "Praça José Borges do Vale, s\/n  AGC Icozeira;"
 }

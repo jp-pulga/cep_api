@@ -1,12 +1,12 @@
 {
-  "cep": "31742072",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Floramar",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Floramar;",
+    "cep": "31742072",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "47806160",
-  "logradouro": "Rua Belo Campo",
-  "bairro": "Aratu",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Aratu;",
+    "cep": "47806160",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Belo Campo;"
 }

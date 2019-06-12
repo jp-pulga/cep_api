@@ -1,12 +1,12 @@
 {
-  "cep": "29315783",
-  "logradouro": "Rua Antônio Gonçalves dos Santos",
-  "bairro": "Rui Pinto Bandeira",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Rui Pinto Bandeira;",
+    "cep": "29315783",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Antônio Gonçalves dos Santos;"
 }

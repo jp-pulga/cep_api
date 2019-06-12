@@ -1,12 +1,13 @@
 {
-  "cep": "38411242",
-  "logradouro": "Alameda do Regresso",
-  "bairro": "Jardim Inconfidência",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Inconfidência;",
+    "cep": "38411242",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda do Regresso;"
 }

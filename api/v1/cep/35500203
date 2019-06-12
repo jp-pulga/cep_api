@@ -1,12 +1,12 @@
 {
-  "cep": "35500203",
-  "logradouro": "Rua Urucuia",
-  "bairro": "São Luís",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Luís;",
+    "cep": "35500203",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Urucuia;"
 }

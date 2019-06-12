@@ -1,12 +1,12 @@
 {
-  "cep": "30521020",
-  "logradouro": "Avenida do Canal",
-  "bairro": "Virgínia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Virgínia;",
+    "cep": "30521020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Avenida do Canal;"
 }

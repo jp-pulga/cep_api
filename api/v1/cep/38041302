@@ -1,12 +1,13 @@
 {
-  "cep": "38041302",
-  "logradouro": "Avenida Um",
-  "bairro": "Loteamento Isabel do Nascimento",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Loteamento Isabel do Nascimento;",
+    "cep": "38041302",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Bittencourt Leon Denis de Oliveira;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35380971",
-  "logradouro": "ACS Cardoso Rua Geraldo Marcolino Luna 25",
-  "bairro": "Cardoso",
-  "cidade": {
-    "nome": "Urucânia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cardoso;",
+    "cep": "35380971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Urucânia"
+    },
+    "ibge": 3170503,
+    "logradouro": "Rua Geraldo Marcolino Luna, 25  ACS Cardoso;"
 }

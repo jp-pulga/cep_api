@@ -1,12 +1,12 @@
 {
-  "cep": "38308192",
-  "logradouro": "Rua Ubaldo da Rocha Catuta",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "38308192",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Rua Ubaldo da Rocha Catuta;"
 }

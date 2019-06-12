@@ -1,12 +1,13 @@
 {
-  "cep": "48410972",
-  "logradouro": "AGC Trindade Praça Nossa Senhora do Carmo s/n",
-  "bairro": "Trindade",
-  "cidade": {
-    "nome": "Cícero Dantas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Trindade;",
+    "cep": "48410972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cícero Dantas"
+    },
+    "ibge": 2907806,
+    "logradouro": "Praça Nossa Senhora do Carmo, s\/n  AGC Trindade;"
 }

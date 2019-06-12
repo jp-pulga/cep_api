@@ -1,12 +1,13 @@
 {
-  "cep": "38051410",
-  "logradouro": "Avenida Benedita Fontoura Rosa",
-  "bairro": "Beija-Flor II",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Beija-Flor II;",
+    "cep": "38051410",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Benedita Fontoura Rosa;"
 }

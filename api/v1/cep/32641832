@@ -1,12 +1,12 @@
 {
-  "cep": "32641832",
-  "logradouro": "Rua Turmalina",
-  "bairro": "Citrolândia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Citrolândia;",
+    "cep": "32641832",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Turmalina;"
 }

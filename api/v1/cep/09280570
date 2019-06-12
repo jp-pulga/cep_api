@@ -1,12 +1,12 @@
 {
-  "cep": "09280570",
-  "logradouro": "Avenida Antônio Cardoso",
-  "bairro": "Bangú",
-  "cidade": {
-    "nome": "Santo André",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bangú;",
+    "cep": "09280570",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santo André"
+    },
+    "logradouro": "Avenida Antônio Cardoso;"
 }

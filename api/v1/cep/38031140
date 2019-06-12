@@ -1,12 +1,12 @@
 {
-  "cep": "38031140",
-  "logradouro": "Rua Miguel Veríssimo",
-  "bairro": "Parque São Geraldo",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque São Geraldo;",
+    "cep": "38031140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Miguel Veríssimo;"
 }

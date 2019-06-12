@@ -1,12 +1,13 @@
 {
-  "cep": "44790974",
-  "logradouro": "AGC Lage dos Negros Rua Principal s/n",
-  "bairro": "Lage dos Negros",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lage dos Negros;",
+    "cep": "44790974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Rua Principal, s\/n  AGC Lage dos Negros;"
 }

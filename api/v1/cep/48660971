@@ -1,12 +1,13 @@
 {
-  "cep": "48660971",
-  "logradouro": "AGC São José do Chorrochó Rua Coronel João Sá 153",
-  "bairro": "São José do Chorrochó",
-  "cidade": {
-    "nome": "Chorrochó",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São José do Chorrochó;",
+    "cep": "48660971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Chorrochó"
+    },
+    "ibge": 2907707,
+    "logradouro": "Rua Coronel João Sá, 153  AGC São José do Chorrochó;"
 }

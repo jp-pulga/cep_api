@@ -1,12 +1,12 @@
 {
-  "cep": "41635250",
-  "logradouro": "Rua Caatiba",
-  "bairro": "Itapuã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itapuã;",
+    "cep": "41635250",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Caatiba;"
 }

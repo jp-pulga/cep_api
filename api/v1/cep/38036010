@@ -1,12 +1,12 @@
 {
-  "cep": "38036010",
-  "logradouro": "Rua Miguel Veríssimo",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "38036010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua Miguel Veríssimo;"
 }

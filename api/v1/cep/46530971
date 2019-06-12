@@ -1,12 +1,13 @@
 {
-  "cep": "46530971",
-  "logradouro": "AGC Brejo Grande Rua Principal s/n",
-  "bairro": "Brejo Grande",
-  "cidade": {
-    "nome": "Boquira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brejo Grande;",
+    "cep": "46530971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Boquira"
+    },
+    "ibge": 2904100,
+    "logradouro": "Rua Principal, s\/n  AGC Brejo Grande;"
 }

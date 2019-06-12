@@ -1,12 +1,12 @@
 {
-  "cep": "32661728",
-  "logradouro": "Rua Érico Veríssimo",
-  "bairro": "Campos Elíseos",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campos Elíseos;",
+    "cep": "32661728",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Érico Veríssimo;"
 }

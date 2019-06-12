@@ -1,12 +1,13 @@
 {
-  "cep": "47566970",
-  "logradouro": "AGC Cocal Praça Principal de Cocal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Brotas de Macaúbas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47566970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Brotas de Macaúbas"
+    },
+    "ibge": 2904506,
+    "logradouro": "Praça Principal de Cocal, s\/n  AGC Cocal;"
 }

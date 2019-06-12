@@ -1,12 +1,12 @@
 {
-  "cep": "16056600",
-  "logradouro": "Rua Bauru",
-  "bairro": "Conjunto Habitacional Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Nossa Senhora Aparecida;",
+    "cep": "16056600",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Bauru;"
 }

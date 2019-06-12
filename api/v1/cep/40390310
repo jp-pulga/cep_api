@@ -1,12 +1,12 @@
 {
-  "cep": "40390310",
-  "logradouro": "Avenida Santo Odorico (Chácara Boa Nova)",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "40390310",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Santo Odorico (Chácara Boa Nova);"
 }

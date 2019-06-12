@@ -1,12 +1,12 @@
 {
-  "cep": "35680627",
-  "logradouro": "Rua Dorvely Santos Machado",
-  "bairro": "Três Marias",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Marias;",
+    "cep": "35680627",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua Dorvely Santos Machado;"
 }

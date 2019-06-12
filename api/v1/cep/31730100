@@ -1,12 +1,12 @@
 {
-  "cep": "31730100",
-  "logradouro": "Rua dos Bacuraus",
-  "bairro": "Campo Alegre",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campo Alegre;",
+    "cep": "31730100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua dos Bacuraus;"
 }

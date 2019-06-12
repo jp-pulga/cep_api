@@ -1,12 +1,12 @@
 {
-  "cep": "41100188",
-  "logradouro": "Travessa das Andorinhas",
-  "bairro": "Pernambués",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pernambués;",
+    "cep": "41100188",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa das Andorinhas;"
 }

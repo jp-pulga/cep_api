@@ -1,12 +1,12 @@
 {
-  "cep": "35182078",
-  "logradouro": "Rua Wenceslau Braz",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "35182078",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Wenceslau Braz;"
 }

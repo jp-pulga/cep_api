@@ -1,12 +1,13 @@
 {
-  "cep": "44910970",
-  "logradouro": "AC América Dourada Praça Teotonio Marques Dourado 86-B",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "América Dourada",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44910970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "América Dourada"
+    },
+    "ibge": 2901155,
+    "logradouro": "Praça Teotonio Marques Dourado, 86-B  AC América Dourada;"
 }

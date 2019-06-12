@@ -1,12 +1,12 @@
 {
-  "cep": "41250527",
-  "logradouro": "Rua Caraíbas",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "41250527",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Caraíbas;"
 }

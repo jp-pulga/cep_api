@@ -1,12 +1,12 @@
 {
-  "cep": "32623148",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Marimbá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Marimbá;",
+    "cep": "32623148",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45445972",
-  "logradouro": "AGC Travessão Rua Manoel Benício s/n",
-  "bairro": "Travessão",
-  "cidade": {
-    "nome": "Camamu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Travessão;",
+    "cep": "45445972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Camamu"
+    },
+    "ibge": 2905800,
+    "logradouro": "Rua Manoel Benício, s\/n  AGC Travessão;"
 }

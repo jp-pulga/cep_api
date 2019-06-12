@@ -1,12 +1,13 @@
 {
-  "cep": "47600970",
-  "logradouro": "AC Bom Jesus da Lapa Rua 7 de Setembro 191",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Bom Jesus da Lapa",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "47600970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Bom Jesus da Lapa"
+    },
+    "ibge": 2903904,
+    "logradouro": "Rua 7 de Setembro, 191  AC Bom Jesus da Lapa;"
 }

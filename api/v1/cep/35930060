@@ -1,12 +1,12 @@
 {
-  "cep": "35930060",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Lourdes",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lourdes;",
+    "cep": "35930060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

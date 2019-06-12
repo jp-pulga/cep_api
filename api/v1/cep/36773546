@@ -1,12 +1,12 @@
 {
-  "cep": "36773546",
-  "logradouro": "Rua Tiradentes",
-  "bairro": "Miguel Rocha",
-  "cidade": {
-    "nome": "Cataguases",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Miguel Rocha;",
+    "cep": "36773546",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Cataguases"
+    },
+    "logradouro": "Rua Tiradentes;"
 }

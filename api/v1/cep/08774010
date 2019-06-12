@@ -1,12 +1,12 @@
 {
-  "cep": "08774010",
-  "logradouro": "Rua Barro Alto",
-  "bairro": "Jardim Piatã A",
-  "cidade": {
-    "nome": "Mogi das Cruzes",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Piatã A;",
+    "cep": "08774010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi das Cruzes"
+    },
+    "logradouro": "Rua Barro Alto;"
 }

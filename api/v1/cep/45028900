@@ -1,12 +1,12 @@
 {
-  "cep": "45028900",
-  "logradouro": "Companhia de Eletricidade do Estado da Bahia Avenida Olívia Flores s/n",
-  "bairro": "Candeias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeias;",
+    "cep": "45028900",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Olívia Flores, 1420  Companhia de Eletricidade do Estado da Bahia;"
 }

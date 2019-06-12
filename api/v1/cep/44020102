@@ -1,12 +1,12 @@
 {
-  "cep": "44020102",
-  "logradouro": "Rua Candeal",
-  "bairro": "Baraúna",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Baraúna;",
+    "cep": "44020102",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Candeal;"
 }

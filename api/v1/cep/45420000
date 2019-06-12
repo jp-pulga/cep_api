@@ -1,12 +1,11 @@
 {
-  "cep": "45420000",
-  "logradouro": "Cairu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Cairu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "45420000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cairu"
+    },
+    "ibge": 2905404
 }

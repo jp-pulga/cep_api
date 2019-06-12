@@ -1,12 +1,13 @@
 {
-  "cep": "39803350",
-  "logradouro": "Avenida Guimarães",
-  "bairro": "Jardim São Paulo",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim São Paulo;",
+    "cep": "39803350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Guimarães;"
 }

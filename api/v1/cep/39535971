@@ -1,12 +1,13 @@
 {
-  "cep": "39535971",
-  "logradouro": "AGC Vargem Grande do Rio Pardo Rua dos Esportes 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vargem Grande do Rio Pardo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39535971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vargem Grande do Rio Pardo"
+    },
+    "ibge": 3170651,
+    "logradouro": "Rua dos Esportes, 63  AGC Vargem Grande do Rio Pardo;"
 }

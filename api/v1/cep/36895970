@@ -1,12 +1,13 @@
 {
-  "cep": "36895970",
-  "logradouro": "AC Vieiras Praça Dom Delfim 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vieiras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36895970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vieiras"
+    },
+    "ibge": 3171402,
+    "logradouro": "Praça Dom Delfim, 12  AC Vieiras;"
 }

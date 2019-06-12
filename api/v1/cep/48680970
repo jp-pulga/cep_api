@@ -1,12 +1,13 @@
 {
-  "cep": "48680970",
-  "logradouro": "AC Abaré Avenida Ministro Oliveira Brito 135",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Abaré",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48680970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Abaré"
+    },
+    "ibge": 2900207,
+    "logradouro": "Avenida Ministro Oliveira Brito, 135  AC Abaré;"
 }

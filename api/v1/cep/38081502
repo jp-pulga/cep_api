@@ -1,12 +1,13 @@
 {
-  "cep": "38081502",
-  "logradouro": "Avenida Claricinda Alves de Rezende até 549/550",
-  "bairro": "Parque do Mirante",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque do Mirante;",
+    "cep": "38081502",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Claricinda Alves de Rezende - até 549\/550;"
 }

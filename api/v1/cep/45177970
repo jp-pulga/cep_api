@@ -1,12 +1,13 @@
 {
-  "cep": "45177970",
-  "logradouro": "AC Caraíbas Rua Beira Rio s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caraíbas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45177970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caraíbas"
+    },
+    "ibge": 2906899,
+    "logradouro": "Rua Beira Rio, s\/n  AC Caraíbas;"
 }

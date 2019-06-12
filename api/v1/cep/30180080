@@ -1,12 +1,12 @@
 {
-  "cep": "30180080",
-  "logradouro": "Rua Uberaba",
-  "bairro": "Barro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barro Preto;",
+    "cep": "30180080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Uberaba - até 494\/495;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48030901",
-  "logradouro": "G. Barbosa - Supermercados Rua Dantas Bião s/n",
-  "bairro": "Alagoinhas Velha",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alagoinhas Velha;",
+    "cep": "48030901",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Rua Dantas Bião, s\/n  G. Barbosa - Supermercados;"
 }

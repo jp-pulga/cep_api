@@ -1,12 +1,12 @@
 {
-  "cep": "45655510",
-  "logradouro": "Rodovia Pontal Buerarema",
-  "bairro": "Nossa Senhora da Vitória",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora da Vitória;",
+    "cep": "45655510",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rodovia Pontal - Buerarema;"
 }

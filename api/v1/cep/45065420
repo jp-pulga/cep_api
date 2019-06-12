@@ -1,12 +1,12 @@
 {
-  "cep": "45065420",
-  "logradouro": "Rua Amélia Rodrigues",
-  "bairro": "Patagônia",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Patagônia;",
+    "cep": "45065420",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Amélia Rodrigues;"
 }

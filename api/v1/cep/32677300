@@ -1,12 +1,12 @@
 {
-  "cep": "32677300",
-  "logradouro": "Rua Virgínia Maria de Jesus",
-  "bairro": "Imbiruçu",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Imbiruçu;",
+    "cep": "32677300",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Virgínia Maria de Jesus;"
 }

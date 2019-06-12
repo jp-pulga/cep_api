@@ -1,12 +1,12 @@
 {
-  "cep": "30431290",
-  "logradouro": "Rua Ubatuba",
-  "bairro": "Nova Granada",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Granada;",
+    "cep": "30431290",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ubatuba;"
 }

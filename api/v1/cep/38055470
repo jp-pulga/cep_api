@@ -1,12 +1,13 @@
 {
-  "cep": "38055470",
-  "logradouro": "Avenida Afrânio Azevedo de 1501/1502 ao fim",
-  "bairro": "Olinda",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Olinda;",
+    "cep": "38055470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Afrânio Azevedo - de 1501\/1502 ao fim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45880970",
-  "logradouro": "AC Camacan Avenida dos Pioneiros 25",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Camacan",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45880970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Camacan"
+    },
+    "ibge": 2905602,
+    "logradouro": "Avenida dos Pioneiros, 25  AC Camacan;"
 }

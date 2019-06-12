@@ -1,12 +1,13 @@
 {
-  "cep": "48420972",
-  "logradouro": "AGC Duas Serras Rua Principal s/n",
-  "bairro": "Duas Serras",
-  "cidade": {
-    "nome": "Antas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Duas Serras;",
+    "cep": "48420972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Antas"
+    },
+    "ibge": 2901601,
+    "logradouro": "Rua Principal, s\/n  AGC Duas Serras;"
 }

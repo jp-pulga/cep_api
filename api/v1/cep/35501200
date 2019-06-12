@@ -1,12 +1,12 @@
 {
-  "cep": "35501200",
-  "logradouro": "Rua Érico Veríssimo de 509/510 ao fim",
-  "bairro": "Catalão",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Catalão;",
+    "cep": "35501200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Érico Veríssimo - de 509\/510 ao fim;"
 }

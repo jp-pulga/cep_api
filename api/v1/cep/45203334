@@ -1,12 +1,12 @@
 {
-  "cep": "45203334",
-  "logradouro": "Rua das Andorinhas",
-  "bairro": "São Luís",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Luís;",
+    "cep": "45203334",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua das Andorinhas;"
 }

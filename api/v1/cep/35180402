@@ -1,12 +1,13 @@
 {
-  "cep": "35180402",
-  "logradouro": "Avenida Ciro Cotta Poggiali",
-  "bairro": "Funcionários",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funcionários;",
+    "cep": "35180402",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Ciro Cotta Poggiali;"
 }

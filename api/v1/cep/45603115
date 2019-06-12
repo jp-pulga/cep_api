@@ -1,12 +1,12 @@
 {
-  "cep": "45603115",
-  "logradouro": "Travessa Visconde de Cairu",
-  "bairro": "Pontalzinho",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pontalzinho;",
+    "cep": "45603115",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Travessa Visconde de Cairu;"
 }

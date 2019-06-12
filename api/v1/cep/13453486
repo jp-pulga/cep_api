@@ -1,12 +1,12 @@
 {
-  "cep": "13453486",
-  "logradouro": "Rua Engenheiro Antonio Carlos Aborihan Gonçalves",
-  "bairro": "Jardim San Marino",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim San Marino;",
+    "cep": "13453486",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Engenheiro Antonio Carlos Aborihan Gonçalves;"
 }

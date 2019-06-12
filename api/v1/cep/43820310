@@ -1,12 +1,13 @@
 {
-  "cep": "43820310",
-  "logradouro": "Rua Tobias Barreto",
-  "bairro": "Sarandy",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sarandy;",
+    "cep": "43820310",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 2906501,
+    "logradouro": "Rua Tobias Barreto;"
 }

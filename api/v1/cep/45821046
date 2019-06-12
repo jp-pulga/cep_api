@@ -1,12 +1,12 @@
 {
-  "cep": "45821046",
-  "logradouro": "Rua Canavieiras",
-  "bairro": "Doutor Gusmão",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Doutor Gusmão;",
+    "cep": "45821046",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Canavieiras;"
 }

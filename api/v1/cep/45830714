@@ -1,12 +1,12 @@
 {
-  "cep": "45830714",
-  "logradouro": "Rua Rio Bonito",
-  "bairro": "Niterói",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Niterói;",
+    "cep": "45830714",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Rio Bonito;"
 }

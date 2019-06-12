@@ -1,12 +1,13 @@
 {
-  "cep": "47814546",
-  "logradouro": "Rua C",
-  "bairro": "Barreiras II",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiras II;",
+    "cep": "47814546",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "ibge": 2903201,
+    "logradouro": "Rua C;"
 }

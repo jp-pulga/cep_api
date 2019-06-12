@@ -1,12 +1,12 @@
 {
-  "cep": "48604472",
-  "logradouro": "Rua Caravelas",
-  "bairro": "Oliveira Brito",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Oliveira Brito;",
+    "cep": "48604472",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Caravelas;"
 }

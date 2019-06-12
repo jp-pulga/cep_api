@@ -1,12 +1,12 @@
 {
-  "cep": "35182182",
-  "logradouro": "Rua Viçosa",
-  "bairro": "Ana Malaquias",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ana Malaquias;",
+    "cep": "35182182",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua Viçosa;"
 }

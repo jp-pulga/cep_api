@@ -1,12 +1,13 @@
 {
-  "cep": "39450970",
-  "logradouro": "AC Varzelândia Rua São Paulo 340",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Varzelândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39450970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varzelândia"
+    },
+    "ibge": 3170909,
+    "logradouro": "Rua São Paulo, 340  AC Varzelândia;"
 }

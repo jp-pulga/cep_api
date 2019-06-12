@@ -1,12 +1,12 @@
 {
-  "cep": "35930309",
-  "logradouro": "Rua Viçosa",
-  "bairro": "Belmonte",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Belmonte;",
+    "cep": "35930309",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Viçosa;"
 }

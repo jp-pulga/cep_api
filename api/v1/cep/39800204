@@ -1,12 +1,13 @@
 {
-  "cep": "39800204",
-  "logradouro": "Avenida Getúlio Vargas de 1730/1731 ao fim",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "39800204",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Getúlio Vargas - de 1730\/1731 ao fim;"
 }

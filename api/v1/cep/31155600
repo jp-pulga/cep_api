@@ -1,12 +1,12 @@
 {
-  "cep": "31155600",
-  "logradouro": "Rua José Francisco da Silva de 101/102 ao fim",
-  "bairro": "Maria Virgínia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Virgínia;",
+    "cep": "31155600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua José Francisco da Silva - de 101\/102 ao fim;"
 }

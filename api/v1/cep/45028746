@@ -1,12 +1,12 @@
 {
-  "cep": "45028746",
-  "logradouro": "Rua Juca Barros",
-  "bairro": "Candeias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Candeias;",
+    "cep": "45028746",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Juca Barros;"
 }

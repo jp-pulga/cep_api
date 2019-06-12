@@ -1,12 +1,12 @@
 {
-  "cep": "38440973",
-  "logradouro": "AGF Centro de Araguarí Avenida Tiradentes 406 Loja 3 e 4",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araguari",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38440973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araguari"
+    },
+    "logradouro": "Avenida Tiradentes, 406 Loja 3 e 4  AGF Centro de Araguarí;"
 }

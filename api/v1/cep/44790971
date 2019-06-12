@@ -1,12 +1,13 @@
 {
-  "cep": "44790971",
-  "logradouro": "AGC Araras Rua Principal s/n",
-  "bairro": "Araras",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Araras;",
+    "cep": "44790971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Rua Principal, s\/n  AGC Araras;"
 }

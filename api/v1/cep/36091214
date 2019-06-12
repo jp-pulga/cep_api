@@ -1,12 +1,12 @@
 {
-  "cep": "36091214",
-  "logradouro": "Rua Sebastião Martins Barbosa",
-  "bairro": "Cachoeira",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cachoeira;",
+    "cep": "36091214",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Sebastião Martins Barbosa;"
 }

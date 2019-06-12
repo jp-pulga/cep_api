@@ -1,12 +1,13 @@
 {
-  "cep": "44500971",
-  "logradouro": "AGC Riacho da Légua Praça da Liberdade 376",
-  "bairro": "Riacho da Légua",
-  "cidade": {
-    "nome": "Castro Alves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Riacho da Légua;",
+    "cep": "44500971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Castro Alves"
+    },
+    "ibge": 2907301,
+    "logradouro": "Praça da Liberdade, 376  AGC Riacho da Légua;"
 }

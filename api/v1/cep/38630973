@@ -1,12 +1,13 @@
 {
-  "cep": "38630973",
-  "logradouro": "AGC Cercado Rua José Severino Botelho s/n",
-  "bairro": "Cercado",
-  "cidade": {
-    "nome": "Uruana de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cercado;",
+    "cep": "38630973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uruana de Minas"
+    },
+    "ibge": 3170479,
+    "logradouro": "Rua José Severino Botelho, s\/n  AGC Cercado;"
 }

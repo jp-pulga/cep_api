@@ -1,12 +1,12 @@
 {
-  "cep": "34565270",
-  "logradouro": "Rua Venceslau Braz",
-  "bairro": "Rosário",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rosário;",
+    "cep": "34565270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua Venceslau Braz;"
 }

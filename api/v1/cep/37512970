@@ -1,12 +1,13 @@
 {
-  "cep": "37512970",
-  "logradouro": "AC Wenceslau Braz Rua Major Lisboa da Cunha 228",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Wenceslau Braz",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37512970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Wenceslau Braz"
+    },
+    "ibge": 3172202,
+    "logradouro": "Rua Major Lisboa da Cunha, 228  AC Wenceslau Braz;"
 }

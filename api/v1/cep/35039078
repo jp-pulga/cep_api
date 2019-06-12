@@ -1,12 +1,12 @@
 {
-  "cep": "35039078",
-  "logradouro": "Rua Paulo Afonso de Souza Bastos",
-  "bairro": "Caravelas",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caravelas;",
+    "cep": "35039078",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Paulo Afonso de Souza Bastos;"
 }

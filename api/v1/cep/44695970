@@ -1,12 +1,13 @@
 {
-  "cep": "44695970",
-  "logradouro": "AC Capim Grosso Praça Otaviano Ferreira 76",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capim Grosso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44695970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Capim Grosso"
+    },
+    "ibge": 2906873,
+    "logradouro": "Praça Otaviano Ferreira dos Santos, 76 Térreo s\/n  AC Capim Grosso;"
 }

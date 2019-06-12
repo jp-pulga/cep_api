@@ -1,12 +1,12 @@
 {
-  "cep": "37706570",
-  "logradouro": "Travessa Wenceslau Bráz",
-  "bairro": "Estância São José",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Estância São José;",
+    "cep": "37706570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Travessa Wenceslau Bráz;"
 }

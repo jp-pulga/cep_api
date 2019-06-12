@@ -1,12 +1,13 @@
 {
-  "cep": "38411222",
-  "logradouro": "Alameda Alberto Costa Matos",
-  "bairro": "Jardim Karaíba",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Karaíba;",
+    "cep": "38411222",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Alberto Costa Matos;"
 }

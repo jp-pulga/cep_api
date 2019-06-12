@@ -1,12 +1,13 @@
 {
-  "cep": "44790970",
-  "logradouro": "AC Campo Formoso Rua Padre Bevenuto 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44790970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Rua Padre Bevenuto, 11  AC Campo Formoso;"
 }

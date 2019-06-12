@@ -1,12 +1,12 @@
 {
-  "cep": "40350440",
-  "logradouro": "Rua Baixa Dois de Julho",
-  "bairro": "Fazenda Grande do Retiro",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Fazenda Grande do Retiro;",
+    "cep": "40350440",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Baixa Dois de Julho;"
 }

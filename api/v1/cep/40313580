@@ -1,12 +1,12 @@
 {
-  "cep": "40313580",
-  "logradouro": "Avenida Osório Vilas Boas",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "40313580",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Osório Vilas Boas;"
 }

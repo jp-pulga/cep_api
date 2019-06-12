@@ -1,12 +1,12 @@
 {
-  "cep": "17010902",
-  "logradouro": "Edifício Caravelas Rua Primeiro de Agosto 47 Quadra 4",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "17010902",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Primeiro de Agosto, 47 Quadra 4  Edifício Caravelas;"
 }

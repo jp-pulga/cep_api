@@ -1,12 +1,13 @@
 {
-  "cep": "48435970",
-  "logradouro": "AC Adustina Praça Maria José de Jesus 369",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Adustina",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48435970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Adustina"
+    },
+    "ibge": 2900355,
+    "logradouro": "Praça Maria José de Jesus, 369  AC Adustina;"
 }

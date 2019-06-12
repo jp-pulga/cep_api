@@ -1,12 +1,12 @@
 {
-  "cep": "30525110",
-  "logradouro": "Rua Ubaia",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "30525110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Ubaia;"
 }

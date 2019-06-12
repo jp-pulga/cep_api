@@ -1,12 +1,12 @@
 {
-  "cep": "01137050",
-  "logradouro": "Avenida Joaquim da Rocha Ferreira",
-  "bairro": "Barra Funda",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Barra Funda;",
+    "cep": "01137050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Joaquim da Rocha Ferreira;"
 }

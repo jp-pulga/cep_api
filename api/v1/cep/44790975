@@ -1,12 +1,13 @@
 {
-  "cep": "44790975",
-  "logradouro": "AGC Brejão da Caatinga Rua Principal s/n",
-  "bairro": "Brejão da Caatinga",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brejão da Caatinga;",
+    "cep": "44790975",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Rua Principal, s\/n  AGC Brejão da Caatinga;"
 }

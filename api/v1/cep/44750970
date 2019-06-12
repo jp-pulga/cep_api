@@ -1,12 +1,13 @@
 {
-  "cep": "44750970",
-  "logradouro": "AC Caldeirão Grande Praça Edgar Pereira 80",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Caldeirão Grande",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44750970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caldeirão Grande"
+    },
+    "ibge": 2905503,
+    "logradouro": "Praça Edgar Pereira, 80  AC Caldeirão Grande;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41152970",
-  "logradouro": "CDD Cabula Rua Alcobaça 10",
-  "bairro": "Resgate",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Resgate;",
+    "cep": "41152970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Alcobaça, 10  CDD Cabula;"
 }

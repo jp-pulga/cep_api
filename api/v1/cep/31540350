@@ -1,12 +1,12 @@
 {
-  "cep": "31540350",
-  "logradouro": "Rua Várzea da Palma",
-  "bairro": "Jardim Leblon",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Leblon;",
+    "cep": "31540350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Várzea da Palma;"
 }

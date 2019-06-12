@@ -1,12 +1,13 @@
 {
-  "cep": "44797970",
-  "logradouro": "AGC Tiquira Rua Celino da Silva Nunes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44797970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Rua Celino da Silva Nunes, s\/n  AGC Tiquira;"
 }

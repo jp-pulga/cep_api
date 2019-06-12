@@ -1,12 +1,11 @@
 {
-  "cep": "47300000",
-  "logradouro": "Casa Nova",
-  "bairro": "",
-  "cidade": {
-    "nome": "Casa Nova",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "47300000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Casa Nova"
+    },
+    "ibge": 2907202
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39801448",
-  "logradouro": "Rua das Acácias",
-  "bairro": "Jardim Serra Verde",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Serra Verde;",
+    "cep": "39801448",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Alameda das Acácias;"
 }

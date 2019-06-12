@@ -1,12 +1,13 @@
 {
-  "cep": "48010900",
-  "logradouro": "Loja Barreto Praça José Joaquim Seabra 56",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48010900",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Praça José Joaquim Seabra, 56  Loja Barreto;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "03923055",
-  "logradouro": "Rua Esteban Araciel",
-  "bairro": "Parque dos Bancários",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque dos Bancários;",
+    "cep": "03923055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Esteban Araciel;"
 }

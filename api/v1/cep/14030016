@@ -1,12 +1,12 @@
 {
-  "cep": "14030016",
-  "logradouro": "Rua Cônego Barros",
-  "bairro": "República",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "República;",
+    "cep": "14030016",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Cônego Barros;"
 }

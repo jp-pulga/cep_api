@@ -1,12 +1,11 @@
 {
-  "cep": "44895000",
-  "logradouro": "Barro Alto",
-  "bairro": "",
-  "cidade": {
-    "nome": "Barro Alto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44895000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barro Alto"
+    },
+    "ibge": 2903235
 }

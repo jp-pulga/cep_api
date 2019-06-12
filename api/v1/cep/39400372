@@ -1,12 +1,12 @@
 {
-  "cep": "39400372",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Roxo Verde",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Roxo Verde;",
+    "cep": "39400372",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

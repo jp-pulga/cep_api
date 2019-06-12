@@ -1,12 +1,12 @@
 {
-  "cep": "37501049",
-  "logradouro": "Rua Doutor Américo de Oliveira de 624/625 ao fim",
-  "bairro": "Varginha",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Varginha;",
+    "cep": "37501049",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Doutor Américo de Oliveira - de 624\/625 ao fim;"
 }

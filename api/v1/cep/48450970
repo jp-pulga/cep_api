@@ -1,12 +1,13 @@
 {
-  "cep": "48450970",
-  "logradouro": "AC Cipó Rua Dom Pedro II 21",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cipó",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48450970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cipó"
+    },
+    "ibge": 2907905,
+    "logradouro": "Rua Dom Pedro II, 21  AC Cipó;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "43815270",
-  "logradouro": "Rua Bariloche",
-  "bairro": "Nova Candeias",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Candeias;",
+    "cep": "43815270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 2906501,
+    "logradouro": "Rua Bariloche;"
 }

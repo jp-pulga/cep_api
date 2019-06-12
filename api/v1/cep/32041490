@@ -1,12 +1,12 @@
 {
-  "cep": "32041490",
-  "logradouro": "Rua Varginha",
-  "bairro": "Alvorada",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alvorada;",
+    "cep": "32041490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Varginha;"
 }

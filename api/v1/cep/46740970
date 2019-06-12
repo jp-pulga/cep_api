@@ -1,12 +1,13 @@
 {
-  "cep": "46740970",
-  "logradouro": "AC Boninal Rua Etevaldo Ataíde Siles 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Boninal",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46740970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Boninal"
+    },
+    "ibge": 2904001,
+    "logradouro": "Rua Etevaldo Ataíde Siles, 86  AC Boninal;"
 }

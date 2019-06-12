@@ -1,12 +1,12 @@
 {
-  "cep": "44086690",
-  "logradouro": "Rua Corredor dos Araçás",
-  "bairro": "SIM",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "SIM;",
+    "cep": "44086690",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Corredor dos Araçás;"
 }

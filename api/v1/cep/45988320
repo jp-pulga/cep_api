@@ -1,12 +1,12 @@
 {
-  "cep": "45988320",
-  "logradouro": "Avenida Alcobaça",
-  "bairro": "Vila Feliz",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Feliz;",
+    "cep": "45988320",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Avenida Alcobaça;"
 }

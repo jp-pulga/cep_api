@@ -1,12 +1,12 @@
 {
-  "cep": "13052404",
-  "logradouro": "Rua Barra Funda",
-  "bairro": "Jardim Maria Rosa",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Maria Rosa;",
+    "cep": "13052404",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Barra Funda;"
 }

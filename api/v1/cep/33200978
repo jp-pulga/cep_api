@@ -1,12 +1,13 @@
 {
-  "cep": "33200978",
-  "logradouro": "AGC Angicos Rua São Vicente 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vespasiano",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33200978",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Vespasiano"
+    },
+    "ibge": 3171204,
+    "logradouro": "Rua São Vicente, 13  AGC Angicos;"
 }

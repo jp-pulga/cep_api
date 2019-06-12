@@ -1,12 +1,12 @@
 {
-  "cep": "04880150",
-  "logradouro": "Rua Baltazarini",
-  "bairro": "Recanto Campo Belo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto Campo Belo;",
+    "cep": "04880150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Baltazarini;"
 }

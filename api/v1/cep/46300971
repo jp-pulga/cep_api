@@ -1,12 +1,13 @@
 {
-  "cep": "46300971",
-  "logradouro": "AGC Várzea Grande Travessa do Mercado Municipal s/n",
-  "bairro": "Várzea Grande",
-  "cidade": {
-    "nome": "Caculé",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Várzea Grande;",
+    "cep": "46300971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caculé"
+    },
+    "ibge": 2905008,
+    "logradouro": "Travessa do Mercado Municipal, s\/n  AGC Várzea Grande;"
 }

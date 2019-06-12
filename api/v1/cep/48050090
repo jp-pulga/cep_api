@@ -1,12 +1,12 @@
 {
-  "cep": "48050090",
-  "logradouro": "Travessa Castro Alves",
-  "bairro": "Santa Isabel",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Isabel;",
+    "cep": "48050090",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Travessa Castro Alves;"
 }

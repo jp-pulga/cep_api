@@ -1,12 +1,12 @@
 {
-  "cep": "41412560",
-  "logradouro": "Rua Baixa Grande",
-  "bairro": "Areia Branca",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Areia Branca;",
+    "cep": "41412560",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Baixa Grande;"
 }

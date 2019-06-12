@@ -1,12 +1,13 @@
 {
-  "cep": "47300971",
-  "logradouro": "AGC Ouricuri Rodovia BR 235 km 64",
-  "bairro": "Ouricuri",
-  "cidade": {
-    "nome": "Casa Nova",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ouricuri;",
+    "cep": "47300971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Casa Nova"
+    },
+    "ibge": 2907202,
+    "logradouro": "Rodovia BR 235, km 64  AGC Ouricuri;"
 }

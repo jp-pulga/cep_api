@@ -1,12 +1,12 @@
 {
-  "cep": "40280903",
-  "logradouro": "Condomínio Candeal Center Avenida Antônio Carlos Magalhães 1962",
-  "bairro": "Parque Bela Vista",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Bela Vista;",
+    "cep": "40280903",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Antônio Carlos Magalhães, 1962  Condomínio Candeal Center;"
 }

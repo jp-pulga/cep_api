@@ -1,12 +1,12 @@
 {
-  "cep": "35052897",
-  "logradouro": "Rua Cinco-A",
-  "bairro": "Turmalina",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Turmalina;",
+    "cep": "35052897",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Cinco-A;"
 }

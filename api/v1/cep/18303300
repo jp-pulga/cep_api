@@ -1,12 +1,12 @@
 {
-  "cep": "18303300",
-  "logradouro": "Rua Faustino Cesarino Barreto",
-  "bairro": "Vila Aparecida",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Aparecida;",
+    "cep": "18303300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Faustino Cesarino Barreto;"
 }

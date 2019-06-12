@@ -1,12 +1,12 @@
 {
-  "cep": "36200038",
-  "logradouro": "Rua Teófilo Otoni",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36200038",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Teófilo Otoni;"
 }

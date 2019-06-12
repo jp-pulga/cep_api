@@ -1,12 +1,12 @@
 {
-  "cep": "37002082",
-  "logradouro": "Rua Doutor Wenceslau Braz de 467/468 a 763/764",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37002082",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Doutor Wenceslau Braz - de 467\/468 a 763\/764;"
 }

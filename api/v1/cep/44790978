@@ -1,12 +1,13 @@
 {
-  "cep": "44790978",
-  "logradouro": "AGC Poços Rua Sulplício José de Carvalho s/n",
-  "bairro": "Poços",
-  "cidade": {
-    "nome": "Campo Formoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Poços;",
+    "cep": "44790978",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Campo Formoso"
+    },
+    "ibge": 2906006,
+    "logradouro": "Rua Sulplício José de Carvalho, s\/n  AGC Poços;"
 }

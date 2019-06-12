@@ -1,12 +1,13 @@
 {
-  "cep": "38065000",
-  "logradouro": "Avenida Almirante Barroso",
-  "bairro": "Fabrício",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fabrício;",
+    "cep": "38065000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "ibge": 3170107,
+    "logradouro": "Avenida Almirante Barroso;"
 }

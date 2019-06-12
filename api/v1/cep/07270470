@@ -1,12 +1,12 @@
 {
-  "cep": "07270470",
-  "logradouro": "Rua Barra da Choça",
-  "bairro": "Vila São Gabriel",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila São Gabriel;",
+    "cep": "07270470",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Barra da Choça;"
 }

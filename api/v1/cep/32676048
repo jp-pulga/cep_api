@@ -1,12 +1,12 @@
 {
-  "cep": "32676048",
-  "logradouro": "Rua Padre Toledo",
-  "bairro": "Amarante",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Amarante;",
+    "cep": "32676048",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Padre Toledo;"
 }

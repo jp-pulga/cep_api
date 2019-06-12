@@ -1,12 +1,12 @@
 {
-  "cep": "08474140",
-  "logradouro": "Rua Barqueiro de Vela",
-  "bairro": "Conjunto Habitacional Castro Alves",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Castro Alves;",
+    "cep": "08474140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barqueiro de Vela;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38701366",
-  "logradouro": "Rua Três Pontas",
-  "bairro": "Padre Eustáquio",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Eustáquio;",
+    "cep": "38701366",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Três Pontas;"
 }

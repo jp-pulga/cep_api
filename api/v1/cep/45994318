@@ -1,12 +1,12 @@
 {
-  "cep": "45994318",
-  "logradouro": "Rua Visconde de Cairu",
-  "bairro": "Nova Teixeira",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Teixeira;",
+    "cep": "45994318",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Visconde de Cairu;"
 }

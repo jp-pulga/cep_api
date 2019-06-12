@@ -1,12 +1,12 @@
 {
-  "cep": "06449130",
-  "logradouro": "Rua Barra Bonita",
-  "bairro": "Parque Viana",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Viana;",
+    "cep": "06449130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Rua Barra Bonita;"
 }

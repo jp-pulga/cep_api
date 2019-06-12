@@ -1,12 +1,12 @@
 {
-  "cep": "35901455",
-  "logradouro": "Rua Venceslau Brás",
-  "bairro": "Jardim Belvedere",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Belvedere;",
+    "cep": "35901455",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Venceslau Brás;"
 }

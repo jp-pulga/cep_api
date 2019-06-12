@@ -1,12 +1,12 @@
 {
-  "cep": "31330294",
-  "logradouro": "Rua Radialista Ubaldo Ferreira",
-  "bairro": "Castelo",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castelo;",
+    "cep": "31330294",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Radialista Ubaldo Ferreira;"
 }

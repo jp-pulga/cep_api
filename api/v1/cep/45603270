@@ -1,12 +1,12 @@
 {
-  "cep": "45603270",
-  "logradouro": "Rua Castro Alves",
-  "bairro": "Alto Maron",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alto Maron;",
+    "cep": "45603270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Castro Alves;"
 }

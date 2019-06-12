@@ -1,12 +1,12 @@
 {
-  "cep": "35660874",
-  "logradouro": "Avenida Mathias Lobato até 99998 - lado par",
-  "bairro": "Azambeque",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Azambeque;",
+    "cep": "35660874",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Avenida Mathias Lobato - lado par;"
 }

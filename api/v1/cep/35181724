@@ -1,12 +1,13 @@
 {
-  "cep": "35181724",
-  "logradouro": "Alameda Bico-de-Lacre até 759/760",
-  "bairro": "Macuco",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Macuco;",
+    "cep": "35181724",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Alameda Bico-de-Lacre - até 759\/760;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "32220350",
-  "logradouro": "Rua Unaí",
-  "bairro": "Industrial",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Industrial;",
+    "cep": "32220350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Unaí;"
 }

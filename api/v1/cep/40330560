@@ -1,12 +1,12 @@
 {
-  "cep": "40330560",
-  "logradouro": "Travessa Apuarema",
-  "bairro": "IAPI",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "IAPI;",
+    "cep": "40330560",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Apuarema;"
 }

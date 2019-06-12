@@ -1,12 +1,13 @@
 {
-  "cep": "48070310",
-  "logradouro": "Rua dos Eucaliptos",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "48070310",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "ibge": 2900702,
+    "logradouro": "Rua dos Eucaliptos;"
 }

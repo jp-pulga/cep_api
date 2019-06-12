@@ -1,12 +1,12 @@
 {
-  "cep": "48605282",
-  "logradouro": "Rua Lago Central",
-  "bairro": "Abel Barbosa",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Abel Barbosa;",
+    "cep": "48605282",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Lago Central;"
 }

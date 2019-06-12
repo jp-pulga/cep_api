@@ -1,12 +1,12 @@
 {
-  "cep": "31535094",
-  "logradouro": "Rua Érico Veríssimo de 1150 a 1870 - lado par",
-  "bairro": "Rio Branco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Rio Branco;",
+    "cep": "31535094",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Érico Veríssimo - de 1150 a 1870 - lado par;"
 }

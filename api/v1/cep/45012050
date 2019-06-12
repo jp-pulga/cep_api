@@ -1,12 +1,12 @@
 {
-  "cep": "45012050",
-  "logradouro": "Rodovia Conquista-Barra do Choça",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "45012050",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rodovia Conquista-Barra do Choça;"
 }

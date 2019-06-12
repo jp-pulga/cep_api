@@ -1,12 +1,12 @@
 {
-  "cep": "36300324",
-  "logradouro": "Rua Três Pontas",
-  "bairro": "Senhor dos Montes",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Senhor dos Montes;",
+    "cep": "36300324",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Três Pontas;"
 }

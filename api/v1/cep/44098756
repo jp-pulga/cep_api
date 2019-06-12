@@ -1,12 +1,12 @@
 {
-  "cep": "44098756",
-  "logradouro": "Rua Boquira",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "44098756",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Boquira;"
 }

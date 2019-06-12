@@ -1,12 +1,12 @@
 {
-  "cep": "35500258",
-  "logradouro": "Rua Turmalina",
-  "bairro": "Vila Espírito Santo",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Espírito Santo;",
+    "cep": "35500258",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Turmalina;"
 }

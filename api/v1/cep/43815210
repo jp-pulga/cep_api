@@ -1,12 +1,13 @@
 {
-  "cep": "43815210",
-  "logradouro": "Travessa Bahia",
-  "bairro": "Nova Candeias",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Candeias;",
+    "cep": "43815210",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 2906501,
+    "logradouro": "Travessa Bahia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44348970",
-  "logradouro": "AC Cabaceiras do Paraguaçu Praça Castro Alves s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Cabaceiras do Paraguaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44348970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Cabaceiras do Paraguaçu"
+    },
+    "logradouro": "Praça Castro Alves, s\/n  AC Cabaceiras do Paraguaçu;"
 }

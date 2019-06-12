@@ -1,12 +1,12 @@
 {
-  "cep": "18300431",
-  "logradouro": "Rua Francisco Barreto até 943/944",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18300431",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Rua Francisco Barreto - até 943\/944;"
 }

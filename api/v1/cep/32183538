@@ -1,12 +1,12 @@
 {
-  "cep": "32183538",
-  "logradouro": "Rua Eugênio Toledo Lopes",
-  "bairro": "Vale das Amendoeiras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vale das Amendoeiras;",
+    "cep": "32183538",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Eugênio Toledo Lopes;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39402195",
-  "logradouro": "Rua Viçosa",
-  "bairro": "Jardim Palmeiras",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Palmeiras;",
+    "cep": "39402195",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Viçosa;"
 }

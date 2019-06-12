@@ -1,12 +1,12 @@
 {
-  "cep": "58090780",
-  "logradouro": "Rua Ari Barroso",
-  "bairro": "Alto do Mateus",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Alto do Mateus;",
+    "cep": "58090780",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Ari Barroso;"
 }

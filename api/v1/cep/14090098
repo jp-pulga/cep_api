@@ -1,12 +1,12 @@
 {
-  "cep": "14090098",
-  "logradouro": "Travessa Gustavo Barroso",
-  "bairro": "Jardim Paulista",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paulista;",
+    "cep": "14090098",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Travessa Gustavo Barroso;"
 }

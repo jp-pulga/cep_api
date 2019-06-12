@@ -1,12 +1,13 @@
 {
-  "cep": "38401622",
-  "logradouro": "Alameda Mário Cardoso da Silva",
-  "bairro": "Residencial Gramado",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Gramado;",
+    "cep": "38401622",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "ibge": 3170206,
+    "logradouro": "Alameda Mário Cardoso da Silva;"
 }

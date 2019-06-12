@@ -1,12 +1,12 @@
 {
-  "cep": "93546542",
-  "logradouro": "Rua Alfredo Modesto de Barros",
-  "bairro": "Canudos",
-  "cidade": {
-    "nome": "Novo Hamburgo",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Canudos;",
+    "cep": "93546542",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Novo Hamburgo"
+    },
+    "logradouro": "Rua Alfredo Modesto de Barros;"
 }

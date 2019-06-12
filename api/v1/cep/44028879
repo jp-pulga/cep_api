@@ -1,12 +1,12 @@
 {
-  "cep": "44028879",
-  "logradouro": "Rua Dez (Caraibas)",
-  "bairro": "Gabriela",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Gabriela;",
+    "cep": "44028879",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Dez (Caraibas);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40140242",
-  "logradouro": "Rua Marquês de Caravelas de 527/528 ao fim",
-  "bairro": "Barra",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barra;",
+    "cep": "40140242",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Marquês de Caravelas - de 527\/528 ao fim;"
 }

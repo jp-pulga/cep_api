@@ -1,12 +1,12 @@
 {
-  "cep": "44003558",
-  "logradouro": "Rua Cairu",
-  "bairro": "Olhos D'Água",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Olhos D'Água;",
+    "cep": "44003558",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Cairu;"
 }

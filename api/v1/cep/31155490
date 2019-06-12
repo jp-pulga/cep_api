@@ -1,12 +1,12 @@
 {
-  "cep": "31155490",
-  "logradouro": "Rua Alvarez",
-  "bairro": "Maria Virgínia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Maria Virgínia;",
+    "cep": "31155490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Alvarez;"
 }

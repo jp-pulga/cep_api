@@ -1,12 +1,13 @@
 {
-  "cep": "39803008",
-  "logradouro": "Avenida Alberto Laender",
-  "bairro": "São Diogo",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Diogo;",
+    "cep": "39803008",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Avenida Alberto Laender;"
 }

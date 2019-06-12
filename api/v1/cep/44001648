@@ -1,12 +1,12 @@
 {
-  "cep": "44001648",
-  "logradouro": "Rua Castro Alves de 536 a 684 - lado par",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44001648",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Castro Alves - de 536 a 684 - lado par;"
 }

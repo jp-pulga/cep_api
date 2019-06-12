@@ -1,12 +1,13 @@
 {
-  "cep": "35380970",
-  "logradouro": "AC Urucânia Rua Professor Manoel Rufino 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Urucânia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35380970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Urucânia"
+    },
+    "ibge": 3170503,
+    "logradouro": "Rua Professor Manoel Rufino, 63  AC Urucânia;"
 }

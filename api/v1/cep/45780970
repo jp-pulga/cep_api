@@ -1,12 +1,12 @@
 {
-  "cep": "45780970",
-  "logradouro": "AC Itarantim Praça Castro Alves s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itarantim",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45780970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itarantim"
+    },
+    "logradouro": "Praça Castro Alves, s\/n  AC Itarantim;"
 }

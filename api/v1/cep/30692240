@@ -1,12 +1,12 @@
 {
-  "cep": "30692240",
-  "logradouro": "Rua Veríssimo Guimarães",
-  "bairro": "Lindéia (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Lindéia (Barreiro);",
+    "cep": "30692240",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Veríssimo Guimarães;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48130970",
-  "logradouro": "AC Aramari Rua Arthur Portela 28",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aramari",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48130970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Aramari"
+    },
+    "ibge": 2902203,
+    "logradouro": "Rua Arthur Portela, 28  AC Aramari;"
 }

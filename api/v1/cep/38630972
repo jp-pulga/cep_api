@@ -1,12 +1,13 @@
 {
-  "cep": "38630972",
-  "logradouro": "AC Uruana de Minas Rua Vicente Alves 408",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uruana de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38630972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uruana de Minas"
+    },
+    "ibge": 3170479,
+    "logradouro": "Rua Vicente Alves, 196  AC Uruana de Minas;"
 }

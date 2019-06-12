@@ -1,12 +1,12 @@
 {
-  "cep": "41900490",
-  "logradouro": "Rua Campo Formoso",
-  "bairro": "Amaralina",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Amaralina;",
+    "cep": "41900490",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Campo Formoso;"
 }

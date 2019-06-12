@@ -1,12 +1,12 @@
 {
-  "cep": "37903379",
-  "logradouro": "Rua Vespasiano de 321/322 ao fim",
-  "bairro": "COHAB",
-  "cidade": {
-    "nome": "Passos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "COHAB;",
+    "cep": "37903379",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Passos"
+    },
+    "logradouro": "Rua Vespasiano - de 321\/322 ao fim;"
 }

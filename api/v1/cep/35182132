@@ -1,12 +1,13 @@
 {
-  "cep": "35182132",
-  "logradouro": "Avenida Acesita de 3042/3043 a 3580/3581",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "35182132",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "ibge": 3168705,
+    "logradouro": "Avenida Acesita - de 3042\/3043 a 3580\/3581;"
 }

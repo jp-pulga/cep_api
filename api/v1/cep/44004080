@@ -1,12 +1,12 @@
 {
-  "cep": "44004080",
-  "logradouro": "Rua Canavieiras",
-  "bairro": "Chácara São Cosme",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Chácara São Cosme;",
+    "cep": "44004080",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Canavieiras;"
 }

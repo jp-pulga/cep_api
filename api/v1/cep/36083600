@@ -1,12 +1,12 @@
 {
-  "cep": "36083600",
-  "logradouro": "Rua Wenceslau Braz",
-  "bairro": "Jóquei Clube",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jóquei Clube;",
+    "cep": "36083600",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Wenceslau Braz;"
 }

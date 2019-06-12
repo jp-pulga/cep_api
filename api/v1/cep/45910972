@@ -1,12 +1,13 @@
 {
-  "cep": "45910972",
-  "logradouro": "AGC São José de Alcobaça Rua Itanhém s/n",
-  "bairro": "São José de Alcobaça",
-  "cidade": {
-    "nome": "Alcobaça",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São José de Alcobaça;",
+    "cep": "45910972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alcobaça"
+    },
+    "ibge": 2900801,
+    "logradouro": "Rua Itanhém, s\/n  AGC São José de Alcobaça;"
 }

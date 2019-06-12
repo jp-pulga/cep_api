@@ -1,12 +1,13 @@
 {
-  "cep": "39801723",
-  "logradouro": "Alameda Rafael Freire de Melo de 243/244 ao fim",
-  "bairro": "Castro Pires",
-  "cidade": {
-    "nome": "Teófilo Otoni",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Castro Pires;",
+    "cep": "39801723",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Teófilo Otoni"
+    },
+    "ibge": 3168606,
+    "logradouro": "Alameda Rafael Freire de Melo - de 243\/244 ao fim;"
 }

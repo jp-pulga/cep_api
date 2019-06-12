@@ -1,12 +1,13 @@
 {
-  "cep": "48660970",
-  "logradouro": "AC Chorrochó Rua Coronel João Sá s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Chorrochó",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48660970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Chorrochó"
+    },
+    "ibge": 2907707,
+    "logradouro": "Rua Coronel João Sá, s\/n  AC Chorrochó;"
 }

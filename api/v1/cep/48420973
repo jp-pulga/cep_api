@@ -1,12 +1,13 @@
 {
-  "cep": "48420973",
-  "logradouro": "AGC Entrocamento Rua do Comércio s/n",
-  "bairro": "Entroncamento",
-  "cidade": {
-    "nome": "Antas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Entroncamento;",
+    "cep": "48420973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Antas"
+    },
+    "ibge": 2901601,
+    "logradouro": "Rua do Comércio, s\/n  AGC Entrocamento;"
 }

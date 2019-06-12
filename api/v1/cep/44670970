@@ -1,12 +1,13 @@
 {
-  "cep": "44670970",
-  "logradouro": "AC Anguera Praça Artur Vieira 22",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Anguera",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44670970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Anguera"
+    },
+    "ibge": 2901502,
+    "logradouro": "Praça Artur Vieira, 22  AC Anguera;"
 }

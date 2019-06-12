@@ -1,12 +1,13 @@
 {
-  "cep": "43839899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Candeias",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Área Rural de Candeias;",
+    "cep": "43839899",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "ibge": 2906501,
+    "logradouro": "Área Rural;"
 }

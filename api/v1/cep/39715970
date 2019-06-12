@@ -1,12 +1,13 @@
 {
-  "cep": "39715970",
-  "logradouro": "AC Virgolândia Rua Prefeito Quim Júlio 189",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Virgolândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39715970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Virgolândia"
+    },
+    "ibge": 3171907,
+    "logradouro": "Rua Prefeito Quim Júlio, 189  AC Virgolândia;"
 }

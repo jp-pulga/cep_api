@@ -1,12 +1,12 @@
 {
-  "cep": "44022092",
-  "logradouro": "Rua Marquês de Caravelas",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "44022092",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Marquês de Caravelas;"
 }

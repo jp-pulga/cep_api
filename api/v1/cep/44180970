@@ -1,12 +1,13 @@
 {
-  "cep": "44180970",
-  "logradouro": "AC Antônio Cardoso Praça da Matriz 163",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Antônio Cardoso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44180970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Antônio Cardoso"
+    },
+    "ibge": 2901700,
+    "logradouro": "Praça da Matriz, 163  AC Antônio Cardoso;"
 }

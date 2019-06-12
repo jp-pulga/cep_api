@@ -1,12 +1,12 @@
 {
-  "cep": "02169050",
-  "logradouro": "Rua Badajoz",
-  "bairro": "Jardim Andaraí",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Andaraí;",
+    "cep": "02169050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Badajoz;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "02557010",
-  "logradouro": "Travessa Barra do Rocha",
-  "bairro": "Vila Barbosa",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Barbosa;",
+    "cep": "02557010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Barra do Rocha;"
 }

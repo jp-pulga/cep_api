@@ -1,12 +1,13 @@
 {
-  "cep": "38794970",
-  "logradouro": "AC Varjão de Minas Rua Miguel Moreira 08",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Varjão de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38794970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varjão de Minas"
+    },
+    "ibge": 3170750,
+    "logradouro": "Rua Miguel Moreira, 08  AC Varjão de Minas;"
 }

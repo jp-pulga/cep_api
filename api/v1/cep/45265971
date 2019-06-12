@@ -1,12 +1,13 @@
 {
-  "cep": "45265971",
-  "logradouro": "AGC Caldeirão Praça do Campo s/n",
-  "bairro": "Caldeirão",
-  "cidade": {
-    "nome": "Caetanos",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caldeirão;",
+    "cep": "45265971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Caetanos"
+    },
+    "ibge": 2905156,
+    "logradouro": "Praça do Campo, s\/n  AGC Caldeirão;"
 }

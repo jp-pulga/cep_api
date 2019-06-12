@@ -1,12 +1,12 @@
 {
-  "cep": "32280170",
-  "logradouro": "Rua Rio Tocantins",
-  "bairro": "Riacho das Pedras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Riacho das Pedras;",
+    "cep": "32280170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Rio Tocantins;"
 }

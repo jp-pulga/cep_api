@@ -1,12 +1,12 @@
 {
-  "cep": "30720210",
-  "logradouro": "Rua Tombos de 131/132 ao fim",
-  "bairro": "Padre Eustáquio",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Padre Eustáquio;",
+    "cep": "30720210",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Tombos - de 131\/132 ao fim;"
 }
