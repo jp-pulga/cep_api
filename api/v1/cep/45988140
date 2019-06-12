@@ -1,12 +1,12 @@
 {
-  "cep": "45988140",
-  "logradouro": "Rua Antônio Calado",
-  "bairro": "Mirante do Rio",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Mirante do Rio;",
+    "cep": "45988140",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Antônio Calado;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45375970",
-  "logradouro": "AC Planaltino Praça Ruy Barbosa 142",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Planaltino",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45375970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Planaltino"
+    },
+    "ibge": 2924900,
+    "logradouro": "Praça Ruy Barbosa, 142  AC Planaltino;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "43700974",
-  "logradouro": "PC Palmares Rodovia BA-093 km 115",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Simões Filho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "43700974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Simões Filho"
+    },
+    "ibge": 2930709,
+    "logradouro": "Rodovia BA-093, km 11,5  PC Palmares;"
 }

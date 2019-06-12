@@ -1,12 +1,12 @@
 {
-  "cep": "48070270",
-  "logradouro": "Travessa Senhor do Bonfim",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "48070270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Travessa Senhor do Bonfim;"
 }

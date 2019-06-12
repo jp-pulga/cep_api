@@ -1,12 +1,12 @@
 {
-  "cep": "04544130",
-  "logradouro": "Travessa Doutor João Batista de Santana",
-  "bairro": "Vila Nova Conceição",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Nova Conceição;",
+    "cep": "04544130",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Doutor João Batista de Santana;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44840970",
-  "logradouro": "AC Tapiramutá Rua Mariano Alves 82",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tapiramutá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44840970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Tapiramutá"
+    },
+    "ibge": 2931301,
+    "logradouro": "Rua Mariano Alves, 82  AC Tapiramutá;"
 }

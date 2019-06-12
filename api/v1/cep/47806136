@@ -1,12 +1,12 @@
 {
-  "cep": "47806136",
-  "logradouro": "Avenida Ruy Barbosa",
-  "bairro": "Vila Regina",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Regina;",
+    "cep": "47806136",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Avenida Ruy Barbosa;"
 }

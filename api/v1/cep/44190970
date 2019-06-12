@@ -1,12 +1,13 @@
 {
-  "cep": "44190970",
-  "logradouro": "AC Santo Estevão Rua Professora Iacy Lopes Amorim s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Estevão",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44190970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Estêvão"
+    },
+    "ibge": 2928802,
+    "logradouro": "Rua Professora Iacy Lopes Amorim, s\/n  AC Santo Estevão;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45790971",
-  "logradouro": "AGC Itaimbé Rua Alto da Bela Vista 30",
-  "bairro": "Itaimbé",
-  "cidade": {
-    "nome": "Potiraguá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itaimbé;",
+    "cep": "45790971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Potiraguá"
+    },
+    "ibge": 2925402,
+    "logradouro": "Rua Alto da Bela Vista, 30  AGC Itaimbé;"
 }

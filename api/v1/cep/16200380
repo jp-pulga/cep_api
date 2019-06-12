@@ -1,12 +1,12 @@
 {
-  "cep": "16200380",
-  "logradouro": "Rua Ribeiro de Barros de 1/2 a 99998/99999",
-  "bairro": "Bosque da Saúde",
-  "cidade": {
-    "nome": "Birigüi",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bosque da Saúde;",
+    "cep": "16200380",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Birigüi"
+    },
+    "logradouro": "Rua Ribeiro de Barros - de 1\/2 a 99998\/99999;"
 }

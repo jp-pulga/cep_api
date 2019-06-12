@@ -1,12 +1,12 @@
 {
-  "cep": "13457036",
-  "logradouro": "Rua Tucanos",
-  "bairro": "Jardim São Francisco",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Francisco;",
+    "cep": "13457036",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Tucanos;"
 }

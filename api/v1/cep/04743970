@@ -1,12 +1,12 @@
 {
-  "cep": "04743970",
-  "logradouro": "AGF Barão de Duprat Rua Barão de Duprat 335 Sala 1",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "04743970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barão de Duprat, 335 Sala 1  AGF Barão de Duprat;"
 }

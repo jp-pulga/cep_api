@@ -1,12 +1,13 @@
 {
-  "cep": "45988566",
-  "logradouro": "Rua Doutor Aliomar Baleeiro",
-  "bairro": "Caminho do Mar",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caminho do Mar;",
+    "cep": "45988566",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Doutor Aliomar Baleeiro;"
 }

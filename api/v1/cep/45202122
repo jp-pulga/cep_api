@@ -1,12 +1,12 @@
 {
-  "cep": "45202122",
-  "logradouro": "1ª Travessa Santa Rita de Cássia",
-  "bairro": "Curral Novo",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Curral Novo;",
+    "cep": "45202122",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "1ª Travessa Santa Rita de Cássia;"
 }

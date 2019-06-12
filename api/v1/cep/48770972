@@ -1,12 +1,13 @@
 {
-  "cep": "48770972",
-  "logradouro": "AGC Setor Praça Central s/n",
-  "bairro": "Setor",
-  "cidade": {
-    "nome": "Teofilândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Setor;",
+    "cep": "48770972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teofilândia"
+    },
+    "ibge": 2931509,
+    "logradouro": "Praça Central, s\/n  AGC Setor;"
 }

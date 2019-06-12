@@ -1,12 +1,12 @@
 {
-  "cep": "41400055",
-  "logradouro": "Rua Ubaíra",
-  "bairro": "CEASA",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "CEASA;",
+    "cep": "41400055",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Ubaíra;"
 }

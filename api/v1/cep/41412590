@@ -1,12 +1,12 @@
 {
-  "cep": "41412590",
-  "logradouro": "Rua Santa Cruz Cabrália",
-  "bairro": "Areia Branca",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Areia Branca;",
+    "cep": "41412590",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Santa Cruz Cabrália;"
 }

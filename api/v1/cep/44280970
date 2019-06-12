@@ -1,12 +1,13 @@
 {
-  "cep": "44280970",
-  "logradouro": "AC Teodoro Sampaio Rua Doutor Otávio de Araújo 111",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teodoro Sampaio",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44280970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teodoro Sampaio"
+    },
+    "ibge": 2931400,
+    "logradouro": "Rua Doutor Otávio de Araújo, 111  AC Teodoro Sampaio;"
 }

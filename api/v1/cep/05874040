@@ -1,12 +1,12 @@
 {
-  "cep": "05874040",
-  "logradouro": "Rua Barbosa de Freitas",
-  "bairro": "Parque Novo Santo Amaro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Novo Santo Amaro;",
+    "cep": "05874040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barbosa de Freitas;"
 }

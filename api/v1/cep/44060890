@@ -1,12 +1,12 @@
 {
-  "cep": "44060890",
-  "logradouro": "Rua Pindobaçu",
-  "bairro": "Papagaio",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Papagaio;",
+    "cep": "44060890",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Pindobaçu;"
 }

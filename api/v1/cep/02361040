@@ -1,12 +1,12 @@
 {
-  "cep": "02361040",
-  "logradouro": "Rua Presidente Bartolomé Mitre",
-  "bairro": "Associação Sobradinho",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Associação Sobradinho;",
+    "cep": "02361040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Presidente Bartolomé Mitre;"
 }

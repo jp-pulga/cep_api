@@ -1,12 +1,12 @@
 {
-  "cep": "13450010",
-  "logradouro": "Rua Santa Bárbara até 670/671",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "13450010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Santa Bárbara - até 670\/671;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13603132",
-  "logradouro": "Rua Salvador Baggio Filho",
-  "bairro": "Parque Santa Cândida",
-  "cidade": {
-    "nome": "Araras",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Santa Cândida;",
+    "cep": "13603132",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araras"
+    },
+    "logradouro": "Rua Salvador Baggio Filho;"
 }

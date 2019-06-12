@@ -1,12 +1,12 @@
 {
-  "cep": "41770350",
-  "logradouro": "Rua São Francisco do Conde",
-  "bairro": "Stiep",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Stiep;",
+    "cep": "41770350",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua São Francisco do Conde;"
 }

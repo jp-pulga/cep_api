@@ -1,12 +1,12 @@
 {
-  "cep": "40045175",
-  "logradouro": "Avenida Monte Castelo",
-  "bairro": "Saúde",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Saúde;",
+    "cep": "40045175",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Monte Castelo;"
 }

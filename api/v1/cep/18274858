@@ -1,12 +1,12 @@
 {
-  "cep": "18274858",
-  "logradouro": "Rua Olair Barbosa Carneiro",
-  "bairro": "Tanquinho",
-  "cidade": {
-    "nome": "Tatuí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Tanquinho;",
+    "cep": "18274858",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Tatuí"
+    },
+    "logradouro": "Rua Olair Barbosa Carneiro;"
 }

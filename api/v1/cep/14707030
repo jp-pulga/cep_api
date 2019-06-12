@@ -1,12 +1,12 @@
 {
-  "cep": "14707030",
-  "logradouro": "Rua Salvador Brasilino Barbosa",
-  "bairro": "Estância Vila Verde",
-  "cidade": {
-    "nome": "Bebedouro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Estância Vila Verde;",
+    "cep": "14707030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bebedouro"
+    },
+    "logradouro": "Rua Salvador Brasilino Barbosa;"
 }

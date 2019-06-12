@@ -1,12 +1,12 @@
 {
-  "cep": "41400065",
-  "logradouro": "Rua Serra Dourada",
-  "bairro": "CEASA",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "CEASA;",
+    "cep": "41400065",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Serra Dourada;"
 }

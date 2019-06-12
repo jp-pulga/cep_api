@@ -1,12 +1,13 @@
 {
-  "cep": "47156970",
-  "logradouro": "AGC Malhada Grande Rua Principal s/n",
-  "bairro": "Malhada Grande",
-  "cidade": {
-    "nome": "Santa Rita de Cássia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Malhada Grande;",
+    "cep": "47156970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santa Rita de Cássia"
+    },
+    "ibge": 2928406,
+    "logradouro": "Rua Principal, s\/n  AGC Malhada Grande;"
 }

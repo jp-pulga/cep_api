@@ -1,12 +1,12 @@
 {
-  "cep": "05439090",
-  "logradouro": "Rua Felipe Cavalcanti",
-  "bairro": "Jardim das Bandeiras",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim das Bandeiras;",
+    "cep": "05439090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Felipe Cavalcanti;"
 }

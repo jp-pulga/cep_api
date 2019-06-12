@@ -1,12 +1,12 @@
 {
-  "cep": "43810255",
-  "logradouro": "Travessa Desembargador Teixeira de Freitas",
-  "bairro": "Nova Brasília",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Brasília;",
+    "cep": "43810255",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Travessa Desembargador Teixeira de Freitas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "48790970",
-  "logradouro": "AC Tucano Avenida Antônio Carlos Magalhães s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tucano",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48790970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Tucano"
+    },
+    "ibge": 2931905,
+    "logradouro": "Avenida Antônio Carlos Magalhães, s\/n  AC Tucano;"
 }

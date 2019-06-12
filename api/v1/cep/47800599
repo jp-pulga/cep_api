@@ -1,12 +1,12 @@
 {
-  "cep": "47800599",
-  "logradouro": "Rua Serrinha",
-  "bairro": "Rio Grande",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Grande;",
+    "cep": "47800599",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Serrinha;"
 }

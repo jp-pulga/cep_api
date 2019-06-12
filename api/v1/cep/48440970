@@ -1,12 +1,13 @@
 {
-  "cep": "48440970",
-  "logradouro": "AC Ribeira do Amparo Praça Prefeito Marcello Brito s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeira do Amparo",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48440970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ribeira do Amparo"
+    },
+    "ibge": 2926509,
+    "logradouro": "Praça Prefeito Marcello Brito, s\/n  AC Ribeira do Amparo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "47630977",
-  "logradouro": "AGC Agrovila 7 Rua T s/n",
-  "bairro": "Agrovila 7",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agrovila 7;",
+    "cep": "47630977",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Rua T, s\/n  AGC Agrovila 7;"
 }

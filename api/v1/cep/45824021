@@ -1,12 +1,12 @@
 {
-  "cep": "45824021",
-  "logradouro": "Rua Presidente Dutra",
-  "bairro": "Distrito Industrial",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Distrito Industrial;",
+    "cep": "45824021",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Presidente Dutra;"
 }

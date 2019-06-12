@@ -1,12 +1,13 @@
 {
-  "cep": "47740970",
-  "logradouro": "AC Serra Dourada Rua São Gonçalo 33",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra Dourada",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47740970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra Dourada"
+    },
+    "ibge": 2930303,
+    "logradouro": "Rua São Gonçalo, 33  AC Serra Dourada;"
 }

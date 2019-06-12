@@ -1,12 +1,12 @@
 {
-  "cep": "44021095",
-  "logradouro": "Rua General Costa e Silva",
-  "bairro": "Sobradinho",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sobradinho;",
+    "cep": "44021095",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua General Costa e Silva;"
 }

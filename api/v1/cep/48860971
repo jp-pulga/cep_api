@@ -1,12 +1,13 @@
 {
-  "cep": "48860971",
-  "logradouro": "AGC Coronel João Borges Praça Clotildes de Andrade Borges 268",
-  "bairro": "Coronel João Borges",
-  "cidade": {
-    "nome": "Queimadas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Coronel João Borges;",
+    "cep": "48860971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Queimadas"
+    },
+    "ibge": 2925808,
+    "logradouro": "Praça Clotildes de Andrade Borges, 268  AGC Coronel João Borges;"
 }

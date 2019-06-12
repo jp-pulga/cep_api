@@ -1,12 +1,12 @@
 {
-  "cep": "64071400",
-  "logradouro": "Rua São Domingos (Vl Sta Bárbara)",
-  "bairro": "Verde Lar",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Verde Lar;",
+    "cep": "64071400",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua São Domingos (Vl Sta Bárbara);"
 }

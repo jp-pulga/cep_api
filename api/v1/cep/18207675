@@ -1,12 +1,12 @@
 {
-  "cep": "18207675",
-  "logradouro": "Rua Salvador Batista",
-  "bairro": "Jardim Bela Vista",
-  "cidade": {
-    "nome": "Itapetininga",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bela Vista;",
+    "cep": "18207675",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapetininga"
+    },
+    "logradouro": "Rua Salvador Batista;"
 }

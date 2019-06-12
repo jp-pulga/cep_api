@@ -1,12 +1,11 @@
 {
-  "cep": "46900000",
-  "logradouro": "Seabra",
-  "bairro": "",
-  "cidade": {
-    "nome": "Seabra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "46900000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Seabra"
+    },
+    "ibge": 2929909
 }

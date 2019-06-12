@@ -1,12 +1,12 @@
 {
-  "cep": "36045971",
-  "logradouro": "AGF Santa Terezinha Avenida Rui Barbosa 474 Loja 101",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "36045971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Avenida Rui Barbosa, 474 Loja 101  AGF Santa Terezinha;"
 }

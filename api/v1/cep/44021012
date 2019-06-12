@@ -1,12 +1,12 @@
 {
-  "cep": "44021012",
-  "logradouro": "Rua Marquês de Abrantes",
-  "bairro": "Sobradinho",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sobradinho;",
+    "cep": "44021012",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Marquês de Abrantes;"
 }

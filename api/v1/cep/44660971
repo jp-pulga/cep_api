@@ -1,12 +1,13 @@
 {
-  "cep": "44660971",
-  "logradouro": "AGC Praça da Matriz Praça da Matriz s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra Preta",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44660971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra Preta"
+    },
+    "ibge": 2930402,
+    "logradouro": "Praça da Matriz, s\/n  AGC Praça da Matriz;"
 }

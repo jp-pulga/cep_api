@@ -1,12 +1,13 @@
 {
-  "cep": "45810973",
-  "logradouro": "AGC Pindorama Rua Santa Rita s/n",
-  "bairro": "Pindorama",
-  "cidade": {
-    "nome": "Porto Seguro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pindorama;",
+    "cep": "45810973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Porto Seguro"
+    },
+    "ibge": 2925303,
+    "logradouro": "Rua Santa Rita, s\/n  AGC Pindorama;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "17525340",
-  "logradouro": "Rua Doutor Rolando Battistetti",
-  "bairro": "Parque Serra Dourada",
-  "cidade": {
-    "nome": "Marília",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Serra Dourada;",
+    "cep": "17525340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Marília"
+    },
+    "logradouro": "Rua Doutor Rolando Battistetti;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40270570",
-  "logradouro": "Rua Rio Real",
-  "bairro": "Vila Laura",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Laura;",
+    "cep": "40270570",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Rio Real;"
 }

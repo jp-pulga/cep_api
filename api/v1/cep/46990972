@@ -1,12 +1,13 @@
 {
-  "cep": "46990972",
-  "logradouro": "AGC Segredo Rua João Antônio 16",
-  "bairro": "Segredo",
-  "cidade": {
-    "nome": "Souto Soares",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Segredo;",
+    "cep": "46990972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Souto Soares"
+    },
+    "ibge": 2930808,
+    "logradouro": "Rua João Antônio, 16  AGC Segredo;"
 }

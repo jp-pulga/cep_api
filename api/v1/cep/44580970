@@ -1,12 +1,13 @@
 {
-  "cep": "44580970",
-  "logradouro": "AC São Miguel das Matas Rua Marechal Castelo Branco 04",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Miguel das Matas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44580970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Miguel das Matas"
+    },
+    "ibge": 2929404,
+    "logradouro": "Rua Marechal Castelo Branco, 04  AC São Miguel das Matas;"
 }

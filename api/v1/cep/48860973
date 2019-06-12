@@ -1,12 +1,13 @@
 {
-  "cep": "48860973",
-  "logradouro": "AGC Espanta Gado Praça Pedro Barreto s/n",
-  "bairro": "Espanta Gado",
-  "cidade": {
-    "nome": "Queimadas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Espanta Gado;",
+    "cep": "48860973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Queimadas"
+    },
+    "ibge": 2925808,
+    "logradouro": "Praça Pedro Barreto, s\/n  AGC Espanta Gado;"
 }

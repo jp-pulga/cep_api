@@ -1,12 +1,12 @@
 {
-  "cep": "44005408",
-  "logradouro": "Rua Serra Dourada",
-  "bairro": "Muchila",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Muchila;",
+    "cep": "44005408",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Serra Dourada;"
 }

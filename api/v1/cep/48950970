@@ -1,12 +1,13 @@
 {
-  "cep": "48950970",
-  "logradouro": "AC Uauá Rua Jeronimo de Sá Rodrigues 82",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uauá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48950970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Uauá"
+    },
+    "ibge": 2932002,
+    "logradouro": "Rua Jeronimo de Sá Rodrigues, 82  AC Uauá;"
 }

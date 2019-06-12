@@ -1,12 +1,11 @@
 {
-  "cep": "44770000",
-  "logradouro": "Pindobaçu",
-  "bairro": "",
-  "cidade": {
-    "nome": "Pindobaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44770000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pindobaçu"
+    },
+    "ibge": 2924603
 }

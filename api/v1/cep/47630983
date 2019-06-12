@@ -1,12 +1,13 @@
 {
-  "cep": "47630983",
-  "logradouro": "AGC Agrovila 14 Rua E 174",
-  "bairro": "Agrovila 14",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agrovila 14;",
+    "cep": "47630983",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Rua E, 174  AGC Agrovila 14;"
 }

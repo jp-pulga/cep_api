@@ -1,12 +1,12 @@
 {
-  "cep": "45652478",
-  "logradouro": "Rua Teodoro Sampaio",
-  "bairro": "Boa Vista",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boa Vista;",
+    "cep": "45652478",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Teodoro Sampaio;"
 }

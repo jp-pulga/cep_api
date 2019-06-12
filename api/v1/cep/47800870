@@ -1,12 +1,12 @@
 {
-  "cep": "47800870",
-  "logradouro": "Rua Ayrton Senna",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "47800870",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Ayrton Senna;"
 }

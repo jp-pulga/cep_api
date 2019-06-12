@@ -1,12 +1,12 @@
 {
-  "cep": "69015501",
-  "logradouro": "Travessa Belmiro Balbino",
-  "bairro": "Colônia Terra Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Colônia Terra Nova;",
+    "cep": "69015501",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Travessa Belmiro Balbino;"
 }

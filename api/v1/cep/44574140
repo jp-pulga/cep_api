@@ -1,12 +1,13 @@
 {
-  "cep": "44574140",
-  "logradouro": "Alameda Doze",
-  "bairro": "Urbis II",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Urbis II;",
+    "cep": "44574140",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Alameda Doze;"
 }

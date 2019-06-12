@@ -1,12 +1,12 @@
 {
-  "cep": "44036286",
-  "logradouro": "Travessa Senhor do Bonfim",
-  "bairro": "Novo Horizonte",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Horizonte;",
+    "cep": "44036286",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Senhor do Bonfim;"
 }

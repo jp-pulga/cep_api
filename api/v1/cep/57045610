@@ -1,12 +1,12 @@
 {
-  "cep": "57045610",
-  "logradouro": "Travessa Santa Luzia",
-  "bairro": "Barro Duro",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Barro Duro;",
+    "cep": "57045610",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Travessa Santa Luzia;"
 }

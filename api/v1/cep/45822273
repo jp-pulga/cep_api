@@ -1,12 +1,12 @@
 {
-  "cep": "45822273",
-  "logradouro": "Travessa São Domingos",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "45822273",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Travessa São Domingos;"
 }

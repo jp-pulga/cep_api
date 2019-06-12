@@ -1,12 +1,12 @@
 {
-  "cep": "45203262",
-  "logradouro": "Praça Professor Antônio Félix de Brito",
-  "bairro": "São Luís",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Luís;",
+    "cep": "45203262",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Praça Professor Antônio Félix de Brito;"
 }

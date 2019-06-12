@@ -1,12 +1,13 @@
 {
-  "cep": "44572630",
-  "logradouro": "Rua São Bartolomeu",
-  "bairro": "Amparo",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Amparo;",
+    "cep": "44572630",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Rua São Bartolomeu;"
 }

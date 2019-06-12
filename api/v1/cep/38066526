@@ -1,12 +1,12 @@
 {
-  "cep": "38066526",
-  "logradouro": "Rua José Júlio de Barros",
-  "bairro": "Residencial Presidente Tancredo Neves",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Presidente Tancredo Neves;",
+    "cep": "38066526",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua José Júlio de Barros;"
 }

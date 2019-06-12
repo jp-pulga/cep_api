@@ -1,12 +1,13 @@
 {
-  "cep": "41250467",
-  "logradouro": "Rua Baixa Sílvio Santos",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "41250467",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "ibge": 2927408,
+    "logradouro": "Rua Baixa Sílvio Santos;"
 }

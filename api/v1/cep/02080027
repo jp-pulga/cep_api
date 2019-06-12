@@ -1,12 +1,12 @@
 {
-  "cep": "02080027",
-  "logradouro": "Praça João Baptista Fellippetti",
-  "bairro": "Vila Isolina Mazzei",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Isolina Mazzei;",
+    "cep": "02080027",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça João Baptista Fellippetti;"
 }

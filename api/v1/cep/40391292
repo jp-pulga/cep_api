@@ -1,12 +1,12 @@
 {
-  "cep": "40391292",
-  "logradouro": "Avenida Félix",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "40391292",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Félix;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "47630981",
-  "logradouro": "AGC Agrovila 12 Rua Principal s/n",
-  "bairro": "Agrovila 12",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agrovila 12;",
+    "cep": "47630981",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Rua Principal, s\/n  AGC Agrovila 12;"
 }

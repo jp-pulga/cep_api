@@ -1,12 +1,13 @@
 {
-  "cep": "47820970",
-  "logradouro": "AC São Desidério Rua das Palmeiras 163",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Desidério",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47820970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Desidério"
+    },
+    "ibge": 2928901,
+    "logradouro": "Rua das Palmeiras, 163  AC São Desidério;"
 }

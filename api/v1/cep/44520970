@@ -1,12 +1,13 @@
 {
-  "cep": "44520970",
-  "logradouro": "AC Rafael Jambeiro Largo da Liberdade s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rafael Jambeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44520970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Rafael Jambeiro"
+    },
+    "ibge": 2925956,
+    "logradouro": "Largo da Liberdade, s\/n  AC Rafael Jambeiro;"
 }

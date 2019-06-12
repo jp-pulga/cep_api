@@ -1,12 +1,12 @@
 {
-  "cep": "47810862",
-  "logradouro": "Rua Santa Luzia",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "47810862",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Santa Luzia;"
 }

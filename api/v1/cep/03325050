@@ -1,12 +1,12 @@
 {
-  "cep": "03325050",
-  "logradouro": "Rua Nestor de Barros",
-  "bairro": "Vila Santo Estevão",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santo Estevão;",
+    "cep": "03325050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Nestor de Barros;"
 }

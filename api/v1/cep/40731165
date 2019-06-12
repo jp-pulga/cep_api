@@ -1,12 +1,13 @@
 {
-  "cep": "40731165",
-  "logradouro": "Rua Cristóvão Barreto",
-  "bairro": "Fazenda Coutos",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Fazenda Coutos;",
+    "cep": "40731165",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "ibge": 2927408,
+    "logradouro": "Rua Cristóvão Barreto;"
 }

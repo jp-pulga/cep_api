@@ -1,12 +1,12 @@
 {
-  "cep": "96410045",
-  "logradouro": "Rua Felipe Quadros",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Bagé",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "96410045",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Bagé"
+    },
+    "logradouro": "Rua Felipe Quadros;"
 }

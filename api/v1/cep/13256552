@@ -1,12 +1,12 @@
 {
-  "cep": "13256552",
-  "logradouro": "Avenida Luiz Bartholomeu Tatão",
-  "bairro": "Loteamento Residencial Terra Nova",
-  "cidade": {
-    "nome": "Itatiba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Loteamento Residencial Terra Nova;",
+    "cep": "13256552",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itatiba"
+    },
+    "logradouro": "Avenida Luiz Bartholomeu Tatão;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45260970",
-  "logradouro": "AC Poções Avenida Cônego Pithon s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Poções",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45260970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Poções"
+    },
+    "ibge": 2925105,
+    "logradouro": "Avenida Cônego Pithon, s\/n  AC Poções;"
 }

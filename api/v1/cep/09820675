@@ -1,12 +1,12 @@
 {
-  "cep": "09820675",
-  "logradouro": "Rua Júlio Barazal Salgado",
-  "bairro": "Parque Terra Nova II",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Terra Nova II;",
+    "cep": "09820675",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Júlio Barazal Salgado;"
 }

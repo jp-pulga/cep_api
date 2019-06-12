@@ -1,12 +1,12 @@
 {
-  "cep": "18405200",
-  "logradouro": "Rua Professor Salvador Pereira de Barros",
-  "bairro": "Jardim Brasil",
-  "cidade": {
-    "nome": "Itapeva",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Brasil;",
+    "cep": "18405200",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Itapeva"
+    },
+    "logradouro": "Rua Professor Salvador Pereira de Barros;"
 }

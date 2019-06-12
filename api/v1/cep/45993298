@@ -1,12 +1,12 @@
 {
-  "cep": "45993298",
-  "logradouro": "Rua São Gabriel",
-  "bairro": "Alto do Tancredo",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Alto do Tancredo;",
+    "cep": "45993298",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua São Gabriel;"
 }

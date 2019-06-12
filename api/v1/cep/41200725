@@ -1,12 +1,12 @@
 {
-  "cep": "41200725",
-  "logradouro": "Rua São Felipe",
-  "bairro": "Engomadeira",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Engomadeira;",
+    "cep": "41200725",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua São Felipe;"
 }

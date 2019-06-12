@@ -1,12 +1,12 @@
 {
-  "cep": "07153270",
-  "logradouro": "Rua Salvador Bancheri",
-  "bairro": "Jardim Fortaleza",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Fortaleza;",
+    "cep": "07153270",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Salvador Bancheri;"
 }

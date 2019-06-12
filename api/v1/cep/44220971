@@ -1,12 +1,13 @@
 {
-  "cep": "44220971",
-  "logradouro": "AGC Bom Jesus dos Pobres Rua do Asfalto s/n",
-  "bairro": "Bom Jesus dos Pobres",
-  "cidade": {
-    "nome": "Saubara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bom Jesus dos Pobres;",
+    "cep": "44220971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Saubara"
+    },
+    "ibge": 2929750,
+    "logradouro": "Rua do Asfalto, s\/n  AGC Bom Jesus dos Pobres;"
 }

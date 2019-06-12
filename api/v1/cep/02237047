@@ -1,12 +1,12 @@
 {
-  "cep": "02237047",
-  "logradouro": "Travessa Santa Bárbara do Monte Verde",
-  "bairro": "Jardim Modelo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Modelo;",
+    "cep": "02237047",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Travessa Santa Bárbara do Monte Verde;"
 }

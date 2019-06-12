@@ -1,12 +1,12 @@
 {
-  "cep": "48010620",
-  "logradouro": "Travessa São Benedito",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "48010620",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Travessa São Benedito;"
 }

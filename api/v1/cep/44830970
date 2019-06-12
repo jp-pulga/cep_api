@@ -1,12 +1,13 @@
 {
-  "cep": "44830970",
-  "logradouro": "AC Piritiba Praça Getúlio Vargas 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piritiba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44830970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Piritiba"
+    },
+    "ibge": 2924801,
+    "logradouro": "Praça Getúlio Vargas, 34  AC Piritiba;"
 }

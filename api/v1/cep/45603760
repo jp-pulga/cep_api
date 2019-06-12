@@ -1,12 +1,12 @@
 {
-  "cep": "45603760",
-  "logradouro": "Rua Dona Lozinha Parteira",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "45603760",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Dona Lozinha Parteira;"
 }

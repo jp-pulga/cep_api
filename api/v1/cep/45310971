@@ -1,12 +1,13 @@
 {
-  "cep": "45310971",
-  "logradouro": "AGC Três Braços Rua Rio Preto s/n",
-  "bairro": "Três Braços",
-  "cidade": {
-    "nome": "Ubaíra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Três Braços;",
+    "cep": "45310971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ubaíra"
+    },
+    "ibge": 2932101,
+    "logradouro": "Rua Rio Preto, s\/n  AGC Três Braços;"
 }

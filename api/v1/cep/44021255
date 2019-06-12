@@ -1,12 +1,12 @@
 {
-  "cep": "44021255",
-  "logradouro": "Rua Landulfo Alves de 722 ao fim - lado par",
-  "bairro": "Sobradinho",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sobradinho;",
+    "cep": "44021255",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Landulfo Alves - de 722 ao fim - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "48010510",
-  "logradouro": "Rua Moreira César",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "48010510",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Moreira César;"
 }

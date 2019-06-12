@@ -1,12 +1,12 @@
 {
-  "cep": "43815190",
-  "logradouro": "Rua Sapeaçu",
-  "bairro": "Nova Candeias",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Candeias;",
+    "cep": "43815190",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Rua Sapeaçu;"
 }

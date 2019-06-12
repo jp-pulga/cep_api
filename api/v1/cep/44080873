@@ -1,12 +1,12 @@
 {
-  "cep": "44080873",
-  "logradouro": "Rua São Pedro",
-  "bairro": "Subaé (Tanquinho)",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Subaé (Tanquinho);",
+    "cep": "44080873",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua São Pedro;"
 }

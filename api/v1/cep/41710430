@@ -1,12 +1,12 @@
 {
-  "cep": "41710430",
-  "logradouro": "Travessa Antônio dos Santos",
-  "bairro": "Boca do Rio",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boca do Rio;",
+    "cep": "41710430",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Antônio dos Santos;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44915970",
-  "logradouro": "AC São Gabriel Rua Sete de Setembro 171",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gabriel",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44915970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Gabriel"
+    },
+    "ibge": 2929255,
+    "logradouro": "Rua Sete de Setembro, 171  AC São Gabriel;"
 }

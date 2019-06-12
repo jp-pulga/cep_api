@@ -1,12 +1,12 @@
 {
-  "cep": "13459612",
-  "logradouro": "Avenida Marginal Dois",
-  "bairro": "Centro Industrial e Tecnológico de Santa Bárbara D'Oeste",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro Industrial e Tecnológico de Santa Bárbara D'Oeste;",
+    "cep": "13459612",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Avenida Claudionor Furlan;"
 }

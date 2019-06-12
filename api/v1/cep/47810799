@@ -1,12 +1,12 @@
 {
-  "cep": "47810799",
-  "logradouro": "Rua Piritiba",
-  "bairro": "Vila dos Sas",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila dos Sas;",
+    "cep": "47810799",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Piritiba;"
 }

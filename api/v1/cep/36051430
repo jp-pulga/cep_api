@@ -1,12 +1,12 @@
 {
-  "cep": "36051430",
-  "logradouro": "Rua Agenor Batista Garcia",
-  "bairro": "Santa Rita de Cássia",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita de Cássia;",
+    "cep": "36051430",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Agenor Batista Garcia;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12224430",
-  "logradouro": "Rua Esmeraldo Baptista Santana",
-  "bairro": "Jardim São Vicente",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Vicente;",
+    "cep": "12224430",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Esmeraldo Baptista Santana;"
 }

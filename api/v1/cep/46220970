@@ -1,12 +1,13 @@
 {
-  "cep": "46220970",
-  "logradouro": "AC Rio do Antônio Rua Florindo Silveira 100",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rio do Antônio",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46220970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Rio do Antônio"
+    },
+    "ibge": 2926806,
+    "logradouro": "Rua Florindo Silveira, 100  AC Rio do Antônio;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44270970",
-  "logradouro": "AC Terra Nova Avenida César Borges 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Terra Nova",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44270970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Terra Nova"
+    },
+    "ibge": 2931707,
+    "logradouro": "Avenida César Borges, 2  AC Terra Nova;"
 }

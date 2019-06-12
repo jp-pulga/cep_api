@@ -1,12 +1,12 @@
 {
-  "cep": "44021182",
-  "logradouro": "Rua Aloísio Alves Franco",
-  "bairro": "Sobradinho",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sobradinho;",
+    "cep": "44021182",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Aloísio Alves Franco;"
 }

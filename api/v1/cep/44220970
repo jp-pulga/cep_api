@@ -1,12 +1,13 @@
 {
-  "cep": "44220970",
-  "logradouro": "AC Saubara Rua Ananias Requião 10",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Saubara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44220970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Saubara"
+    },
+    "ibge": 2929750,
+    "logradouro": "Rua Ananias Requião, 05  AC Saubara;"
 }

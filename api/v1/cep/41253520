@@ -1,12 +1,12 @@
 {
-  "cep": "41253520",
-  "logradouro": "Rua Santa Rita de Cássia",
-  "bairro": "São Marcos",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Marcos;",
+    "cep": "41253520",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Santa Rita de Cássia;"
 }

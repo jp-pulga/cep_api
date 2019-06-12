@@ -1,12 +1,13 @@
 {
-  "cep": "44200970",
-  "logradouro": "AC Santo Amaro Avenida Viana Bandeira 94",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Amaro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44200970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Amaro"
+    },
+    "ibge": 2928604,
+    "logradouro": "Avenida Viana Bandeira, 94  AC Santo Amaro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44160970",
-  "logradouro": "AC Tanquinho Praça Samuel Carlos Pereira 45",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tanquinho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44160970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Tanquinho"
+    },
+    "ibge": 2931103,
+    "logradouro": "Praça Samuel Carlos Pereira, 45  AC Tanquinho;"
 }

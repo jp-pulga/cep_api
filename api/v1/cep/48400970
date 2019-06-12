@@ -1,12 +1,13 @@
 {
-  "cep": "48400970",
-  "logradouro": "AC Ribeira do Pombal Rua Salustiano Guerra s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeira do Pombal",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48400970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ribeira do Pombal"
+    },
+    "ibge": 2926608,
+    "logradouro": "Rua Salustiano Guerra, s\/n  AC Ribeira do Pombal;"
 }

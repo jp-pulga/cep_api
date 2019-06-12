@@ -1,12 +1,12 @@
 {
-  "cep": "47810814",
-  "logradouro": "Rua Lionice Félix da Cruz",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "47810814",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Lionice Félix da Cruz;"
 }

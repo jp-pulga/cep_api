@@ -1,12 +1,12 @@
 {
-  "cep": "40045205",
-  "logradouro": "Avenida Joana Angélica",
-  "bairro": "Saúde",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Saúde;",
+    "cep": "40045205",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Joana Angélica;"
 }

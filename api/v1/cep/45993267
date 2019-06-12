@@ -1,12 +1,12 @@
 {
-  "cep": "45993267",
-  "logradouro": "Rua Poções",
-  "bairro": "Tancredo Neves",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tancredo Neves;",
+    "cep": "45993267",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Poções;"
 }

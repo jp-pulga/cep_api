@@ -1,12 +1,12 @@
 {
-  "cep": "40715735",
-  "logradouro": "Travessa Serrinha",
-  "bairro": "Itacaranha",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itacaranha;",
+    "cep": "40715735",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Serrinha;"
 }

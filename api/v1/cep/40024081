@@ -1,12 +1,12 @@
 {
-  "cep": "40024081",
-  "logradouro": "Avenida José Joaquim Seabra lado ímpar",
-  "bairro": "Barroquinha",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barroquinha;",
+    "cep": "40024081",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida José Joaquim Seabra - lado ímpar;"
 }

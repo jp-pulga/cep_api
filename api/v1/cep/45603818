@@ -1,12 +1,12 @@
 {
-  "cep": "45603818",
-  "logradouro": "Rua Nova de Mutuns",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "45603818",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Nova de Mutuns;"
 }

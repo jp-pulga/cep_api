@@ -1,12 +1,13 @@
 {
-  "cep": "46900973",
-  "logradouro": "AGC Olhos D'Água Antonio Francisco Rua Principal",
-  "bairro": "Olhos D'Água Antonio Francisco",
-  "cidade": {
-    "nome": "Seabra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Olhos D'Água Antonio Francisco;",
+    "cep": "46900973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Seabra"
+    },
+    "ibge": 2929909,
+    "logradouro": "Rua Principal  AGC Olhos D'Água Antonio Francisco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45611008",
-  "logradouro": "Rua Senhor do Bonfim",
-  "bairro": "Nova Itabuna",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Itabuna;",
+    "cep": "45611008",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Senhor do Bonfim;"
 }

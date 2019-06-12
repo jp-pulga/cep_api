@@ -1,12 +1,13 @@
 {
-  "cep": "45416970",
-  "logradouro": "AC Presidente Tancredo Neves Avenida Sete de Setembro 14",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Tancredo Neves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45416970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Presidente Tancredo Neves"
+    },
+    "ibge": 2925758,
+    "logradouro": "Avenida Sete de Setembro, 14  AC Presidente Tancredo Neves;"
 }

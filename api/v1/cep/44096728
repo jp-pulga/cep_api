@@ -1,12 +1,12 @@
 {
-  "cep": "44096728",
-  "logradouro": "Rua São Félix",
-  "bairro": "Aviário",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Aviário;",
+    "cep": "44096728",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua São Félix;"
 }

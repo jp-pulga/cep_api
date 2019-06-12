@@ -1,12 +1,12 @@
 {
-  "cep": "13056704",
-  "logradouro": "Rua João Batista Santana",
-  "bairro": "Parque União da Vitória",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque União da Vitória;",
+    "cep": "13056704",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua João Batista Santana;"
 }

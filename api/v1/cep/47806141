@@ -1,12 +1,12 @@
 {
-  "cep": "47806141",
-  "logradouro": "Avenida Ruy Barbosa",
-  "bairro": "Aratu",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Aratu;",
+    "cep": "47806141",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Avenida Ruy Barbosa;"
 }

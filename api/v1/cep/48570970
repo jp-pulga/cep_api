@@ -1,12 +1,13 @@
 {
-  "cep": "48570970",
-  "logradouro": "AC Santa Brígida Praça Jacob Marques da Silva 124",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Brígida",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48570970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santa Brígida"
+    },
+    "ibge": 2927606,
+    "logradouro": "Praça Jacob Marques da Silva, 124  AC Santa Brígida;"
 }

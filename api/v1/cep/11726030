@@ -1,12 +1,12 @@
 {
-  "cep": "11726030",
-  "logradouro": "Rua Salvador Ataíde Rodrigues (Tude Bastos)",
-  "bairro": "Sítio do Campo",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Sítio do Campo;",
+    "cep": "11726030",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Rua Salvador Ataíde Rodrigues (Tude Bastos);"
 }

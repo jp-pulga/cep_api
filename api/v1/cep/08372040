@@ -1,12 +1,12 @@
 {
-  "cep": "08372040",
-  "logradouro": "Rua Felipe Bonani",
-  "bairro": "Jardim Bandeirante (São Rafael)",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Bandeirante (São Rafael);",
+    "cep": "08372040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Felipe Bonani;"
 }

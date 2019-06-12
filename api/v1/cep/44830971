@@ -1,12 +1,13 @@
 {
-  "cep": "44830971",
-  "logradouro": "AGC Porto Feliz Praça São Antonio Carlos Magalhães s/n",
-  "bairro": "Porto Feliz",
-  "cidade": {
-    "nome": "Piritiba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Porto Feliz;",
+    "cep": "44830971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Piritiba"
+    },
+    "ibge": 2924801,
+    "logradouro": "Praça São Antonio Carlos Magalhães, s\/n  AGC Porto Feliz;"
 }

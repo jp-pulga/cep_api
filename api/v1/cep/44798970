@@ -1,12 +1,13 @@
 {
-  "cep": "44798970",
-  "logradouro": "AC Umburanas Praça Florisvaldo Carneiro da Cunha 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Umburanas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44798970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Umburanas"
+    },
+    "ibge": 2932457,
+    "logradouro": "Praça Florisvaldo Carneiro da Cunha, 26  AC Umburanas;"
 }

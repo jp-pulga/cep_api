@@ -1,12 +1,12 @@
 {
-  "cep": "49025750",
-  "logradouro": "Rua José Seabra Batista",
-  "bairro": "Jardins",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Jardins;",
+    "cep": "49025750",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua José Seabra Batista;"
 }

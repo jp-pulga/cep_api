@@ -1,12 +1,12 @@
 {
-  "cep": "41404037",
-  "logradouro": "Rua Retirolândia",
-  "bairro": "CEASA",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "CEASA;",
+    "cep": "41404037",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Retirolândia;"
 }

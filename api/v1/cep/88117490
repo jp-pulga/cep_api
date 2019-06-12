@@ -1,12 +1,12 @@
 {
-  "cep": "88117490",
-  "logradouro": "Rua Gregório Felipe",
-  "bairro": "Barreiros",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Barreiros;",
+    "cep": "88117490",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Gregório Felipe;"
 }

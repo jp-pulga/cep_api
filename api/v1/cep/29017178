@@ -1,12 +1,12 @@
 {
-  "cep": "29017178",
-  "logradouro": "Escadaria José Balduíno",
-  "bairro": "Forte São João",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Forte São João;",
+    "cep": "29017178",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Escadaria José Balduíno;"
 }

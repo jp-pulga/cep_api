@@ -1,12 +1,13 @@
 {
-  "cep": "45995338",
-  "logradouro": "Rua dos Jacarandás",
-  "bairro": "Residencial Terras da Bahia",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Residencial Terras da Bahia;",
+    "cep": "45995338",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua dos Jacarandás;"
 }

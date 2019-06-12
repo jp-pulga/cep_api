@@ -1,12 +1,13 @@
 {
-  "cep": "46900972",
-  "logradouro": "AGC Velame Praça do Comércio s/n",
-  "bairro": "Velame",
-  "cidade": {
-    "nome": "Seabra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Velame;",
+    "cep": "46900972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Seabra"
+    },
+    "ibge": 2929909,
+    "logradouro": "Praça do Comércio, s\/n  AGC Velame;"
 }

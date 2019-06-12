@@ -1,12 +1,12 @@
 {
-  "cep": "05069903",
-  "logradouro": "Ecafix Indústria e Comércio Ltda Rua Félix Guilhem 1046",
-  "bairro": "Lapa de Baixo",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Lapa de Baixo;",
+    "cep": "05069903",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Félix Guilhem, 1046  Ecafix Indústria e Comércio Ltda;"
 }

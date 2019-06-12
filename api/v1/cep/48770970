@@ -1,12 +1,13 @@
 {
-  "cep": "48770970",
-  "logradouro": "AC Teofilândia Rua Antonio Serapião 02",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teofilândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48770970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teofilândia"
+    },
+    "ibge": 2931509,
+    "logradouro": "Rua Antonio Serapião, 02  AC Teofilândia;"
 }

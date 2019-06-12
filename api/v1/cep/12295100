@@ -1,12 +1,12 @@
 {
-  "cep": "12295100",
-  "logradouro": "Estrada Municipal José Mariano da Silva",
-  "bairro": "Bairro da Serrinha",
-  "cidade": {
-    "nome": "Caçapava",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Bairro da Serrinha;",
+    "cep": "12295100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caçapava"
+    },
+    "logradouro": "Estrada Municipal José Mariano da Silva;"
 }

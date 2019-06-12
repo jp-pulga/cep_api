@@ -1,12 +1,12 @@
 {
-  "cep": "45053395",
-  "logradouro": "Rua L (C Serrinha)",
-  "bairro": "Bateias",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bateias;",
+    "cep": "45053395",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua L (Lot Cidade de Serrinha);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45658800",
-  "logradouro": "Avenida Ubaitaba de 621 a 1699 - lado ímpar",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Esperança;",
+    "cep": "45658800",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Avenida Ubaitaba - de 621 a 1699 - lado ímpar;"
 }

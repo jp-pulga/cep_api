@@ -1,12 +1,12 @@
 {
-  "cep": "41750690",
-  "logradouro": "Avenida Santo Estêvão",
-  "bairro": "Armação",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Armação;",
+    "cep": "41750690",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Santo Estêvão;"
 }

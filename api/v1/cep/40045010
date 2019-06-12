@@ -1,12 +1,12 @@
 {
-  "cep": "40045010",
-  "logradouro": "Travessa Marquês de Barbacena",
-  "bairro": "Saúde",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Saúde;",
+    "cep": "40045010",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Marquês de Barbacena;"
 }

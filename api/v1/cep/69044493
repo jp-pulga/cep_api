@@ -1,12 +1,12 @@
 {
-  "cep": "69044493",
-  "logradouro": "Rua Marília Barbosa",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "69044493",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Marília Barbosa;"
 }

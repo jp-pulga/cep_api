@@ -1,12 +1,12 @@
 {
-  "cep": "48011330",
-  "logradouro": "Travessa São Jorge",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "48011330",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Travessa São Jorge;"
 }

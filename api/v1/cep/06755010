@@ -1,12 +1,12 @@
 {
-  "cep": "06755010",
-  "logradouro": "Rua Salvador Peluso Basile",
-  "bairro": "Jardim Santa Rosa",
-  "cidade": {
-    "nome": "Taboão da Serra",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Rosa;",
+    "cep": "06755010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taboão da Serra"
+    },
+    "logradouro": "Rua Salvador Peluso Basile;"
 }

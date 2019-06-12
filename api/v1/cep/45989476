@@ -1,12 +1,13 @@
 {
-  "cep": "45989476",
-  "logradouro": "Avenida Minas Bahia",
-  "bairro": "Nanuque",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nanuque;",
+    "cep": "45989476",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Avenida Minas Bahia;"
 }

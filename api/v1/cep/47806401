@@ -1,12 +1,12 @@
 {
-  "cep": "47806401",
-  "logradouro": "Avenida Ruy Barbosa",
-  "bairro": "Parque Verde",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Verde;",
+    "cep": "47806401",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Avenida Ruy Barbosa;"
 }

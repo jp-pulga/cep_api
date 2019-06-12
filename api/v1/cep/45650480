@@ -1,12 +1,12 @@
 {
-  "cep": "45650480",
-  "logradouro": "Rua Santa Inês",
-  "bairro": "Conquista",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conquista;",
+    "cep": "45650480",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Santa Inês;"
 }

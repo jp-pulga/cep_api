@@ -1,12 +1,13 @@
 {
-  "cep": "44770971",
-  "logradouro": "AGC Carnaíba de Baixo Praça Otávio Mangabeira s/n",
-  "bairro": "Carnaíba de Baixo",
-  "cidade": {
-    "nome": "Pindobaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Carnaíba de Baixo;",
+    "cep": "44770971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pindobaçu"
+    },
+    "ibge": 2924603,
+    "logradouro": "Praça Otávio Mangabeira, s\/n  AGC Carnaíba de Baixo;"
 }

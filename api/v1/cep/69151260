@@ -1,12 +1,12 @@
 {
-  "cep": "69151260",
-  "logradouro": "Rua Ruy Barbosa",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "69151260",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Ruy Barbosa;"
 }

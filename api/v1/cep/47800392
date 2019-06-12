@@ -1,12 +1,12 @@
 {
-  "cep": "47800392",
-  "logradouro": "Rua Domingos Mármore lado par",
-  "bairro": "São Miguel",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Miguel;",
+    "cep": "47800392",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Domingos Mármore - lado par;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41195545",
-  "logradouro": "Rua Santa Inês",
-  "bairro": "Barreiras",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiras;",
+    "cep": "41195545",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Santa Inês;"
 }

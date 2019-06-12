@@ -1,12 +1,12 @@
 {
-  "cep": "47807006",
-  "logradouro": "Rua São Desidério de 131 ao fim - lado ímpar",
-  "bairro": "São Paulo",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Paulo;",
+    "cep": "47807006",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua São Desidério - de 131 ao fim - lado ímpar;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45085430",
-  "logradouro": "Travessa São Gabriel",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "45085430",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Travessa São Gabriel;"
 }

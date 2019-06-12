@@ -1,12 +1,12 @@
 {
-  "cep": "13482136",
-  "logradouro": "Rua Salvador Aparecido Aguiar Barros",
-  "bairro": "Jardim Residencial Roseira",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Residencial Roseira;",
+    "cep": "13482136",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Rua Salvador Aparecido Aguiar Barros;"
 }

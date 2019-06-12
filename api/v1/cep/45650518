@@ -1,12 +1,12 @@
 {
-  "cep": "45650518",
-  "logradouro": "Rua Alto Santa Inês",
-  "bairro": "Conquista",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Conquista;",
+    "cep": "45650518",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Alto Santa Inês;"
 }

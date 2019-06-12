@@ -1,12 +1,12 @@
 {
-  "cep": "43825300",
-  "logradouro": "Rua São Gabriel",
-  "bairro": "Malemba",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Malemba;",
+    "cep": "43825300",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Rua São Gabriel;"
 }

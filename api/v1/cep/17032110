@@ -1,12 +1,12 @@
 {
-  "cep": "17032110",
-  "logradouro": "Rua Santa Rita de Cássia",
-  "bairro": "Jardim Redentor",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Redentor;",
+    "cep": "17032110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Santa Rita de Cássia;"
 }

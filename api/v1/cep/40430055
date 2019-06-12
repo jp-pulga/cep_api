@@ -1,12 +1,12 @@
 {
-  "cep": "40430055",
-  "logradouro": "Avenida Senhor do Bonfim",
-  "bairro": "Vila Ruy Barbosa",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Ruy Barbosa;",
+    "cep": "40430055",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Senhor do Bonfim;"
 }

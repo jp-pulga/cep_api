@@ -1,12 +1,13 @@
 {
-  "cep": "45988602",
-  "logradouro": "Rua Lima Barreto",
-  "bairro": "Caminho do Mar",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caminho do Mar;",
+    "cep": "45988602",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Lima Barreto;"
 }

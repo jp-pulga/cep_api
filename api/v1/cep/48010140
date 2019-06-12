@@ -1,12 +1,12 @@
 {
-  "cep": "48010140",
-  "logradouro": "Praça José Joaquim Seabra",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48010140",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Praça José Joaquim Seabra;"
 }

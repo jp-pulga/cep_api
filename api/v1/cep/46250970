@@ -1,12 +1,13 @@
 {
-  "cep": "46250970",
-  "logradouro": "AC Presidente Jânio Quadros Avenida Ladislau Klenner 166",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Jânio Quadros",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46250970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Presidente Jânio Quadros"
+    },
+    "ibge": 2925709,
+    "logradouro": "Avenida Ladislau Klenner, 166  AC Presidente Jânio Quadros;"
 }

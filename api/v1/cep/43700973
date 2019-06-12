@@ -1,12 +1,13 @@
 {
-  "cep": "43700973",
-  "logradouro": "CDD Simões Filho Rua Padre Emille Felix Wagner s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Simões Filho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "43700973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Simões Filho"
+    },
+    "ibge": 2930709,
+    "logradouro": "Rua Padre Emille Felix Wagner, s\/n  CDD Simões Filho;"
 }

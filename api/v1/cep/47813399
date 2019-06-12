@@ -1,12 +1,12 @@
 {
-  "cep": "47813399",
-  "logradouro": "Rua Santa Inês",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "47813399",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Santa Inês;"
 }

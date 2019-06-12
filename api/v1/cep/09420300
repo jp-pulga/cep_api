@@ -1,12 +1,12 @@
 {
-  "cep": "09420300",
-  "logradouro": "Rua Barão do Rio Branco",
-  "bairro": "Centro Alto",
-  "cidade": {
-    "nome": "Ribeirão Pires",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro Alto;",
+    "cep": "09420300",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Pires"
+    },
+    "logradouro": "Rua Barão do Rio Branco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45820902",
-  "logradouro": "Bradesco Avenida Porto Seguro 510",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45820902",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Porto Seguro, 510  Bradesco;"
 }

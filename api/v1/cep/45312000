@@ -1,12 +1,12 @@
 {
-  "cep": "45312000",
-  "logradouro": "Engenheiro França (Ubaíra)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Engenheiro França (Ubaíra)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Engenheiro França",
+    "cep": "45312000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ubaíra"
+    },
+    "ibge": 2932101
 }

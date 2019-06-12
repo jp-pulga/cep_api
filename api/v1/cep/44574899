@@ -1,12 +1,13 @@
 {
-  "cep": "44574899",
-  "logradouro": "Área Rural",
-  "bairro": "Área Rural de Santo Antônio de Jesus",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Área Rural de Santo Antônio de Jesus;",
+    "cep": "44574899",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Área Rural;"
 }

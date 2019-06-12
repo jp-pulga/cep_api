@@ -1,12 +1,13 @@
 {
-  "cep": "47630974",
-  "logradouro": "AGC Agrovila 4 Rua T 189",
-  "bairro": "Agrovila 4",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agrovila 4;",
+    "cep": "47630974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Rua T, 189  AGC Agrovila 4;"
 }

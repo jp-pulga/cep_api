@@ -1,12 +1,13 @@
 {
-  "cep": "44573690",
-  "logradouro": "Conjunto Urbis III",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "44573690",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Conjunto Urbis III;"
 }

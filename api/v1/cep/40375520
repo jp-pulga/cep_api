@@ -1,12 +1,12 @@
 {
-  "cep": "40375520",
-  "logradouro": "Travessa Bruno Seabra",
-  "bairro": "Liberdade",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Liberdade;",
+    "cep": "40375520",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Bruno Seabra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "08121310",
-  "logradouro": "Avenida Bartolomeu do Prado",
-  "bairro": "Jardim Elza",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Elza;",
+    "cep": "08121310",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Avenida Bartolomeu do Prado;"
 }

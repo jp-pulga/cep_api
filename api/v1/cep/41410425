@@ -1,12 +1,12 @@
 {
-  "cep": "41410425",
-  "logradouro": "Rua Serra do Ramalho",
-  "bairro": "Barragem de Ipitanga",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barragem de Ipitanga;",
+    "cep": "41410425",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Serra do Ramalho;"
 }

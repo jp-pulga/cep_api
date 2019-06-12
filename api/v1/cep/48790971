@@ -1,12 +1,13 @@
 {
-  "cep": "48790971",
-  "logradouro": "AGC Rua Nova Praça Dom Bosco s/n",
-  "bairro": "Rua Nova",
-  "cidade": {
-    "nome": "Tucano",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rua Nova;",
+    "cep": "48790971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Tucano"
+    },
+    "ibge": 2931905,
+    "logradouro": "Praça Dom Bosco, s\/n  AGC Rua Nova;"
 }

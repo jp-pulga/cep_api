@@ -1,12 +1,12 @@
 {
-  "cep": "41950700",
-  "logradouro": "Travessa Remanso (Pq Cruz Aguiar)",
-  "bairro": "Rio Vermelho",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Vermelho;",
+    "cep": "41950700",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Remanso (Pq Cruz Aguiar);"
 }

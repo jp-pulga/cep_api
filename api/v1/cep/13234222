@@ -1,12 +1,12 @@
 {
-  "cep": "13234222",
-  "logradouro": "Estrada Santa Bárbara",
-  "bairro": "Estância São Paulo",
-  "cidade": {
-    "nome": "Campo Limpo Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Estância São Paulo;",
+    "cep": "13234222",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campo Limpo Paulista"
+    },
+    "logradouro": "Estrada Santa Bárbara;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "07171146",
-  "logradouro": "Rua Víctor Barbosa",
-  "bairro": "Jardim Presidente Dutra",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Presidente Dutra;",
+    "cep": "07171146",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua Víctor Barbosa;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "47630970",
-  "logradouro": "AC Serra do Ramalho Avenida Norte s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47630970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Avenida Norte, s\/n  AC Serra do Ramalho;"
 }

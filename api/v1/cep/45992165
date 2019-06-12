@@ -1,12 +1,12 @@
 {
-  "cep": "45992165",
-  "logradouro": "Rua Hermenegildo Félix de Almeida",
-  "bairro": "São Lourenço",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Lourenço;",
+    "cep": "45992165",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "logradouro": "Rua Hermenegildo Félix de Almeida;"
 }

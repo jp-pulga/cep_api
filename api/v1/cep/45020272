@@ -1,12 +1,12 @@
 {
-  "cep": "45020272",
-  "logradouro": "Rua Tanhaçu",
-  "bairro": "Recreio",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Recreio;",
+    "cep": "45020272",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Tanhaçu;"
 }

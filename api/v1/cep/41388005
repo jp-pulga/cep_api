@@ -1,12 +1,13 @@
 {
-  "cep": "41388005",
-  "logradouro": "Avenida Aliomar Baleeiro",
-  "bairro": "Novo Marotinho",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Novo Marotinho;",
+    "cep": "41388005",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "ibge": 2927408,
+    "logradouro": "Avenida Aliomar Baleeiro;"
 }

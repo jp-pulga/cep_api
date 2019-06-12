@@ -1,12 +1,12 @@
 {
-  "cep": "48011260",
-  "logradouro": "Travessa Silva",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "48011260",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Travessa Silva;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40715725",
-  "logradouro": "Rua Serrinha",
-  "bairro": "Itacaranha",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itacaranha;",
+    "cep": "40715725",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Serrinha;"
 }

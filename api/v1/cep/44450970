@@ -1,12 +1,13 @@
 {
-  "cep": "44450970",
-  "logradouro": "AC Salinas da Magarida Travessa Lidio Pena 1",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Salinas da Margarida",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44450970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salinas da Margarida"
+    },
+    "ibge": 2927309,
+    "logradouro": "Travessa Lidio Pena, 1  AC Salinas da Magarida;"
 }

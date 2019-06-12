@@ -1,12 +1,13 @@
 {
-  "cep": "44713970",
-  "logradouro": "AC Quixabeira Rua Jovito Souza Novais 95",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quixabeira",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44713970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Quixabeira"
+    },
+    "ibge": 2925931,
+    "logradouro": "Rua Jovito Souza Novais, 95  AC Quixabeira;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "44273000",
-  "logradouro": "Jacu (Terra Nova)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Jacu (Terra Nova)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "44273000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Terra Nova"
+    },
+    "ibge": 2931707
 }

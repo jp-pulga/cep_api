@@ -1,12 +1,13 @@
 {
-  "cep": "46550972",
-  "logradouro": "AGC Varzinha Rua Principal s/n",
-  "bairro": "Varzinha",
-  "cidade": {
-    "nome": "Rio do Pires",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Varzinha;",
+    "cep": "46550972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Rio do Pires"
+    },
+    "ibge": 2926905,
+    "logradouro": "Rua Principal, s\/n  AGC Varzinha;"
 }

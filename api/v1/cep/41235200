@@ -1,12 +1,12 @@
 {
-  "cep": "41235200",
-  "logradouro": "Rua Teodoro Sampaio",
-  "bairro": "Pau da Lima",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pau da Lima;",
+    "cep": "41235200",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Teodoro Sampaio;"
 }

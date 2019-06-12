@@ -1,12 +1,12 @@
 {
-  "cep": "49097580",
-  "logradouro": "Rua Sinésia Barreto Moura",
-  "bairro": "Ponto Novo",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Ponto Novo;",
+    "cep": "49097580",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Sinésia Barreto Moura;"
 }

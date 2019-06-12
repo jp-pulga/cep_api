@@ -1,12 +1,13 @@
 {
-  "cep": "47630976",
-  "logradouro": "AGC Agrovila 6 Rua T 141",
-  "bairro": "Agrovila 6",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agrovila 6;",
+    "cep": "47630976",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Rua T, 141  AGC Agrovila 6;"
 }

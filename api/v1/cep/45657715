@@ -1,12 +1,12 @@
 {
-  "cep": "45657715",
-  "logradouro": "Rua A",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "45657715",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua A;"
 }

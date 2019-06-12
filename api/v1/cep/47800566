@@ -1,12 +1,12 @@
 {
-  "cep": "47800566",
-  "logradouro": "Rua Seabra",
-  "bairro": "Rio Grande",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Grande;",
+    "cep": "47800566",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Seabra;"
 }

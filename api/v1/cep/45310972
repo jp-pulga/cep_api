@@ -1,12 +1,13 @@
 {
-  "cep": "45310972",
-  "logradouro": "AGC Jacubá Rua Principal s/n",
-  "bairro": "Jacubá",
-  "cidade": {
-    "nome": "Ubaíra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jacubá;",
+    "cep": "45310972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ubaíra"
+    },
+    "ibge": 2932101,
+    "logradouro": "Rua Principal, s\/n  AGC Jacubá;"
 }

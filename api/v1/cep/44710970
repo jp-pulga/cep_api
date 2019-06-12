@@ -1,12 +1,13 @@
 {
-  "cep": "44710970",
-  "logradouro": "AC Serrolândia Praça Manoel Novais 52",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serrolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44710970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serrolândia"
+    },
+    "ibge": 2930600,
+    "logradouro": "Praça Manoel Novais, 73  AC Serrolândia;"
 }

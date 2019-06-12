@@ -1,12 +1,12 @@
 {
-  "cep": "45657772",
-  "logradouro": "Rua Acerola",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "45657772",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Acerola;"
 }

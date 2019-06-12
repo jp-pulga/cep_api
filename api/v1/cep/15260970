@@ -1,12 +1,12 @@
 {
-  "cep": "15260970",
-  "logradouro": "AC Planalto Avenida Rui Barbosa 944",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Planalto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "15260970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Planalto"
+    },
+    "logradouro": "Avenida Rui Barbosa, 944  AC Planalto;"
 }

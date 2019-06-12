@@ -1,12 +1,13 @@
 {
-  "cep": "44610970",
-  "logradouro": "AC Pintadas Rua Honorato Gonçalves 28",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pintadas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44610970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pintadas"
+    },
+    "ibge": 2924652,
+    "logradouro": "Rua Honorato Gonçalves, 28  AC Pintadas;"
 }

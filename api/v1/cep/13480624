@@ -1,12 +1,12 @@
 {
-  "cep": "13480624",
-  "logradouro": "Avenida Santa Bárbara",
-  "bairro": "Vila Santa Rosália",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Rosália;",
+    "cep": "13480624",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Avenida Santa Bárbara;"
 }

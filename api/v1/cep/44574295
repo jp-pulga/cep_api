@@ -1,12 +1,13 @@
 {
-  "cep": "44574295",
-  "logradouro": "Avenida Beira Mar",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "44574295",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Avenida Beira Mar;"
 }

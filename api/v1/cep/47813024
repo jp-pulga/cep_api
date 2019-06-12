@@ -1,12 +1,12 @@
 {
-  "cep": "47813024",
-  "logradouro": "Rua São Gabriel",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "47813024",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua São Gabriel;"
 }

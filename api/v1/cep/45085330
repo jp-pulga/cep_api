@@ -1,12 +1,12 @@
 {
-  "cep": "45085330",
-  "logradouro": "Rua Santa Maria Exuperia",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "45085330",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Rua Santa Maria Exuperia;"
 }

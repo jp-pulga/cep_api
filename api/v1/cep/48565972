@@ -1,12 +1,13 @@
 {
-  "cep": "48565972",
-  "logradouro": "AGC Tingui Praça José Valentim de Carvalho s/n",
-  "bairro": "Tingui",
-  "cidade": {
-    "nome": "Sítio do Quinto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tingui;",
+    "cep": "48565972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Sítio do Quinto"
+    },
+    "ibge": 2930766,
+    "logradouro": "Praça José Valentim de Carvalho, s\/n  AGC Tingui;"
 }

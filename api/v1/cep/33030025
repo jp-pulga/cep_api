@@ -1,12 +1,12 @@
 {
-  "cep": "33030025",
-  "logradouro": "Rua Felipe Gabrich",
-  "bairro": "São João Batista",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João Batista;",
+    "cep": "33030025",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Felipe Gabrich;"
 }

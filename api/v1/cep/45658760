@@ -1,12 +1,12 @@
 {
-  "cep": "45658760",
-  "logradouro": "Rua Porto Seguro",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Esperança;",
+    "cep": "45658760",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Porto Seguro;"
 }

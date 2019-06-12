@@ -1,12 +1,13 @@
 {
-  "cep": "48565971",
-  "logradouro": "AGC Rasinho Praça São Francisco s/n",
-  "bairro": "Rasinho",
-  "cidade": {
-    "nome": "Sítio do Quinto",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rasinho;",
+    "cep": "48565971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Sítio do Quinto"
+    },
+    "ibge": 2930766,
+    "logradouro": "Praça São Francisco, s\/n  AGC Rasinho;"
 }

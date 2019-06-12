@@ -1,12 +1,13 @@
 {
-  "cep": "48830970",
-  "logradouro": "AC Quijingue Praça Tiradentes s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Quijingue",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48830970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Quijingue"
+    },
+    "ibge": 2925907,
+    "logradouro": "Praça Tiradentes, s\/n  AC Quijingue;"
 }

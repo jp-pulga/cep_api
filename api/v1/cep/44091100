@@ -1,12 +1,12 @@
 {
-  "cep": "44091100",
-  "logradouro": "Rua São Félix",
-  "bairro": "Tomba",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tomba;",
+    "cep": "44091100",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua São Félix;"
 }

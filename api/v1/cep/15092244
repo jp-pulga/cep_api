@@ -1,12 +1,12 @@
 {
-  "cep": "15092244",
-  "logradouro": "Rua Iacy Picerni Bavaresco",
-  "bairro": "Recanto Real",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto Real;",
+    "cep": "15092244",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Iacy Picerni Bavaresco;"
 }

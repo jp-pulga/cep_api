@@ -1,12 +1,13 @@
 {
-  "cep": "45815970",
-  "logradouro": "CDD Porto Seguro Rodovia BR-367 Km 60",
-  "bairro": "Tabapiry",
-  "cidade": {
-    "nome": "Porto Seguro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tabapiri;",
+    "cep": "45815970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Porto Seguro"
+    },
+    "ibge": 2925303,
+    "logradouro": "Rodovia BR-367, Km 60  CDD Porto Seguro;"
 }

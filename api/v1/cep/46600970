@@ -1,12 +1,13 @@
 {
-  "cep": "46600970",
-  "logradouro": "AC Tanhaçu Rua Lauro de Freitas 808",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tanhaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46600970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Tanhaçu"
+    },
+    "ibge": 2931004,
+    "logradouro": "Rua Lauro de Freitas, 808  AC Tanhaçu;"
 }

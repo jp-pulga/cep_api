@@ -1,12 +1,12 @@
 {
-  "cep": "47810677",
-  "logradouro": "Rua São Félix",
-  "bairro": "Barreirinhas",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreirinhas;",
+    "cep": "47810677",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua São Félix;"
 }

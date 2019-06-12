@@ -1,12 +1,12 @@
 {
-  "cep": "17039811",
-  "logradouro": "Rua Santa Inez",
-  "bairro": "Parque Baurulândia",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Baurulândia;",
+    "cep": "17039811",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Santa Inez;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44220972",
-  "logradouro": "AGC Cabuçu Rua do Porto s/n",
-  "bairro": "Cabuçu",
-  "cidade": {
-    "nome": "Saubara",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cabuçu;",
+    "cep": "44220972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Saubara"
+    },
+    "ibge": 2929750,
+    "logradouro": "Rua do Porto, s\/n  AGC Cabuçu;"
 }

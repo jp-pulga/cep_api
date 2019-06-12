@@ -1,12 +1,12 @@
 {
-  "cep": "47803136",
-  "logradouro": "Rua Porto Seguro",
-  "bairro": "Jardins",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardins;",
+    "cep": "47803136",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Porto Seguro;"
 }

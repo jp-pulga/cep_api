@@ -1,12 +1,13 @@
 {
-  "cep": "48750970",
-  "logradouro": "AC Retirolândia Rua Ruy Barbosa 149",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Retirolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48750970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Retirolândia"
+    },
+    "ibge": 2926103,
+    "logradouro": "Rua Ruy Barbosa, 149  AC Retirolândia;"
 }

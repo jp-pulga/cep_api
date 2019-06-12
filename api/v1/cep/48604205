@@ -1,12 +1,12 @@
 {
-  "cep": "48604205",
-  "logradouro": "Rua Ribeira do Pombal",
-  "bairro": "Jardim Bahia",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Bahia;",
+    "cep": "48604205",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Ribeira do Pombal;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45790970",
-  "logradouro": "AC Potiraguá Praça da Bandeira 160",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Potiraguá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45790970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Potiraguá"
+    },
+    "ibge": 2925402,
+    "logradouro": "Praça da Bandeira, 160  AC Potiraguá;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "49032330",
-  "logradouro": "Rua José do Prado Barreto",
-  "bairro": "Farolândia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Farolândia;",
+    "cep": "49032330",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua José do Prado Barreto;"
 }

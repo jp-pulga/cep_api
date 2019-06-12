@@ -1,12 +1,13 @@
 {
-  "cep": "48700971",
-  "logradouro": "AC Serrinha Rua Agenor de Freitas 349",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serrinha",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48700971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serrinha"
+    },
+    "ibge": 2930501,
+    "logradouro": "Rua Agenor de Freitas, 349  AC Serrinha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44275000",
-  "logradouro": "Rio Fundo (Terra Nova)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Rio Fundo (Terra Nova)",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Fundo",
+    "cep": "44275000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Terra Nova"
+    },
+    "ibge": 2931707
 }

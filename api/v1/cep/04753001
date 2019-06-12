@@ -1,12 +1,12 @@
 {
-  "cep": "04753001",
-  "logradouro": "Rua Barão do Rio Branco de 462/463 ao fim",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "04753001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barão do Rio Branco - de 462\/463 ao fim;"
 }

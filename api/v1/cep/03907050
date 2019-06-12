@@ -1,12 +1,12 @@
 {
-  "cep": "03907050",
-  "logradouro": "Rua Felipe Aureli",
-  "bairro": "Conjunto Habitacional Barreira Grande",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Barreira Grande;",
+    "cep": "03907050",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Felipe Aureli;"
 }

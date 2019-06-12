@@ -1,12 +1,13 @@
 {
-  "cep": "45994009",
-  "logradouro": "Rua Governador Vital Batista Soares",
-  "bairro": "Redenção",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Redenção;",
+    "cep": "45994009",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Governador Vital Batista Soares;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "47640970",
-  "logradouro": "AC Santa Maria da Vitória Praça Luís Viana Filho 89",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Maria da Vitória",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47640970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santa Maria da Vitória"
+    },
+    "ibge": 2928109,
+    "logradouro": "Praça Luís Viana Filho, 89  AC Santa Maria da Vitória;"
 }

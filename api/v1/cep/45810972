@@ -1,12 +1,13 @@
 {
-  "cep": "45810972",
-  "logradouro": "AC Frei Calixto Rua Princesa Isabel 229",
-  "bairro": "Frei Calixto",
-  "cidade": {
-    "nome": "Porto Seguro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Frei Calixto;",
+    "cep": "45810972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Porto Seguro"
+    },
+    "ibge": 2925303,
+    "logradouro": "Rua Princesa Isabel, 229  AC Frei Calixto;"
 }

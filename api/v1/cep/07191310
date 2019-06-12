@@ -1,12 +1,12 @@
 {
-  "cep": "07191310",
-  "logradouro": "Avenida Santa Bárbara",
-  "bairro": "Jardim Santa Bárbara",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Santa Bárbara;",
+    "cep": "07191310",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Avenida Santa Bárbara;"
 }

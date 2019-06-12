@@ -1,12 +1,12 @@
 {
-  "cep": "05126160",
-  "logradouro": "Rua Artur Bastos",
-  "bairro": "Parque São Domingos",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Domingos;",
+    "cep": "05126160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Artur Bastos;"
 }

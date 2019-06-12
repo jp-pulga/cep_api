@@ -1,12 +1,12 @@
 {
-  "cep": "47813068",
-  "logradouro": "Rua Santa Teresinha",
-  "bairro": "Vila Rica",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Rica;",
+    "cep": "47813068",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Santa Teresinha;"
 }

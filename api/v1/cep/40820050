@@ -1,12 +1,12 @@
 {
-  "cep": "40820050",
-  "logradouro": "Rua Ruy Barbosa",
-  "bairro": "Paripe",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Paripe;",
+    "cep": "40820050",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Ruy Barbosa;"
 }

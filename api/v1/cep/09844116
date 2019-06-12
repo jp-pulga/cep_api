@@ -1,12 +1,12 @@
 {
-  "cep": "09844116",
-  "logradouro": "Rua Águas de Santa Bárbara",
-  "bairro": "Batistini",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Batistini;",
+    "cep": "09844116",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Águas de Santa Bárbara;"
 }

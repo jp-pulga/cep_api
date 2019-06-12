@@ -1,12 +1,12 @@
 {
-  "cep": "45603815",
-  "logradouro": "Travessa Poções",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "45603815",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Travessa Poções;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40025900",
-  "logradouro": "Shopping Baixa dos Sapateiros Avenida José Joaquim Seabra 111",
-  "bairro": "Baixa dos Sapateiros",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Baixa dos Sapateiros;",
+    "cep": "40025900",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida José Joaquim Seabra, 111  Shopping Baixa dos Sapateiros;"
 }

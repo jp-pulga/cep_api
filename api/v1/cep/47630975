@@ -1,12 +1,13 @@
 {
-  "cep": "47630975",
-  "logradouro": "AGC Agrovila 5 Rua E 187",
-  "bairro": "Agrovila 5",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agrovila 5;",
+    "cep": "47630975",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Rua E, 187  AGC Agrovila 5;"
 }

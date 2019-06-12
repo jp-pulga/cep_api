@@ -1,12 +1,13 @@
 {
-  "cep": "44660972",
-  "logradouro": "AGC Ponto Avenida Ernesto Gonçalves s/n",
-  "bairro": "Ponto Serra Preta",
-  "cidade": {
-    "nome": "Serra Preta",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ponto Serra Preta;",
+    "cep": "44660972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra Preta"
+    },
+    "ibge": 2930402,
+    "logradouro": "Avenida Ernesto Gonçalves, s\/n  AGC Ponto;"
 }

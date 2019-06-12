@@ -1,12 +1,12 @@
 {
-  "cep": "09520900",
-  "logradouro": "Casas Bahia Comercial Ltda Avenida Conde Francisco Matarazzo 100",
-  "bairro": "Fundação",
-  "cidade": {
-    "nome": "São Caetano do Sul",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Fundação;",
+    "cep": "09520900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Caetano do Sul"
+    },
+    "logradouro": "Avenida Conde Francisco Matarazzo, 100  Casas Bahia Comercial Ltda;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "14079618",
-  "logradouro": "Rua Professor Rodarte Ballaben",
-  "bairro": "Jardim Porto Seguro",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Porto Seguro;",
+    "cep": "14079618",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Professor Rodarte Ballaben;"
 }

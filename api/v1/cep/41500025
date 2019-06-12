@@ -1,12 +1,13 @@
 {
-  "cep": "41500025",
-  "logradouro": "Rodovia BA-099",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "41500025",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "ibge": 2927408,
+    "logradouro": "Rodovia BA-099;"
 }

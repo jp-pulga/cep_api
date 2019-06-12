@@ -1,12 +1,12 @@
 {
-  "cep": "04864140",
-  "logradouro": "Acesso Tucano Preto",
-  "bairro": "Balneário São José",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Balneário São José;",
+    "cep": "04864140",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Acesso Tucano Preto;"
 }

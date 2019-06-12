@@ -1,12 +1,13 @@
 {
-  "cep": "48880971",
-  "logradouro": "AGC Pereira Rua Nova s/n",
-  "bairro": "Pereira",
-  "cidade": {
-    "nome": "Santaluz",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pereira;",
+    "cep": "48880971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santaluz"
+    },
+    "ibge": 2928000,
+    "logradouro": "Rua Nova, s\/n  AGC Pereira;"
 }

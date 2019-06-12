@@ -1,12 +1,13 @@
 {
-  "cep": "46900971",
-  "logradouro": "AGC Lagoa da Boa Vista Avenida Indianápolis s/n",
-  "bairro": "Lagoa da Boa Vista",
-  "cidade": {
-    "nome": "Seabra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lagoa da Boa Vista;",
+    "cep": "46900971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Seabra"
+    },
+    "ibge": 2929909,
+    "logradouro": "Avenida Indianápolis, s\/n  AGC Lagoa da Boa Vista;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44450972",
-  "logradouro": "AGC Encarnação Rua Treze de Maio s/n",
-  "bairro": "Encarnação",
-  "cidade": {
-    "nome": "Salinas da Margarida",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Encarnação;",
+    "cep": "44450972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salinas da Margarida"
+    },
+    "ibge": 2927309,
+    "logradouro": "Rua Treze de Maio, s\/n  AGC Encarnação;"
 }

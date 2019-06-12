@@ -1,12 +1,13 @@
 {
-  "cep": "45155970",
-  "logradouro": "AC Ribeirão do Largo Rua Juvencio Gonçalves 06",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ribeirão do Largo",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45155970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ribeirão do Largo"
+    },
+    "ibge": 2926657,
+    "logradouro": "Rua Juvencio Gonçalves, 06  AC Ribeirão do Largo;"
 }

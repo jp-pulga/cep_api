@@ -1,12 +1,12 @@
 {
-  "cep": "04717970",
-  "logradouro": "CDD Granja Julieta Rua Barão do Rio Branco 854",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "04717970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barão do Rio Branco, 854  CDD Granja Julieta;"
 }

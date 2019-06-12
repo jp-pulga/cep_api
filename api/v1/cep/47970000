@@ -1,12 +1,11 @@
 {
-  "cep": "47970000",
-  "logradouro": "Riachão das Neves",
-  "bairro": "",
-  "cidade": {
-    "nome": "Riachão das Neves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "cep": "47970000",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Riachão das Neves"
+    },
+    "ibge": 2926202
 }

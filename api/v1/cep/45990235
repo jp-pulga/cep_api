@@ -1,12 +1,13 @@
 {
-  "cep": "45990235",
-  "logradouro": "Rua Jackson Xavier de Barros",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "45990235",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Jackson Xavier de Barros;"
 }

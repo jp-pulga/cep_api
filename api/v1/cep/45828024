@@ -1,12 +1,12 @@
 {
-  "cep": "45828024",
-  "logradouro": "Rua Teixeira de Freitas",
-  "bairro": "Pequi",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pequi;",
+    "cep": "45828024",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Teixeira de Freitas;"
 }

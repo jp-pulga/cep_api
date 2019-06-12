@@ -1,12 +1,13 @@
 {
-  "cep": "47350970",
-  "logradouro": "AC Sento Sé Avenida Desembargador Osvaldo Sento Sé s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sento Sé",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47350970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Sento Sé"
+    },
+    "ibge": 2930204,
+    "logradouro": "Avenida Desembargador Osvaldo Sento Sé, s\/n  AC Sento Sé;"
 }

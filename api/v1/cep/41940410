@@ -1,12 +1,12 @@
 {
-  "cep": "41940410",
-  "logradouro": "Rua Doutor Antonio Queiroz Muniz",
-  "bairro": "Rio Vermelho",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Vermelho;",
+    "cep": "41940410",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Doutor Antonio Queiroz Muniz;"
 }

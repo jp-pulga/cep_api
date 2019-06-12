@@ -1,12 +1,13 @@
 {
-  "cep": "45416972",
-  "logradouro": "AGC Corte de Pedra Rua Natal s/n",
-  "bairro": "Corte de Pedra",
-  "cidade": {
-    "nome": "Presidente Tancredo Neves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Corte de Pedra;",
+    "cep": "45416972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Presidente Tancredo Neves"
+    },
+    "ibge": 2925758,
+    "logradouro": "Rua Natal, s\/n  AGC Corte de Pedra;"
 }

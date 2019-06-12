@@ -1,12 +1,12 @@
 {
-  "cep": "41299035",
-  "logradouro": "Rua Sapeaçu",
-  "bairro": "Boca da Mata de Valéria",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boca da Mata de Valéria;",
+    "cep": "41299035",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Sapeaçu;"
 }

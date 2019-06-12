@@ -1,12 +1,13 @@
 {
-  "cep": "45985050",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Bom Jesus",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bom Jesus;",
+    "cep": "45985050",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Santa Bárbara;"
 }

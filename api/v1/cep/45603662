@@ -1,12 +1,12 @@
 {
-  "cep": "45603662",
-  "logradouro": "Rua de Mutuns",
-  "bairro": "Santa Inês",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Inês;",
+    "cep": "45603662",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua de Mutuns;"
 }

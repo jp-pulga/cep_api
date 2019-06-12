@@ -1,12 +1,12 @@
 {
-  "cep": "45608578",
-  "logradouro": "Rua Senhor do Bonfim",
-  "bairro": "Jaçanã",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jaçanã;",
+    "cep": "45608578",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Senhor do Bonfim;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45416971",
-  "logradouro": "AGC Moenda Rua do Acampamento s/n",
-  "bairro": "Moenda",
-  "cidade": {
-    "nome": "Presidente Tancredo Neves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Moenda;",
+    "cep": "45416971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Presidente Tancredo Neves"
+    },
+    "ibge": 2925758,
+    "logradouro": "Rua do Acampamento, s\/n  AGC Moenda;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45821160",
-  "logradouro": "Rua Manoel Serrinha",
-  "bairro": "Centauro",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centauro;",
+    "cep": "45821160",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Manoel Serrinha;"
 }

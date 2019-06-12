@@ -1,12 +1,12 @@
 {
-  "cep": "45658085",
-  "logradouro": "Avenida Ubaitaba de 1701 ao fim - lado ímpar",
-  "bairro": "Barra do Itaípe",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barra do Itaípe;",
+    "cep": "45658085",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Avenida Ubaitaba - de 1701 ao fim - lado ímpar;"
 }

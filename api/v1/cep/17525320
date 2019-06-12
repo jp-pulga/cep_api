@@ -1,12 +1,12 @@
 {
-  "cep": "17525320",
-  "logradouro": "Rodovia Comandante João Ribeiro Barros do km 449000 ao km 451000",
-  "bairro": "Parque Serra Dourada",
-  "cidade": {
-    "nome": "Marília",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Serra Dourada;",
+    "cep": "17525320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Marília"
+    },
+    "logradouro": "Rodovia Comandante João Ribeiro Barros - do km 449,000 ao km 451,000;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45545971",
-  "logradouro": "AGC Faísqueira Rua Pedro Pascoal s/n",
-  "bairro": "Faisqueira",
-  "cidade": {
-    "nome": "Ubaitaba",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Faisqueira;",
+    "cep": "45545971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ubaitaba"
+    },
+    "ibge": 2932200,
+    "logradouro": "Rua Pedro Pascoal, s\/n  AGC Faísqueira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13451157",
-  "logradouro": "Rua Brasília",
-  "bairro": "Loteamento Colina Santa Bárbara",
-  "cidade": {
-    "nome": "Santa Bárbara D'Oeste",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Loteamento Colina Santa Bárbara;",
+    "cep": "13451157",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Santa Bárbara D'Oeste"
+    },
+    "logradouro": "Rua Brasília;"
 }

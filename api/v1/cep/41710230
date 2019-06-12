@@ -1,12 +1,12 @@
 {
-  "cep": "41710230",
-  "logradouro": "Rua Antônio Carlos Magalhães",
-  "bairro": "Boca do Rio",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Boca do Rio;",
+    "cep": "41710230",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Antônio Carlos Magalhães;"
 }

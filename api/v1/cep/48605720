@@ -1,12 +1,12 @@
 {
-  "cep": "48605720",
-  "logradouro": "Rua Baraúna",
-  "bairro": "Senhor do Bonfim",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Senhor do Bonfim;",
+    "cep": "48605720",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Baraúna;"
 }

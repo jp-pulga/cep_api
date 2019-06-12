@@ -1,12 +1,13 @@
 {
-  "cep": "41204025",
-  "logradouro": "Avenida Barros Reis",
-  "bairro": "Arraial do Retiro",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Arraial do Retiro;",
+    "cep": "41204025",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "ibge": 2927408,
+    "logradouro": "Avenida Barros Reis;"
 }

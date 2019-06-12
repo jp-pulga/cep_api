@@ -1,12 +1,13 @@
 {
-  "cep": "44574305",
-  "logradouro": "Conjunto Urbis IV",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "44574305",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Conjunto Urbis IV;"
 }

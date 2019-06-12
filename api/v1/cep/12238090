@@ -1,12 +1,12 @@
 {
-  "cep": "12238090",
-  "logradouro": "Praça Bahia de São Salvador",
-  "bairro": "Jardim Vale do Sol",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Vale do Sol;",
+    "cep": "12238090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Praça Bahia de São Salvador;"
 }

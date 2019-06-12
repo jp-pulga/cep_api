@@ -1,12 +1,12 @@
 {
-  "cep": "06429215",
-  "logradouro": "Avenida Queimada",
-  "bairro": "Residencial Morada dos Lagos",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Morada dos Lagos;",
+    "cep": "06429215",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Avenida Queimada;"
 }

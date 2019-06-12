@@ -1,12 +1,12 @@
 {
-  "cep": "45075220",
-  "logradouro": "Avenida Serrinha de 2906/2907 ao fim",
-  "bairro": "Ibirapuera",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ibirapuera;",
+    "cep": "45075220",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Avenida Serrinha - de 2906\/2907 ao fim;"
 }

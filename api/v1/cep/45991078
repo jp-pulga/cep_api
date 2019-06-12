@@ -1,12 +1,13 @@
 {
-  "cep": "45991078",
-  "logradouro": "Rua Raul de Barros Sobrinho",
-  "bairro": "Bonadiman",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bonadiman;",
+    "cep": "45991078",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Raul de Barros Sobrinho;"
 }

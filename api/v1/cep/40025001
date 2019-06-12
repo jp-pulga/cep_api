@@ -1,12 +1,12 @@
 {
-  "cep": "40025001",
-  "logradouro": "Avenida José Joaquim Seabra lado par",
-  "bairro": "Baixa dos Sapateiros",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Baixa dos Sapateiros;",
+    "cep": "40025001",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida José Joaquim Seabra - lado par;"
 }

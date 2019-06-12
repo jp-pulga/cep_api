@@ -1,12 +1,12 @@
 {
-  "cep": "04753905",
-  "logradouro": "Hospital e Maternidade Alvorada Rua Barão do Rio Branco 555",
-  "bairro": "Santo Amaro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Santo Amaro;",
+    "cep": "04753905",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Barão do Rio Branco, 555  Hospital e Maternidade Alvorada;"
 }

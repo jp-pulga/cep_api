@@ -1,12 +1,13 @@
 {
-  "cep": "44573440",
-  "logradouro": "Avenida Antônio Carlos Magalhães",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "44573440",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Avenida Antônio Carlos Magalhães;"
 }

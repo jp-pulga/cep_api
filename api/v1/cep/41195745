@@ -1,12 +1,12 @@
 {
-  "cep": "41195745",
-  "logradouro": "Avenida Santa Luzia",
-  "bairro": "Barreiras",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiras;",
+    "cep": "41195745",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Santa Luzia;"
 }

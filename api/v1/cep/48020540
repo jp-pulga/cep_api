@@ -1,12 +1,12 @@
 {
-  "cep": "48020540",
-  "logradouro": "Rua Simões Filho",
-  "bairro": "Kennedy",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Kennedy;",
+    "cep": "48020540",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Simões Filho;"
 }

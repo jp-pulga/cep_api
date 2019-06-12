@@ -1,12 +1,12 @@
 {
-  "cep": "48604045",
-  "logradouro": "Rua Santa Brígida",
-  "bairro": "Jardim Bahia",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Jardim Bahia;",
+    "cep": "48604045",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Santa Brígida;"
 }

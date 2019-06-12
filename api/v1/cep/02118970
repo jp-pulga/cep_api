@@ -1,12 +1,12 @@
 {
-  "cep": "02118970",
-  "logradouro": "CDD Vila Maria Rua Dom Luís Felipe de Orleans 670",
-  "bairro": "Vila Maria Baixa",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Maria Baixa;",
+    "cep": "02118970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Dom Luís Felipe de Orleans, 670  CDD Vila Maria;"
 }

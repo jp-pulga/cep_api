@@ -1,12 +1,13 @@
 {
-  "cep": "44520971",
-  "logradouro": "AGC São Roque Rua da Telebahia s/n",
-  "bairro": "São Roque",
-  "cidade": {
-    "nome": "Rafael Jambeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Roque;",
+    "cep": "44520971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Rafael Jambeiro"
+    },
+    "ibge": 2925956,
+    "logradouro": "Rua da Telebahia, s\/n  AGC São Roque;"
 }

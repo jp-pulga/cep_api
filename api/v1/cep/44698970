@@ -1,12 +1,13 @@
 {
-  "cep": "44698970",
-  "logradouro": "AC São José do Jacuípe Praça da Matriz 333",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Jacuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44698970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São José do Jacuípe"
+    },
+    "ibge": 2929370,
+    "logradouro": "Praça da Matriz, 333  AC São José do Jacuípe;"
 }

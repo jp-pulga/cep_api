@@ -1,12 +1,12 @@
 {
-  "cep": "12081640",
-  "logradouro": "Rua Oswaldo de Barros",
-  "bairro": "Terra Nova",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Terra Nova;",
+    "cep": "12081640",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Oswaldo de Barros;"
 }

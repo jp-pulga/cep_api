@@ -1,12 +1,12 @@
 {
-  "cep": "44573901",
-  "logradouro": "Supermercado Rio Branco Praça Doutor Renato Machado 19",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44573901",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "logradouro": "Praça Doutor Renato Machado, 19  Supermercado Rio Branco;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "46900970",
-  "logradouro": "AC Seabra Praça Quintino Bocaiúva s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Seabra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "46900970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Seabra"
+    },
+    "ibge": 2929909,
+    "logradouro": "Praça Quintino Bocaiúva, s\/n  AC Seabra;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45436970",
-  "logradouro": "AC Piraí do Norte Praça Santo Antônio 166",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Piraí do Norte",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45436970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Piraí do Norte"
+    },
+    "ibge": 2924678,
+    "logradouro": "Praça Santo Antônio, 166  AC Piraí do Norte;"
 }

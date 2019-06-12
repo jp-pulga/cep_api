@@ -1,12 +1,13 @@
 {
-  "cep": "45465970",
-  "logradouro": "AC Teolândia Praça João Pastorinho de Assunção 18",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Teolândia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45465970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teolândia"
+    },
+    "ibge": 2931608,
+    "logradouro": "Praça João Pastorinho de Assunção, 18  AC Teolândia;"
 }

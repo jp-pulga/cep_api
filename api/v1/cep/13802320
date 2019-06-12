@@ -1,12 +1,12 @@
 {
-  "cep": "13802320",
-  "logradouro": "Rua Sebastião Antonio Barbosa",
-  "bairro": "Parque das Laranjeiras",
-  "cidade": {
-    "nome": "Mogi Mirim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque das Laranjeiras;",
+    "cep": "13802320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Mirim"
+    },
+    "logradouro": "Rua Sebastião Antonio Barbosa;"
 }

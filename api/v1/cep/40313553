@@ -1,12 +1,12 @@
 {
-  "cep": "40313553",
-  "logradouro": "Rua Almirante Arthur Seabra",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "40313553",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Almirante Arthur Seabra;"
 }

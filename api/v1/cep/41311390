@@ -1,12 +1,12 @@
 {
-  "cep": "41311390",
-  "logradouro": "Rua Jardim Terra Nova",
-  "bairro": "Águas Claras",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Águas Claras;",
+    "cep": "41311390",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Jardim Terra Nova;"
 }

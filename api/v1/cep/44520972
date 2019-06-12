@@ -1,12 +1,13 @@
 {
-  "cep": "44520972",
-  "logradouro": "AGC Paraguassu Rua Posto Paraguassu",
-  "bairro": "Paraguassu",
-  "cidade": {
-    "nome": "Rafael Jambeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Paraguassu;",
+    "cep": "44520972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Rafael Jambeiro"
+    },
+    "ibge": 2925956,
+    "logradouro": "Rua Posto Paraguassu  AGC Paraguassu;"
 }

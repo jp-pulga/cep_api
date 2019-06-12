@@ -1,12 +1,12 @@
 {
-  "cep": "44051260",
-  "logradouro": "Rua Taperoá",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "44051260",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Taperoá;"
 }

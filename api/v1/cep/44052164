@@ -1,12 +1,12 @@
 {
-  "cep": "44052164",
-  "logradouro": "Rua Teolândia",
-  "bairro": "CASEB",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "CASEB;",
+    "cep": "44052164",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Teolândia;"
 }

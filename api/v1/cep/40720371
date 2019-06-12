@@ -1,12 +1,12 @@
 {
-  "cep": "40720371",
-  "logradouro": "Rua Teixeira de Freitas",
-  "bairro": "Periperi",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Periperi;",
+    "cep": "40720371",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Teixeira de Freitas;"
 }

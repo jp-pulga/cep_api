@@ -1,12 +1,12 @@
 {
-  "cep": "49097000",
-  "logradouro": "Avenida São João Batista",
-  "bairro": "Ponto Novo",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Ponto Novo;",
+    "cep": "49097000",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Avenida São João Batista;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "44008740",
-  "logradouro": "Rua Porto Seguro",
-  "bairro": "Calumbi",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Calumbi;",
+    "cep": "44008740",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Porto Seguro;"
 }

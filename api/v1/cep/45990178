@@ -1,12 +1,13 @@
 {
-  "cep": "45990178",
-  "logradouro": "Rua Bandeirante",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "45990178",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Bandeirante;"
 }

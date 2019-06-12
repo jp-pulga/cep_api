@@ -1,12 +1,12 @@
 {
-  "cep": "45826452",
-  "logradouro": "Rua Tucano",
-  "bairro": "Thiago de Mello",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Thiago de Mello;",
+    "cep": "45826452",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Tucano;"
 }

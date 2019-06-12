@@ -1,12 +1,12 @@
 {
-  "cep": "44021425",
-  "logradouro": "Rua Doutor Joaquim Laranjeiras",
-  "bairro": "Sobradinho",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sobradinho;",
+    "cep": "44021425",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Doutor Joaquim Laranjeiras;"
 }

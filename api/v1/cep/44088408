@@ -1,12 +1,12 @@
 {
-  "cep": "44088408",
-  "logradouro": "Travessa Rio de Contas",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "44088408",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Rio de Contas;"
 }

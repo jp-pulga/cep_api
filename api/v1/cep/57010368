@@ -1,12 +1,12 @@
 {
-  "cep": "57010368",
-  "logradouro": "Rua Agnelo Barbosa",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "57010368",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Agnelo Barbosa;"
 }

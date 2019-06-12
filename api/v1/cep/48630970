@@ -1,12 +1,13 @@
 {
-  "cep": "48630970",
-  "logradouro": "AC Rodelas Avenida Manoel Moura 51",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Rodelas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48630970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Rodelas"
+    },
+    "ibge": 2927101,
+    "logradouro": "Avenida Manoel Moura, 51  AC Rodelas;"
 }

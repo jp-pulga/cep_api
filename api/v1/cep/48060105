@@ -1,12 +1,12 @@
 {
-  "cep": "48060105",
-  "logradouro": "Rua Sátiro Dias",
-  "bairro": "Silva Jardim",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Silva Jardim;",
+    "cep": "48060105",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Sátiro Dias;"
 }

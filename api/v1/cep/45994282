@@ -1,12 +1,13 @@
 {
-  "cep": "45994282",
-  "logradouro": "Avenida Almirante Barroso",
-  "bairro": "Nova Teixeira",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Nova Teixeira;",
+    "cep": "45994282",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Avenida Almirante Barroso;"
 }

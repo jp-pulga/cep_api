@@ -1,12 +1,12 @@
 {
-  "cep": "29051200",
-  "logradouro": "Rua João Bastos Vieira",
-  "bairro": "Ilha de Santa Maria",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ilha de Santa Maria;",
+    "cep": "29051200",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua João Bastos Vieira;"
 }

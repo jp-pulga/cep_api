@@ -1,12 +1,12 @@
 {
-  "cep": "48603060",
-  "logradouro": "Rua Porto Seguro",
-  "bairro": "Perpétuo Socorro",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Perpétuo Socorro;",
+    "cep": "48603060",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Porto Seguro;"
 }

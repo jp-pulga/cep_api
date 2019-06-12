@@ -1,12 +1,12 @@
 {
-  "cep": "44078420",
-  "logradouro": "Rua Senhor do Bonfim",
-  "bairro": "Santa Mônica",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Mônica;",
+    "cep": "44078420",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Senhor do Bonfim;"
 }

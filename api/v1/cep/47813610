@@ -1,12 +1,12 @@
 {
-  "cep": "47813610",
-  "logradouro": "Rua Rio de Janeiro lado par",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "47813610",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Rio de Janeiro - lado par;"
 }

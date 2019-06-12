@@ -1,12 +1,13 @@
 {
-  "cep": "48790972",
-  "logradouro": "AGC Greguenhem Praça Dois de Julho s/n",
-  "bairro": "Greguenhem",
-  "cidade": {
-    "nome": "Tucano",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Greguenhem;",
+    "cep": "48790972",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Tucano"
+    },
+    "ibge": 2931905,
+    "logradouro": "Praça Dois de Julho, s\/n  AGC Greguenhem;"
 }

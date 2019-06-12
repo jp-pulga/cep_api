@@ -1,12 +1,12 @@
 {
-  "cep": "40045085",
-  "logradouro": "Avenida Cruz Santos",
-  "bairro": "Saúde",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Saúde;",
+    "cep": "40045085",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Cruz Santos;"
 }

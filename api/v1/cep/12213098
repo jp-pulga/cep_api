@@ -1,12 +1,12 @@
 {
-  "cep": "12213098",
-  "logradouro": "Rua Córrego Santa Bárbara",
-  "bairro": "Altos da Vila Paiva",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Altos da Vila Paiva;",
+    "cep": "12213098",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Córrego Santa Bárbara;"
 }

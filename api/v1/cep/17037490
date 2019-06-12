@@ -1,12 +1,12 @@
 {
-  "cep": "17037490",
-  "logradouro": "Alameda dos Tucanos",
-  "bairro": "Vale do Igapó",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vale do Igapó;",
+    "cep": "17037490",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Alameda dos Tucanos;"
 }

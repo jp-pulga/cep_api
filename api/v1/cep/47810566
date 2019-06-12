@@ -1,12 +1,12 @@
 {
-  "cep": "47810566",
-  "logradouro": "Rua São Domingos",
-  "bairro": "Barreirinhas",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreirinhas;",
+    "cep": "47810566",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua São Domingos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "49097080",
-  "logradouro": "Rua Cândido Batista Itajaí",
-  "bairro": "Ponto Novo",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Ponto Novo;",
+    "cep": "49097080",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Cândido Batista Itajaí;"
 }

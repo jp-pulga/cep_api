@@ -1,12 +1,12 @@
 {
-  "cep": "48010560",
-  "logradouro": "Rua Bela Vista",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "48010560",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Bela Vista;"
 }

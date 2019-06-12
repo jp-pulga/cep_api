@@ -1,12 +1,13 @@
 {
-  "cep": "44573670",
-  "logradouro": "Condomínio Grande Vale",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "44573670",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Condomínio Grande Vale;"
 }

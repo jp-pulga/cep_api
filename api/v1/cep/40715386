@@ -1,12 +1,12 @@
 {
-  "cep": "40715386",
-  "logradouro": "Rua Antônio Duplat",
-  "bairro": "Rio Sena",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Sena;",
+    "cep": "40715386",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Antônio Duplat;"
 }

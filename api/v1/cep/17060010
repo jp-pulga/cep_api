@@ -1,12 +1,12 @@
 {
-  "cep": "17060010",
-  "logradouro": "Rua Boa Esperança",
-  "bairro": "Vila Seabra",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Seabra;",
+    "cep": "17060010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Rua Boa Esperança;"
 }

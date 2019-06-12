@@ -1,12 +1,12 @@
 {
-  "cep": "88104230",
-  "logradouro": "Rua Mário Estevão dos Santos",
-  "bairro": "Ponta de Baixo",
-  "cidade": {
-    "nome": "São José",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Ponta de Baixo;",
+    "cep": "88104230",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "São José"
+    },
+    "logradouro": "Rua Mário Estevão dos Santos;"
 }

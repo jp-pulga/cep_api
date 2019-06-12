@@ -1,12 +1,12 @@
 {
-  "cep": "44075974",
-  "logradouro": "CEE Feira de Santana Avenida Presidente Dutra 1376",
-  "bairro": "Ponto Central",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Ponto Central;",
+    "cep": "44075974",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Avenida Presidente Dutra, 1376  CEE Feira de Santana;"
 }

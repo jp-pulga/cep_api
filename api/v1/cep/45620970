@@ -1,12 +1,13 @@
 {
-  "cep": "45620970",
-  "logradouro": "AC São José da Vitória Avenida Sebastião Oliva s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Vitória",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45620970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São José da Vitória"
+    },
+    "ibge": 2929354,
+    "logradouro": "Avenida Sebastião Oliva, s\/n  AC São José da Vitória;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41950370",
-  "logradouro": "Rua Conselheiro Antonio Seabra",
-  "bairro": "Rio Vermelho",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Rio Vermelho;",
+    "cep": "41950370",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Conselheiro Antonio Seabra;"
 }

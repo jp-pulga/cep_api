@@ -1,12 +1,12 @@
 {
-  "cep": "40430015",
-  "logradouro": "Avenida São Domingos",
-  "bairro": "Vila Ruy Barbosa",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Vila Ruy Barbosa;",
+    "cep": "40430015",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida São Domingos;"
 }

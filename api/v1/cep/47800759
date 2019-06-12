@@ -1,12 +1,12 @@
 {
-  "cep": "47800759",
-  "logradouro": "Rua Coelho Neto",
-  "bairro": "Santa Luzia",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Luzia;",
+    "cep": "47800759",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Coelho Neto;"
 }

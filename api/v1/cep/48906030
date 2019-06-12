@@ -1,12 +1,12 @@
 {
-  "cep": "48906030",
-  "logradouro": "Rua São Gabriel",
-  "bairro": "Tabuleiro",
-  "cidade": {
-    "nome": "Juazeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Tabuleiro;",
+    "cep": "48906030",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Juazeiro"
+    },
+    "logradouro": "Rua São Gabriel;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44640970",
-  "logradouro": "AC Riachão do Jacuípe Rua Marechal Castelo Branco s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riachão do Jacuípe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44640970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Riachão do Jacuípe"
+    },
+    "ibge": 2926301,
+    "logradouro": "Rua Marechal Castelo Branco, s\/n  AC Riachão do Jacuípe;"
 }

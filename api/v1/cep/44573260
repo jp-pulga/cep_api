@@ -1,12 +1,13 @@
 {
-  "cep": "44573260",
-  "logradouro": "Avenida São João",
-  "bairro": "São Benedito",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Benedito;",
+    "cep": "44573260",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Avenida São João;"
 }

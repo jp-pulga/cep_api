@@ -1,12 +1,12 @@
 {
-  "cep": "41620805",
-  "logradouro": "Rua Teixeira de Freitas",
-  "bairro": "Itapuã",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itapuã;",
+    "cep": "41620805",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Teixeira de Freitas;"
 }

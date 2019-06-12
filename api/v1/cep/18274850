@@ -1,12 +1,12 @@
 {
-  "cep": "18274850",
-  "logradouro": "Rua Joaquim da Rocha de Barros",
-  "bairro": "Tanquinho",
-  "cidade": {
-    "nome": "Tatuí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Tanquinho;",
+    "cep": "18274850",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Tatuí"
+    },
+    "logradouro": "Rua Joaquim da Rocha de Barros;"
 }

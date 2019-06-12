@@ -1,12 +1,12 @@
 {
-  "cep": "45820901",
-  "logradouro": "Lojas Ghiane Avenida Porto Seguro 415",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45820901",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Porto Seguro, 415  Lojas Ghiane;"
 }

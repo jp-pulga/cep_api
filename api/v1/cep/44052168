@@ -1,12 +1,12 @@
 {
-  "cep": "44052168",
-  "logradouro": "Travessa Serrolândia",
-  "bairro": "CASEB",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "CASEB;",
+    "cep": "44052168",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Serrolândia;"
 }

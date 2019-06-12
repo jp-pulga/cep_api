@@ -1,12 +1,12 @@
 {
-  "cep": "03313900",
-  "logradouro": "Condomínio Edifício Barcelona Rua Padre Diogo Nunes 46",
-  "bairro": "Vila Santo Estevão",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santo Estevão;",
+    "cep": "03313900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Padre Diogo Nunes, 46  Condomínio Edifício Barcelona;"
 }

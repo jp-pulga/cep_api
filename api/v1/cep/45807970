@@ -1,12 +1,13 @@
 {
-  "cep": "45807970",
-  "logradouro": "AC Santa Cruz Cabrália Rua Presidente Vargas 107",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santa Cruz Cabrália",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45807970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santa Cruz Cabrália"
+    },
+    "ibge": 2927705,
+    "logradouro": "Rua Presidente Vargas, 107  AC Santa Cruz Cabrália;"
 }

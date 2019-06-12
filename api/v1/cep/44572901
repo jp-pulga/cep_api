@@ -1,12 +1,13 @@
 {
-  "cep": "44572901",
-  "logradouro": "Prefeitura Municipal de Santo Antônio de Jesus Avenida Doutor Ursicino Pinto de Queiroz 167",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44572901",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Avenida Doutor Ursicino Pinto de Queiroz, 167  Prefeitura Municipal de Santo Antônio de Jesus;"
 }

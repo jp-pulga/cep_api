@@ -1,12 +1,12 @@
 {
-  "cep": "29175179",
-  "logradouro": "Rua Augusto de Barros",
-  "bairro": "Costa Dourada",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Costa Dourada;",
+    "cep": "29175179",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Augusto de Barros;"
 }

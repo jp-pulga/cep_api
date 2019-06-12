@@ -1,12 +1,13 @@
 {
-  "cep": "48485970",
-  "logradouro": "AC Sátiro Dias Praça Juracy Magalhães Junior 386",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sátiro Dias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48485970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Sátiro Dias"
+    },
+    "ibge": 2929701,
+    "logradouro": "Praça Juracy Magalhães Junior, 386  AC Sátiro Dias;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "45310970",
-  "logradouro": "AC Ubaíra Rua Otávio Mangabeira 8",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ubaíra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45310970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ubaíra"
+    },
+    "ibge": 2932101,
+    "logradouro": "Rua Otávio Mangabeira, 8  AC Ubaíra;"
 }

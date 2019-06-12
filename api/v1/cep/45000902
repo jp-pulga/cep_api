@@ -1,12 +1,12 @@
 {
-  "cep": "45000902",
-  "logradouro": "Conquista Center Praça Presidente Tancredo Neves 86",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Vitória da Conquista",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45000902",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Vitória da Conquista"
+    },
+    "logradouro": "Praça Presidente Tancredo Neves, 86  Conquista Center;"
 }

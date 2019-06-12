@@ -1,12 +1,12 @@
 {
-  "cep": "36060452",
-  "logradouro": "Rua Antônio Barezi (Porto Seguro)",
-  "bairro": "Linhares",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Linhares;",
+    "cep": "36060452",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Antônio Barezi (Porto Seguro);"
 }

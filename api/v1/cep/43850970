@@ -1,12 +1,13 @@
 {
-  "cep": "43850970",
-  "logradouro": "AC São Sebastião do Passé Avenida São Sebastião 99",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sebastião do Passe",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "43850970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Sebastião do Passé"
+    },
+    "ibge": 2929503,
+    "logradouro": "Avenida São Sebastião, 99  AC São Sebastião do Passé;"
 }

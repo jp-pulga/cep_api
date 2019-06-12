@@ -1,12 +1,12 @@
 {
-  "cep": "45655108",
-  "logradouro": "Rua 1 (Lot Gabriela)",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "45655108",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua 1 (Lot Gabriela);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30626140",
-  "logradouro": "Rua São Felipe",
-  "bairro": "Brasil Industrial (Barreiro)",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasil Industrial (Barreiro);",
+    "cep": "30626140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Felipe;"
 }

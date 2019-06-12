@@ -1,12 +1,13 @@
 {
-  "cep": "41204070",
-  "logradouro": "Rua Santa Bárbara",
-  "bairro": "Arraial do Retiro",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Arraial do Retiro;",
+    "cep": "41204070",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "ibge": 2927408,
+    "logradouro": "Rua Santa Bárbara;"
 }

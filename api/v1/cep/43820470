@@ -1,12 +1,12 @@
 {
-  "cep": "43820470",
-  "logradouro": "Rua Senhor do Bonfim",
-  "bairro": "Sarandy",
-  "cidade": {
-    "nome": "Candeias",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Sarandy;",
+    "cep": "43820470",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Candeias"
+    },
+    "logradouro": "Rua Senhor do Bonfim;"
 }

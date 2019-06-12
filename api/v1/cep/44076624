@@ -1,12 +1,12 @@
 {
-  "cep": "44076624",
-  "logradouro": "Rua Tucano",
-  "bairro": "Parque Getúlio Vargas",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Getúlio Vargas;",
+    "cep": "44076624",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Tucano;"
 }

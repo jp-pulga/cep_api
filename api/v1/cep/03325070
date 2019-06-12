@@ -1,12 +1,12 @@
 {
-  "cep": "03325070",
-  "logradouro": "Praça General Costa Barreto",
-  "bairro": "Vila Santo Estevão",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santo Estevão;",
+    "cep": "03325070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça General Costa Barreto;"
 }

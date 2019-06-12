@@ -1,12 +1,12 @@
 {
-  "cep": "41270130",
-  "logradouro": "Rua São Felipe",
-  "bairro": "Campinas de Pirajá",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Campinas de Pirajá;",
+    "cep": "41270130",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua São Felipe;"
 }

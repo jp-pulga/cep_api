@@ -1,12 +1,13 @@
 {
-  "cep": "48950971",
-  "logradouro": "AGC Caldeirão do Almeida Praça Berlamino José Rodrigues s/n",
-  "bairro": "Caldeirão do Almeida",
-  "cidade": {
-    "nome": "Uauá",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Caldeirão do Almeida;",
+    "cep": "48950971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Uauá"
+    },
+    "ibge": 2932002,
+    "logradouro": "Praça Berlamino José Rodrigues, s\/n  AGC Caldeirão do Almeida;"
 }

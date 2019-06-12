@@ -1,12 +1,12 @@
 {
-  "cep": "69044500",
-  "logradouro": "Rua 3 (Cj Jd Versalles)",
-  "bairro": "Planalto",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Planalto;",
+    "cep": "69044500",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Carlos Bayma;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "48605575",
-  "logradouro": "Rua Porto Seguro",
-  "bairro": "Centenário",
-  "cidade": {
-    "nome": "Paulo Afonso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centenário;",
+    "cep": "48605575",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Paulo Afonso"
+    },
+    "logradouro": "Rua Porto Seguro;"
 }

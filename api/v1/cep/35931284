@@ -1,12 +1,12 @@
 {
-  "cep": "35931284",
-  "logradouro": "Rua Bahia",
-  "bairro": "Tanquinho",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tanquinho;",
+    "cep": "35931284",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Bahia;"
 }

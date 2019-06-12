@@ -1,12 +1,12 @@
 {
-  "cep": "13844220",
-  "logradouro": "Rua Vereador João Batista Silva",
-  "bairro": "Jardim Serra Dourada",
-  "cidade": {
-    "nome": "Mogi Guaçu",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Serra Dourada;",
+    "cep": "13844220",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Guaçu"
+    },
+    "logradouro": "Rua Vereador João Batista Silva;"
 }

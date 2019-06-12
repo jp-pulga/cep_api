@@ -1,12 +1,12 @@
 {
-  "cep": "17022095",
-  "logradouro": "Avenida José Alves Seabra",
-  "bairro": "Pousada da Esperança I",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Pousada da Esperança I;",
+    "cep": "17022095",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Avenida José Alves Seabra;"
 }

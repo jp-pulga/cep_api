@@ -1,12 +1,13 @@
 {
-  "cep": "47200970",
-  "logradouro": "AC Remanso Rua Virgilio Sá 75",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Remanso",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47200970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Remanso"
+    },
+    "ibge": 2926004,
+    "logradouro": "Rua Virgilio Sá, 75  AC Remanso;"
 }

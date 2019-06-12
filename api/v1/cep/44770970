@@ -1,12 +1,13 @@
 {
-  "cep": "44770970",
-  "logradouro": "AC Pindobaçu Rua Sete de Setembro 34",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Pindobaçu",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44770970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Pindobaçu"
+    },
+    "ibge": 2924603,
+    "logradouro": "Rua Sete de Setembro, 34  AC Pindobaçu;"
 }

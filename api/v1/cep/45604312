@@ -1,12 +1,12 @@
 {
-  "cep": "45604312",
-  "logradouro": "Travessa Serrinha",
-  "bairro": "Califórnia",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Califórnia;",
+    "cep": "45604312",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Travessa Serrinha;"
 }

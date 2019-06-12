@@ -1,12 +1,13 @@
 {
-  "cep": "44930970",
-  "logradouro": "AC Presidente Dutra Rua Esperança s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Presidente Dutra",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44930970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Presidente Dutra"
+    },
+    "ibge": 2925600,
+    "logradouro": "Rua Esperança, s\/n  AC Presidente Dutra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "45606435",
-  "logradouro": "Rua Senhor do Bonfim",
-  "bairro": "Pedro Gerônimo",
-  "cidade": {
-    "nome": "Itabuna",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Pedro Gerônimo;",
+    "cep": "45606435",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Itabuna"
+    },
+    "logradouro": "Rua Senhor do Bonfim;"
 }

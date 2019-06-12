@@ -1,12 +1,12 @@
 {
-  "cep": "45203250",
-  "logradouro": "Rua Santa Rita de Cássia",
-  "bairro": "São Luís",
-  "cidade": {
-    "nome": "Jequié",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Luís;",
+    "cep": "45203250",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Jequié"
+    },
+    "logradouro": "Rua Santa Rita de Cássia;"
 }

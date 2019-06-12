@@ -1,12 +1,12 @@
 {
-  "cep": "02118001",
-  "logradouro": "Rua Dom Luís Felipe de Orleans de 731/732 ao fim",
-  "bairro": "Vila Maria Baixa",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Maria Baixa;",
+    "cep": "02118001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Dom Luís Felipe de Orleans - de 731\/732 ao fim;"
 }

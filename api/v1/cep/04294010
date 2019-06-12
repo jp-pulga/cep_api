@@ -1,12 +1,12 @@
 {
-  "cep": "04294010",
-  "logradouro": "Rua Bagiru",
-  "bairro": "Saúde",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Saúde;",
+    "cep": "04294010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Bagiru;"
 }

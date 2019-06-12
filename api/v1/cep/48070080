@@ -1,12 +1,12 @@
 {
-  "cep": "48070080",
-  "logradouro": "Rua Simões Filho",
-  "bairro": "Parque Vitória",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Parque Vitória;",
+    "cep": "48070080",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Rua Simões Filho;"
 }

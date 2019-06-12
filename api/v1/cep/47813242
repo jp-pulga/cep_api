@@ -1,12 +1,12 @@
 {
-  "cep": "47813242",
-  "logradouro": "Rua Sobradinho",
-  "bairro": "Barreiras I",
-  "cidade": {
-    "nome": "Barreiras",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Barreiras I;",
+    "cep": "47813242",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Barreiras"
+    },
+    "logradouro": "Rua Sobradinho;"
 }

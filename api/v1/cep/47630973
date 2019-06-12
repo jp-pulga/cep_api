@@ -1,12 +1,13 @@
 {
-  "cep": "47630973",
-  "logradouro": "AGC Agrovila 3 Rua N 184",
-  "bairro": "Agrovila 3",
-  "cidade": {
-    "nome": "Serra do Ramalho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Agrovila 3;",
+    "cep": "47630973",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra do Ramalho"
+    },
+    "ibge": 2930154,
+    "logradouro": "Rua N, 184  AGC Agrovila 3;"
 }

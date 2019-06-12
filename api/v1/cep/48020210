@@ -1,12 +1,12 @@
 {
-  "cep": "48020210",
-  "logradouro": "Travessa Santa Brígida",
-  "bairro": "Kennedy",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Kennedy;",
+    "cep": "48020210",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Travessa Santa Brígida;"
 }

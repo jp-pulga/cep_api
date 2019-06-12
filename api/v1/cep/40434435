@@ -1,12 +1,12 @@
 {
-  "cep": "40434435",
-  "logradouro": "Rua São Felix",
-  "bairro": "Massaranduba",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Massaranduba;",
+    "cep": "40434435",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua São Felix;"
 }

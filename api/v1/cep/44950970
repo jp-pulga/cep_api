@@ -1,12 +1,13 @@
 {
-  "cep": "44950970",
-  "logradouro": "AC Uibaí Praça João da Rocha Machado s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Uibaí",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44950970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Uibaí"
+    },
+    "ibge": 2932408,
+    "logradouro": "Praça João da Rocha Machado, s\/n  AC Uibaí;"
 }

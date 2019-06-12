@@ -1,12 +1,13 @@
 {
-  "cep": "44660970",
-  "logradouro": "AC Serra Preta Avenida do Contorno s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra Preta",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44660970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Serra Preta"
+    },
+    "ibge": 2930402,
+    "logradouro": "Avenida do Contorno, s\/n  AC Serra Preta;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "44570550",
-  "logradouro": "Avenida Esperança",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "44570550",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Avenida Esperança;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "43700970",
-  "logradouro": "AC Simões Filho Rua 15 de Novembro 68",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Simões Filho",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "43700970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Simões Filho"
+    },
+    "ibge": 2930709,
+    "logradouro": "Rua 15 de Novembro, 68  AC Simões Filho;"
 }

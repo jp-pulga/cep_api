@@ -1,12 +1,13 @@
 {
-  "cep": "44572500",
-  "logradouro": "Rua Teodoro Dias Barreto",
-  "bairro": "Andaia",
-  "cidade": {
-    "nome": "Santo Antônio de Jesus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Andaia;",
+    "cep": "44572500",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santo Antônio de Jesus"
+    },
+    "ibge": 2928703,
+    "logradouro": "Rua Teodoro Dias Barreto;"
 }

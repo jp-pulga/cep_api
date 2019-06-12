@@ -1,12 +1,12 @@
 {
-  "cep": "41301330",
-  "logradouro": "Travessa Terra Nova",
-  "bairro": "Valéria",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Valéria;",
+    "cep": "41301330",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Terra Nova;"
 }

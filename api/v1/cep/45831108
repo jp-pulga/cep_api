@@ -1,12 +1,12 @@
 {
-  "cep": "45831108",
-  "logradouro": "Rua Nossa Senhora da Saúde",
-  "bairro": "Santa Edwirges",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Edwirges;",
+    "cep": "45831108",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Rua Nossa Senhora da Saúde;"
 }

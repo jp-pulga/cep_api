@@ -1,12 +1,12 @@
 {
-  "cep": "29048165",
-  "logradouro": "Rua Ruy Dias Barbosa",
-  "bairro": "Joana D'arc",
-  "cidade": {
-    "nome": "Vitória",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Joana D'arc;",
+    "cep": "29048165",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vitória"
+    },
+    "logradouro": "Rua Ruy Dias Barbosa;"
 }

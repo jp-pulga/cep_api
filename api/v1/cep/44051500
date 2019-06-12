@@ -1,12 +1,12 @@
 {
-  "cep": "44051500",
-  "logradouro": "Travessa Teixeira de Freitas",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "44051500",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Travessa Teixeira de Freitas;"
 }

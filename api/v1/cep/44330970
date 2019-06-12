@@ -1,12 +1,13 @@
 {
-  "cep": "44330970",
-  "logradouro": "AC São Gonçalo dos Campos Avenida Aníbal Pedreira 3",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gonçalo dos Campos",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44330970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Gonçalo dos Campos"
+    },
+    "ibge": 2929305,
+    "logradouro": "Avenida Aníbal Pedreira, 3  AC São Gonçalo dos Campos;"
 }

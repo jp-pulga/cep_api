@@ -1,12 +1,12 @@
 {
-  "cep": "05121110",
-  "logradouro": "Rua Amílcar Barbuy",
-  "bairro": "Parque São Domingos",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Domingos;",
+    "cep": "05121110",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Amílcar Barbuy;"
 }

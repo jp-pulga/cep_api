@@ -1,12 +1,12 @@
 {
-  "cep": "12318160",
-  "logradouro": "Rua João Batista do Prado",
-  "bairro": "Jardim Maria Amélia",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Maria Amélia;",
+    "cep": "12318160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Rua João Batista do Prado;"
 }

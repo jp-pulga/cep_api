@@ -1,12 +1,13 @@
 {
-  "cep": "44755970",
-  "logradouro": "AC Ponto Novo Praça Leonidas Freire s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ponto Novo",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "44755970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ponto Novo"
+    },
+    "ibge": 2925253,
+    "logradouro": "Praça Leonidas Freire, s\/n  AC Ponto Novo;"
 }

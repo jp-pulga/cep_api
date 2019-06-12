@@ -1,12 +1,13 @@
 {
-  "cep": "47970970",
-  "logradouro": "AC Riachão das Neves Rua Ruy Barbosa s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Riachão das Neves",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "47970970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Riachão das Neves"
+    },
+    "ibge": 2926202,
+    "logradouro": "Rua Ruy Barbosa, s\/n  AC Riachão das Neves;"
 }

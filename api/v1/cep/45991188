@@ -1,12 +1,13 @@
 {
-  "cep": "45991188",
-  "logradouro": "Rua Raul de Barros Sobrinho",
-  "bairro": "Portal Sul",
-  "cidade": {
-    "nome": "Teixeira de Freitas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Portal Sul;",
+    "cep": "45991188",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Teixeira de Freitas"
+    },
+    "ibge": 2931350,
+    "logradouro": "Rua Raul de Barros Sobrinho;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38066522",
-  "logradouro": "Rua João Barbosa Filho",
-  "bairro": "Residencial Presidente Tancredo Neves",
-  "cidade": {
-    "nome": "Uberaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Presidente Tancredo Neves;",
+    "cep": "38066522",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberaba"
+    },
+    "logradouro": "Rua João Barbosa Filho;"
 }

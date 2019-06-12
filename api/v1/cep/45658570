@@ -1,12 +1,12 @@
 {
-  "cep": "45658570",
-  "logradouro": "Rua Visconde de Santo Amaro",
-  "bairro": "Basílio",
-  "cidade": {
-    "nome": "Ilhéus",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Basílio;",
+    "cep": "45658570",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ilhéus"
+    },
+    "logradouro": "Rua Visconde de Santo Amaro;"
 }

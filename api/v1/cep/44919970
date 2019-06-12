@@ -1,12 +1,13 @@
 {
-  "cep": "44919970",
-  "logradouro": "AGC Gameleira do Jacaré Rua José Mateus Amorim s/n",
-  "bairro": "Gameleira do Jacaré",
-  "cidade": {
-    "nome": "São Gabriel",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Gameleira do Jacaré;",
+    "cep": "44919970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "São Gabriel"
+    },
+    "ibge": 2929255,
+    "logradouro": "Rua José Mateus Amorim, s\/n  AGC Gameleira do Jacaré;"
 }

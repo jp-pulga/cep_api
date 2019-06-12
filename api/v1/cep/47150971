@@ -1,12 +1,13 @@
 {
-  "cep": "47150971",
-  "logradouro": "AGC Itiquira Praça Principal s/n",
-  "bairro": "Itiquira",
-  "cidade": {
-    "nome": "Santa Rita de Cássia",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Itiquira;",
+    "cep": "47150971",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Santa Rita de Cássia"
+    },
+    "ibge": 2928406,
+    "logradouro": "Praça Principal, s\/n  AGC Itiquira;"
 }

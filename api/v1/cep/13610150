@@ -1,12 +1,12 @@
 {
-  "cep": "13610150",
-  "logradouro": "Rua João Batista Prado",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Leme",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "13610150",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Leme"
+    },
+    "logradouro": "Rua João Batista Prado;"
 }

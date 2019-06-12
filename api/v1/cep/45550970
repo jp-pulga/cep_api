@@ -1,12 +1,13 @@
 {
-  "cep": "45550970",
-  "logradouro": "AC Ubatã Rua Ministro Barros Barreto s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Ubatã",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "45550970",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Ubatã"
+    },
+    "ibge": 2932309,
+    "logradouro": "Rua Ministro Barros Barreto, s\/n  AC Ubatã;"
 }
