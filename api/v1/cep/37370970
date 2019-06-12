@@ -1,12 +1,13 @@
 {
-  "cep": "37370970",
-  "logradouro": "AC São Vicente de Minas Rua Presidente Vargas 123",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Vicente de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37370970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Vicente de Minas"
+    },
+    "ibge": 3165305,
+    "logradouro": "Rua Presidente Vargas, 123  AC São Vicente de Minas;"
 }

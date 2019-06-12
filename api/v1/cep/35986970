@@ -1,12 +1,13 @@
 {
-  "cep": "35986970",
-  "logradouro": "AC São José do Goiabal Rua Ismair Oliveira Barros 44",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Goiabal",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35986970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São José do Goiabal"
+    },
+    "ibge": 3163409,
+    "logradouro": "Rua Ismair Oliveira Barros, 44  AC São José do Goiabal;"
 }

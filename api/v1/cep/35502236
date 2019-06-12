@@ -1,12 +1,12 @@
 {
-  "cep": "35502236",
-  "logradouro": "Rua José de Oliveira Lima",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "35502236",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua José de Oliveira Lima;"
 }

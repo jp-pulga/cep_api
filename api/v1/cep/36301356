@@ -1,12 +1,12 @@
 {
-  "cep": "36301356",
-  "logradouro": "Rua João Evangelista dos Santos",
-  "bairro": "Vila São Paulo (Fábricas)",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila São Paulo (Fábricas);",
+    "cep": "36301356",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua João Evangelista dos Santos;"
 }

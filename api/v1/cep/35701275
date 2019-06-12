@@ -1,12 +1,13 @@
 {
-  "cep": "35701275",
-  "logradouro": "Avenida Euro Andrade",
-  "bairro": "Jardim Europa",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Europa;",
+    "cep": "35701275",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Euro Andrade;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "31540200",
-  "logradouro": "Rua São Sebastião do Maranhão",
-  "bairro": "Jardim Leblon",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Leblon;",
+    "cep": "31540200",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Sebastião do Maranhão;"
 }

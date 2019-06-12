@@ -1,12 +1,13 @@
 {
-  "cep": "39540970",
-  "logradouro": "AC São João do Paraíso Avenida Doutor Ozório Adrião da Rocha 313",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Paraíso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39540970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João do Paraíso"
+    },
+    "ibge": 3162708,
+    "logradouro": "Avenida Doutor Ozório Adrião da Rocha, 313  AC São João do Paraíso;"
 }

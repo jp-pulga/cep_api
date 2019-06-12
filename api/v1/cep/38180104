@@ -1,12 +1,12 @@
 {
-  "cep": "38180104",
-  "logradouro": "Alameda Bálsamo",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "38180104",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Alameda Bálsamo;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38180054",
-  "logradouro": "Rua Pernambuco",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "38180054",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Pernambuco;"
 }

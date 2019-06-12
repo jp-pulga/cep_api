@@ -1,12 +1,12 @@
 {
-  "cep": "35701060",
-  "logradouro": "Rua Morro São João",
-  "bairro": "Brejinho",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brejinho;",
+    "cep": "35701060",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Morro São João;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37920970",
-  "logradouro": "AC São João Batista do Glória Avenida Avelino Soares Resende 24",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Batista do Glória",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37920970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Batista do Glória"
+    },
+    "ibge": 3162203,
+    "logradouro": "Avenida Avelino Soares Resende, 24  AC São João Batista do Glória;"
 }

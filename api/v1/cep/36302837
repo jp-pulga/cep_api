@@ -1,12 +1,12 @@
 {
-  "cep": "36302837",
-  "logradouro": "Avenida Oeste de Minas",
-  "bairro": "Residencial Jardim Aeroporto",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Jardim Aeroporto;",
+    "cep": "36302837",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida Oeste de Minas;"
 }

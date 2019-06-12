@@ -1,12 +1,12 @@
 {
-  "cep": "37007021",
-  "logradouro": "Avenida José Olavo de Paiva de 540/541 a 712/713",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Lucas;",
+    "cep": "37007021",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Avenida José Olavo de Paiva - de 540\/541 a 712\/713;"
 }

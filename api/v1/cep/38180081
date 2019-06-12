@@ -1,12 +1,12 @@
 {
-  "cep": "38180081",
-  "logradouro": "Rua Sebastião Afonso Campos",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "38180081",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Sebastião Afonso Campos;"
 }

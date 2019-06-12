@@ -1,12 +1,12 @@
 {
-  "cep": "32665610",
-  "logradouro": "Rua São Lourenço",
-  "bairro": "Presidente Kennedy",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Presidente Kennedy;",
+    "cep": "32665610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua São Lourenço;"
 }

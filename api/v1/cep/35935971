@@ -1,12 +1,13 @@
 {
-  "cep": "35935971",
-  "logradouro": "AGC Una Rua Principal s/n",
-  "bairro": "Una",
-  "cidade": {
-    "nome": "São Gonçalo do Rio Abaixo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Una;",
+    "cep": "35935971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gonçalo do Rio Abaixo"
+    },
+    "ibge": 3161908,
+    "logradouro": "Rua Principal, s\/n  AGC Una;"
 }

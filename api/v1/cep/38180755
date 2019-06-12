@@ -1,12 +1,12 @@
 {
-  "cep": "38180755",
-  "logradouro": "Rua Manuel Francisco Alves",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "38180755",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Manuel Francisco Alves;"
 }

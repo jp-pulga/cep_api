@@ -1,12 +1,12 @@
 {
-  "cep": "35931377",
-  "logradouro": "Rua São Vitorino",
-  "bairro": "Santo Hipólito",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Hipólito;",
+    "cep": "35931377",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua São Vitorino;"
 }

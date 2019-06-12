@@ -1,12 +1,12 @@
 {
-  "cep": "36307444",
-  "logradouro": "Rua João da Mata",
-  "bairro": "Bonfim",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bonfim;",
+    "cep": "36307444",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua João da Mata;"
 }

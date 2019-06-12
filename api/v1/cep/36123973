@@ -1,12 +1,13 @@
 {
-  "cep": "36123973",
-  "logradouro": "AGC Souza Aguiar Rua A s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Simão Pereira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36123973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Simão Pereira"
+    },
+    "ibge": 3167509,
+    "logradouro": "Rua A, s\/n  AGC Souza Aguiar;"
 }

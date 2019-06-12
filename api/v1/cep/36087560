@@ -1,12 +1,12 @@
 {
-  "cep": "36087560",
-  "logradouro": "Rua Monsenhor Francisco de Paula Salgado",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "36087560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Monsenhor Francisco de Paula Salgado;"
 }

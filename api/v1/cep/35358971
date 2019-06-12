@@ -1,12 +1,12 @@
 {
-  "cep": "35358971",
-  "logradouro": "AGC Santana do Tabuleiro Rua Doutor José Grossi 241",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santana do Tabuleiro (Raul Soares)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/Santana do Tabuleiro",
+    "cep": "35358971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Raul Soares"
+    },
+    "logradouro": "Rua Doutor José Grossi, 241  AGC Santana do Tabuleiro;"
 }

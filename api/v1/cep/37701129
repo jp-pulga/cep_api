@@ -1,12 +1,12 @@
 {
-  "cep": "37701129",
-  "logradouro": "Rua Armando Salles de Oliveira",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "37701129",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Armando Salles de Oliveira;"
 }

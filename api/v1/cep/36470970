@@ -1,12 +1,13 @@
 {
-  "cep": "36470970",
-  "logradouro": "AC Senhora de Oliveira Praça São Sebastião 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senhora de Oliveira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36470970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Senhora de Oliveira"
+    },
+    "ibge": 3166006,
+    "logradouro": "Praça São Sebastião, 26  AC Senhora de Oliveira;"
 }

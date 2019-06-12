@@ -1,12 +1,12 @@
 {
-  "cep": "35501499",
-  "logradouro": "Rua São José do Salgado",
-  "bairro": "João Antônio Gonçalves",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "João Antônio Gonçalves;",
+    "cep": "35501499",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua São José do Salgado;"
 }

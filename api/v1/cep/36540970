@@ -1,12 +1,13 @@
 {
-  "cep": "36540970",
-  "logradouro": "AC Senador Firmino Praça Padre Jacinto 99 Loja A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senador Firmino",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36540970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Senador Firmino"
+    },
+    "ibge": 3165701,
+    "logradouro": "Praça Padre Jacinto, 99 Loja A  AC Senador Firmino;"
 }

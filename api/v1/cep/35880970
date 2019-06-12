@@ -1,12 +1,13 @@
 {
-  "cep": "35880970",
-  "logradouro": "AC Santo Antônio do Rio Abaixo Rua Major Quintão 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Rio Abaixo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35880970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Antônio do Rio Abaixo"
+    },
+    "ibge": 3160504,
+    "logradouro": "Rua Major Quintão, 63  AC Santo Antônio do Rio Abaixo;"
 }

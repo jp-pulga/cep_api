@@ -1,12 +1,13 @@
 {
-  "cep": "39430970",
-  "logradouro": "AC São João da Ponte Praça Olimpio Campos 2",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João da Ponte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39430970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João da Ponte"
+    },
+    "ibge": 3162401,
+    "logradouro": "Praça Olimpio Campos, 2  AC São João da Ponte;"
 }

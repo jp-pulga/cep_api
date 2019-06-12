@@ -1,12 +1,12 @@
 {
-  "cep": "36307146",
-  "logradouro": "Avenida Apucarana",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "36307146",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida Apucarana;"
 }

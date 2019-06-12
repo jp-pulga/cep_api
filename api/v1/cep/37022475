@@ -1,12 +1,12 @@
 {
-  "cep": "37022475",
-  "logradouro": "Praça Serranos",
-  "bairro": "Santa Maria",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Maria;",
+    "cep": "37022475",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Praça Serranos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38180214",
-  "logradouro": "Rua Z",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "38180214",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Z;"
 }

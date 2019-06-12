@@ -1,12 +1,12 @@
 {
-  "cep": "38180160",
-  "logradouro": "Rua Wagner Tadeu de Rezende",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "38180160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Wagner Tadeu de Rezende;"
 }

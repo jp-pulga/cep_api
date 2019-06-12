@@ -1,12 +1,12 @@
 {
-  "cep": "32670130",
-  "logradouro": "Rua Sete Lagoas",
-  "bairro": "Filadélfia",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Filadélfia;",
+    "cep": "32670130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Sete Lagoas;"
 }

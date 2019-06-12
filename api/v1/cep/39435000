@@ -1,12 +1,12 @@
 {
-  "cep": "39435000",
-  "logradouro": "Condado do Norte (São João da Ponte)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Condado do Norte (São João da Ponte)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Condado do Norte",
+    "cep": "39435000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João da Ponte"
+    },
+    "ibge": 3162401
 }

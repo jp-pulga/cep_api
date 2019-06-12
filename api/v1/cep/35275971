@@ -1,12 +1,13 @@
 {
-  "cep": "35275971",
-  "logradouro": "PC Frei Jorge Rua Marlene 7",
-  "bairro": "Frei Jorge",
-  "cidade": {
-    "nome": "São Félix de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Frei Jorge;",
+    "cep": "35275971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Félix de Minas"
+    },
+    "ibge": 3161056,
+    "logradouro": "Rua Marlene, 7  PC Frei Jorge;"
 }

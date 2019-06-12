@@ -1,12 +1,13 @@
 {
-  "cep": "37928970",
-  "logradouro": "AC São Roque de Minas Rua XV de Novembro 03",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Roque de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37928970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Roque de Minas"
+    },
+    "ibge": 3164308,
+    "logradouro": "Rua XV de Novembro, 03  AC São Roque de Minas;"
 }

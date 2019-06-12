@@ -1,12 +1,13 @@
 {
-  "cep": "35617970",
-  "logradouro": "AC Serra da Saudade Praça Ademar R. Oliveira 98",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serra da Saudade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35617970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Serra da Saudade"
+    },
+    "ibge": 3166600,
+    "logradouro": "Praça Ademar R. Oliveira, 98  AC Serra da Saudade;"
 }

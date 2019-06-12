@@ -1,12 +1,12 @@
 {
-  "cep": "36200327",
-  "logradouro": "Praça Santos Dumont",
-  "bairro": "Campo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Campo;",
+    "cep": "36200327",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Praça Santos Dumont;"
 }

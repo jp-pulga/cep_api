@@ -1,12 +1,12 @@
 {
-  "cep": "35501282",
-  "logradouro": "Rua Geraldo Serrano de 1701/1702 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "35501282",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Geraldo Serrano - de 1701\/1702 ao fim;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38802000",
-  "logradouro": "Funchal (São Gotardo)",
-  "bairro": "",
-  "cidade": {
-    "nome": "Funchal (São Gotardo)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Funchal",
+    "cep": "38802000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gotardo"
+    },
+    "ibge": 3162104
 }

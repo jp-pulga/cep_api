@@ -1,12 +1,13 @@
 {
-  "cep": "35700690",
-  "logradouro": "Avenida Cristiano Martins",
-  "bairro": "São Cristóvão",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Cristóvão;",
+    "cep": "35700690",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Cristiano Martins;"
 }

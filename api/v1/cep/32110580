@@ -1,12 +1,12 @@
 {
-  "cep": "32110580",
-  "logradouro": "Rua Francisco Gonçalves",
-  "bairro": "São Gotardo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Gotardo;",
+    "cep": "32110580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Francisco Gonçalves;"
 }

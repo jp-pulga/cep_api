@@ -1,12 +1,13 @@
 {
-  "cep": "39745970",
-  "logradouro": "AC Senhora do Porto Praça Monsenhor José Coelho 360",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senhora do Porto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39745970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Senhora do Porto"
+    },
+    "ibge": 3166105,
+    "logradouro": "Praça Monsenhor José Coelho, 360  AC Senhora do Porto;"
 }

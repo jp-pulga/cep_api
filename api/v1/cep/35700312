@@ -1,12 +1,13 @@
 {
-  "cep": "35700312",
-  "logradouro": "Avenida Doutor Renato Azeredo",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "35700312",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Doutor Renato Azeredo;"
 }

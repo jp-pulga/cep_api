@@ -1,12 +1,13 @@
 {
-  "cep": "37855972",
-  "logradouro": "AGC Biguatinga Rua Antônio Eduardo s/n",
-  "bairro": "Biguatinga",
-  "cidade": {
-    "nome": "São Pedro da União",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Biguatinga;",
+    "cep": "37855972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Pedro da União"
+    },
+    "ibge": 3163904,
+    "logradouro": "Rua Antônio Eduardo, s\/n  AGC Biguatinga;"
 }

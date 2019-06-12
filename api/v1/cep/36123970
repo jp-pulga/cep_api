@@ -1,12 +1,13 @@
 {
-  "cep": "36123970",
-  "logradouro": "AC Simão Pereira Rua Alves Costa 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Simão Pereira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36123970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Simão Pereira"
+    },
+    "ibge": 3167509,
+    "logradouro": "Rua Alves Costa, 13  AC Simão Pereira;"
 }

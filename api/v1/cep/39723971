@@ -1,12 +1,13 @@
 {
-  "cep": "39723971",
-  "logradouro": "AGC Horto Vinhático Rua F 172",
-  "bairro": "Horto Vinhático",
-  "cidade": {
-    "nome": "São Geraldo da Piedade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto Vinhático;",
+    "cep": "39723971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Geraldo da Piedade"
+    },
+    "ibge": 3161601,
+    "logradouro": "Rua F, 172  AGC Horto Vinhático;"
 }

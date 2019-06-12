@@ -1,12 +1,13 @@
 {
-  "cep": "36650970",
-  "logradouro": "AC Senador Cortes Avenida Antônio de Souza Rabelo 108",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senador Cortes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36650970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Senador Cortes"
+    },
+    "ibge": 3165602,
+    "logradouro": "Avenida Antônio de Souza Rabelo, 108  AC Senador Cortes;"
 }

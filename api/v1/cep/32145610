@@ -1,12 +1,12 @@
 {
-  "cep": "32145610",
-  "logradouro": "Rua São João del Rei",
-  "bairro": "Guanabara",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Guanabara;",
+    "cep": "32145610",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua São João del Rei;"
 }

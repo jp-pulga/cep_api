@@ -1,12 +1,12 @@
 {
-  "cep": "35022390",
-  "logradouro": "Alameda Oito",
-  "bairro": "Santos Dumont I",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Dumont I;",
+    "cep": "35022390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Alameda Oito;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35300179",
-  "logradouro": "Vila Francisco Teodolino de Oliveira",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "35300179",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Vila Francisco Teodolino de Oliveira;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "38800000",
-  "logradouro": "São Gotardo",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Gotardo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "38800000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gotardo"
+    },
+    "ibge": 3162104
 }

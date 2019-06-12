@@ -1,12 +1,12 @@
 {
-  "cep": "35501831",
-  "logradouro": "Rua Doutor José Chaves",
-  "bairro": "São Domingos",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Domingos;",
+    "cep": "35501831",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Doutor José Chaves;"
 }

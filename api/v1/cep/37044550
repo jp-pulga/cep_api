@@ -1,12 +1,12 @@
 {
-  "cep": "37044550",
-  "logradouro": "Rua Serro",
-  "bairro": "Conjunto Habitacional Sion",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Habitacional Sion;",
+    "cep": "37044550",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Serro;"
 }

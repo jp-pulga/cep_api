@@ -1,12 +1,13 @@
 {
-  "cep": "33350970",
-  "logradouro": "AC São José da Lapa Rua Padre José Dias 532",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Lapa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "33350970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São José da Lapa"
+    },
+    "ibge": 3162955,
+    "logradouro": "Rua Padre José Dias, 532  AC São José da Lapa;"
 }

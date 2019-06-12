@@ -1,12 +1,12 @@
 {
-  "cep": "30220250",
-  "logradouro": "Rua Serranos",
-  "bairro": "Serra",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Serra;",
+    "cep": "30220250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Serranos;"
 }

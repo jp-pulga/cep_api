@@ -1,12 +1,12 @@
 {
-  "cep": "35501109",
-  "logradouro": "Rua Rosenwald Hudson de Oliveira",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "35501109",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Rosenwald Hudson de Oliveira;"
 }

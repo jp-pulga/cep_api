@@ -1,12 +1,12 @@
 {
-  "cep": "36205010",
-  "logradouro": "Rua Francisco Penha",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "36205010",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Francisco Penha;"
 }

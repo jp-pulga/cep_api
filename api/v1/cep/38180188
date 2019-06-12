@@ -1,12 +1,12 @@
 {
-  "cep": "38180188",
-  "logradouro": "Rua Cinco",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "38180188",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Cinco;"
 }

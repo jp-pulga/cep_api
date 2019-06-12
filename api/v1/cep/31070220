@@ -1,12 +1,12 @@
 {
-  "cep": "31070220",
-  "logradouro": "Rua Simão Pereira",
-  "bairro": "Nova Vista",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Vista;",
+    "cep": "31070220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Simão Pereira;"
 }

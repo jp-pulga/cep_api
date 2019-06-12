@@ -1,12 +1,12 @@
 {
-  "cep": "30330530",
-  "logradouro": "Rua São Tomáz de Aquino de 119/120 ao fim",
-  "bairro": "Santa Rita de Cássia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita de Cássia;",
+    "cep": "30330530",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Tomáz de Aquino - de 119\/120 ao fim;"
 }

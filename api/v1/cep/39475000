@@ -1,12 +1,11 @@
 {
-  "cep": "39475000",
-  "logradouro": "São João das Missões",
-  "bairro": "",
-  "cidade": {
-    "nome": "São João das Missões",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39475000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João das Missões"
+    },
+    "ibge": 3162450
 }

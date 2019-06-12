@@ -1,12 +1,12 @@
 {
-  "cep": "32604476",
-  "logradouro": "Rua Santos Dumont de 300/301 ao fim",
-  "bairro": "Ingá",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ingá;",
+    "cep": "32604476",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Santos Dumont - de 300\/301 ao fim;"
 }

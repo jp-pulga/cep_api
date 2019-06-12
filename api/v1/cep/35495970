@@ -1,12 +1,13 @@
 {
-  "cep": "35495970",
-  "logradouro": "AC São Brás do Suaçuí Avenida Doutor Aprigio Ribeiro de Oliveira 361",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Brás do Suaçuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35495970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Brás do Suaçuí"
+    },
+    "ibge": 3160900,
+    "logradouro": "Avenida Doutor Aprigio Ribeiro de Oliveira, 361  AC São Brás do Suaçuí;"
 }

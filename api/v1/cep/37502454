@@ -1,12 +1,12 @@
 {
-  "cep": "37502454",
-  "logradouro": "Avenida Padre Lourenço de 822/823 a 1674/1675",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "37502454",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Avenida Padre Lourenço - de 822\/823 a 1674\/1675;"
 }

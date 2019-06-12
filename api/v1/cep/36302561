@@ -1,12 +1,12 @@
 {
-  "cep": "36302561",
-  "logradouro": "Rua Nelson Tiago",
-  "bairro": "Nossa Senhora da Conceição",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora da Conceição;",
+    "cep": "36302561",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Nelson Tiago;"
 }

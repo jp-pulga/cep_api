@@ -1,12 +1,12 @@
 {
-  "cep": "36016350",
-  "logradouro": "Rua Padre Tiago",
-  "bairro": "São Mateus",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Mateus;",
+    "cep": "36016350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua Padre Tiago;"
 }

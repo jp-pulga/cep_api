@@ -1,12 +1,13 @@
 {
-  "cep": "35277970",
-  "logradouro": "AC São João do Manteninha Avenida João Gomes Vieira 47",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Manteninha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35277970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João do Manteninha"
+    },
+    "ibge": 3162575,
+    "logradouro": "Avenida João Gomes Vieira, 47  AC São João do Manteninha;"
 }

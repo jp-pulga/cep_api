@@ -1,12 +1,13 @@
 {
-  "cep": "39784973",
-  "logradouro": "ACS Marobas Rua Principal s/n",
-  "bairro": "Araras",
-  "cidade": {
-    "nome": "São Pedro do Suaçuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Araras;",
+    "cep": "39784973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Pedro do Suaçuí"
+    },
+    "ibge": 3164100,
+    "logradouro": "Rua Principal, s\/n  ACS Marobas;"
 }

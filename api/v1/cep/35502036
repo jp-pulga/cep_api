@@ -1,12 +1,12 @@
 {
-  "cep": "35502036",
-  "logradouro": "Rua Monte Santo",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "35502036",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Monte Santo;"
 }

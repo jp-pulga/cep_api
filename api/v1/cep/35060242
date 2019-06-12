@@ -1,12 +1,12 @@
 {
-  "cep": "35060242",
-  "logradouro": "Beco São Lourenço",
-  "bairro": "Carapina",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carapina;",
+    "cep": "35060242",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Beco São Lourenço;"
 }

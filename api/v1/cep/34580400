@@ -1,12 +1,12 @@
 {
-  "cep": "34580400",
-  "logradouro": "Rua São Lourenço",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Sabará",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "34580400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sabará"
+    },
+    "logradouro": "Rua São Lourenço;"
 }

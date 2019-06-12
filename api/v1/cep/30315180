@@ -1,12 +1,12 @@
 {
-  "cep": "30315180",
-  "logradouro": "Rua Senador Amaral",
-  "bairro": "Comiteco",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Comiteco;",
+    "cep": "30315180",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Senador Amaral;"
 }

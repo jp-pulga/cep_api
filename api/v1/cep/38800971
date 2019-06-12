@@ -1,12 +1,13 @@
 {
-  "cep": "38800971",
-  "logradouro": "AGF Rui Barbosa Avenida Rui Barbosa 571 Loja B",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "São Gotardo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "38800971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gotardo"
+    },
+    "ibge": 3162104,
+    "logradouro": "Avenida Rui Barbosa, 571 Loja B  AGF Rui Barbosa;"
 }

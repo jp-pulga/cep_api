@@ -1,12 +1,12 @@
 {
-  "cep": "36325970",
-  "logradouro": "AC Tiradentes Rua São Francisco de Paula 52-C",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tiradentes",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36325970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Tiradentes"
+    },
+    "logradouro": "Rua São Francisco de Paula, 52-C  AC Tiradentes;"
 }

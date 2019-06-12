@@ -1,12 +1,13 @@
 {
-  "cep": "39190970",
-  "logradouro": "AC Senador Modestino Gonçalves Rua Carlos Campos 47",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senador Modestino Gonçalves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39190970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Senador Modestino Gonçalves"
+    },
+    "ibge": 3165909,
+    "logradouro": "Rua Carlos Campos, 47  AC Senador Modestino Gonçalves;"
 }

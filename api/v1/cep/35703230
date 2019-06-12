@@ -1,12 +1,13 @@
 {
-  "cep": "35703230",
-  "logradouro": "Avenida G-3",
-  "bairro": "Santa Felicidade",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Felicidade;",
+    "cep": "35703230",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida G-3;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35701533",
-  "logradouro": "Rua Simão Pereira de Souza",
-  "bairro": "Barreiro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Barreiro;",
+    "cep": "35701533",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Simão Pereira de Souza;"
 }

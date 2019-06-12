@@ -1,12 +1,12 @@
 {
-  "cep": "39400127",
-  "logradouro": "Rua Santo Antônio",
-  "bairro": "Todos os Santos",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Todos os Santos;",
+    "cep": "39400127",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Santo Antônio;"
 }

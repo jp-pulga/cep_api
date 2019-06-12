@@ -1,12 +1,13 @@
 {
-  "cep": "39365972",
-  "logradouro": "AC São João do Pacuí Rua Virgílio Helber Magalhães 300",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Pacuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39365972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João do Pacuí"
+    },
+    "ibge": 3162658,
+    "logradouro": "Rua Virgílio Helber Magalhães, 300  AC São João do Pacuí;"
 }

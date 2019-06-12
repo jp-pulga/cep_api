@@ -1,12 +1,12 @@
 {
-  "cep": "35931203",
-  "logradouro": "Rua Vinícius de Moraes",
-  "bairro": "Santo Hipólito",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Hipólito;",
+    "cep": "35931203",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Vinícius de Moraes;"
 }

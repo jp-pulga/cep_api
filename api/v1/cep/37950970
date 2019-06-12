@@ -1,12 +1,13 @@
 {
-  "cep": "37950970",
-  "logradouro": "AC São Sebastião do Paraíso Travessa Alferes Patrício 157",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sebastião do Paraíso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37950970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Sebastião do Paraíso"
+    },
+    "ibge": 3164704,
+    "logradouro": "Travessa Alferes Patrício, 157  AC São Sebastião do Paraíso;"
 }

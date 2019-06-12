@@ -1,12 +1,12 @@
 {
-  "cep": "30882440",
-  "logradouro": "Rua Sericita",
-  "bairro": "Conjunto Celso Machado",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Conjunto Celso Machado;",
+    "cep": "30882440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Sericita;"
 }

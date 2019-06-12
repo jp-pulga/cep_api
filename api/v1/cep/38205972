@@ -1,12 +1,12 @@
 {
-  "cep": "38205972",
-  "logradouro": "AGC Aparecida de Minas Rua São Francisco de Assis 194",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Aparecida de Minas (Frutal)",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro\/Aparecida de Minas",
+    "cep": "38205972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Frutal"
+    },
+    "logradouro": "Rua São Francisco de Assis, 194  AGC Aparecida de Minas;"
 }

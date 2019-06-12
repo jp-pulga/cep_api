@@ -1,12 +1,12 @@
 {
-  "cep": "36302004",
-  "logradouro": "Avenida Domingos Pinto Camarano",
-  "bairro": "Colônia do Marçal",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Colônia do Marçal;",
+    "cep": "36302004",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida Domingos Pinto Camarano;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38412048",
-  "logradouro": "Praça São Francisco de Paula",
-  "bairro": "Tubalina",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Tubalina;",
+    "cep": "38412048",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Praça São Francisco de Paula;"
 }

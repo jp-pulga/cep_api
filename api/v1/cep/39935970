@@ -1,12 +1,13 @@
 {
-  "cep": "39935970",
-  "logradouro": "AC Santo Antônio do Jacinto Praça da Camig 11",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Jacinto",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39935970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Antônio do Jacinto"
+    },
+    "ibge": 3160306,
+    "logradouro": "Rua Treze de Janeiro, 366  AC Santo Antônio do Jacinto;"
 }

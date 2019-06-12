@@ -1,12 +1,12 @@
 {
-  "cep": "31310570",
-  "logradouro": "Rua Senador Firmino",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "31310570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Senador Firmino;"
 }

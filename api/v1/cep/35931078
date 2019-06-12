@@ -1,12 +1,12 @@
 {
-  "cep": "35931078",
-  "logradouro": "Rua São Tomaz de Aquino",
-  "bairro": "Ernestina Graciana",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ernestina Graciana;",
+    "cep": "35931078",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua São Tomaz de Aquino;"
 }

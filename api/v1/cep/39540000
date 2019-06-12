@@ -1,12 +1,11 @@
 {
-  "cep": "39540000",
-  "logradouro": "São João do Paraíso",
-  "bairro": "",
-  "cidade": {
-    "nome": "São João do Paraíso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39540000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João do Paraíso"
+    },
+    "ibge": 3162708
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37706003",
-  "logradouro": "Rua São Lourenço",
-  "bairro": "Chácara Alvorada",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Chácara Alvorada;",
+    "cep": "37706003",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua São Lourenço;"
 }

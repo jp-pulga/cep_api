@@ -1,12 +1,13 @@
 {
-  "cep": "37478970",
-  "logradouro": "AC Soledade de Minas Rua Manoel Guimarães 400",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Soledade de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37478970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Soledade de Minas"
+    },
+    "ibge": 3167806,
+    "logradouro": "Rua Manoel Guimarães, 400  AC Soledade de Minas;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35501287",
-  "logradouro": "Rua Júlio Nogueira de 1601/1602 a 2799/2800",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "35501287",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Júlio Nogueira - de 1601\/1602 a 2799\/2800;"
 }

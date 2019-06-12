@@ -1,12 +1,11 @@
 {
-  "cep": "35995000",
-  "logradouro": "São Domingos do Prata",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Domingos do Prata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "35995000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Domingos do Prata"
+    },
+    "ibge": 3161007
 }

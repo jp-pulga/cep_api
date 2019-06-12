@@ -1,12 +1,12 @@
 {
-  "cep": "36200346",
-  "logradouro": "Rua Francisco Alves",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "36200346",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Francisco Alves;"
 }

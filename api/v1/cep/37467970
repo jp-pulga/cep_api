@@ -1,12 +1,13 @@
 {
-  "cep": "37467970",
-  "logradouro": "AC São Sebastião do Rio Verde Rua Doutor André Sarmento 272",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sebastião do Rio Verde",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37467970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Sebastião do Rio Verde"
+    },
+    "ibge": 3164902,
+    "logradouro": "Rua Doutor André Sarmento, 272  AC São Sebastião do Rio Verde;"
 }

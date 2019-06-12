@@ -1,12 +1,12 @@
 {
-  "cep": "35182202",
-  "logradouro": "Rua São Domingos do Prata",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Timóteo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "35182202",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Timóteo"
+    },
+    "logradouro": "Rua São Domingos do Prata;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35430825",
-  "logradouro": "Rua João Gariglio",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "35430825",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua João Gariglio;"
 }

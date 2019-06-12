@@ -1,12 +1,12 @@
 {
-  "cep": "35501003",
-  "logradouro": "Rua São João Del Rei",
-  "bairro": "Esplanada",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esplanada;",
+    "cep": "35501003",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua São João Del Rei;"
 }

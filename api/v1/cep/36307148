@@ -1,12 +1,12 @@
 {
-  "cep": "36307148",
-  "logradouro": "Avenida Angra dos Reis",
-  "bairro": "São Judas Tadeu",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Judas Tadeu;",
+    "cep": "36307148",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida Angra dos Reis;"
 }

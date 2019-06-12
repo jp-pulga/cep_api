@@ -1,12 +1,12 @@
 {
-  "cep": "35700151",
-  "logradouro": "Rua Monte Carmelo",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "35700151",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Monte Carmelo;"
 }

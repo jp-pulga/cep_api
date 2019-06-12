@@ -1,12 +1,12 @@
 {
-  "cep": "35501283",
-  "logradouro": "Rua Fagundes Varela de 1701/1702 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "35501283",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Fagundes Varela - de 1701\/1702 ao fim;"
 }

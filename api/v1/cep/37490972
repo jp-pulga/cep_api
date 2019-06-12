@@ -1,12 +1,13 @@
 {
-  "cep": "37490972",
-  "logradouro": "AGC Carneiros Rua Monteiro Lobato s/n",
-  "bairro": "Carneiros",
-  "cidade": {
-    "nome": "São Gonçalo do Sapucaí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Carneiros;",
+    "cep": "37490972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gonçalo do Sapucaí"
+    },
+    "ibge": 3162005,
+    "logradouro": "Rua Monteiro Lobato, s\/n  AGC Carneiros;"
 }

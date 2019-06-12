@@ -1,12 +1,12 @@
 {
-  "cep": "31744740",
-  "logradouro": "Rua Serro Azul",
-  "bairro": "Mariquinhas",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Mariquinhas;",
+    "cep": "31744740",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Serro Azul;"
 }

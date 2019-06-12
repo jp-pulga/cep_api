@@ -1,12 +1,12 @@
 {
-  "cep": "35700150",
-  "logradouro": "Rua Euclides Nogueira Gontijo",
-  "bairro": "São João",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João;",
+    "cep": "35700150",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Euclides Nogueira Gontijo;"
 }

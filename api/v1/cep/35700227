@@ -1,12 +1,12 @@
 {
-  "cep": "35700227",
-  "logradouro": "Rua João Dinis Pontes",
-  "bairro": "São Dimas",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Dimas;",
+    "cep": "35700227",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua João Dinis Pontes;"
 }

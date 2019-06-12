@@ -1,12 +1,12 @@
 {
-  "cep": "38400782",
-  "logradouro": "Rua Professor Milton Porto",
-  "bairro": "Nossa Senhora Aparecida",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora Aparecida;",
+    "cep": "38400782",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Professor Milton Porto;"
 }

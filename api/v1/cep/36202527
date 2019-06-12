@@ -1,12 +1,12 @@
 {
-  "cep": "36202527",
-  "logradouro": "Rua José F. Oliveira",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "36202527",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua José F. Oliveira;"
 }

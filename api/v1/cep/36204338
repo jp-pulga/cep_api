@@ -1,12 +1,12 @@
 {
-  "cep": "36204338",
-  "logradouro": "Rua Nossa Senhora dos Remédios",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "36204338",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Nossa Senhora dos Remédios;"
 }

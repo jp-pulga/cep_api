@@ -1,12 +1,12 @@
 {
-  "cep": "38180066",
-  "logradouro": "Rua Mato Grosso",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "38180066",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Mato Grosso;"
 }

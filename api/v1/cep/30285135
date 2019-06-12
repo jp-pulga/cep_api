@@ -1,12 +1,12 @@
 {
-  "cep": "30285135",
-  "logradouro": "Rua Santos Dumont",
-  "bairro": "Vera Cruz",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vera Cruz;",
+    "cep": "30285135",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Santos Dumont;"
 }

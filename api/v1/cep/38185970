@@ -1,12 +1,13 @@
 {
-  "cep": "38185970",
-  "logradouro": "AC Tapira Rua Cristino R. Resende 40",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Tapira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38185970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Tapira"
+    },
+    "ibge": 3168101,
+    "logradouro": "Rua Cristino R. Resende, 40  AC Tapira;"
 }

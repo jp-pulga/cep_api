@@ -1,12 +1,12 @@
 {
-  "cep": "30820462",
-  "logradouro": "Travessa João da Mata Pacheco",
-  "bairro": "Jardim São José",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim São José;",
+    "cep": "30820462",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Travessa João da Mata Pacheco;"
 }

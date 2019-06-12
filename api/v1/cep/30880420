@@ -1,12 +1,12 @@
 {
-  "cep": "30880420",
-  "logradouro": "Rua Taiobeiras",
-  "bairro": "Coqueiros",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Coqueiros;",
+    "cep": "30880420",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Taiobeiras;"
 }

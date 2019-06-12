@@ -1,12 +1,12 @@
 {
-  "cep": "36301234",
-  "logradouro": "Rua Operário Lourenço Margotti",
-  "bairro": "Fábricas",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fábricas;",
+    "cep": "36301234",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Operário Lourenço Margotti;"
 }

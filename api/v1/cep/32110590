@@ -1,12 +1,12 @@
 {
-  "cep": "32110590",
-  "logradouro": "Rua da Divisa",
-  "bairro": "São Gotardo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Gotardo;",
+    "cep": "32110590",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua da Divisa;"
 }

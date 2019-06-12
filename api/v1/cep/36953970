@@ -1,12 +1,13 @@
 {
-  "cep": "36953970",
-  "logradouro": "AGC Três Barras de Taparuba Rua Felipe dos Santos 44",
-  "bairro": "Três Barras",
-  "cidade": {
-    "nome": "Taparuba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Três Barras;",
+    "cep": "36953970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Taparuba"
+    },
+    "ibge": 3168051,
+    "logradouro": "Rua Felipe dos Santos, 44  AGC Três Barras de Taparuba;"
 }

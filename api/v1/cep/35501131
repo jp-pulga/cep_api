@@ -1,12 +1,12 @@
 {
-  "cep": "35501131",
-  "logradouro": "Rua Acylino Diniz Moreira",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "35501131",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Acylino Diniz Moreira;"
 }

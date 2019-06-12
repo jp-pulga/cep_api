@@ -1,12 +1,12 @@
 {
-  "cep": "35661196",
-  "logradouro": "Rua do Serro",
-  "bairro": "São Luiz",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Luiz;",
+    "cep": "35661196",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua do Serro;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35931580",
-  "logradouro": "Rua A",
-  "bairro": "Santo Hipólito",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Hipólito;",
+    "cep": "35931580",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua A;"
 }

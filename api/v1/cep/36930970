@@ -1,12 +1,13 @@
 {
-  "cep": "36930970",
-  "logradouro": "AC Simonésia Avenida Governador Valadares 306",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Simonésia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36930970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Simonésia"
+    },
+    "ibge": 3167608,
+    "logradouro": "Avenida Governador Valadares, 306  AC Simonésia;"
 }

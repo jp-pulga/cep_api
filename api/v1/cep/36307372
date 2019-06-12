@@ -1,12 +1,12 @@
 {
-  "cep": "36307372",
-  "logradouro": "Avenida Nossa Senhora do Pilar",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36307372",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida Nossa Senhora do Pilar;"
 }

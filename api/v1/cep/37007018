@@ -1,12 +1,12 @@
 {
-  "cep": "37007018",
-  "logradouro": "Rua José Milens Sales Filho",
-  "bairro": "São Lucas",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Lucas;",
+    "cep": "37007018",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua José Milens Sales Filho;"
 }

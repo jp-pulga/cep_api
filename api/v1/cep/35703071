@@ -1,12 +1,12 @@
 {
-  "cep": "35703071",
-  "logradouro": "Rua Cordezinha de Oliveira Thomé",
-  "bairro": "Nossa Senhora de Lourdes",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Lourdes;",
+    "cep": "35703071",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Cordezinha de Oliveira Thomé;"
 }

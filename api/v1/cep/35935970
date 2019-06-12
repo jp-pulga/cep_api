@@ -1,12 +1,13 @@
 {
-  "cep": "35935970",
-  "logradouro": "AC São Gonçalo do Rio Abaixo Rua Augusto Pessoa 149",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Gonçalo do Rio Abaixo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35935970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gonçalo do Rio Abaixo"
+    },
+    "ibge": 3161908,
+    "logradouro": "Rua Augusto Pessoa, 149  AC São Gonçalo do Rio Abaixo;"
 }

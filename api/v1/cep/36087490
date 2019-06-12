@@ -1,12 +1,12 @@
 {
-  "cep": "36087490",
-  "logradouro": "Rua João de Oliveira",
-  "bairro": "São Francisco de Paula",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco de Paula;",
+    "cep": "36087490",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua João de Oliveira;"
 }

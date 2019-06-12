@@ -1,12 +1,13 @@
 {
-  "cep": "37615972",
-  "logradouro": "AC Senador Amaral Rua José Mestre 06",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senador Amaral",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37615972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Senador Amaral"
+    },
+    "ibge": 3165578,
+    "logradouro": "Rua José Mestre, 06  AC Senador Amaral;"
 }

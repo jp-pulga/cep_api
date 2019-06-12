@@ -1,12 +1,12 @@
 {
-  "cep": "39402272",
-  "logradouro": "Rua Dezessete",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "39402272",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Dezessete;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35702201",
-  "logradouro": "Avenida Dalton",
-  "bairro": "JK",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "JK;",
+    "cep": "35702201",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Dalton;"
 }

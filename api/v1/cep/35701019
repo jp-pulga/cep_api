@@ -1,12 +1,13 @@
 {
-  "cep": "35701019",
-  "logradouro": "Avenida José Sérvulo Soalheiro",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "35701019",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida José Sérvulo Soalheiro;"
 }

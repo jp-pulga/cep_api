@@ -1,12 +1,12 @@
 {
-  "cep": "35680279",
-  "logradouro": "Rua São Lourenço",
-  "bairro": "Residencial Morro do Sol",
-  "cidade": {
-    "nome": "Itaúna",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Residencial Morro do Sol;",
+    "cep": "35680279",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itaúna"
+    },
+    "logradouro": "Rua São Lourenço;"
 }

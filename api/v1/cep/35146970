@@ -1,12 +1,13 @@
 {
-  "cep": "35146970",
-  "logradouro": "AC São João do Oriente Rua São Geraldo 31",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Oriente",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35146970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João do Oriente"
+    },
+    "ibge": 3162609,
+    "logradouro": "Rua São Geraldo, 31  AC São João do Oriente;"
 }

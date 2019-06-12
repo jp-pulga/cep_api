@@ -1,12 +1,13 @@
 {
-  "cep": "35700641",
-  "logradouro": "Avenida Doutor Renato Azeredo",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35700641",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Doutor Renato Azeredo;"
 }

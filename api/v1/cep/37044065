@@ -1,12 +1,12 @@
 {
-  "cep": "37044065",
-  "logradouro": "Praça José Marcelino Filho",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "37044065",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Praça José Marcelino Filho;"
 }

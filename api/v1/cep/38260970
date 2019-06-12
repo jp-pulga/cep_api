@@ -1,12 +1,13 @@
 {
-  "cep": "38260970",
-  "logradouro": "AC São Francisco de Sales Rua Nove 599",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Francisco de Sales",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38260970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Francisco de Sales"
+    },
+    "ibge": 3161304,
+    "logradouro": "Rua Nove, 599  AC São Francisco de Sales;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "37002133",
-  "logradouro": "Avenida São José até 219/220",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37002133",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Avenida São José - até 219\/220;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30512470",
-  "logradouro": "Rua Sardoá",
-  "bairro": "Vista Alegre",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vista Alegre;",
+    "cep": "30512470",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Sardoá;"
 }

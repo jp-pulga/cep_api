@@ -1,12 +1,12 @@
 {
-  "cep": "37036401",
-  "logradouro": "Rua Alice Rozendo de Andrade até 418/419",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "37036401",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Alice Rozendo de Andrade - até 418\/419;"
 }

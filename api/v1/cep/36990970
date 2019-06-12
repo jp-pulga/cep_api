@@ -1,12 +1,13 @@
 {
-  "cep": "36990970",
-  "logradouro": "AC São José do Mantimento Avenida João Felisberto Lopes 245",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José do Mantimento",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36990970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São José do Mantimento"
+    },
+    "ibge": 3163607,
+    "logradouro": "Avenida João Felisberto Lopes, 245  AC São José do Mantimento;"
 }

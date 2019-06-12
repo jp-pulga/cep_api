@@ -1,12 +1,11 @@
 {
-  "cep": "39150000",
-  "logradouro": "Serro",
-  "bairro": "",
-  "cidade": {
-    "nome": "Serro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39150000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Serro"
+    },
+    "ibge": 3167103
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "39355000",
-  "logradouro": "São João da Lagoa",
-  "bairro": "",
-  "cidade": {
-    "nome": "São João da Lagoa",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39355000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João da Lagoa"
+    },
+    "ibge": 3162252
 }

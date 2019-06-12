@@ -1,12 +1,12 @@
 {
-  "cep": "38180162",
-  "logradouro": "Rua Protásio José Ferreira",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "38180162",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Protásio José Ferreira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38183080",
-  "logradouro": "Rua Manoel Francisco",
-  "bairro": "Vila São Pedro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila São Pedro;",
+    "cep": "38183080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Manoel Francisco;"
 }

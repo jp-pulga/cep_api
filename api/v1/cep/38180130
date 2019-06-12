@@ -1,12 +1,12 @@
 {
-  "cep": "38180130",
-  "logradouro": "Rua Sebastião Mariano Alves",
-  "bairro": "Novo São Geraldo",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Novo São Geraldo;",
+    "cep": "38180130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Sebastião Mariano Alves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35501253",
-  "logradouro": "Rua Santo Antônio do Monte",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "35501253",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Santo Antônio do Monte;"
 }

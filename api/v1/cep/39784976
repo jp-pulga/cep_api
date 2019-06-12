@@ -1,12 +1,13 @@
 {
-  "cep": "39784976",
-  "logradouro": "AC São Pedro do Suaçuí Praça Francisco Viriato da Rocha 93",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro do Suaçuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39784976",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Pedro do Suaçuí"
+    },
+    "ibge": 3164100,
+    "logradouro": "Praça Francisco Viriato da Rocha, 93  AC São Pedro do Suaçuí;"
 }

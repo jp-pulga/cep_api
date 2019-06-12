@@ -1,12 +1,12 @@
 {
-  "cep": "33030140",
-  "logradouro": "Rua Senador Modestino Gonçalves",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Santa Luzia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "33030140",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santa Luzia"
+    },
+    "logradouro": "Rua Senador Modestino Gonçalves;"
 }

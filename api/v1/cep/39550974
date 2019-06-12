@@ -1,12 +1,13 @@
 {
-  "cep": "39550974",
-  "logradouro": "AGC Mirandópolis Praça do Mercado s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taiobeiras",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39550974",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Taiobeiras"
+    },
+    "ibge": 3168002,
+    "logradouro": "Praça do Mercado, s\/n  AGC Mirandópolis;"
 }

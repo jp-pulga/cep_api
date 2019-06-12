@@ -1,12 +1,13 @@
 {
-  "cep": "35701296",
-  "logradouro": "Avenida José Sérvulo Soalheiro",
-  "bairro": "New York",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "New York;",
+    "cep": "35701296",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida José Sérvulo Soalheiro;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39210970",
-  "logradouro": "AC Santo Hipólito Rua Coronel José Roberto Viana 67",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Hipólito",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39210970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Hipólito"
+    },
+    "ibge": 3160603,
+    "logradouro": "Rua Coronel José Roberto Viana, 67  AC Santo Hipólito;"
 }

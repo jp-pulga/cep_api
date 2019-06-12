@@ -1,12 +1,12 @@
 {
-  "cep": "39402263",
-  "logradouro": "Rua Maceió",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "39402263",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Maceió;"
 }

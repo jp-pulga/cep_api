@@ -1,12 +1,12 @@
 {
-  "cep": "36200086",
-  "logradouro": "Rua Santos Dumont até 100/101",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36200086",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Santos Dumont - até 100\/101;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "30315440",
-  "logradouro": "Rua São Pedro da União",
-  "bairro": "Sion",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Sion;",
+    "cep": "30315440",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Pedro da União;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "35701416",
-  "logradouro": "Avenida Francisco Mendes Fonseca",
-  "bairro": "Brasília",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Brasília;",
+    "cep": "35701416",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Francisco Mendes Fonseca;"
 }

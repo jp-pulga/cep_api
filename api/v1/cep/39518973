@@ -1,12 +1,13 @@
 {
-  "cep": "39518973",
-  "logradouro": "AC Serranópolis de Minas Rua Alvina Martins Pereira 61",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serranópolis de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39518973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Serranópolis de Minas"
+    },
+    "ibge": 3166956,
+    "logradouro": "Rua Alvina Martins Pereira, 61  AC Serranópolis de Minas;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "36953972",
-  "logradouro": "AC Taparuba Avenida Arminda Medeiros 141",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Taparuba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36953972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Taparuba"
+    },
+    "ibge": 3168051,
+    "logradouro": "Avenida Arminda Medeiros, 141  AC Taparuba;"
 }

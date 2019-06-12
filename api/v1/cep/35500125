@@ -1,12 +1,12 @@
 {
-  "cep": "35500125",
-  "logradouro": "Rua José Ferreira Maia",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "35500125",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua José Ferreira Maia;"
 }

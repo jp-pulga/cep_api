@@ -1,12 +1,13 @@
 {
-  "cep": "35368970",
-  "logradouro": "AC Sericita Praça Padre Artur Ramos s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sericita",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35368970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sericita"
+    },
+    "ibge": 3166303,
+    "logradouro": "Praça Padre Artur Ramos, s\/n  AC Sericita;"
 }

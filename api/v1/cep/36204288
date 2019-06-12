@@ -1,12 +1,12 @@
 {
-  "cep": "36204288",
-  "logradouro": "Rua Francisco Andrade",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "36204288",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Francisco Andrade;"
 }

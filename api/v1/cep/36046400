@@ -1,12 +1,12 @@
 {
-  "cep": "36046400",
-  "logradouro": "Travessa José Alvim Oliveira",
-  "bairro": "Nossa Senhora das Graças",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Graças;",
+    "cep": "36046400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Travessa José Alvim Oliveira;"
 }

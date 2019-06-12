@@ -1,12 +1,12 @@
 {
-  "cep": "35501170",
-  "logradouro": "Avenida Paraná de 1/2 a 99997/99998",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "35501170",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Avenida Paraná;"
 }

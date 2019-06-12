@@ -1,12 +1,12 @@
 {
-  "cep": "36202524",
-  "logradouro": "Rua Manoel Ferreira Vargas",
-  "bairro": "São Francisco",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco;",
+    "cep": "36202524",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Manoel Ferreira Vargas;"
 }

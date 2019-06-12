@@ -1,12 +1,12 @@
 {
-  "cep": "35500066",
-  "logradouro": "Rua Maranhão",
-  "bairro": "São Sebastião",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Sebastião;",
+    "cep": "35500066",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Maranhão;"
 }

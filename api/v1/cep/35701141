@@ -1,12 +1,13 @@
 {
-  "cep": "35701141",
-  "logradouro": "Avenida Antônio Mendonça Chaves",
-  "bairro": "Vapabuçu",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vapabuçu;",
+    "cep": "35701141",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Antônio Mendonça Chaves;"
 }

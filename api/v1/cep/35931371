@@ -1,12 +1,12 @@
 {
-  "cep": "35931371",
-  "logradouro": "Rua Valdir Azevedo",
-  "bairro": "Santo Hipólito",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Hipólito;",
+    "cep": "35931371",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Valdir Azevedo;"
 }

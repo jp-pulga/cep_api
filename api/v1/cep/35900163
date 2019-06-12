@@ -1,12 +1,12 @@
 {
-  "cep": "35900163",
-  "logradouro": "Rua Sabará",
-  "bairro": "Nossa Senhora das Oliveiras",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Oliveiras;",
+    "cep": "35900163",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Sabará;"
 }

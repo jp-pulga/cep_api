@@ -1,12 +1,13 @@
 {
-  "cep": "35701322",
-  "logradouro": "Avenida do Contorno",
-  "bairro": "Interlagos",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Interlagos I;",
+    "cep": "35701322",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida do Contorno;"
 }

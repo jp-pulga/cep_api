@@ -1,12 +1,12 @@
 {
-  "cep": "37270970",
-  "logradouro": "AC Campo Belo Rua Santos Dumont 335",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Campo Belo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37270970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Campo Belo"
+    },
+    "logradouro": "Rua Santos Dumont, 335  AC Campo Belo;"
 }

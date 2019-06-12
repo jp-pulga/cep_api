@@ -1,12 +1,13 @@
 {
-  "cep": "38800972",
-  "logradouro": "UD São Gotardo Rua Pinheiro Machado 621",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "São Gotardo",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "38800972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Gotardo"
+    },
+    "ibge": 3162104,
+    "logradouro": "Rua Pinheiro Machado, 621  CDD São Gotardo;"
 }

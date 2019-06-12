@@ -1,12 +1,12 @@
 {
-  "cep": "32604126",
-  "logradouro": "Rua Santos Dumont até 298/299",
-  "bairro": "Horto",
-  "cidade": {
-    "nome": "Betim",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Horto;",
+    "cep": "32604126",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Betim"
+    },
+    "logradouro": "Rua Santos Dumont - até 298\/299;"
 }

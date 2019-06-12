@@ -1,12 +1,12 @@
 {
-  "cep": "35503532",
-  "logradouro": "Rua São do José Salgado",
-  "bairro": "Casa Nova",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Casa Nova;",
+    "cep": "35503532",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua São do José Salgado;"
 }

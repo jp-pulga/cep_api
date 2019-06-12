@@ -1,12 +1,12 @@
 {
-  "cep": "31010400",
-  "logradouro": "Rua São Gotardo",
-  "bairro": "Santa Tereza",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Tereza;",
+    "cep": "31010400",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Gotardo;"
 }

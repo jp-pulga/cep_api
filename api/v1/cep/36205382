@@ -1,12 +1,12 @@
 {
-  "cep": "36205382",
-  "logradouro": "Rua São Francisco",
-  "bairro": "Caiçaras",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Caiçaras;",
+    "cep": "36205382",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua São Francisco;"
 }

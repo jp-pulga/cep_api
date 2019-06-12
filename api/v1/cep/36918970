@@ -1,12 +1,13 @@
 {
-  "cep": "36918970",
-  "logradouro": "AC São João do Manhuaçu Avenida São João Batista 271",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João do Manhuaçu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36918970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João do Manhuaçu"
+    },
+    "ibge": 3162559,
+    "logradouro": "Avenida São João Batista, 271  AC São João do Manhuaçu;"
 }

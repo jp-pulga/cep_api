@@ -1,12 +1,12 @@
 {
-  "cep": "30330012",
-  "logradouro": "Rua São Romão até 125/126",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "30330012",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Romão - até 125\/126;"
 }

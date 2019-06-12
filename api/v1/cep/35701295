@@ -1,12 +1,13 @@
 {
-  "cep": "35701295",
-  "logradouro": "Avenida José Sérvulo Soalheiro",
-  "bairro": "Esperança",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Esperança;",
+    "cep": "35701295",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida José Sérvulo Soalheiro;"
 }

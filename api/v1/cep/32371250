@@ -1,12 +1,12 @@
 {
-  "cep": "32371250",
-  "logradouro": "Rua Nossa Senhora da Paz",
-  "bairro": "Jardim das Oliveiras",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim das Oliveiras;",
+    "cep": "32371250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Nossa Senhora da Paz;"
 }

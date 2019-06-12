@@ -1,12 +1,12 @@
 {
-  "cep": "38408338",
-  "logradouro": "Rua Alfredo Simão",
-  "bairro": "Segismundo Pereira",
-  "cidade": {
-    "nome": "Uberlândia",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Segismundo Pereira;",
+    "cep": "38408338",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Uberlândia"
+    },
+    "logradouro": "Rua Alfredo Simão;"
 }

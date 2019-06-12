@@ -1,12 +1,12 @@
 {
-  "cep": "35501113",
-  "logradouro": "Rua Joubert Cavalieri Zeza",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "35501113",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Joubert Cavalieri Zeza;"
 }

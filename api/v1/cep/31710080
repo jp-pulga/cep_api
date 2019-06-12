@@ -1,12 +1,12 @@
 {
-  "cep": "31710080",
-  "logradouro": "Rua São Sebastião do Paraíso",
-  "bairro": "Itapoã",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Itapoã;",
+    "cep": "31710080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Sebastião do Paraíso;"
 }

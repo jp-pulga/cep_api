@@ -1,12 +1,12 @@
 {
-  "cep": "35701073",
-  "logradouro": "Rua João Coelho Júnior",
-  "bairro": "São Vicente",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Vicente;",
+    "cep": "35701073",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua João Coelho Júnior;"
 }

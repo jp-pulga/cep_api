@@ -1,12 +1,12 @@
 {
-  "cep": "30330312",
-  "logradouro": "Rua São Tomáz de Aquino até 117/118",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "30330312",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua São Tomáz de Aquino - até 117\/118;"
 }

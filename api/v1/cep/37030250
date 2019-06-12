@@ -1,12 +1,12 @@
 {
-  "cep": "37030250",
-  "logradouro": "Rua Coronel Storino",
-  "bairro": "Parque São José",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque São José;",
+    "cep": "37030250",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Coronel Storino;"
 }

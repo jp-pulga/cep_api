@@ -1,12 +1,12 @@
 {
-  "cep": "35700262",
-  "logradouro": "Rua João Monlevade",
-  "bairro": "São Jorge",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Jorge;",
+    "cep": "35700262",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua João Monlevade;"
 }

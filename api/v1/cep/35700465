@@ -1,12 +1,12 @@
 {
-  "cep": "35700465",
-  "logradouro": "Rua José Correa de Oliveira",
-  "bairro": "Nossa Senhora do Carmo II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora do Carmo II;",
+    "cep": "35700465",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua José Correa de Oliveira;"
 }

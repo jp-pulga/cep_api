@@ -1,12 +1,13 @@
 {
-  "cep": "39688972",
-  "logradouro": "AGC Palmeiras (Setubinha) Rua Principal s/n",
-  "bairro": "Palmeiras",
-  "cidade": {
-    "nome": "Setubinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Palmeiras;",
+    "cep": "39688972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Setubinha"
+    },
+    "ibge": 3165552,
+    "logradouro": "Rua Principal, s\/n  AGC Palmeiras (Setubinha);"
 }

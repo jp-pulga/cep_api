@@ -1,12 +1,12 @@
 {
-  "cep": "32010160",
-  "logradouro": "Rua São Gotardo",
-  "bairro": "Bela Vista",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Bela Vista;",
+    "cep": "32010160",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua São Gotardo;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "37950971",
-  "logradouro": "CDD São Sebastião do Paraíso Rua Noraldino Lima 120",
-  "bairro": "Jardim Coolapa",
-  "cidade": {
-    "nome": "São Sebastião do Paraíso",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Coolapa;",
+    "cep": "37950971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Sebastião do Paraíso"
+    },
+    "ibge": 3164704,
+    "logradouro": "Rua Noraldino Lima, 120  CDD São Sebastião do Paraíso;"
 }

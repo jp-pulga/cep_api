@@ -1,12 +1,13 @@
 {
-  "cep": "37452970",
-  "logradouro": "AC Serranos Rua Rui Barbosa 15",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serranos",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37452970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Serranos"
+    },
+    "ibge": 3167004,
+    "logradouro": "Rua Rui Barbosa, 15  AC Serranos;"
 }

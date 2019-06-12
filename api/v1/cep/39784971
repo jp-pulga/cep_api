@@ -1,12 +1,13 @@
 {
-  "cep": "39784971",
-  "logradouro": "AGC Cinco Ilhas Rua Principal s/n",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Pedro do Suaçuí",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39784971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Pedro do Suaçuí"
+    },
+    "ibge": 3164100,
+    "logradouro": "Rua Principal, s\/n  AGC Cinco Ilhas;"
 }

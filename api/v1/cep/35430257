@@ -1,12 +1,12 @@
 {
-  "cep": "35430257",
-  "logradouro": "Rua São Lourenço",
-  "bairro": "Fátima",
-  "cidade": {
-    "nome": "Ponte Nova",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Fátima;",
+    "cep": "35430257",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ponte Nova"
+    },
+    "logradouro": "Rua São Lourenço;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38701191",
-  "logradouro": "Rua Serra do Salitre",
-  "bairro": "Copacabana",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Copacabana;",
+    "cep": "38701191",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Serra do Salitre;"
 }

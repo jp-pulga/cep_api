@@ -1,12 +1,12 @@
 {
-  "cep": "37036405",
-  "logradouro": "Estrada Águas Verdes",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "37036405",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Estrada Águas Verdes;"
 }

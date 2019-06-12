@@ -1,12 +1,13 @@
 {
-  "cep": "35702179",
-  "logradouro": "Avenida Doutor Sebastião de Paula Silva",
-  "bairro": "Canaã",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canaã;",
+    "cep": "35702179",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Doutor Sebastião de Paula Silva;"
 }

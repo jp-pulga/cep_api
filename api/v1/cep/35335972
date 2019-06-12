@@ -1,12 +1,13 @@
 {
-  "cep": "35335972",
-  "logradouro": "AC São Domingos das Dores Avenida João Barbosa dos Santos 478-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Domingos das Dores",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35335972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Domingos das Dores"
+    },
+    "ibge": 3160959,
+    "logradouro": "Avenida João Barbosa dos Santos, 478-A  AC São Domingos das Dores;"
 }

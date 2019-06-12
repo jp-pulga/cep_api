@@ -1,12 +1,13 @@
 {
-  "cep": "36275970",
-  "logradouro": "AC Senhora dos Remédios Rua João Alvim Carmo 111",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Senhora dos Remédios",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36275970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Senhora dos Remédios"
+    },
+    "ibge": 3166204,
+    "logradouro": "Rua João Alvim Carmo, 111  AC Senhora dos Remédios;"
 }

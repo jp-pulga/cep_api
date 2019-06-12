@@ -1,12 +1,12 @@
 {
-  "cep": "32110560",
-  "logradouro": "Rua Vila Velha",
-  "bairro": "São Gotardo",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Gotardo;",
+    "cep": "32110560",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Vila Velha;"
 }

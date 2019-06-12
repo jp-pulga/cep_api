@@ -1,12 +1,12 @@
 {
-  "cep": "36205714",
-  "logradouro": "Rua São João Del Rei",
-  "bairro": "Nova Cidade",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Cidade;",
+    "cep": "36205714",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua São João Del Rei;"
 }

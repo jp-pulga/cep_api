@@ -1,12 +1,12 @@
 {
-  "cep": "35501129",
-  "logradouro": "Rua Joaquim Martins Lara",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "35501129",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Joaquim Martins Lara;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39160971",
-  "logradouro": "AC Santo Antônio do Itambé Rua João Porfírio de Figueiredo 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Santo Antônio do Itambé",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39160971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Antônio do Itambé"
+    },
+    "ibge": 3160207,
+    "logradouro": "Rua João Porfírio de Figueiredo, 01  AC Santo Antônio do Itambé;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35900161",
-  "logradouro": "Rua Ouro Preto",
-  "bairro": "Nossa Senhora das Oliveiras",
-  "cidade": {
-    "nome": "Itabira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora das Oliveiras;",
+    "cep": "35900161",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itabira"
+    },
+    "logradouro": "Rua Ouro Preto;"
 }

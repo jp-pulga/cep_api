@@ -1,12 +1,13 @@
 {
-  "cep": "39150970",
-  "logradouro": "AC Serro Rua Alferes Luiz Pinto 72",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Serro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39150970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Serro"
+    },
+    "ibge": 3167103,
+    "logradouro": "Rua Alferes Luiz Pinto, 72  AC Serro;"
 }

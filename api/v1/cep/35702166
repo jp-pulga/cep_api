@@ -1,12 +1,13 @@
 {
-  "cep": "35702166",
-  "logradouro": "Avenida Abílio Tanure",
-  "bairro": "Eldorado",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Eldorado;",
+    "cep": "35702166",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Abílio Tanure;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "35700178",
-  "logradouro": "Rua João Andrade",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "35700178",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua João Andrade;"
 }

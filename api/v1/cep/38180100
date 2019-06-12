@@ -1,12 +1,12 @@
 {
-  "cep": "38180100",
-  "logradouro": "Rua Rio Grande do Sul",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "38180100",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Rio Grande do Sul;"
 }

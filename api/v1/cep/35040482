@@ -1,12 +1,12 @@
 {
-  "cep": "35040482",
-  "logradouro": "Travessa São João Evangelista",
-  "bairro": "Santa Rita",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Rita;",
+    "cep": "35040482",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Travessa São João Evangelista;"
 }

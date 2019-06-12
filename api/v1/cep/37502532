@@ -1,12 +1,12 @@
 {
-  "cep": "37502532",
-  "logradouro": "Rua Antônio de Oliveira Lopes",
-  "bairro": "Nossa Senhora de Fátima",
-  "cidade": {
-    "nome": "Itajubá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nossa Senhora de Fátima;",
+    "cep": "37502532",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itajubá"
+    },
+    "logradouro": "Rua Antônio de Oliveira Lopes;"
 }

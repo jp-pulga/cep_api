@@ -1,12 +1,13 @@
 {
-  "cep": "39290971",
-  "logradouro": "AGC Ribanceira Avenida Paulo José da Cruz s/n",
-  "bairro": "Ribanceira",
-  "cidade": {
-    "nome": "São Romão",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ribanceira;",
+    "cep": "39290971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Romão"
+    },
+    "ibge": 3164209,
+    "logradouro": "Avenida Paulo José da Cruz, s\/n  AGC Ribanceira;"
 }

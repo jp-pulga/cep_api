@@ -1,12 +1,13 @@
 {
-  "cep": "39785972",
-  "logradouro": "AC São José da Safira Praça Cônego Lafaiete 12",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Safira",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39785972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São José da Safira"
+    },
+    "ibge": 3163003,
+    "logradouro": "Praça Cônego Lafaiete, 12  AC São José da Safira;"
 }

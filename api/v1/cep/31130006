@@ -1,12 +1,12 @@
 {
-  "cep": "31130006",
-  "logradouro": "Beco Tapira",
-  "bairro": "Concórdia",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Concórdia;",
+    "cep": "31130006",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco Tapira;"
 }

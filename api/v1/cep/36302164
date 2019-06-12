@@ -1,12 +1,12 @@
 {
-  "cep": "36302164",
-  "logradouro": "Avenida do Contorno",
-  "bairro": "Parque São João Del Rey (Colônia do Marçal)",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque São João Del Rey (Colônia do Marçal);",
+    "cep": "36302164",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Avenida do Contorno;"
 }

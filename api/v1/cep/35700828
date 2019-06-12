@@ -1,12 +1,12 @@
 {
-  "cep": "35700828",
-  "logradouro": "Rua Imaculada Conceição",
-  "bairro": "São João II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João II;",
+    "cep": "35700828",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Imaculada Conceição;"
 }

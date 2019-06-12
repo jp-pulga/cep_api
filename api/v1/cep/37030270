@@ -1,12 +1,12 @@
 {
-  "cep": "37030270",
-  "logradouro": "Rua F",
-  "bairro": "Parque São José",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque São José;",
+    "cep": "37030270",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Vicente Paulino Martins;"
 }

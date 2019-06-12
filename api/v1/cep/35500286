@@ -1,12 +1,12 @@
 {
-  "cep": "35500286",
-  "logradouro": "Rua Santos Dumont",
-  "bairro": "Manoel Valinhas",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Manoel Valinhas;",
+    "cep": "35500286",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Santos Dumont;"
 }

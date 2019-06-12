@@ -1,12 +1,12 @@
 {
-  "cep": "37002135",
-  "logradouro": "Avenida São José de 351/352 ao fim",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37002135",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Avenida São José - de 351\/352 ao fim;"
 }

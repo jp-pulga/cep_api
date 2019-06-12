@@ -1,12 +1,12 @@
 {
-  "cep": "35931375",
-  "logradouro": "Rua Ataulfo Alves",
-  "bairro": "Santo Hipólito",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Hipólito;",
+    "cep": "35931375",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Ataulfo Alves;"
 }

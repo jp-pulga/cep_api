@@ -1,12 +1,11 @@
 {
-  "cep": "39210000",
-  "logradouro": "Santo Hipólito",
-  "bairro": "",
-  "cidade": {
-    "nome": "Santo Hipólito",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "cep": "39210000",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Santo Hipólito"
+    },
+    "ibge": 3160603
 }

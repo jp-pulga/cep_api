@@ -1,12 +1,13 @@
 {
-  "cep": "39728970",
-  "logradouro": "AC Sardoá Praça Santo Antônio 41",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Sardoá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39728970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sardoá"
+    },
+    "ibge": 3165503,
+    "logradouro": "Praça Santo Antônio, 41  AC Sardoá;"
 }

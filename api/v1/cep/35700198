@@ -1,12 +1,12 @@
 {
-  "cep": "35700198",
-  "logradouro": "Rua João Libório Júnior",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "35700198",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua João Libório Júnior;"
 }

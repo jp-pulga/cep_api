@@ -1,12 +1,13 @@
 {
-  "cep": "35703329",
-  "logradouro": "Avenida Dez",
-  "bairro": "Cidade de Deus",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cidade de Deus;",
+    "cep": "35703329",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Dez;"
 }

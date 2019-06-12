@@ -1,12 +1,12 @@
 {
-  "cep": "35660166",
-  "logradouro": "Rua São Vicente",
-  "bairro": "Vila Vicentina",
-  "cidade": {
-    "nome": "Pará de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Vicentina;",
+    "cep": "35660166",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Pará de Minas"
+    },
+    "logradouro": "Rua São Vicente;"
 }

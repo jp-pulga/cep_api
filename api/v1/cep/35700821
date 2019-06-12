@@ -1,12 +1,12 @@
 {
-  "cep": "35700821",
-  "logradouro": "Rua Coração de Maria",
-  "bairro": "São João II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São João II;",
+    "cep": "35700821",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Coração de Maria;"
 }

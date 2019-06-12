@@ -1,12 +1,13 @@
 {
-  "cep": "35995970",
-  "logradouro": "AC São Domingos do Prata Rua Antônio Antão Braga 26",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Domingos do Prata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35995970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Domingos do Prata"
+    },
+    "ibge": 3161007,
+    "logradouro": "Rua Antônio Antão Braga, 26  AC São Domingos do Prata;"
 }

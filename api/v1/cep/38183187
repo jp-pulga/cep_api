@@ -1,12 +1,12 @@
 {
-  "cep": "38183187",
-  "logradouro": "Rua Santos Dumont",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "38183187",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Santos Dumont;"
 }

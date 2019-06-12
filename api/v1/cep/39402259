@@ -1,12 +1,12 @@
 {
-  "cep": "39402259",
-  "logradouro": "Rua Antônia Rodrigues",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "39402259",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Antônia Rodrigues;"
 }

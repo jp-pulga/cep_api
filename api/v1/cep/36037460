@@ -1,12 +1,12 @@
 {
-  "cep": "36037460",
-  "logradouro": "Rua José Lourenço até 100/0101",
-  "bairro": "São Pedro",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Pedro;",
+    "cep": "36037460",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Rua José Lourenço - até 100\/0101;"
 }

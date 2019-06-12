@@ -1,12 +1,12 @@
 {
-  "cep": "39403214",
-  "logradouro": "Rua Antônio Maciel Santos",
-  "bairro": "Major Prates",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Major Prates;",
+    "cep": "39403214",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Antônio Maciel Santos;"
 }

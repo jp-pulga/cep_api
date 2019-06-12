@@ -1,12 +1,12 @@
 {
-  "cep": "36205058",
-  "logradouro": "Rua Santos Dumont de 102/103 ao fim",
-  "bairro": "São José",
-  "cidade": {
-    "nome": "Barbacena",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José;",
+    "cep": "36205058",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Barbacena"
+    },
+    "logradouro": "Rua Santos Dumont - de 102\/103 ao fim;"
 }

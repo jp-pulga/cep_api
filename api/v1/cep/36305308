@@ -1,12 +1,12 @@
 {
-  "cep": "36305308",
-  "logradouro": "Alameda dos Ibiscos",
-  "bairro": "Pio XII",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pio XII;",
+    "cep": "36305308",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Alameda dos Ibiscos;"
 }

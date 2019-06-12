@@ -1,12 +1,13 @@
 {
-  "cep": "35702585",
-  "logradouro": "Avenida Abílio Gomes",
-  "bairro": "Verde Vale",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Verde Vale;",
+    "cep": "35702585",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "ibge": 3167202,
+    "logradouro": "Avenida Abílio Gomes;"
 }

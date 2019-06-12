@@ -1,12 +1,12 @@
 {
-  "cep": "35500077",
-  "logradouro": "Rua do Serro",
-  "bairro": "Santa Clara",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Clara;",
+    "cep": "35500077",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua do Serro;"
 }

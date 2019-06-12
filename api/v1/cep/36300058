@@ -1,12 +1,12 @@
 {
-  "cep": "36300058",
-  "logradouro": "Rua Antônio Evangelista Teixeira",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36300058",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Antônio Evangelista Teixeira;"
 }

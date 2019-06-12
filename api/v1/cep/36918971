@@ -1,12 +1,13 @@
 {
-  "cep": "36918971",
-  "logradouro": "AGC Pontões Rua Principal s/n",
-  "bairro": "Pontões",
-  "cidade": {
-    "nome": "São João do Manhuaçu",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Pontões;",
+    "cep": "36918971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João do Manhuaçu"
+    },
+    "ibge": 3162559,
+    "logradouro": "Rua Principal, s\/n  AGC Pontões;"
 }

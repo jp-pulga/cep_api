@@ -1,12 +1,13 @@
 {
-  "cep": "37945972",
-  "logradouro": "AC São José da Barra Avenida Padre Salim 43-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São José da Barra",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37945972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São José da Barra"
+    },
+    "ibge": 3162948,
+    "logradouro": "Avenida Padre Salim, 43-A  AC São José da Barra;"
 }

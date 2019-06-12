@@ -1,12 +1,12 @@
 {
-  "cep": "39401169",
-  "logradouro": "Rua Antônio Martins",
-  "bairro": "Santos Reis",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Reis;",
+    "cep": "39401169",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Rua Antônio Martins;"
 }

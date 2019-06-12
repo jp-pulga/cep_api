@@ -1,12 +1,13 @@
 {
-  "cep": "39688973",
-  "logradouro": "AC Setubinha Rua Carolina Barbosa 63",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Setubinha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39688973",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Setubinha"
+    },
+    "ibge": 3165552,
+    "logradouro": "Rua Carolina Barbosa, 63  AC Setubinha;"
 }

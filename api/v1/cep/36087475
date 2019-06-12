@@ -1,12 +1,12 @@
 {
-  "cep": "36087475",
-  "logradouro": "Travessa Santo Expedito",
-  "bairro": "São Francisco de Paula",
-  "cidade": {
-    "nome": "Juiz de Fora",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Francisco de Paula;",
+    "cep": "36087475",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Juiz de Fora"
+    },
+    "logradouro": "Travessa Santo Expedito;"
 }

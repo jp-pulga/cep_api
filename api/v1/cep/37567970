@@ -1,12 +1,13 @@
 {
-  "cep": "37567970",
-  "logradouro": "AC São Sebastião da Bela Vista Praça Erasmo Cabral 240",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São Sebastião da Bela Vista",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37567970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São Sebastião da Bela Vista"
+    },
+    "ibge": 3164407,
+    "logradouro": "Praça Erasmo Cabral, 240  AC São Sebastião da Bela Vista;"
 }

@@ -1,12 +1,13 @@
 {
-  "cep": "39475971",
-  "logradouro": "AC São João das Missões Rua Presidente Juscelino 77",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João das Missões",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39475971",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João das Missões"
+    },
+    "ibge": 3162450,
+    "logradouro": "Rua Presidente Juscelino, 77  AC São João das Missões;"
 }

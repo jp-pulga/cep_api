@@ -1,12 +1,13 @@
 {
-  "cep": "39705970",
-  "logradouro": "AC São João Evangelista Praça Coronel Cornélio Pimenta 289",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João Evangelista",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39705970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Evangelista"
+    },
+    "ibge": 3162807,
+    "logradouro": "Praça Coronel Cornélio Pimenta, 289  AC São João Evangelista;"
 }

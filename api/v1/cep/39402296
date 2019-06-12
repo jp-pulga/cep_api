@@ -1,12 +1,12 @@
 {
-  "cep": "39402296",
-  "logradouro": "Avenida do Exército",
-  "bairro": "Santo Antônio",
-  "cidade": {
-    "nome": "Montes Claros",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santo Antônio;",
+    "cep": "39402296",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Montes Claros"
+    },
+    "logradouro": "Avenida do Exército;"
 }

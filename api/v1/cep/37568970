@@ -1,12 +1,13 @@
 {
-  "cep": "37568970",
-  "logradouro": "AC São João da Mata Rua Maria José de Paiva 537-A",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "São João da Mata",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "37568970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João da Mata"
+    },
+    "ibge": 3162302,
+    "logradouro": "Rua Maria José de Paiva, 537-A  AC São João da Mata;"
 }

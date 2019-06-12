@@ -1,12 +1,12 @@
 {
-  "cep": "37062570",
-  "logradouro": "Rua São Tiago",
-  "bairro": "Parque Urupês",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Urupês;",
+    "cep": "37062570",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua São Tiago;"
 }

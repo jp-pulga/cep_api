@@ -1,12 +1,12 @@
 {
-  "cep": "35501134",
-  "logradouro": "Rua José Augusto",
-  "bairro": "Santos Dumont",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santos Dumont;",
+    "cep": "35501134",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua José Augusto;"
 }

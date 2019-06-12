@@ -1,12 +1,12 @@
 {
-  "cep": "30512442",
-  "logradouro": "Beco São Tiago",
-  "bairro": "Cabana do Pai Tomás",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Cabana do Pai Tomás;",
+    "cep": "30512442",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Beco São Tiago;"
 }
