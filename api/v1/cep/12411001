@@ -1,12 +1,12 @@
 {
-  "cep": "12411001",
-  "logradouro": "Avenida Professor Manoel César Ribeiro de 3609 ao fim - lado ímpar",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "12411001",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Avenida Professor Manoel César Ribeiro (Ipiranga) - de 3609 ao fim - lado ímpar;"
 }

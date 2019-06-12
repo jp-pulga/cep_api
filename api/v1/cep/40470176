@@ -1,12 +1,12 @@
 {
-  "cep": "40470176",
-  "logradouro": "Travessa Cachoeira da Prata",
-  "bairro": "Lobato",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lobato;",
+    "cep": "40470176",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Cachoeira da Prata;"
 }

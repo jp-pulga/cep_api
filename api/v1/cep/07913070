@@ -1,12 +1,12 @@
 {
-  "cep": "07913070",
-  "logradouro": "Rua Edmundo Catta Preta Filho",
-  "bairro": "Jardim Flórida",
-  "cidade": {
-    "nome": "Francisco Morato",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Flórida;",
+    "cep": "07913070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Francisco Morato"
+    },
+    "logradouro": "Rua Edmundo Catta Preta Filho;"
 }

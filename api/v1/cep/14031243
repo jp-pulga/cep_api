@@ -1,12 +1,12 @@
 {
-  "cep": "14031243",
-  "logradouro": "Avenida Monteiro Lobato de 2000 a 99998 - lado par",
-  "bairro": "Parque Ribeirão Preto",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Ribeirão Preto;",
+    "cep": "14031243",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Avenida Monteiro Lobato - de 2000 a 99998 - lado par;"
 }

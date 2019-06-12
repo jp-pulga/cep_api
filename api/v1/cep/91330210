@@ -1,12 +1,12 @@
 {
-  "cep": "91330210",
-  "logradouro": "Praça Professor Emílio Schenk",
-  "bairro": "Três Figueiras",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Três Figueiras;",
+    "cep": "91330210",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Professor Emílio Schenk;"
 }

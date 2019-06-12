@@ -1,12 +1,12 @@
 {
-  "cep": "49095370",
-  "logradouro": "Rua Professor Ruy Eloy",
-  "bairro": "Jabotiana",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Jabotiana;",
+    "cep": "49095370",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Professor Ruy Eloy;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "14071220",
-  "logradouro": "Rua Guaraciaba da Silva Passos",
-  "bairro": "Adelino Simioni",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Adelino Simioni;",
+    "cep": "14071220",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Guaraciaba da Silva Passos;"
 }

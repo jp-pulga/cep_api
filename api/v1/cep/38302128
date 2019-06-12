@@ -1,12 +1,12 @@
 {
-  "cep": "38302128",
-  "logradouro": "Avenida Presidente Roosevelt lado par",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "38302128",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Avenida Presidente Roosevelt - lado par;"
 }

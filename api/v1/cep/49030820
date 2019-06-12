@@ -1,12 +1,12 @@
 {
-  "cep": "49030820",
-  "logradouro": "Rua Professor Luiz Cláudio Sobreira Correia",
-  "bairro": "Farolândia",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Farolândia;",
+    "cep": "49030820",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Professor Luiz Cláudio Sobreira Correia;"
 }

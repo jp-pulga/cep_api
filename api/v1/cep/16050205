@@ -1,12 +1,12 @@
 {
-  "cep": "16050205",
-  "logradouro": "Praça Geremias Lunardelli",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "16050205",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Praça Geremias Lunardelli;"
 }

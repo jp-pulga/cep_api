@@ -1,12 +1,12 @@
 {
-  "cep": "41600270",
-  "logradouro": "Alameda Praia de Guaratuba",
-  "bairro": "Stella Maris",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Stella Maris;",
+    "cep": "41600270",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Alameda Praia de Guaratuba;"
 }

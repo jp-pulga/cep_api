@@ -1,12 +1,12 @@
 {
-  "cep": "09661000",
-  "logradouro": "Rua Fábio da Silva Prado (Vl Flórida)",
-  "bairro": "Taboão",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Taboão;",
+    "cep": "09661000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Rua Fábio da Silva Prado (Vl Flórida);"
 }

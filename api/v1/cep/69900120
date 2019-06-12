@@ -1,12 +1,12 @@
 {
-  "cep": "69900120",
-  "logradouro": "Rua Rio Grande do Sul de 486/487 a 719/720",
-  "bairro": "Preventório",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Preventório;",
+    "cep": "69900120",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Rio Grande do Sul - de 486\/487 a 719\/720;"
 }

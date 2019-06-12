@@ -1,12 +1,12 @@
 {
-  "cep": "57045859",
-  "logradouro": "5ª Travessa Rio Grande do Sul",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "57045859",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "5ª Travessa Rio Grande do Sul;"
 }

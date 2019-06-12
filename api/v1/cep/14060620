@@ -1,12 +1,12 @@
 {
-  "cep": "14060620",
-  "logradouro": "Rua Japurá de 2210/2211 a 3498/3499",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "14060620",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Japurá - de 2210\/2211 a 3498\/3499;"
 }

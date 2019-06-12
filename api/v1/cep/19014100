@@ -1,12 +1,12 @@
 {
-  "cep": "19014100",
-  "logradouro": "Travessa Sartorelli",
-  "bairro": "Vila Guaíra",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Guaíra;",
+    "cep": "19014100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Travessa Sartorelli;"
 }

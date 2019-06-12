@@ -1,12 +1,12 @@
 {
-  "cep": "16021260",
-  "logradouro": "Praça Manoel da Silva Prates",
-  "bairro": "Jussara",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jussara;",
+    "cep": "16021260",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Praça Manoel da Silva Prates;"
 }

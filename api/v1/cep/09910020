@@ -1,12 +1,12 @@
 {
-  "cep": "09910020",
-  "logradouro": "Rua Francisco Alves (Prq S Setembro)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09910020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Rua Francisco Alves (Prq S Setembro);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "11701340",
-  "logradouro": "Avenida Marechal Mallet",
-  "bairro": "Boqueirão",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Boqueirão;",
+    "cep": "11701340",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Avenida Marechal Mallet;"
 }

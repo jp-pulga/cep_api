@@ -1,12 +1,12 @@
 {
-  "cep": "97571179",
-  "logradouro": "Avenida Marechal Mallet de 1121 ao fim - lado ímpar",
-  "bairro": "Prado",
-  "cidade": {
-    "nome": "Santana do Livramento",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Prado;",
+    "cep": "97571179",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santana do Livramento"
+    },
+    "logradouro": "Avenida Marechal Mallet - de 1121 ao fim - lado ímpar;"
 }

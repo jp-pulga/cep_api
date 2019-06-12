@@ -1,12 +1,12 @@
 {
-  "cep": "40330575",
-  "logradouro": "Travessa Bom Jesus da Lapa (Prq S Martin)",
-  "bairro": "IAPI",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "IAPI;",
+    "cep": "40330575",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Bom Jesus da Lapa (Prq S Martin);"
 }

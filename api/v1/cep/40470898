@@ -1,12 +1,12 @@
 {
-  "cep": "40470898",
-  "logradouro": "Avenida Cachoeira da Prata",
-  "bairro": "Lobato",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lobato;",
+    "cep": "40470898",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Cachoeira da Prata;"
 }

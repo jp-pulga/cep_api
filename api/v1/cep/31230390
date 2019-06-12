@@ -1,12 +1,12 @@
 {
-  "cep": "31230390",
-  "logradouro": "Rua Margarida Praxedes Torres",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "31230390",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Margarida Praxedes Torres;"
 }

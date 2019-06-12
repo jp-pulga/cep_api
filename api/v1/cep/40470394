@@ -1,12 +1,12 @@
 {
-  "cep": "40470394",
-  "logradouro": "Praça Joanes Leste",
-  "bairro": "Lobato",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lobato;",
+    "cep": "40470394",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Praça Joanes Leste;"
 }

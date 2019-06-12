@@ -1,12 +1,12 @@
 {
-  "cep": "38302086",
-  "logradouro": "Praça Hilarião Rodrigues Chaves",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Ituiutaba",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "38302086",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ituiutaba"
+    },
+    "logradouro": "Praça Hilarião Rodrigues Chaves;"
 }

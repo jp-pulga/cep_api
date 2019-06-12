@@ -1,12 +1,12 @@
 {
-  "cep": "57055140",
-  "logradouro": "Alameda Professor Antônio Mário Mafra",
-  "bairro": "Farol",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Farol;",
+    "cep": "57055140",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Alameda Professor Antônio Mário Mafra;"
 }

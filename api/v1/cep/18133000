@@ -1,12 +1,12 @@
 {
-  "cep": "18133000",
-  "logradouro": "Rua Professor Tibério Justo da Silva",
-  "bairro": "Jardim Flórida",
-  "cidade": {
-    "nome": "São Roque",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Flórida;",
+    "cep": "18133000",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Roque"
+    },
+    "logradouro": "Rua Professor Tibério Justo da Silva;"
 }

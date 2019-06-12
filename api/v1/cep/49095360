@@ -1,12 +1,12 @@
 {
-  "cep": "49095360",
-  "logradouro": "Rua Professor José Antônio da Costa Melo",
-  "bairro": "Jabotiana",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Jabotiana;",
+    "cep": "49095360",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Professor José Antônio da Costa Melo;"
 }

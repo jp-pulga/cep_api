@@ -1,12 +1,12 @@
 {
-  "cep": "09920370",
-  "logradouro": "Rua Jacareí (Prq Jaboticabeiras)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09920370",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Rua Jacareí (Prq Jaboticabeiras);"
 }

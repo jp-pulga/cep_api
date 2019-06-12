@@ -1,12 +1,12 @@
 {
-  "cep": "13486064",
-  "logradouro": "Praça Doutor Messias Teixeira de Camargo",
-  "bairro": "Vila Santa Lúcia",
-  "cidade": {
-    "nome": "Limeira",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Santa Lúcia;",
+    "cep": "13486064",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Limeira"
+    },
+    "logradouro": "Praça Doutor Messias Teixeira de Camargo;"
 }

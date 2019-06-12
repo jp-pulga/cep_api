@@ -1,12 +1,12 @@
 {
-  "cep": "07832190",
-  "logradouro": "Rua Princesa Isabel",
-  "bairro": "Vila Leopolis",
-  "cidade": {
-    "nome": "Franco da Rocha",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Leopolis;",
+    "cep": "07832190",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franco da Rocha"
+    },
+    "logradouro": "Rua Princesa Isabel;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "40725144",
-  "logradouro": "Travessa Nova Esperança",
-  "bairro": "Praia Grande",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Praia Grande;",
+    "cep": "40725144",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Travessa Nova Esperança;"
 }

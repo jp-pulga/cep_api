@@ -1,12 +1,12 @@
 {
-  "cep": "04103055",
-  "logradouro": "Praça Professor Elias de Godói Moreira",
-  "bairro": "Paraíso",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Paraíso;",
+    "cep": "04103055",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Professor Elias de Godói Moreira;"
 }

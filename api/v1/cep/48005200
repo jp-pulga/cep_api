@@ -1,12 +1,12 @@
 {
-  "cep": "48005200",
-  "logradouro": "Loteamento Parque Floresta",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Alagoinhas",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "48005200",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Alagoinhas"
+    },
+    "logradouro": "Loteamento Parque Floresta;"
 }

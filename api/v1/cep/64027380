@@ -1,12 +1,12 @@
 {
-  "cep": "64027380",
-  "logradouro": "Rua Fênix (Vl Sta Maria)",
-  "bairro": "Promorar",
-  "cidade": {
-    "nome": "Teresina",
-    "estado": {
-      "nome": "Piauí",
-      "sigla": "PI"
-    }
-  }
+    "bairro": "Promorar;",
+    "cep": "64027380",
+    "cidade": {
+        "estado": {
+            "nome": "Piaui",
+            "sigla": "PI"
+        },
+        "nome": "Teresina"
+    },
+    "logradouro": "Rua Fênix (Vl Sta Maria);"
 }

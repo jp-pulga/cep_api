@@ -1,12 +1,12 @@
 {
-  "cep": "57040485",
-  "logradouro": "Rua Em Projeto B (Lot Jussara II)",
-  "bairro": "Jacintinho",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Jacintinho;",
+    "cep": "57040485",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Em Projeto B (Lot Jussara II);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "78125014",
-  "logradouro": "Rua Presidente Venceslau Brás (Lot P Ipiranga I)",
-  "bairro": "Centro-Sul",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78125014",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Presidente Venceslau Brás (Lot P Ipiranga I);"
 }

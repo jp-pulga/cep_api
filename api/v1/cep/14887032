@@ -1,12 +1,12 @@
 {
-  "cep": "14887032",
-  "logradouro": "Rua Professor Antônio Ruete",
-  "bairro": "Nova Jaboticabal",
-  "cidade": {
-    "nome": "Jaboticabal",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Nova Jaboticabal;",
+    "cep": "14887032",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaboticabal"
+    },
+    "logradouro": "Rua Professor Antônio Ruete;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "49095260",
-  "logradouro": "Rua Professora Maria Esther Lima Tavares",
-  "bairro": "Jabotiana",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Jabotiana;",
+    "cep": "49095260",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Professora Maria Esther Lima Tavares;"
 }

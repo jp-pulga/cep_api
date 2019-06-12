@@ -1,12 +1,12 @@
 {
-  "cep": "16021360",
-  "logradouro": "Rua Ouro Preto",
-  "bairro": "Jussara",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jussara;",
+    "cep": "16021360",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Rua Ouro Preto;"
 }

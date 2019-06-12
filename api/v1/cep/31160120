@@ -1,12 +1,12 @@
 {
-  "cep": "31160120",
-  "logradouro": "Rua Princesa Leopoldina",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "31160120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Princesa Leopoldina;"
 }

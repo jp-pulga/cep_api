@@ -1,12 +1,12 @@
 {
-  "cep": "78125021",
-  "logradouro": "Rua Presidente Nilo Peçanha (Lot P Ipiranga I)",
-  "bairro": "Centro-Sul",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78125021",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Presidente Nilo Peçanha (Lot P Ipiranga I);"
 }

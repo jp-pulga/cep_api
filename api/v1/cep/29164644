@@ -1,12 +1,12 @@
 {
-  "cep": "29164644",
-  "logradouro": "Rua Primavera",
-  "bairro": "Guaraciaba",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Guaraciaba;",
+    "cep": "29164644",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Primavera;"
 }

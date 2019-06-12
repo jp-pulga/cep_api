@@ -1,12 +1,12 @@
 {
-  "cep": "16021410",
-  "logradouro": "Praça Célio Deodato",
-  "bairro": "Iporã",
-  "cidade": {
-    "nome": "Araçatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Iporã;",
+    "cep": "16021410",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Araçatuba"
+    },
+    "logradouro": "Praça Célio Deodato;"
 }

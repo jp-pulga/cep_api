@@ -1,12 +1,12 @@
 {
-  "cep": "97545337",
-  "logradouro": "Rua Professora Eloy Caldeira da Silva",
-  "bairro": "Fênix",
-  "cidade": {
-    "nome": "Alegrete",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Fênix;",
+    "cep": "97545337",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Alegrete"
+    },
+    "logradouro": "Rua Professora Eloy Caldeira da Silva;"
 }

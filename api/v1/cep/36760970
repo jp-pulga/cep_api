@@ -1,12 +1,12 @@
 {
-  "cep": "36760970",
-  "logradouro": "AC Laranjal Praça Oriques Alexandre de Almeida 13",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Laranjal",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "36760970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Laranjal"
+    },
+    "logradouro": "Praça Oriques Alexandre de Almeida, 13  AC Laranjal;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "13803671",
-  "logradouro": "Praça Doutor Jorge Franca Camargo",
-  "bairro": "Jardim Primavera",
-  "cidade": {
-    "nome": "Mogi Mirim",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Primavera;",
+    "cep": "13803671",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Mogi Mirim"
+    },
+    "logradouro": "Praça Doutor Jorge Franca Camargo;"
 }

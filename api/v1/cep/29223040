@@ -1,12 +1,12 @@
 {
-  "cep": "29223040",
-  "logradouro": "Rua Professora Lília Pinheiro Ramalho",
-  "bairro": "Comunidade Urbana de Jaboticaba",
-  "cidade": {
-    "nome": "Guarapari",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Comunidade Urbana de Jaboticaba;",
+    "cep": "29223040",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Guarapari"
+    },
+    "logradouro": "Rua Professora Lília Pinheiro Ramalho;"
 }

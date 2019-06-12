@@ -1,12 +1,12 @@
 {
-  "cep": "12414060",
-  "logradouro": "Avenida Princesa do Norte",
-  "bairro": "Cidade Nova",
-  "cidade": {
-    "nome": "Pindamonhangaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cidade Nova;",
+    "cep": "12414060",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Pindamonhangaba"
+    },
+    "logradouro": "Avenida Princesa do Norte (Ipiranga);"
 }

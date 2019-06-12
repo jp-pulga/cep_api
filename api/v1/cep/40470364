@@ -1,12 +1,12 @@
 {
-  "cep": "40470364",
-  "logradouro": "Avenida Professor Any",
-  "bairro": "Lobato",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Lobato;",
+    "cep": "40470364",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Avenida Professor Any;"
 }

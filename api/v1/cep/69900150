@@ -1,12 +1,12 @@
 {
-  "cep": "69900150",
-  "logradouro": "Rua Rio Grande do Sul de 721/722 a 1499/1500",
-  "bairro": "Preventório",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Preventório;",
+    "cep": "69900150",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Rio Grande do Sul - de 721\/722 a 1499\/1500;"
 }

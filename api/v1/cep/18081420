@@ -1,12 +1,12 @@
 {
-  "cep": "18081420",
-  "logradouro": "Praça Olinda Alves Mendes",
-  "bairro": "Jardim Marco Antônio",
-  "cidade": {
-    "nome": "Sorocaba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Marco Antônio;",
+    "cep": "18081420",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Sorocaba"
+    },
+    "logradouro": "Praça Olinda Alves Mendes;"
 }

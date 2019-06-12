@@ -1,12 +1,12 @@
 {
-  "cep": "78090030",
-  "logradouro": "Rua Nova Olinda",
-  "bairro": "Jardim Presidente I",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Jardim Presidente;",
+    "cep": "78090030",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Rua Nova Olinda (Lot Jd Presidente I);"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "91530540",
-  "logradouro": "Praça Jardim das Oliveiras",
-  "bairro": "Partenon",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Partenon;",
+    "cep": "91530540",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Praça Jardim das Oliveiras;"
 }

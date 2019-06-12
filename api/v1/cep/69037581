@@ -1,12 +1,12 @@
 {
-  "cep": "69037581",
-  "logradouro": "Rua da Prosperidade",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "69037581",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua da Prosperidade;"
 }

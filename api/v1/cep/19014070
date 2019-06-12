@@ -1,12 +1,12 @@
 {
-  "cep": "19014070",
-  "logradouro": "Rua Ivinhema",
-  "bairro": "Vila Guaíra",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Guaíra;",
+    "cep": "19014070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Ivinhema;"
 }

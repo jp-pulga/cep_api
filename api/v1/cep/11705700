@@ -1,12 +1,12 @@
 {
-  "cep": "11705700",
-  "logradouro": "Praça Presidente Francisco de Paula Rodrigues Alves",
-  "bairro": "Maracanã",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Maracanã;",
+    "cep": "11705700",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Praça Presidente Francisco de Paula Rodrigues Alves;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "03140020",
-  "logradouro": "Rua Marechal Malet",
-  "bairro": "Parque da Vila Prudente",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque da Vila Prudente;",
+    "cep": "03140020",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Marechal Malet;"
 }

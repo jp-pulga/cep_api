@@ -1,12 +1,12 @@
 {
-  "cep": "40390265",
-  "logradouro": "Rua Promotor Rapold Filho (Jd Lobato)",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "40390265",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Promotor Rapold Filho (Jd Lobato);"
 }

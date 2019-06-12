@@ -1,12 +1,12 @@
 {
-  "cep": "35931165",
-  "logradouro": "Rua Principal",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "João Monlevade",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "35931165",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "João Monlevade"
+    },
+    "logradouro": "Rua Principal;"
 }

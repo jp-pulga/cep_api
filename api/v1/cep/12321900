@@ -1,12 +1,12 @@
 {
-  "cep": "12321900",
-  "logradouro": "I.C.I. do Brasil Avenida Presidente Humberto de Alencar Castelo Branco s/n",
-  "bairro": "Jardim Flórida",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Flórida;",
+    "cep": "12321900",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Avenida Presidente Humberto de Alencar Castelo Branco, s\/n  I.C.I. do Brasil;"
 }

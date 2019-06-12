@@ -1,12 +1,12 @@
 {
-  "cep": "49095690",
-  "logradouro": "Rua Procurador Laurindo Alves Campos",
-  "bairro": "Jabotiana",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Jabotiana;",
+    "cep": "49095690",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Procurador Laurindo Alves Campos;"
 }

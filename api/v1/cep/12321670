@@ -1,12 +1,12 @@
 {
-  "cep": "12321670",
-  "logradouro": "Praça Presidente Kennedy",
-  "bairro": "Jardim Flórida",
-  "cidade": {
-    "nome": "Jacareí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Flórida;",
+    "cep": "12321670",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jacareí"
+    },
+    "logradouro": "Praça Presidente Kennedy;"
 }

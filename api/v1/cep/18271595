@@ -1,12 +1,12 @@
 {
-  "cep": "18271595",
-  "logradouro": "Praça Maurício Camargo Almeida",
-  "bairro": "Vila Doutor Laurindo",
-  "cidade": {
-    "nome": "Tatuí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Doutor Laurindo;",
+    "cep": "18271595",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Tatuí"
+    },
+    "logradouro": "Praça Maurício Camargo Almeida;"
 }

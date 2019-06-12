@@ -1,12 +1,12 @@
 {
-  "cep": "07122111",
-  "logradouro": "Praça Alexandre Fernandes",
-  "bairro": "Vila Flórida",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Flórida;",
+    "cep": "07122111",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Praça Alexandre Fernandes;"
 }

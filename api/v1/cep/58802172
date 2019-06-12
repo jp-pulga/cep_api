@@ -1,12 +1,12 @@
 {
-  "cep": "58802172",
-  "logradouro": "Rua Francisco Alves de Morais",
-  "bairro": "Gato Preto",
-  "cidade": {
-    "nome": "Sousa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Gato Preto;",
+    "cep": "58802172",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "Sousa"
+    },
+    "logradouro": "Rua Francisco Alves de Morais;"
 }

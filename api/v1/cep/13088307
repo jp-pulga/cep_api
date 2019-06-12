@@ -1,12 +1,12 @@
 {
-  "cep": "13088307",
-  "logradouro": "Praça Doutor Luiz Antônio Pompeu de Camargo",
-  "bairro": "Parque São Quirino",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque São Quirino;",
+    "cep": "13088307",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Praça Doutor Luiz Antônio Pompeu de Camargo;"
 }

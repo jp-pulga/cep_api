@@ -1,12 +1,12 @@
 {
-  "cep": "31160220",
-  "logradouro": "Praça São Vicente de Paulo",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "31160220",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça São Vicente de Paulo;"
 }

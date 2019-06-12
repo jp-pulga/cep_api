@@ -1,12 +1,12 @@
 {
-  "cep": "05525040",
-  "logradouro": "Praça Doutor Luís Miguel Quadros",
-  "bairro": "Jardim Jussara",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Jussara;",
+    "cep": "05525040",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Doutor Luís Miguel Quadros;"
 }

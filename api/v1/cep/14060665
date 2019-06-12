@@ -1,12 +1,12 @@
 {
-  "cep": "14060665",
-  "logradouro": "Avenida Olinda Davide Morilha",
-  "bairro": "Jardim Javari",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Javari;",
+    "cep": "14060665",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Avenida Olinda Davide Morilha;"
 }

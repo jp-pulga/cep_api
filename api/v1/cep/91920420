@@ -1,12 +1,12 @@
 {
-  "cep": "91920420",
-  "logradouro": "Rua Jardim Camaquã (R Prof Dr João P P Filho)",
-  "bairro": "Camaquã",
-  "cidade": {
-    "nome": "Porto Alegre",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Camaquã;",
+    "cep": "91920420",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Porto Alegre"
+    },
+    "logradouro": "Rua Jardim Camaquã (R Prof Dr João P P Filho);"
 }

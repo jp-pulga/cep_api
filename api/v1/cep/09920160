@@ -1,12 +1,12 @@
 {
-  "cep": "09920160",
-  "logradouro": "Rua Doutor João Ribeiro (Prq Jaboticabeiras)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09920160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Rua Doutor João Ribeiro (Prq Jaboticabeiras);"
 }

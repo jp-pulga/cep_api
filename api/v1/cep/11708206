@@ -1,12 +1,12 @@
 {
-  "cep": "11708206",
-  "logradouro": "Avenida Presidente Kennedy lado par",
-  "bairro": "Flórida",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Flórida;",
+    "cep": "11708206",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Avenida Presidente Kennedy - lado par;"
 }

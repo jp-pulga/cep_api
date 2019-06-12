@@ -1,12 +1,12 @@
 {
-  "cep": "14096033",
-  "logradouro": "Condomínio Parque das Figueiras",
-  "bairro": "Ribeirânia",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Ribeirânia;",
+    "cep": "14096033",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Condomínio Parque das Figueiras;"
 }

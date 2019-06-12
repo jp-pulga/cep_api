@@ -1,12 +1,12 @@
 {
-  "cep": "31230475",
-  "logradouro": "Praça Acobane",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "31230475",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Praça Acobane;"
 }

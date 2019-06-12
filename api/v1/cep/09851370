@@ -1,12 +1,12 @@
 {
-  "cep": "09851370",
-  "logradouro": "Praça José Francisco Lopes (Jd Sta Maria)",
-  "bairro": "Alves Dias",
-  "cidade": {
-    "nome": "São Bernardo do Campo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alves Dias;",
+    "cep": "09851370",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Bernardo do Campo"
+    },
+    "logradouro": "Praça José Francisco Lopes (Jd Sta Maria);"
 }

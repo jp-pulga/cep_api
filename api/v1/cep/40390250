@@ -1,12 +1,12 @@
 {
-  "cep": "40390250",
-  "logradouro": "Rua Professora Cléa Bittencourt (Jd Lobato)",
-  "bairro": "São Caetano",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "São Caetano;",
+    "cep": "40390250",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Professora Cléa Bittencourt (Jd Lobato);"
 }

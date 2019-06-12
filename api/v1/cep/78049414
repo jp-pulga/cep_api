@@ -1,12 +1,12 @@
 {
-  "cep": "78049414",
-  "logradouro": "Avenida Primavera",
-  "bairro": "Condomínio Florais Cuiabá Residencial",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Condomínio Florais Cuiabá Residencial;",
+    "cep": "78049414",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Avenida Primavera;"
 }

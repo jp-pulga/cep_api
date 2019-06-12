@@ -1,12 +1,12 @@
 {
-  "cep": "07832165",
-  "logradouro": "Praça Marechal Deodoro",
-  "bairro": "Vila Leopolis",
-  "cidade": {
-    "nome": "Franco da Rocha",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Leopolis;",
+    "cep": "07832165",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franco da Rocha"
+    },
+    "logradouro": "Praça Marechal Deodoro;"
 }

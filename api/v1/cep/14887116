@@ -1,12 +1,12 @@
 {
-  "cep": "14887116",
-  "logradouro": "Rua Professora Ana Ramos de Carvalho de 771/772 ao fim",
-  "bairro": "Nova Jaboticabal",
-  "cidade": {
-    "nome": "Jaboticabal",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Nova Jaboticabal;",
+    "cep": "14887116",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaboticabal"
+    },
+    "logradouro": "Rua Professora Ana Ramos de Carvalho - de 771\/772 ao fim;"
 }

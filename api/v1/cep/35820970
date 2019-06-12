@@ -1,12 +1,12 @@
 {
-  "cep": "35820970",
-  "logradouro": "AC Itambé do Mato Dentro Rua Principal 4 Loja 01",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Itambé do Mato Dentro",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "35820970",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Itambé do Mato Dentro"
+    },
+    "logradouro": "Rua Principal, 4 Loja 01  AC Itambé do Mato Dentro;"
 }

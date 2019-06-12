@@ -1,12 +1,12 @@
 {
-  "cep": "12945230",
-  "logradouro": "Praça José Carlos Ribeiro",
-  "bairro": "Loteamento Loanda",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Loteamento Loanda;",
+    "cep": "12945230",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Praça José Carlos Ribeiro;"
 }

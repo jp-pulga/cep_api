@@ -1,12 +1,12 @@
 {
-  "cep": "18500970",
-  "logradouro": "AC Laranjal Paulista Praça Armando Sales de Oliveira 79",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Laranjal Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "18500970",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Laranjal Paulista"
+    },
+    "logradouro": "Praça Armando Sales de Oliveira, 79  AC Laranjal Paulista;"
 }

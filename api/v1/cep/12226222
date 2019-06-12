@@ -1,12 +1,12 @@
 {
-  "cep": "12226222",
-  "logradouro": "Rua Maria Guaraciaba Lima dos Santos",
-  "bairro": "Primavera 1B",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Primavera 1B;",
+    "cep": "12226222",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Maria Guaraciaba Lima dos Santos;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "14026392",
-  "logradouro": "Condomínio Estação Primavera",
-  "bairro": "Residencial Flórida",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Flórida;",
+    "cep": "14026392",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Condomínio Estação Primavera;"
 }

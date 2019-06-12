@@ -1,12 +1,12 @@
 {
-  "cep": "13050221",
-  "logradouro": "Rua Mário Prunes",
-  "bairro": "Jardim Indianópolis",
-  "cidade": {
-    "nome": "Campinas",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Indianópolis;",
+    "cep": "13050221",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Campinas"
+    },
+    "logradouro": "Rua Mário Prunes;"
 }

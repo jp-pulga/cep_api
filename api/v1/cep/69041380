@@ -1,12 +1,12 @@
 {
-  "cep": "69041380",
-  "logradouro": "Rua Praia Farol da Barra",
-  "bairro": "Tarumã",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Tarumã;",
+    "cep": "69041380",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Praia Farol da Barra;"
 }

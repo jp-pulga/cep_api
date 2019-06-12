@@ -1,12 +1,12 @@
 {
-  "cep": "14403267",
-  "logradouro": "Rua das Primaveras",
-  "bairro": "Jardim Flórida",
-  "cidade": {
-    "nome": "Franca",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Flórida;",
+    "cep": "14403267",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franca"
+    },
+    "logradouro": "Avenida das Primaveras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "09920170",
-  "logradouro": "Rua José Magnani (Prq Jaboticabeiras)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09920170",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Rua José Magnani (Prq Jaboticabeiras);"
 }

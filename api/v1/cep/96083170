@@ -1,12 +1,12 @@
 {
-  "cep": "96083170",
-  "logradouro": "Praça Doutor Samuel da Silva (Recanto de Portugal)",
-  "bairro": "Laranjal",
-  "cidade": {
-    "nome": "Pelotas",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Laranjal;",
+    "cep": "96083170",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Pelotas"
+    },
+    "logradouro": "Praça Doutor Samuel da Silva (Recanto de Portugal);"
 }

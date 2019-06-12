@@ -1,12 +1,12 @@
 {
-  "cep": "96840608",
-  "logradouro": "Rua Presidente Nilo Peçanha",
-  "bairro": "Faxinal Menino Deus",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Faxinal Menino Deus;",
+    "cep": "96840608",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Presidente Nilo Peçanha;"
 }

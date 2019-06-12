@@ -1,12 +1,12 @@
 {
-  "cep": "09920410",
-  "logradouro": "Rua Araraquara (Prq Jaboticabeiras)",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Diadema",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "09920410",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Diadema"
+    },
+    "logradouro": "Rua Araraquara (Prq Jaboticabeiras);"
 }

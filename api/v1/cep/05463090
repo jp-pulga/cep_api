@@ -1,12 +1,12 @@
 {
-  "cep": "05463090",
-  "logradouro": "Praça Coronel Custódio Fernandes Pinheiro",
-  "bairro": "Alto de Pinheiros",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Alto de Pinheiros;",
+    "cep": "05463090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Coronel Custódio Fernandes Pinheiro;"
 }

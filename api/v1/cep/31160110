@@ -1,12 +1,12 @@
 {
-  "cep": "31160110",
-  "logradouro": "Rua Princesa Isabel",
-  "bairro": "Ipiranga",
-  "cidade": {
-    "nome": "Belo Horizonte",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Ipiranga;",
+    "cep": "31160110",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Belo Horizonte"
+    },
+    "logradouro": "Rua Princesa Isabel;"
 }

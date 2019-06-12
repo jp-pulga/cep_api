@@ -1,12 +1,12 @@
 {
-  "cep": "49095799",
-  "logradouro": "Rua Projetada 3 (Conds Esplendor/Specialle)",
-  "bairro": "Jabotiana",
-  "cidade": {
-    "nome": "Aracaju",
-    "estado": {
-      "nome": "Sergipe",
-      "sigla": "SE"
-    }
-  }
+    "bairro": "Jabotiana;",
+    "cep": "49095799",
+    "cidade": {
+        "estado": {
+            "nome": "Sergipe",
+            "sigla": "SE"
+        },
+        "nome": "Aracaju"
+    },
+    "logradouro": "Rua Projetada 3 (Conds Esplendor\/Specialle);"
 }

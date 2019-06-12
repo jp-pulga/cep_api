@@ -1,12 +1,12 @@
 {
-  "cep": "17017333",
-  "logradouro": "Praça Guaracy Grillo",
-  "bairro": "Jardim América",
-  "cidade": {
-    "nome": "Bauru",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim América;",
+    "cep": "17017333",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bauru"
+    },
+    "logradouro": "Praça Guaracy Grillo;"
 }

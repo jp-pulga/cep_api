@@ -1,12 +1,12 @@
 {
-  "cep": "11701705",
-  "logradouro": "Rua Iporanga de 221/222 ao fim",
-  "bairro": "Guilhermina",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Guilhermina;",
+    "cep": "11701705",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Rua Iporanga - de 221\/222 ao fim;"
 }

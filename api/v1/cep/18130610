@@ -1,12 +1,12 @@
 {
-  "cep": "18130610",
-  "logradouro": "Rua Professor Guaracy Silveira",
-  "bairro": "Vila Aguiar",
-  "cidade": {
-    "nome": "São Roque",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Aguiar;",
+    "cep": "18130610",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Roque"
+    },
+    "logradouro": "Rua Professor Guaracy Silveira;"
 }

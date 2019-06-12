@@ -1,12 +1,12 @@
 {
-  "cep": "14030260",
-  "logradouro": "Rua Cônego Fernandes Pinheiro",
-  "bairro": "Vila Virgínia",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Virgínia;",
+    "cep": "14030260",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Cônego Fernandes Pinheiro;"
 }

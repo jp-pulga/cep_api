@@ -1,12 +1,12 @@
 {
-  "cep": "78098570",
-  "logradouro": "Avenida A",
-  "bairro": "Parque Nova Esperança I",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "78098570",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Avenida A (Lot Prq N Esperança I);"
 }

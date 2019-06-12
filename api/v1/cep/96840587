@@ -1,12 +1,12 @@
 {
-  "cep": "96840587",
-  "logradouro": "Rua Presidente João Goulart",
-  "bairro": "Faxinal Menino Deus",
-  "cidade": {
-    "nome": "Santa Cruz do Sul",
-    "estado": {
-      "nome": "Rio Grande do Sul",
-      "sigla": "RS"
-    }
-  }
+    "bairro": "Faxinal Menino Deus;",
+    "cep": "96840587",
+    "cidade": {
+        "estado": {
+            "nome": "Rio Grande do Sul",
+            "sigla": "RS"
+        },
+        "nome": "Santa Cruz do Sul"
+    },
+    "logradouro": "Rua Presidente João Goulart;"
 }

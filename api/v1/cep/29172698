@@ -1,12 +1,12 @@
 {
-  "cep": "29172698",
-  "logradouro": "Rua Rio Grande do Norte",
-  "bairro": "Praia da Baleia",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia da Baleia;",
+    "cep": "29172698",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Rio Grande do Norte;"
 }

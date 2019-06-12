@@ -1,12 +1,12 @@
 {
-  "cep": "14887226",
-  "logradouro": "Alameda Maestro Primo Bragioli",
-  "bairro": "Jardim São Marcos I",
-  "cidade": {
-    "nome": "Jaboticabal",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim São Marcos I;",
+    "cep": "14887226",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jaboticabal"
+    },
+    "logradouro": "Alameda Maestro Primo Bragioli;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "11708370",
-  "logradouro": "Praça Manoel José da Silva",
-  "bairro": "Flórida",
-  "cidade": {
-    "nome": "Praia Grande",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Flórida;",
+    "cep": "11708370",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Praia Grande"
+    },
+    "logradouro": "Praça Manoel José da Silva;"
 }

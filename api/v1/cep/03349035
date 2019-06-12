@@ -1,12 +1,12 @@
 {
-  "cep": "03349035",
-  "logradouro": "Praça Guaraciaba do Norte",
-  "bairro": "Vila Invernada",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Invernada;",
+    "cep": "03349035",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Praça Guaraciaba do Norte;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "57045845",
-  "logradouro": "Rua Rio Grande do Sul",
-  "bairro": "Ouro Preto",
-  "cidade": {
-    "nome": "Maceió",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Ouro Preto;",
+    "cep": "57045845",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Maceió"
+    },
+    "logradouro": "Rua Rio Grande do Sul;"
 }

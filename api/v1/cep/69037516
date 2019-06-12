@@ -1,12 +1,12 @@
 {
-  "cep": "69037516",
-  "logradouro": "Rua Professor Alfredo Fernandes",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "69037516",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Professor Alfredo Fernandes;"
 }

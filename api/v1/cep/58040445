@@ -1,12 +1,12 @@
 {
-  "cep": "58040445",
-  "logradouro": "Parque Horto Florestal",
-  "bairro": "Torre",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Torre;",
+    "cep": "58040445",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Parque Horto Florestal;"
 }

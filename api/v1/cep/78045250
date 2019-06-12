@@ -1,12 +1,12 @@
 {
-  "cep": "78045250",
-  "logradouro": "Praça General Mallet",
-  "bairro": "Quilombo",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Quilombo;",
+    "cep": "78045250",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Praça General Mallet;"
 }

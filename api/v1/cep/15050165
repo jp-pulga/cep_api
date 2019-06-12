@@ -1,12 +1,12 @@
 {
-  "cep": "15050165",
-  "logradouro": "Praça dos Jesuítas",
-  "bairro": "Vila Anchieta",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Anchieta;",
+    "cep": "15050165",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Praça dos Jesuítas;"
 }

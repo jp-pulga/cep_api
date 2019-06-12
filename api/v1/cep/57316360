@@ -1,12 +1,12 @@
 {
-  "cep": "57316360",
-  "logradouro": "Praça Carlos Gomes",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "57316360",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Praça Carlos Gomes;"
 }

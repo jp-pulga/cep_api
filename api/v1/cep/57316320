@@ -1,12 +1,12 @@
 {
-  "cep": "57316320",
-  "logradouro": "Rua Professor José Paulo Moura",
-  "bairro": "Nova Esperança",
-  "cidade": {
-    "nome": "Arapiraca",
-    "estado": {
-      "nome": "Alagoas",
-      "sigla": "AL"
-    }
-  }
+    "bairro": "Nova Esperança;",
+    "cep": "57316320",
+    "cidade": {
+        "estado": {
+            "nome": "Alagoas",
+            "sigla": "AL"
+        },
+        "nome": "Arapiraca"
+    },
+    "logradouro": "Rua Prefeito José Paulo Moura;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "39397972",
-  "logradouro": "AC Guaraciama Praça São João Batista 96",
-  "bairro": "Centro",
-  "cidade": {
-    "nome": "Guaraciama",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Centro;",
+    "cep": "39397972",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Guaraciama"
+    },
+    "logradouro": "Praça São João Batista, 96  AC Guaraciama;"
 }

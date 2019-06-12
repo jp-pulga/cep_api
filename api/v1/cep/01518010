@@ -1,12 +1,12 @@
 {
-  "cep": "01518010",
-  "logradouro": "Rua Professor Demóstenes Batista Figueira Marques",
-  "bairro": "Cambuci",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Cambuci;",
+    "cep": "01518010",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Professor Demóstenes Batista Figueira Marques;"
 }

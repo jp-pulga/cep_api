@@ -1,12 +1,12 @@
 {
-  "cep": "29101380",
-  "logradouro": "Rua Rio Grande do Norte",
-  "bairro": "Praia da Costa",
-  "cidade": {
-    "nome": "Vila Velha",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Praia da Costa;",
+    "cep": "29101380",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Vila Velha"
+    },
+    "logradouro": "Rua Rio Grande do Norte;"
 }

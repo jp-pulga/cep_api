@@ -1,12 +1,12 @@
 {
-  "cep": "78125005",
-  "logradouro": "Rua Presidente Epitácio Pessoa (Lot P Ipiranga I)",
-  "bairro": "Centro-Sul",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Centro-Sul;",
+    "cep": "78125005",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua Presidente Epitácio Pessoa (Lot P Ipiranga I);"
 }

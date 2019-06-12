@@ -1,12 +1,12 @@
 {
-  "cep": "13566865",
-  "logradouro": "Rua Professor Francisco de Oliveira Alves",
-  "bairro": "Chácara Leila",
-  "cidade": {
-    "nome": "São Carlos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Leila;",
+    "cep": "13566865",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Carlos"
+    },
+    "logradouro": "Rua Professor Francisco de Oliveira Alves;"
 }

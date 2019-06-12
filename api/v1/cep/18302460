@@ -1,12 +1,12 @@
 {
-  "cep": "18302460",
-  "logradouro": "Praça Camilo Batista Alves",
-  "bairro": "Vila São Francisco de Assis",
-  "cidade": {
-    "nome": "Capão Bonito",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila São Francisco de Assis;",
+    "cep": "18302460",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Capão Bonito"
+    },
+    "logradouro": "Praça Camilo Batista Alves;"
 }

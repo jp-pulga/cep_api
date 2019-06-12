@@ -1,12 +1,12 @@
 {
-  "cep": "06429331",
-  "logradouro": "Avenida Fênix",
-  "bairro": "Praça da Aldeia da Serra I",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Praça da Aldeia da Serra I;",
+    "cep": "06429331",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Avenida Fênix;"
 }
