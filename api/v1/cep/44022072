@@ -1,12 +1,12 @@
 {
-  "cep": "44022072",
-  "logradouro": "Rua Pedro Álvares Cabral",
-  "bairro": "Cruzeiro",
-  "cidade": {
-    "nome": "Feira de Santana",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Cruzeiro;",
+    "cep": "44022072",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Feira de Santana"
+    },
+    "logradouro": "Rua Pedro Álvares Cabral;"
 }

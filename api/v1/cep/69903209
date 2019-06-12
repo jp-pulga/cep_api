@@ -1,12 +1,12 @@
 {
-  "cep": "69903209",
-  "logradouro": "Rua Perdiz",
-  "bairro": "Conjunto Ouricurí",
-  "cidade": {
-    "nome": "Rio Branco",
-    "estado": {
-      "nome": "Acre",
-      "sigla": "AC"
-    }
-  }
+    "bairro": "Conjunto Ouricurí;",
+    "cep": "69903209",
+    "cidade": {
+        "estado": {
+            "nome": "Acre",
+            "sigla": "AC"
+        },
+        "nome": "Rio Branco"
+    },
+    "logradouro": "Rua Perdiz;"
 }

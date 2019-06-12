@@ -1,12 +1,12 @@
 {
-  "cep": "58057200",
-  "logradouro": "Rua Filomena Santana",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "58057200",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Filomena Santana;"
 }

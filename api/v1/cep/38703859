@@ -1,12 +1,12 @@
 {
-  "cep": "38703859",
-  "logradouro": "Travessa Almério Pereira de Lima",
-  "bairro": "Alto Limoeiro",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto Limoeiro;",
+    "cep": "38703859",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Travessa Almério Pereira de Lima;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38706020",
-  "logradouro": "Rua Flausino Pereira",
-  "bairro": "Jardim Paulistano",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Paulistano;",
+    "cep": "38706020",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Flausino Pereira;"
 }

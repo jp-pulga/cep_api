@@ -1,12 +1,12 @@
 {
-  "cep": "41925745",
-  "logradouro": "Rua Caio Pedreira Filho",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "41925745",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Caio Pedreira Filho;"
 }

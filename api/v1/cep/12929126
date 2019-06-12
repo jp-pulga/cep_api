@@ -1,12 +1,12 @@
 {
-  "cep": "12929126",
-  "logradouro": "Rua Dom Antônio Pedro Misiara",
-  "bairro": "Loteamento Bragança Paulista Lotes Urbanizados",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Loteamento Bragança Paulista Lotes Urbanizados;",
+    "cep": "12929126",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Rua Dom Antônio Pedro Misiara;"
 }

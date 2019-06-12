@@ -1,12 +1,12 @@
 {
-  "cep": "29936130",
-  "logradouro": "Rua Zenor Pedrosa Rocha",
-  "bairro": "Ribeirão",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Ribeirão;",
+    "cep": "29936130",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Zenor Pedrosa Rocha;"
 }

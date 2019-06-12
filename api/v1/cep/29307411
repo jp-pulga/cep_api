@@ -1,12 +1,12 @@
 {
-  "cep": "29307411",
-  "logradouro": "Rua Santa Terezinha",
-  "bairro": "Nossa Senhora da Penha",
-  "cidade": {
-    "nome": "Cachoeiro de Itapemirim",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Nossa Senhora da Penha;",
+    "cep": "29307411",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Cachoeiro de Itapemirim"
+    },
+    "logradouro": "Rua Santa Terezinha;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "69084430",
-  "logradouro": "Rua Padre Marcelino Champagnat",
-  "bairro": "Zumbi dos Palmares",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Zumbi dos Palmares;",
+    "cep": "69084430",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Padre Marcelino Champagnat;"
 }

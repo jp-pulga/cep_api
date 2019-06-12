@@ -1,12 +1,12 @@
 {
-  "cep": "29164011",
-  "logradouro": "Rua Pernambuco",
-  "bairro": "Jardim Limoeiro",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Limoeiro;",
+    "cep": "29164011",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Pernambuco;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "11667805",
-  "logradouro": "Rua Pedro Amaral Paulista",
-  "bairro": "Jardim Porto Novo",
-  "cidade": {
-    "nome": "Caraguatatuba",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Porto Novo;",
+    "cep": "11667805",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Caraguatatuba"
+    },
+    "logradouro": "Rua Pedro Amaral Paulista;"
 }

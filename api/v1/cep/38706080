@@ -1,12 +1,12 @@
 {
-  "cep": "38706080",
-  "logradouro": "Rua Aleixo Pereira",
-  "bairro": "Jardim Paulistano",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Paulistano;",
+    "cep": "38706080",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Aleixo Pereira;"
 }

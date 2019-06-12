@@ -1,12 +1,12 @@
 {
-  "cep": "07863100",
-  "logradouro": "Rua do Amor Perfeito",
-  "bairro": "Vila Palmares",
-  "cidade": {
-    "nome": "Franco da Rocha",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Palmares;",
+    "cep": "07863100",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Franco da Rocha"
+    },
+    "logradouro": "Rua do Amor Perfeito;"
 }

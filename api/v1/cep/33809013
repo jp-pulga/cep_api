@@ -1,12 +1,12 @@
 {
-  "cep": "33809013",
-  "logradouro": "Alameda Pelicanos",
-  "bairro": "Jardim Colonial",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Colonial;",
+    "cep": "33809013",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Alameda Pelicanos;"
 }

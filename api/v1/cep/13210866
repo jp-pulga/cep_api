@@ -1,12 +1,12 @@
 {
-  "cep": "13210866",
-  "logradouro": "Alameda Dom Pedro II",
-  "bairro": "Chácara Terra Nova",
-  "cidade": {
-    "nome": "Jundiaí",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Chácara Terra Nova;",
+    "cep": "13210866",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Jundiaí"
+    },
+    "logradouro": "Alameda Dom Pedro II;"
 }

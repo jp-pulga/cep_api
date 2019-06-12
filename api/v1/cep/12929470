@@ -1,12 +1,12 @@
 {
-  "cep": "12929470",
-  "logradouro": "Avenida Nossa Senhora da Penha",
-  "bairro": "Penha",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Penha;",
+    "cep": "12929470",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Avenida Nossa Senhora da Penha;"
 }

@@ -1,12 +1,11 @@
 {
-  "cep": "13520993",
-  "logradouro": "EMEIF Dr. Celso Silveira Mello Rua Rio Piracicaba s/n Bairro Vertentes",
-  "bairro": "",
-  "cidade": {
-    "nome": "São Pedro",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "cep": "13520993",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Pedro"
+    },
+    "logradouro": "Rua Rio Piracicaba, s\/n, Bairro Vertentes  CPC EMEIF Dr. Celso Silveira Mello;"
 }

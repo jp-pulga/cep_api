@@ -1,12 +1,12 @@
 {
-  "cep": "32015330",
-  "logradouro": "Rua Pedro Henrique Trindade da Silva",
-  "bairro": "Canadá",
-  "cidade": {
-    "nome": "Contagem",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Canadá;",
+    "cep": "32015330",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Contagem"
+    },
+    "logradouro": "Rua Pedro Henrique Trindade da Silva;"
 }

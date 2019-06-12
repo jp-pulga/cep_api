@@ -1,12 +1,12 @@
 {
-  "cep": "58020070",
-  "logradouro": "Rua Santa Teresinha",
-  "bairro": "Roger",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Roger;",
+    "cep": "58020070",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Santa Teresinha;"
 }

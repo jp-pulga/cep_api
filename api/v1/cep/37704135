@@ -1,12 +1,12 @@
 {
-  "cep": "37704135",
-  "logradouro": "Rua Pedro Parisi",
-  "bairro": "Parque Primavera",
-  "cidade": {
-    "nome": "Poços de Caldas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Parque Primavera;",
+    "cep": "37704135",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Poços de Caldas"
+    },
+    "logradouro": "Rua Pedro Parisi;"
 }

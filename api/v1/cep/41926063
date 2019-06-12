@@ -1,12 +1,12 @@
 {
-  "cep": "41926063",
-  "logradouro": "Rua Dias (V Pedrinhas)",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "41926063",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Dias (V Pedrinhas);"
 }

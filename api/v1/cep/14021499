@@ -1,12 +1,12 @@
 {
-  "cep": "14021499",
-  "logradouro": "Rua Antônio Leite Penteado",
-  "bairro": "City Ribeirão",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "City Ribeirão;",
+    "cep": "14021499",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Antônio Leite Penteado;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "33825130",
-  "logradouro": "Rua Adenísia Pereira de Souza",
-  "bairro": "Florença",
-  "cidade": {
-    "nome": "Ribeirão das Neves",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Florença;",
+    "cep": "33825130",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ribeirão das Neves"
+    },
+    "logradouro": "Rua Adenísia Pereira de Souza;"
 }

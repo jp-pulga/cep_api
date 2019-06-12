@@ -1,12 +1,12 @@
 {
-  "cep": "78015595",
-  "logradouro": "Travessa Padre Ernesto Camilo Barreto",
-  "bairro": "Poção",
-  "cidade": {
-    "nome": "Cuiabá",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Poção;",
+    "cep": "78015595",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Cuiabá"
+    },
+    "logradouro": "Travessa Padre Ernesto Camilo Barreto;"
 }

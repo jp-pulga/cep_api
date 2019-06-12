@@ -1,12 +1,12 @@
 {
-  "cep": "58070220",
-  "logradouro": "Rua Vicência Lianza",
-  "bairro": "Varjão",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Varjão;",
+    "cep": "58070220",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua Vicência Lianza;"
 }

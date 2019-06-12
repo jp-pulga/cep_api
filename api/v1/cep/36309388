@@ -1,12 +1,12 @@
 {
-  "cep": "36309388",
-  "logradouro": "Rua Raul de Oliveira Pereira",
-  "bairro": "Vila São Bento",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila São Bento;",
+    "cep": "36309388",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Raul de Oliveira Pereira;"
 }

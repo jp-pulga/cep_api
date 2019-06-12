@@ -1,12 +1,12 @@
 {
-  "cep": "29164049",
-  "logradouro": "Rua Fernando Pessoa",
-  "bairro": "Jardim Limoeiro",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Limoeiro;",
+    "cep": "29164049",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua Fernando Pessoa;"
 }

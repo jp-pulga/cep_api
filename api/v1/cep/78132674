@@ -1,12 +1,12 @@
 {
-  "cep": "78132674",
-  "logradouro": "Rua das Petúnias (Cohab Primavera)",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Várzea Grande",
-    "estado": {
-      "nome": "Mato Grosso",
-      "sigla": "MT"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "78132674",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso",
+            "sigla": "MT"
+        },
+        "nome": "Várzea Grande"
+    },
+    "logradouro": "Rua das Petúnias (Cohab Primavera);"
 }

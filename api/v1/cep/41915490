@@ -1,12 +1,12 @@
 {
-  "cep": "41915490",
-  "logradouro": "Rua das Pedreiras",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "41915490",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua das Pedreiras;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "38183260",
-  "logradouro": "Rua Antônio Pedro da Costa",
-  "bairro": "Vila Santa Terezinha",
-  "cidade": {
-    "nome": "Araxá",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Vila Santa Terezinha;",
+    "cep": "38183260",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Araxá"
+    },
+    "logradouro": "Rua Antônio Pedro da Costa;"
 }

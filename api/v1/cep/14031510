@@ -1,12 +1,12 @@
 {
-  "cep": "14031510",
-  "logradouro": "Rua Benedito Fernandes Pereira",
-  "bairro": "Parque Ribeirão Preto",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Parque Ribeirão Preto;",
+    "cep": "14031510",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Benedito Fernandes Pereira;"
 }

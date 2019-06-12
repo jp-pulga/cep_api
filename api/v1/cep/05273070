@@ -1,12 +1,12 @@
 {
-  "cep": "05273070",
-  "logradouro": "Rua Padre Josino",
-  "bairro": "Vila dos Palmares",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila dos Palmares;",
+    "cep": "05273070",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Padre Josino;"
 }

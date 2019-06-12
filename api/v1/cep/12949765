@@ -1,12 +1,12 @@
 {
-  "cep": "12949765",
-  "logradouro": "Rua Cinco",
-  "bairro": "Recanto dos Palmares",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Recanto dos Palmares;",
+    "cep": "12949765",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Rua Padre Antônio Vieira;"
 }

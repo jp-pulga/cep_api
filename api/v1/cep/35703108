@@ -1,12 +1,12 @@
 {
-  "cep": "35703108",
-  "logradouro": "Rua Luiz Pereira do Nascimento",
-  "bairro": "Jardim Primavera II",
-  "cidade": {
-    "nome": "Sete Lagoas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Primavera II;",
+    "cep": "35703108",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Sete Lagoas"
+    },
+    "logradouro": "Rua Luiz Pereira do Nascimento;"
 }

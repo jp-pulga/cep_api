@@ -1,12 +1,12 @@
 {
-  "cep": "38703868",
-  "logradouro": "Rua Alfeu Antônio Pereira",
-  "bairro": "Alto Limoeiro",
-  "cidade": {
-    "nome": "Patos de Minas",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Alto Limoeiro;",
+    "cep": "38703868",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Patos de Minas"
+    },
+    "logradouro": "Rua Alfeu Antônio Pereira;"
 }

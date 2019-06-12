@@ -1,12 +1,12 @@
 {
-  "cep": "36309350",
-  "logradouro": "Praça Padre José Antônio Teixeira",
-  "bairro": "São José Operário",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São José Operário;",
+    "cep": "36309350",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Praça Padre José Antônio Teixeira;"
 }

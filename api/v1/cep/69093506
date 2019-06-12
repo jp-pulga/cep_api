@@ -1,12 +1,12 @@
 {
-  "cep": "69093506",
-  "logradouro": "Beco São Pedro",
-  "bairro": "Colônia Terra Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Colônia Terra Nova;",
+    "cep": "69093506",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Beco São Pedro;"
 }

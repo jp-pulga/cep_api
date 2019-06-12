@@ -1,12 +1,12 @@
 {
-  "cep": "07134090",
-  "logradouro": "Rua São Pedro do Paraná",
-  "bairro": "Vila São João Batista",
-  "cidade": {
-    "nome": "Guarulhos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila São João Batista;",
+    "cep": "07134090",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Guarulhos"
+    },
+    "logradouro": "Rua São Pedro do Paraná;"
 }

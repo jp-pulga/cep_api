@@ -1,12 +1,12 @@
 {
-  "cep": "35500854",
-  "logradouro": "Rua Doracy Nogueira Penido",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Divinópolis",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "35500854",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Divinópolis"
+    },
+    "logradouro": "Rua Doracy Nogueira Penido;"
 }

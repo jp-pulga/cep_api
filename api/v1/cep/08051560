@@ -1,12 +1,12 @@
 {
-  "cep": "08051560",
-  "logradouro": "Rua Padre Orlando Nogueira",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "08051560",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua Padre Orlando Nogueira;"
 }

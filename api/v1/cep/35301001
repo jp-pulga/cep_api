@@ -1,12 +1,12 @@
 {
-  "cep": "35301001",
-  "logradouro": "Praça Jones de Oliveira Pena",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Caratinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "35301001",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Caratinga"
+    },
+    "logradouro": "Praça Jones de Oliveira Pena;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41925085",
-  "logradouro": "Rua Iquebana (V Pedrinhas)",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "41925085",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Iquebana (V Pedrinhas);"
 }

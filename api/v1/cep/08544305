@@ -1,12 +1,12 @@
 {
-  "cep": "08544305",
-  "logradouro": "Rua Pedro da Cruz Salgueiro Filho",
-  "bairro": "Jardim Helena",
-  "cidade": {
-    "nome": "Ferraz de Vasconcelos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Helena;",
+    "cep": "08544305",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ferraz de Vasconcelos"
+    },
+    "logradouro": "Rua Pedro da Cruz Salgueiro Filho;"
 }

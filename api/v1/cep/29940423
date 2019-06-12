@@ -1,12 +1,12 @@
 {
-  "cep": "29940423",
-  "logradouro": "Rua Nossa Senhora da Penha",
-  "bairro": "Comunidade Paulista",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Comunidade Paulista;",
+    "cep": "29940423",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua Nossa Senhora da Penha;"
 }

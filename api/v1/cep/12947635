@@ -1,12 +1,12 @@
 {
-  "cep": "12947635",
-  "logradouro": "Rua São Pedro",
-  "bairro": "Jardim Paulista",
-  "cidade": {
-    "nome": "Atibaia",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paulista;",
+    "cep": "12947635",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Atibaia"
+    },
+    "logradouro": "Rua São Pedro;"
 }

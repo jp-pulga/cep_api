@@ -1,12 +1,12 @@
 {
-  "cep": "14021178",
-  "logradouro": "Rua Maria Saretta Péra",
-  "bairro": "City Ribeirão",
-  "cidade": {
-    "nome": "Ribeirão Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "City Ribeirão;",
+    "cep": "14021178",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Ribeirão Preto"
+    },
+    "logradouro": "Rua Maria Saretta Péra;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "41925735",
-  "logradouro": "Rua Bela Vista (V Pedrinhas)",
-  "bairro": "Santa Cruz",
-  "cidade": {
-    "nome": "Salvador",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Santa Cruz;",
+    "cep": "41925735",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Salvador"
+    },
+    "logradouro": "Rua Bela Vista (V Pedrinhas);"
 }

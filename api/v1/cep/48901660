@@ -1,12 +1,12 @@
 {
-  "cep": "48901660",
-  "logradouro": "Rua Padre José Carlos Oliveira",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Juazeiro",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "48901660",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Juazeiro"
+    },
+    "logradouro": "Rua Padre José Carlos Oliveira;"
 }

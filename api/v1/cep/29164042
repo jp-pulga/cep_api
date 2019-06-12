@@ -1,12 +1,12 @@
 {
-  "cep": "29164042",
-  "logradouro": "Rua São Pedro",
-  "bairro": "Jardim Limoeiro",
-  "cidade": {
-    "nome": "Serra",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Jardim Limoeiro;",
+    "cep": "29164042",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Serra"
+    },
+    "logradouro": "Rua São Pedro;"
 }

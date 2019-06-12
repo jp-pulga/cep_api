@@ -1,12 +1,12 @@
 {
-  "cep": "69015673",
-  "logradouro": "Rua Lino Pereira",
-  "bairro": "Colônia Terra Nova",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Colônia Terra Nova;",
+    "cep": "69015673",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Lino Pereira;"
 }

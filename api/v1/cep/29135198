@@ -1,12 +1,12 @@
 {
-  "cep": "29135198",
-  "logradouro": "Rua Pernambuco",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "29135198",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Pernambuco;"
 }

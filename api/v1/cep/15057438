@@ -1,12 +1,12 @@
 {
-  "cep": "15057438",
-  "logradouro": "Rua Zózimo Pereira",
-  "bairro": "Residencial Santa Filomena",
-  "cidade": {
-    "nome": "São José do Rio Preto",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Residencial Santa Filomena;",
+    "cep": "15057438",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José do Rio Preto"
+    },
+    "logradouro": "Rua Zózimo Pereira;"
 }

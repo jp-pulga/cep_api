@@ -1,12 +1,12 @@
 {
-  "cep": "19064355",
-  "logradouro": "Rua Alzira Pereira Trindade",
-  "bairro": "Conjunto Habitacional Ana Jacinta",
-  "cidade": {
-    "nome": "Presidente Prudente",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Conjunto Habitacional Ana Jacinta;",
+    "cep": "19064355",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Presidente Prudente"
+    },
+    "logradouro": "Rua Alzira Pereira Trindade;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "36300378",
-  "logradouro": "Rua Maestro Persiliano",
-  "bairro": "São Geraldo",
-  "cidade": {
-    "nome": "São João Del Rei",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "São Geraldo;",
+    "cep": "36300378",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "São João Del Rei"
+    },
+    "logradouro": "Rua Maestro Persiliano;"
 }

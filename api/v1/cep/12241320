@@ -1,12 +1,12 @@
 {
-  "cep": "12241320",
-  "logradouro": "Rua Benedito Joaquim Pereira",
-  "bairro": "Jardim Limoeiro",
-  "cidade": {
-    "nome": "São José dos Campos",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Limoeiro;",
+    "cep": "12241320",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São José dos Campos"
+    },
+    "logradouro": "Rua Benedito Joaquim Pereira;"
 }

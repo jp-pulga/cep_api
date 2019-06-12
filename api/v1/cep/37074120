@@ -1,12 +1,12 @@
 {
-  "cep": "37074120",
-  "logradouro": "Rua Álvaro Rodrigues Pereira",
-  "bairro": "Santa Terezinha",
-  "cidade": {
-    "nome": "Varginha",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Santa Terezinha;",
+    "cep": "37074120",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Varginha"
+    },
+    "logradouro": "Rua Álvaro Rodrigues Pereira;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "12081810",
-  "logradouro": "Avenida Dom Pedro I até 1074/1075",
-  "bairro": "Terra Nova",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Terra Nova;",
+    "cep": "12081810",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Avenida Dom Pedro I - até 1074\/1075;"
 }

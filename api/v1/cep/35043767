@@ -1,12 +1,12 @@
 {
-  "cep": "35043767",
-  "logradouro": "Rua Pedro de Tassis",
-  "bairro": "Jardim Primavera",
-  "cidade": {
-    "nome": "Governador Valadares",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Jardim Primavera;",
+    "cep": "35043767",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Governador Valadares"
+    },
+    "logradouro": "Rua Pedro de Tassis;"
 }

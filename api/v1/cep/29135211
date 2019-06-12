@@ -1,12 +1,12 @@
 {
-  "cep": "29135211",
-  "logradouro": "Rua Pedrelina Caetano Rodrigues",
-  "bairro": "Primavera",
-  "cidade": {
-    "nome": "Viana",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Primavera;",
+    "cep": "29135211",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "Viana"
+    },
+    "logradouro": "Rua Pedrelina Caetano Rodrigues;"
 }

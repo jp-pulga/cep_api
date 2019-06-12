@@ -1,12 +1,12 @@
 {
-  "cep": "12912160",
-  "logradouro": "Avenida Padre Egídio José Porto",
-  "bairro": "Jardim Anchieta",
-  "cidade": {
-    "nome": "Bragança Paulista",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Anchieta;",
+    "cep": "12912160",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Bragança Paulista"
+    },
+    "logradouro": "Avenida Padre Egídio José Porto;"
 }

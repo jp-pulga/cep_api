@@ -1,12 +1,12 @@
 {
-  "cep": "12081830",
-  "logradouro": "Rua Professor Pio Telles Peixoto",
-  "bairro": "Terra Nova",
-  "cidade": {
-    "nome": "Taubaté",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Terra Nova;",
+    "cep": "12081830",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Taubaté"
+    },
+    "logradouro": "Rua Professor Pio Telles Peixoto;"
 }

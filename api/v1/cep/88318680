@@ -1,12 +1,12 @@
 {
-  "cep": "88318680",
-  "logradouro": "Rua Jaime Pedro Alves",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "88318680",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Jaime Pedro Alves;"
 }

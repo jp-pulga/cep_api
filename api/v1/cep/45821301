@@ -1,12 +1,12 @@
 {
-  "cep": "45821301",
-  "logradouro": "Avenida Pedro José da Trindade",
-  "bairro": "Antares",
-  "cidade": {
-    "nome": "Eunápolis",
-    "estado": {
-      "nome": "Bahia",
-      "sigla": "BA"
-    }
-  }
+    "bairro": "Antares;",
+    "cep": "45821301",
+    "cidade": {
+        "estado": {
+            "nome": "Bahia",
+            "sigla": "BA"
+        },
+        "nome": "Eunápolis"
+    },
+    "logradouro": "Avenida Pedro José da Trindade;"
 }

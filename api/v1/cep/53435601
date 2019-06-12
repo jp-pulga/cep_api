@@ -1,12 +1,12 @@
 {
-  "cep": "53435601",
-  "logradouro": "1ª Travessa São José do Egito",
-  "bairro": "Pau Amarelo",
-  "cidade": {
-    "nome": "Paulista",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Pau Amarelo;",
+    "cep": "53435601",
+    "cidade": {
+        "estado": {
+            "nome": "Pernambuco",
+            "sigla": "PE"
+        },
+        "nome": "Paulista"
+    },
+    "logradouro": "1ª Travessa São José do Egito;"
 }

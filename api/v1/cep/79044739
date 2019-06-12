@@ -1,12 +1,12 @@
 {
-  "cep": "79044739",
-  "logradouro": "Avenida Perimetral",
-  "bairro": "Lagoa Rica",
-  "cidade": {
-    "nome": "Campo Grande",
-    "estado": {
-      "nome": "Mato Grosso do Sul",
-      "sigla": "MS"
-    }
-  }
+    "bairro": "Lagoa Rica;",
+    "cep": "79044739",
+    "cidade": {
+        "estado": {
+            "nome": "Mato Grosso do Sul",
+            "sigla": "MS"
+        },
+        "nome": "Campo Grande"
+    },
+    "logradouro": "Avenida Perimetral;"
 }

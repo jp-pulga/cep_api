@@ -1,12 +1,12 @@
 {
-  "cep": "06447185",
-  "logradouro": "Rua Pedro José de Andrade",
-  "bairro": "Jardim Paulista",
-  "cidade": {
-    "nome": "Barueri",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Jardim Paulista;",
+    "cep": "06447185",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "Barueri"
+    },
+    "logradouro": "Rua Pedro José de Andrade;"
 }

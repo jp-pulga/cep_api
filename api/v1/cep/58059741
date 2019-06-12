@@ -1,12 +1,12 @@
 {
-  "cep": "58059741",
-  "logradouro": "Rua dos Salgueiros",
-  "bairro": "Mangabeira",
-  "cidade": {
-    "nome": "João Pessoa",
-    "estado": {
-      "nome": "Paraíba",
-      "sigla": "PB"
-    }
-  }
+    "bairro": "Mangabeira;",
+    "cep": "58059741",
+    "cidade": {
+        "estado": {
+            "nome": "Paraíba",
+            "sigla": "PB"
+        },
+        "nome": "João Pessoa"
+    },
+    "logradouro": "Rua dos Salgueiros;"
 }

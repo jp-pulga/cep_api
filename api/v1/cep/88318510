@@ -1,12 +1,12 @@
 {
-  "cep": "88318510",
-  "logradouro": "Rua Pedro Angioletti",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Itajaí",
-    "estado": {
-      "nome": "Santa Catarina",
-      "sigla": "SC"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "88318510",
+    "cidade": {
+        "estado": {
+            "nome": "Santa Catarina",
+            "sigla": "SC"
+        },
+        "nome": "Itajaí"
+    },
+    "logradouro": "Rua Pedro Angioletti;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "05731430",
-  "logradouro": "Rua São João do Pernambuco",
-  "bairro": "Vila Ernesto",
-  "cidade": {
-    "nome": "São Paulo",
-    "estado": {
-      "nome": "São Paulo",
-      "sigla": "SP"
-    }
-  }
+    "bairro": "Vila Ernesto;",
+    "cep": "05731430",
+    "cidade": {
+        "estado": {
+            "nome": "São Paulo",
+            "sigla": "SP"
+        },
+        "nome": "São Paulo"
+    },
+    "logradouro": "Rua São João do Pernambuco;"
 }

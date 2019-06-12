@@ -1,12 +1,12 @@
 {
-  "cep": "69153160",
-  "logradouro": "Rua Padre Victor",
-  "bairro": "Palmares",
-  "cidade": {
-    "nome": "Parintins",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Palmares;",
+    "cep": "69153160",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Parintins"
+    },
+    "logradouro": "Rua Padre Victor;"
 }

@@ -1,12 +1,12 @@
 {
-  "cep": "29940430",
-  "logradouro": "Rua São Pedro",
-  "bairro": "Comunidade Paulista",
-  "cidade": {
-    "nome": "São Mateus",
-    "estado": {
-      "nome": "Espirito Santo",
-      "sigla": "ES"
-    }
-  }
+    "bairro": "Comunidade Paulista;",
+    "cep": "29940430",
+    "cidade": {
+        "estado": {
+            "nome": "Espírito Santo",
+            "sigla": "ES"
+        },
+        "nome": "São Mateus"
+    },
+    "logradouro": "Rua São Pedro;"
 }

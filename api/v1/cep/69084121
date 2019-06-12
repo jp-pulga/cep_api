@@ -1,12 +1,12 @@
 {
-  "cep": "69084121",
-  "logradouro": "Rua Padre Flávio",
-  "bairro": "Zumbi dos Palmares",
-  "cidade": {
-    "nome": "Manaus",
-    "estado": {
-      "nome": "Amazonas",
-      "sigla": "AM"
-    }
-  }
+    "bairro": "Zumbi dos Palmares;",
+    "cep": "69084121",
+    "cidade": {
+        "estado": {
+            "nome": "Amazonas",
+            "sigla": "AM"
+        },
+        "nome": "Manaus"
+    },
+    "logradouro": "Rua Padre Flávio;"
 }

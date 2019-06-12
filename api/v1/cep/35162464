@@ -1,12 +1,12 @@
 {
-  "cep": "35162464",
-  "logradouro": "Rua Peras",
-  "bairro": "Limoeiro",
-  "cidade": {
-    "nome": "Ipatinga",
-    "estado": {
-      "nome": "Minas Gerais",
-      "sigla": "MG"
-    }
-  }
+    "bairro": "Limoeiro;",
+    "cep": "35162464",
+    "cidade": {
+        "estado": {
+            "nome": "Minas Gerais",
+            "sigla": "MG"
+        },
+        "nome": "Ipatinga"
+    },
+    "logradouro": "Rua Peras;"
 }
